@@ -1,0 +1,42 @@
+{
+  "title": "Signal Cathedral",
+  "collection": "dark",
+  "slug": "dark_12_signal_cathedral",
+  "model": "V6",
+  "style": "Early 90s EBM, 128 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, numbers-station radio transmissions, growled heavily processed male vocal, cold paranoid cyberpunk dancefloor energy",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Numbers station) Seven. Four. Zero.\n\n[Verse]\nTowers are humming\nCodes in the rain\nSomebody's listening\nCalling my name\n\n[Chorus]\nSignal cathedral\nPray to the frequency\nSignal cathedral\nNobody's free\n\n[Bridge]\n(Whispered, filtered) Do you copy\nDo you copy\n\n[Chorus]\nSignal cathedral\nPray to the frequency",
+  "taskId": "447aa744e8372765b46e04540dcdd992",
+  "sunoClipIds": [
+    "06b19a21-d9e3-4706-b294-f98a980f9663",
+    "4fc1b274-9d0e-4633-a3ba-da2018ed627a"
+  ],
+  "created": "Oct 24, 2026 6:33 PM ET",
+  "createTimeMs": 1792881215461,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "06b19a21-d9e3-4706-b294-f98a980f9663",
+      "durationSec": 239.92,
+      "file": "dark/dark_12_signal_cathedral_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "4fc1b274-9d0e-4633-a3ba-da2018ed627a",
+      "durationSec": 239.6,
+      "file": "dark/dark_12_signal_cathedral_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/dark_12_signal_cathedral_req.json",
+    "dark/dark_12_signal_cathedral_rec.json"
+  ]
+}

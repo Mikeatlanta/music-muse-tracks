@@ -1,0 +1,42 @@
+{
+  "title": "Iron Psalm",
+  "collection": "dark",
+  "slug": "dark_11_iron_psalm",
+  "model": "V6",
+  "style": "Early 90s EBM, 124 BPM, pulsing sequenced bass, hard machine drums, metallic synth stabs, distant factory siren loops, growled heavily processed male vocal, militant industrial dancefloor energy",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Factory hiss) Shift begins.\n\n[Verse]\nRust on the anvils\nSmoke in the lungs\nHammers keep counting\nWhat nobody sung\n\n[Chorus]\nIron psalm\nPound it in the palm\nIron psalm\nNo one stays calm\n\n[Bridge]\n(Distorted) Keep the rhythm\nKeep the rhythm\n\n[Chorus]\nIron psalm\nPound it in the palm",
+  "taskId": "a16fa7a45cd7cf3652d75a26c9fd4d87",
+  "sunoClipIds": [
+    "8bd41fbc-7c43-42ce-bacd-ed9e176476de",
+    "a3d00511-2a56-43e9-ac01-e2d2f7fb5320"
+  ],
+  "created": "Oct 24, 2026 6:33 PM ET",
+  "createTimeMs": 1792881217283,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "8bd41fbc-7c43-42ce-bacd-ed9e176476de",
+      "durationSec": 238.84,
+      "file": "dark/dark_11_iron_psalm_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a3d00511-2a56-43e9-ac01-e2d2f7fb5320",
+      "durationSec": 238.76,
+      "file": "dark/dark_11_iron_psalm_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/dark_11_iron_psalm_req.json",
+    "dark/dark_11_iron_psalm_rec.json"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Grace Found My Name",
+  "collection": "faith",
+  "slug": "grace_found_my_name",
+  "model": "V6",
+  "style": "contemporary gospel ballad, inspirational soul, warm grand piano, Hammond organ swells, lush strings, mature soulful female vocal, rich gospel choir, 76 bpm, grateful, joyful, triumphant build",
+  "negativeTags": "trap, EDM, rock, distorted, rap, country",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Gentle piano, humming choir)\n\n[Verse 1]\nI was standing at the back door\nWith my head bowed down in shame\nI had lost my way so many times\nI forgot my own name\n\n[Pre-Chorus]\nBut a voice broke through the silence\nAnd it called me by my name\n\n[Chorus]\nGrace found my name\nWhen I was far away\nGrace found my name\nAnd washed the past away\nI was lost in the crowd, but You called me out\nGrace found my name\n\n[Verse 2]\nNow I'm sitting at the table\nWhere I never thought I'd be\nWith the robe and ring He gave me\nAnd a love that set me free\n\n[Pre-Chorus]\nI don't have to earn the welcome\nI just have to come on home\n\n[Chorus]\nGrace found my name\nWhen I was far away\nGrace found my name\nAnd washed the past away\nI was lost in the crowd, but You called me out\nGrace found my name\n\n[Bridge]\n(Choir enters, building)\nI'm not who I used to be, not who I used to be\nYou wrote a brand-new story over me\n(Lead ad-libs over choir)\n\n[Final Chorus]\n(Key change, full choir)\nGrace found my name\nWhen I was far away\nGrace found my name\nAnd washed the past away\nI was lost in the crowd, but You called me out\nGrace found my name\n\n[Outro]\n(Piano and soft choir)\nGrace found my name",
+  "taskId": "722da3eff4895a82281c8e2f8676d684",
+  "sunoClipIds": [
+    "ba9d64b2-f294-4997-a49e-b150468b19a6",
+    "361f6e08-3b46-4acb-b81e-f1ef18be0655"
+  ],
+  "created": "Oct 24, 2026 6:33 PM ET",
+  "createTimeMs": 1792881215448,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ba9d64b2-f294-4997-a49e-b150468b19a6",
+      "durationSec": 239.88,
+      "file": "faith/grace_found_my_name_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "361f6e08-3b46-4acb-b81e-f1ef18be0655",
+      "durationSec": 239.6,
+      "file": "faith/grace_found_my_name_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "faith/grace_found_my_name_req.json",
+    "faith/grace_found_my_name_rec.json"
+  ]
+}

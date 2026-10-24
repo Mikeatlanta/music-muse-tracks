@@ -1678,5 +1678,173 @@
       "ss_req.json",
       "salt_and_sunlight_rec.json"
     ]
+  },
+  {
+    "title": "Iron Psalm",
+    "collection": "dark",
+    "slug": "dark_11_iron_psalm",
+    "model": "V6",
+    "style": "Early 90s EBM, 124 BPM, pulsing sequenced bass, hard machine drums, metallic synth stabs, distant factory siren loops, growled heavily processed male vocal, militant industrial dancefloor energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Factory hiss) Shift begins.\n\n[Verse]\nRust on the anvils\nSmoke in the lungs\nHammers keep counting\nWhat nobody sung\n\n[Chorus]\nIron psalm\nPound it in the palm\nIron psalm\nNo one stays calm\n\n[Bridge]\n(Distorted) Keep the rhythm\nKeep the rhythm\n\n[Chorus]\nIron psalm\nPound it in the palm",
+    "taskId": "a16fa7a45cd7cf3652d75a26c9fd4d87",
+    "sunoClipIds": [
+      "8bd41fbc-7c43-42ce-bacd-ed9e176476de",
+      "a3d00511-2a56-43e9-ac01-e2d2f7fb5320"
+    ],
+    "created": "Oct 24, 2026 6:33 PM ET",
+    "createTimeMs": 1792881217283,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "8bd41fbc-7c43-42ce-bacd-ed9e176476de",
+        "durationSec": 238.84,
+        "file": "dark/dark_11_iron_psalm_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "a3d00511-2a56-43e9-ac01-e2d2f7fb5320",
+        "durationSec": 238.76,
+        "file": "dark/dark_11_iron_psalm_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/dark_11_iron_psalm_req.json",
+      "dark/dark_11_iron_psalm_rec.json"
+    ]
+  },
+  {
+    "title": "Signal Cathedral",
+    "collection": "dark",
+    "slug": "dark_12_signal_cathedral",
+    "model": "V6",
+    "style": "Early 90s EBM, 128 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, numbers-station radio transmissions, growled heavily processed male vocal, cold paranoid cyberpunk dancefloor energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Numbers station) Seven. Four. Zero.\n\n[Verse]\nTowers are humming\nCodes in the rain\nSomebody's listening\nCalling my name\n\n[Chorus]\nSignal cathedral\nPray to the frequency\nSignal cathedral\nNobody's free\n\n[Bridge]\n(Whispered, filtered) Do you copy\nDo you copy\n\n[Chorus]\nSignal cathedral\nPray to the frequency",
+    "taskId": "447aa744e8372765b46e04540dcdd992",
+    "sunoClipIds": [
+      "06b19a21-d9e3-4706-b294-f98a980f9663",
+      "4fc1b274-9d0e-4633-a3ba-da2018ed627a"
+    ],
+    "created": "Oct 24, 2026 6:33 PM ET",
+    "createTimeMs": 1792881215461,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "06b19a21-d9e3-4706-b294-f98a980f9663",
+        "durationSec": 239.92,
+        "file": "dark/dark_12_signal_cathedral_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "4fc1b274-9d0e-4633-a3ba-da2018ed627a",
+        "durationSec": 239.6,
+        "file": "dark/dark_12_signal_cathedral_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/dark_12_signal_cathedral_req.json",
+      "dark/dark_12_signal_cathedral_rec.json"
+    ]
+  },
+  {
+    "title": "Morning Will Come",
+    "collection": "faith",
+    "slug": "morning_will_come",
+    "model": "V6",
+    "style": "contemporary gospel ballad, inspirational soul, warm grand piano, Hammond organ swells, lush strings, mature soulful female vocal, rich gospel choir, 68 bpm, tender, hopeful, slow-burning triumphant build",
+    "negativeTags": "trap, EDM, rock, distorted, rap, country",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Soft piano, distant organ)\n\n[Verse 1]\nThere's a chair beside the window\nWhere the light used to fall\nAnd the house has learned the quiet\nOf a name I still call\n\n[Pre-Chorus]\nI don't understand the reason\nBut I trust the One who knows\n\n[Chorus]\nMorning will come\nAfter the longest night\nMorning will come\nAnd bring me back to light\nThough I weep through the dark, I will lift up my song\nMorning will come\n\n[Verse 2]\nI have heard the old folks testify\nOf the joy that waits ahead\nHow the Lord can turn a valley\nInto a table spread\n\n[Pre-Chorus]\nI don't have to see tomorrow\nJust to know that He'll be there\n\n[Chorus]\nMorning will come\nAfter the longest night\nMorning will come\nAnd bring me back to light\nThough I weep through the dark, I will lift up my song\nMorning will come\n\n[Bridge]\n(Choir enters, building)\nJoy comes in the morning, joy comes in the morning\nWeeping may endure, but joy comes in the morning\n(Lead ad-libs over choir)\n\n[Final Chorus]\n(Key change, full choir)\nMorning will come\nAfter the longest night\nMorning will come\nAnd bring me back to light\nThough I weep through the dark, I will lift up my song\nMorning will come\n\n[Outro]\n(Piano and soft choir)\nMorning will come",
+    "taskId": "00487c29e8adddfad5cf4ebbe3de7918",
+    "sunoClipIds": [
+      "dbbbd2e2-9860-45fc-acb8-c78ed111d114",
+      "1219339f-6c65-4931-a3ec-3be04c71cd16"
+    ],
+    "created": "Oct 24, 2026 6:33 PM ET",
+    "createTimeMs": 1792881213141,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "dbbbd2e2-9860-45fc-acb8-c78ed111d114",
+        "durationSec": 239.84,
+        "file": "faith/morning_will_come_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "1219339f-6c65-4931-a3ec-3be04c71cd16",
+        "durationSec": 239.56,
+        "file": "faith/morning_will_come_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "faith/morning_will_come_req.json",
+      "faith/morning_will_come_rec.json"
+    ]
+  },
+  {
+    "title": "Grace Found My Name",
+    "collection": "faith",
+    "slug": "grace_found_my_name",
+    "model": "V6",
+    "style": "contemporary gospel ballad, inspirational soul, warm grand piano, Hammond organ swells, lush strings, mature soulful female vocal, rich gospel choir, 76 bpm, grateful, joyful, triumphant build",
+    "negativeTags": "trap, EDM, rock, distorted, rap, country",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Gentle piano, humming choir)\n\n[Verse 1]\nI was standing at the back door\nWith my head bowed down in shame\nI had lost my way so many times\nI forgot my own name\n\n[Pre-Chorus]\nBut a voice broke through the silence\nAnd it called me by my name\n\n[Chorus]\nGrace found my name\nWhen I was far away\nGrace found my name\nAnd washed the past away\nI was lost in the crowd, but You called me out\nGrace found my name\n\n[Verse 2]\nNow I'm sitting at the table\nWhere I never thought I'd be\nWith the robe and ring He gave me\nAnd a love that set me free\n\n[Pre-Chorus]\nI don't have to earn the welcome\nI just have to come on home\n\n[Chorus]\nGrace found my name\nWhen I was far away\nGrace found my name\nAnd washed the past away\nI was lost in the crowd, but You called me out\nGrace found my name\n\n[Bridge]\n(Choir enters, building)\nI'm not who I used to be, not who I used to be\nYou wrote a brand-new story over me\n(Lead ad-libs over choir)\n\n[Final Chorus]\n(Key change, full choir)\nGrace found my name\nWhen I was far away\nGrace found my name\nAnd washed the past away\nI was lost in the crowd, but You called me out\nGrace found my name\n\n[Outro]\n(Piano and soft choir)\nGrace found my name",
+    "taskId": "722da3eff4895a82281c8e2f8676d684",
+    "sunoClipIds": [
+      "ba9d64b2-f294-4997-a49e-b150468b19a6",
+      "361f6e08-3b46-4acb-b81e-f1ef18be0655"
+    ],
+    "created": "Oct 24, 2026 6:33 PM ET",
+    "createTimeMs": 1792881215448,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ba9d64b2-f294-4997-a49e-b150468b19a6",
+        "durationSec": 239.88,
+        "file": "faith/grace_found_my_name_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "361f6e08-3b46-4acb-b81e-f1ef18be0655",
+        "durationSec": 239.6,
+        "file": "faith/grace_found_my_name_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "faith/grace_found_my_name_req.json",
+      "faith/grace_found_my_name_rec.json"
+    ]
   }
 ]
