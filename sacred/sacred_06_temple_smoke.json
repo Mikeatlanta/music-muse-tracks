@@ -1,0 +1,42 @@
+{
+  "title": "Temple Smoke",
+  "collection": "sacred",
+  "slug": "sacred_06_temple_smoke",
+  "model": "V6",
+  "style": "Slow mystical dub chill, 88 BPM, deep rolling dub bass, echoing rimshots and delays, tabla accents, temple bells, sitar-like drones, incense-smoke atmosphere, spacious and hypnotic, instrumental",
+  "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune, vocals",
+  "instrumental": true,
+  "vocalGender": "default/not set",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": "default/not set",
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": null,
+  "lyrics": "none (instrumental)",
+  "taskId": "f8b0f5f778d920af3dd4ed6e25a71c44",
+  "sunoClipIds": [
+    "8939391f-182a-40ca-85c7-fe381f7bd254",
+    "e4b222d9-cec2-446c-a110-674c6d54a037"
+  ],
+  "created": "Oct 13, 2026 5:28 PM ET",
+  "createTimeMs": 1791926918226,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "8939391f-182a-40ca-85c7-fe381f7bd254",
+      "durationSec": 240.0,
+      "file": "sacred/sacred_06_temple_smoke_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "e4b222d9-cec2-446c-a110-674c6d54a037",
+      "durationSec": 239.96,
+      "file": "sacred/sacred_06_temple_smoke_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sacred/req_5.json",
+    "sacred/rec_5.json"
+  ]
+}

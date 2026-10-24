@@ -1,0 +1,42 @@
+{
+  "title": "Salt and Sunlight",
+  "collection": "media",
+  "slug": "salt_and_sunlight",
+  "model": "V6",
+  "style": "Balearic chill house, 112 BPM, Miami poolside lounge, warm deep house groove, soft shuffling percussion, lush Rhodes chords, airy synth pads, mellow sub bass, light Spanish guitar accents, ocean wave textures, silky breathy female vocal, sunset cocktail vibe",
+  "negativeTags": "rock, metal, country, aggressive, distorted, EDM drop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Ocean waves)\n\n[Verse 1]\nSun on my shoulders, ice in my glass\nLetting the hours drift slowly past\nPalm shadows moving across the blue\nNothing to chase, nothing to do\n\n[Chorus]\nSalt and sunlight\nMelting into the afternoon\nSalt and sunlight\nNo one's leaving too soon\n\n[Instrumental Break]\n\n[Verse 2]\nPink sky rising over the bay\nThe city hums a mile away\nYour hand in mine, the music low\nThe tide decides how slow we go\n\n[Chorus]\nSalt and sunlight\nMelting into the afternoon\nSalt and sunlight\nNo one's leaving too soon\n\n[Bridge]\n(Whispered) Stay a little longer\nStay a little longer\n\n[Outro]\nSalt and sunlight...\n(Waves fade)",
+  "taskId": "40fb1aadb69485239d0533ae98abbbd1",
+  "sunoClipIds": [
+    "7eb8164f-addc-491a-86f2-2432b93935dc",
+    "6d31507f-08b6-4c12-9668-95f42ceb1ae5"
+  ],
+  "created": "Oct 13, 2026 4:42 PM ET",
+  "createTimeMs": 1791924136319,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "7eb8164f-addc-491a-86f2-2432b93935dc",
+      "durationSec": 239.76,
+      "file": "media/salt_and_sunlight_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "6d31507f-08b6-4c12-9668-95f42ceb1ae5",
+      "durationSec": 240.0,
+      "file": "media/salt_and_sunlight_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "ss_req.json",
+    "salt_and_sunlight_rec.json"
+  ]
+}

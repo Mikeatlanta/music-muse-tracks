@@ -1,0 +1,42 @@
+{
+  "title": "Brighter Than Gold",
+  "collection": "playlist",
+  "slug": "playlist_01_brighter_than_gold",
+  "model": "V6",
+  "style": "Bright feel-good melodic progressive house, 124 BPM, big warm emotive chords, rolling bassline, shimmering plucks, euphoric builds, soaring uplifting female topline, sunrise festival energy, polished club mix",
+  "negativeTags": "metal, country, dark, aggressive, distorted, chiptune, rap",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Verse]\nWoke up with the sky wide open\nEvery door I thought was broken\nSwinging free, I'm letting go\nOf every weight I used to hold\n\n[Chorus]\nWe're brighter than gold\nBurning through the cold\nHearts on fire, never old\nWe're brighter than gold\n\n[Verse 2]\nHands up in the morning air\nStrangers turning into friends out there\nEvery step a little higher\nEvery heartbeat lifting fire\n\n[Bridge]\nHigher, higher, can you feel it rise\nHigher, higher, open up your eyes\n\n[Chorus]\nWe're brighter than gold\nBurning through the cold",
+  "taskId": "036c28daaee3266f27fca8754a9132d8",
+  "sunoClipIds": [
+    "0bc0e523-0c7a-4ce5-8edc-1807b2c82f89",
+    "180038a9-028d-4487-9773-c52bba782b91"
+  ],
+  "created": "Oct 13, 2026 4:57 PM ET",
+  "createTimeMs": 1791925047317,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0bc0e523-0c7a-4ce5-8edc-1807b2c82f89",
+      "durationSec": 239.6,
+      "file": "playlist/playlist_01_brighter_than_gold_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "180038a9-028d-4487-9773-c52bba782b91",
+      "durationSec": 239.72,
+      "file": "playlist/playlist_01_brighter_than_gold_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "playlist/req_0.json",
+    "playlist/rec_0.json"
+  ]
+}

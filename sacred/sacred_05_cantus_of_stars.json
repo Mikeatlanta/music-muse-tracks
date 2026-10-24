@@ -1,0 +1,42 @@
+{
+  "title": "Cantus of Stars",
+  "collection": "sacred",
+  "slug": "sacred_05_cantus_of_stars",
+  "model": "V6",
+  "style": "Cinematic choir trance, 136 BPM, epic female and male choir, soaring orchestral strings, pulsing trance bass, massive builds, majestic breakdown, heavenly cathedral reverb, euphoric uplifting energy",
+  "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Choir)\nStellae cantant, nox aperit\n\n[Verse]\nVoces caeli, lumen fluit\nCor ascendit, umbra ruit\n\n[Chorus]\nCantus stellarum\nIgnis aeternum\nCantus stellarum\nVolamus in caelum\n\n[Bridge]\n(Choir swells)\nAh... ah...\n\n[Chorus]\nCantus stellarum\nIgnis aeternum",
+  "taskId": "29a97e47f790517fccd6dc9f50b0fac9",
+  "sunoClipIds": [
+    "af883dbb-51b0-4f32-8989-3419e2be42d1",
+    "b16969ee-4294-4e95-8f4e-d979ac6fa260"
+  ],
+  "created": "Oct 13, 2026 5:28 PM ET",
+  "createTimeMs": 1791926898019,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "af883dbb-51b0-4f32-8989-3419e2be42d1",
+      "durationSec": 239.96,
+      "file": "sacred/sacred_05_cantus_of_stars_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "b16969ee-4294-4e95-8f4e-d979ac6fa260",
+      "durationSec": 239.52,
+      "file": "sacred/sacred_05_cantus_of_stars_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sacred/req_4.json",
+    "sacred/rec_4.json"
+  ]
+}

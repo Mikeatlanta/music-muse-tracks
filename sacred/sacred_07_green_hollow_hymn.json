@@ -1,0 +1,42 @@
+{
+  "title": "Green Hollow Hymn",
+  "collection": "sacred",
+  "slug": "sacred_07_green_hollow_hymn",
+  "model": "V6",
+  "style": "Celtic flavored new age, 96 BPM, tin whistle and Celtic harp-like melodies, soft frame drum, lush layered airy female vocals, misty highland atmosphere, gentle electronic pulse, ethereal and pastoral",
+  "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune, EDM drop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Verse]\nMist upon the hollow, dew upon the stone\nAncient roads are calling every wanderer home\nSilver in the river, songs upon the breeze\nWhispered by the oak and the willow trees\n\n[Chorus]\nSing, green hollow, sing to me\nCarry my heart across the sea\nSing, green hollow, soft and slow\nBack to the land where the old winds blow\n\n[Bridge]\nAh-la-ree, ah-la-ro\nWhere the old winds blow",
+  "taskId": "87348a63ac969d106a2a953d475778c1",
+  "sunoClipIds": [
+    "65cae4bb-75f3-4964-b287-f168c06ae8b1",
+    "936e3066-9f19-4355-8d4c-9f1f1ffa0176"
+  ],
+  "created": "Oct 13, 2026 5:28 PM ET",
+  "createTimeMs": 1791926894240,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "65cae4bb-75f3-4964-b287-f168c06ae8b1",
+      "durationSec": 239.84,
+      "file": "sacred/sacred_07_green_hollow_hymn_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "936e3066-9f19-4355-8d4c-9f1f1ffa0176",
+      "durationSec": 239.8,
+      "file": "sacred/sacred_07_green_hollow_hymn_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sacred/req_6.json",
+    "sacred/rec_6.json"
+  ]
+}

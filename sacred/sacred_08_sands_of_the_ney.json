@@ -1,0 +1,42 @@
+{
+  "title": "Sands of the Ney",
+  "collection": "sacred",
+  "slug": "sacred_08_sands_of_the_ney",
+  "model": "V6",
+  "style": "Middle Eastern flute trance, 134 BPM, breathy ney flute leads, darbuka percussion, driving trance bassline, exotic scales, desert night atmosphere, hypnotic builds, mystical euphoric breakdown, instrumental",
+  "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune, vocals",
+  "instrumental": true,
+  "vocalGender": "default/not set",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": "default/not set",
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": null,
+  "lyrics": "none (instrumental)",
+  "taskId": "50092ef4cc8a7aa6af3b4534309e2b9a",
+  "sunoClipIds": [
+    "0fec3836-4a2b-4642-8523-e4cc7f6db007",
+    "6777439e-b2b0-40f6-8841-23ea887b5ad7"
+  ],
+  "created": "Oct 13, 2026 5:28 PM ET",
+  "createTimeMs": 1791926910746,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0fec3836-4a2b-4642-8523-e4cc7f6db007",
+      "durationSec": 239.6,
+      "file": "sacred/sacred_08_sands_of_the_ney_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "6777439e-b2b0-40f6-8841-23ea887b5ad7",
+      "durationSec": 239.96,
+      "file": "sacred/sacred_08_sands_of_the_ney_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sacred/req_7.json",
+    "sacred/rec_7.json"
+  ]
+}

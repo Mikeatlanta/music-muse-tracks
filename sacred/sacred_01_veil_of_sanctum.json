@@ -1,0 +1,42 @@
+{
+  "title": "Veil of Sanctum",
+  "collection": "sacred",
+  "slug": "sacred_01_veil_of_sanctum",
+  "model": "V6",
+  "style": "Early 90s new age chant downtempo, 92 BPM, slow hypnotic hip-hop breakbeat, deep cathedral reverb, monastic male choir chant textures, breathy whispered female vocal, ethereal pads, mysterious spiritual atmosphere",
+  "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Whispered) Breathe in... the silence\n\n[Chant]\nSanctum vela, ora lumis\nSanctum vela, aeternis\n\n[Verse]\n(Whispered)\nBehind the veil a candle burns\nThe quiet road where soul returns\nLay down the weight you carried here\nThe light is close, the light is near\n\n[Chant]\nSanctum vela, ora lumis\n\n[Outro]\n(Whispered) Remain... remain",
+  "taskId": "c9e4bc04e59c236896dfbc84a789c05c",
+  "sunoClipIds": [
+    "b9dfd569-1795-45c8-a618-8afcb461cb8a",
+    "5ff3e8a0-adbb-48ae-b659-efd30ba7f0e2"
+  ],
+  "created": "Oct 13, 2026 5:28 PM ET",
+  "createTimeMs": 1791926901233,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "b9dfd569-1795-45c8-a618-8afcb461cb8a",
+      "durationSec": 239.96,
+      "file": "sacred/sacred_01_veil_of_sanctum_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5ff3e8a0-adbb-48ae-b659-efd30ba7f0e2",
+      "durationSec": 239.6,
+      "file": "sacred/sacred_01_veil_of_sanctum_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sacred/req_0.json",
+    "sacred/rec_0.json"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Robot Romance",
+  "collection": "dark",
+  "slug": "dark_08_robot_romance",
+  "model": "V6",
+  "style": "Filtered French house, 122 BPM, chopped disco samples, sidechained filter sweeps, funky bassline, punchy kick, robotic vocoder male vocal, glittering club energy, retro-futuristic party",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Verse]\nProgram my heart to beat in time\nDownload your love, it's working fine\nShiny metal, disco light\nRunning on you all night\n\n[Chorus]\nRobot romance, can't stop the dance\nRobot romance, give me a chance\nWired up and feeling right\nRobot romance tonight\n\n[Bridge]\nSystem error, falling deep\nLove is something I can't delete",
+  "taskId": "68def08d65bd7e61d767ff72603408ed",
+  "sunoClipIds": [
+    "d0900599-2f12-4003-8837-c488a627dbc9",
+    "f3c96fa0-04cd-41dc-8136-bb5bea601668"
+  ],
+  "created": "Oct 13, 2026 5:24 PM ET",
+  "createTimeMs": 1791926699109,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "d0900599-2f12-4003-8837-c488a627dbc9",
+      "durationSec": 239.6,
+      "file": "dark/dark_08_robot_romance_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "f3c96fa0-04cd-41dc-8136-bb5bea601668",
+      "durationSec": 238.76,
+      "file": "dark/dark_08_robot_romance_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/req_7.json",
+    "dark/rec_7.json"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Static Cathedral",
+  "collection": "dark",
+  "slug": "dark_03_static_cathedral",
+  "model": "V6",
+  "style": "Cinematic dark electro, 108 BPM, slow heavy distorted analog bass, choir-like synth pads, cathedral reverb, menacing minimal percussion, building dread, dystopian film score feel, instrumental",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, vocals",
+  "instrumental": true,
+  "vocalGender": "default/not set",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": "default/not set",
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": null,
+  "lyrics": "none (instrumental)",
+  "taskId": "ac09548a1d934d9ee3d41de70085019b",
+  "sunoClipIds": [
+    "d656ee30-613e-49e7-a4c1-342850f6303b",
+    "cc0c37ee-53ae-4cc2-80f0-051ca9947f5c"
+  ],
+  "created": "Oct 13, 2026 5:24 PM ET",
+  "createTimeMs": 1791926697134,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "d656ee30-613e-49e7-a4c1-342850f6303b",
+      "durationSec": 239.52,
+      "file": "dark/dark_03_static_cathedral_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "cc0c37ee-53ae-4cc2-80f0-051ca9947f5c",
+      "durationSec": 240.0,
+      "file": "dark/dark_03_static_cathedral_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/req_2.json",
+    "dark/rec_2.json"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Never Off Your Mind",
+  "collection": "faith",
+  "slug": "never_off_your_mind",
+  "model": "V6",
+  "style": "upbeat Christian pop, modern dance-pop, bright synth plucks, punchy 808s, snaps, clean guitar chops, youthful female vocal, gang vocal chants, 118 bpm, uplifting, radio-ready",
+  "negativeTags": "country, twang, heavy metal, sad ballad, lo-fi, distorted",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 180,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Oh-oh, oh-oh)\n\n[Verse 1]\nPhone at three percent, my head is full of noise\nScrolling through a thousand lives, can't hear my own voice\nEverybody's fake-smiling, filter on the pain\nBut You call me by my name like You knew me all along\n\n[Pre-Chorus]\nWhen I feel invisible\nYou see me, You see me\n\n[Chorus]\nI'm never off Your mind, never out of sight\nJesus, You're the light when I'm lost in the night\nNo likes, no views, still You chose me\nI'm never off Your mind, You set me free\n(Oh-oh, oh-oh)\n\n[Verse 2]\nLocker-room whispers saying I don't fit\nGrades and expectations, sometimes I wanna quit\nBut You didn't wait for me to get it right\nYou ran into my mess and You turned on the light\n\n[Pre-Chorus]\nWhen I feel invisible\nYou see me, You see me\n\n[Chorus]\nI'm never off Your mind, never out of sight\nJesus, You're the light when I'm lost in the night\nNo likes, no views, still You chose me\nI'm never off Your mind, You set me free\n\n[Bridge]\n(Rap-sung, rhythmic)\nNot a follower count, I'm a follower now\nGot grace on my feed and I'm saying it loud\nTook the cross for me, that's love on repeat\nEvery heartbeat drops to the rhythm of \"You're with me\"\n\n[Final Chorus]\n(Key lift, full energy)\nI'm never off Your mind, never out of sight\nJesus, You're the light when I'm lost in the night\nNo likes, no views, still You chose me\nI'm never off Your mind, You set me free\n\n[Outro]\n(Oh-oh, oh-oh)\nNever off Your mind",
+  "taskId": "63d8c505175ba601d751dc4817c7fd42",
+  "sunoClipIds": [
+    "c76f758c-a7ce-40d9-9dc9-1f056ce2effc",
+    "4a692cc0-5f44-4e7e-ab95-122c5684352b"
+  ],
+  "created": "Oct 24, 2026 4:01 PM ET",
+  "createTimeMs": 1792872087252,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "c76f758c-a7ce-40d9-9dc9-1f056ce2effc",
+      "durationSec": 178.8,
+      "file": "faith/never_off_your_mind_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "4a692cc0-5f44-4e7e-ab95-122c5684352b",
+      "durationSec": 180.2,
+      "file": "faith/never_off_your_mind_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "faith/req.json",
+    "faith/rec.json"
+  ]
+}

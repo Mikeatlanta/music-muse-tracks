@@ -1,0 +1,42 @@
+{
+  "title": "Cold Protocol",
+  "collection": "dark",
+  "slug": "dark_04_cold_protocol",
+  "model": "V6",
+  "style": "Late 80s industrial EBM, 122 BPM, rigid sequenced analog bass, mechanical drum machine, clanging metal percussion, harsh distorted processed male vocal half shouted, militant dancefloor stomp",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Verse]\nRise at the signal\nMarch in the line\nWire in the bloodstream\nSteel in the spine\n\n[Chorus]\nCold protocol\nBreak and install\nCold protocol\nAnswer the call\n\n[Verse 2]\nSirens are counting\nZero to one\nNo one remembers\nWhat we've become\n\n[Bridge]\nComply. Comply. Comply.\n\n[Chorus]\nCold protocol\nBreak and install",
+  "taskId": "fe3a16173f2737008ec4f00ba843e400",
+  "sunoClipIds": [
+    "8238ea90-b3ce-43c6-912e-5d7e807cdaab",
+    "d72affc1-79b8-4156-b296-42e7a31c9046"
+  ],
+  "created": "Oct 13, 2026 5:24 PM ET",
+  "createTimeMs": 1791926695931,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "8238ea90-b3ce-43c6-912e-5d7e807cdaab",
+      "durationSec": 239.56,
+      "file": "dark/dark_04_cold_protocol_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d72affc1-79b8-4156-b296-42e7a31c9046",
+      "durationSec": 239.2,
+      "file": "dark/dark_04_cold_protocol_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/req_3.json",
+    "dark/rec_3.json"
+  ]
+}

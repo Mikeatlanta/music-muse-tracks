@@ -1,0 +1,1682 @@
+[
+  {
+    "title": "Never Off Your Mind",
+    "collection": "faith",
+    "slug": "never_off_your_mind",
+    "model": "V6",
+    "style": "upbeat Christian pop, modern dance-pop, bright synth plucks, punchy 808s, snaps, clean guitar chops, youthful female vocal, gang vocal chants, 118 bpm, uplifting, radio-ready",
+    "negativeTags": "country, twang, heavy metal, sad ballad, lo-fi, distorted",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 180,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Oh-oh, oh-oh)\n\n[Verse 1]\nPhone at three percent, my head is full of noise\nScrolling through a thousand lives, can't hear my own voice\nEverybody's fake-smiling, filter on the pain\nBut You call me by my name like You knew me all along\n\n[Pre-Chorus]\nWhen I feel invisible\nYou see me, You see me\n\n[Chorus]\nI'm never off Your mind, never out of sight\nJesus, You're the light when I'm lost in the night\nNo likes, no views, still You chose me\nI'm never off Your mind, You set me free\n(Oh-oh, oh-oh)\n\n[Verse 2]\nLocker-room whispers saying I don't fit\nGrades and expectations, sometimes I wanna quit\nBut You didn't wait for me to get it right\nYou ran into my mess and You turned on the light\n\n[Pre-Chorus]\nWhen I feel invisible\nYou see me, You see me\n\n[Chorus]\nI'm never off Your mind, never out of sight\nJesus, You're the light when I'm lost in the night\nNo likes, no views, still You chose me\nI'm never off Your mind, You set me free\n\n[Bridge]\n(Rap-sung, rhythmic)\nNot a follower count, I'm a follower now\nGot grace on my feed and I'm saying it loud\nTook the cross for me, that's love on repeat\nEvery heartbeat drops to the rhythm of \"You're with me\"\n\n[Final Chorus]\n(Key lift, full energy)\nI'm never off Your mind, never out of sight\nJesus, You're the light when I'm lost in the night\nNo likes, no views, still You chose me\nI'm never off Your mind, You set me free\n\n[Outro]\n(Oh-oh, oh-oh)\nNever off Your mind",
+    "taskId": "63d8c505175ba601d751dc4817c7fd42",
+    "sunoClipIds": [
+      "c76f758c-a7ce-40d9-9dc9-1f056ce2effc",
+      "4a692cc0-5f44-4e7e-ab95-122c5684352b"
+    ],
+    "created": "Oct 24, 2026 4:01 PM ET",
+    "createTimeMs": 1792872087252,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "c76f758c-a7ce-40d9-9dc9-1f056ce2effc",
+        "durationSec": 178.8,
+        "file": "faith/never_off_your_mind_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "4a692cc0-5f44-4e7e-ab95-122c5684352b",
+        "durationSec": 180.2,
+        "file": "faith/never_off_your_mind_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "faith/req.json",
+      "faith/rec.json"
+    ]
+  },
+  {
+    "title": "Still Holding Me",
+    "collection": "faith",
+    "slug": "still_holding_me",
+    "model": "V6",
+    "style": "contemporary gospel ballad, inspirational soul, warm grand piano, Hammond organ swells, lush strings, mature soulful female vocal, rich gospel choir, 72 bpm, reverent, triumphant build",
+    "negativeTags": "trap, EDM, rock, distorted, rap, country",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Soft piano, gentle hum)\n\n[Verse 1]\nWhen the morning came too early\nAnd the night refused to leave\nI was counting all my sorrows\nYou were counting every tear for me\n\n[Pre-Chorus]\nI didn't have the words to pray\nBut You heard me anyway\n\n[Chorus]\nYou're still holding me\nThrough the fire and the flood\nStill holding me\nWith a never-failing love\nWhen I couldn't stand, You carried me\nLord, You're still holding me\n\n[Verse 2]\nI have walked through empty valleys\nWhere the silence cut so deep\nBut Your mercy met me early\nAnd Your peace has guarded me\n\n[Pre-Chorus]\nI didn't have the strength to rise\nBut You lifted up my eyes\n\n[Chorus]\nYou're still holding me\nThrough the fire and the flood\nStill holding me\nWith a never-failing love\nWhen I couldn't stand, You carried me\nLord, You're still holding me\n\n[Bridge]\n(Choir enters, building)\nYou never let go, You never let go\nEvery storm, every road, You never let go\n(Lead ad-libs over choir)\n\n[Final Chorus]\n(Key change, full choir)\nYou're still holding me\nThrough the fire and the flood\nStill holding me\nWith a never-failing love\nWhen I couldn't stand, You carried me\nLord, You're still holding me\n\n[Outro]\n(Piano and soft choir)\nStill holding me",
+    "taskId": "1da737659ac675bda21862fecd824ec2",
+    "sunoClipIds": [
+      "cd71e01a-3861-4169-bcdb-1b1880cbcb0c",
+      "891e34a0-eb69-4b9a-b6ca-c74983071b1c"
+    ],
+    "created": "Oct 24, 2026 4:16 PM ET",
+    "createTimeMs": 1792872967437,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "cd71e01a-3861-4169-bcdb-1b1880cbcb0c",
+        "durationSec": 239.84,
+        "file": "faith/still_holding_me_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "891e34a0-eb69-4b9a-b6ca-c74983071b1c",
+        "durationSec": 239.6,
+        "file": "faith/still_holding_me_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "faith/shm_req.json",
+      "faith/shm_rec.json"
+    ]
+  },
+  {
+    "title": "Over in Glory",
+    "collection": "faith",
+    "slug": "over_in_glory",
+    "model": "V6",
+    "style": "traditional Southern gospel hymn, old-time church piano, gentle Hammond organ, warm baritone male lead, four-part harmony quartet, 84 bpm, 3/4 waltz feel, reverent, nostalgic",
+    "negativeTags": "808, trap, EDM, synth, rap, autotune, rock",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.45,
+    "audioWeight": 0.65,
+    "duration": 210,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Church piano)\n\n[Verse 1]\nI have walked these dusty roads for many a year\nI have known the weight of sorrow, known the taste of tears\nBut the Savior walked beside me every mile\nAnd He whispered, Child, just rest a little while\n\n[Chorus]\n(Quartet harmony)\nOver in glory, there's a mansion bright\nWhere the weary find their rest and there is no night\nI'll lay my burdens down by the crystal sea\nOver in glory, Jesus waits for me\n\n[Verse 2]\nMother sang the old songs by the kitchen fire\nDaddy prayed on Sunday with the country choir\nNow they've gone on over to that golden shore\nAnd I know I'll see them standing at the door\n\n[Chorus]\nOver in glory, there's a mansion bright\nWhere the weary find their rest and there is no night\nI'll lay my burdens down by the crystal sea\nOver in glory, Jesus waits for me\n\n[Bridge]\n(Soft, spoken-sung)\nWhen this race is over and my work is through\nI'll go home rejoicing, Lord, to be with You\n\n[Final Chorus]\n(Full harmony, slight key lift)\nOver in glory, there's a mansion bright\nWhere the weary find their rest and there is no night\nI'll lay my burdens down by the crystal sea\nOver in glory, Jesus waits for me\n\n[Outro]\n(Slow, held harmony)\nJesus waits for me",
+    "taskId": "c462b97d687921e6e91f4dd3dea5e36c",
+    "sunoClipIds": [
+      "4e44ca1f-7d4c-4772-a8a2-2ef3a2b00fac",
+      "5da4589a-6b4e-4ed7-b8bf-02093bde657c"
+    ],
+    "created": "Oct 24, 2026 4:18 PM ET",
+    "createTimeMs": 1792873109721,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "4e44ca1f-7d4c-4772-a8a2-2ef3a2b00fac",
+        "durationSec": 209.2,
+        "file": "faith/over_in_glory_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "5da4589a-6b4e-4ed7-b8bf-02093bde657c",
+        "durationSec": 209.16,
+        "file": "faith/over_in_glory_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "faith/oig_req.json",
+      "faith/oig_rec.json"
+    ]
+  },
+  {
+    "title": "Green Hollow Hymn",
+    "collection": "sacred",
+    "slug": "sacred_07_green_hollow_hymn",
+    "model": "V6",
+    "style": "Celtic flavored new age, 96 BPM, tin whistle and Celtic harp-like melodies, soft frame drum, lush layered airy female vocals, misty highland atmosphere, gentle electronic pulse, ethereal and pastoral",
+    "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune, EDM drop",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse]\nMist upon the hollow, dew upon the stone\nAncient roads are calling every wanderer home\nSilver in the river, songs upon the breeze\nWhispered by the oak and the willow trees\n\n[Chorus]\nSing, green hollow, sing to me\nCarry my heart across the sea\nSing, green hollow, soft and slow\nBack to the land where the old winds blow\n\n[Bridge]\nAh-la-ree, ah-la-ro\nWhere the old winds blow",
+    "taskId": "87348a63ac969d106a2a953d475778c1",
+    "sunoClipIds": [
+      "65cae4bb-75f3-4964-b287-f168c06ae8b1",
+      "936e3066-9f19-4355-8d4c-9f1f1ffa0176"
+    ],
+    "created": "Oct 13, 2026 5:28 PM ET",
+    "createTimeMs": 1791926894240,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "65cae4bb-75f3-4964-b287-f168c06ae8b1",
+        "durationSec": 239.84,
+        "file": "sacred/sacred_07_green_hollow_hymn_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "936e3066-9f19-4355-8d4c-9f1f1ffa0176",
+        "durationSec": 239.8,
+        "file": "sacred/sacred_07_green_hollow_hymn_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sacred/req_6.json",
+      "sacred/rec_6.json"
+    ]
+  },
+  {
+    "title": "Isla de Luz",
+    "collection": "sacred",
+    "slug": "sacred_03_isla_de_luz",
+    "model": "V6",
+    "style": "Uplifting 90s Balearic trance, 132 BPM, warm supersaw chords, Spanish guitar-like plucks, rolling offbeat bass, sun-drenched euphoric breakdown, ocean breeze pads, sunrise beach terrace, instrumental",
+    "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune, vocals",
+    "instrumental": true,
+    "vocalGender": "default/not set",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": "default/not set",
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": null,
+    "lyrics": "none (instrumental)",
+    "taskId": "17808521ef3b47b7b4f7bfffa5638aad",
+    "sunoClipIds": [
+      "69d60803-f0b8-4854-b2b5-1bbf4752b3ac",
+      "6ffe9c5d-c897-4bfa-aa6f-e79714c433c3"
+    ],
+    "created": "Oct 13, 2026 5:28 PM ET",
+    "createTimeMs": 1791926895022,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "69d60803-f0b8-4854-b2b5-1bbf4752b3ac",
+        "durationSec": 240.0,
+        "file": "sacred/sacred_03_isla_de_luz_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "6ffe9c5d-c897-4bfa-aa6f-e79714c433c3",
+        "durationSec": 239.96,
+        "file": "sacred/sacred_03_isla_de_luz_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sacred/req_2.json",
+      "sacred/rec_2.json"
+    ]
+  },
+  {
+    "title": "Drums of the Red Earth",
+    "collection": "sacred",
+    "slug": "sacred_04_drums_of_the_red_earth",
+    "model": "V6",
+    "style": "Tribal world trance, 128 BPM, layered ethnic hand drums and talking drums, hypnotic rolling bassline, didgeridoo-like drones, wordless group chant, primal ceremonial energy, spacious psychedelic pads",
+    "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Drums)\n\n[Chant]\nOh-ya-ma, oh-ya-ma\nHeh-ya, heh-ya, oh\n\n[Instrumental Break]\n\n[Chant]\nOh-ya-ma, kai-na-ro\nHeh-ya, heh-ya, oh\n\n[Outro]\n(Drums fade)",
+    "taskId": "bdb7ab05ee09c7bb4ab12352791e9b69",
+    "sunoClipIds": [
+      "074ed976-b37b-48e4-8a5f-7d1bb065f317",
+      "b3366416-f7d6-4b8d-bff1-e88000f9a6a1"
+    ],
+    "created": "Oct 13, 2026 5:28 PM ET",
+    "createTimeMs": 1791926897695,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "074ed976-b37b-48e4-8a5f-7d1bb065f317",
+        "durationSec": 239.96,
+        "file": "sacred/sacred_04_drums_of_the_red_earth_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "b3366416-f7d6-4b8d-bff1-e88000f9a6a1",
+        "durationSec": 239.16,
+        "file": "sacred/sacred_04_drums_of_the_red_earth_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sacred/req_3.json",
+      "sacred/rec_3.json"
+    ]
+  },
+  {
+    "title": "Cantus of Stars",
+    "collection": "sacred",
+    "slug": "sacred_05_cantus_of_stars",
+    "model": "V6",
+    "style": "Cinematic choir trance, 136 BPM, epic female and male choir, soaring orchestral strings, pulsing trance bass, massive builds, majestic breakdown, heavenly cathedral reverb, euphoric uplifting energy",
+    "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Choir)\nStellae cantant, nox aperit\n\n[Verse]\nVoces caeli, lumen fluit\nCor ascendit, umbra ruit\n\n[Chorus]\nCantus stellarum\nIgnis aeternum\nCantus stellarum\nVolamus in caelum\n\n[Bridge]\n(Choir swells)\nAh... ah...\n\n[Chorus]\nCantus stellarum\nIgnis aeternum",
+    "taskId": "29a97e47f790517fccd6dc9f50b0fac9",
+    "sunoClipIds": [
+      "af883dbb-51b0-4f32-8989-3419e2be42d1",
+      "b16969ee-4294-4e95-8f4e-d979ac6fa260"
+    ],
+    "created": "Oct 13, 2026 5:28 PM ET",
+    "createTimeMs": 1791926898019,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "af883dbb-51b0-4f32-8989-3419e2be42d1",
+        "durationSec": 239.96,
+        "file": "sacred/sacred_05_cantus_of_stars_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "b16969ee-4294-4e95-8f4e-d979ac6fa260",
+        "durationSec": 239.52,
+        "file": "sacred/sacred_05_cantus_of_stars_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sacred/req_4.json",
+      "sacred/rec_4.json"
+    ]
+  },
+  {
+    "title": "Stillwater Mind",
+    "collection": "sacred",
+    "slug": "sacred_09_stillwater_mind",
+    "model": "V6",
+    "style": "Deep meditative ambient house, 110 BPM, soft four-on-the-floor kick, warm sub bass, slow evolving pads, singing bowl tones, gentle water textures, deep calm focus, minimal and spacious, instrumental",
+    "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune, vocals, EDM drop",
+    "instrumental": true,
+    "vocalGender": "default/not set",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": "default/not set",
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": null,
+    "lyrics": "none (instrumental)",
+    "taskId": "ac4bb5bddad45ce09fd082b1a20dfaf3",
+    "sunoClipIds": [
+      "01d48cf9-7ab6-42fb-83e1-c96f454f9778",
+      "638bd280-f024-4804-8046-595ec9367d5c"
+    ],
+    "created": "Oct 13, 2026 5:28 PM ET",
+    "createTimeMs": 1791926901048,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "01d48cf9-7ab6-42fb-83e1-c96f454f9778",
+        "durationSec": 240.0,
+        "file": "sacred/sacred_09_stillwater_mind_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "638bd280-f024-4804-8046-595ec9367d5c",
+        "durationSec": 239.52,
+        "file": "sacred/sacred_09_stillwater_mind_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sacred/req_8.json",
+      "sacred/rec_8.json"
+    ]
+  },
+  {
+    "title": "Veil of Sanctum",
+    "collection": "sacred",
+    "slug": "sacred_01_veil_of_sanctum",
+    "model": "V6",
+    "style": "Early 90s new age chant downtempo, 92 BPM, slow hypnotic hip-hop breakbeat, deep cathedral reverb, monastic male choir chant textures, breathy whispered female vocal, ethereal pads, mysterious spiritual atmosphere",
+    "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Whispered) Breathe in... the silence\n\n[Chant]\nSanctum vela, ora lumis\nSanctum vela, aeternis\n\n[Verse]\n(Whispered)\nBehind the veil a candle burns\nThe quiet road where soul returns\nLay down the weight you carried here\nThe light is close, the light is near\n\n[Chant]\nSanctum vela, ora lumis\n\n[Outro]\n(Whispered) Remain... remain",
+    "taskId": "c9e4bc04e59c236896dfbc84a789c05c",
+    "sunoClipIds": [
+      "b9dfd569-1795-45c8-a618-8afcb461cb8a",
+      "5ff3e8a0-adbb-48ae-b659-efd30ba7f0e2"
+    ],
+    "created": "Oct 13, 2026 5:28 PM ET",
+    "createTimeMs": 1791926901233,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "b9dfd569-1795-45c8-a618-8afcb461cb8a",
+        "durationSec": 239.96,
+        "file": "sacred/sacred_01_veil_of_sanctum_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "5ff3e8a0-adbb-48ae-b659-efd30ba7f0e2",
+        "durationSec": 239.6,
+        "file": "sacred/sacred_01_veil_of_sanctum_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sacred/req_0.json",
+      "sacred/rec_0.json"
+    ]
+  },
+  {
+    "title": "Wings of Eternity",
+    "collection": "sacred",
+    "slug": "sacred_10_wings_of_eternity",
+    "model": "V6",
+    "style": "Euphoric 90s dream trance anthem, 138 BPM, iconic piano lead, shimmering supersaw chords, driving trance bass, huge emotional breakdown, soaring female vocal, hands-in-the-air festival euphoria",
+    "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse]\nI dreamed of a light beyond the sea\nA thousand stars were calling me\nNo fear, no chains, no walls, no end\nJust open sky around the bend\n\n[Chorus]\nFly on wings of eternity\nOver the world, wild and free\nFly on wings of eternity\nForever is where we'll be\n\n[Bridge]\nHigher than the night\nBrighter than the light\n\n[Chorus]\nFly on wings of eternity\nOver the world, wild and free",
+    "taskId": "b01613929fe57ffdb9dba25accada294",
+    "sunoClipIds": [
+      "c5b98392-62f1-4b93-ad06-73e05baf6139",
+      "121e0aa3-cc6c-458e-80e1-6efaeb2c7ff6"
+    ],
+    "created": "Oct 13, 2026 5:28 PM ET",
+    "createTimeMs": 1791926907383,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "c5b98392-62f1-4b93-ad06-73e05baf6139",
+        "durationSec": 239.2,
+        "file": "sacred/sacred_10_wings_of_eternity_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "121e0aa3-cc6c-458e-80e1-6efaeb2c7ff6",
+        "durationSec": 239.52,
+        "file": "sacred/sacred_10_wings_of_eternity_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sacred/req_9.json",
+      "sacred/rec_9.json"
+    ]
+  },
+  {
+    "title": "Sands of the Ney",
+    "collection": "sacred",
+    "slug": "sacred_08_sands_of_the_ney",
+    "model": "V6",
+    "style": "Middle Eastern flute trance, 134 BPM, breathy ney flute leads, darbuka percussion, driving trance bassline, exotic scales, desert night atmosphere, hypnotic builds, mystical euphoric breakdown, instrumental",
+    "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune, vocals",
+    "instrumental": true,
+    "vocalGender": "default/not set",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": "default/not set",
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": null,
+    "lyrics": "none (instrumental)",
+    "taskId": "50092ef4cc8a7aa6af3b4534309e2b9a",
+    "sunoClipIds": [
+      "0fec3836-4a2b-4642-8523-e4cc7f6db007",
+      "6777439e-b2b0-40f6-8841-23ea887b5ad7"
+    ],
+    "created": "Oct 13, 2026 5:28 PM ET",
+    "createTimeMs": 1791926910746,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0fec3836-4a2b-4642-8523-e4cc7f6db007",
+        "durationSec": 239.6,
+        "file": "sacred/sacred_08_sands_of_the_ney_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "6777439e-b2b0-40f6-8841-23ea887b5ad7",
+        "durationSec": 239.96,
+        "file": "sacred/sacred_08_sands_of_the_ney_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sacred/req_7.json",
+      "sacred/rec_7.json"
+    ]
+  },
+  {
+    "title": "Temple Smoke",
+    "collection": "sacred",
+    "slug": "sacred_06_temple_smoke",
+    "model": "V6",
+    "style": "Slow mystical dub chill, 88 BPM, deep rolling dub bass, echoing rimshots and delays, tabla accents, temple bells, sitar-like drones, incense-smoke atmosphere, spacious and hypnotic, instrumental",
+    "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune, vocals",
+    "instrumental": true,
+    "vocalGender": "default/not set",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": "default/not set",
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": null,
+    "lyrics": "none (instrumental)",
+    "taskId": "f8b0f5f778d920af3dd4ed6e25a71c44",
+    "sunoClipIds": [
+      "8939391f-182a-40ca-85c7-fe381f7bd254",
+      "e4b222d9-cec2-446c-a110-674c6d54a037"
+    ],
+    "created": "Oct 13, 2026 5:28 PM ET",
+    "createTimeMs": 1791926918226,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "8939391f-182a-40ca-85c7-fe381f7bd254",
+        "durationSec": 240.0,
+        "file": "sacred/sacred_06_temple_smoke_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "e4b222d9-cec2-446c-a110-674c6d54a037",
+        "durationSec": 239.96,
+        "file": "sacred/sacred_06_temple_smoke_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sacred/req_5.json",
+      "sacred/rec_5.json"
+    ]
+  },
+  {
+    "title": "Whisper of Aurora",
+    "collection": "sacred",
+    "slug": "sacred_02_whisper_of_aurora",
+    "model": "V6",
+    "style": "Ethereal ambient new age, 85 BPM, floating glassy pads, soft distant percussion, shimmering bells, intimate whispered female vocal, vast reverb, northern lights at dawn, meditative and serene",
+    "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune, EDM drop",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse]\n(Whispered)\nColors moving through the frozen sky\nSoftly calling, softly passing by\nClose your eyes and let the morning in\nEvery ending is where you begin\n\n[Chorus]\nAurora, aurora\nCarry me higher\nAurora, aurora\nSilent fire\n\n[Outro]\n(Whispered) Let it glow",
+    "taskId": "35f9d837380a700e2bd46a08902912d0",
+    "sunoClipIds": [
+      "2f275f20-d0db-4e02-bd14-16bbf491bf06",
+      "32319e78-f20f-4ede-8b11-2642ce70fade"
+    ],
+    "created": "Oct 13, 2026 5:28 PM ET",
+    "createTimeMs": 1791926921004,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "2f275f20-d0db-4e02-bd14-16bbf491bf06",
+        "durationSec": 239.8,
+        "file": "sacred/sacred_02_whisper_of_aurora_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "32319e78-f20f-4ede-8b11-2642ce70fade",
+        "durationSec": 239.48,
+        "file": "sacred/sacred_02_whisper_of_aurora_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sacred/req_1.json",
+      "sacred/rec_1.json"
+    ]
+  },
+  {
+    "title": "Midnight Interceptor",
+    "collection": "dark",
+    "slug": "dark_06_midnight_interceptor",
+    "model": "V6",
+    "style": "Dark 80s retro synthwave, 112 BPM, pulsing bass arpeggios, gated reverb snare, brooding minor-key analog leads, neon night chase, action movie tension, driving four-on-the-floor, instrumental",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, vocals, modern pop",
+    "instrumental": true,
+    "vocalGender": "default/not set",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": "default/not set",
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": null,
+    "lyrics": "none (instrumental)",
+    "taskId": "de883e401aee723bd88d5d44123a3112",
+    "sunoClipIds": [
+      "ecc46899-3517-431a-807e-621b6475ba12",
+      "4a9a3f9c-4c2e-40fa-a0ef-eaa561376f07"
+    ],
+    "created": "Oct 13, 2026 5:24 PM ET",
+    "createTimeMs": 1791926694854,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ecc46899-3517-431a-807e-621b6475ba12",
+        "durationSec": 239.96,
+        "file": "dark/dark_06_midnight_interceptor_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "4a9a3f9c-4c2e-40fa-a0ef-eaa561376f07",
+        "durationSec": 239.92,
+        "file": "dark/dark_06_midnight_interceptor_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/req_5.json",
+      "dark/rec_5.json"
+    ]
+  },
+  {
+    "title": "Voltage Choir",
+    "collection": "dark",
+    "slug": "dark_05_voltage_choir",
+    "model": "V6",
+    "style": "Early 90s EBM, 126 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, sci-fi radio transmissions, growled heavily processed male vocal, cyberpunk war dancefloor energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Radio static) Voltage rising.\n\n[Verse]\nSparks in the cables\nGhosts on the line\nThousands of voices\nLocked into time\n\n[Chorus]\nVoltage choir\nSing through the wire\nVoltage choir\nSet it on fire\n\n[Bridge]\n(Distorted) Can you hear us\nCan you hear us\n\n[Chorus]\nVoltage choir\nSing through the wire",
+    "taskId": "101c6724ba06dffab8b808962df0253b",
+    "sunoClipIds": [
+      "ffe4ce2b-039c-4051-a727-537d9ddaca3e",
+      "8d1342d1-274e-49fb-8725-b2be7d2b33cf"
+    ],
+    "created": "Oct 13, 2026 5:24 PM ET",
+    "createTimeMs": 1791926695259,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ffe4ce2b-039c-4051-a727-537d9ddaca3e",
+        "durationSec": 239.84,
+        "file": "dark/dark_05_voltage_choir_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "8d1342d1-274e-49fb-8725-b2be7d2b33cf",
+        "durationSec": 239.04,
+        "file": "dark/dark_05_voltage_choir_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/req_4.json",
+      "dark/rec_4.json"
+    ]
+  },
+  {
+    "title": "Cold Protocol",
+    "collection": "dark",
+    "slug": "dark_04_cold_protocol",
+    "model": "V6",
+    "style": "Late 80s industrial EBM, 122 BPM, rigid sequenced analog bass, mechanical drum machine, clanging metal percussion, harsh distorted processed male vocal half shouted, militant dancefloor stomp",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse]\nRise at the signal\nMarch in the line\nWire in the bloodstream\nSteel in the spine\n\n[Chorus]\nCold protocol\nBreak and install\nCold protocol\nAnswer the call\n\n[Verse 2]\nSirens are counting\nZero to one\nNo one remembers\nWhat we've become\n\n[Bridge]\nComply. Comply. Comply.\n\n[Chorus]\nCold protocol\nBreak and install",
+    "taskId": "fe3a16173f2737008ec4f00ba843e400",
+    "sunoClipIds": [
+      "8238ea90-b3ce-43c6-912e-5d7e807cdaab",
+      "d72affc1-79b8-4156-b296-42e7a31c9046"
+    ],
+    "created": "Oct 13, 2026 5:24 PM ET",
+    "createTimeMs": 1791926695931,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "8238ea90-b3ce-43c6-912e-5d7e807cdaab",
+        "durationSec": 239.56,
+        "file": "dark/dark_04_cold_protocol_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "d72affc1-79b8-4156-b296-42e7a31c9046",
+        "durationSec": 239.2,
+        "file": "dark/dark_04_cold_protocol_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/req_3.json",
+      "dark/rec_3.json"
+    ]
+  },
+  {
+    "title": "Red Glass Highway",
+    "collection": "dark",
+    "slug": "dark_07_red_glass_highway",
+    "model": "V6",
+    "style": "Dark 80s synthwave, 104 BPM, driving pulse bass, gated snare, shimmering arpeggios, moody minor chords, cool breathy female vocal, rain-slick city highway at night, retro thriller atmosphere",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, modern pop",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse]\nTaillights bleeding through the rain\nYou never told me your real name\nEngine humming, hands on chrome\nNowhere left that feels like home\n\n[Chorus]\nRed glass highway, take me far\nChasing ghosts in a borrowed car\nRed glass highway, hold on tight\nWe disappear into the night\n\n[Bridge]\nDon't look back, don't look back\nThe road is gone, the sky is black",
+    "taskId": "f9ba7e48742d493939d66846a1ca5840",
+    "sunoClipIds": [
+      "7f4c6b76-d5d0-4e19-a067-0d8273e09979",
+      "2134d092-c586-44fa-a516-7c7b686ef757"
+    ],
+    "created": "Oct 13, 2026 5:24 PM ET",
+    "createTimeMs": 1791926696877,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "7f4c6b76-d5d0-4e19-a067-0d8273e09979",
+        "durationSec": 238.72,
+        "file": "dark/dark_07_red_glass_highway_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "2134d092-c586-44fa-a516-7c7b686ef757",
+        "durationSec": 238.76,
+        "file": "dark/dark_07_red_glass_highway_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/req_6.json",
+      "dark/rec_6.json"
+    ]
+  },
+  {
+    "title": "Static Cathedral",
+    "collection": "dark",
+    "slug": "dark_03_static_cathedral",
+    "model": "V6",
+    "style": "Cinematic dark electro, 108 BPM, slow heavy distorted analog bass, choir-like synth pads, cathedral reverb, menacing minimal percussion, building dread, dystopian film score feel, instrumental",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, vocals",
+    "instrumental": true,
+    "vocalGender": "default/not set",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": "default/not set",
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": null,
+    "lyrics": "none (instrumental)",
+    "taskId": "ac09548a1d934d9ee3d41de70085019b",
+    "sunoClipIds": [
+      "d656ee30-613e-49e7-a4c1-342850f6303b",
+      "cc0c37ee-53ae-4cc2-80f0-051ca9947f5c"
+    ],
+    "created": "Oct 13, 2026 5:24 PM ET",
+    "createTimeMs": 1791926697134,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "d656ee30-613e-49e7-a4c1-342850f6303b",
+        "durationSec": 239.52,
+        "file": "dark/dark_03_static_cathedral_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "cc0c37ee-53ae-4cc2-80f0-051ca9947f5c",
+        "durationSec": 240.0,
+        "file": "dark/dark_03_static_cathedral_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/req_2.json",
+      "dark/rec_2.json"
+    ]
+  },
+  {
+    "title": "Blackout Boulevard",
+    "collection": "dark",
+    "slug": "dark_01_blackout_boulevard",
+    "model": "V6",
+    "style": "Dark cinematic French electro, 118 BPM, heavily distorted analog bass, menacing minimal groove, crunchy compressed drums, ominous synth stabs, film-noir tension, filtered sweeps, instrumental",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, vocals",
+    "instrumental": true,
+    "vocalGender": "default/not set",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": "default/not set",
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": null,
+    "lyrics": "none (instrumental)",
+    "taskId": "a2bf2997f7a223e4329d2932392ded3f",
+    "sunoClipIds": [
+      "310ed569-4a01-49aa-b64d-3bfc492c520b",
+      "2b9bf617-a068-43dd-ad31-347846f5cd8a"
+    ],
+    "created": "Oct 13, 2026 5:24 PM ET",
+    "createTimeMs": 1791926697568,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "310ed569-4a01-49aa-b64d-3bfc492c520b",
+        "durationSec": 239.32,
+        "file": "dark/dark_01_blackout_boulevard_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "2b9bf617-a068-43dd-ad31-347846f5cd8a",
+        "durationSec": 239.56,
+        "file": "dark/dark_01_blackout_boulevard_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/req_0.json",
+      "dark/rec_0.json"
+    ]
+  },
+  {
+    "title": "Robot Romance",
+    "collection": "dark",
+    "slug": "dark_08_robot_romance",
+    "model": "V6",
+    "style": "Filtered French house, 122 BPM, chopped disco samples, sidechained filter sweeps, funky bassline, punchy kick, robotic vocoder male vocal, glittering club energy, retro-futuristic party",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse]\nProgram my heart to beat in time\nDownload your love, it's working fine\nShiny metal, disco light\nRunning on you all night\n\n[Chorus]\nRobot romance, can't stop the dance\nRobot romance, give me a chance\nWired up and feeling right\nRobot romance tonight\n\n[Bridge]\nSystem error, falling deep\nLove is something I can't delete",
+    "taskId": "68def08d65bd7e61d767ff72603408ed",
+    "sunoClipIds": [
+      "d0900599-2f12-4003-8837-c488a627dbc9",
+      "f3c96fa0-04cd-41dc-8136-bb5bea601668"
+    ],
+    "created": "Oct 13, 2026 5:24 PM ET",
+    "createTimeMs": 1791926699109,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "d0900599-2f12-4003-8837-c488a627dbc9",
+        "durationSec": 239.6,
+        "file": "dark/dark_08_robot_romance_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "f3c96fa0-04cd-41dc-8136-bb5bea601668",
+        "durationSec": 238.76,
+        "file": "dark/dark_08_robot_romance_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/req_7.json",
+      "dark/rec_7.json"
+    ]
+  },
+  {
+    "title": "Chrome Funk Machine",
+    "collection": "dark",
+    "slug": "dark_09_chrome_funk_machine",
+    "model": "V6",
+    "style": "Vocoder disco-funk, 116 BPM, rubbery slap-style synth bass, filtered disco strings, talkbox and vocoder vocal hooks, clean funk guitar stabs, four-on-the-floor, shiny retro-future roller rink vibe",
+    "negativeTags": "pop, country, happy, ballad, chiptune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse]\nPolished steel and a mirror ball\nShake the bolts loose, give it all\nPlug me in and turn me loud\nShining brighter than the crowd\n\n[Chorus]\nChrome funk machine\nSmoothest thing you've ever seen\nChrome funk machine\nGroovin' on the silver screen\n\n[Bridge]\nTurn it up, turn it up\nNever gonna get enough",
+    "taskId": "0df2b8a4daf01a0d4830301dbd2ea896",
+    "sunoClipIds": [
+      "703c660f-7415-4965-9635-97305f1eea5b",
+      "2b695423-38cb-41eb-8b67-6e441b8a08f7"
+    ],
+    "created": "Oct 13, 2026 5:25 PM ET",
+    "createTimeMs": 1791926701216,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "703c660f-7415-4965-9635-97305f1eea5b",
+        "durationSec": 239.56,
+        "file": "dark/dark_09_chrome_funk_machine_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "2b695423-38cb-41eb-8b67-6e441b8a08f7",
+        "durationSec": 240.0,
+        "file": "dark/dark_09_chrome_funk_machine_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/req_8.json",
+      "dark/rec_8.json"
+    ]
+  },
+  {
+    "title": "Nightshift Paris",
+    "collection": "dark",
+    "slug": "dark_10_nightshift_paris",
+    "model": "V6",
+    "style": "Hybrid dark electro, 120 BPM, distorted French electro bass, rigid EBM sequenced bassline, pulsing synthwave arpeggios, gated snare, menacing filtered builds, cinematic night chase through a city, instrumental",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, vocals",
+    "instrumental": true,
+    "vocalGender": "default/not set",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": "default/not set",
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": null,
+    "lyrics": "none (instrumental)",
+    "taskId": "4ed495f009e1071e08d9365d45eca689",
+    "sunoClipIds": [
+      "cdff7999-cfd8-4a35-b3ba-b66a035af0f1",
+      "335976c6-5b65-46fe-9260-14b750c3b95d"
+    ],
+    "created": "Oct 13, 2026 5:25 PM ET",
+    "createTimeMs": 1791926703276,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "cdff7999-cfd8-4a35-b3ba-b66a035af0f1",
+        "durationSec": 239.52,
+        "file": "dark/dark_10_nightshift_paris_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "335976c6-5b65-46fe-9260-14b750c3b95d",
+        "durationSec": 239.96,
+        "file": "dark/dark_10_nightshift_paris_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/req_9.json",
+      "dark/rec_9.json"
+    ]
+  },
+  {
+    "title": "Iron Curtain Call",
+    "collection": "dark",
+    "slug": "dark_02_iron_curtain_call",
+    "model": "V6",
+    "style": "Dark French electro techno, 124 BPM, saturated distorted bass, pounding kick, metallic hits, minimal menacing riff, cold spoken half-whispered female vocal, warehouse at 3am, cinematic dread",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Spoken) Lights out. Doors locked.\n\n[Verse]\nConcrete heartbeat under my feet\nShadows marching down the street\nNobody leaves till the music's done\nNobody sleeps till we've all gone numb\n\n[Chorus]\nIron curtain call\nWatch the empire fall\nIron curtain call\nBodies on the wall\n\n[Bridge]\n(Spoken) Encore. Encore.\nOne more time, then no more",
+    "taskId": "ebd3f19a752ebdd24a9c4695ad72846c",
+    "sunoClipIds": [
+      "31e3723f-40d8-480c-9b59-b8df7bd80664",
+      "d074980d-15cf-4fff-af1f-3665e1af13ac"
+    ],
+    "created": "Oct 13, 2026 5:25 PM ET",
+    "createTimeMs": 1791926712269,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "31e3723f-40d8-480c-9b59-b8df7bd80664",
+        "durationSec": 238.92,
+        "file": "dark/dark_02_iron_curtain_call_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "d074980d-15cf-4fff-af1f-3665e1af13ac",
+        "durationSec": 238.76,
+        "file": "dark/dark_02_iron_curtain_call_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/req_1.json",
+      "dark/rec_1.json"
+    ]
+  },
+  {
+    "title": "Velvet Telephone",
+    "collection": "playlist",
+    "slug": "playlist_04_velvet_telephone",
+    "model": "V6",
+    "style": "80s Italo disco, 116 BPM, octave-bouncing synth bass, Linn-style drum machine, shimmering arpeggiated synths, vocoder accents, glossy retro romance, nostalgic European dancefloor, confident male vocal with slight accent",
+    "negativeTags": "rock, metal, country, trap, dubstep, modern pop",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse]\nMidnight call on a velvet line\nYour number glowing, so divine\nNeon signals across the town\nPick it up, don't let me down\n\n[Chorus]\nVelvet telephone, ring ring ring\nDancing to the song you sing\nVelvet telephone, call me tonight\nDisco hearts in electric light\n\n[Bridge]\nHello, hello, are you there?\nStatic love is in the air",
+    "taskId": "52acf867bfc2b9747402ccb0b6e21941",
+    "sunoClipIds": [
+      "3747d831-4091-4344-bf5f-82379260a60a",
+      "f2acb8e8-c7cc-49a3-a2c4-0c3c23206c41"
+    ],
+    "created": "Oct 13, 2026 4:53 PM ET",
+    "createTimeMs": 1791924801036,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3747d831-4091-4344-bf5f-82379260a60a",
+        "durationSec": 239.52,
+        "file": "playlist/playlist_04_velvet_telephone_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "f2acb8e8-c7cc-49a3-a2c4-0c3c23206c41",
+        "durationSec": 239.6,
+        "file": "playlist/playlist_04_velvet_telephone_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "playlist/req_3.json",
+      "playlist/rec_3.json"
+    ]
+  },
+  {
+    "title": "Amber Caravan",
+    "collection": "playlist",
+    "slug": "playlist_03_amber_caravan",
+    "model": "V6",
+    "style": "Organic Afro house, 120 BPM, tribal shakers and congas, deep warm bassline, kalimba motifs, earthy melodic synths, silky soulful female vocal, open-air sunset dancefloor",
+    "negativeTags": "rock, metal, country, aggressive, distorted, chiptune",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse]\nSand in my hair and the drums in my chest\nFollowing fire toward the west\nLanterns are swaying, the stars draw near\nEvery step forward, the road is clear\n\n[Chorus]\nAmber caravan, carry me home\nUnder the moon I'm never alone\nAmber caravan, slow and bright\nDancing on into the night\n\n[Bridge]\nFeel the earth, feel the sky\nLet the rhythm lift you high",
+    "taskId": "569e5b7e73331f1d34e057361e1cc80a",
+    "sunoClipIds": [
+      "bedca67b-153a-4f6d-bb34-be2fe460d9d9",
+      "d379dd85-35d3-47aa-8ad5-4a156f028854"
+    ],
+    "created": "Oct 13, 2026 4:53 PM ET",
+    "createTimeMs": 1791924801643,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "bedca67b-153a-4f6d-bb34-be2fe460d9d9",
+        "durationSec": 239.72,
+        "file": "playlist/playlist_03_amber_caravan_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "d379dd85-35d3-47aa-8ad5-4a156f028854",
+        "durationSec": 239.96,
+        "file": "playlist/playlist_03_amber_caravan_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "playlist/req_2.json",
+      "playlist/rec_2.json"
+    ]
+  },
+  {
+    "title": "Chrome Horizon",
+    "collection": "playlist",
+    "slug": "playlist_05_chrome_horizon",
+    "model": "V6",
+    "style": "Dreamy retro synthwave, 104 BPM, warm analog pads, nostalgic lead melody, gated reverb drums, pulsing bass, sunset highway cruising, soft chorus-drenched textures, hazy VHS atmosphere, instrumental",
+    "negativeTags": "metal, country, rap, harsh, chiptune, vocals",
+    "instrumental": true,
+    "vocalGender": "default/not set",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": "default/not set",
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": null,
+    "lyrics": "none (instrumental)",
+    "taskId": "43ba37d7f7908d35496a7b6b0ddffb4d",
+    "sunoClipIds": [
+      "96601fe3-d93b-40f3-a85f-629db189b194",
+      "8221d638-8da0-41ff-ba10-a656a509f35a"
+    ],
+    "created": "Oct 13, 2026 4:53 PM ET",
+    "createTimeMs": 1791924804012,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "96601fe3-d93b-40f3-a85f-629db189b194",
+        "durationSec": 239.52,
+        "file": "playlist/playlist_05_chrome_horizon_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "8221d638-8da0-41ff-ba10-a656a509f35a",
+        "durationSec": 239.4,
+        "file": "playlist/playlist_05_chrome_horizon_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "playlist/req_4.json",
+      "playlist/rec_4.json"
+    ]
+  },
+  {
+    "title": "After the Rain",
+    "collection": "playlist",
+    "slug": "playlist_07_after_the_rain",
+    "model": "V6",
+    "style": "Sultry darkwave indie electronic, 108 BPM, moody minor-key synths, crisp drum machine, deep bass, reverb-soaked guitar textures, intimate breathy female vocal, seductive and melancholic, late-night city mood",
+    "negativeTags": "country, happy, EDM drop, metal, chiptune, upbeat pop",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse]\nWet pavement shines like broken stars\nI trace your name on foggy cars\nYou never said the words out loud\nYou only spoke inside the crowd\n\n[Chorus]\nAfter the rain, you come undone\nShadows dancing, two as one\nAfter the rain, the city sighs\nSecrets hiding in your eyes\n\n[Bridge]\nSay it slow, say it low\nOnly the night will ever know",
+    "taskId": "96ae49760b38944fa7fe6b88f1702621",
+    "sunoClipIds": [
+      "0e750cfa-ffea-4c14-8eea-304e2121e5c8",
+      "7c788cc9-a711-4c89-9b3c-bff10dd6479e"
+    ],
+    "created": "Oct 13, 2026 4:53 PM ET",
+    "createTimeMs": 1791924823407,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0e750cfa-ffea-4c14-8eea-304e2121e5c8",
+        "durationSec": 238.88,
+        "file": "playlist/playlist_07_after_the_rain_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "7c788cc9-a711-4c89-9b3c-bff10dd6479e",
+        "durationSec": 238.92,
+        "file": "playlist/playlist_07_after_the_rain_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "playlist/req_6.json",
+      "playlist/rec_6.json"
+    ]
+  },
+  {
+    "title": "Seedling Strings",
+    "collection": "playlist",
+    "slug": "playlist_10_seedling_strings",
+    "model": "V6",
+    "style": "Uplifting organic melodic deep house, 120 BPM, warm acoustic and string-like plucks, lush emotive chord progressions, soft rolling groove, gentle hand percussion, deep warm bass, mostly instrumental with occasional airy wordless female vocal chops, hopeful sunrise feeling",
+    "negativeTags": "rock, metal, country, aggressive, distorted, chiptune, rap",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Instrumental]\n\n[Vocal Chops]\nOoh... ah...\n\n[Instrumental Break]\n\n[Vocal Chops]\nRise... ooh...\n\n[Instrumental]\n\n[Outro]\nAh...",
+    "taskId": "944e2e920876b9b92aac9078a696e664",
+    "sunoClipIds": [
+      "0b977b58-c241-4ad0-b5a6-90c723f28bbe",
+      "dacc5599-f75f-4395-9f67-3656d812e6b5"
+    ],
+    "created": "Oct 13, 2026 4:53 PM ET",
+    "createTimeMs": 1791924834746,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0b977b58-c241-4ad0-b5a6-90c723f28bbe",
+        "durationSec": 239.92,
+        "file": "playlist/playlist_10_seedling_strings_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "dacc5599-f75f-4395-9f67-3656d812e6b5",
+        "durationSec": 239.6,
+        "file": "playlist/playlist_10_seedling_strings_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "playlist/req_9.json",
+      "playlist/rec_9.json"
+    ]
+  },
+  {
+    "title": "Machine Lumière",
+    "collection": "playlist",
+    "slug": "playlist_08_machine_lumiere",
+    "model": "V6",
+    "style": "Dark French techno, 124 BPM, distorted driving bass, punchy kick, metallic percussion, cold minimal synth stabs, filtered tension builds, spoken deep male vocal, gritty warehouse atmosphere",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Spoken) Lumière... in the machine\n\n[Verse]\nConcrete pulse beneath the floor\nSteel and shadow, wanting more\nLights cut through the smoking air\nBodies moving, no one cares\n\n[Chorus]\nMachine lumière, burn it bright\nMachine lumière, own the night\n\n[Bridge]\n(Spoken) Plus fort. Plus fort.\nLouder. Louder.",
+    "taskId": "f9e80f9d402bce0fb988388af14985dc",
+    "sunoClipIds": [
+      "4070641f-f13e-499c-921e-8bb00779d443",
+      "417ffc8d-8a21-449c-ab09-d9365c18df80"
+    ],
+    "created": "Oct 13, 2026 4:53 PM ET",
+    "createTimeMs": 1791924834778,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "4070641f-f13e-499c-921e-8bb00779d443",
+        "durationSec": 239.84,
+        "file": "playlist/playlist_08_machine_lumiere_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "417ffc8d-8a21-449c-ab09-d9365c18df80",
+        "durationSec": 239.6,
+        "file": "playlist/playlist_08_machine_lumiere_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "playlist/req_7.json",
+      "playlist/rec_7.json"
+    ]
+  },
+  {
+    "title": "Paper Moons",
+    "collection": "playlist",
+    "slug": "playlist_09_paper_moons",
+    "model": "V6",
+    "style": "Dreamy melancholic indie electronic melodic house, 116 BPM, warm plucked synths, gentle rolling groove, soft deep bass, hazy reverb pads, intimate soft male and female duet vocals trading lines and harmonizing, bittersweet late-night feeling",
+    "negativeTags": "rock, metal, country, aggressive, distorted, EDM drop, rap",
+    "instrumental": false,
+    "vocalGender": "default/not set",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse 1 - Male]\nWe cut out paper moons\nAnd hung them on the wall\nPretending they were real\nBefore the ceiling falls\n\n[Verse 1 - Female]\nYou hum a half-remembered tune\nI fill the empty space\nWe fold the quiet into shapes\nThat time cannot erase\n\n[Chorus - Duet]\nPaper moons, glowing soft and low\nHolding on to what we used to know\nPaper moons, fragile as a sigh\nLight enough to drift across the sky\n\n[Bridge - Female]\nIf the morning tears them down\n(Male) We'll make another one\n(Duet) We'll make another one\n\n[Chorus - Duet]\nPaper moons, glowing soft and low\nHolding on to what we used to know",
+    "taskId": "0bfe5701c4173364422f285f754af074",
+    "sunoClipIds": [
+      "a2844375-568f-4342-a57b-41017537ddf2",
+      "fb55f8f5-6d61-4a43-9de3-53adcead0400"
+    ],
+    "created": "Oct 13, 2026 4:55 PM ET",
+    "createTimeMs": 1791924946446,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "a2844375-568f-4342-a57b-41017537ddf2",
+        "durationSec": 239.6,
+        "file": "playlist/playlist_09_paper_moons_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "fb55f8f5-6d61-4a43-9de3-53adcead0400",
+        "durationSec": 239.84,
+        "file": "playlist/playlist_09_paper_moons_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "playlist/req_8.json",
+      "playlist/rec_8.json"
+    ]
+  },
+  {
+    "title": "Smoke and Bandoneon",
+    "collection": "playlist",
+    "slug": "playlist_02_smoke_and_bandoneon",
+    "model": "V6",
+    "style": "Electro-tango lounge, 104 BPM, sultry bandoneon melodies, nightclub piano, downtempo electronic beat with tango rhythm accents, deep warm bass, plucked strings, smoky vintage jazz-diva female vocal, sensual late-night cabaret atmosphere",
+    "negativeTags": "rock, metal, country, EDM drop, chiptune, rap, happy pop",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse 1]\nRed velvet curtain, a cigarette glow\nThe band in the corner is playing it slow\nYou walked in at midnight with rain on your coat\nI sang you a promise in one silver note\n\n[Chorus]\nSmoke and bandoneon, pull me in close\nThe night is a dancer that nobody knows\nSmoke and bandoneon, sway till the dawn\nHold me like music, then you'll be gone\n\n[Verse 2]\nThe piano is sighing the things we won't say\nYour eyes keep on asking me, darling, to stay\nOne more for the lovers, one more for the lost\nI'll pay for the heartbreak, whatever the cost\n\n[Bridge]\nPaso a paso, step by step\nEvery turn a sweet regret\n\n[Chorus]\nSmoke and bandoneon, pull me in close\nThe night is a dancer that nobody knows",
+    "taskId": "0da6dac3bedd1f6540b83014fabd43ba",
+    "sunoClipIds": [
+      "242c63c6-431e-47c6-9ee9-957ff0eb9ca0",
+      "695c45d7-948d-451d-a961-c757d8477716"
+    ],
+    "created": "Oct 13, 2026 4:56 PM ET",
+    "createTimeMs": 1791924966885,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "242c63c6-431e-47c6-9ee9-957ff0eb9ca0",
+        "durationSec": 239.92,
+        "file": "playlist/playlist_02_smoke_and_bandoneon_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "695c45d7-948d-451d-a961-c757d8477716",
+        "durationSec": 239.0,
+        "file": "playlist/playlist_02_smoke_and_bandoneon_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "playlist/req_1.json",
+      "playlist/rec_1.json"
+    ]
+  },
+  {
+    "title": "Static Velvet",
+    "collection": "playlist",
+    "slug": "playlist_06_static_velvet",
+    "model": "V6",
+    "style": "Dark moody alternative R&B slow jam meets industrial synth, 100 BPM, heavy distorted analog synth bass, cinematic brooding pads, sparse hard-hitting drums, smoky atmosphere, brooding falsetto male vocal, intimate and menacing late-night mood",
+    "negativeTags": "country, happy, acoustic, chiptune, upbeat pop, EDM drop",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse 1]\nStatic in the velvet dark\nYou leave a burn but not a mark\nRed light humming on the wall\nI hear you even when you don't call\n\n[Chorus]\nStatic velvet, wrap me tight\nPull me under through the night\nStatic velvet on my skin\nEvery time I let you in\n\n[Verse 2]\nMachines are breathing in the floor\nYou say you're leaving, then want more\nCold steel heartbeat, slow and low\nTell me something I don't know\n\n[Bridge]\nDon't turn the lights on\nDon't turn the lights on\n\n[Chorus]\nStatic velvet, wrap me tight\nPull me under through the night",
+    "taskId": "38f25f0dcde3929385d55947840532b0",
+    "sunoClipIds": [
+      "e9035ca5-2acb-4f99-838e-030b69a65500",
+      "14317304-98b7-409c-a06e-1f66c163ed5f"
+    ],
+    "created": "Oct 13, 2026 4:57 PM ET",
+    "createTimeMs": 1791925039883,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "e9035ca5-2acb-4f99-838e-030b69a65500",
+        "durationSec": 239.0,
+        "file": "playlist/playlist_06_static_velvet_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "14317304-98b7-409c-a06e-1f66c163ed5f",
+        "durationSec": 239.6,
+        "file": "playlist/playlist_06_static_velvet_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "playlist/req_5.json",
+      "playlist/rec_5.json"
+    ]
+  },
+  {
+    "title": "Brighter Than Gold",
+    "collection": "playlist",
+    "slug": "playlist_01_brighter_than_gold",
+    "model": "V6",
+    "style": "Bright feel-good melodic progressive house, 124 BPM, big warm emotive chords, rolling bassline, shimmering plucks, euphoric builds, soaring uplifting female topline, sunrise festival energy, polished club mix",
+    "negativeTags": "metal, country, dark, aggressive, distorted, chiptune, rap",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Verse]\nWoke up with the sky wide open\nEvery door I thought was broken\nSwinging free, I'm letting go\nOf every weight I used to hold\n\n[Chorus]\nWe're brighter than gold\nBurning through the cold\nHearts on fire, never old\nWe're brighter than gold\n\n[Verse 2]\nHands up in the morning air\nStrangers turning into friends out there\nEvery step a little higher\nEvery heartbeat lifting fire\n\n[Bridge]\nHigher, higher, can you feel it rise\nHigher, higher, open up your eyes\n\n[Chorus]\nWe're brighter than gold\nBurning through the cold",
+    "taskId": "036c28daaee3266f27fca8754a9132d8",
+    "sunoClipIds": [
+      "0bc0e523-0c7a-4ce5-8edc-1807b2c82f89",
+      "180038a9-028d-4487-9773-c52bba782b91"
+    ],
+    "created": "Oct 13, 2026 4:57 PM ET",
+    "createTimeMs": 1791925047317,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0bc0e523-0c7a-4ce5-8edc-1807b2c82f89",
+        "durationSec": 239.6,
+        "file": "playlist/playlist_01_brighter_than_gold_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "180038a9-028d-4487-9773-c52bba782b91",
+        "durationSec": 239.72,
+        "file": "playlist/playlist_01_brighter_than_gold_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "playlist/req_0.json",
+      "playlist/rec_0.json"
+    ]
+  },
+  {
+    "title": "Mad at the Machine",
+    "collection": "media",
+    "slug": "mad_at_the_machine",
+    "model": "V6",
+    "style": "Dark club house, 126 BPM, deep driving bassline, punchy four-on-the-floor kick, crisp claps and open hi-hats, sidechained warm synth pads, big filtered build-ups into heavy bass drops, confident sassy female vocal, upfront and clear, nightclub energy",
+    "negativeTags": "chiptune, 8-bit, country, twang, guitar",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\nRound one... fight!\n\n[Verse 1]\nUp before the sun, you're already mad\nTyping \"AI's ruining art\" on your iPad\nYour phone finished your sentence, your feed picked your song\nYour car parks itself, but the robots are wrong?\n\n[Pre-Chorus]\nShout it louder, type it in caps\nAsk Siri where to post it, then take a lap\n\n[Chorus]\nYou're mad at the machine (mad, mad)\nBut you're living on a screen (mad, mad)\nAsked a bot to fix your grammar\nThen you swung the angry hammer\nYou're mad at the machine!\n\n[Verse 2]\nYou said \"no soul\" with a filter on your face\nSmoothed out your skin, now you're from outer space\nYour boss got an email that ChatGPT wrote\nThen you posted \"real humans only\" and you gloat\n\n[Pre-Chorus]\nShout it louder, type it in caps\nAsk Siri where to post it, then take a lap\n\n[Chorus]\nYou're mad at the machine (mad, mad)\nBut you're living on a screen (mad, mad)\nAsked a bot to fix your grammar\nThen you swung the angry hammer\nYou're mad at the machine!\n\n[Bridge]\nBeep boop, cry about it\nBeep boop, post about it\nYour toaster's got a better take\nReboot, reboot, for goodness' sake\n\n[Drop]\nMad! Mad! Mad at the machine!\n\n[Outro]\nGame over... insert coin\n(K.O.!)",
+    "taskId": "41f6d2d734ec68e17d655e1d7d1194eb",
+    "sunoClipIds": [
+      "2651e0b1-ead7-427f-8daf-693a2ae48537",
+      "b922d408-6f22-429d-9754-ba36111c7794"
+    ],
+    "created": "Oct 13, 2026 4:19 PM ET",
+    "createTimeMs": 1791922748685,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "2651e0b1-ead7-427f-8daf-693a2ae48537",
+        "durationSec": 238.8,
+        "file": "media/mad_at_the_machine_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "b922d408-6f22-429d-9754-ba36111c7794",
+        "durationSec": 239.56,
+        "file": "media/mad_at_the_machine_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "req.json",
+      "rec.json"
+    ]
+  },
+  {
+    "title": "Red and Blue",
+    "collection": "media",
+    "slug": "red_and_blue",
+    "model": "V6",
+    "style": "High-energy EDM club banger, 128 BPM, roaring motorcycle engine revs and police siren risers, pounding four-on-the-floor kick, gritty electro bass, strobe-like synth stabs, big build-ups into a hard chase-scene drop, cool commanding female vocal with chanted hooks, nightclub energy",
+    "negativeTags": "country, twang, acoustic guitar, chiptune",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Engine revs)\nLicense and registration... on the dance floor\n\n[Verse 1]\nChrome on the highway, mirror shades on\nMidnight patrol till the break of dawn\nYou were speeding through the city like you owned the lane\nNow the lights are in your rearview and they call your name\n\n[Pre-Chorus]\nPull it over, pull it over\nHands up high, now move it closer\n\n[Chorus]\nRed and blue, red and blue\nFlashing lights coming after you\nTwo wheels and a heartbeat thrill\nYou can run but the bass won't stand still\nRed and blue, red and blue!\n\n[Verse 2]\nLeather and thunder, the throttle's my voice\nWrite you a ticket, you don't get a choice\nDancing over the limit, ninety on the floor\nI'm the law of the night, and you're coming back for more\n\n[Pre-Chorus]\nPull it over, pull it over\nHands up high, now move it closer\n\n[Chorus]\nRed and blue, red and blue\nFlashing lights coming after you\nTwo wheels and a heartbeat thrill\nYou can run but the bass won't stand still\nRed and blue, red and blue!\n\n[Bridge]\nSirens on, sirens on\nChase it till the night is gone\nRev it up, rev it up\nNever gonna let you off\n\n[Drop]\n(Siren) Red and blue!\n(Engine revs) Pull it over!\n\n[Outro]\nYou're free to go...\nThis time.",
+    "taskId": "18d4b5c6247a4325cb3adffd401042e4",
+    "sunoClipIds": [
+      "5af1c439-4b2f-4a1e-8b04-4e9e02fc3fe0",
+      "50783ae9-fb25-4472-b46d-7c7198db0db8"
+    ],
+    "created": "Oct 13, 2026 4:21 PM ET",
+    "createTimeMs": 1791922873863,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "5af1c439-4b2f-4a1e-8b04-4e9e02fc3fe0",
+        "durationSec": 241.2,
+        "file": "media/red_and_blue_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "50783ae9-fb25-4472-b46d-7c7198db0db8",
+        "durationSec": 239.2,
+        "file": "media/red_and_blue_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "rb_req.json",
+      "red_and_blue_rec.json"
+    ]
+  },
+  {
+    "title": "Red and Blue (Synthwave)",
+    "collection": "media",
+    "slug": "red_and_blue_synth",
+    "model": "V6",
+    "style": "Dark 80s synthwave dance track, 120 BPM, driving pulsing bass arpeggios, gated reverb snare, retro analog synth leads, brooding minor-key melody, neon night chase atmosphere, action movie soundtrack energy, club-ready four-on-the-floor kick, cool breathy female vocal",
+    "negativeTags": "country, twang, acoustic guitar, chiptune, modern pop",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Engine revs)\nLicense and registration... on the dance floor\n\n[Verse 1]\nChrome on the highway, mirror shades on\nMidnight patrol till the break of dawn\nYou were speeding through the city like you owned the lane\nNow the lights are in your rearview and they call your name\n\n[Pre-Chorus]\nPull it over, pull it over\nHands up high, now move it closer\n\n[Chorus]\nRed and blue, red and blue\nFlashing lights coming after you\nTwo wheels and a heartbeat thrill\nYou can run but the bass won't stand still\nRed and blue, red and blue!\n\n[Verse 2]\nLeather and thunder, the throttle's my voice\nWrite you a ticket, you don't get a choice\nDancing over the limit, ninety on the floor\nI'm the law of the night, and you're coming back for more\n\n[Pre-Chorus]\nPull it over, pull it over\nHands up high, now move it closer\n\n[Chorus]\nRed and blue, red and blue\nFlashing lights coming after you\nTwo wheels and a heartbeat thrill\nYou can run but the bass won't stand still\nRed and blue, red and blue!\n\n[Bridge]\nSirens on, sirens on\nChase it till the night is gone\nRev it up, rev it up\nNever gonna let you off\n\n[Drop]\n(Siren) Red and blue!\n(Engine revs) Pull it over!\n\n[Outro]\nYou're free to go...\nThis time.",
+    "taskId": "13eac7417e9aa53b7146becb2f410110",
+    "sunoClipIds": [
+      "25fdb6b6-7186-498a-a26e-0f3b8b57f50e",
+      "931e11e6-7cd2-4876-85ec-6f665dcaf0fc"
+    ],
+    "created": "Oct 13, 2026 4:23 PM ET",
+    "createTimeMs": 1791922993315,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "25fdb6b6-7186-498a-a26e-0f3b8b57f50e",
+        "durationSec": 239.56,
+        "file": "media/red_and_blue_synth_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "931e11e6-7cd2-4876-85ec-6f665dcaf0fc",
+        "durationSec": 242.0,
+        "file": "media/red_and_blue_synth_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "rbs_req.json",
+      "red_and_blue_synth_rec.json"
+    ]
+  },
+  {
+    "title": "Iron Directive",
+    "collection": "media",
+    "slug": "iron_directive",
+    "model": "V6",
+    "style": "Late 80s early 90s industrial EBM, 118 BPM, cold sequenced analog bass, mechanical drum machine, harsh metallic percussion, dark atmospheric synth pads, distorted processed male vocals half spoken half shouted, sci-fi dialogue samples, dystopian cyberpunk atmosphere, dancefloor-driving rhythm",
+    "negativeTags": "pop, country, acoustic, guitar ballad, synthwave, happy",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Machine hum)\nSystem online. Directive accepted.\n\n[Verse 1]\nSteel in the bloodstream\nWires in the bone\nCity of static\nNo one walks alone\nThe grid is watching\nThe signal is clear\nObey the pulse\nThe end is near\n\n[Chorus]\nIron directive\nCommand and control\nIron directive\nMachines take the soul\n\n[Verse 2]\nConcrete horizon\nFactories of flame\nNumbers replace us\nNo one has a name\nSkin turns to circuit\nVoice turns to code\nMarch to the rhythm\nOf the overload\n\n[Chorus]\nIron directive\nCommand and control\nIron directive\nMachines take the soul\n\n[Bridge]\n(Distorted transmission)\nResistance is inefficient\nResistance is inefficient\n\n[Breakdown]\nControl. Control. Control.\n\n[Chorus]\nIron directive\nCommand and control\nIron directive\nMachines take the soul\n\n[Outro]\nDirective complete.\nShutting down.",
+    "taskId": "c39d269af6c4eb8436b69b95aff2ed47",
+    "sunoClipIds": [
+      "32141631-1c04-4f0c-aea3-e1756a87565a",
+      "fbb7afec-102e-4fb1-95e0-55c445ee126e"
+    ],
+    "created": "Oct 13, 2026 4:31 PM ET",
+    "createTimeMs": 1791923462996,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "32141631-1c04-4f0c-aea3-e1756a87565a",
+        "durationSec": 240.0,
+        "file": "media/iron_directive_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "fbb7afec-102e-4fb1-95e0-55c445ee126e",
+        "durationSec": 240.0,
+        "file": "media/iron_directive_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "id_req.json",
+      "iron_directive_rec.json"
+    ]
+  },
+  {
+    "title": "Lumen Silentii",
+    "collection": "media",
+    "slug": "lumen_silentii",
+    "model": "V6",
+    "style": "Early 90s new age downtempo, 96 BPM, slow hypnotic hip-hop breakbeat, deep reverb, monastic male choir chant textures, breathy whispered female vocals, ethereal synth pads, shakuhachi-like breathy flute, mysterious spiritual atmosphere, cinematic and sensual",
+    "negativeTags": "rock, country, pop punk, aggressive, EDM drop, metal",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Wind and distant bells)\n(Whispered) Close your eyes... and listen\n\n[Chant]\nLumen in tenebris\nVox silentii\n\n[Verse 1]\n(Whispered)\nThe candle remembers the dark\nThe river remembers the stone\nWhat you are searching for\nHas always been your own\n\n[Chorus]\nLumen silentii\nLight of the silent heart\nLumen silentii\nWe were never apart\n\n[Verse 2]\n(Whispered)\nBeneath the noise of the world\nA quieter voice will call\nFollow the breath inward\nAnd you will find it all\n\n[Chant]\nLumen in tenebris\nVox silentii\n\n[Chorus]\nLumen silentii\nLight of the silent heart\nLumen silentii\nWe were never apart\n\n[Bridge]\n(Whispered) Are you listening?\n(Whispered) Are you ready?\n\n[Outro]\nLumen... silentii\n(Bells fade)",
+    "taskId": "a8ce00ee49fbd6ee6e60b6cbc1ec91e5",
+    "sunoClipIds": [
+      "e3a0c286-1b44-47c6-8896-2b51f2067b42",
+      "38181cb4-5265-4079-b4e2-8589c3dbbf6e"
+    ],
+    "created": "Oct 13, 2026 4:34 PM ET",
+    "createTimeMs": 1791923672733,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "e3a0c286-1b44-47c6-8896-2b51f2067b42",
+        "durationSec": 239.52,
+        "file": "media/lumen_silentii_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "38181cb4-5265-4079-b4e2-8589c3dbbf6e",
+        "durationSec": 240.0,
+        "file": "media/lumen_silentii_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "ls_req.json",
+      "lumen_silentii_rec.json"
+    ]
+  },
+  {
+    "title": "Dead Signal",
+    "collection": "media",
+    "slug": "dead_signal",
+    "model": "V6",
+    "style": "Late 80s early 90s industrial EBM, 126 BPM, aggressive sequenced analog bass, pounding machine drums, clanging metal percussion, noisy distorted synth stabs, heavily processed growled male vocals, radio static and sci-fi transmission samples, bleak cyberpunk war atmosphere, relentless dancefloor energy",
+    "negativeTags": "pop, country, acoustic, synthwave, happy, ballad",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Radio static)\nThis is the last transmission.\n\n[Verse 1]\nBlack sky burning\nTowers fall\nNo one answers\nNo one calls\nEyes in orbit\nCold and wide\nNowhere left\nFor us to hide\n\n[Chorus]\nDead signal\nNo reply\nDead signal\nWatch it die\n\n[Verse 2]\nRust on the engine\nAsh on the skin\nWe built the monster\nNow it lets us in\nPulse in the cable\nGhost in the screen\nFlesh is the weakness\nIn the machine\n\n[Chorus]\nDead signal\nNo reply\nDead signal\nWatch it die\n\n[Bridge]\n(Distorted transmission)\nFrequency lost\nFrequency lost\n\n[Breakdown]\nNo reply. No reply. No reply.\n\n[Chorus]\nDead signal\nNo reply\nDead signal\nWatch it die\n\n[Outro]\n(Static)\nEnd of transmission.",
+    "taskId": "bc3aa85194fb0acb75d75abceab8e29a",
+    "sunoClipIds": [
+      "afc07f55-3a91-48b7-ba08-770e152cb7fe",
+      "b168d775-7419-46af-922d-f84ac6452547"
+    ],
+    "created": "Oct 13, 2026 4:36 PM ET",
+    "createTimeMs": 1791923761590,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "afc07f55-3a91-48b7-ba08-770e152cb7fe",
+        "durationSec": 239.6,
+        "file": "media/dead_signal_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "b168d775-7419-46af-922d-f84ac6452547",
+        "durationSec": 240.0,
+        "file": "media/dead_signal_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "ds_req.json",
+      "dead_signal_rec.json"
+    ]
+  },
+  {
+    "title": "Salt and Sunlight",
+    "collection": "media",
+    "slug": "salt_and_sunlight",
+    "model": "V6",
+    "style": "Balearic chill house, 112 BPM, Miami poolside lounge, warm deep house groove, soft shuffling percussion, lush Rhodes chords, airy synth pads, mellow sub bass, light Spanish guitar accents, ocean wave textures, silky breathy female vocal, sunset cocktail vibe",
+    "negativeTags": "rock, metal, country, aggressive, distorted, EDM drop",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.75,
+    "weirdnessConstraint": 0.6,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Ocean waves)\n\n[Verse 1]\nSun on my shoulders, ice in my glass\nLetting the hours drift slowly past\nPalm shadows moving across the blue\nNothing to chase, nothing to do\n\n[Chorus]\nSalt and sunlight\nMelting into the afternoon\nSalt and sunlight\nNo one's leaving too soon\n\n[Instrumental Break]\n\n[Verse 2]\nPink sky rising over the bay\nThe city hums a mile away\nYour hand in mine, the music low\nThe tide decides how slow we go\n\n[Chorus]\nSalt and sunlight\nMelting into the afternoon\nSalt and sunlight\nNo one's leaving too soon\n\n[Bridge]\n(Whispered) Stay a little longer\nStay a little longer\n\n[Outro]\nSalt and sunlight...\n(Waves fade)",
+    "taskId": "40fb1aadb69485239d0533ae98abbbd1",
+    "sunoClipIds": [
+      "7eb8164f-addc-491a-86f2-2432b93935dc",
+      "6d31507f-08b6-4c12-9668-95f42ceb1ae5"
+    ],
+    "created": "Oct 13, 2026 4:42 PM ET",
+    "createTimeMs": 1791924136319,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "7eb8164f-addc-491a-86f2-2432b93935dc",
+        "durationSec": 239.76,
+        "file": "media/salt_and_sunlight_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "6d31507f-08b6-4c12-9668-95f42ceb1ae5",
+        "durationSec": 240.0,
+        "file": "media/salt_and_sunlight_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "ss_req.json",
+      "salt_and_sunlight_rec.json"
+    ]
+  }
+]

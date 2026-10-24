@@ -1,0 +1,42 @@
+{
+  "title": "Voltage Choir",
+  "collection": "dark",
+  "slug": "dark_05_voltage_choir",
+  "model": "V6",
+  "style": "Early 90s EBM, 126 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, sci-fi radio transmissions, growled heavily processed male vocal, cyberpunk war dancefloor energy",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Radio static) Voltage rising.\n\n[Verse]\nSparks in the cables\nGhosts on the line\nThousands of voices\nLocked into time\n\n[Chorus]\nVoltage choir\nSing through the wire\nVoltage choir\nSet it on fire\n\n[Bridge]\n(Distorted) Can you hear us\nCan you hear us\n\n[Chorus]\nVoltage choir\nSing through the wire",
+  "taskId": "101c6724ba06dffab8b808962df0253b",
+  "sunoClipIds": [
+    "ffe4ce2b-039c-4051-a727-537d9ddaca3e",
+    "8d1342d1-274e-49fb-8725-b2be7d2b33cf"
+  ],
+  "created": "Oct 13, 2026 5:24 PM ET",
+  "createTimeMs": 1791926695259,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ffe4ce2b-039c-4051-a727-537d9ddaca3e",
+      "durationSec": 239.84,
+      "file": "dark/dark_05_voltage_choir_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "8d1342d1-274e-49fb-8725-b2be7d2b33cf",
+      "durationSec": 239.04,
+      "file": "dark/dark_05_voltage_choir_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/req_4.json",
+    "dark/rec_4.json"
+  ]
+}

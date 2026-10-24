@@ -1,0 +1,42 @@
+{
+  "title": "Iron Directive",
+  "collection": "media",
+  "slug": "iron_directive",
+  "model": "V6",
+  "style": "Late 80s early 90s industrial EBM, 118 BPM, cold sequenced analog bass, mechanical drum machine, harsh metallic percussion, dark atmospheric synth pads, distorted processed male vocals half spoken half shouted, sci-fi dialogue samples, dystopian cyberpunk atmosphere, dancefloor-driving rhythm",
+  "negativeTags": "pop, country, acoustic, guitar ballad, synthwave, happy",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Machine hum)\nSystem online. Directive accepted.\n\n[Verse 1]\nSteel in the bloodstream\nWires in the bone\nCity of static\nNo one walks alone\nThe grid is watching\nThe signal is clear\nObey the pulse\nThe end is near\n\n[Chorus]\nIron directive\nCommand and control\nIron directive\nMachines take the soul\n\n[Verse 2]\nConcrete horizon\nFactories of flame\nNumbers replace us\nNo one has a name\nSkin turns to circuit\nVoice turns to code\nMarch to the rhythm\nOf the overload\n\n[Chorus]\nIron directive\nCommand and control\nIron directive\nMachines take the soul\n\n[Bridge]\n(Distorted transmission)\nResistance is inefficient\nResistance is inefficient\n\n[Breakdown]\nControl. Control. Control.\n\n[Chorus]\nIron directive\nCommand and control\nIron directive\nMachines take the soul\n\n[Outro]\nDirective complete.\nShutting down.",
+  "taskId": "c39d269af6c4eb8436b69b95aff2ed47",
+  "sunoClipIds": [
+    "32141631-1c04-4f0c-aea3-e1756a87565a",
+    "fbb7afec-102e-4fb1-95e0-55c445ee126e"
+  ],
+  "created": "Oct 13, 2026 4:31 PM ET",
+  "createTimeMs": 1791923462996,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "32141631-1c04-4f0c-aea3-e1756a87565a",
+      "durationSec": 240.0,
+      "file": "media/iron_directive_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "fbb7afec-102e-4fb1-95e0-55c445ee126e",
+      "durationSec": 240.0,
+      "file": "media/iron_directive_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "id_req.json",
+    "iron_directive_rec.json"
+  ]
+}

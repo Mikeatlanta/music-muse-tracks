@@ -1,0 +1,42 @@
+{
+  "title": "Smoke and Bandoneon",
+  "collection": "playlist",
+  "slug": "playlist_02_smoke_and_bandoneon",
+  "model": "V6",
+  "style": "Electro-tango lounge, 104 BPM, sultry bandoneon melodies, nightclub piano, downtempo electronic beat with tango rhythm accents, deep warm bass, plucked strings, smoky vintage jazz-diva female vocal, sensual late-night cabaret atmosphere",
+  "negativeTags": "rock, metal, country, EDM drop, chiptune, rap, happy pop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Verse 1]\nRed velvet curtain, a cigarette glow\nThe band in the corner is playing it slow\nYou walked in at midnight with rain on your coat\nI sang you a promise in one silver note\n\n[Chorus]\nSmoke and bandoneon, pull me in close\nThe night is a dancer that nobody knows\nSmoke and bandoneon, sway till the dawn\nHold me like music, then you'll be gone\n\n[Verse 2]\nThe piano is sighing the things we won't say\nYour eyes keep on asking me, darling, to stay\nOne more for the lovers, one more for the lost\nI'll pay for the heartbreak, whatever the cost\n\n[Bridge]\nPaso a paso, step by step\nEvery turn a sweet regret\n\n[Chorus]\nSmoke and bandoneon, pull me in close\nThe night is a dancer that nobody knows",
+  "taskId": "0da6dac3bedd1f6540b83014fabd43ba",
+  "sunoClipIds": [
+    "242c63c6-431e-47c6-9ee9-957ff0eb9ca0",
+    "695c45d7-948d-451d-a961-c757d8477716"
+  ],
+  "created": "Oct 13, 2026 4:56 PM ET",
+  "createTimeMs": 1791924966885,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "242c63c6-431e-47c6-9ee9-957ff0eb9ca0",
+      "durationSec": 239.92,
+      "file": "playlist/playlist_02_smoke_and_bandoneon_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "695c45d7-948d-451d-a961-c757d8477716",
+      "durationSec": 239.0,
+      "file": "playlist/playlist_02_smoke_and_bandoneon_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "playlist/req_1.json",
+    "playlist/rec_1.json"
+  ]
+}

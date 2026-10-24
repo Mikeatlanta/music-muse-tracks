@@ -1,0 +1,42 @@
+{
+  "title": "Midnight Interceptor",
+  "collection": "dark",
+  "slug": "dark_06_midnight_interceptor",
+  "model": "V6",
+  "style": "Dark 80s retro synthwave, 112 BPM, pulsing bass arpeggios, gated reverb snare, brooding minor-key analog leads, neon night chase, action movie tension, driving four-on-the-floor, instrumental",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, vocals, modern pop",
+  "instrumental": true,
+  "vocalGender": "default/not set",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": "default/not set",
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": null,
+  "lyrics": "none (instrumental)",
+  "taskId": "de883e401aee723bd88d5d44123a3112",
+  "sunoClipIds": [
+    "ecc46899-3517-431a-807e-621b6475ba12",
+    "4a9a3f9c-4c2e-40fa-a0ef-eaa561376f07"
+  ],
+  "created": "Oct 13, 2026 5:24 PM ET",
+  "createTimeMs": 1791926694854,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ecc46899-3517-431a-807e-621b6475ba12",
+      "durationSec": 239.96,
+      "file": "dark/dark_06_midnight_interceptor_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "4a9a3f9c-4c2e-40fa-a0ef-eaa561376f07",
+      "durationSec": 239.92,
+      "file": "dark/dark_06_midnight_interceptor_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/req_5.json",
+    "dark/rec_5.json"
+  ]
+}

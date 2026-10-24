@@ -1,0 +1,42 @@
+{
+  "title": "Iron Curtain Call",
+  "collection": "dark",
+  "slug": "dark_02_iron_curtain_call",
+  "model": "V6",
+  "style": "Dark French electro techno, 124 BPM, saturated distorted bass, pounding kick, metallic hits, minimal menacing riff, cold spoken half-whispered female vocal, warehouse at 3am, cinematic dread",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Spoken) Lights out. Doors locked.\n\n[Verse]\nConcrete heartbeat under my feet\nShadows marching down the street\nNobody leaves till the music's done\nNobody sleeps till we've all gone numb\n\n[Chorus]\nIron curtain call\nWatch the empire fall\nIron curtain call\nBodies on the wall\n\n[Bridge]\n(Spoken) Encore. Encore.\nOne more time, then no more",
+  "taskId": "ebd3f19a752ebdd24a9c4695ad72846c",
+  "sunoClipIds": [
+    "31e3723f-40d8-480c-9b59-b8df7bd80664",
+    "d074980d-15cf-4fff-af1f-3665e1af13ac"
+  ],
+  "created": "Oct 13, 2026 5:25 PM ET",
+  "createTimeMs": 1791926712269,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "31e3723f-40d8-480c-9b59-b8df7bd80664",
+      "durationSec": 238.92,
+      "file": "dark/dark_02_iron_curtain_call_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d074980d-15cf-4fff-af1f-3665e1af13ac",
+      "durationSec": 238.76,
+      "file": "dark/dark_02_iron_curtain_call_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/req_1.json",
+    "dark/rec_1.json"
+  ]
+}

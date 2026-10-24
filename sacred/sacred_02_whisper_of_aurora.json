@@ -1,0 +1,42 @@
+{
+  "title": "Whisper of Aurora",
+  "collection": "sacred",
+  "slug": "sacred_02_whisper_of_aurora",
+  "model": "V6",
+  "style": "Ethereal ambient new age, 85 BPM, floating glassy pads, soft distant percussion, shimmering bells, intimate whispered female vocal, vast reverb, northern lights at dawn, meditative and serene",
+  "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune, EDM drop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Verse]\n(Whispered)\nColors moving through the frozen sky\nSoftly calling, softly passing by\nClose your eyes and let the morning in\nEvery ending is where you begin\n\n[Chorus]\nAurora, aurora\nCarry me higher\nAurora, aurora\nSilent fire\n\n[Outro]\n(Whispered) Let it glow",
+  "taskId": "35f9d837380a700e2bd46a08902912d0",
+  "sunoClipIds": [
+    "2f275f20-d0db-4e02-bd14-16bbf491bf06",
+    "32319e78-f20f-4ede-8b11-2642ce70fade"
+  ],
+  "created": "Oct 13, 2026 5:28 PM ET",
+  "createTimeMs": 1791926921004,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "2f275f20-d0db-4e02-bd14-16bbf491bf06",
+      "durationSec": 239.8,
+      "file": "sacred/sacred_02_whisper_of_aurora_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "32319e78-f20f-4ede-8b11-2642ce70fade",
+      "durationSec": 239.48,
+      "file": "sacred/sacred_02_whisper_of_aurora_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sacred/req_1.json",
+    "sacred/rec_1.json"
+  ]
+}

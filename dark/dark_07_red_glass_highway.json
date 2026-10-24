@@ -1,0 +1,42 @@
+{
+  "title": "Red Glass Highway",
+  "collection": "dark",
+  "slug": "dark_07_red_glass_highway",
+  "model": "V6",
+  "style": "Dark 80s synthwave, 104 BPM, driving pulse bass, gated snare, shimmering arpeggios, moody minor chords, cool breathy female vocal, rain-slick city highway at night, retro thriller atmosphere",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, modern pop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Verse]\nTaillights bleeding through the rain\nYou never told me your real name\nEngine humming, hands on chrome\nNowhere left that feels like home\n\n[Chorus]\nRed glass highway, take me far\nChasing ghosts in a borrowed car\nRed glass highway, hold on tight\nWe disappear into the night\n\n[Bridge]\nDon't look back, don't look back\nThe road is gone, the sky is black",
+  "taskId": "f9ba7e48742d493939d66846a1ca5840",
+  "sunoClipIds": [
+    "7f4c6b76-d5d0-4e19-a067-0d8273e09979",
+    "2134d092-c586-44fa-a516-7c7b686ef757"
+  ],
+  "created": "Oct 13, 2026 5:24 PM ET",
+  "createTimeMs": 1791926696877,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "7f4c6b76-d5d0-4e19-a067-0d8273e09979",
+      "durationSec": 238.72,
+      "file": "dark/dark_07_red_glass_highway_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "2134d092-c586-44fa-a516-7c7b686ef757",
+      "durationSec": 238.76,
+      "file": "dark/dark_07_red_glass_highway_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/req_6.json",
+    "dark/rec_6.json"
+  ]
+}

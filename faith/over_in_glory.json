@@ -1,0 +1,42 @@
+{
+  "title": "Over in Glory",
+  "collection": "faith",
+  "slug": "over_in_glory",
+  "model": "V6",
+  "style": "traditional Southern gospel hymn, old-time church piano, gentle Hammond organ, warm baritone male lead, four-part harmony quartet, 84 bpm, 3/4 waltz feel, reverent, nostalgic",
+  "negativeTags": "808, trap, EDM, synth, rap, autotune, rock",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.45,
+  "audioWeight": 0.65,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Church piano)\n\n[Verse 1]\nI have walked these dusty roads for many a year\nI have known the weight of sorrow, known the taste of tears\nBut the Savior walked beside me every mile\nAnd He whispered, Child, just rest a little while\n\n[Chorus]\n(Quartet harmony)\nOver in glory, there's a mansion bright\nWhere the weary find their rest and there is no night\nI'll lay my burdens down by the crystal sea\nOver in glory, Jesus waits for me\n\n[Verse 2]\nMother sang the old songs by the kitchen fire\nDaddy prayed on Sunday with the country choir\nNow they've gone on over to that golden shore\nAnd I know I'll see them standing at the door\n\n[Chorus]\nOver in glory, there's a mansion bright\nWhere the weary find their rest and there is no night\nI'll lay my burdens down by the crystal sea\nOver in glory, Jesus waits for me\n\n[Bridge]\n(Soft, spoken-sung)\nWhen this race is over and my work is through\nI'll go home rejoicing, Lord, to be with You\n\n[Final Chorus]\n(Full harmony, slight key lift)\nOver in glory, there's a mansion bright\nWhere the weary find their rest and there is no night\nI'll lay my burdens down by the crystal sea\nOver in glory, Jesus waits for me\n\n[Outro]\n(Slow, held harmony)\nJesus waits for me",
+  "taskId": "c462b97d687921e6e91f4dd3dea5e36c",
+  "sunoClipIds": [
+    "4e44ca1f-7d4c-4772-a8a2-2ef3a2b00fac",
+    "5da4589a-6b4e-4ed7-b8bf-02093bde657c"
+  ],
+  "created": "Oct 24, 2026 4:18 PM ET",
+  "createTimeMs": 1792873109721,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "4e44ca1f-7d4c-4772-a8a2-2ef3a2b00fac",
+      "durationSec": 209.2,
+      "file": "faith/over_in_glory_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5da4589a-6b4e-4ed7-b8bf-02093bde657c",
+      "durationSec": 209.16,
+      "file": "faith/over_in_glory_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "faith/oig_req.json",
+    "faith/oig_rec.json"
+  ]
+}

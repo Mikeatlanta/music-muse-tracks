@@ -1,0 +1,42 @@
+{
+  "title": "Paper Moons",
+  "collection": "playlist",
+  "slug": "playlist_09_paper_moons",
+  "model": "V6",
+  "style": "Dreamy melancholic indie electronic melodic house, 116 BPM, warm plucked synths, gentle rolling groove, soft deep bass, hazy reverb pads, intimate soft male and female duet vocals trading lines and harmonizing, bittersweet late-night feeling",
+  "negativeTags": "rock, metal, country, aggressive, distorted, EDM drop, rap",
+  "instrumental": false,
+  "vocalGender": "default/not set",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Verse 1 - Male]\nWe cut out paper moons\nAnd hung them on the wall\nPretending they were real\nBefore the ceiling falls\n\n[Verse 1 - Female]\nYou hum a half-remembered tune\nI fill the empty space\nWe fold the quiet into shapes\nThat time cannot erase\n\n[Chorus - Duet]\nPaper moons, glowing soft and low\nHolding on to what we used to know\nPaper moons, fragile as a sigh\nLight enough to drift across the sky\n\n[Bridge - Female]\nIf the morning tears them down\n(Male) We'll make another one\n(Duet) We'll make another one\n\n[Chorus - Duet]\nPaper moons, glowing soft and low\nHolding on to what we used to know",
+  "taskId": "0bfe5701c4173364422f285f754af074",
+  "sunoClipIds": [
+    "a2844375-568f-4342-a57b-41017537ddf2",
+    "fb55f8f5-6d61-4a43-9de3-53adcead0400"
+  ],
+  "created": "Oct 13, 2026 4:55 PM ET",
+  "createTimeMs": 1791924946446,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "a2844375-568f-4342-a57b-41017537ddf2",
+      "durationSec": 239.6,
+      "file": "playlist/playlist_09_paper_moons_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "fb55f8f5-6d61-4a43-9de3-53adcead0400",
+      "durationSec": 239.84,
+      "file": "playlist/playlist_09_paper_moons_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "playlist/req_8.json",
+    "playlist/rec_8.json"
+  ]
+}

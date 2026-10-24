@@ -1,0 +1,42 @@
+{
+  "title": "Velvet Telephone",
+  "collection": "playlist",
+  "slug": "playlist_04_velvet_telephone",
+  "model": "V6",
+  "style": "80s Italo disco, 116 BPM, octave-bouncing synth bass, Linn-style drum machine, shimmering arpeggiated synths, vocoder accents, glossy retro romance, nostalgic European dancefloor, confident male vocal with slight accent",
+  "negativeTags": "rock, metal, country, trap, dubstep, modern pop",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Verse]\nMidnight call on a velvet line\nYour number glowing, so divine\nNeon signals across the town\nPick it up, don't let me down\n\n[Chorus]\nVelvet telephone, ring ring ring\nDancing to the song you sing\nVelvet telephone, call me tonight\nDisco hearts in electric light\n\n[Bridge]\nHello, hello, are you there?\nStatic love is in the air",
+  "taskId": "52acf867bfc2b9747402ccb0b6e21941",
+  "sunoClipIds": [
+    "3747d831-4091-4344-bf5f-82379260a60a",
+    "f2acb8e8-c7cc-49a3-a2c4-0c3c23206c41"
+  ],
+  "created": "Oct 13, 2026 4:53 PM ET",
+  "createTimeMs": 1791924801036,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "3747d831-4091-4344-bf5f-82379260a60a",
+      "durationSec": 239.52,
+      "file": "playlist/playlist_04_velvet_telephone_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "f2acb8e8-c7cc-49a3-a2c4-0c3c23206c41",
+      "durationSec": 239.6,
+      "file": "playlist/playlist_04_velvet_telephone_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "playlist/req_3.json",
+    "playlist/rec_3.json"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Amber Caravan",
+  "collection": "playlist",
+  "slug": "playlist_03_amber_caravan",
+  "model": "V6",
+  "style": "Organic Afro house, 120 BPM, tribal shakers and congas, deep warm bassline, kalimba motifs, earthy melodic synths, silky soulful female vocal, open-air sunset dancefloor",
+  "negativeTags": "rock, metal, country, aggressive, distorted, chiptune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Verse]\nSand in my hair and the drums in my chest\nFollowing fire toward the west\nLanterns are swaying, the stars draw near\nEvery step forward, the road is clear\n\n[Chorus]\nAmber caravan, carry me home\nUnder the moon I'm never alone\nAmber caravan, slow and bright\nDancing on into the night\n\n[Bridge]\nFeel the earth, feel the sky\nLet the rhythm lift you high",
+  "taskId": "569e5b7e73331f1d34e057361e1cc80a",
+  "sunoClipIds": [
+    "bedca67b-153a-4f6d-bb34-be2fe460d9d9",
+    "d379dd85-35d3-47aa-8ad5-4a156f028854"
+  ],
+  "created": "Oct 13, 2026 4:53 PM ET",
+  "createTimeMs": 1791924801643,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "bedca67b-153a-4f6d-bb34-be2fe460d9d9",
+      "durationSec": 239.72,
+      "file": "playlist/playlist_03_amber_caravan_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d379dd85-35d3-47aa-8ad5-4a156f028854",
+      "durationSec": 239.96,
+      "file": "playlist/playlist_03_amber_caravan_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "playlist/req_2.json",
+    "playlist/rec_2.json"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Machine Lumière",
+  "collection": "playlist",
+  "slug": "playlist_08_machine_lumiere",
+  "model": "V6",
+  "style": "Dark French techno, 124 BPM, distorted driving bass, punchy kick, metallic percussion, cold minimal synth stabs, filtered tension builds, spoken deep male vocal, gritty warehouse atmosphere",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Spoken) Lumière... in the machine\n\n[Verse]\nConcrete pulse beneath the floor\nSteel and shadow, wanting more\nLights cut through the smoking air\nBodies moving, no one cares\n\n[Chorus]\nMachine lumière, burn it bright\nMachine lumière, own the night\n\n[Bridge]\n(Spoken) Plus fort. Plus fort.\nLouder. Louder.",
+  "taskId": "f9e80f9d402bce0fb988388af14985dc",
+  "sunoClipIds": [
+    "4070641f-f13e-499c-921e-8bb00779d443",
+    "417ffc8d-8a21-449c-ab09-d9365c18df80"
+  ],
+  "created": "Oct 13, 2026 4:53 PM ET",
+  "createTimeMs": 1791924834778,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "4070641f-f13e-499c-921e-8bb00779d443",
+      "durationSec": 239.84,
+      "file": "playlist/playlist_08_machine_lumiere_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "417ffc8d-8a21-449c-ab09-d9365c18df80",
+      "durationSec": 239.6,
+      "file": "playlist/playlist_08_machine_lumiere_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "playlist/req_7.json",
+    "playlist/rec_7.json"
+  ]
+}

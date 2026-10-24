@@ -1,0 +1,42 @@
+{
+  "title": "Static Velvet",
+  "collection": "playlist",
+  "slug": "playlist_06_static_velvet",
+  "model": "V6",
+  "style": "Dark moody alternative R&B slow jam meets industrial synth, 100 BPM, heavy distorted analog synth bass, cinematic brooding pads, sparse hard-hitting drums, smoky atmosphere, brooding falsetto male vocal, intimate and menacing late-night mood",
+  "negativeTags": "country, happy, acoustic, chiptune, upbeat pop, EDM drop",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Verse 1]\nStatic in the velvet dark\nYou leave a burn but not a mark\nRed light humming on the wall\nI hear you even when you don't call\n\n[Chorus]\nStatic velvet, wrap me tight\nPull me under through the night\nStatic velvet on my skin\nEvery time I let you in\n\n[Verse 2]\nMachines are breathing in the floor\nYou say you're leaving, then want more\nCold steel heartbeat, slow and low\nTell me something I don't know\n\n[Bridge]\nDon't turn the lights on\nDon't turn the lights on\n\n[Chorus]\nStatic velvet, wrap me tight\nPull me under through the night",
+  "taskId": "38f25f0dcde3929385d55947840532b0",
+  "sunoClipIds": [
+    "e9035ca5-2acb-4f99-838e-030b69a65500",
+    "14317304-98b7-409c-a06e-1f66c163ed5f"
+  ],
+  "created": "Oct 13, 2026 4:57 PM ET",
+  "createTimeMs": 1791925039883,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "e9035ca5-2acb-4f99-838e-030b69a65500",
+      "durationSec": 239.0,
+      "file": "playlist/playlist_06_static_velvet_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "14317304-98b7-409c-a06e-1f66c163ed5f",
+      "durationSec": 239.6,
+      "file": "playlist/playlist_06_static_velvet_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "playlist/req_5.json",
+    "playlist/rec_5.json"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Drums of the Red Earth",
+  "collection": "sacred",
+  "slug": "sacred_04_drums_of_the_red_earth",
+  "model": "V6",
+  "style": "Tribal world trance, 128 BPM, layered ethnic hand drums and talking drums, hypnotic rolling bassline, didgeridoo-like drones, wordless group chant, primal ceremonial energy, spacious psychedelic pads",
+  "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Drums)\n\n[Chant]\nOh-ya-ma, oh-ya-ma\nHeh-ya, heh-ya, oh\n\n[Instrumental Break]\n\n[Chant]\nOh-ya-ma, kai-na-ro\nHeh-ya, heh-ya, oh\n\n[Outro]\n(Drums fade)",
+  "taskId": "bdb7ab05ee09c7bb4ab12352791e9b69",
+  "sunoClipIds": [
+    "074ed976-b37b-48e4-8a5f-7d1bb065f317",
+    "b3366416-f7d6-4b8d-bff1-e88000f9a6a1"
+  ],
+  "created": "Oct 13, 2026 5:28 PM ET",
+  "createTimeMs": 1791926897695,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "074ed976-b37b-48e4-8a5f-7d1bb065f317",
+      "durationSec": 239.96,
+      "file": "sacred/sacred_04_drums_of_the_red_earth_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "b3366416-f7d6-4b8d-bff1-e88000f9a6a1",
+      "durationSec": 239.16,
+      "file": "sacred/sacred_04_drums_of_the_red_earth_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sacred/req_3.json",
+    "sacred/rec_3.json"
+  ]
+}

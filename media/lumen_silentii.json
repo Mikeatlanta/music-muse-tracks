@@ -1,0 +1,42 @@
+{
+  "title": "Lumen Silentii",
+  "collection": "media",
+  "slug": "lumen_silentii",
+  "model": "V6",
+  "style": "Early 90s new age downtempo, 96 BPM, slow hypnotic hip-hop breakbeat, deep reverb, monastic male choir chant textures, breathy whispered female vocals, ethereal synth pads, shakuhachi-like breathy flute, mysterious spiritual atmosphere, cinematic and sensual",
+  "negativeTags": "rock, country, pop punk, aggressive, EDM drop, metal",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Wind and distant bells)\n(Whispered) Close your eyes... and listen\n\n[Chant]\nLumen in tenebris\nVox silentii\n\n[Verse 1]\n(Whispered)\nThe candle remembers the dark\nThe river remembers the stone\nWhat you are searching for\nHas always been your own\n\n[Chorus]\nLumen silentii\nLight of the silent heart\nLumen silentii\nWe were never apart\n\n[Verse 2]\n(Whispered)\nBeneath the noise of the world\nA quieter voice will call\nFollow the breath inward\nAnd you will find it all\n\n[Chant]\nLumen in tenebris\nVox silentii\n\n[Chorus]\nLumen silentii\nLight of the silent heart\nLumen silentii\nWe were never apart\n\n[Bridge]\n(Whispered) Are you listening?\n(Whispered) Are you ready?\n\n[Outro]\nLumen... silentii\n(Bells fade)",
+  "taskId": "a8ce00ee49fbd6ee6e60b6cbc1ec91e5",
+  "sunoClipIds": [
+    "e3a0c286-1b44-47c6-8896-2b51f2067b42",
+    "38181cb4-5265-4079-b4e2-8589c3dbbf6e"
+  ],
+  "created": "Oct 13, 2026 4:34 PM ET",
+  "createTimeMs": 1791923672733,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "e3a0c286-1b44-47c6-8896-2b51f2067b42",
+      "durationSec": 239.52,
+      "file": "media/lumen_silentii_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "38181cb4-5265-4079-b4e2-8589c3dbbf6e",
+      "durationSec": 240.0,
+      "file": "media/lumen_silentii_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "ls_req.json",
+    "lumen_silentii_rec.json"
+  ]
+}

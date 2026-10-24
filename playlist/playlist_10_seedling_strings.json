@@ -1,0 +1,42 @@
+{
+  "title": "Seedling Strings",
+  "collection": "playlist",
+  "slug": "playlist_10_seedling_strings",
+  "model": "V6",
+  "style": "Uplifting organic melodic deep house, 120 BPM, warm acoustic and string-like plucks, lush emotive chord progressions, soft rolling groove, gentle hand percussion, deep warm bass, mostly instrumental with occasional airy wordless female vocal chops, hopeful sunrise feeling",
+  "negativeTags": "rock, metal, country, aggressive, distorted, chiptune, rap",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Instrumental]\n\n[Vocal Chops]\nOoh... ah...\n\n[Instrumental Break]\n\n[Vocal Chops]\nRise... ooh...\n\n[Instrumental]\n\n[Outro]\nAh...",
+  "taskId": "944e2e920876b9b92aac9078a696e664",
+  "sunoClipIds": [
+    "0b977b58-c241-4ad0-b5a6-90c723f28bbe",
+    "dacc5599-f75f-4395-9f67-3656d812e6b5"
+  ],
+  "created": "Oct 13, 2026 4:53 PM ET",
+  "createTimeMs": 1791924834746,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0b977b58-c241-4ad0-b5a6-90c723f28bbe",
+      "durationSec": 239.92,
+      "file": "playlist/playlist_10_seedling_strings_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "dacc5599-f75f-4395-9f67-3656d812e6b5",
+      "durationSec": 239.6,
+      "file": "playlist/playlist_10_seedling_strings_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "playlist/req_9.json",
+    "playlist/rec_9.json"
+  ]
+}

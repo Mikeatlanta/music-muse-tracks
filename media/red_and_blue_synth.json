@@ -1,0 +1,42 @@
+{
+  "title": "Red and Blue (Synthwave)",
+  "collection": "media",
+  "slug": "red_and_blue_synth",
+  "model": "V6",
+  "style": "Dark 80s synthwave dance track, 120 BPM, driving pulsing bass arpeggios, gated reverb snare, retro analog synth leads, brooding minor-key melody, neon night chase atmosphere, action movie soundtrack energy, club-ready four-on-the-floor kick, cool breathy female vocal",
+  "negativeTags": "country, twang, acoustic guitar, chiptune, modern pop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Engine revs)\nLicense and registration... on the dance floor\n\n[Verse 1]\nChrome on the highway, mirror shades on\nMidnight patrol till the break of dawn\nYou were speeding through the city like you owned the lane\nNow the lights are in your rearview and they call your name\n\n[Pre-Chorus]\nPull it over, pull it over\nHands up high, now move it closer\n\n[Chorus]\nRed and blue, red and blue\nFlashing lights coming after you\nTwo wheels and a heartbeat thrill\nYou can run but the bass won't stand still\nRed and blue, red and blue!\n\n[Verse 2]\nLeather and thunder, the throttle's my voice\nWrite you a ticket, you don't get a choice\nDancing over the limit, ninety on the floor\nI'm the law of the night, and you're coming back for more\n\n[Pre-Chorus]\nPull it over, pull it over\nHands up high, now move it closer\n\n[Chorus]\nRed and blue, red and blue\nFlashing lights coming after you\nTwo wheels and a heartbeat thrill\nYou can run but the bass won't stand still\nRed and blue, red and blue!\n\n[Bridge]\nSirens on, sirens on\nChase it till the night is gone\nRev it up, rev it up\nNever gonna let you off\n\n[Drop]\n(Siren) Red and blue!\n(Engine revs) Pull it over!\n\n[Outro]\nYou're free to go...\nThis time.",
+  "taskId": "13eac7417e9aa53b7146becb2f410110",
+  "sunoClipIds": [
+    "25fdb6b6-7186-498a-a26e-0f3b8b57f50e",
+    "931e11e6-7cd2-4876-85ec-6f665dcaf0fc"
+  ],
+  "created": "Oct 13, 2026 4:23 PM ET",
+  "createTimeMs": 1791922993315,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "25fdb6b6-7186-498a-a26e-0f3b8b57f50e",
+      "durationSec": 239.56,
+      "file": "media/red_and_blue_synth_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "931e11e6-7cd2-4876-85ec-6f665dcaf0fc",
+      "durationSec": 242.0,
+      "file": "media/red_and_blue_synth_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "rbs_req.json",
+    "red_and_blue_synth_rec.json"
+  ]
+}

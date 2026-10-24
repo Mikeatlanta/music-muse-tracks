@@ -1,0 +1,42 @@
+{
+  "title": "Mad at the Machine",
+  "collection": "media",
+  "slug": "mad_at_the_machine",
+  "model": "V6",
+  "style": "Dark club house, 126 BPM, deep driving bassline, punchy four-on-the-floor kick, crisp claps and open hi-hats, sidechained warm synth pads, big filtered build-ups into heavy bass drops, confident sassy female vocal, upfront and clear, nightclub energy",
+  "negativeTags": "chiptune, 8-bit, country, twang, guitar",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\nRound one... fight!\n\n[Verse 1]\nUp before the sun, you're already mad\nTyping \"AI's ruining art\" on your iPad\nYour phone finished your sentence, your feed picked your song\nYour car parks itself, but the robots are wrong?\n\n[Pre-Chorus]\nShout it louder, type it in caps\nAsk Siri where to post it, then take a lap\n\n[Chorus]\nYou're mad at the machine (mad, mad)\nBut you're living on a screen (mad, mad)\nAsked a bot to fix your grammar\nThen you swung the angry hammer\nYou're mad at the machine!\n\n[Verse 2]\nYou said \"no soul\" with a filter on your face\nSmoothed out your skin, now you're from outer space\nYour boss got an email that ChatGPT wrote\nThen you posted \"real humans only\" and you gloat\n\n[Pre-Chorus]\nShout it louder, type it in caps\nAsk Siri where to post it, then take a lap\n\n[Chorus]\nYou're mad at the machine (mad, mad)\nBut you're living on a screen (mad, mad)\nAsked a bot to fix your grammar\nThen you swung the angry hammer\nYou're mad at the machine!\n\n[Bridge]\nBeep boop, cry about it\nBeep boop, post about it\nYour toaster's got a better take\nReboot, reboot, for goodness' sake\n\n[Drop]\nMad! Mad! Mad at the machine!\n\n[Outro]\nGame over... insert coin\n(K.O.!)",
+  "taskId": "41f6d2d734ec68e17d655e1d7d1194eb",
+  "sunoClipIds": [
+    "2651e0b1-ead7-427f-8daf-693a2ae48537",
+    "b922d408-6f22-429d-9754-ba36111c7794"
+  ],
+  "created": "Oct 13, 2026 4:19 PM ET",
+  "createTimeMs": 1791922748685,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "2651e0b1-ead7-427f-8daf-693a2ae48537",
+      "durationSec": 238.8,
+      "file": "media/mad_at_the_machine_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "b922d408-6f22-429d-9754-ba36111c7794",
+      "durationSec": 239.56,
+      "file": "media/mad_at_the_machine_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "req.json",
+    "rec.json"
+  ]
+}

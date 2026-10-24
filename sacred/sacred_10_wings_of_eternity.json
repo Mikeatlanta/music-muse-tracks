@@ -1,0 +1,42 @@
+{
+  "title": "Wings of Eternity",
+  "collection": "sacred",
+  "slug": "sacred_10_wings_of_eternity",
+  "model": "V6",
+  "style": "Euphoric 90s dream trance anthem, 138 BPM, iconic piano lead, shimmering supersaw chords, driving trance bass, huge emotional breakdown, soaring female vocal, hands-in-the-air festival euphoria",
+  "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Verse]\nI dreamed of a light beyond the sea\nA thousand stars were calling me\nNo fear, no chains, no walls, no end\nJust open sky around the bend\n\n[Chorus]\nFly on wings of eternity\nOver the world, wild and free\nFly on wings of eternity\nForever is where we'll be\n\n[Bridge]\nHigher than the night\nBrighter than the light\n\n[Chorus]\nFly on wings of eternity\nOver the world, wild and free",
+  "taskId": "b01613929fe57ffdb9dba25accada294",
+  "sunoClipIds": [
+    "c5b98392-62f1-4b93-ad06-73e05baf6139",
+    "121e0aa3-cc6c-458e-80e1-6efaeb2c7ff6"
+  ],
+  "created": "Oct 13, 2026 5:28 PM ET",
+  "createTimeMs": 1791926907383,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "c5b98392-62f1-4b93-ad06-73e05baf6139",
+      "durationSec": 239.2,
+      "file": "sacred/sacred_10_wings_of_eternity_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "121e0aa3-cc6c-458e-80e1-6efaeb2c7ff6",
+      "durationSec": 239.52,
+      "file": "sacred/sacred_10_wings_of_eternity_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sacred/req_9.json",
+    "sacred/rec_9.json"
+  ]
+}

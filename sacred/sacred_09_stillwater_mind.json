@@ -1,0 +1,42 @@
+{
+  "title": "Stillwater Mind",
+  "collection": "sacred",
+  "slug": "sacred_09_stillwater_mind",
+  "model": "V6",
+  "style": "Deep meditative ambient house, 110 BPM, soft four-on-the-floor kick, warm sub bass, slow evolving pads, singing bowl tones, gentle water textures, deep calm focus, minimal and spacious, instrumental",
+  "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune, vocals, EDM drop",
+  "instrumental": true,
+  "vocalGender": "default/not set",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": "default/not set",
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": null,
+  "lyrics": "none (instrumental)",
+  "taskId": "ac4bb5bddad45ce09fd082b1a20dfaf3",
+  "sunoClipIds": [
+    "01d48cf9-7ab6-42fb-83e1-c96f454f9778",
+    "638bd280-f024-4804-8046-595ec9367d5c"
+  ],
+  "created": "Oct 13, 2026 5:28 PM ET",
+  "createTimeMs": 1791926901048,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "01d48cf9-7ab6-42fb-83e1-c96f454f9778",
+      "durationSec": 240.0,
+      "file": "sacred/sacred_09_stillwater_mind_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "638bd280-f024-4804-8046-595ec9367d5c",
+      "durationSec": 239.52,
+      "file": "sacred/sacred_09_stillwater_mind_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sacred/req_8.json",
+    "sacred/rec_8.json"
+  ]
+}

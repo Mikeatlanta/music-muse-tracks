@@ -1,0 +1,42 @@
+{
+  "title": "Isla de Luz",
+  "collection": "sacred",
+  "slug": "sacred_03_isla_de_luz",
+  "model": "V6",
+  "style": "Uplifting 90s Balearic trance, 132 BPM, warm supersaw chords, Spanish guitar-like plucks, rolling offbeat bass, sun-drenched euphoric breakdown, ocean breeze pads, sunrise beach terrace, instrumental",
+  "negativeTags": "rock, metal, country, pop punk, aggressive, rap, chiptune, vocals",
+  "instrumental": true,
+  "vocalGender": "default/not set",
+  "styleWeight": 0.75,
+  "weirdnessConstraint": 0.6,
+  "audioWeight": "default/not set",
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": null,
+  "lyrics": "none (instrumental)",
+  "taskId": "17808521ef3b47b7b4f7bfffa5638aad",
+  "sunoClipIds": [
+    "69d60803-f0b8-4854-b2b5-1bbf4752b3ac",
+    "6ffe9c5d-c897-4bfa-aa6f-e79714c433c3"
+  ],
+  "created": "Oct 13, 2026 5:28 PM ET",
+  "createTimeMs": 1791926895022,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "69d60803-f0b8-4854-b2b5-1bbf4752b3ac",
+      "durationSec": 240.0,
+      "file": "sacred/sacred_03_isla_de_luz_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "6ffe9c5d-c897-4bfa-aa6f-e79714c433c3",
+      "durationSec": 239.96,
+      "file": "sacred/sacred_03_isla_de_luz_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sacred/req_2.json",
+    "sacred/rec_2.json"
+  ]
+}

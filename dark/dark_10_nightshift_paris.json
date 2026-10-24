@@ -1,0 +1,42 @@
+{
+  "title": "Nightshift Paris",
+  "collection": "dark",
+  "slug": "dark_10_nightshift_paris",
+  "model": "V6",
+  "style": "Hybrid dark electro, 120 BPM, distorted French electro bass, rigid EBM sequenced bassline, pulsing synthwave arpeggios, gated snare, menacing filtered builds, cinematic night chase through a city, instrumental",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, vocals",
+  "instrumental": true,
+  "vocalGender": "default/not set",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": "default/not set",
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": null,
+  "lyrics": "none (instrumental)",
+  "taskId": "4ed495f009e1071e08d9365d45eca689",
+  "sunoClipIds": [
+    "cdff7999-cfd8-4a35-b3ba-b66a035af0f1",
+    "335976c6-5b65-46fe-9260-14b750c3b95d"
+  ],
+  "created": "Oct 13, 2026 5:25 PM ET",
+  "createTimeMs": 1791926703276,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "cdff7999-cfd8-4a35-b3ba-b66a035af0f1",
+      "durationSec": 239.52,
+      "file": "dark/dark_10_nightshift_paris_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "335976c6-5b65-46fe-9260-14b750c3b95d",
+      "durationSec": 239.96,
+      "file": "dark/dark_10_nightshift_paris_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/req_9.json",
+    "dark/rec_9.json"
+  ]
+}

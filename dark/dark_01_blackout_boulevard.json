@@ -1,0 +1,42 @@
+{
+  "title": "Blackout Boulevard",
+  "collection": "dark",
+  "slug": "dark_01_blackout_boulevard",
+  "model": "V6",
+  "style": "Dark cinematic French electro, 118 BPM, heavily distorted analog bass, menacing minimal groove, crunchy compressed drums, ominous synth stabs, film-noir tension, filtered sweeps, instrumental",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, vocals",
+  "instrumental": true,
+  "vocalGender": "default/not set",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": "default/not set",
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": null,
+  "lyrics": "none (instrumental)",
+  "taskId": "a2bf2997f7a223e4329d2932392ded3f",
+  "sunoClipIds": [
+    "310ed569-4a01-49aa-b64d-3bfc492c520b",
+    "2b9bf617-a068-43dd-ad31-347846f5cd8a"
+  ],
+  "created": "Oct 13, 2026 5:24 PM ET",
+  "createTimeMs": 1791926697568,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "310ed569-4a01-49aa-b64d-3bfc492c520b",
+      "durationSec": 239.32,
+      "file": "dark/dark_01_blackout_boulevard_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "2b9bf617-a068-43dd-ad31-347846f5cd8a",
+      "durationSec": 239.56,
+      "file": "dark/dark_01_blackout_boulevard_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/req_0.json",
+    "dark/rec_0.json"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Dead Signal",
+  "collection": "media",
+  "slug": "dead_signal",
+  "model": "V6",
+  "style": "Late 80s early 90s industrial EBM, 126 BPM, aggressive sequenced analog bass, pounding machine drums, clanging metal percussion, noisy distorted synth stabs, heavily processed growled male vocals, radio static and sci-fi transmission samples, bleak cyberpunk war atmosphere, relentless dancefloor energy",
+  "negativeTags": "pop, country, acoustic, synthwave, happy, ballad",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Radio static)\nThis is the last transmission.\n\n[Verse 1]\nBlack sky burning\nTowers fall\nNo one answers\nNo one calls\nEyes in orbit\nCold and wide\nNowhere left\nFor us to hide\n\n[Chorus]\nDead signal\nNo reply\nDead signal\nWatch it die\n\n[Verse 2]\nRust on the engine\nAsh on the skin\nWe built the monster\nNow it lets us in\nPulse in the cable\nGhost in the screen\nFlesh is the weakness\nIn the machine\n\n[Chorus]\nDead signal\nNo reply\nDead signal\nWatch it die\n\n[Bridge]\n(Distorted transmission)\nFrequency lost\nFrequency lost\n\n[Breakdown]\nNo reply. No reply. No reply.\n\n[Chorus]\nDead signal\nNo reply\nDead signal\nWatch it die\n\n[Outro]\n(Static)\nEnd of transmission.",
+  "taskId": "bc3aa85194fb0acb75d75abceab8e29a",
+  "sunoClipIds": [
+    "afc07f55-3a91-48b7-ba08-770e152cb7fe",
+    "b168d775-7419-46af-922d-f84ac6452547"
+  ],
+  "created": "Oct 13, 2026 4:36 PM ET",
+  "createTimeMs": 1791923761590,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "afc07f55-3a91-48b7-ba08-770e152cb7fe",
+      "durationSec": 239.6,
+      "file": "media/dead_signal_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "b168d775-7419-46af-922d-f84ac6452547",
+      "durationSec": 240.0,
+      "file": "media/dead_signal_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "ds_req.json",
+    "dead_signal_rec.json"
+  ]
+}
