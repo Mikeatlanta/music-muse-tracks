@@ -864,4 +864,4 @@ const fx=document.getElementById("favx"),ft=document.getElementById("favtxt");
 document.getElementById("favio").onclick=()=>{fx.classList.toggle("hide");ft.value=JSON.stringify([...favs])};
 document.getElementById("favcopy").onclick=e=>cpy(ft.value=JSON.stringify([...favs]),e.target);
 document.getElementById("favimp").onclick=()=>{try{const a=JSON.parse(ft.value);if(!Array.isArray(a))throw 0;const ids=new Set([...document.querySelectorAll(".card")].map(c=>c.id));const n=a.filter(x=>ids.has(x));n.forEach(x=>favs.add(x));save();apply();alert("Imported "+n.length+" favorites")}catch(e){alert("Paste a JSON list like [\"slug1\",\"slug2\"]")}};
-</script></body></html>
+apply();</script></body></html>
