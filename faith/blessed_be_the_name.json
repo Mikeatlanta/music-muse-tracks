@@ -1,0 +1,44 @@
+{
+  "title": "Blessed Be the Name",
+  "collection": "faith",
+  "slug": "blessed_be_the_name",
+  "model": "V6",
+  "style": "Early 90s EBM, 124 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, numbers-station radio, growled processed male vocal, industrial church bells, dark sacred undertone, distant choir stab",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Numbers-station voice, distorted) Request to the throne... permission granted... the hedge is down\n\n[Verse 1]\n(Growled)\nI said strip him to the bone and he'll curse You to Your face\nSabeans took the oxen, fire fell and burned the place\nChaldeans took the camels, then I sent the desert wind\nAnd the house came down on the feast where his children had been\n\n[Pre-Chorus]\nI took it all\nI waited for the fall\n\n[Chorus]\n(Chant, gang vocals)\nBlessed be the Name\nI took it all, he stayed the same\nThe Lord gave, the Lord took away\nBlessed be the Name, and I'm put to shame\n\n[Verse 2]\n(Growled)\nI covered him in boils from his head down to his feet\nHe sat down in the ashes, scraping with a shard in the heat\nHis wife said curse your God and die, his friends said you're to blame\nBut he lifted up his broken hands and he called upon the Name\n\n[Pre-Chorus]\nI took it all\nI waited for the fall\n\n[Chorus]\nBlessed be the Name\nI took it all, he stayed the same\nThe Lord gave, the Lord took away\nBlessed be the Name, and I'm put to shame\n\n[Bridge]\n(Numbers-station voice) Subject response intercepted...\n(Pitched-down spoken voice) I know that my Redeemer lives\n(Growled, slower) Out of the ash, out of the night\nI heard him sing, and I lost the fight\n\n[Final Chorus]\n(Full intensity, choir stab)\nBlessed be the Name\nI took it all, he stayed the same\nThe Lord gave, the Lord took away\nBlessed be the Name, and I'm put to shame\n\n[Outro]\n(Numbers-station voice) Restoration... double... file closed\n(Distorted whisper) Blessed be the Name",
+  "taskId": "a93b75633ce0978fe3c19841cb927d3e",
+  "sunoClipIds": [
+    "2c427a15-1619-41b6-9bbc-832eacb02a02",
+    "1fbd5551-c0a7-4c05-b21b-d98bc159c840"
+  ],
+  "created": "Oct 25, 2026 3:07 PM ET",
+  "createTimeMs": 1792955274297,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "2c427a15-1619-41b6-9bbc-832eacb02a02",
+      "durationSec": 241.2,
+      "file": "faith/blessed_be_the_name_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "1fbd5551-c0a7-4c05-b21b-d98bc159c840",
+      "durationSec": 238.8,
+      "file": "faith/blessed_be_the_name_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "faith/blessed_be_the_name_req.json",
+    "faith/blessed_be_the_name_rec.json",
+    "faith/drafts/blessed_be_the_name.md"
+  ],
+  "basedOn": "faith/checkmate_at_calvary"
+}

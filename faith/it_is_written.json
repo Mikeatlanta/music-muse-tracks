@@ -1,0 +1,44 @@
+{
+  "title": "It Is Written",
+  "collection": "faith",
+  "slug": "it_is_written",
+  "model": "V6",
+  "style": "Early 90s EBM, 126 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, numbers-station radio, growled processed male vocal, Gregorian drone, pitched-down spoken intro, distant choir stab",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Pitched-down spoken voice) Forty days. No bread. No witness.\n(Numbers-station voice, distorted) Four... zero... four... zero...\n\n[Verse 1]\n(Growled)\nSun on the stone and His ribs showing through\nI said turn it to bread, it's the least You can do\nForty nights hungry, no army, no throne\nBut He fed on a Word that I'd never known\n\n[Pre-Chorus]\nI came with a lie\nHe came with a line\n\n[Chorus]\n(Chant, gang vocals)\nIt is written, I lose\nEvery trap that I choose\nBread from a stone, crown from a sin\nIt is written, He wins\n\n[Verse 2]\n(Growled)\nI showed Him the kingdoms, the towers, the crowns\nI said one little bow and I'll hand them all down\nI dared Him to leap from the temple's high wall\nHe would not test the Father, so I watched myself fall\n\n[Pre-Chorus]\nI came with a lie\nHe came with a line\n\n[Chorus]\nIt is written, I lose\nEvery trap that I choose\nBread from a stone, crown from a sin\nIt is written, He wins\n\n[Bridge]\n(Numbers-station voice) Message one: not by bread alone\n(Numbers-station voice) Message two: worship God alone\n(Numbers-station voice) Message three: do not test the Lord\n(Growled, slower) Three words, three wounds, I fled before the sword\n\n[Final Chorus]\n(Full intensity, choir stab)\nIt is written, I lose\nEvery trap that I choose\nBread from a stone, crown from a sin\nIt is written, He wins\n\n[Outro]\n(Distorted whisper) It is written... it is written...\n(Static) End of transmission",
+  "taskId": "1e1f8151beef79cbad5d42bf21cf7e33",
+  "sunoClipIds": [
+    "9297f54a-a01b-4cb2-8628-beeb50aa2e82",
+    "3159e2b9-b65d-4e1d-a060-31e78115f866"
+  ],
+  "created": "Oct 25, 2026 3:07 PM ET",
+  "createTimeMs": 1792955253545,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "9297f54a-a01b-4cb2-8628-beeb50aa2e82",
+      "durationSec": 240.0,
+      "file": "faith/it_is_written_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "3159e2b9-b65d-4e1d-a060-31e78115f866",
+      "durationSec": 239.2,
+      "file": "faith/it_is_written_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "faith/it_is_written_req.json",
+    "faith/it_is_written_rec.json",
+    "faith/drafts/it_is_written.md"
+  ],
+  "basedOn": "faith/checkmate_at_calvary"
+}

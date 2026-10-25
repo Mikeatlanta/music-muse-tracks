@@ -1,0 +1,44 @@
+{
+  "title": "Fourth Man in the Fire",
+  "collection": "faith",
+  "slug": "fourth_man_in_the_fire",
+  "model": "V6",
+  "style": "Early 90s EBM, 132 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, numbers-station radio, growled processed male vocal, furnace roar, brass horn stabs, distant choir stab, cold dancefloor",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Numbers-station voice, distorted) Horn... flute... harp... pipe... all bow... all bow...\n\n[Verse 1]\n(Growled)\nNinety feet of gold on the plain of Dura\nI sold the king a mirror and I made his idol truer\nWhen the music hit the air, all of Babylon went low\nBut three heads stayed up, like they didn't even know\n\n[Pre-Chorus]\nShadrach, Meshach, Abednego\nThree heads up in a kneeling row\n\n[Chorus]\n(Chant, gang vocals)\nFourth man in the fire\nI stoked it seven times, I stoked it till it broke\nNot a hair, not a thread, not the smell of smoke\nFourth man in the fire\n\n[Verse 2]\n(Growled)\nBound them up in robes and I threw them to the blaze\nThe soldiers at the door were the ones who burned that day\nThen the king jumped up and he shouted at the wall\nDidn't we throw three men? I see four men walking tall\n\n[Pre-Chorus]\nShadrach, Meshach, Abednego\nLoose in the flame where the bound men go\n\n[Chorus]\nFourth man in the fire\nI stoked it seven times, I stoked it till it broke\nNot a hair, not a thread, not the smell of smoke\nFourth man in the fire\n\n[Bridge]\n(Pitched-down spoken voice) Our God is able... and even if He does not... we will not bow\n(Growled, slower) I built the heat, I built the throne\nBut the Son of God was walking with His own\n\n[Final Chorus]\n(Full intensity, choir stab)\nFourth man in the fire\nI stoked it seven times, I stoked it till it broke\nNot a hair, not a thread, not the smell of smoke\nFourth man in the fire\n\n[Outro]\n(Numbers-station voice) Furnace... cold... three... four... walking out\n(Static fades)",
+  "taskId": "2de2bb3ce093a765c7b5bbfcf5b32bc5",
+  "sunoClipIds": [
+    "f913230b-4779-482e-ba5a-b098766a72b2",
+    "35899f42-d794-405e-9aa2-f049297adc2b"
+  ],
+  "created": "Oct 25, 2026 3:07 PM ET",
+  "createTimeMs": 1792955257541,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f913230b-4779-482e-ba5a-b098766a72b2",
+      "durationSec": 239.96,
+      "file": "faith/fourth_man_in_the_fire_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "35899f42-d794-405e-9aa2-f049297adc2b",
+      "durationSec": 239.52,
+      "file": "faith/fourth_man_in_the_fire_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "faith/fourth_man_in_the_fire_req.json",
+    "faith/fourth_man_in_the_fire_rec.json",
+    "faith/drafts/fourth_man_in_the_fire.md"
+  ],
+  "basedOn": "faith/checkmate_at_calvary"
+}

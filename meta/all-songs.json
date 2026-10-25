@@ -1889,5 +1889,137 @@
       "faith/checkmate_at_calvary_rec.json"
     ],
     "basedOn": "dark/dark_12_signal_cathedral"
+  },
+  {
+    "title": "It Is Written",
+    "collection": "faith",
+    "slug": "it_is_written",
+    "model": "V6",
+    "style": "Early 90s EBM, 126 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, numbers-station radio, growled processed male vocal, Gregorian drone, pitched-down spoken intro, distant choir stab",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Pitched-down spoken voice) Forty days. No bread. No witness.\n(Numbers-station voice, distorted) Four... zero... four... zero...\n\n[Verse 1]\n(Growled)\nSun on the stone and His ribs showing through\nI said turn it to bread, it's the least You can do\nForty nights hungry, no army, no throne\nBut He fed on a Word that I'd never known\n\n[Pre-Chorus]\nI came with a lie\nHe came with a line\n\n[Chorus]\n(Chant, gang vocals)\nIt is written, I lose\nEvery trap that I choose\nBread from a stone, crown from a sin\nIt is written, He wins\n\n[Verse 2]\n(Growled)\nI showed Him the kingdoms, the towers, the crowns\nI said one little bow and I'll hand them all down\nI dared Him to leap from the temple's high wall\nHe would not test the Father, so I watched myself fall\n\n[Pre-Chorus]\nI came with a lie\nHe came with a line\n\n[Chorus]\nIt is written, I lose\nEvery trap that I choose\nBread from a stone, crown from a sin\nIt is written, He wins\n\n[Bridge]\n(Numbers-station voice) Message one: not by bread alone\n(Numbers-station voice) Message two: worship God alone\n(Numbers-station voice) Message three: do not test the Lord\n(Growled, slower) Three words, three wounds, I fled before the sword\n\n[Final Chorus]\n(Full intensity, choir stab)\nIt is written, I lose\nEvery trap that I choose\nBread from a stone, crown from a sin\nIt is written, He wins\n\n[Outro]\n(Distorted whisper) It is written... it is written...\n(Static) End of transmission",
+    "taskId": "1e1f8151beef79cbad5d42bf21cf7e33",
+    "sunoClipIds": [
+      "9297f54a-a01b-4cb2-8628-beeb50aa2e82",
+      "3159e2b9-b65d-4e1d-a060-31e78115f866"
+    ],
+    "created": "Oct 25, 2026 3:07 PM ET",
+    "createTimeMs": 1792955253545,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "9297f54a-a01b-4cb2-8628-beeb50aa2e82",
+        "durationSec": 240.0,
+        "file": "faith/it_is_written_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "3159e2b9-b65d-4e1d-a060-31e78115f866",
+        "durationSec": 239.2,
+        "file": "faith/it_is_written_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "faith/it_is_written_req.json",
+      "faith/it_is_written_rec.json",
+      "faith/drafts/it_is_written.md"
+    ],
+    "basedOn": "faith/checkmate_at_calvary"
+  },
+  {
+    "title": "Blessed Be the Name",
+    "collection": "faith",
+    "slug": "blessed_be_the_name",
+    "model": "V6",
+    "style": "Early 90s EBM, 124 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, numbers-station radio, growled processed male vocal, industrial church bells, dark sacred undertone, distant choir stab",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Numbers-station voice, distorted) Request to the throne... permission granted... the hedge is down\n\n[Verse 1]\n(Growled)\nI said strip him to the bone and he'll curse You to Your face\nSabeans took the oxen, fire fell and burned the place\nChaldeans took the camels, then I sent the desert wind\nAnd the house came down on the feast where his children had been\n\n[Pre-Chorus]\nI took it all\nI waited for the fall\n\n[Chorus]\n(Chant, gang vocals)\nBlessed be the Name\nI took it all, he stayed the same\nThe Lord gave, the Lord took away\nBlessed be the Name, and I'm put to shame\n\n[Verse 2]\n(Growled)\nI covered him in boils from his head down to his feet\nHe sat down in the ashes, scraping with a shard in the heat\nHis wife said curse your God and die, his friends said you're to blame\nBut he lifted up his broken hands and he called upon the Name\n\n[Pre-Chorus]\nI took it all\nI waited for the fall\n\n[Chorus]\nBlessed be the Name\nI took it all, he stayed the same\nThe Lord gave, the Lord took away\nBlessed be the Name, and I'm put to shame\n\n[Bridge]\n(Numbers-station voice) Subject response intercepted...\n(Pitched-down spoken voice) I know that my Redeemer lives\n(Growled, slower) Out of the ash, out of the night\nI heard him sing, and I lost the fight\n\n[Final Chorus]\n(Full intensity, choir stab)\nBlessed be the Name\nI took it all, he stayed the same\nThe Lord gave, the Lord took away\nBlessed be the Name, and I'm put to shame\n\n[Outro]\n(Numbers-station voice) Restoration... double... file closed\n(Distorted whisper) Blessed be the Name",
+    "taskId": "a93b75633ce0978fe3c19841cb927d3e",
+    "sunoClipIds": [
+      "2c427a15-1619-41b6-9bbc-832eacb02a02",
+      "1fbd5551-c0a7-4c05-b21b-d98bc159c840"
+    ],
+    "created": "Oct 25, 2026 3:07 PM ET",
+    "createTimeMs": 1792955274297,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "2c427a15-1619-41b6-9bbc-832eacb02a02",
+        "durationSec": 241.2,
+        "file": "faith/blessed_be_the_name_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "1fbd5551-c0a7-4c05-b21b-d98bc159c840",
+        "durationSec": 238.8,
+        "file": "faith/blessed_be_the_name_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "faith/blessed_be_the_name_req.json",
+      "faith/blessed_be_the_name_rec.json",
+      "faith/drafts/blessed_be_the_name.md"
+    ],
+    "basedOn": "faith/checkmate_at_calvary"
+  },
+  {
+    "title": "Fourth Man in the Fire",
+    "collection": "faith",
+    "slug": "fourth_man_in_the_fire",
+    "model": "V6",
+    "style": "Early 90s EBM, 132 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, numbers-station radio, growled processed male vocal, furnace roar, brass horn stabs, distant choir stab, cold dancefloor",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n(Numbers-station voice, distorted) Horn... flute... harp... pipe... all bow... all bow...\n\n[Verse 1]\n(Growled)\nNinety feet of gold on the plain of Dura\nI sold the king a mirror and I made his idol truer\nWhen the music hit the air, all of Babylon went low\nBut three heads stayed up, like they didn't even know\n\n[Pre-Chorus]\nShadrach, Meshach, Abednego\nThree heads up in a kneeling row\n\n[Chorus]\n(Chant, gang vocals)\nFourth man in the fire\nI stoked it seven times, I stoked it till it broke\nNot a hair, not a thread, not the smell of smoke\nFourth man in the fire\n\n[Verse 2]\n(Growled)\nBound them up in robes and I threw them to the blaze\nThe soldiers at the door were the ones who burned that day\nThen the king jumped up and he shouted at the wall\nDidn't we throw three men? I see four men walking tall\n\n[Pre-Chorus]\nShadrach, Meshach, Abednego\nLoose in the flame where the bound men go\n\n[Chorus]\nFourth man in the fire\nI stoked it seven times, I stoked it till it broke\nNot a hair, not a thread, not the smell of smoke\nFourth man in the fire\n\n[Bridge]\n(Pitched-down spoken voice) Our God is able... and even if He does not... we will not bow\n(Growled, slower) I built the heat, I built the throne\nBut the Son of God was walking with His own\n\n[Final Chorus]\n(Full intensity, choir stab)\nFourth man in the fire\nI stoked it seven times, I stoked it till it broke\nNot a hair, not a thread, not the smell of smoke\nFourth man in the fire\n\n[Outro]\n(Numbers-station voice) Furnace... cold... three... four... walking out\n(Static fades)",
+    "taskId": "2de2bb3ce093a765c7b5bbfcf5b32bc5",
+    "sunoClipIds": [
+      "f913230b-4779-482e-ba5a-b098766a72b2",
+      "35899f42-d794-405e-9aa2-f049297adc2b"
+    ],
+    "created": "Oct 25, 2026 3:07 PM ET",
+    "createTimeMs": 1792955257541,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "f913230b-4779-482e-ba5a-b098766a72b2",
+        "durationSec": 239.96,
+        "file": "faith/fourth_man_in_the_fire_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "35899f42-d794-405e-9aa2-f049297adc2b",
+        "durationSec": 239.52,
+        "file": "faith/fourth_man_in_the_fire_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "faith/fourth_man_in_the_fire_req.json",
+      "faith/fourth_man_in_the_fire_rec.json",
+      "faith/drafts/fourth_man_in_the_fire.md"
+    ],
+    "basedOn": "faith/checkmate_at_calvary"
   }
 ]
