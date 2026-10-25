@@ -1,0 +1,43 @@
+{
+  "title": "Checkmate at Calvary",
+  "collection": "faith",
+  "slug": "checkmate_at_calvary",
+  "model": "V6",
+  "style": "Early 90s EBM, 128 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, numbers-station radio, growled processed male vocal, dark sacred undertone, distant choir stab, cold cyberpunk dancefloor",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n(Numbers-station voice, distorted) Seven... four... zero... transmission intercepted\n\n[Verse 1]\n(Growled)\nI whispered in the garden, I twisted every word\nI built my towers higher than the cry of any bird\nI bought the kings with silver, I filled the night with fear\nBut every chain I forged for them, He broke when He came near\n\n[Pre-Chorus]\nI had the nails, I had the cross\nI counted heaven's loss\n\n[Chorus]\n(Chant, gang vocals)\nThree days, I lost the war\nThe stone rolled from the door\nWhatever I try, He wins\nThe Lamb has crushed my sins\nNo dark can hold Him down\nI bow before the crown\n\n[Verse 2]\n(Growled)\nI jammed the radio of prayer with static and with lies\nI sold them screens and envy, I darkened their eyes\nBut one voice cuts the signal like a blade of burning light\nAnd every soul I captured He is calling home tonight\n\n[Pre-Chorus]\nI had the grave, I had the key\nNow it belongs to Thee\n\n[Chorus]\nThree days, I lost the war\nThe stone rolled from the door\nWhatever I try, He wins\nThe Lamb has crushed my sins\nNo dark can hold Him down\nI bow before the crown\n\n[Bridge]\n(Numbers-station voice) Final transmission... the enemy is defeated\n(Growled, slower)\nEvery knee will bend, even mine\nEvery tongue confess, until the end of time\n\n[Final Chorus]\n(Full intensity, choir stab)\nThree days, I lost the war\nThe stone rolled from the door\nWhatever I try, He wins\nThe Lamb has crushed my sins\nNo dark can hold Him down\nI bow before the crown\n\n[Outro]\n(Static fades) ...signal lost",
+  "taskId": "ea0d8241a86d6f7bf60234ca8b1342b1",
+  "sunoClipIds": [
+    "ce3b149a-e6a7-41b9-a5a8-384a71e036cf",
+    "93928776-79a5-46b7-a66e-5f5f06997666"
+  ],
+  "created": "Oct 25, 2026 2:43 PM ET",
+  "createTimeMs": 1792953836580,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ce3b149a-e6a7-41b9-a5a8-384a71e036cf",
+      "durationSec": 239.56,
+      "file": "faith/checkmate_at_calvary_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "93928776-79a5-46b7-a66e-5f5f06997666",
+      "durationSec": 239.68,
+      "file": "faith/checkmate_at_calvary_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "faith/checkmate_at_calvary_req.json",
+    "faith/checkmate_at_calvary_rec.json"
+  ],
+  "basedOn": "dark/dark_12_signal_cathedral"
+}
