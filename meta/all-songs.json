@@ -1176,7 +1176,7 @@
     ]
   },
   {
-    "title": "Machine Lumière",
+    "title": "Machine Lumi\u00e8re",
     "collection": "playlist",
     "slug": "playlist_08_machine_lumiere",
     "model": "V6",
@@ -1190,7 +1190,7 @@
     "duration": 240,
     "customMode": true,
     "lyricsSource": "saved request",
-    "lyrics": "[Intro]\n(Spoken) Lumière... in the machine\n\n[Verse]\nConcrete pulse beneath the floor\nSteel and shadow, wanting more\nLights cut through the smoking air\nBodies moving, no one cares\n\n[Chorus]\nMachine lumière, burn it bright\nMachine lumière, own the night\n\n[Bridge]\n(Spoken) Plus fort. Plus fort.\nLouder. Louder.",
+    "lyrics": "[Intro]\n(Spoken) Lumi\u00e8re... in the machine\n\n[Verse]\nConcrete pulse beneath the floor\nSteel and shadow, wanting more\nLights cut through the smoking air\nBodies moving, no one cares\n\n[Chorus]\nMachine lumi\u00e8re, burn it bright\nMachine lumi\u00e8re, own the night\n\n[Bridge]\n(Spoken) Plus fort. Plus fort.\nLouder. Louder.",
     "taskId": "f9e80f9d402bce0fb988388af14985dc",
     "sunoClipIds": [
       "4070641f-f13e-499c-921e-8bb00779d443",
@@ -2021,5 +2021,47 @@
       "faith/drafts/fourth_man_in_the_fire.md"
     ],
     "basedOn": "faith/checkmate_at_calvary"
+  },
+  {
+    "title": "Perjury Machine",
+    "collection": "dark",
+    "slug": "dark_13_perjury_machine",
+    "model": "V6",
+    "style": "Early 90s EBM, 126 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, filtered courtroom and press-conference voice samples, sci-fi radio transmissions, growled heavily processed male vocal, defiant cyberpunk war dancefloor energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Spoken sample, filtered courtroom voice: \"Order! The witness will answer the question!\"]\n[Spoken sample, shouted prosecutor: \"I want the truth, and I want it now!\"]\n\n[Verse]\nHand on the book\nTongue made of wire\nPromise in daylight\nSold by the hour\n\n[Pre-Chorus]\nFlashbulbs burning\nCameras roll\nEvery word rehearsed\nEvery word is sold\n\n[Chorus]\nPerjury machine\nSmiling on the screen\nSwear it on the wire\nEvery vote's for hire\nPerjury machine\nTruth was never clean\n\n[Breakdown]\n[Spoken sample, filtered press-conference voice: \"I have no recollection of those events.\"]\n[Spoken sample, shouted judge: \"Answer me! Did you lie?\"]\n(Growled) Liar, liar\nLiar, liar\n\n[Chorus]\nPerjury machine\nSmiling on the screen\nSwear it on the wire\nEvery vote's for hire\n\n[Outro]\n[Spoken sample, radio static: \"No further questions.\"]\nPerjury machine",
+    "taskId": "267eed5343810ec16dce6d619eab2b4c",
+    "sunoClipIds": [
+      "c2c939d8-a8ce-4b31-bb76-a35d86a4b90c",
+      "dbb96202-5c6b-4c99-b09b-26786453f901"
+    ],
+    "created": "Oct 31, 2026 7:38 AM ET",
+    "createTimeMs": 1793446718299,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "c2c939d8-a8ce-4b31-bb76-a35d86a4b90c",
+        "durationSec": 239.12,
+        "file": "dark/dark_13_perjury_machine_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "dbb96202-5c6b-4c99-b09b-26786453f901",
+        "durationSec": 239.16,
+        "file": "dark/dark_13_perjury_machine_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/dark_13_perjury_machine_req.json",
+      "dark/dark_13_perjury_machine_rec.json"
+    ]
   }
 ]
