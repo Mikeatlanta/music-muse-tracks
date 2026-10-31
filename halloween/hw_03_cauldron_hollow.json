@@ -1,0 +1,45 @@
+{
+  "title": "Cauldron Hollow",
+  "collection": "halloween",
+  "album": "Halloween",
+  "track": 3,
+  "slug": "hw_03_cauldron_hollow",
+  "model": "V6",
+  "style": "Dark forest witch's cauldron Halloween ambient soundtrack, instrumental, bubbling cauldron, crackling fire, owls and wind in trees, slow ritual tribal drums, whispering voices, low drones, eerie flute, snapping branches, sudden witch cackle, sudden drum hits and orchestral stingers, silence then surprise crash, family-friendly spooky, cinematic sound design, extended length",
+  "negativeTags": "pop, upbeat, happy, rap, gore, lyrics, singing",
+  "instrumental": true,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 360,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "",
+  "taskId": "e7dd59dbaa846906fbf1cdc041045225",
+  "sunoClipIds": [
+    "49114951-1321-4c80-92a6-c5bd16ba5b6a",
+    "94ad73be-680e-439d-8a8c-260dda6b4161"
+  ],
+  "created": "Oct 31, 2026 1:26 PM ET",
+  "createTimeMs": 1793467564094,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "49114951-1321-4c80-92a6-c5bd16ba5b6a",
+      "durationSec": 294.0,
+      "file": "halloween/hw_03_cauldron_hollow_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "94ad73be-680e-439d-8a8c-260dda6b4161",
+      "durationSec": 282.8,
+      "file": "halloween/hw_03_cauldron_hollow_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "halloween/hw_03_cauldron_hollow_req.json",
+    "halloween/hw_03_cauldron_hollow_rec.json"
+  ],
+  "cover": "halloween/covers/hw_03_cauldron_hollow.jpg"
+}

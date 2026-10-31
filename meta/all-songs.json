@@ -2924,5 +2924,139 @@
       "dark/dark_23_ghost_protocol_zero_req.json",
       "dark/dark_23_ghost_protocol_zero_rec.json"
     ]
+  },
+  {
+    "title": "The Creepy Crawl",
+    "collection": "halloween",
+    "album": "Halloween",
+    "track": 1,
+    "slug": "hw_01_creepy_crawl",
+    "model": "V6",
+    "style": "Halloween novelty party song, 60s surf-rock and doo-wop swing meets modern electro-swing dance-pop beat, 124 BPM, spooky haunted organ, theremin, twangy reverb surf guitar, crunchy bass, campy deep baritone male narrator vocal, ghoulish doo-wop backing choir, call-and-response hook, handclaps, fun and a little scary",
+    "negativeTags": "ballad, sad, metal screaming, lo-fi, country, gore",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro: spooky organ, theremin swoop]\n[Spoken, campy baritone] Good evening, boils and ghouls... the crypt is open, the bass is loud, and tonight... the dead want to dance.\n\n[Verse 1]\nDown at the manor where the candles drip\nA skeleton DJ cut a brand-new clip\nThe werewolf howled, the mummy came unwound\nEvery coffin lid went bumpin' to the sound\n\n[Pre-Chorus]\nKnees go knockin', teeth go clack\nOnce you start it, there's no goin' back\n\n[Chorus]\nDo the Creepy Crawl! (Creepy Crawl!)\nSlide your bones along the wall! (Along the wall!)\nShake it like you're three days dead\nSpin your eyeballs, nod your head\nEverybody \u2014 do the Creepy Crawl! (Ooh-ooh, Creepy Crawl!)\n\n[Verse 2]\nVampire countess in her velvet cape\nMoonwalked backward out the fire escape\nThe witches stirred a groove into the stew\nAnd the zombie at the door said \"Brains? ...Nah, shoes!\"\n\n[Bridge: call-and-response]\nWhen I say \"Creepy\" \u2014 you say \"Crawl!\" (Crawl!)\nCreepy! (Crawl!) Creepy! (Crawl!)\nNow drag your left foot... now drag your right...\n[Spoken] Not like that. You're too alive.\n\n[Instrumental Break: surf guitar, theremin solo, crunchy bass]\n\n[Chorus]\nDo the Creepy Crawl! (Creepy Crawl!)\nSlide your bones along the wall! (Along the wall!)\nShake it like you're three days dead\nSpin your eyeballs, nod your head\nEverybody \u2014 do the Creepy Crawl! (Ooh-ooh, Creepy Crawl!)\n\n[Outro: ghoulish choir fades, evil cackle]\n[Spoken] Same time next year... if you survive the dance floor.\n[End]",
+    "taskId": "44eb3805b54137cc82d0574f1a866539",
+    "sunoClipIds": [
+      "1f1492cc-cf4a-4466-b80c-52718a87ebcb",
+      "9438176f-b3cd-4f5e-a4e2-04b63f15e859"
+    ],
+    "created": "Oct 31, 2026 1:25 PM ET",
+    "createTimeMs": 1793467555140,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "1f1492cc-cf4a-4466-b80c-52718a87ebcb",
+        "durationSec": 187.56,
+        "file": "halloween/hw_01_creepy_crawl_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "9438176f-b3cd-4f5e-a4e2-04b63f15e859",
+        "durationSec": 182.36,
+        "file": "halloween/hw_01_creepy_crawl_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "halloween/hw_01_creepy_crawl_req.json",
+      "halloween/hw_01_creepy_crawl_rec.json"
+    ],
+    "cover": "halloween/covers/hw_01_creepy_crawl.jpg"
+  },
+  {
+    "title": "Music Box Manor",
+    "collection": "halloween",
+    "album": "Halloween",
+    "track": 2,
+    "slug": "hw_02_music_box_manor",
+    "model": "V6",
+    "style": "Haunted mansion Halloween ambient soundtrack, instrumental, slow dark atmosphere, creaking doors, howling wind, distant out-of-tune music box, low drones, eerie wordless choir, heartbeat pulse, sudden pipe organ crashing chords, orchestral stingers, sudden silence then loud hit, distant cackle, unexpected jump scares, family-friendly spooky, cinematic sound design, extended length",
+    "negativeTags": "vocals, lyrics, pop, upbeat, happy, gore, rap",
+    "instrumental": true,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 360,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "",
+    "taskId": "2dddb34f2a3c4e75d25c4ba6d88a102e",
+    "sunoClipIds": [
+      "6f0a55dc-9b10-4b27-a7f2-4b4fbffe029a",
+      "e5bcd470-b6d2-4c20-9809-7f18be7f01a9"
+    ],
+    "created": "Oct 31, 2026 1:26 PM ET",
+    "createTimeMs": 1793467585583,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "6f0a55dc-9b10-4b27-a7f2-4b4fbffe029a",
+        "durationSec": 359.52,
+        "file": "halloween/hw_02_music_box_manor_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "e5bcd470-b6d2-4c20-9809-7f18be7f01a9",
+        "durationSec": 273.6,
+        "file": "halloween/hw_02_music_box_manor_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "halloween/hw_02_music_box_manor_req.json",
+      "halloween/hw_02_music_box_manor_rec.json"
+    ],
+    "cover": "halloween/covers/hw_02_music_box_manor.jpg"
+  },
+  {
+    "title": "Cauldron Hollow",
+    "collection": "halloween",
+    "album": "Halloween",
+    "track": 3,
+    "slug": "hw_03_cauldron_hollow",
+    "model": "V6",
+    "style": "Dark forest witch's cauldron Halloween ambient soundtrack, instrumental, bubbling cauldron, crackling fire, owls and wind in trees, slow ritual tribal drums, whispering voices, low drones, eerie flute, snapping branches, sudden witch cackle, sudden drum hits and orchestral stingers, silence then surprise crash, family-friendly spooky, cinematic sound design, extended length",
+    "negativeTags": "pop, upbeat, happy, rap, gore, lyrics, singing",
+    "instrumental": true,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 360,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "",
+    "taskId": "e7dd59dbaa846906fbf1cdc041045225",
+    "sunoClipIds": [
+      "49114951-1321-4c80-92a6-c5bd16ba5b6a",
+      "94ad73be-680e-439d-8a8c-260dda6b4161"
+    ],
+    "created": "Oct 31, 2026 1:26 PM ET",
+    "createTimeMs": 1793467564094,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "49114951-1321-4c80-92a6-c5bd16ba5b6a",
+        "durationSec": 294.0,
+        "file": "halloween/hw_03_cauldron_hollow_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "94ad73be-680e-439d-8a8c-260dda6b4161",
+        "durationSec": 282.8,
+        "file": "halloween/hw_03_cauldron_hollow_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "halloween/hw_03_cauldron_hollow_req.json",
+      "halloween/hw_03_cauldron_hollow_rec.json"
+    ],
+    "cover": "halloween/covers/hw_03_cauldron_hollow.jpg"
   }
 ]

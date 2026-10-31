@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "callBackUrl": "https://example.com/cb",
+ "instrumental": true,
+ "duration": 360,
+ "title": "Cauldron Hollow",
+ "style": "Dark forest witch's cauldron Halloween ambient soundtrack, instrumental, bubbling cauldron, crackling fire, owls and wind in trees, slow ritual tribal drums, whispering voices, low drones, eerie flute, snapping branches, sudden witch cackle, sudden drum hits and orchestral stingers, silence then surprise crash, family-friendly spooky, cinematic sound design, extended length",
+ "negativeTags": "pop, upbeat, happy, rap, gore, lyrics, singing",
+ "prompt": ""
+}

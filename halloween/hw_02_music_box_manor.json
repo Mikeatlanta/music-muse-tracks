@@ -1,0 +1,45 @@
+{
+  "title": "Music Box Manor",
+  "collection": "halloween",
+  "album": "Halloween",
+  "track": 2,
+  "slug": "hw_02_music_box_manor",
+  "model": "V6",
+  "style": "Haunted mansion Halloween ambient soundtrack, instrumental, slow dark atmosphere, creaking doors, howling wind, distant out-of-tune music box, low drones, eerie wordless choir, heartbeat pulse, sudden pipe organ crashing chords, orchestral stingers, sudden silence then loud hit, distant cackle, unexpected jump scares, family-friendly spooky, cinematic sound design, extended length",
+  "negativeTags": "vocals, lyrics, pop, upbeat, happy, gore, rap",
+  "instrumental": true,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 360,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "",
+  "taskId": "2dddb34f2a3c4e75d25c4ba6d88a102e",
+  "sunoClipIds": [
+    "6f0a55dc-9b10-4b27-a7f2-4b4fbffe029a",
+    "e5bcd470-b6d2-4c20-9809-7f18be7f01a9"
+  ],
+  "created": "Oct 31, 2026 1:26 PM ET",
+  "createTimeMs": 1793467585583,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "6f0a55dc-9b10-4b27-a7f2-4b4fbffe029a",
+      "durationSec": 359.52,
+      "file": "halloween/hw_02_music_box_manor_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "e5bcd470-b6d2-4c20-9809-7f18be7f01a9",
+      "durationSec": 273.6,
+      "file": "halloween/hw_02_music_box_manor_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "halloween/hw_02_music_box_manor_req.json",
+    "halloween/hw_02_music_box_manor_rec.json"
+  ],
+  "cover": "halloween/covers/hw_02_music_box_manor.jpg"
+}

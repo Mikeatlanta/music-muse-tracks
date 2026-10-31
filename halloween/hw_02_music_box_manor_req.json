@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "callBackUrl": "https://example.com/cb",
+ "instrumental": true,
+ "duration": 360,
+ "title": "Music Box Manor",
+ "style": "Haunted mansion Halloween ambient soundtrack, instrumental, slow dark atmosphere, creaking doors, howling wind, distant out-of-tune music box, low drones, eerie wordless choir, heartbeat pulse, sudden pipe organ crashing chords, orchestral stingers, sudden silence then loud hit, distant cackle, unexpected jump scares, family-friendly spooky, cinematic sound design, extended length",
+ "negativeTags": "vocals, lyrics, pop, upbeat, happy, gore, rap",
+ "prompt": ""
+}
