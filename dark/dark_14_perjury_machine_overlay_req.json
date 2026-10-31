@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+ "title": "Perjury Machine (Overlay Edit)",
+ "style": "Early 90s EBM, 126 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, filtered courtroom and press-conference voice samples, sci-fi radio transmissions, growled heavily processed male vocal, defiant cyberpunk war dancefloor energy",
+ "prompt": "[Intro]\n[Instrumental break - silence, sample drop]\n(no vocals, 4 seconds)\n\n[Spoken sample, filtered courtroom voice: \"Order! The witness will answer the question!\"]\n\n[Verse]\nHand on the book\nTongue made of wire\nPromise in daylight\nSold by the hour\n\n[Pre-Chorus]\nFlashbulbs burning\nCameras roll\nEvery word rehearsed\nEvery word is sold\n\n[Chorus]\nPerjury machine\nSmiling on the screen\nSwear it on the wire\nEvery vote's for hire\nPerjury machine\nTruth was never clean\n\n[Breakdown]\n[Instrumental break - silence, sample drop]\n(no vocals, 4 seconds)\n\n[Spoken sample, filtered press-conference voice: \"I have no recollection of those events.\"]\n(Growled) Liar, liar\nLiar, liar\n\n[Chorus]\nPerjury machine\nSmiling on the screen\nSwear it on the wire\nEvery vote's for hire\n\n[Outro]\n[Spoken sample, radio static: \"No further questions.\"]\nPerjury machine"
+}

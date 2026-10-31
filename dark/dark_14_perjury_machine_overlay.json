@@ -1,0 +1,43 @@
+{
+  "title": "Perjury Machine (Overlay Edit)",
+  "collection": "dark",
+  "slug": "dark_14_perjury_machine_overlay",
+  "model": "V6",
+  "style": "Early 90s EBM, 126 BPM, pulsing sequenced bass, hard machine drums, noisy synth stabs, filtered courtroom and press-conference voice samples, sci-fi radio transmissions, growled heavily processed male vocal, defiant cyberpunk war dancefloor energy",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Instrumental break - silence, sample drop]\n(no vocals, 4 seconds)\n\n[Spoken sample, filtered courtroom voice: \"Order! The witness will answer the question!\"]\n\n[Verse]\nHand on the book\nTongue made of wire\nPromise in daylight\nSold by the hour\n\n[Pre-Chorus]\nFlashbulbs burning\nCameras roll\nEvery word rehearsed\nEvery word is sold\n\n[Chorus]\nPerjury machine\nSmiling on the screen\nSwear it on the wire\nEvery vote's for hire\nPerjury machine\nTruth was never clean\n\n[Breakdown]\n[Instrumental break - silence, sample drop]\n(no vocals, 4 seconds)\n\n[Spoken sample, filtered press-conference voice: \"I have no recollection of those events.\"]\n(Growled) Liar, liar\nLiar, liar\n\n[Chorus]\nPerjury machine\nSmiling on the screen\nSwear it on the wire\nEvery vote's for hire\n\n[Outro]\n[Spoken sample, radio static: \"No further questions.\"]\nPerjury machine",
+  "taskId": "a2b8302465ddc57b3552ec411038297e",
+  "sunoClipIds": [
+    "22126517-ff6f-4ab6-858b-162740f83534",
+    "859394ce-2790-4541-81bc-c6b0a607e10d"
+  ],
+  "created": "Oct 31, 2026 7:43 AM ET",
+  "createTimeMs": 1793446994198,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "22126517-ff6f-4ab6-858b-162740f83534",
+      "durationSec": 240.8,
+      "file": "dark/dark_14_perjury_machine_overlay_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "859394ce-2790-4541-81bc-c6b0a607e10d",
+      "durationSec": 241.28,
+      "file": "dark/dark_14_perjury_machine_overlay_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/dark_14_perjury_machine_overlay_req.json",
+    "dark/dark_14_perjury_machine_overlay_rec.json"
+  ],
+  "versionOf": "dark_13_perjury_machine"
+}
