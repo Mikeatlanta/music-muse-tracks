@@ -1,0 +1,48 @@
+{
+  "title": "Graveyard Gate",
+  "collection": "halloween",
+  "album": "Halloween",
+  "track": 4,
+  "slug": "hw_04_graveyard_gate",
+  "type": "sound-effects ambience (no music)",
+  "model": "V6",
+  "style": "cinematic sound design, horror foley ambience, no music, no melody, no drums, field recording, graveyard at night, howling wind through trees, rusty iron gate creaking, crows cawing, owls hooting, distant werewolves howling, footsteps on gravel, rustling leaves, sudden scare hits, pure sound effects, atmospheric SFX only",
+  "negativeTags": "music, melody, song, drums, beat, percussion, rhythm, bass, synth, piano, strings, organ, music box, guitar, orchestra, chords, pads, drone, vocals singing, choir, harmony, lyrics, rap",
+  "instrumental": true,
+  "styleWeight": 0.9,
+  "weirdnessConstraint": 0.3,
+  "audioWeight": 0.65,
+  "duration": 360,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "",
+  "taskId": "c87ec63419c8d2559b61035ddf224b53",
+  "sunoClipIds": [
+    "b515bba9-ad20-4975-b850-b38878ba51b8",
+    "ebebdd4c-4ac7-4d50-9cc3-ac07e585e123"
+  ],
+  "created": "Oct 31, 2026 2:44 PM ET",
+  "createTimeMs": 1793472288605,
+  "postProcessing": "Raw Suno takes carried a low sustained C/G tonal drone; published audio is notch-filtered (2 passes, harmonic peaks 35 Hz-4 kHz) to strip it, then loudness-normalized to -18 LUFS. No beat or melody detected.",
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "b515bba9-ad20-4975-b850-b38878ba51b8",
+      "durationSec": 360.02,
+      "sunoDurationSec": 359.96,
+      "file": "halloween/hw_04_graveyard_gate_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ebebdd4c-4ac7-4d50-9cc3-ac07e585e123",
+      "durationSec": 360.05,
+      "sunoDurationSec": 360.0,
+      "file": "halloween/hw_04_graveyard_gate_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "halloween/hw_04_graveyard_gate_req.json",
+    "halloween/hw_04_graveyard_gate_rec.json"
+  ],
+  "cover": "halloween/covers/hw_04_graveyard_gate.jpg"
+}

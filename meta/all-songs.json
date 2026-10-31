@@ -3058,5 +3058,149 @@
       "halloween/hw_03_cauldron_hollow_rec.json"
     ],
     "cover": "halloween/covers/hw_03_cauldron_hollow.jpg"
+  },
+  {
+    "title": "Graveyard Gate",
+    "collection": "halloween",
+    "album": "Halloween",
+    "track": 4,
+    "slug": "hw_04_graveyard_gate",
+    "type": "sound-effects ambience (no music)",
+    "model": "V6",
+    "style": "cinematic sound design, horror foley ambience, no music, no melody, no drums, field recording, graveyard at night, howling wind through trees, rusty iron gate creaking, crows cawing, owls hooting, distant werewolves howling, footsteps on gravel, rustling leaves, sudden scare hits, pure sound effects, atmospheric SFX only",
+    "negativeTags": "music, melody, song, drums, beat, percussion, rhythm, bass, synth, piano, strings, organ, music box, guitar, orchestra, chords, pads, drone, vocals singing, choir, harmony, lyrics, rap",
+    "instrumental": true,
+    "styleWeight": 0.9,
+    "weirdnessConstraint": 0.3,
+    "audioWeight": 0.65,
+    "duration": 360,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "",
+    "taskId": "c87ec63419c8d2559b61035ddf224b53",
+    "sunoClipIds": [
+      "b515bba9-ad20-4975-b850-b38878ba51b8",
+      "ebebdd4c-4ac7-4d50-9cc3-ac07e585e123"
+    ],
+    "created": "Oct 31, 2026 2:44 PM ET",
+    "createTimeMs": 1793472288605,
+    "postProcessing": "Raw Suno takes carried a low sustained C/G tonal drone; published audio is notch-filtered (2 passes, harmonic peaks 35 Hz-4 kHz) to strip it, then loudness-normalized to -18 LUFS. No beat or melody detected.",
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "b515bba9-ad20-4975-b850-b38878ba51b8",
+        "durationSec": 360.02,
+        "sunoDurationSec": 359.96,
+        "file": "halloween/hw_04_graveyard_gate_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "ebebdd4c-4ac7-4d50-9cc3-ac07e585e123",
+        "durationSec": 360.05,
+        "sunoDurationSec": 360.0,
+        "file": "halloween/hw_04_graveyard_gate_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "halloween/hw_04_graveyard_gate_req.json",
+      "halloween/hw_04_graveyard_gate_rec.json"
+    ],
+    "cover": "halloween/covers/hw_04_graveyard_gate.jpg"
+  },
+  {
+    "title": "Ghoul Crypt",
+    "collection": "halloween",
+    "album": "Halloween",
+    "track": 5,
+    "slug": "hw_05_ghoul_crypt",
+    "type": "sound-effects ambience (no music)",
+    "model": "V6",
+    "style": "cinematic sound design, horror foley ambience, no music, no melody, no drums, field recording, underground stone crypt, ghoul and zombie groans and growls, rattling heavy chains, water dripping echo, stone coffin lid scraping, sinister adult laughter, shuffling footsteps, sudden scare hits, pure sound effects, atmospheric SFX only",
+    "negativeTags": "music, melody, song, drums, beat, percussion, rhythm, bass, synth, piano, strings, organ, music box, guitar, orchestra, chords, pads, drone, vocals singing, choir, harmony, lyrics, rap",
+    "instrumental": true,
+    "styleWeight": 0.9,
+    "weirdnessConstraint": 0.3,
+    "audioWeight": 0.65,
+    "duration": 360,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "",
+    "taskId": "c3ee94552e351685a5ef033258be254c",
+    "sunoClipIds": [
+      "42a04578-a67f-4f60-9341-983e3b1e7ed8",
+      "0093a025-dcca-4fa6-a1d0-3cd917a50f8d"
+    ],
+    "created": "Oct 31, 2026 2:44 PM ET",
+    "createTimeMs": 1793472290522,
+    "postProcessing": "Raw Suno takes carried a low sustained C/G tonal drone; published audio is notch-filtered (2 passes, harmonic peaks 35 Hz-4 kHz) to strip it, then loudness-normalized to -18 LUFS. No beat or melody detected.",
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "42a04578-a67f-4f60-9341-983e3b1e7ed8",
+        "durationSec": 359.68,
+        "sunoDurationSec": 359.6,
+        "file": "halloween/hw_05_ghoul_crypt_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "0093a025-dcca-4fa6-a1d0-3cd917a50f8d",
+        "durationSec": 360.02,
+        "sunoDurationSec": 359.96,
+        "file": "halloween/hw_05_ghoul_crypt_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "halloween/hw_05_ghoul_crypt_req.json",
+      "halloween/hw_05_ghoul_crypt_rec.json"
+    ],
+    "cover": "halloween/covers/hw_05_ghoul_crypt.jpg"
+  },
+  {
+    "title": "Hollow Playground",
+    "collection": "halloween",
+    "album": "Halloween",
+    "track": 6,
+    "slug": "hw_06_hollow_playground",
+    "type": "sound-effects ambience (no music)",
+    "model": "V6",
+    "style": "cinematic sound design, horror foley ambience, no music, no melody, no drums, field recording, abandoned playground at night, creepy children giggling and whispering, rusty swings creaking, wind, merry-go-round squeak, distant child calling, sudden screams, sudden scare hits, pure sound effects, atmospheric SFX only",
+    "negativeTags": "music, melody, song, drums, beat, percussion, rhythm, bass, synth, piano, strings, organ, music box, guitar, orchestra, chords, pads, drone, vocals singing, choir, harmony, lyrics, rap",
+    "instrumental": true,
+    "styleWeight": 0.9,
+    "weirdnessConstraint": 0.3,
+    "audioWeight": 0.65,
+    "duration": 360,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "",
+    "taskId": "eb069e16c5ffe42127b1c74d68c39d79",
+    "sunoClipIds": [
+      "45a0bce2-a4ac-40fa-a988-acdf8635f64c",
+      "d77f994c-2697-4787-8b4f-3af1690c94f0"
+    ],
+    "created": "Oct 31, 2026 2:45 PM ET",
+    "createTimeMs": 1793472303041,
+    "postProcessing": "Raw Suno takes carried a low sustained C/G tonal drone; published audio is notch-filtered (2 passes, harmonic peaks 35 Hz-4 kHz) to strip it, then loudness-normalized to -18 LUFS. No beat or melody detected.",
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "45a0bce2-a4ac-40fa-a988-acdf8635f64c",
+        "durationSec": 359.58,
+        "sunoDurationSec": 359.52,
+        "file": "halloween/hw_06_hollow_playground_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "d77f994c-2697-4787-8b4f-3af1690c94f0",
+        "durationSec": 359.94,
+        "sunoDurationSec": 359.88,
+        "file": "halloween/hw_06_hollow_playground_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "halloween/hw_06_hollow_playground_req.json",
+      "halloween/hw_06_hollow_playground_rec.json"
+    ],
+    "cover": "halloween/covers/hw_06_hollow_playground.jpg"
   }
 ]

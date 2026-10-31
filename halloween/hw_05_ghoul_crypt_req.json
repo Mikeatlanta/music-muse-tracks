@@ -1,0 +1,14 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": true,
+ "duration": 360,
+ "styleWeight": 0.9,
+ "weirdnessConstraint": 0.3,
+ "audioWeight": 0.65,
+ "callBackUrl": "https://example.com/cb",
+ "prompt": "",
+ "negativeTags": "music, melody, song, drums, beat, percussion, rhythm, bass, synth, piano, strings, organ, music box, guitar, orchestra, chords, pads, drone, vocals singing, choir, harmony, lyrics, rap",
+ "title": "Ghoul Crypt",
+ "style": "cinematic sound design, horror foley ambience, no music, no melody, no drums, field recording, underground stone crypt, ghoul and zombie groans and growls, rattling heavy chains, water dripping echo, stone coffin lid scraping, sinister adult laughter, shuffling footsteps, sudden scare hits, pure sound effects, atmospheric SFX only"
+}

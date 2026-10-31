@@ -1,0 +1,48 @@
+{
+  "title": "Ghoul Crypt",
+  "collection": "halloween",
+  "album": "Halloween",
+  "track": 5,
+  "slug": "hw_05_ghoul_crypt",
+  "type": "sound-effects ambience (no music)",
+  "model": "V6",
+  "style": "cinematic sound design, horror foley ambience, no music, no melody, no drums, field recording, underground stone crypt, ghoul and zombie groans and growls, rattling heavy chains, water dripping echo, stone coffin lid scraping, sinister adult laughter, shuffling footsteps, sudden scare hits, pure sound effects, atmospheric SFX only",
+  "negativeTags": "music, melody, song, drums, beat, percussion, rhythm, bass, synth, piano, strings, organ, music box, guitar, orchestra, chords, pads, drone, vocals singing, choir, harmony, lyrics, rap",
+  "instrumental": true,
+  "styleWeight": 0.9,
+  "weirdnessConstraint": 0.3,
+  "audioWeight": 0.65,
+  "duration": 360,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "",
+  "taskId": "c3ee94552e351685a5ef033258be254c",
+  "sunoClipIds": [
+    "42a04578-a67f-4f60-9341-983e3b1e7ed8",
+    "0093a025-dcca-4fa6-a1d0-3cd917a50f8d"
+  ],
+  "created": "Oct 31, 2026 2:44 PM ET",
+  "createTimeMs": 1793472290522,
+  "postProcessing": "Raw Suno takes carried a low sustained C/G tonal drone; published audio is notch-filtered (2 passes, harmonic peaks 35 Hz-4 kHz) to strip it, then loudness-normalized to -18 LUFS. No beat or melody detected.",
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "42a04578-a67f-4f60-9341-983e3b1e7ed8",
+      "durationSec": 359.68,
+      "sunoDurationSec": 359.6,
+      "file": "halloween/hw_05_ghoul_crypt_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "0093a025-dcca-4fa6-a1d0-3cd917a50f8d",
+      "durationSec": 360.02,
+      "sunoDurationSec": 359.96,
+      "file": "halloween/hw_05_ghoul_crypt_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "halloween/hw_05_ghoul_crypt_req.json",
+    "halloween/hw_05_ghoul_crypt_rec.json"
+  ],
+  "cover": "halloween/covers/hw_05_ghoul_crypt.jpg"
+}

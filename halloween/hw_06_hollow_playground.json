@@ -1,0 +1,48 @@
+{
+  "title": "Hollow Playground",
+  "collection": "halloween",
+  "album": "Halloween",
+  "track": 6,
+  "slug": "hw_06_hollow_playground",
+  "type": "sound-effects ambience (no music)",
+  "model": "V6",
+  "style": "cinematic sound design, horror foley ambience, no music, no melody, no drums, field recording, abandoned playground at night, creepy children giggling and whispering, rusty swings creaking, wind, merry-go-round squeak, distant child calling, sudden screams, sudden scare hits, pure sound effects, atmospheric SFX only",
+  "negativeTags": "music, melody, song, drums, beat, percussion, rhythm, bass, synth, piano, strings, organ, music box, guitar, orchestra, chords, pads, drone, vocals singing, choir, harmony, lyrics, rap",
+  "instrumental": true,
+  "styleWeight": 0.9,
+  "weirdnessConstraint": 0.3,
+  "audioWeight": 0.65,
+  "duration": 360,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "",
+  "taskId": "eb069e16c5ffe42127b1c74d68c39d79",
+  "sunoClipIds": [
+    "45a0bce2-a4ac-40fa-a988-acdf8635f64c",
+    "d77f994c-2697-4787-8b4f-3af1690c94f0"
+  ],
+  "created": "Oct 31, 2026 2:45 PM ET",
+  "createTimeMs": 1793472303041,
+  "postProcessing": "Raw Suno takes carried a low sustained C/G tonal drone; published audio is notch-filtered (2 passes, harmonic peaks 35 Hz-4 kHz) to strip it, then loudness-normalized to -18 LUFS. No beat or melody detected.",
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "45a0bce2-a4ac-40fa-a988-acdf8635f64c",
+      "durationSec": 359.58,
+      "sunoDurationSec": 359.52,
+      "file": "halloween/hw_06_hollow_playground_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d77f994c-2697-4787-8b4f-3af1690c94f0",
+      "durationSec": 359.94,
+      "sunoDurationSec": 359.88,
+      "file": "halloween/hw_06_hollow_playground_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "halloween/hw_06_hollow_playground_req.json",
+    "halloween/hw_06_hollow_playground_rec.json"
+  ],
+  "cover": "halloween/covers/hw_06_hollow_playground.jpg"
+}
