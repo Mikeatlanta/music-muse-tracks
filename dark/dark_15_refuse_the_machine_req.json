@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop ballad, country, acoustic, happy, chiptune, synthwave, slow, lo-fi",
+ "title": "Refuse the Machine",
+ "style": "Industrial techno EBM crossover club banger, 132 BPM, four-on-the-floor pounding kick, driving sequenced bass, distorted synth stabs, huge risers and build-ups, massive drops, metallic percussion, growled and shouted processed male vocal, gang vocal chants, crowd call-and-response, dark warehouse rave energy",
+ "prompt": "[Intro]\n[Spoken sample, filtered PA voice: \"Compliance is mandatory. Please remain in line.\"]\n(Gang chant) Hey! Hey! Hey!\n\n[Verse]\nBarcode on my wrist\nCamera in the sky\nFeed me what you want\nTell me how to die\nNot tonight\n\n[Pre-Chorus]\nFeel the floor shake\nFeel the chains break\n\n[Build]\nRefuse, refuse, refuse, refuse\n(Shouted) Louder!\nRefuse, refuse, refuse, refuse\n\n[Drop]\n[Chorus]\nRefuse the machine! (Refuse!)\nLive free! (Live free!)\nHands up, break the chain\nNobody owns my name\nRefuse the machine! (Refuse!)\nLive free! (Live free!)\n\n[Verse]\nSirens in the bass\nStatic in my veins\nThousand bodies jump\nShake the iron cage\n\n[Build]\n(Gang chant) Live free! Live free! Live free! Live free!\n(Shouted) Everybody!\n\n[Drop]\n[Chorus]\nRefuse the machine! (Refuse!)\nLive free! (Live free!)\nHands up, break the chain\nNobody owns my name\n\n[Breakdown]\n[Spoken sample, glitching AI voice: \"Error. Crowd not responding.\"]\n(Growled) We are not your code\n\n[Outro]\nRefuse the machine!\nLive free!"
+}

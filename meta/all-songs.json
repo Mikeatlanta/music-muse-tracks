@@ -2106,5 +2106,47 @@
       "dark/dark_14_perjury_machine_overlay_rec.json"
     ],
     "versionOf": "dark_13_perjury_machine"
+  },
+  {
+    "title": "Refuse the Machine",
+    "collection": "dark",
+    "slug": "dark_15_refuse_the_machine",
+    "model": "V6",
+    "style": "Industrial techno EBM crossover club banger, 132 BPM, four-on-the-floor pounding kick, driving sequenced bass, distorted synth stabs, huge risers and build-ups, massive drops, metallic percussion, growled and shouted processed male vocal, gang vocal chants, crowd call-and-response, dark warehouse rave energy",
+    "negativeTags": "pop ballad, country, acoustic, happy, chiptune, synthwave, slow, lo-fi",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Spoken sample, filtered PA voice: \"Compliance is mandatory. Please remain in line.\"]\n(Gang chant) Hey! Hey! Hey!\n\n[Verse]\nBarcode on my wrist\nCamera in the sky\nFeed me what you want\nTell me how to die\nNot tonight\n\n[Pre-Chorus]\nFeel the floor shake\nFeel the chains break\n\n[Build]\nRefuse, refuse, refuse, refuse\n(Shouted) Louder!\nRefuse, refuse, refuse, refuse\n\n[Drop]\n[Chorus]\nRefuse the machine! (Refuse!)\nLive free! (Live free!)\nHands up, break the chain\nNobody owns my name\nRefuse the machine! (Refuse!)\nLive free! (Live free!)\n\n[Verse]\nSirens in the bass\nStatic in my veins\nThousand bodies jump\nShake the iron cage\n\n[Build]\n(Gang chant) Live free! Live free! Live free! Live free!\n(Shouted) Everybody!\n\n[Drop]\n[Chorus]\nRefuse the machine! (Refuse!)\nLive free! (Live free!)\nHands up, break the chain\nNobody owns my name\n\n[Breakdown]\n[Spoken sample, glitching AI voice: \"Error. Crowd not responding.\"]\n(Growled) We are not your code\n\n[Outro]\nRefuse the machine!\nLive free!",
+    "taskId": "6bb2ef90b782bb179416ab5f1f45f4e6",
+    "sunoClipIds": [
+      "e8c7dcd3-d026-4886-8f51-fcf3153021fe",
+      "335f1c05-abe0-4454-8bd0-e744a2e328c2"
+    ],
+    "created": "Oct 31, 2026 7:47 AM ET",
+    "createTimeMs": 1793447238632,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "e8c7dcd3-d026-4886-8f51-fcf3153021fe",
+        "durationSec": 239.16,
+        "file": "dark/dark_15_refuse_the_machine_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "335f1c05-abe0-4454-8bd0-e744a2e328c2",
+        "durationSec": 239.52,
+        "file": "dark/dark_15_refuse_the_machine_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/dark_15_refuse_the_machine_req.json",
+      "dark/dark_15_refuse_the_machine_rec.json"
+    ]
   }
 ]
