@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow, singing",
+ "title": "Neon Tribunal",
+ "style": "Dark clubbing cyberpunk, 125 BPM, menacing heavy distorted sub bass, mid-tempo grinding groove, sci-fi synth textures, cinematic tension, robotic processed spoken voice samples only, mostly instrumental, dystopian megacity club",
+ "prompt": "[Intro]\n[Sub bass rumble, sci-fi synths]\n\n[Instrumental]\n[Menacing groove]\n\n[Break]\n(Robotic voice) Verdict pending\n\n[Drop]\n[Heavy distorted bass]\n\n[Instrumental]\n\n[Break]\n(Robotic voice) Guilty of being free\n\n[Drop]\n[Massive bass]\n\n[Outro]\n[Grinding bass fades]"
+}

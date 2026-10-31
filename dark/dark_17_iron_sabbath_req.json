@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+ "title": "Iron Sabbath",
+ "style": "Modern new EBM body techno, 126 BPM, rigid analog bass sequence, hard four-on-the-floor kick, clanging steel percussion, cold detached baritone male vocal, sparse barked phrases, relentless forward motion, dark warehouse, modern punchy production",
+ "prompt": "[Intro]\n[Steel percussion, rising bass]\n\n[Verse]\nSix days the engine\nSix days the wheel\nOne day I stop\nOne day I kneel\n\n[Chorus]\nIron sabbath\nMachines go still\nIron sabbath\nNot by my will\n\n[Instrumental Break]\n\n[Bridge]\n(Spoken, low) Rest is resistance\n\n[Chorus]\nIron sabbath\nMachines go still\n\n[Outro]\n[Kick and bass, hard stop]"
+}

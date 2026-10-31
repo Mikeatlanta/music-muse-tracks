@@ -1,0 +1,42 @@
+{
+  "title": "Iron Sabbath",
+  "collection": "dark",
+  "slug": "dark_17_iron_sabbath",
+  "model": "V6",
+  "style": "Modern new EBM body techno, 126 BPM, rigid analog bass sequence, hard four-on-the-floor kick, clanging steel percussion, cold detached baritone male vocal, sparse barked phrases, relentless forward motion, dark warehouse, modern punchy production",
+  "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Steel percussion, rising bass]\n\n[Verse]\nSix days the engine\nSix days the wheel\nOne day I stop\nOne day I kneel\n\n[Chorus]\nIron sabbath\nMachines go still\nIron sabbath\nNot by my will\n\n[Instrumental Break]\n\n[Bridge]\n(Spoken, low) Rest is resistance\n\n[Chorus]\nIron sabbath\nMachines go still\n\n[Outro]\n[Kick and bass, hard stop]",
+  "taskId": "69580d2877f7ab20f11cfca96fffbef9",
+  "sunoClipIds": [
+    "5d06adb9-efe8-4fc9-b5e2-e084a85aae95",
+    "5107533f-1842-4e77-9780-8901618c83b8"
+  ],
+  "created": "Oct 31, 2026 10:28 AM ET",
+  "createTimeMs": 1793456885644,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "5d06adb9-efe8-4fc9-b5e2-e084a85aae95",
+      "durationSec": 239.8,
+      "file": "dark/dark_17_iron_sabbath_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5107533f-1842-4e77-9780-8901618c83b8",
+      "durationSec": 239.6,
+      "file": "dark/dark_17_iron_sabbath_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/dark_17_iron_sabbath_req.json",
+    "dark/dark_17_iron_sabbath_rec.json"
+  ]
+}

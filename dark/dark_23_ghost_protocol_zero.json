@@ -1,0 +1,42 @@
+{
+  "title": "Ghost Protocol Zero",
+  "collection": "dark",
+  "slug": "dark_23_ghost_protocol_zero",
+  "model": "V6",
+  "style": "Dark clubbing cyberpunk, 122 BPM, menacing heavy-bass sci-fi club, grinding distorted bass riff, cold metallic percussion, ominous cinematic synths, stealth-mission tension, dark pulsing groove, instrumental",
+  "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow, vocals",
+  "instrumental": true,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "",
+  "taskId": "088e5e60e8f88747ba71720c9cca8341",
+  "sunoClipIds": [
+    "dbfb28f3-6c74-473b-bd4d-4761c74eb8a8",
+    "e4284765-efd1-4f0d-958e-70c351396fc4"
+  ],
+  "created": "Oct 31, 2026 10:28 AM ET",
+  "createTimeMs": 1793456887362,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "dbfb28f3-6c74-473b-bd4d-4761c74eb8a8",
+      "durationSec": 239.32,
+      "file": "dark/dark_23_ghost_protocol_zero_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "e4284765-efd1-4f0d-958e-70c351396fc4",
+      "durationSec": 239.52,
+      "file": "dark/dark_23_ghost_protocol_zero_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/dark_23_ghost_protocol_zero_req.json",
+    "dark/dark_23_ghost_protocol_zero_rec.json"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Ledger of Bone",
+  "collection": "dark",
+  "slug": "dark_16_ledger_of_bone",
+  "model": "V6",
+  "style": "Modern new EBM body techno, 128 BPM, cold driving sequenced analog bass, punchy saturated kick, tight metallic snares, stark minimal arrangement, deep monotone commanding male vocal, half-spoken, militant club pulse, modern hard industrial mix",
+  "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Pulsing bass, no vocal]\n\n[Verse]\nCount the coins\nCount the days\nCount the men\nWho count the pay\n\n[Chorus]\nLedger of bone\nLedger of bone\nEverything bought\nNothing owned\n\n[Instrumental Break]\n[Driving bass, hard kick]\n\n[Verse]\nPaper king\nGolden chain\nMoth and rust\nHave the same\n\n[Chorus]\nLedger of bone\nNothing owned\n\n[Outro]\n[Bass alone, fade]",
+  "taskId": "6d8de9615c8b1d1b01535b651ef6244d",
+  "sunoClipIds": [
+    "affd6b10-b283-401d-8040-752b40ff99b0",
+    "20491059-cf3c-4902-85a4-5ae9c6309e80"
+  ],
+  "created": "Oct 31, 2026 10:28 AM ET",
+  "createTimeMs": 1793456898997,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "affd6b10-b283-401d-8040-752b40ff99b0",
+      "durationSec": 239.68,
+      "file": "dark/dark_16_ledger_of_bone_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "20491059-cf3c-4902-85a4-5ae9c6309e80",
+      "durationSec": 239.12,
+      "file": "dark/dark_16_ledger_of_bone_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/dark_16_ledger_of_bone_req.json",
+    "dark/dark_16_ledger_of_bone_rec.json"
+  ]
+}

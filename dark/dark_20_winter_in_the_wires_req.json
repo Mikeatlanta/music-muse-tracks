@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+ "title": "Winter in the Wires",
+ "style": "Darkwave coldwave revival, 118 BPM, melancholic minor-key synth melody, prominent melodic post-punk bass guitar, chorus-drenched guitar, tight drum machine, deep moody baritone male vocal, cold Eastern European atmosphere, gloomy danceable",
+ "prompt": "[Intro]\n[Melodic bass line, cold synth]\n\n[Verse]\nSnow on the antenna\nGrey on the stairs\nYour voice in the static\nNobody there\n\n[Chorus]\nWinter in the wires\nSilence in the town\nWinter in the wires\nLove is shutting down\n\n[Instrumental Break]\n[Bass melody, guitar shimmer]\n\n[Verse]\nTrams in the darkness\nLights going low\n\n[Chorus]\nWinter in the wires\nLove is shutting down\n\n[Outro]\n[Synth melody fades]"
+}

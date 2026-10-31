@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+ "title": "Counterfeit Saviors",
+ "style": "Dark electro aggrotech, 138 BPM, brutal distorted processed male vocal, snarling and screamed, hard stomping club kick, razor synth stabs, pitched-down hellish pads, aggressive build-ups and drops, harsh industrial club",
+ "prompt": "[Intro]\n[Ominous pads, distorted pulse]\n\n[Verse]\nPlastic crowns\nNeon thrones\nSelling heaven\nBy the phone\n\n[Chorus]\nCounterfeit saviors\nHands full of lies\nCounterfeit saviors\nDead behind the eyes\n\n[Instrumental Break]\n[Hard drop]\n\n[Bridge]\n(Low growl) Only one rose from the grave\n\n[Chorus]\nCounterfeit saviors\nDead behind the eyes\n\n[Outro]\n[Distortion collapse]"
+}

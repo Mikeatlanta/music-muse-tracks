@@ -1,0 +1,42 @@
+{
+  "title": "Winter in the Wires",
+  "collection": "dark",
+  "slug": "dark_20_winter_in_the_wires",
+  "model": "V6",
+  "style": "Darkwave coldwave revival, 118 BPM, melancholic minor-key synth melody, prominent melodic post-punk bass guitar, chorus-drenched guitar, tight drum machine, deep moody baritone male vocal, cold Eastern European atmosphere, gloomy danceable",
+  "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Melodic bass line, cold synth]\n\n[Verse]\nSnow on the antenna\nGrey on the stairs\nYour voice in the static\nNobody there\n\n[Chorus]\nWinter in the wires\nSilence in the town\nWinter in the wires\nLove is shutting down\n\n[Instrumental Break]\n[Bass melody, guitar shimmer]\n\n[Verse]\nTrams in the darkness\nLights going low\n\n[Chorus]\nWinter in the wires\nLove is shutting down\n\n[Outro]\n[Synth melody fades]",
+  "taskId": "390dcdbfa86fdc130f445b6b7986f6b2",
+  "sunoClipIds": [
+    "edf4393d-8bd2-4eea-bd77-f14639f1d674",
+    "0186eb44-b1db-4f89-9d29-2d22e7c66ce9"
+  ],
+  "created": "Oct 31, 2026 10:28 AM ET",
+  "createTimeMs": 1793456886042,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "edf4393d-8bd2-4eea-bd77-f14639f1d674",
+      "durationSec": 239.56,
+      "file": "dark/dark_20_winter_in_the_wires_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "0186eb44-b1db-4f89-9d29-2d22e7c66ce9",
+      "durationSec": 239.88,
+      "file": "dark/dark_20_winter_in_the_wires_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/dark_20_winter_in_the_wires_req.json",
+    "dark/dark_20_winter_in_the_wires_rec.json"
+  ]
+}

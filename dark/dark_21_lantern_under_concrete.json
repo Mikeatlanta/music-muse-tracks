@@ -1,0 +1,42 @@
+{
+  "title": "Lantern Under Concrete",
+  "collection": "dark",
+  "slug": "dark_21_lantern_under_concrete",
+  "model": "V6",
+  "style": "Darkwave coldwave revival, 114 BPM, haunting melodic synth lines, driving post-punk bass guitar, reverb-soaked guitar, cold drum machine, moody low ethereal female vocal, Eastern European winter gloom, quiet hope beneath the dark",
+  "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Cold synth, bass pulse]\n\n[Verse]\nCity of ashes\nWindows of ice\nSomeone is singing\nPaid the price\n\n[Chorus]\nLantern under concrete\nBurning in the cold\nDarkness cannot hold it\nLight is never sold\n\n[Instrumental Break]\n[Melodic bass solo]\n\n[Bridge]\n(Whispered) The night is far spent\n\n[Chorus]\nLantern under concrete\nBurning in the cold\n\n[Outro]\n[Fading guitar shimmer]",
+  "taskId": "88e0eee3d0b66d7a94d75c3dd2a2e2c8",
+  "sunoClipIds": [
+    "50330010-9a33-412a-b219-1c52489e9b1a",
+    "c4beb9da-a42d-4b6a-9289-bd37ca26f384"
+  ],
+  "created": "Oct 31, 2026 10:27 AM ET",
+  "createTimeMs": 1793456878686,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "50330010-9a33-412a-b219-1c52489e9b1a",
+      "durationSec": 239.68,
+      "file": "dark/dark_21_lantern_under_concrete_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c4beb9da-a42d-4b6a-9289-bd37ca26f384",
+      "durationSec": 239.84,
+      "file": "dark/dark_21_lantern_under_concrete_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/dark_21_lantern_under_concrete_req.json",
+    "dark/dark_21_lantern_under_concrete_rec.json"
+  ]
+}

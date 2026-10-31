@@ -1,0 +1,42 @@
+{
+  "title": "Counterfeit Saviors",
+  "collection": "dark",
+  "slug": "dark_19_counterfeit_saviors",
+  "model": "V6",
+  "style": "Dark electro aggrotech, 138 BPM, brutal distorted processed male vocal, snarling and screamed, hard stomping club kick, razor synth stabs, pitched-down hellish pads, aggressive build-ups and drops, harsh industrial club",
+  "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Ominous pads, distorted pulse]\n\n[Verse]\nPlastic crowns\nNeon thrones\nSelling heaven\nBy the phone\n\n[Chorus]\nCounterfeit saviors\nHands full of lies\nCounterfeit saviors\nDead behind the eyes\n\n[Instrumental Break]\n[Hard drop]\n\n[Bridge]\n(Low growl) Only one rose from the grave\n\n[Chorus]\nCounterfeit saviors\nDead behind the eyes\n\n[Outro]\n[Distortion collapse]",
+  "taskId": "ea16436889c0e0af9604eb97216466b5",
+  "sunoClipIds": [
+    "bb39f7c2-5f5b-4fd9-88c4-fbba339df203",
+    "5f55d043-5448-493e-a3a8-0e72fc0dfea0"
+  ],
+  "created": "Oct 31, 2026 10:27 AM ET",
+  "createTimeMs": 1793456875066,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "bb39f7c2-5f5b-4fd9-88c4-fbba339df203",
+      "durationSec": 239.76,
+      "file": "dark/dark_19_counterfeit_saviors_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5f55d043-5448-493e-a3a8-0e72fc0dfea0",
+      "durationSec": 239.56,
+      "file": "dark/dark_19_counterfeit_saviors_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/dark_19_counterfeit_saviors_req.json",
+    "dark/dark_19_counterfeit_saviors_rec.json"
+  ]
+}

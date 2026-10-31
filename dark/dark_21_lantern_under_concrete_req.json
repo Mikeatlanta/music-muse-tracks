@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "f",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+ "title": "Lantern Under Concrete",
+ "style": "Darkwave coldwave revival, 114 BPM, haunting melodic synth lines, driving post-punk bass guitar, reverb-soaked guitar, cold drum machine, moody low ethereal female vocal, Eastern European winter gloom, quiet hope beneath the dark",
+ "prompt": "[Intro]\n[Cold synth, bass pulse]\n\n[Verse]\nCity of ashes\nWindows of ice\nSomeone is singing\nPaid the price\n\n[Chorus]\nLantern under concrete\nBurning in the cold\nDarkness cannot hold it\nLight is never sold\n\n[Instrumental Break]\n[Melodic bass solo]\n\n[Bridge]\n(Whispered) The night is far spent\n\n[Chorus]\nLantern under concrete\nBurning in the cold\n\n[Outro]\n[Fading guitar shimmer]"
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Flesh Firmware",
+  "collection": "dark",
+  "slug": "dark_18_flesh_firmware",
+  "model": "V6",
+  "style": "Dark electro aggrotech, 135 BPM, harsh distorted screamed male vocal, heavy vocoder grit, hard pounding club beat, aggressive supersaw leads, gated distorted bass, glitch stutters, cyber dancefloor rage",
+  "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Glitch stutters, distorted riser]\n(Distorted shout) Update!\n\n[Verse]\nPatch my heart\nScan my soul\nSell my sleep\nLose control\n\n[Chorus]\nFlesh firmware\nI am not your code\nFlesh firmware\nOverload!\n\n[Instrumental Break]\n[Hard drop, supersaw lead]\n\n[Verse]\nTerms accepted\nNever read\nData harvest\nIn my head\n\n[Chorus]\nFlesh firmware\nOverload!\n\n[Outro]\n(Distorted whisper) Uninstall",
+  "taskId": "0e2beefd948487eebb7b0ac9cef72fd0",
+  "sunoClipIds": [
+    "0be03d07-374f-420c-bb87-9229db4b6936",
+    "43450f09-4ce6-4bf1-850f-dfb2940390fd"
+  ],
+  "created": "Oct 31, 2026 10:27 AM ET",
+  "createTimeMs": 1793456877797,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0be03d07-374f-420c-bb87-9229db4b6936",
+      "durationSec": 239.2,
+      "file": "dark/dark_18_flesh_firmware_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "43450f09-4ce6-4bf1-850f-dfb2940390fd",
+      "durationSec": 239.96,
+      "file": "dark/dark_18_flesh_firmware_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/dark_18_flesh_firmware_req.json",
+    "dark/dark_18_flesh_firmware_rec.json"
+  ]
+}

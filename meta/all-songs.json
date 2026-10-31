@@ -2588,5 +2588,341 @@
     ],
     "album": "Minimum Payment",
     "track": 10
+  },
+  {
+    "title": "Ledger of Bone",
+    "collection": "dark",
+    "slug": "dark_16_ledger_of_bone",
+    "model": "V6",
+    "style": "Modern new EBM body techno, 128 BPM, cold driving sequenced analog bass, punchy saturated kick, tight metallic snares, stark minimal arrangement, deep monotone commanding male vocal, half-spoken, militant club pulse, modern hard industrial mix",
+    "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Pulsing bass, no vocal]\n\n[Verse]\nCount the coins\nCount the days\nCount the men\nWho count the pay\n\n[Chorus]\nLedger of bone\nLedger of bone\nEverything bought\nNothing owned\n\n[Instrumental Break]\n[Driving bass, hard kick]\n\n[Verse]\nPaper king\nGolden chain\nMoth and rust\nHave the same\n\n[Chorus]\nLedger of bone\nNothing owned\n\n[Outro]\n[Bass alone, fade]",
+    "taskId": "6d8de9615c8b1d1b01535b651ef6244d",
+    "sunoClipIds": [
+      "affd6b10-b283-401d-8040-752b40ff99b0",
+      "20491059-cf3c-4902-85a4-5ae9c6309e80"
+    ],
+    "created": "Oct 31, 2026 10:28 AM ET",
+    "createTimeMs": 1793456898997,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "affd6b10-b283-401d-8040-752b40ff99b0",
+        "durationSec": 239.68,
+        "file": "dark/dark_16_ledger_of_bone_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "20491059-cf3c-4902-85a4-5ae9c6309e80",
+        "durationSec": 239.12,
+        "file": "dark/dark_16_ledger_of_bone_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/dark_16_ledger_of_bone_req.json",
+      "dark/dark_16_ledger_of_bone_rec.json"
+    ]
+  },
+  {
+    "title": "Iron Sabbath",
+    "collection": "dark",
+    "slug": "dark_17_iron_sabbath",
+    "model": "V6",
+    "style": "Modern new EBM body techno, 126 BPM, rigid analog bass sequence, hard four-on-the-floor kick, clanging steel percussion, cold detached baritone male vocal, sparse barked phrases, relentless forward motion, dark warehouse, modern punchy production",
+    "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Steel percussion, rising bass]\n\n[Verse]\nSix days the engine\nSix days the wheel\nOne day I stop\nOne day I kneel\n\n[Chorus]\nIron sabbath\nMachines go still\nIron sabbath\nNot by my will\n\n[Instrumental Break]\n\n[Bridge]\n(Spoken, low) Rest is resistance\n\n[Chorus]\nIron sabbath\nMachines go still\n\n[Outro]\n[Kick and bass, hard stop]",
+    "taskId": "69580d2877f7ab20f11cfca96fffbef9",
+    "sunoClipIds": [
+      "5d06adb9-efe8-4fc9-b5e2-e084a85aae95",
+      "5107533f-1842-4e77-9780-8901618c83b8"
+    ],
+    "created": "Oct 31, 2026 10:28 AM ET",
+    "createTimeMs": 1793456885644,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "5d06adb9-efe8-4fc9-b5e2-e084a85aae95",
+        "durationSec": 239.8,
+        "file": "dark/dark_17_iron_sabbath_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "5107533f-1842-4e77-9780-8901618c83b8",
+        "durationSec": 239.6,
+        "file": "dark/dark_17_iron_sabbath_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/dark_17_iron_sabbath_req.json",
+      "dark/dark_17_iron_sabbath_rec.json"
+    ]
+  },
+  {
+    "title": "Flesh Firmware",
+    "collection": "dark",
+    "slug": "dark_18_flesh_firmware",
+    "model": "V6",
+    "style": "Dark electro aggrotech, 135 BPM, harsh distorted screamed male vocal, heavy vocoder grit, hard pounding club beat, aggressive supersaw leads, gated distorted bass, glitch stutters, cyber dancefloor rage",
+    "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Glitch stutters, distorted riser]\n(Distorted shout) Update!\n\n[Verse]\nPatch my heart\nScan my soul\nSell my sleep\nLose control\n\n[Chorus]\nFlesh firmware\nI am not your code\nFlesh firmware\nOverload!\n\n[Instrumental Break]\n[Hard drop, supersaw lead]\n\n[Verse]\nTerms accepted\nNever read\nData harvest\nIn my head\n\n[Chorus]\nFlesh firmware\nOverload!\n\n[Outro]\n(Distorted whisper) Uninstall",
+    "taskId": "0e2beefd948487eebb7b0ac9cef72fd0",
+    "sunoClipIds": [
+      "0be03d07-374f-420c-bb87-9229db4b6936",
+      "43450f09-4ce6-4bf1-850f-dfb2940390fd"
+    ],
+    "created": "Oct 31, 2026 10:27 AM ET",
+    "createTimeMs": 1793456877797,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0be03d07-374f-420c-bb87-9229db4b6936",
+        "durationSec": 239.2,
+        "file": "dark/dark_18_flesh_firmware_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "43450f09-4ce6-4bf1-850f-dfb2940390fd",
+        "durationSec": 239.96,
+        "file": "dark/dark_18_flesh_firmware_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/dark_18_flesh_firmware_req.json",
+      "dark/dark_18_flesh_firmware_rec.json"
+    ]
+  },
+  {
+    "title": "Counterfeit Saviors",
+    "collection": "dark",
+    "slug": "dark_19_counterfeit_saviors",
+    "model": "V6",
+    "style": "Dark electro aggrotech, 138 BPM, brutal distorted processed male vocal, snarling and screamed, hard stomping club kick, razor synth stabs, pitched-down hellish pads, aggressive build-ups and drops, harsh industrial club",
+    "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Ominous pads, distorted pulse]\n\n[Verse]\nPlastic crowns\nNeon thrones\nSelling heaven\nBy the phone\n\n[Chorus]\nCounterfeit saviors\nHands full of lies\nCounterfeit saviors\nDead behind the eyes\n\n[Instrumental Break]\n[Hard drop]\n\n[Bridge]\n(Low growl) Only one rose from the grave\n\n[Chorus]\nCounterfeit saviors\nDead behind the eyes\n\n[Outro]\n[Distortion collapse]",
+    "taskId": "ea16436889c0e0af9604eb97216466b5",
+    "sunoClipIds": [
+      "bb39f7c2-5f5b-4fd9-88c4-fbba339df203",
+      "5f55d043-5448-493e-a3a8-0e72fc0dfea0"
+    ],
+    "created": "Oct 31, 2026 10:27 AM ET",
+    "createTimeMs": 1793456875066,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "bb39f7c2-5f5b-4fd9-88c4-fbba339df203",
+        "durationSec": 239.76,
+        "file": "dark/dark_19_counterfeit_saviors_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "5f55d043-5448-493e-a3a8-0e72fc0dfea0",
+        "durationSec": 239.56,
+        "file": "dark/dark_19_counterfeit_saviors_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/dark_19_counterfeit_saviors_req.json",
+      "dark/dark_19_counterfeit_saviors_rec.json"
+    ]
+  },
+  {
+    "title": "Winter in the Wires",
+    "collection": "dark",
+    "slug": "dark_20_winter_in_the_wires",
+    "model": "V6",
+    "style": "Darkwave coldwave revival, 118 BPM, melancholic minor-key synth melody, prominent melodic post-punk bass guitar, chorus-drenched guitar, tight drum machine, deep moody baritone male vocal, cold Eastern European atmosphere, gloomy danceable",
+    "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Melodic bass line, cold synth]\n\n[Verse]\nSnow on the antenna\nGrey on the stairs\nYour voice in the static\nNobody there\n\n[Chorus]\nWinter in the wires\nSilence in the town\nWinter in the wires\nLove is shutting down\n\n[Instrumental Break]\n[Bass melody, guitar shimmer]\n\n[Verse]\nTrams in the darkness\nLights going low\n\n[Chorus]\nWinter in the wires\nLove is shutting down\n\n[Outro]\n[Synth melody fades]",
+    "taskId": "390dcdbfa86fdc130f445b6b7986f6b2",
+    "sunoClipIds": [
+      "edf4393d-8bd2-4eea-bd77-f14639f1d674",
+      "0186eb44-b1db-4f89-9d29-2d22e7c66ce9"
+    ],
+    "created": "Oct 31, 2026 10:28 AM ET",
+    "createTimeMs": 1793456886042,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "edf4393d-8bd2-4eea-bd77-f14639f1d674",
+        "durationSec": 239.56,
+        "file": "dark/dark_20_winter_in_the_wires_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "0186eb44-b1db-4f89-9d29-2d22e7c66ce9",
+        "durationSec": 239.88,
+        "file": "dark/dark_20_winter_in_the_wires_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/dark_20_winter_in_the_wires_req.json",
+      "dark/dark_20_winter_in_the_wires_rec.json"
+    ]
+  },
+  {
+    "title": "Lantern Under Concrete",
+    "collection": "dark",
+    "slug": "dark_21_lantern_under_concrete",
+    "model": "V6",
+    "style": "Darkwave coldwave revival, 114 BPM, haunting melodic synth lines, driving post-punk bass guitar, reverb-soaked guitar, cold drum machine, moody low ethereal female vocal, Eastern European winter gloom, quiet hope beneath the dark",
+    "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Cold synth, bass pulse]\n\n[Verse]\nCity of ashes\nWindows of ice\nSomeone is singing\nPaid the price\n\n[Chorus]\nLantern under concrete\nBurning in the cold\nDarkness cannot hold it\nLight is never sold\n\n[Instrumental Break]\n[Melodic bass solo]\n\n[Bridge]\n(Whispered) The night is far spent\n\n[Chorus]\nLantern under concrete\nBurning in the cold\n\n[Outro]\n[Fading guitar shimmer]",
+    "taskId": "88e0eee3d0b66d7a94d75c3dd2a2e2c8",
+    "sunoClipIds": [
+      "50330010-9a33-412a-b219-1c52489e9b1a",
+      "c4beb9da-a42d-4b6a-9289-bd37ca26f384"
+    ],
+    "created": "Oct 31, 2026 10:27 AM ET",
+    "createTimeMs": 1793456878686,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "50330010-9a33-412a-b219-1c52489e9b1a",
+        "durationSec": 239.68,
+        "file": "dark/dark_21_lantern_under_concrete_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "c4beb9da-a42d-4b6a-9289-bd37ca26f384",
+        "durationSec": 239.84,
+        "file": "dark/dark_21_lantern_under_concrete_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/dark_21_lantern_under_concrete_req.json",
+      "dark/dark_21_lantern_under_concrete_rec.json"
+    ]
+  },
+  {
+    "title": "Neon Tribunal",
+    "collection": "dark",
+    "slug": "dark_22_neon_tribunal",
+    "model": "V6",
+    "style": "Dark clubbing cyberpunk, 125 BPM, menacing heavy distorted sub bass, mid-tempo grinding groove, sci-fi synth textures, cinematic tension, robotic processed spoken voice samples only, mostly instrumental, dystopian megacity club",
+    "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow, singing",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Sub bass rumble, sci-fi synths]\n\n[Instrumental]\n[Menacing groove]\n\n[Break]\n(Robotic voice) Verdict pending\n\n[Drop]\n[Heavy distorted bass]\n\n[Instrumental]\n\n[Break]\n(Robotic voice) Guilty of being free\n\n[Drop]\n[Massive bass]\n\n[Outro]\n[Grinding bass fades]",
+    "taskId": "c45e788195637d0b46ccc94803e6473b",
+    "sunoClipIds": [
+      "744e41e7-bdae-437b-b804-426db4817b9d",
+      "e9dd0ad7-3b95-4d99-a4a7-8f308cf99937"
+    ],
+    "created": "Oct 31, 2026 10:28 AM ET",
+    "createTimeMs": 1793456884336,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "744e41e7-bdae-437b-b804-426db4817b9d",
+        "durationSec": 239.96,
+        "file": "dark/dark_22_neon_tribunal_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "e9dd0ad7-3b95-4d99-a4a7-8f308cf99937",
+        "durationSec": 238.8,
+        "file": "dark/dark_22_neon_tribunal_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/dark_22_neon_tribunal_req.json",
+      "dark/dark_22_neon_tribunal_rec.json"
+    ]
+  },
+  {
+    "title": "Ghost Protocol Zero",
+    "collection": "dark",
+    "slug": "dark_23_ghost_protocol_zero",
+    "model": "V6",
+    "style": "Dark clubbing cyberpunk, 122 BPM, menacing heavy-bass sci-fi club, grinding distorted bass riff, cold metallic percussion, ominous cinematic synths, stealth-mission tension, dark pulsing groove, instrumental",
+    "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow, vocals",
+    "instrumental": true,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "",
+    "taskId": "088e5e60e8f88747ba71720c9cca8341",
+    "sunoClipIds": [
+      "dbfb28f3-6c74-473b-bd4d-4761c74eb8a8",
+      "e4284765-efd1-4f0d-958e-70c351396fc4"
+    ],
+    "created": "Oct 31, 2026 10:28 AM ET",
+    "createTimeMs": 1793456887362,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "dbfb28f3-6c74-473b-bd4d-4761c74eb8a8",
+        "durationSec": 239.32,
+        "file": "dark/dark_23_ghost_protocol_zero_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "e4284765-efd1-4f0d-958e-70c351396fc4",
+        "durationSec": 239.52,
+        "file": "dark/dark_23_ghost_protocol_zero_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "dark/dark_23_ghost_protocol_zero_req.json",
+      "dark/dark_23_ghost_protocol_zero_rec.json"
+    ]
   }
 ]

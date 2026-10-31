@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow",
+ "title": "Flesh Firmware",
+ "style": "Dark electro aggrotech, 135 BPM, harsh distorted screamed male vocal, heavy vocoder grit, hard pounding club beat, aggressive supersaw leads, gated distorted bass, glitch stutters, cyber dancefloor rage",
+ "prompt": "[Intro]\n[Glitch stutters, distorted riser]\n(Distorted shout) Update!\n\n[Verse]\nPatch my heart\nScan my soul\nSell my sleep\nLose control\n\n[Chorus]\nFlesh firmware\nI am not your code\nFlesh firmware\nOverload!\n\n[Instrumental Break]\n[Hard drop, supersaw lead]\n\n[Verse]\nTerms accepted\nNever read\nData harvest\nIn my head\n\n[Chorus]\nFlesh firmware\nOverload!\n\n[Outro]\n(Distorted whisper) Uninstall"
+}

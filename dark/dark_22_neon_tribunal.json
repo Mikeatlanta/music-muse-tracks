@@ -1,0 +1,42 @@
+{
+  "title": "Neon Tribunal",
+  "collection": "dark",
+  "slug": "dark_22_neon_tribunal",
+  "model": "V6",
+  "style": "Dark clubbing cyberpunk, 125 BPM, menacing heavy distorted sub bass, mid-tempo grinding groove, sci-fi synth textures, cinematic tension, robotic processed spoken voice samples only, mostly instrumental, dystopian megacity club",
+  "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow, singing",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Sub bass rumble, sci-fi synths]\n\n[Instrumental]\n[Menacing groove]\n\n[Break]\n(Robotic voice) Verdict pending\n\n[Drop]\n[Heavy distorted bass]\n\n[Instrumental]\n\n[Break]\n(Robotic voice) Guilty of being free\n\n[Drop]\n[Massive bass]\n\n[Outro]\n[Grinding bass fades]",
+  "taskId": "c45e788195637d0b46ccc94803e6473b",
+  "sunoClipIds": [
+    "744e41e7-bdae-437b-b804-426db4817b9d",
+    "e9dd0ad7-3b95-4d99-a4a7-8f308cf99937"
+  ],
+  "created": "Oct 31, 2026 10:28 AM ET",
+  "createTimeMs": 1793456884336,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "744e41e7-bdae-437b-b804-426db4817b9d",
+      "durationSec": 239.96,
+      "file": "dark/dark_22_neon_tribunal_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "e9dd0ad7-3b95-4d99-a4a7-8f308cf99937",
+      "durationSec": 238.8,
+      "file": "dark/dark_22_neon_tribunal_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "dark/dark_22_neon_tribunal_req.json",
+    "dark/dark_22_neon_tribunal_rec.json"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": true,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop ballad, country, acoustic, happy, chiptune, lo-fi, slow, vocals",
+ "title": "Ghost Protocol Zero",
+ "style": "Dark clubbing cyberpunk, 122 BPM, menacing heavy-bass sci-fi club, grinding distorted bass riff, cold metallic percussion, ominous cinematic synths, stealth-mission tension, dark pulsing groove, instrumental",
+ "prompt": ""
+}
