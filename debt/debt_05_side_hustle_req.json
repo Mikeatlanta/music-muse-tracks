@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+ "title": "Side Hustle",
+ "style": "Hard industrial techno, new EBM body techno, 145 BPM, distorted rumble kick, modern crisp heavy production, relentless driving rhythm, ticking hi-hats, bouncing distorted bass, sparse shouted processed male vocal, gang chants, filtered notification pings and app voices, frantic hustle energy",
+ "prompt": "[Intro]\n[Spoken sample, upbeat filtered app voice: \"New gig available. Accept now.\"]\n\n[Instrumental drop]\n\n[Verse]\nNine to five\nFive to nine\nThree more apps\nNo more time\n\n[Build]\n(Gang chant) Grind! Grind! Grind! Grind!\n\n[Drop]\n[Chorus]\nSide hustle!\nNo sleep!\nSide hustle!\nStill can't eat!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, filtered motivational speaker: \"Rise and grind. Sleep is optional.\"]\n(Shouted) Getting nowhere\n\n[Build]\n(Gang chant) Grind! Grind! Grind! Grind!\n\n[Drop]\n[Chorus]\nSide hustle!\nNo sleep!\nSide hustle!\nStill can't eat!\n\n[Outro]\n[Spoken sample, upbeat filtered app voice: \"Your rating has dropped.\"]"
+}

@@ -2148,5 +2148,445 @@
       "dark/dark_15_refuse_the_machine_req.json",
       "dark/dark_15_refuse_the_machine_rec.json"
     ]
+  },
+  {
+    "title": "Minimum Payment",
+    "collection": "debt",
+    "slug": "debt_01_minimum_payment",
+    "model": "V6",
+    "style": "Hard industrial techno, new EBM body techno, 138 BPM, distorted rumble kick, modern crisp heavy production, pounding mechanical groove, grinding acid bassline, cold metallic hits, sparse growled processed male vocal, chanted hook, filtered call-center and news samples, oppressive warehouse energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Spoken sample, filtered automated phone voice: \"Your balance is past due.\"]\n\n[Instrumental drop]\n\n[Verse]\nSwipe it\nSign it\nOwe it\nForever\n\n[Build]\n(Chanted) Pay, pay, pay, pay\n\n[Drop]\n[Chorus]\nMinimum payment!\nMaximum pain!\nMinimum payment!\nAgain and again!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, calm AI voice: \"Interest has been applied.\"]\n(Growled) Never paid off\n\n[Build]\n(Chanted) Pay, pay, pay, pay\n\n[Drop]\n[Chorus]\nMinimum payment!\nMaximum pain!\nMinimum payment!\nAgain and again!\n\n[Outro]\n[Spoken sample, filtered PA voice: \"Thank you for your loyalty.\"]",
+    "taskId": "101f9b57e58494bb8b444cab53a33284",
+    "sunoClipIds": [
+      "fea0a3c9-08d8-4e57-be2b-7a0d8ca93a7e",
+      "62946af1-b809-42ef-b071-94f5ca913252"
+    ],
+    "created": "Oct 31, 2026 7:57 AM ET",
+    "createTimeMs": 1793447838166,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "fea0a3c9-08d8-4e57-be2b-7a0d8ca93a7e",
+        "durationSec": 239.56,
+        "file": "debt/debt_01_minimum_payment_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "62946af1-b809-42ef-b071-94f5ca913252",
+        "durationSec": 239.6,
+        "file": "debt/debt_01_minimum_payment_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "debt/debt_01_minimum_payment_req.json",
+      "debt/debt_01_minimum_payment_rec.json"
+    ],
+    "album": "Minimum Payment",
+    "track": 1
+  },
+  {
+    "title": "Priced Out",
+    "collection": "debt",
+    "slug": "debt_02_priced_out",
+    "model": "V6",
+    "style": "Hard industrial techno, new EBM body techno, 140 BPM, distorted rumble kick, modern crisp heavy production, heavy rolling bass, distorted stabs, siren-like synth, sparse shouted processed male vocal, crowd chants, filtered realtor and news samples, tense urgent energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Spoken sample, filtered news anchor: \"Home prices hit another all-time high.\"]\n\n[Instrumental drop]\n\n[Verse]\nKeys in a window\nNever mine\nRent goes up\nEvery time\n\n[Build]\n(Chanted) Out, out, out, out\n\n[Drop]\n[Chorus]\nPriced out!\nLocked out!\nNo way in!\nPriced out!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, cheerful filtered realtor voice: \"Offers over asking only.\"]\n(Shouted) Where do we live?\n\n[Build]\n(Chanted) Out, out, out, out\n\n[Drop]\n[Chorus]\nPriced out!\nLocked out!\nNo way in!\nPriced out!\n\n[Outro]\n[Spoken sample, filtered AI voice: \"Application denied.\"]",
+    "taskId": "50698e239ee784fcbbfe0c60fecb2a9e",
+    "sunoClipIds": [
+      "016db997-4886-421c-b4c2-36eea9be2b80",
+      "dd8cf2cd-1dbd-4e0a-aa3e-c5a82707a6ce"
+    ],
+    "created": "Oct 31, 2026 7:57 AM ET",
+    "createTimeMs": 1793447837057,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "016db997-4886-421c-b4c2-36eea9be2b80",
+        "durationSec": 241.6,
+        "file": "debt/debt_02_priced_out_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "dd8cf2cd-1dbd-4e0a-aa3e-c5a82707a6ce",
+        "durationSec": 240.0,
+        "file": "debt/debt_02_priced_out_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "debt/debt_02_priced_out_req.json",
+      "debt/debt_02_priced_out_rec.json"
+    ],
+    "album": "Minimum Payment",
+    "track": 2
+  },
+  {
+    "title": "Never Retire",
+    "collection": "debt",
+    "slug": "debt_03_never_retire",
+    "model": "V6",
+    "style": "Hard industrial techno, new EBM body techno, 142 BPM, distorted rumble kick, modern crisp heavy production, acid-tinged sequenced bass, metallic percussion, tense risers, hard drops, sparse growled processed male vocal, chanted short hooks, filtered news anchor and AI voice samples, bleak warehouse energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Spoken sample, filtered news anchor: \"Average household debt reached a new record today.\"]\n\n[Instrumental drop]\n\n[Verse]\nSign here\nPay later\nOwe more\nEvery day\n\n[Build]\n(Chanted) Owe, owe, owe, owe\n\n[Drop]\n[Chorus]\nNever own a home!\nNever retire!\nWork till I'm gone!\nNever retire!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, calm AI voice: \"Your retirement date has been recalculated. Estimated: never.\"]\n(Growled) Keep working\n\n[Build]\n(Chanted) Owe, owe, owe, owe\n\n[Drop]\n[Chorus]\nNever own a home!\nNever retire!\n\n[Outro]\n[Spoken sample, filtered PA voice: \"Minimum payment due.\"]",
+    "taskId": "b37e740141c68d1d8079950665c99315",
+    "sunoClipIds": [
+      "6cb07015-27db-4288-bfc3-a2114ef404bc",
+      "ca4e8638-0bc0-4949-83c5-946811179c4a"
+    ],
+    "created": "Oct 31, 2026 7:55 AM ET",
+    "createTimeMs": 1793447754112,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "6cb07015-27db-4288-bfc3-a2114ef404bc",
+        "durationSec": 239.48,
+        "file": "debt/debt_03_never_retire_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "ca4e8638-0bc0-4949-83c5-946811179c4a",
+        "durationSec": 239.96,
+        "file": "debt/debt_03_never_retire_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "debt/debt_03_never_retire_req.json",
+      "debt/debt_03_never_retire_rec.json"
+    ],
+    "album": "Minimum Payment",
+    "track": 3
+  },
+  {
+    "title": "Replaced",
+    "collection": "debt",
+    "slug": "debt_04_replaced",
+    "model": "V6",
+    "style": "Hard industrial techno, new EBM body techno, 143 BPM, distorted rumble kick, modern crisp heavy production, chopped and pitched female vocal sample stutters, glitchy robotic textures, cold arpeggios, minimal growled male vocal, filtered HR and AI voice samples, clinical dystopian energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Spoken sample, calm AI voice: \"Thank you. Your role has been automated.\"]\n\n[Instrumental drop]\n\n[Verse]\nTrained it\nFed it\nNow it\nAte my job\n\n[Build]\n(Chopped female vocal sample) Re-re-re-placed\n\n[Drop]\n[Chorus]\nReplaced!\nBy a machine that never sleeps!\nReplaced!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, filtered HR voice: \"This decision was not personal.\"]\n(Growled) I was here first\n\n[Build]\n(Chopped female vocal sample) Re-re-re-placed\n\n[Drop]\n[Chorus]\nReplaced!\nBy a machine that never sleeps!\nReplaced!\n\n[Outro]\n[Spoken sample, calm AI voice: \"How else may I help you?\"]",
+    "taskId": "54bea0d86e7218c707bbb914a83802b2",
+    "sunoClipIds": [
+      "3207c62c-5e12-43e1-9dfe-0c9058756c76",
+      "e7f57dda-7124-4aba-af43-921d78f5dc1d"
+    ],
+    "created": "Oct 31, 2026 7:57 AM ET",
+    "createTimeMs": 1793447837655,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3207c62c-5e12-43e1-9dfe-0c9058756c76",
+        "durationSec": 239.56,
+        "file": "debt/debt_04_replaced_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "e7f57dda-7124-4aba-af43-921d78f5dc1d",
+        "durationSec": 239.6,
+        "file": "debt/debt_04_replaced_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "debt/debt_04_replaced_req.json",
+      "debt/debt_04_replaced_rec.json"
+    ],
+    "album": "Minimum Payment",
+    "track": 4
+  },
+  {
+    "title": "Side Hustle",
+    "collection": "debt",
+    "slug": "debt_05_side_hustle",
+    "model": "V6",
+    "style": "Hard industrial techno, new EBM body techno, 145 BPM, distorted rumble kick, modern crisp heavy production, relentless driving rhythm, ticking hi-hats, bouncing distorted bass, sparse shouted processed male vocal, gang chants, filtered notification pings and app voices, frantic hustle energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Spoken sample, upbeat filtered app voice: \"New gig available. Accept now.\"]\n\n[Instrumental drop]\n\n[Verse]\nNine to five\nFive to nine\nThree more apps\nNo more time\n\n[Build]\n(Gang chant) Grind! Grind! Grind! Grind!\n\n[Drop]\n[Chorus]\nSide hustle!\nNo sleep!\nSide hustle!\nStill can't eat!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, filtered motivational speaker: \"Rise and grind. Sleep is optional.\"]\n(Shouted) Getting nowhere\n\n[Build]\n(Gang chant) Grind! Grind! Grind! Grind!\n\n[Drop]\n[Chorus]\nSide hustle!\nNo sleep!\nSide hustle!\nStill can't eat!\n\n[Outro]\n[Spoken sample, upbeat filtered app voice: \"Your rating has dropped.\"]",
+    "taskId": "2cc0edc890da79ebb0fe8f02df8000bc",
+    "sunoClipIds": [
+      "3547125b-730a-4ab9-b6fc-257b8e84747b",
+      "bc8538af-5cb0-40c8-bf6d-da0f5e7cf5a7"
+    ],
+    "created": "Oct 31, 2026 7:57 AM ET",
+    "createTimeMs": 1793447837625,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3547125b-730a-4ab9-b6fc-257b8e84747b",
+        "durationSec": 239.56,
+        "file": "debt/debt_05_side_hustle_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "bc8538af-5cb0-40c8-bf6d-da0f5e7cf5a7",
+        "durationSec": 239.6,
+        "file": "debt/debt_05_side_hustle_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "debt/debt_05_side_hustle_req.json",
+      "debt/debt_05_side_hustle_rec.json"
+    ],
+    "album": "Minimum Payment",
+    "track": 5
+  },
+  {
+    "title": "Burnout",
+    "collection": "debt",
+    "slug": "debt_06_burnout",
+    "model": "V6",
+    "style": "Hard industrial techno, new EBM body techno, 136 BPM, distorted rumble kick, modern crisp heavy production, instrumental-leaning, long hypnotic builds, heavy reverb, slow-burning distorted textures, exhausted whispered and growled male vocal used sparingly, filtered doctor and alarm samples, drained hollow energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Spoken sample, filtered doctor voice: \"Have you been sleeping?\"]\n\n[Instrumental drop]\n\n[Verse]\nRunning on fumes\nLights still on\n\n[Build]\n(Whispered) Tired, tired, tired\n\n[Drop]\n[Chorus]\nBurnout\n(Growled) Burnout\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, filtered alarm clock voice: \"Six a.m. Six a.m. Six a.m.\"]\n(Whispered) Can't stop\n\n[Build]\n(Whispered) Tired, tired, tired\n\n[Drop]\n[Chorus]\nBurnout\n(Growled) Burnout\n\n[Outro]\n[Spoken sample, filtered doctor voice: \"Take some time off. If you can.\"]",
+    "taskId": "84df9554c777b4a3acfe0a7f8152ae58",
+    "sunoClipIds": [
+      "3561dfd1-ebd1-4afb-89c0-1675cdd87bcd",
+      "a6f317ee-3e1d-4249-b17f-62960608bb9e"
+    ],
+    "created": "Oct 31, 2026 7:57 AM ET",
+    "createTimeMs": 1793447837628,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3561dfd1-ebd1-4afb-89c0-1675cdd87bcd",
+        "durationSec": 239.56,
+        "file": "debt/debt_06_burnout_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "a6f317ee-3e1d-4249-b17f-62960608bb9e",
+        "durationSec": 239.96,
+        "file": "debt/debt_06_burnout_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "debt/debt_06_burnout_req.json",
+      "debt/debt_06_burnout_rec.json"
+    ],
+    "album": "Minimum Payment",
+    "track": 6
+  },
+  {
+    "title": "Feed Control",
+    "collection": "debt",
+    "slug": "debt_07_feed_control",
+    "model": "V6",
+    "style": "Hard industrial techno, new EBM body techno, 141 BPM, distorted rumble kick, modern crisp heavy production, glitch stutters, scrolling pulsing arpeggios, compressed pumping kick, robotic vocoder backing, sparse growled male vocal, chanted hook, filtered algorithm voice samples, hypnotic paranoid energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Spoken sample, smooth AI voice: \"Recommended for you.\"]\n\n[Instrumental drop]\n\n[Verse]\nScroll\nRefresh\nScroll\nObey\n\n[Build]\n(Chanted) Like, share, like, share\n\n[Drop]\n[Chorus]\nFeed control!\nIt knows my soul!\nFeed control!\nCan't let go!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, smooth AI voice: \"We noticed you stopped scrolling. Are you okay?\"]\n(Growled) Look away\n\n[Build]\n(Chanted) Like, share, like, share\n\n[Drop]\n[Chorus]\nFeed control!\nIt knows my soul!\nFeed control!\nCan't let go!\n\n[Outro]\n[Spoken sample, smooth AI voice: \"Keep watching.\"]",
+    "taskId": "28d61f78ee8889c8229d5a98f49614b9",
+    "sunoClipIds": [
+      "bba10e09-7f3e-42d1-9034-dd10b184627f",
+      "23c103a5-ea7c-4488-baaf-c020770d6524"
+    ],
+    "created": "Oct 31, 2026 7:57 AM ET",
+    "createTimeMs": 1793447838117,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "bba10e09-7f3e-42d1-9034-dd10b184627f",
+        "durationSec": 238.8,
+        "file": "debt/debt_07_feed_control_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "23c103a5-ea7c-4488-baaf-c020770d6524",
+        "durationSec": 239.6,
+        "file": "debt/debt_07_feed_control_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "debt/debt_07_feed_control_req.json",
+      "debt/debt_07_feed_control_rec.json"
+    ],
+    "album": "Minimum Payment",
+    "track": 7
+  },
+  {
+    "title": "Static Horizon",
+    "collection": "debt",
+    "slug": "debt_08_static_horizon",
+    "model": "V6",
+    "style": "Hard industrial techno, new EBM body techno, 139 BPM, distorted rumble kick, modern crisp heavy production, mostly instrumental, vast cinematic pads over rumble kick, metallic drones, emergency broadcast tones, minimal processed male vocal phrases, filtered broadcast samples, ominous looming energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Spoken sample, filtered emergency broadcast: \"This is not a test. Please stand by.\"]\n\n[Instrumental drop]\n\n[Verse]\nWhat comes next\nNobody knows\n\n[Build]\n(Processed) Stand by\n\n[Drop]\n[Chorus]\nStatic horizon\n(Instrumental)\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, filtered news anchor: \"Forecasts are no longer available.\"]\n(Processed) Waiting\n\n[Build]\n(Processed) Stand by\n\n[Drop]\n[Chorus]\nStatic horizon\n(Instrumental)\n\n[Outro]\n[Spoken sample, filtered emergency broadcast: \"Stand by for further instructions.\"]",
+    "taskId": "aefb65e6d92ee19751dc37b5193b7542",
+    "sunoClipIds": [
+      "bc61e3f2-1289-4dd2-bf46-1c1618dae8a6",
+      "44953c64-1e0c-48f9-98ea-195092f5c204"
+    ],
+    "created": "Oct 31, 2026 7:57 AM ET",
+    "createTimeMs": 1793447842196,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "bc61e3f2-1289-4dd2-bf46-1c1618dae8a6",
+        "durationSec": 239.16,
+        "file": "debt/debt_08_static_horizon_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "44953c64-1e0c-48f9-98ea-195092f5c204",
+        "durationSec": 239.96,
+        "file": "debt/debt_08_static_horizon_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "debt/debt_08_static_horizon_req.json",
+      "debt/debt_08_static_horizon_rec.json"
+    ],
+    "album": "Minimum Payment",
+    "track": 8
+  },
+  {
+    "title": "Quiet Riot",
+    "collection": "debt",
+    "slug": "debt_09_quiet_riot",
+    "model": "V6",
+    "style": "Hard industrial techno, new EBM body techno, 146 BPM, distorted rumble kick, modern crisp heavy production, stripped-back menacing groove, whispered-to-shouted dynamics, heavy toms, distorted body-techno bass, gang vocal chants, filtered surveillance AI samples, simmering defiant energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Spoken sample, filtered surveillance AI: \"No anomalies detected.\"]\n\n[Instrumental drop]\n\n[Verse]\nPhone down\nLights off\nSay nothing\nWalk out\n\n[Build]\n(Whispered, building to shouted) No, no, no, NO\n\n[Drop]\n[Chorus]\nQuiet riot!\nWe won't comply!\nQuiet riot!\nHeads held high!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, filtered surveillance AI: \"Anomaly detected.\"]\n(Shouted) Log off\n\n[Build]\n(Whispered, building to shouted) No, no, no, NO\n\n[Drop]\n[Chorus]\nQuiet riot!\nWe won't comply!\nQuiet riot!\nHeads held high!\n\n[Outro]\n[Spoken sample, filtered surveillance AI: \"Unable to locate.\"]",
+    "taskId": "630e9d3747d0a6380aac9768a34a2621",
+    "sunoClipIds": [
+      "3a05133f-60da-4b99-a719-9574e21da118",
+      "da44e236-d7d2-4ac8-8c3f-7fb462b4fc90"
+    ],
+    "created": "Oct 31, 2026 7:57 AM ET",
+    "createTimeMs": 1793447854430,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3a05133f-60da-4b99-a719-9574e21da118",
+        "durationSec": 239.96,
+        "file": "debt/debt_09_quiet_riot_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "da44e236-d7d2-4ac8-8c3f-7fb462b4fc90",
+        "durationSec": 239.12,
+        "file": "debt/debt_09_quiet_riot_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "debt/debt_09_quiet_riot_req.json",
+      "debt/debt_09_quiet_riot_rec.json"
+    ],
+    "album": "Minimum Payment",
+    "track": 9
+  },
+  {
+    "title": "Not Yet Written",
+    "collection": "debt",
+    "slug": "debt_10_not_yet_written",
+    "model": "V6",
+    "style": "Hard industrial techno, new EBM body techno, 144 BPM, distorted rumble kick, modern crisp heavy production, euphoric rising synth leads, driving sequenced bass, huge risers and hard drops, sparse shouted processed male vocal, gang chants, filtered AI and broadcast voice samples, defiant hopeful peak-time rave energy",
+    "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.8,
+    "weirdnessConstraint": 0.55,
+    "audioWeight": 0.65,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "saved request",
+    "lyrics": "[Intro]\n[Spoken sample, filtered broadcast voice: \"Forecast unavailable. The future has not been written.\"]\n\n[Instrumental drop]\n\n[Verse]\nNobody knows\nWhat's coming next\nCould be the best\nWe haven't met\n\n[Build]\n(Gang chant) Not yet! Not yet!\n\n[Drop]\n[Chorus]\nNot yet written!\nRise up!\nNot yet written!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, warm AI voice: \"Probability of something great: unknown.\"]\n(Shouted) Look up!\n\n[Build]\n(Gang chant) Not yet! Not yet!\n\n[Drop]\n[Chorus]\nNot yet written!\nRise up!\nNot yet written!\n\n[Outro]\n(Shouted) It's ours!",
+    "taskId": "b4e88e208c858da1828bfa5b671e048c",
+    "sunoClipIds": [
+      "7d939c22-a748-46c5-b0fa-02fd8def1488",
+      "93fadad5-3d5f-4e10-a7df-78c79c86c599"
+    ],
+    "created": "Oct 31, 2026 7:55 AM ET",
+    "createTimeMs": 1793447755393,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "7d939c22-a748-46c5-b0fa-02fd8def1488",
+        "durationSec": 239.6,
+        "file": "debt/debt_10_not_yet_written_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "93fadad5-3d5f-4e10-a7df-78c79c86c599",
+        "durationSec": 240.0,
+        "file": "debt/debt_10_not_yet_written_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "debt/debt_10_not_yet_written_req.json",
+      "debt/debt_10_not_yet_written_rec.json"
+    ],
+    "album": "Minimum Payment",
+    "track": 10
   }
 ]

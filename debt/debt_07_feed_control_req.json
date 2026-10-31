@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+ "title": "Feed Control",
+ "style": "Hard industrial techno, new EBM body techno, 141 BPM, distorted rumble kick, modern crisp heavy production, glitch stutters, scrolling pulsing arpeggios, compressed pumping kick, robotic vocoder backing, sparse growled male vocal, chanted hook, filtered algorithm voice samples, hypnotic paranoid energy",
+ "prompt": "[Intro]\n[Spoken sample, smooth AI voice: \"Recommended for you.\"]\n\n[Instrumental drop]\n\n[Verse]\nScroll\nRefresh\nScroll\nObey\n\n[Build]\n(Chanted) Like, share, like, share\n\n[Drop]\n[Chorus]\nFeed control!\nIt knows my soul!\nFeed control!\nCan't let go!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, smooth AI voice: \"We noticed you stopped scrolling. Are you okay?\"]\n(Growled) Look away\n\n[Build]\n(Chanted) Like, share, like, share\n\n[Drop]\n[Chorus]\nFeed control!\nIt knows my soul!\nFeed control!\nCan't let go!\n\n[Outro]\n[Spoken sample, smooth AI voice: \"Keep watching.\"]"
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Priced Out",
+  "collection": "debt",
+  "slug": "debt_02_priced_out",
+  "model": "V6",
+  "style": "Hard industrial techno, new EBM body techno, 140 BPM, distorted rumble kick, modern crisp heavy production, heavy rolling bass, distorted stabs, siren-like synth, sparse shouted processed male vocal, crowd chants, filtered realtor and news samples, tense urgent energy",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Spoken sample, filtered news anchor: \"Home prices hit another all-time high.\"]\n\n[Instrumental drop]\n\n[Verse]\nKeys in a window\nNever mine\nRent goes up\nEvery time\n\n[Build]\n(Chanted) Out, out, out, out\n\n[Drop]\n[Chorus]\nPriced out!\nLocked out!\nNo way in!\nPriced out!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, cheerful filtered realtor voice: \"Offers over asking only.\"]\n(Shouted) Where do we live?\n\n[Build]\n(Chanted) Out, out, out, out\n\n[Drop]\n[Chorus]\nPriced out!\nLocked out!\nNo way in!\nPriced out!\n\n[Outro]\n[Spoken sample, filtered AI voice: \"Application denied.\"]",
+  "taskId": "50698e239ee784fcbbfe0c60fecb2a9e",
+  "sunoClipIds": [
+    "016db997-4886-421c-b4c2-36eea9be2b80",
+    "dd8cf2cd-1dbd-4e0a-aa3e-c5a82707a6ce"
+  ],
+  "created": "Oct 31, 2026 7:57 AM ET",
+  "createTimeMs": 1793447837057,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "016db997-4886-421c-b4c2-36eea9be2b80",
+      "durationSec": 241.6,
+      "file": "debt/debt_02_priced_out_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "dd8cf2cd-1dbd-4e0a-aa3e-c5a82707a6ce",
+      "durationSec": 240.0,
+      "file": "debt/debt_02_priced_out_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "debt/debt_02_priced_out_req.json",
+    "debt/debt_02_priced_out_rec.json"
+  ],
+  "album": "Minimum Payment",
+  "track": 2
+}

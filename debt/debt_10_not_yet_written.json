@@ -1,0 +1,44 @@
+{
+  "title": "Not Yet Written",
+  "collection": "debt",
+  "slug": "debt_10_not_yet_written",
+  "model": "V6",
+  "style": "Hard industrial techno, new EBM body techno, 144 BPM, distorted rumble kick, modern crisp heavy production, euphoric rising synth leads, driving sequenced bass, huge risers and hard drops, sparse shouted processed male vocal, gang chants, filtered AI and broadcast voice samples, defiant hopeful peak-time rave energy",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Spoken sample, filtered broadcast voice: \"Forecast unavailable. The future has not been written.\"]\n\n[Instrumental drop]\n\n[Verse]\nNobody knows\nWhat's coming next\nCould be the best\nWe haven't met\n\n[Build]\n(Gang chant) Not yet! Not yet!\n\n[Drop]\n[Chorus]\nNot yet written!\nRise up!\nNot yet written!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, warm AI voice: \"Probability of something great: unknown.\"]\n(Shouted) Look up!\n\n[Build]\n(Gang chant) Not yet! Not yet!\n\n[Drop]\n[Chorus]\nNot yet written!\nRise up!\nNot yet written!\n\n[Outro]\n(Shouted) It's ours!",
+  "taskId": "b4e88e208c858da1828bfa5b671e048c",
+  "sunoClipIds": [
+    "7d939c22-a748-46c5-b0fa-02fd8def1488",
+    "93fadad5-3d5f-4e10-a7df-78c79c86c599"
+  ],
+  "created": "Oct 31, 2026 7:55 AM ET",
+  "createTimeMs": 1793447755393,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "7d939c22-a748-46c5-b0fa-02fd8def1488",
+      "durationSec": 239.6,
+      "file": "debt/debt_10_not_yet_written_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "93fadad5-3d5f-4e10-a7df-78c79c86c599",
+      "durationSec": 240.0,
+      "file": "debt/debt_10_not_yet_written_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "debt/debt_10_not_yet_written_req.json",
+    "debt/debt_10_not_yet_written_rec.json"
+  ],
+  "album": "Minimum Payment",
+  "track": 10
+}

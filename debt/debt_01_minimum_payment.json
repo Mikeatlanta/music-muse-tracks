@@ -1,0 +1,44 @@
+{
+  "title": "Minimum Payment",
+  "collection": "debt",
+  "slug": "debt_01_minimum_payment",
+  "model": "V6",
+  "style": "Hard industrial techno, new EBM body techno, 138 BPM, distorted rumble kick, modern crisp heavy production, pounding mechanical groove, grinding acid bassline, cold metallic hits, sparse growled processed male vocal, chanted hook, filtered call-center and news samples, oppressive warehouse energy",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Spoken sample, filtered automated phone voice: \"Your balance is past due.\"]\n\n[Instrumental drop]\n\n[Verse]\nSwipe it\nSign it\nOwe it\nForever\n\n[Build]\n(Chanted) Pay, pay, pay, pay\n\n[Drop]\n[Chorus]\nMinimum payment!\nMaximum pain!\nMinimum payment!\nAgain and again!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, calm AI voice: \"Interest has been applied.\"]\n(Growled) Never paid off\n\n[Build]\n(Chanted) Pay, pay, pay, pay\n\n[Drop]\n[Chorus]\nMinimum payment!\nMaximum pain!\nMinimum payment!\nAgain and again!\n\n[Outro]\n[Spoken sample, filtered PA voice: \"Thank you for your loyalty.\"]",
+  "taskId": "101f9b57e58494bb8b444cab53a33284",
+  "sunoClipIds": [
+    "fea0a3c9-08d8-4e57-be2b-7a0d8ca93a7e",
+    "62946af1-b809-42ef-b071-94f5ca913252"
+  ],
+  "created": "Oct 31, 2026 7:57 AM ET",
+  "createTimeMs": 1793447838166,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "fea0a3c9-08d8-4e57-be2b-7a0d8ca93a7e",
+      "durationSec": 239.56,
+      "file": "debt/debt_01_minimum_payment_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "62946af1-b809-42ef-b071-94f5ca913252",
+      "durationSec": 239.6,
+      "file": "debt/debt_01_minimum_payment_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "debt/debt_01_minimum_payment_req.json",
+    "debt/debt_01_minimum_payment_rec.json"
+  ],
+  "album": "Minimum Payment",
+  "track": 1
+}

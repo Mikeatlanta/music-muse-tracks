@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+ "title": "Static Horizon",
+ "style": "Hard industrial techno, new EBM body techno, 139 BPM, distorted rumble kick, modern crisp heavy production, mostly instrumental, vast cinematic pads over rumble kick, metallic drones, emergency broadcast tones, minimal processed male vocal phrases, filtered broadcast samples, ominous looming energy",
+ "prompt": "[Intro]\n[Spoken sample, filtered emergency broadcast: \"This is not a test. Please stand by.\"]\n\n[Instrumental drop]\n\n[Verse]\nWhat comes next\nNobody knows\n\n[Build]\n(Processed) Stand by\n\n[Drop]\n[Chorus]\nStatic horizon\n(Instrumental)\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, filtered news anchor: \"Forecasts are no longer available.\"]\n(Processed) Waiting\n\n[Build]\n(Processed) Stand by\n\n[Drop]\n[Chorus]\nStatic horizon\n(Instrumental)\n\n[Outro]\n[Spoken sample, filtered emergency broadcast: \"Stand by for further instructions.\"]"
+}

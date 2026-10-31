@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+ "title": "Minimum Payment",
+ "style": "Hard industrial techno, new EBM body techno, 138 BPM, distorted rumble kick, modern crisp heavy production, pounding mechanical groove, grinding acid bassline, cold metallic hits, sparse growled processed male vocal, chanted hook, filtered call-center and news samples, oppressive warehouse energy",
+ "prompt": "[Intro]\n[Spoken sample, filtered automated phone voice: \"Your balance is past due.\"]\n\n[Instrumental drop]\n\n[Verse]\nSwipe it\nSign it\nOwe it\nForever\n\n[Build]\n(Chanted) Pay, pay, pay, pay\n\n[Drop]\n[Chorus]\nMinimum payment!\nMaximum pain!\nMinimum payment!\nAgain and again!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, calm AI voice: \"Interest has been applied.\"]\n(Growled) Never paid off\n\n[Build]\n(Chanted) Pay, pay, pay, pay\n\n[Drop]\n[Chorus]\nMinimum payment!\nMaximum pain!\nMinimum payment!\nAgain and again!\n\n[Outro]\n[Spoken sample, filtered PA voice: \"Thank you for your loyalty.\"]"
+}

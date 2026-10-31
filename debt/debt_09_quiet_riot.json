@@ -1,0 +1,44 @@
+{
+  "title": "Quiet Riot",
+  "collection": "debt",
+  "slug": "debt_09_quiet_riot",
+  "model": "V6",
+  "style": "Hard industrial techno, new EBM body techno, 146 BPM, distorted rumble kick, modern crisp heavy production, stripped-back menacing groove, whispered-to-shouted dynamics, heavy toms, distorted body-techno bass, gang vocal chants, filtered surveillance AI samples, simmering defiant energy",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Spoken sample, filtered surveillance AI: \"No anomalies detected.\"]\n\n[Instrumental drop]\n\n[Verse]\nPhone down\nLights off\nSay nothing\nWalk out\n\n[Build]\n(Whispered, building to shouted) No, no, no, NO\n\n[Drop]\n[Chorus]\nQuiet riot!\nWe won't comply!\nQuiet riot!\nHeads held high!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, filtered surveillance AI: \"Anomaly detected.\"]\n(Shouted) Log off\n\n[Build]\n(Whispered, building to shouted) No, no, no, NO\n\n[Drop]\n[Chorus]\nQuiet riot!\nWe won't comply!\nQuiet riot!\nHeads held high!\n\n[Outro]\n[Spoken sample, filtered surveillance AI: \"Unable to locate.\"]",
+  "taskId": "630e9d3747d0a6380aac9768a34a2621",
+  "sunoClipIds": [
+    "3a05133f-60da-4b99-a719-9574e21da118",
+    "da44e236-d7d2-4ac8-8c3f-7fb462b4fc90"
+  ],
+  "created": "Oct 31, 2026 7:57 AM ET",
+  "createTimeMs": 1793447854430,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "3a05133f-60da-4b99-a719-9574e21da118",
+      "durationSec": 239.96,
+      "file": "debt/debt_09_quiet_riot_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "da44e236-d7d2-4ac8-8c3f-7fb462b4fc90",
+      "durationSec": 239.12,
+      "file": "debt/debt_09_quiet_riot_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "debt/debt_09_quiet_riot_req.json",
+    "debt/debt_09_quiet_riot_rec.json"
+  ],
+  "album": "Minimum Payment",
+  "track": 9
+}

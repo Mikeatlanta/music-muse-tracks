@@ -1,0 +1,44 @@
+{
+  "title": "Burnout",
+  "collection": "debt",
+  "slug": "debt_06_burnout",
+  "model": "V6",
+  "style": "Hard industrial techno, new EBM body techno, 136 BPM, distorted rumble kick, modern crisp heavy production, instrumental-leaning, long hypnotic builds, heavy reverb, slow-burning distorted textures, exhausted whispered and growled male vocal used sparingly, filtered doctor and alarm samples, drained hollow energy",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Spoken sample, filtered doctor voice: \"Have you been sleeping?\"]\n\n[Instrumental drop]\n\n[Verse]\nRunning on fumes\nLights still on\n\n[Build]\n(Whispered) Tired, tired, tired\n\n[Drop]\n[Chorus]\nBurnout\n(Growled) Burnout\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, filtered alarm clock voice: \"Six a.m. Six a.m. Six a.m.\"]\n(Whispered) Can't stop\n\n[Build]\n(Whispered) Tired, tired, tired\n\n[Drop]\n[Chorus]\nBurnout\n(Growled) Burnout\n\n[Outro]\n[Spoken sample, filtered doctor voice: \"Take some time off. If you can.\"]",
+  "taskId": "84df9554c777b4a3acfe0a7f8152ae58",
+  "sunoClipIds": [
+    "3561dfd1-ebd1-4afb-89c0-1675cdd87bcd",
+    "a6f317ee-3e1d-4249-b17f-62960608bb9e"
+  ],
+  "created": "Oct 31, 2026 7:57 AM ET",
+  "createTimeMs": 1793447837628,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "3561dfd1-ebd1-4afb-89c0-1675cdd87bcd",
+      "durationSec": 239.56,
+      "file": "debt/debt_06_burnout_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a6f317ee-3e1d-4249-b17f-62960608bb9e",
+      "durationSec": 239.96,
+      "file": "debt/debt_06_burnout_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "debt/debt_06_burnout_req.json",
+    "debt/debt_06_burnout_rec.json"
+  ],
+  "album": "Minimum Payment",
+  "track": 6
+}

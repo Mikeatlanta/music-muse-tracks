@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+ "title": "Replaced",
+ "style": "Hard industrial techno, new EBM body techno, 143 BPM, distorted rumble kick, modern crisp heavy production, chopped and pitched female vocal sample stutters, glitchy robotic textures, cold arpeggios, minimal growled male vocal, filtered HR and AI voice samples, clinical dystopian energy",
+ "prompt": "[Intro]\n[Spoken sample, calm AI voice: \"Thank you. Your role has been automated.\"]\n\n[Instrumental drop]\n\n[Verse]\nTrained it\nFed it\nNow it\nAte my job\n\n[Build]\n(Chopped female vocal sample) Re-re-re-placed\n\n[Drop]\n[Chorus]\nReplaced!\nBy a machine that never sleeps!\nReplaced!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, filtered HR voice: \"This decision was not personal.\"]\n(Growled) I was here first\n\n[Build]\n(Chopped female vocal sample) Re-re-re-placed\n\n[Drop]\n[Chorus]\nReplaced!\nBy a machine that never sleeps!\nReplaced!\n\n[Outro]\n[Spoken sample, calm AI voice: \"How else may I help you?\"]"
+}

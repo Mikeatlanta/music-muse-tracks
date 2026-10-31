@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+ "title": "Quiet Riot",
+ "style": "Hard industrial techno, new EBM body techno, 146 BPM, distorted rumble kick, modern crisp heavy production, stripped-back menacing groove, whispered-to-shouted dynamics, heavy toms, distorted body-techno bass, gang vocal chants, filtered surveillance AI samples, simmering defiant energy",
+ "prompt": "[Intro]\n[Spoken sample, filtered surveillance AI: \"No anomalies detected.\"]\n\n[Instrumental drop]\n\n[Verse]\nPhone down\nLights off\nSay nothing\nWalk out\n\n[Build]\n(Whispered, building to shouted) No, no, no, NO\n\n[Drop]\n[Chorus]\nQuiet riot!\nWe won't comply!\nQuiet riot!\nHeads held high!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, filtered surveillance AI: \"Anomaly detected.\"]\n(Shouted) Log off\n\n[Build]\n(Whispered, building to shouted) No, no, no, NO\n\n[Drop]\n[Chorus]\nQuiet riot!\nWe won't comply!\nQuiet riot!\nHeads held high!\n\n[Outro]\n[Spoken sample, filtered surveillance AI: \"Unable to locate.\"]"
+}

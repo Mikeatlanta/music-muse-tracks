@@ -1,0 +1,15 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "vocalGender": "m",
+ "styleWeight": 0.8,
+ "weirdnessConstraint": 0.55,
+ "audioWeight": 0.65,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb",
+ "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+ "title": "Never Retire",
+ "style": "Hard industrial techno, new EBM body techno, 142 BPM, distorted rumble kick, modern crisp heavy production, acid-tinged sequenced bass, metallic percussion, tense risers, hard drops, sparse growled processed male vocal, chanted short hooks, filtered news anchor and AI voice samples, bleak warehouse energy",
+ "prompt": "[Intro]\n[Spoken sample, filtered news anchor: \"Average household debt reached a new record today.\"]\n\n[Instrumental drop]\n\n[Verse]\nSign here\nPay later\nOwe more\nEvery day\n\n[Build]\n(Chanted) Owe, owe, owe, owe\n\n[Drop]\n[Chorus]\nNever own a home!\nNever retire!\nWork till I'm gone!\nNever retire!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, calm AI voice: \"Your retirement date has been recalculated. Estimated: never.\"]\n(Growled) Keep working\n\n[Build]\n(Chanted) Owe, owe, owe, owe\n\n[Drop]\n[Chorus]\nNever own a home!\nNever retire!\n\n[Outro]\n[Spoken sample, filtered PA voice: \"Minimum payment due.\"]"
+}

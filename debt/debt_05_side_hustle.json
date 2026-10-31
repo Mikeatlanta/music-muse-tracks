@@ -1,0 +1,44 @@
+{
+  "title": "Side Hustle",
+  "collection": "debt",
+  "slug": "debt_05_side_hustle",
+  "model": "V6",
+  "style": "Hard industrial techno, new EBM body techno, 145 BPM, distorted rumble kick, modern crisp heavy production, relentless driving rhythm, ticking hi-hats, bouncing distorted bass, sparse shouted processed male vocal, gang chants, filtered notification pings and app voices, frantic hustle energy",
+  "negativeTags": "pop, country, acoustic, happy, ballad, chiptune, synthwave, slow, lo-fi, retro",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.8,
+  "weirdnessConstraint": 0.55,
+  "audioWeight": 0.65,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "saved request",
+  "lyrics": "[Intro]\n[Spoken sample, upbeat filtered app voice: \"New gig available. Accept now.\"]\n\n[Instrumental drop]\n\n[Verse]\nNine to five\nFive to nine\nThree more apps\nNo more time\n\n[Build]\n(Gang chant) Grind! Grind! Grind! Grind!\n\n[Drop]\n[Chorus]\nSide hustle!\nNo sleep!\nSide hustle!\nStill can't eat!\n\n[Instrumental drop]\n\n[Breakdown]\n[Spoken sample, filtered motivational speaker: \"Rise and grind. Sleep is optional.\"]\n(Shouted) Getting nowhere\n\n[Build]\n(Gang chant) Grind! Grind! Grind! Grind!\n\n[Drop]\n[Chorus]\nSide hustle!\nNo sleep!\nSide hustle!\nStill can't eat!\n\n[Outro]\n[Spoken sample, upbeat filtered app voice: \"Your rating has dropped.\"]",
+  "taskId": "2cc0edc890da79ebb0fe8f02df8000bc",
+  "sunoClipIds": [
+    "3547125b-730a-4ab9-b6fc-257b8e84747b",
+    "bc8538af-5cb0-40c8-bf6d-da0f5e7cf5a7"
+  ],
+  "created": "Oct 31, 2026 7:57 AM ET",
+  "createTimeMs": 1793447837625,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "3547125b-730a-4ab9-b6fc-257b8e84747b",
+      "durationSec": 239.56,
+      "file": "debt/debt_05_side_hustle_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "bc8538af-5cb0-40c8-bf6d-da0f5e7cf5a7",
+      "durationSec": 239.6,
+      "file": "debt/debt_05_side_hustle_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "debt/debt_05_side_hustle_req.json",
+    "debt/debt_05_side_hustle_rec.json"
+  ],
+  "album": "Minimum Payment",
+  "track": 5
+}
