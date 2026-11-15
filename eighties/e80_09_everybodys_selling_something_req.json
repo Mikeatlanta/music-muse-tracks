@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Everybody's Selling Something",
+ "prompt": "[Intro: dark interlocking synth riff, heavy kick]\n\n[Verse 1: cool, low, deadpan]\nEverybody's selling something\nTell me what you came to buy\nI've been up and down the market\nEverybody's got a price or a lie\n\n[Verse 2: cool, low, deadpan]\nHalf of them will sell you mirrors\nHalf of them will sell you doors\nOne of them just wants you wanting\nAll of them want you wanting more\n\n[Chorus: call and response hook, claps]\nStep right up (don't look down)\nStep right up (it's your turn now)\nStep right up (don't look down)\nThe carnival is the whole town\n\n[Interlude: wordless choir-like harmonies over the riff]\n(Ah, ah, ah)\n\n[Verse 3: cool, low]\nI sold a summer for a title\nI sold the title for a view\nI sold the view to buy the summer\nBack at twice the price from you\n\n[Verse 4: add staccato string stabs]\nEverybody's selling something\nEven silence has a fee\nI would give you this for nothing\nBut nothing's the most expensive thing on me\n\n[Chorus: call and response hook, claps]\nStep right up (don't look down)\nStep right up (it's your turn now)\nStep right up (don't look down)\nThe carnival is the whole town\n\n[Breakdown: kick, voice and tapped glass only, tense]\nEverybody's selling something\nEverybody's selling something\n(What did you come to buy?)\n(What did you come to buy?)\n\n[Verse: synth riff slams back in]\nEverybody's selling something\nTell me what you came to buy\nI've been up and down the market\nEverybody's got a price or a lie\n\n[Chorus: repeated, layered harmonies]\nStep right up (don't look down)\nStep right up (it's your turn now)\nStep right up (don't look down)\nThe carnival is the whole town\n\n[Outro: riff and whispered question, sudden cut]\nStep right up\nStep right up\n(What did you come to buy?)",
+ "style": "1983 cold minimalist British synth-pop, cool low androgynous female contralto vocal, precise and unsmiling, 124 BPM, A minor, hypnotic, mechanical, two interlocking analog synth sequences forming a dark riff, heavy four-on-the-floor electronic kick, thin electronic snare and clap, sub-heavy synth bass, staccato synth string stabs, tapped-glass metallic percussion, multi-tracked wordless choir-like harmonies, call-and-response hook, stark spacious mix, sparse breakdown with voice and kick only, detached, knowing, cinematic, slightly menacing",
+ "negativeTags": "guitar, acoustic instruments, male lead vocals, live drums, saxophone, warm ballad, trap hi-hats, rap",
+ "vocalGender": "f",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 250,
+ "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "e80_03",
+  "title": "Say Me Yes",
+  "collection": "eighties",
+  "album": "80s Reimagined",
+  "track": 3,
+  "slug": "e80_03_say_me_yes",
+  "inspiredBy": "Take On Me (a-ha, 1985)",
+  "leadVoice": "Male voice with a huge range. Verses sit low, soft and slightly accented, nearly mumbled. Each chorus line steps higher until the last 'yes' is held in clear, pure falsetto at the very top of the range. Echoed backing answers in the chorus.",
+  "model": "V6",
+  "style": "1985 Scandinavian-style synth-pop, male vocal with low soft verses and a soaring pure falsetto chorus, 166 BPM, B major, fast, bright, yearning, sparkling staccato synth lead riff with digital bell and analog saw layers, octave-bouncing synth bass, crisp drum machine with gated snare and sixteenth-note hi-hats, strummed acoustic guitar underneath, string pad swells, echoed backing vocals, chorus melody climbing step by step to a held high note, glossy mix, plate reverb on the high notes, shy, hopeful, euphoric",
+  "negativeTags": "distorted guitar, female lead vocals, saxophone, slow tempo, trap hi-hats, EDM drop, rap",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 250,
+  "customMode": true,
+  "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: drum fill, sparkling fast synth riff]\n\n[Verse 1: low soft vocal, riff drops out, bass and pad]\nThree dots on the glass, then they disappear\nI've been writing you all year\nEvery word's a paper plane\nFolded twice and thrown away again\n\n[Pre-Chorus: rising pad, tom build]\nI'm no good at standing still\nIf I don't jump now, I never will\n\n[Chorus: melody climbs step by step into falsetto]\nSay me yes (say me yes)\nSay it now (say it now)\nI'm a sketch 'til you color me in somehow\nSay me yes\nOne word and I'm real\nSay me, say me yes\n\n[Verse 2: low soft vocal]\nYou talk like there's forever in your coat\nI'm a candle on a boat\nShy is just a slower kind of brave\nWatch me learn it wave by wave\n\n[Pre-Chorus: rising pad, tom build]\nI'm no good at standing still\nIf I don't jump now, I never will\n\n[Chorus: climbs into falsetto, echoed backing vocals]\nSay me yes (say me yes)\nSay it now (say it now)\nI'm a sketch 'til you color me in somehow\nSay me yes\nOne word and I'm real\nSay me, say me yes\n\n[Bridge: stripped back, new chord colour]\nOh, the things we never send\nPile up like snow against the door\nOpen it, open it\nI can't hold it anymore\n\n[Synth Solo: lead riff with pitch bends]\n\n[Breakdown Chorus: kick and claps only, sung gently]\nSay me yes (say me yes)\nSay it slow (say it slow)\nI was only ever waiting for a go\n\n[Final Chorus: full power, last note held in high falsetto]\nSay me yes (say me yes)\nSay it now (say it now)\nI'm a sketch 'til you color me in somehow\nSay me yes\nOne word and I'm real\nSay me, say me yes\nSay me, say me yes\n\n[Outro: synth riff, echoing vocal, hard stop]\n(Yes, yes, yes)",
+  "taskId": "7cf0ee38ae1645d105a5a919f4ca6f99",
+  "sunoClipIds": [
+    "558f7b76-ca73-4a83-a8a1-910ceefc182d",
+    "3d5961d0-1a2b-49e1-927f-c14f58b236e4"
+  ],
+  "created": "Nov 15, 2026 6:21 PM ET",
+  "createTimeMs": 1794784864213,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "558f7b76-ca73-4a83-a8a1-910ceefc182d",
+      "durationSec": 249.6,
+      "file": "eighties/e80_03_say_me_yes_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "3d5961d0-1a2b-49e1-927f-c14f58b236e4",
+      "durationSec": 249.6,
+      "file": "eighties/e80_03_say_me_yes_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "eighties/e80_03_say_me_yes_req.json",
+    "eighties/e80_03_say_me_yes_rec.json"
+  ],
+  "cover": "eighties/covers/e80_03_say_me_yes.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 166 BPM, 4/4, B major (verses hover on the relative minor, the chorus bursts into the major). Fast, bright, nervous energy, like a heartbeat before a first kiss.\n\nVOICE: Male voice with a huge range. Verses sit low, soft and slightly accented, nearly mumbled. Each chorus line steps higher until the last 'yes' is held in clear, pure falsetto at the very top of the range. Echoed backing answers in the chorus.\n\nINSTRUMENTS: A sparkling staccato synth lead playing a fast, bouncing riff (bright digital bell tone layered with a warm analog saw). Octave-jumping synth bass. Crisp drum machine with a cracking snare and sixteenth-note hi-hats. Strummed acoustic guitar tucked underneath for lift. Soft string pad in the pre-chorus. Tom fills into each chorus.\n\nARRANGEMENT MAP: 0:00 Intro, a drum fill then the full synth riff for 8 bars. 0:14 Verse 1, the riff drops out leaving bass, drums and a held pad. 0:37 Pre-chorus, rising pad and tom build. 0:49 Chorus 1, three steps upward. 1:12 Riff returns. 1:24 Verse 2. 1:47 Pre-chorus. 1:59 Chorus 2. 2:22 Bridge, half the instruments and a new chord colour. 2:45 Synth solo over the riff with pitch bends. 3:08 Breakdown chorus, kick and claps only, sung gently. 3:20 Final chorus at full power, the last 'yes' held for 4 bars. 3:50 Outro, riff and echoing 'yes', hard stop at 4:00.\n\nPRODUCTION & MIX: Glossy and bright. Wide chorus on the synths, a gated reverb snare, vocal dry in the verses and drenched in plate reverb on the high notes.\n\nSIGNATURE MOMENT: The final held falsetto 'yes', a note placed just out of reach of the average singer so every crowd attempts it and laughs.\n\nMODERN POINT OF VIEW: A wide modern super-saw layer and gentle side-chain pumping join for the final chorus only. The intro riff is doubled by a soft 'typing' tick pattern.\n\nEMOTIONAL ARC: Shy, then brave, then airborne.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1985 Scandinavian-style synth-pop, male vocal with low soft verses and a soaring pure falsetto chorus, 166 BPM, B major, fast, bright, yearning, sparkling staccato synth lead riff with digital bell and analog saw layers, octave-bouncing synth bass, crisp drum machine with gated snare and sixteenth-note hi-hats, strummed acoustic guitar underneath, string pad swells, echoed backing vocals, chorus melody climbing step by step to a held high note, glossy mix, plate reverb on the high notes, shy, hopeful, euphoric\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, female lead vocals, saxophone, slow tempo, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nSomeone shy has spent a year writing and deleting the same message. Tonight they finally ask: one word from you and I stop being a sketch and become real.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a crush finally confessed; a job, a move or a dream waiting on someone's approval; a kid asking a parent to believe in them; or a person coming out and asking to be accepted. 'Three dots on the glass' is a typing indicator to one generation and rain on a window to another.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a deliberately off-grammar title that becomes a catchphrase, low murmured verses nobody will learn, and a chorus that climbs to a note the crowd will miss together. Designed mishearing: 'Say me yes' is heard as 'Save me, yes', which means the same thing and deepens it.",
+  "workbookAtAGlance": "Say Me Yes\n\nBackup titles\nColor Me In / One Word and I'm Real\n\nAt a glance\n166 BPM, B major\nVoice: Male, low verse to soaring falsetto\nLength: about 4 minutes"
+}

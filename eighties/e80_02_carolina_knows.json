@@ -1,0 +1,51 @@
+{
+  "id": "e80_02",
+  "title": "Carolina Knows",
+  "collection": "eighties",
+  "album": "80s Reimagined",
+  "track": 2,
+  "slug": "e80_02_carolina_knows",
+  "inspiredBy": "Billie Jean (Michael Jackson, 1983)",
+  "leadVoice": "Male tenor, breathy and urgent, with clipped consonants used as percussion. Gasps, vocal catches and finger-snap ad-libs between lines. Chorus stacked in tight four-part harmony. Whispered 'she knows' answers panned hard left and right.",
+  "model": "V6",
+  "style": "1983 post-disco dance-funk pop, breathy urgent male tenor vocal with percussive gasps and ad-libs, 118 BPM, E minor, tense, paranoid, sleek, relentless staccato eighth-note synth bass ostinato, dry punchy drum machine with live hi-hat and shaker, off-beat electric piano and synth stabs, muted funk guitar scratches, string-machine swells, finger snaps, tight four-part chorus harmonies, whispered call-and-response backing vocals, bone-dry close mix, bass drop-out in the bridge, noir, danceable",
+  "negativeTags": "distorted guitar, acoustic guitar, saxophone, female lead vocals, big reverb, trap hi-hats, EDM drop",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 250,
+  "customMode": true,
+  "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: drums alone, then synth bass line, long groove]\n(She knows, she knows)\n\n[Verse 1: breathy, clipped, dry]\nShe came in like a headline\nRed coat, a borrowed name\nSaid, \"Smile, we're both in the picture\"\nAnd the flash went off like blame\nNow the whole town's got a version\nPassed around from hand to hand\nI was only there a minute\nBut a minute's all they planned\n\n[Pre-Chorus: strings rise, bass climbs]\nAnd everybody's watching (watching)\nEverybody swears they saw\nOne frame and you're guilty\nOne frame and it's law\n\n[Chorus: tight four-part harmony, whispered answers]\nCarolina knows\nWhat happened in the dark\nCarolina knows\nWho struck the spark\nShe keeps it in her pocket, keeps it close\nI say it wasn't me\nBut Carolina knows\n\n[Verse 2: add muted funk guitar scratches]\nAn old man at the station\nSaid, \"Son, here's how it's been:\nThe truth walks out by morning\nBut the story's moving in\"\nNow there's a kid on every corner\nHolding up a little light\nThey don't want to know what happened\nThey just want to watch tonight\n\n[Pre-Chorus: strings rise, bass climbs]\nAnd everybody's watching (watching)\nEverybody swears they saw\nOne frame and you're guilty\nOne frame and it's law\n\n[Chorus: tight four-part harmony, whispered answers]\nCarolina knows\nWhat happened in the dark\nCarolina knows\nWho struck the spark\nShe keeps it in her pocket, keeps it close\nI say it wasn't me\nBut Carolina knows\n\n[Bridge: bass drops out, voice and finger snaps, bass returns]\nWas it me? (Was it?) Was it you?\nWas it something that the mirror made us do?\nPlay it back, play it slow\nNobody asks Carolina, no\n\n[Breakdown: call and response with whispers]\n(She knows) Ask her\n(She knows) Go on and ask her\n(She knows) I said it wasn't me\n(She knows, she knows, she knows)\n\n[Final Chorus: ad-libs, full groove]\nCarolina knows\nWhat happened in the dark\nCarolina knows\nWho struck the spark\nShe keeps it in her pocket, keeps it close\nI swear it wasn't me\nBut Carolina knows\n\n[Outro: drums and bass only, last line unaccompanied]\n(She knows, she knows)\nIt wasn't me\n(She knows, she knows)\nWas it me?",
+  "taskId": "4117c2cd4c794032e7eede90a28737b8",
+  "sunoClipIds": [
+    "3479274f-c2ae-46a0-bd35-90e96fa93fb9",
+    "daf27762-baff-4572-bf9f-5b343e038ea6"
+  ],
+  "created": "Nov 15, 2026 6:20 PM ET",
+  "createTimeMs": 1794784856759,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "3479274f-c2ae-46a0-bd35-90e96fa93fb9",
+      "durationSec": 249.68,
+      "file": "eighties/e80_02_carolina_knows_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "daf27762-baff-4572-bf9f-5b343e038ea6",
+      "durationSec": 248.68,
+      "file": "eighties/e80_02_carolina_knows_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "eighties/e80_02_carolina_knows_req.json",
+    "eighties/e80_02_carolina_knows_rec.json"
+  ],
+  "cover": "eighties/covers/e80_02_carolina_knows.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, E minor (a two-chord minor vamp in verses, the chorus moving to the iv and V). Tight, paranoid dance-funk: all tension and no release until the chorus.\n\nVOICE: Male tenor, breathy and urgent, with clipped consonants used as percussion. Gasps, vocal catches and finger-snap ad-libs between lines. Chorus stacked in tight four-part harmony. Whispered 'she knows' answers panned hard left and right.\n\nINSTRUMENTS: Dry drum-machine-style kick and snare with a real hi-hat and shaker. A prowling, staccato eighth-note synth-bass ostinato that never stops (the earworm). Three-note minor-key electric-piano and synth stabs on the off-beats. Muted rhythm-guitar scratches. A string-machine line that swells in the pre-chorus. Finger snaps and one hand-clap layer.\n\nARRANGEMENT MAP: 0:00 Intro, drums alone for 2 bars, then the bass line, then stabs: nearly 30 seconds before any lead vocal, so the groove gets to walk. 0:29 Verse 1. 1:01 Pre-chorus, strings rise and the bass climbs. 1:17 Chorus 1. 1:38 Verse 2, add guitar scratch. 2:10 Pre-chorus. 2:26 Chorus 2. 2:47 Bridge, the bass drops out for 4 bars leaving voice and snaps, then slams back. 3:03 Breakdown, call-and-response with the whispers. 3:19 Final chorus with ad-libs. 3:45 Outro, groove strips back to drums and bass, the last line sung unaccompanied, ending on the question at 4:00.\n\nPRODUCTION & MIX: Bone-dry and close. Almost no reverb on the drums, a short slap echo on the vocal, bass and kick glued together, wide stereo only on stabs and whispers. Lots of air between parts.\n\nSIGNATURE MOMENT: The 4 bars in the bridge where the bass vanishes and the dance floor holds its breath, then its return.\n\nMODERN POINT OF VIEW: A camera-shutter click layered into the snare on the last beat of each chorus bar. A clean sub-bass octave beneath the synth bass.\n\nEMOTIONAL ARC: Cool denial, rising panic, then doubt. The last word is a question.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1983 post-disco dance-funk pop, breathy urgent male tenor vocal with percussive gasps and ad-libs, 118 BPM, E minor, tense, paranoid, sleek, relentless staccato eighth-note synth bass ostinato, dry punchy drum machine with live hi-hat and shaker, off-beat electric piano and synth stabs, muted funk guitar scratches, string-machine swells, finger snaps, tight four-part chorus harmonies, whispered call-and-response backing vocals, bone-dry close mix, bass drop-out in the bridge, noir, danceable\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, acoustic guitar, saxophone, female lead vocals, big reverb, trap hi-hats, EDM drop\n\nWHAT IT IS ABOUT\n\nOne photo, one minute, and a whole town has a version of what happened. The narrator swears he did nothing. Only Carolina knows the truth, and she isn't saying which way it goes.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: an innocent man caught in a rumour; a guilty man protesting too much; a small-town scandal from 1984; or a modern pile-on where a single frame becomes a verdict ('a kid on every corner holding up a little light' is a lighter, a candle or a phone camera). Carolina can be a woman, a witness, or the home state that never forgets.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a named woman in the title, a denial chorus, an elder's warning, and a story that never reveals the verdict. The song ends on 'Was it me?', a doubt planted on purpose. Designed mishearing: 'Carolina knows' sounds exactly like 'Carolina, no' and 'Carolina's nose'. The bridge even ends on 'Carolina, no' to feed the argument.",
+  "workbookAtAGlance": "Carolina Knows\n\nBackup titles\nOne Frame / Ask Carolina\n\nAt a glance\n118 BPM, E minor\nVoice: Male tenor, breathy and percussive\nLength: about 4 minutes"
+}

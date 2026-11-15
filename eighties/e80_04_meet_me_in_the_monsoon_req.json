@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Meet Me in the Monsoon",
+ "prompt": "[Intro: rain, congas and shaker, kalimba motif, brass synth hook]\n\n[Verse 1: soft husky vocal, percussion, bass, electric piano]\nI heard the cicadas tuning up at noon\nThe old men say it means the sky is due\nThere's a map on my wall with a pin in the sand\nIn a place I only know from you\n\n[Verse 2: add clean guitar fills]\nThe pilot says the desert's two hours west\nI check my watch against a dream I had\nYou wrote, \"The rain smells like a penny here\"\nI never knew I missed a thing so bad\n\n[Chorus: key lifts, huge stacked harmonies, drums open]\nMeet me in the monsoon\nWhere the dry riverbeds remember how to run\nI've been thirsty in a house full of water\nI counted every summer and I only needed one\nMeet me in the monsoon\n(Oh-oh, oh-oh)\n\n[Verse 3: back to a hush]\nThe saguaros lift their arms up like a choir\nOlder than anything that I regret\nI'm hurrying toward a thing I cannot name\nIs it you, or who I haven't been yet?\n\n[Chorus: huge stacked harmonies]\nMeet me in the monsoon\nWhere the dry riverbeds remember how to run\nI've been thirsty in a house full of water\nI counted every summer and I only needed one\nMeet me in the monsoon\n(Oh-oh, oh-oh)\n\n[Instrumental Solo: flute synth and marimba trading phrases]\n\n[Bridge: whispered group chant over percussion, building]\n(Hurry now, the wash is filling)\n(Hurry now, the sky is willing)\n(Hurry now, the wash is filling)\n(Hurry now)\n\n[Final Chorus: extended, full harmony wall]\nMeet me in the monsoon\nWhere the dry riverbeds remember how to run\nI've been thirsty in a house full of water\nI counted every summer and I only needed one\nMeet me in the monsoon\nMeet me in the monsoon\nWhere the thunder says the things we never could\nMeet me in the monsoon\n(Oh-oh, oh-oh)\nI'm gonna stand there 'til I'm good\n\n[Outro: harmonies repeat, band thins to rain, fade out]\n(Meet me, meet me)\n(Meet me in the monsoon)",
+ "style": "1982 West Coast yacht rock, soft rock with world percussion, husky soft male verse vocal and a higher tenor leading huge five-part stacked chorus harmonies, 92 BPM, verses in A major, chorus lifting to B major, warm, wistful, conga and shaker loop, kalimba and marimba ostinato, bell-like digital keys, fat brassy analog synth chords, fretless bass slides, clean guitar fills, soft deep snare, flute-like synth solo, lush polished studio mix, hall reverb, rain and distant thunder ambience, longing, widescreen, redemptive",
+ "negativeTags": "distorted guitar, heavy drums, female lead vocals, trap hi-hats, EDM, rap, autotune",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 255,
+ "callBackUrl": "https://example.com/cb"
+}

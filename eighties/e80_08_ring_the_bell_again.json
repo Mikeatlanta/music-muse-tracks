@@ -1,0 +1,51 @@
+{
+  "id": "e80_08",
+  "title": "Ring the Bell Again",
+  "collection": "eighties",
+  "album": "80s Reimagined",
+  "track": 8,
+  "slug": "e80_08_ring_the_bell_again",
+  "inspiredBy": "Eye of the Tiger (Survivor, 1982)",
+  "leadVoice": "Gritty male tenor with real grain, pushed and earnest, every line ending with force. Verses are tight and rhythmic. The chorus opens up with doubled lead and a gang of male backing voices on the title line.",
+  "model": "V6",
+  "style": "1982 arena rock motivational anthem, gritty earnest male tenor vocal, 108 BPM, D minor, driving, muscular, relentless palm-muted sixteenth-note guitar chug, syncopated full-band power-chord stabs with silence between hits, piano doubling the stabs, punchy bass locked to the kick, big gated-reverb snare, rock organ pad in the chorus, short anthemic guitar solo, boxing ring bell on chorus downbeats, doubled chorus with male gang backing vocals, tight punchy mix, determined comeback, training montage, cold morning run",
+  "negativeTags": "female vocals, synth-pop, drum machine, saxophone, acoustic ballad, trap hi-hats, EDM, rap",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: muted guitar chug alone, then power-chord stabs]\n\n[Verse 1: chug, bass and kick, stabs answer the vocal]\nFive a.m., the street's still sleeping\nBreath like smoke, shoes on stone\nUsed to run from every mirror\nNow I'm running toward my own\nLost the title, lost the corner\nLost the name up on the door\nFound a kid inside who's hungry\nLike he's never lost before\n\n[Pre-Chorus: snare build]\nSo tape it up, pull it tight\nOne more round in the morning light\n\n[Chorus: full band, gang vocals, bell hit]\nRing the bell again\nI'm not done, I'm not done\nKnock me down to the count of ten\nI'll be up at one\nIt's the heart of a late bloomer\nBurning slow, burning long\nRing the bell again\nI'm coming on strong\n\n[Verse 2: chug, bass and kick, stabs answer the vocal]\nThey love you when you're twenty\nThey forget you when you fall\nBut a second wind's a freight train\nComing straight on through the wall\nEvery bruise is a diploma\nEvery scar's a signed receipt\nI've got nothing left to prove now\nThat's what makes me hard to beat\n\n[Pre-Chorus: snare build]\nSo tape it up, pull it tight\nOne more round in the morning light\n\n[Chorus: full band, gang vocals, bell hit]\nRing the bell again\nI'm not done, I'm not done\nKnock me down to the count of ten\nI'll be up at one\nIt's the heart of a late bloomer\nBurning slow, burning long\nRing the bell again\nI'm coming on strong\n\n[Bridge: kick and chug only, call and response, building]\nStand (stand) when the lights go low\nStand (stand) when they tell you no\nThe crowd went home an hour ago\nI'm still here, ring it, let's go\n\n[Guitar Solo: short, melodic, anthemic]\n\n[Final Chorus: bigger, crashes on every stab]\nRing the bell again\nI'm not done, I'm not done\nKnock me down to the count of ten\nI'll be up at one\nIt's the heart of a late bloomer\nBurning slow, burning long\nRing the bell again\nI'm coming on strong\n\n[Outro: stabs and gang chant, single final hit]\nRing the bell (again)\nRing the bell (again)\nRing the bell",
+  "taskId": "0985bd3944a2d497c98fa585b5311cc4",
+  "sunoClipIds": [
+    "ae2a9011-79c8-433b-b683-e161c17e80cf",
+    "6c43d334-41d8-40f9-b5f2-775b2ce9093c"
+  ],
+  "created": "Nov 15, 2026 6:21 PM ET",
+  "createTimeMs": 1794784881049,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ae2a9011-79c8-433b-b683-e161c17e80cf",
+      "durationSec": 254.6,
+      "file": "eighties/e80_08_ring_the_bell_again_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "6c43d334-41d8-40f9-b5f2-775b2ce9093c",
+      "durationSec": 254.76,
+      "file": "eighties/e80_08_ring_the_bell_again_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "eighties/e80_08_ring_the_bell_again_req.json",
+    "eighties/e80_08_ring_the_bell_again_rec.json"
+  ],
+  "cover": "eighties/covers/e80_08_ring_the_bell_again.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 108 BPM, 4/4, D minor, driving straight eighths. Determined, muscular and marching, like footsteps on a cold morning.\n\nVOICE: Gritty male tenor with real grain, pushed and earnest, every line ending with force. Verses are tight and rhythmic. The chorus opens up with doubled lead and a gang of male backing voices on the title line.\n\nINSTRUMENTS: Electric guitar playing a relentless palm-muted sixteenth-note chug on one low note (the ticking engine). Full-band power-chord stabs, with drums, bass and piano all hitting together in a syncopated pattern with silence between hits (the earworm). Punchy bass locked to the kick. Big gated-reverb snare. Piano doubling the stabs. A sustained rock organ pad in choruses.\n\nARRANGEMENT MAP: 0:00 Intro, muted guitar chug alone for 4 bars, then the stab pattern crashes in twice. 0:18 Verse 1, chug, bass and kick only, with stabs answering every second line. 0:54 Pre-chorus, snare build. 1:03 Chorus 1, full band and gang vocals. 1:30 Stab pattern returns alone. 1:39 Verse 2. 2:15 Pre-chorus. 2:24 Chorus 2. 2:51 Bridge, drops to kick, chug and call-and-response vocals, building bar by bar. 3:09 Guitar solo, short, melodic and anthemic over the chorus chords. 3:27 Final chorus, one step more intense, crashes on every stab. 3:54 Outro, the stab pattern and 'ring the bell' chant, ending on a single final hit at 4:05.\n\nPRODUCTION & MIX: Tight, punchy and dry in the verses, huge in the choruses. Guitars doubled wide, snare with classic gated reverb, vocal forward with slight tape grit.\n\nSIGNATURE MOMENT: The first full-band stabs after the lone guitar chug. The silence between each hit is where fists go in the air.\n\nMODERN POINT OF VIEW: A real boxing-ring bell rings once on the downbeat of each chorus. Cinematic sub-bass impacts reinforce the stabs, trailer-style.\n\nEMOTIONAL ARC: Grit, resolve, then triumph without bragging.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1982 arena rock motivational anthem, gritty earnest male tenor vocal, 108 BPM, D minor, driving, muscular, relentless palm-muted sixteenth-note guitar chug, syncopated full-band power-chord stabs with silence between hits, piano doubling the stabs, punchy bass locked to the kick, big gated-reverb snare, rock organ pad in the chorus, short anthemic guitar solo, boxing ring bell on chorus downbeats, doubled chorus with male gang backing vocals, tight punchy mix, determined comeback, training montage, cold morning run\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale vocals, synth-pop, drum machine, saxophone, acoustic ballad, trap hi-hats, EDM, rap\n\nWHAT IT IS ABOUT\n\nA comeback at an age when nobody expects one. The title, the corner office and the applause are gone. What is left is a five a.m. run and a hunger that has nothing to prove.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a boxer's last fight; starting over after a layoff or a divorce; recovery from illness or addiction; a parent going back to school; or anyone over forty refusing to be counted out. 'Ring the bell' is a boxing round, a school bell, a hospital bell rung at the end of treatment, or the opening bell of a market.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: verb-driven montage lines, chord stabs that punch in the gaps, and a metaphor the listener can wear ('the heart of a late bloomer'). The line 'knock me down to the count of ten, I'll be up at one' is the T-shirt. Designed mishearing: 'Ring the bell again' is heard as 'Bring the belt again', which is still boxing.",
+  "workbookAtAGlance": "Ring the Bell Again\n\nBackup titles\nUp at One / Heart of a Late Bloomer\n\nAt a glance\n108 BPM, D minor\nVoice: Gritty male tenor\nLength: about 4 minutes"
+}

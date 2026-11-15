@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Guess Who's Not Dead",
+ "prompt": "[Intro: four muted guitar clicks, then heavy stop-start riff]\n\n[Verse 1: rasping vocal squeezed into the gaps of the riff]\nRolled the stone, kicked the door\nDust on my boots from the day before\nThey read my name with their heads all bowed\nI was in the back row laughing loud\nGot a scar for every time I quit\nGot a grin and I'm keeping it\nCount me out, count again\nYou're gonna run out of fingers, friend\n\n[Chorus: ringing open chords, gang shouts]\nGuess who's not dead (hey! hey!)\nGuess who's out of bed (hey! hey!)\nStill loud, still here, still in your head\nGuess who, guess who's not dead\n\n[Verse 2: rasping vocal over the riff]\nNew knees, same old song\nI've been wrong but I ain't been gone\nPoured one out for the ones who flew\nTurned it up 'cause they'd want me to\nThey said the party moved along\nLeft the lights on, left the song\nI don't need your invitation\nI'm the reason for the celebration\n\n[Chorus: ringing open chords, gang shouts]\nGuess who's not dead (hey! hey!)\nGuess who's out of bed (hey! hey!)\nStill loud, still here, still in your head\nGuess who, guess who's not dead\n\n[Guitar Solo: raw blues-rock, bends, wide vibrato]\n\n[Bridge: palm-muted chugs, kick and hi-hat, chant, snare roll]\nYou can't bury what won't lie down\nYou can't bury what won't lie down\nI'm the knock, I'm the knock, I'm the knock on wood\nBack and feeling dangerously good\n\n[Chorus: ringing open chords, gang shouts]\nGuess who's not dead (hey! hey!)\nGuess who's out of bed (hey! hey!)\nStill loud, still here, still in your head\nGuess who, guess who's not dead\n\n[Final Chorus: lead guitar wailing over the top]\nGuess who's not dead (hey! hey!)\nGuess who's out of bed (hey! hey!)\nStill loud, still here, still in your head\nGuess who, guess who's not dead\n\n[Outro: riff with shouted tags, last stab, open chord rings]\nNot dead (hey!)\nNot dead (hey!)\nGuess who",
+ "style": "1980 Australian-style hard rock, high rasping sandpaper male rock scream vocal, rhythmic and percussive, 92 BPM, key of A, blues-rock, slow heavy strutting swagger, two overdriven electric guitars panned hard left and right playing a stop-start riff with sharp open-chord stabs, full-band silences, rising bluesy bent-note lick, thick simple bass locked to the kick, huge natural roomy drums playing a plain beat, raw blues-rock guitar solo, rough male gang shouts answering, dry loud spacious live-room mix, comeback, defiant, celebratory, larger than life",
+ "negativeTags": "synthesizer, keyboards, piano, drum machine, female vocals, clean pop vocals, autotune, EDM",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 260,
+ "callBackUrl": "https://example.com/cb"
+}

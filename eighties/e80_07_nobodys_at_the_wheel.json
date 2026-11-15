@@ -1,0 +1,51 @@
+{
+  "id": "e80_07",
+  "title": "Nobody's at the Wheel",
+  "collection": "eighties",
+  "album": "80s Reimagined",
+  "track": 7,
+  "slug": "e80_07_nobodys_at_the_wheel",
+  "inspiredBy": "Everybody Wants to Rule the World (Tears for Fears, 1985)",
+  "leadVoice": "Smooth male tenor-baritone, relaxed and unhurried, slightly behind the beat, almost conversational. A second voice doubles in octaves on the chorus. No strain anywhere: the calm is the point.",
+  "model": "V6",
+  "style": "1985 British sophisticated synth-pop, new wave, smooth relaxed male tenor vocal slightly behind the beat, 110 BPM, 12/8 shuffle, G major, breezy, bittersweet, chiming clean electric guitar two-note rocking figure throughout, pulsing pedal synth bass, shuffle drum machine with live cymbals, glassy digital bell keys, warm analog pad, one clean melodic guitar solo and one overdriven soaring guitar solo, octave-doubled chorus vocal, subtle vocoder harmony at the end, clean wide sunlit mix, top-down driving, carefree on the surface, thoughtful underneath",
+  "negativeTags": "heavy metal riffs, female lead vocals, saxophone, dark mood, trap hi-hats, EDM drop, rap",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 260,
+  "customMode": true,
+  "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: two-note guitar figure fades in, synth swells, shuffle beat]\n\n[Verse 1: relaxed, behind the beat]\nGood morning, here's your future\nIt was ordered yesterday\nThe seat already knows you\nAnd the road already knows the way\n\n[Verse 2: bell keys answer the vocal]\nWe built a perfect engine\nThen we climbed into the back\nWindows up, the weather's lovely\nOn a painted-over track\n\n[Chorus: octave-doubled vocal, wide pad]\nRoll on, roll on\nIsn't it a lovely feel?\nEverybody's singing along\nNobody's at the wheel\n\n[Verse 3: relaxed]\nThere's a room where they decide things\nThere's a door without a key\nI knocked for half a lifetime\nThen I found out the room was me\n\n[Chorus: octave-doubled vocal, wide pad]\nRoll on, roll on\nIsn't it a lovely feel?\nEverybody's singing along\nNobody's at the wheel\n\n[Bridge: warmer, sadder chords, sustained pad]\nSay that you'll remember\nHow the summer didn't last\nAll the kings of the on-ramp\nGetting smaller in the glass\n\n[Guitar Solo: clean, lyrical, short]\n\n[Verse 4: drums drop to hi-hat, then return]\nSo take your hands out of your pockets\nPut a palm against the pane\nSomebody ought to steer this\nSomebody ought to know its name\n\n[Final Chorus: double chorus, subtle vocoder harmony]\nRoll on, roll on\nIsn't it a lovely feel?\nEverybody's singing along\nNobody's at the wheel\nRoll on, roll on\nHalfway to tomorrow, signed and sealed\nEverybody wants the window\nNobody wants the wheel\n\n[Guitar Solo: overdriven, climbing, full band]\n\n[Outro: backing vocals, two-note guitar figure, fade out]\n(Roll on, roll on)\n(Roll on, roll on)",
+  "taskId": "cb43ba9856242a5dfa158e29438092c4",
+  "sunoClipIds": [
+    "0bccbeff-db9d-4a33-93cb-b34a6dc6ae34",
+    "c95a2226-97ee-486c-8ac6-2b191d774989"
+  ],
+  "created": "Nov 15, 2026 6:21 PM ET",
+  "createTimeMs": 1794784878740,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0bccbeff-db9d-4a33-93cb-b34a6dc6ae34",
+      "durationSec": 259.96,
+      "file": "eighties/e80_07_nobodys_at_the_wheel_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c95a2226-97ee-486c-8ac6-2b191d774989",
+      "durationSec": 259.32,
+      "file": "eighties/e80_07_nobodys_at_the_wheel_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "eighties/e80_07_nobodys_at_the_wheel_req.json",
+    "eighties/e80_07_nobodys_at_the_wheel_rec.json"
+  ],
+  "cover": "eighties/covers/e80_07_nobodys_at_the_wheel.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 110 BPM in a 12/8 shuffle (a rolling triplet feel), G major, with a pedal bass note that makes the chords float above it. Breezy, top-down, deceptively easy.\n\nVOICE: Smooth male tenor-baritone, relaxed and unhurried, slightly behind the beat, almost conversational. A second voice doubles in octaves on the chorus. No strain anywhere: the calm is the point.\n\nINSTRUMENTS: A chiming clean electric guitar playing a two-note rocking figure that runs through the whole song (the earworm). A pulsing synth bass holding one note under changing chords. Shuffle drum-machine pattern layered with live cymbals. Glassy digital bell keyboard answering the vocal. Warm analog pad. Two guitar solos: one clean and melodic, one overdriven and soaring.\n\nARRANGEMENT MAP: 0:00 Intro, the two-note guitar figure fades in with synth swells, drums enter at 0:13. 0:26 Verse 1. 0:44 Verse 2, bell keyboard answers. 1:01 Chorus 1, octave vocal and wide pad. 1:19 Verse 3. 1:36 Chorus 2. 1:54 Bridge, the chords shift somewhere warmer and sadder, with sustained organ-like pad. 2:11 Guitar solo 1, clean, lyrical, short. 2:29 Verse 4, the drums drop to hi-hat for 2 bars then return. 2:46 Final double chorus, with the lyric twist on the last two lines. 3:21 Guitar solo 2, overdriven and climbing over the full band. 3:45 Outro, 'roll on' backing vocals and the two-note figure fading out by 4:10.\n\nPRODUCTION & MIX: Clean, wide and sunlit. Shimmering chorus on guitars, tight gated snare, the vocal dry and close. Everything sits back so the groove feels effortless.\n\nSIGNATURE MOMENT: The opening fade-in of the two-note guitar figure, instantly a windows-down feeling. Second: the last two lines, where the title quietly changes meaning.\n\nMODERN POINT OF VIEW: A subtle vocoder harmony shadows the final chorus, a machine singing along. Stereo field is wider and the sub-bass deeper than a 1985 master.\n\nEMOTIONAL ARC: Carefree, then curious, then quietly awake.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1985 British sophisticated synth-pop, new wave, smooth relaxed male tenor vocal slightly behind the beat, 110 BPM, 12/8 shuffle, G major, breezy, bittersweet, chiming clean electric guitar two-note rocking figure throughout, pulsing pedal synth bass, shuffle drum machine with live cymbals, glassy digital bell keys, warm analog pad, one clean melodic guitar solo and one overdriven soaring guitar solo, octave-doubled chorus vocal, subtle vocoder harmony at the end, clean wide sunlit mix, top-down driving, carefree on the surface, thoughtful underneath\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nheavy metal riffs, female lead vocals, saxophone, dark mood, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nA beautiful drive in a car that seems to steer itself. Everyone is in the back seat singing along, the weather is lovely, and no one wants to ask who is driving.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a carefree road-trip anthem; a wry song about self-driving cars and autopilot living; a political comment that nobody is in charge; or a personal confession ('I found out the room was me') about finally taking control of your own life. The last line flips the title: everybody wants the window, nobody wants the wheel.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: breezy shuffle against uneasy words, proverb-like short lines, an opening that greets the listener directly, and a title that accuses everyone including the singer. Designed mishearing: 'Nobody's at the wheel' is heard as 'Nobody said for real' and 'Nobody's at the will', and 'lovely feel' keeps the chorus sounding happy to anyone not listening closely.",
+  "workbookAtAGlance": "Nobody's at the Wheel\n\nBackup titles\nEverybody Wants the Window / Roll On\n\nAt a glance\n110 BPM, G major, 12/8 shuffle\nVoice: Smooth male tenor, laid back\nLength: about 4 minutes"
+}

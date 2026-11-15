@@ -1,0 +1,51 @@
+{
+  "id": "e80_17",
+  "title": "Don't Let the Song End",
+  "collection": "eighties",
+  "album": "80s Reimagined",
+  "track": 17,
+  "slug": "e80_17_dont_let_the_song_end",
+  "inspiredBy": "I Wanna Dance with Somebody (Who Loves Me) (Whitney Houston, 1987)",
+  "leadVoice": "Powerhouse female soprano with gospel roots. Playful and light in the verses with little laughs and slides, then enormous, ringing belted notes in the chorus with effortless runs. After the key change she ad-libs freely above the melody. Three female backing singers do tight call-and-response.",
+  "model": "V6",
+  "style": "1987 euphoric dance-pop with gospel-powered vocals, powerhouse female soprano vocal with playful verses, huge belted chorus notes, runs and ad-libs, 120 BPM, A major with a key change up for the final choruses, bright punchy synth-brass fanfare riff, popping slap-style synth bass, drum machine with fat snare, handclaps and cowbell, glittering digital bells and electric piano, clean funky rhythm guitar, rising synth strings, joyful saxophone answers, three female backing singers in tight call-and-response, glossy bright wide mix, sparkling, joyful on top, lonely underneath",
+  "negativeTags": "male lead vocals, distorted guitar, dark mood, slow ballad, trap hi-hats, EDM drop, rap",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: drum fill, synth-brass fanfare riff, backing chant]\n(Whoo!)\n(Don't let it, don't let it)\n\n[Verse 1: playful vocal, bass, drums and bells]\nLipstick on at the end of the day\nNowhere to be, going anyway\nThe quiet in this house has a sound of its own\nAnd it gets so loud when I'm alone\n\n[Pre-Chorus: turns minor and wistful, strings rise]\nOh, I'm fine, I'm fine in the daylight\nBut the dark comes asking questions\nAnd I need more than fine\n\n[Chorus: brass fanfare, belted lead, backing vocals answer]\nDon't let the song end\nI'm not done feeling alive\nSpin me around again\n'Til the morning's on our side\nI need a hand, I need a spark, I need a friend\nDJ, whoever you are\nDon't let the song end\n\n[Verse 2: playful vocal]\nI've been to the party where nobody stays\nSmiled for the camera, drove home in a daze\nLove's on the playlist but it skips my name\nTonight I'm not going home the same\n\n[Pre-Chorus: turns minor and wistful, strings rise]\nOh, I'm fine, I'm fine in the daylight\nBut the dark comes asking questions\nAnd I need more than fine\n\n[Chorus: brass fanfare, belted lead, backing vocals answer]\nDon't let the song end\nI'm not done feeling alive\nSpin me around again\n'Til the morning's on our side\nI need a hand, I need a spark, I need a friend\nDJ, whoever you are\nDon't let the song end\n\n[Bridge: kick and claps, lead and backing trade shouts, climbing]\nOne more chorus (one more!)\nOne more key (higher!)\nIf it's gotta be over\nLet it be over in a blaze\n\n[Final Chorus: key change up, held note, huge belt]\nDon't let the song end\nI'm not done feeling alive\nSpin me around again\n'Til the morning's on our side\nI need a hand, I need a spark, I need a friend\nDJ, whoever you are\nDon't let the song end\n\n[Final Chorus: ad-libs and runs, saxophone answers]\nDon't let the song end (don't let it)\nI'm not done feeling alive\nSpin me around again (spin me)\n'Til the morning's on our side\nI need a hand, I need a spark, I need a friend\nDJ, whoever you are\nDon't let the song end\n\n[Outro: backing chant loops, lead ad-libs, claps, last brass hit]\n(Don't let it, don't let it) Don't let the song end\n(Don't let it, don't let it) Say you'll stay 'til then\n(Don't let it, don't let it) Don't let the song end",
+  "taskId": "44974dc4c9415fcc16a215642f65d929",
+  "sunoClipIds": [
+    "aa285b47-66a9-49f0-baa0-db913afe0fa1",
+    "dfd54840-91ba-46cc-b979-cb8615cfed96"
+  ],
+  "created": "Nov 15, 2026 6:22 PM ET",
+  "createTimeMs": 1794784926815,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "aa285b47-66a9-49f0-baa0-db913afe0fa1",
+      "durationSec": 238.76,
+      "file": "eighties/e80_17_dont_let_the_song_end_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "dfd54840-91ba-46cc-b979-cb8615cfed96",
+      "durationSec": 239.6,
+      "file": "eighties/e80_17_dont_let_the_song_end_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "eighties/e80_17_dont_let_the_song_end_req.json",
+    "eighties/e80_17_dont_let_the_song_end_rec.json"
+  ],
+  "cover": "eighties/covers/e80_17_dont_let_the_song_end.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, A major, with the last choruses lifting a whole step to B major. Sparkling, euphoric dance-pop: confetti in sound.\n\nVOICE: Powerhouse female soprano with gospel roots. Playful and light in the verses with little laughs and slides, then enormous, ringing belted notes in the chorus with effortless runs. After the key change she ad-libs freely above the melody. Three female backing singers do tight call-and-response.\n\nINSTRUMENTS: Bright, punchy synth-brass stabs playing a jubilant fanfare riff (the earworm). A popping, slap-style synth bass. Drum machine with a fat snare, handclaps and a cowbell. Glittering digital bell and electric-piano chords. A funky, clean rhythm guitar. Rising synth string runs into each chorus. A short, joyful saxophone answering lines in the final choruses.\n\nARRANGEMENT MAP: 0:00 Intro, a drum fill, a whooped 'whoo!', then the brass fanfare riff with the backing chant for 8 bars. 0:16 Verse 1, bass, drums, bells and playful vocal. 0:32 Pre-chorus, the chords turn minor and wistful for a moment, strings rise. 0:44 Chorus 1, fanfare returns, backing answers. 1:08 Riff, 4 bars. 1:16 Verse 2. 1:32 Pre-chorus. 1:44 Chorus 2. 2:08 Bridge, the drums break down to kick and claps while lead and backing singers trade shouts, climbing. 2:24 A held note carries over the key change into the final chorus, a whole step higher. 2:48 Second final chorus with ad-libs and sax answers. 3:12 Outro, backing chant loops while the lead improvises, the band drops out to claps and voices, then one last brass hit at 3:50.\n\nPRODUCTION & MIX: Glossy, bright and wide. Crisp digital reverb on the snare, vocal huge and upfront, every stab and clap razor-sharp.\n\nSIGNATURE MOMENT: The held note that rides over the key change at 2:24. It is the instant every hand on the dance floor goes up.\n\nMODERN POINT OF VIEW: Side-chained pads and a deep clean sub make it sit next to current dance-pop. The brief minor-key pre-chorus is kept exposed so the loneliness is audible if you listen for it.\n\nEMOTIONAL ARC: Brave face, confession, then release. Joy as an act of defiance.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1987 euphoric dance-pop with gospel-powered vocals, powerhouse female soprano vocal with playful verses, huge belted chorus notes, runs and ad-libs, 120 BPM, A major with a key change up for the final choruses, bright punchy synth-brass fanfare riff, popping slap-style synth bass, drum machine with fat snare, handclaps and cowbell, glittering digital bells and electric piano, clean funky rhythm guitar, rising synth strings, joyful saxophone answers, three female backing singers in tight call-and-response, glossy bright wide mix, sparkling, joyful on top, lonely underneath\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, distorted guitar, dark mood, slow ballad, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nDressed up with nowhere to be, she goes out anyway. The house is too quiet, daylight is fine but the dark asks questions, and for three minutes the dance floor is the answer. She begs it not to stop.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a Saturday night anthem; a song about loneliness in a crowd; a plea to hold on to youth; the last months with someone you love; or a prayer for more time. 'The song' can be the night, a relationship or a life. On a dance floor nobody will notice it is sad, which is exactly how the original works.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: joyful production over a lonely verse, a title that is a plea, call-and-response backing vocals, and a late key change with a spoken cue ('higher!'). Designed mishearing: 'Don't let the song end' is heard as 'Don't let the sun in', the version sung by people leaving the club at dawn.",
+  "workbookAtAGlance": "Don't Let the Song End\n\nBackup titles\nMore Than Fine / Spin Me Around Again\n\nAt a glance\n120 BPM, A major, key change to B\nVoice: Powerhouse female soprano\nLength: about 4 minutes"
+}

@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Surprise, It's Me Again",
+ "prompt": "[Intro: slow sad solo piano and soft strings, minor key, no drums]\n\n[Instrumental: rolling tom fill, upbeat dance beat, brass stabs]\n\n[Verse 1: warm deep baritone, bass and drums, brass answers]\nYou know my number, you know my face\nI've been showing up since the second grade\nNo fine print, rain or shine\nYou've seen this movie about a thousand times\n\n[Pre-Chorus: strings climb]\nI've just gotta say it, and I've gotta say it plain\nYou could change the channel\nI'd be on it just the same\n\n[Chorus: everything in, female backing vocals echo]\nSurprise, it's me again\nAlways here, never left\nAlways gonna show up, always gonna stay\nAlways gonna open with the same old play\nSurprise, it's me again\nBet you saw it coming, friend\nAlways gonna love you 'til the very end\nSurprise, it's me again\n\n[Verse 2: warm deep baritone, brass answers]\nYou clicked on something else, I know\nA cooking show, a how-to video\nBut every road leads back to this:\nA guy in a coat with a promise and a wish\n\n[Pre-Chorus: strings climb]\nI've just gotta say it, and I've gotta say it plain\nYou could change the channel\nI'd be on it just the same\n\n[Chorus: everything in, female backing vocals echo]\nSurprise, it's me again\nAlways here, never left\nAlways gonna show up, always gonna stay\nAlways gonna open with the same old play\nSurprise, it's me again\nBet you saw it coming, friend\nAlways gonna love you 'til the very end\nSurprise, it's me again\n\n[Bridge: softer, female oohs lead, baritone answers]\n(Ooh) The world keeps changing every song\n(Ooh) I'm the one that still goes on\n(Ooh) Call it a joke, call it a sign\nI meant it every single time\n\n[Breakdown: handclaps and bass only, call and response]\nAlways, always, always gonna (show up)\nAlways, always, always gonna (stay)\nAlways, always, always gonna (show up)\nAlways gonna\n\n[Final Chorus: tom fill, full band, ad-libs]\nSurprise, it's me again\nAlways here, never left\nAlways gonna show up, always gonna stay\nAlways gonna open with the same old play\nSurprise, it's me again\nBet you saw it coming, friend\nAlways gonna love you 'til the very end\nSurprise, it's me again\n\n[Outro: call and echo over the groove, tom fill, hard stop]\nSurprise (it's me again)\nSurprise (it's me again)\nSurprise",
+ "style": "1987 British hit-factory dance-pop, rich deep soulful male baritone vocal, sincere and warm, 114 BPM, B-flat major, bright, bouncy, wholesome, opens with a slow moody piano-and-strings false intro before a rolling tom fill launches the beat, crisp digital drum machine, syncopated rubbery digital synth bass, bright synth-brass stabs, sweeping synth strings, glittering bell arpeggios, handclaps, sweet female backing vocals echoing and singing ooh, shiny tight punchy mix, clap-and-bass breakdown, joyful, devoted, playful, feel-good",
+ "negativeTags": "distorted guitar, guitar solo, rock drums, female lead vocals, dark mood, trap hi-hats, rap",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 248,
+ "callBackUrl": "https://example.com/cb"
+}

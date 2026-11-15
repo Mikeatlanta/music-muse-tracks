@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Don't Let the Song End",
+ "prompt": "[Intro: drum fill, synth-brass fanfare riff, backing chant]\n(Whoo!)\n(Don't let it, don't let it)\n\n[Verse 1: playful vocal, bass, drums and bells]\nLipstick on at the end of the day\nNowhere to be, going anyway\nThe quiet in this house has a sound of its own\nAnd it gets so loud when I'm alone\n\n[Pre-Chorus: turns minor and wistful, strings rise]\nOh, I'm fine, I'm fine in the daylight\nBut the dark comes asking questions\nAnd I need more than fine\n\n[Chorus: brass fanfare, belted lead, backing vocals answer]\nDon't let the song end\nI'm not done feeling alive\nSpin me around again\n'Til the morning's on our side\nI need a hand, I need a spark, I need a friend\nDJ, whoever you are\nDon't let the song end\n\n[Verse 2: playful vocal]\nI've been to the party where nobody stays\nSmiled for the camera, drove home in a daze\nLove's on the playlist but it skips my name\nTonight I'm not going home the same\n\n[Pre-Chorus: turns minor and wistful, strings rise]\nOh, I'm fine, I'm fine in the daylight\nBut the dark comes asking questions\nAnd I need more than fine\n\n[Chorus: brass fanfare, belted lead, backing vocals answer]\nDon't let the song end\nI'm not done feeling alive\nSpin me around again\n'Til the morning's on our side\nI need a hand, I need a spark, I need a friend\nDJ, whoever you are\nDon't let the song end\n\n[Bridge: kick and claps, lead and backing trade shouts, climbing]\nOne more chorus (one more!)\nOne more key (higher!)\nIf it's gotta be over\nLet it be over in a blaze\n\n[Final Chorus: key change up, held note, huge belt]\nDon't let the song end\nI'm not done feeling alive\nSpin me around again\n'Til the morning's on our side\nI need a hand, I need a spark, I need a friend\nDJ, whoever you are\nDon't let the song end\n\n[Final Chorus: ad-libs and runs, saxophone answers]\nDon't let the song end (don't let it)\nI'm not done feeling alive\nSpin me around again (spin me)\n'Til the morning's on our side\nI need a hand, I need a spark, I need a friend\nDJ, whoever you are\nDon't let the song end\n\n[Outro: backing chant loops, lead ad-libs, claps, last brass hit]\n(Don't let it, don't let it) Don't let the song end\n(Don't let it, don't let it) Say you'll stay 'til then\n(Don't let it, don't let it) Don't let the song end",
+ "style": "1987 euphoric dance-pop with gospel-powered vocals, powerhouse female soprano vocal with playful verses, huge belted chorus notes, runs and ad-libs, 120 BPM, A major with a key change up for the final choruses, bright punchy synth-brass fanfare riff, popping slap-style synth bass, drum machine with fat snare, handclaps and cowbell, glittering digital bells and electric piano, clean funky rhythm guitar, rising synth strings, joyful saxophone answers, three female backing singers in tight call-and-response, glossy bright wide mix, sparkling, joyful on top, lonely underneath",
+ "negativeTags": "male lead vocals, distorted guitar, dark mood, slow ballad, trap hi-hats, EDM drop, rap",
+ "vocalGender": "f",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb"
+}

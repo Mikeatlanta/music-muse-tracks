@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Keep the Porch Light On",
+ "prompt": "[Intro: rolling piano riff alone, bass joins]\n\n[Verse 1: voice, piano and bass only]\nShe's got a duffel bag and a diner check\nBorn on the north shore of a town without a sea\nHe's got his father's coat and a one-way stare\nCounting exits like a rosary\n\n[Instrumental: lead guitar enters, climbing run, held note]\n\n[Verse 2: drums enter, simple beat]\nA radio plays in the laundromat\nSomebody's quarters buying one more spin\nTwo strangers folding in fluorescent light\nBoth pretending they're not listening\n\n[Pre-Chorus: guitar chug builds, harmonies appear]\nNight owls, neon saints\nRunning on a rumor and a tank of maybe\nOne more town, one more try\nThe radio keeps saying \"any day now, baby\"\n\n[Guitar Solo: melodic and lyrical]\n\n[Verse 3: full band]\nNow the years go by like mile signs\nSome you read and some you miss\nEverybody's got a window seat\nAnd a name they tell the dark like this\n\n[Pre-Chorus: builds with snare roll]\nNight owls, neon saints\nRunning on a rumor and a tank of maybe\nOne more town, one more try\nThe radio keeps saying \"any day now, baby\"\n\n[Chorus: first time, band wide open, big harmonies]\nKeep the porch light on\nI'm a long way out but I'm coming home\nKeep the porch light on\nKeep it burning 'til the dark is gone\nSomebody, somewhere\nKeep the porch light on\n\n[Chorus: call and response]\nKeep the porch light on\n(Night owls) I can see it from the road\nKeep the porch light on\n(Neon saints) It's the only thing I know\nSomebody, somewhere\nKeep the porch light on\n\n[Outro: title repeated, long fade out]\nKeep the porch light on\nKeep the porch light on\nKeep the porch light on",
+ "style": "1981 arena rock anthem, clear soaring male tenor storytelling vocal, 118 BPM, D major, patient, cinematic, late-arriving chorus, rolling eighth-note grand piano riff, bass doubling the piano, palm-muted electric guitar chug that builds, singing lead guitar with fast ascending runs, simple arena drums entering late, string-synth pad, stacked three-part harmonies, call-and-response final chorus, long fade-out, polished wide mix, plate reverb snare, lonely, hopeful, communal, night highway",
+ "negativeTags": "female lead vocals, drum machine, saxophone, trap hi-hats, EDM, rap, autotune",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 265,
+ "callBackUrl": "https://example.com/cb"
+}

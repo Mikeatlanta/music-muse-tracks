@@ -1,0 +1,51 @@
+{
+  "id": "e80_15",
+  "title": "Call It Recess",
+  "collection": "eighties",
+  "album": "80s Reimagined",
+  "track": 15,
+  "slug": "e80_15_call_it_recess",
+  "inspiredBy": "Girls Just Want to Have Fun (Cyndi Lauper, 1983)",
+  "leadVoice": "Bright female soprano with a quirky, characterful delivery: hiccups, squeaks, playful spoken asides and a slight street accent, sliding from a sweet coo to a full-throated belt. Gang backing vocals from a mixed crowd of women and kids on the 'everybody out' shouts.",
+  "model": "V6",
+  "style": "1983 quirky new wave dance-pop, bright characterful female soprano vocal with hiccups, squeaks, spoken asides and a big belt, 122 BPM, G major, bouncy, mischievous, bubbling toy-organ-and-marimba synth riff, bouncy synth bass, drum machine with crisp handclaps on the backbeat, clean off-beat reggae-tinged guitar upstrokes, bright synth-brass stabs, whistling wobbly synth solo, school bell sound effect, mixed gang backing shouts, softer sincere half-time bridge, bright punchy colourful mix, playful, liberated, joyful, party",
+  "negativeTags": "male lead vocals, distorted guitar, dark mood, slow ballad, saxophone, trap hi-hats, rap",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: school bell, gang shout, bubbling synth riff, handclaps]\n(Everybody out! Everybody out!)\n\n[Verse 1: bass, claps and voice, riff answers each line]\nThe alarm goes off like a tiny lawyer\nMy daughter says, \"Mom, you forgot how to play\"\nKid, I wrote the manual on it\nI just filed it under \"someday\"\n\n[Chorus: full arrangement, gang shouts]\nSo call it recess (ring that bell!)\nWe've been good so long, been good so well\nPut the grown-up down, let the wild one out\nCall it recess\nThat's what it's all about\n(Everybody out! Everybody out!)\n\n[Verse 2: bass, claps and voice, hiccups and asides]\nThree o'clock and the meeting's eternal\nMy mother texts, \"Are you getting your rest?\"\nMa, you didn't raise a spreadsheet\nYou raised a firework under a desk\n\n[Chorus: full arrangement, gang shouts]\nSo call it recess (ring that bell!)\nWe've been good so long, been good so well\nPut the grown-up down, let the wild one out\nCall it recess\nThat's what it's all about\n(Everybody out! Everybody out!)\n\n[Synth Solo: wobbly whistling lead, chopped vocal snippets]\n\n[Bridge: half-time, soft, sincere, close warm voice]\nThey take a kid who's all bright colors\nHand her beige and a set of keys\nI'm gonna find that kid tonight\nAnd tell her, \"Come outside with me\"\n\n[Chorus: drum fill, bell, full arrangement]\nSo call it recess (ring that bell!)\nWe've been good so long, been good so well\nPut the grown-up down, let the wild one out\nCall it recess\nThat's what it's all about\n\n[Final Chorus: squeals and spoken asides over the top]\nCall it recess (ring that bell!)\nWe've been good so long, been good so well\nPut the grown-up down, let the wild one out\nCall it recess\nThat's what it's all about\n(Everybody out! Everybody out!)\n\n[Outro: call and response with the gang, last bell and a laugh]\n(Everybody out!) Recess!\n(Everybody out!) Call it recess!\n(Everybody out!) Recess!\n(Everybody out!)",
+  "taskId": "efc74fb9fa4282deb216b9e20f1753ac",
+  "sunoClipIds": [
+    "74a27fc5-9298-42ff-bbff-d2b17765f087",
+    "f2df9d5b-c0fb-4dda-a332-5a7b428c6697"
+  ],
+  "created": "Nov 15, 2026 6:21 PM ET",
+  "createTimeMs": 1794784910823,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "74a27fc5-9298-42ff-bbff-d2b17765f087",
+      "durationSec": 244.8,
+      "file": "eighties/e80_15_call_it_recess_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "f2df9d5b-c0fb-4dda-a332-5a7b428c6697",
+      "durationSec": 243.92,
+      "file": "eighties/e80_15_call_it_recess_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "eighties/e80_15_call_it_recess_req.json",
+    "eighties/e80_15_call_it_recess_rec.json"
+  ],
+  "cover": "eighties/covers/e80_15_call_it_recess.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, G major, bouncing straight-eighth feel with a hint of reggae lilt in the guitar. Sunny, mischievous and impossible to sit still to.\n\nVOICE: Bright female soprano with a quirky, characterful delivery: hiccups, squeaks, playful spoken asides and a slight street accent, sliding from a sweet coo to a full-throated belt. Gang backing vocals from a mixed crowd of women and kids on the 'everybody out' shouts.\n\nINSTRUMENTS: A bubbling synth riff that sounds like a toy organ crossed with a marimba, playing a skipping, playground-chant melody (the earworm). Bouncy synth bass. Drum machine with crisp handclaps on every backbeat. Clean guitar playing light off-beat upstrokes. Bright synth-brass stabs in the chorus. A whistling, wobbly synth lead for the solo.\n\nARRANGEMENT MAP: 0:00 Intro, a school bell rings, the gang shout, then the bubbling riff with claps for 8 bars. 0:16 Verse 1, bass, claps and voice with the riff answering each line. 0:32 Chorus 1, full arrangement with gang shouts. 0:56 Riff alone, 4 bars. 1:04 Verse 2. 1:20 Chorus 2. 1:44 Synth solo, the wobbly whistle lead playing a cheeky variation on the vocal tune. 2:08 Bridge, half-time feel, softer and suddenly sincere, voice close and warm. 2:32 Drum fill and bell, chorus 3. 2:56 Final chorus, with improvised squeals and spoken asides over the top. 3:20 Outro, call-and-response between the gang and the lead, riff bubbling on, ending with one last bell and a laugh at 3:55.\n\nPRODUCTION & MIX: Bright, punchy and colourful. Claps and riff upfront, vocal dry and close so every hiccup is heard, a short bright reverb on the gang vocals.\n\nSIGNATURE MOMENT: The sincere half-time bridge, the one place the joke drops and she means it, followed by the bell that launches the last choruses.\n\nMODERN POINT OF VIEW: Chopped, pitched snippets of the lead vocal dance around the synth solo. A real school bell is the song's recurring sound effect. Sub-bass keeps it club-ready.\n\nEMOTIONAL ARC: Cheeky, liberated, briefly tender, then pure joy.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1983 quirky new wave dance-pop, bright characterful female soprano vocal with hiccups, squeaks, spoken asides and a big belt, 122 BPM, G major, bouncy, mischievous, bubbling toy-organ-and-marimba synth riff, bouncy synth bass, drum machine with crisp handclaps on the backbeat, clean off-beat reggae-tinged guitar upstrokes, bright synth-brass stabs, whistling wobbly synth solo, school bell sound effect, mixed gang backing shouts, softer sincere half-time bridge, bright punchy colourful mix, playful, liberated, joyful, party\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, distorted guitar, dark mood, slow ballad, saxophone, trap hi-hats, rap\n\nWHAT IT IS ABOUT\n\nThe girl who came home at dawn in 1983 is now the grown-up with the alarm clock, the meeting and a daughter who says she has forgotten how to play. Tonight she rings the bell on herself.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a mums' night out anthem; a joyful burnout song for anyone chained to a desk; a daughter and mother singing to each other; a retirement party song; or a sequel to the original's spirit, in which the parent being talked back to is now the one singing. 'Put the grown-up down' works for every age over twenty-five.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: mini domestic scenes with a relative's voice in each verse, a playground-simple title, and a bridge that states the real stakes. The generational flip (the kid now tells the parent to have fun) is the modern point of view. Designed mishearing: 'Call it recess' is heard as 'Call it reckless', which improves it.",
+  "workbookAtAGlance": "Call It Recess\n\nBackup titles\nRing That Bell / You Raised a Firework\n\nAt a glance\n122 BPM, G major\nVoice: Quirky bright female soprano\nLength: about 4 minutes"
+}

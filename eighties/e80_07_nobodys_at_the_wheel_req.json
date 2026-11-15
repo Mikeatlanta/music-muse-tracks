@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Nobody's at the Wheel",
+ "prompt": "[Intro: two-note guitar figure fades in, synth swells, shuffle beat]\n\n[Verse 1: relaxed, behind the beat]\nGood morning, here's your future\nIt was ordered yesterday\nThe seat already knows you\nAnd the road already knows the way\n\n[Verse 2: bell keys answer the vocal]\nWe built a perfect engine\nThen we climbed into the back\nWindows up, the weather's lovely\nOn a painted-over track\n\n[Chorus: octave-doubled vocal, wide pad]\nRoll on, roll on\nIsn't it a lovely feel?\nEverybody's singing along\nNobody's at the wheel\n\n[Verse 3: relaxed]\nThere's a room where they decide things\nThere's a door without a key\nI knocked for half a lifetime\nThen I found out the room was me\n\n[Chorus: octave-doubled vocal, wide pad]\nRoll on, roll on\nIsn't it a lovely feel?\nEverybody's singing along\nNobody's at the wheel\n\n[Bridge: warmer, sadder chords, sustained pad]\nSay that you'll remember\nHow the summer didn't last\nAll the kings of the on-ramp\nGetting smaller in the glass\n\n[Guitar Solo: clean, lyrical, short]\n\n[Verse 4: drums drop to hi-hat, then return]\nSo take your hands out of your pockets\nPut a palm against the pane\nSomebody ought to steer this\nSomebody ought to know its name\n\n[Final Chorus: double chorus, subtle vocoder harmony]\nRoll on, roll on\nIsn't it a lovely feel?\nEverybody's singing along\nNobody's at the wheel\nRoll on, roll on\nHalfway to tomorrow, signed and sealed\nEverybody wants the window\nNobody wants the wheel\n\n[Guitar Solo: overdriven, climbing, full band]\n\n[Outro: backing vocals, two-note guitar figure, fade out]\n(Roll on, roll on)\n(Roll on, roll on)",
+ "style": "1985 British sophisticated synth-pop, new wave, smooth relaxed male tenor vocal slightly behind the beat, 110 BPM, 12/8 shuffle, G major, breezy, bittersweet, chiming clean electric guitar two-note rocking figure throughout, pulsing pedal synth bass, shuffle drum machine with live cymbals, glassy digital bell keys, warm analog pad, one clean melodic guitar solo and one overdriven soaring guitar solo, octave-doubled chorus vocal, subtle vocoder harmony at the end, clean wide sunlit mix, top-down driving, carefree on the surface, thoughtful underneath",
+ "negativeTags": "heavy metal riffs, female lead vocals, saxophone, dark mood, trap hi-hats, EDM drop, rap",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 260,
+ "callBackUrl": "https://example.com/cb"
+}

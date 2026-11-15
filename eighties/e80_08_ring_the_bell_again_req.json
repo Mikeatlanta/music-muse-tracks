@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Ring the Bell Again",
+ "prompt": "[Intro: muted guitar chug alone, then power-chord stabs]\n\n[Verse 1: chug, bass and kick, stabs answer the vocal]\nFive a.m., the street's still sleeping\nBreath like smoke, shoes on stone\nUsed to run from every mirror\nNow I'm running toward my own\nLost the title, lost the corner\nLost the name up on the door\nFound a kid inside who's hungry\nLike he's never lost before\n\n[Pre-Chorus: snare build]\nSo tape it up, pull it tight\nOne more round in the morning light\n\n[Chorus: full band, gang vocals, bell hit]\nRing the bell again\nI'm not done, I'm not done\nKnock me down to the count of ten\nI'll be up at one\nIt's the heart of a late bloomer\nBurning slow, burning long\nRing the bell again\nI'm coming on strong\n\n[Verse 2: chug, bass and kick, stabs answer the vocal]\nThey love you when you're twenty\nThey forget you when you fall\nBut a second wind's a freight train\nComing straight on through the wall\nEvery bruise is a diploma\nEvery scar's a signed receipt\nI've got nothing left to prove now\nThat's what makes me hard to beat\n\n[Pre-Chorus: snare build]\nSo tape it up, pull it tight\nOne more round in the morning light\n\n[Chorus: full band, gang vocals, bell hit]\nRing the bell again\nI'm not done, I'm not done\nKnock me down to the count of ten\nI'll be up at one\nIt's the heart of a late bloomer\nBurning slow, burning long\nRing the bell again\nI'm coming on strong\n\n[Bridge: kick and chug only, call and response, building]\nStand (stand) when the lights go low\nStand (stand) when they tell you no\nThe crowd went home an hour ago\nI'm still here, ring it, let's go\n\n[Guitar Solo: short, melodic, anthemic]\n\n[Final Chorus: bigger, crashes on every stab]\nRing the bell again\nI'm not done, I'm not done\nKnock me down to the count of ten\nI'll be up at one\nIt's the heart of a late bloomer\nBurning slow, burning long\nRing the bell again\nI'm coming on strong\n\n[Outro: stabs and gang chant, single final hit]\nRing the bell (again)\nRing the bell (again)\nRing the bell",
+ "style": "1982 arena rock motivational anthem, gritty earnest male tenor vocal, 108 BPM, D minor, driving, muscular, relentless palm-muted sixteenth-note guitar chug, syncopated full-band power-chord stabs with silence between hits, piano doubling the stabs, punchy bass locked to the kick, big gated-reverb snare, rock organ pad in the chorus, short anthemic guitar solo, boxing ring bell on chorus downbeats, doubled chorus with male gang backing vocals, tight punchy mix, determined comeback, training montage, cold morning run",
+ "negativeTags": "female vocals, synth-pop, drum machine, saxophone, acoustic ballad, trap hi-hats, EDM, rap",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 255,
+ "callBackUrl": "https://example.com/cb"
+}

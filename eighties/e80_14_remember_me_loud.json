@@ -1,0 +1,51 @@
+{
+  "id": "e80_14",
+  "title": "Remember Me Loud",
+  "collection": "eighties",
+  "album": "80s Reimagined",
+  "track": 14,
+  "slug": "e80_14_remember_me_loud",
+  "inspiredBy": "Don't You (Forget About Me) (Simple Minds, 1985)",
+  "leadVoice": "Dramatic male baritone who starts in a low, intimate croon, cracks into a higher, urgent shout on the chorus, and half-speaks the breakdown. Slightly theatrical with a breathy edge. Crowd-style gang vocals on every 'na-na' chant, as if a whole school is singing.",
+  "model": "V6",
+  "style": "1985 anthemic British new wave, arena rock, dramatic male baritone vocal going from low croon to urgent shout, 112 BPM, D major, big steady stomp, bittersweet, cinematic, booming tom-heavy drums with huge gated-reverb snare, octave-pulsing bass, chiming delay-soaked electric guitar, bright glassy synth chords, organ pad, sparkling keyboard counter-melody, tambourine, half-spoken breakdown over drums and bass, crowd-style gang chant building voice by voice to a huge final chorus, long fade, reverberant gymnasium-sized mix, end credits, nostalgic, defiant, fists in the air",
+  "negativeTags": "female lead vocals, heavy metal, saxophone, acoustic ballad, trap hi-hats, EDM drop, rap",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 270,
+  "customMode": true,
+  "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: crashing drum fill, gang chant, full band]\nNa-na, na-na-now!\nNa-na, na-na-now!\n\n[Verse 1: low croon, drums and bass, chiming guitar in the gaps]\nWrite my name inside your sneaker\nScratch it in the bleacher wood\nWe were nobody on a Saturday\nAnd nobody felt so good\nWhen Monday comes with its uniforms\nAnd the hallway makes us small\nWill you nod like we were strangers?\nWill you know me at all?\n\n[Chorus: full band, voice jumps an octave]\nRemember me loud\nNot a whisper, not a maybe\nRemember me loud\nLike the summer went crazy\nWhen you're grown and the quiet comes around\nDon't remember me nice\nRemember me loud\n\n[Verse 2: low croon, drums and bass]\nSomeday you'll have a lanyard\nAnd a parking space with your name\nYou'll hear four notes in an elevator\nAnd for a second, you'll be flame\nI'll be a face in a yearbook\nI'll be a song you half recall\nWill you tell them that you knew me?\nWill you tell them at all?\n\n[Chorus: full band, urgent shout]\nRemember me loud\nNot a whisper, not a maybe\nRemember me loud\nLike the summer went crazy\nWhen you're grown and the quiet comes around\nDon't remember me nice\nRemember me loud\n\n[Breakdown: kick and bass only, half-spoken vocal]\nDon't file me under \"used to be\"\nDon't fold me in a drawer\nSay it, say it\nSay it like before\n\n[Build: gang chant returns voice by voice, snare roll growing]\nNa-na, na-na-now!\nNa-na, na-na-now!\nNa-na, na-na-now!\nNa-na, na-na-now!\n\n[Final Chorus: full power, ad-libs]\nRemember me loud\nNot a whisper, not a maybe\nRemember me loud\nLike the summer went crazy\nWhen you're grown and the quiet comes around\nDon't remember me nice\nRemember me loud\n\n[Outro: crowd chant over full band, shouted answers, long fade]\nNa-na, na-na-now! (Remember me)\nNa-na, na-na-now! (Aloud)\nNa-na, na-na-now! (Remember me)\nNa-na, na-na-now!",
+  "taskId": "cacf5e03137c9b2e6547ccbde1d338f0",
+  "sunoClipIds": [
+    "7184467b-90d6-4597-8db2-a29e2ddcfc77",
+    "927d7814-bd1f-4335-8605-5c93d15abf90"
+  ],
+  "created": "Nov 15, 2026 6:21 PM ET",
+  "createTimeMs": 1794784905584,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "7184467b-90d6-4597-8db2-a29e2ddcfc77",
+      "durationSec": 269.6,
+      "file": "eighties/e80_14_remember_me_loud_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "927d7814-bd1f-4335-8605-5c93d15abf90",
+      "durationSec": 268.76,
+      "file": "eighties/e80_14_remember_me_loud_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "eighties/e80_14_remember_me_loud_req.json",
+    "eighties/e80_14_remember_me_loud_rec.json"
+  ],
+  "cover": "eighties/covers/e80_14_remember_me_loud.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, D major, big steady stomp. Anthemic, bittersweet and wide open, like the last scene of a film.\n\nVOICE: Dramatic male baritone who starts in a low, intimate croon, cracks into a higher, urgent shout on the chorus, and half-speaks the breakdown. Slightly theatrical with a breathy edge. Crowd-style gang vocals on every 'na-na' chant, as if a whole school is singing.\n\nINSTRUMENTS: Big, booming drums with a tom-heavy pattern and a huge gated-reverb snare (the heartbeat). An octave-pulsing bass line. Chiming electric guitar soaked in delay, playing ringing two-note shapes. Bright, glassy synth chords and a sustained organ pad. A sparkling keyboard counter-melody in the chorus. Tambourine on the backbeat.\n\nARRANGEMENT MAP: 0:00 Intro, a crashing drum fill and the gang 'na-na' chant twice over full band. 0:17 Verse 1, drums, bass and low croon, guitar chiming in the gaps. 0:51 Chorus 1, full band, the voice jumps an octave. 1:17 Verse 2. 1:51 Chorus 2. 2:17 Instrumental, delayed guitar and synth trading phrases. 2:34 Breakdown, everything out except kick, bass and the half-spoken vocal. 2:51 Build, the chant returns one voice at a time, a snare roll growing under it for 8 bars. 3:08 Final chorus at full power with ad-libs. 3:34 Outro, the chant repeating over the full band with shouted answers, slowly fading with the crowd still singing at 4:20.\n\nPRODUCTION & MIX: Huge and reverberant. Drums like they were recorded in a gymnasium, guitars and synths wide, vocal dry in the verses then echoing in the chorus.\n\nSIGNATURE MOMENT: The breakdown and rebuild. One low voice, then the chant returning voice by voice until the whole room has its fist in the air.\n\nMODERN POINT OF VIEW: The gang vocals are layered like a modern stadium crowd, with real handclaps. The low end is fuller and the fade is long, designed for a film's end credits.\n\nEMOTIONAL ARC: Vulnerable, insistent, then communal and defiant.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1985 anthemic British new wave, arena rock, dramatic male baritone vocal going from low croon to urgent shout, 112 BPM, D major, big steady stomp, bittersweet, cinematic, booming tom-heavy drums with huge gated-reverb snare, octave-pulsing bass, chiming delay-soaked electric guitar, bright glassy synth chords, organ pad, sparkling keyboard counter-melody, tambourine, half-spoken breakdown over drums and bass, crowd-style gang chant building voice by voice to a huge final chorus, long fade, reverberant gymnasium-sized mix, end credits, nostalgic, defiant, fists in the air\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale lead vocals, heavy metal, saxophone, acoustic ballad, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nA Saturday that made two nobodies feel like somebody, and the fear of Monday. Decades later one of them hears four notes in an elevator and is seventeen again. The request: don't remember me politely.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a graduation or reunion anthem; a break-up song; a message from a friend who died young; a parent speaking to a grown child; or the 1980s themselves talking to the people who lived them. 'Loud' is sung so it also sounds like 'aloud' and 'allowed': say my name out loud, and let me be remembered.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: questions in the verses, a plea in the chorus, a chant anyone can join after one hearing, and a breakdown that rebuilds from drums and bass. The lanyard-and-parking-space verse is aimed squarely at the grown-up 80s kid. Designed mishearing: loud / aloud / allowed, plus 'Remember me, Lloyd', which someone will insist is the real lyric.",
+  "workbookAtAGlance": "Remember Me Loud\n\nBackup titles\nDon't Remember Me Nice / Write My Name in Your Sneaker\n\nAt a glance\n112 BPM, D major\nVoice: Dramatic male baritone, croon to shout\nLength: about 4 minutes"
+}

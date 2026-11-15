@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Say Me Yes",
+ "prompt": "[Intro: drum fill, sparkling fast synth riff]\n\n[Verse 1: low soft vocal, riff drops out, bass and pad]\nThree dots on the glass, then they disappear\nI've been writing you all year\nEvery word's a paper plane\nFolded twice and thrown away again\n\n[Pre-Chorus: rising pad, tom build]\nI'm no good at standing still\nIf I don't jump now, I never will\n\n[Chorus: melody climbs step by step into falsetto]\nSay me yes (say me yes)\nSay it now (say it now)\nI'm a sketch 'til you color me in somehow\nSay me yes\nOne word and I'm real\nSay me, say me yes\n\n[Verse 2: low soft vocal]\nYou talk like there's forever in your coat\nI'm a candle on a boat\nShy is just a slower kind of brave\nWatch me learn it wave by wave\n\n[Pre-Chorus: rising pad, tom build]\nI'm no good at standing still\nIf I don't jump now, I never will\n\n[Chorus: climbs into falsetto, echoed backing vocals]\nSay me yes (say me yes)\nSay it now (say it now)\nI'm a sketch 'til you color me in somehow\nSay me yes\nOne word and I'm real\nSay me, say me yes\n\n[Bridge: stripped back, new chord colour]\nOh, the things we never send\nPile up like snow against the door\nOpen it, open it\nI can't hold it anymore\n\n[Synth Solo: lead riff with pitch bends]\n\n[Breakdown Chorus: kick and claps only, sung gently]\nSay me yes (say me yes)\nSay it slow (say it slow)\nI was only ever waiting for a go\n\n[Final Chorus: full power, last note held in high falsetto]\nSay me yes (say me yes)\nSay it now (say it now)\nI'm a sketch 'til you color me in somehow\nSay me yes\nOne word and I'm real\nSay me, say me yes\nSay me, say me yes\n\n[Outro: synth riff, echoing vocal, hard stop]\n(Yes, yes, yes)",
+ "style": "1985 Scandinavian-style synth-pop, male vocal with low soft verses and a soaring pure falsetto chorus, 166 BPM, B major, fast, bright, yearning, sparkling staccato synth lead riff with digital bell and analog saw layers, octave-bouncing synth bass, crisp drum machine with gated snare and sixteenth-note hi-hats, strummed acoustic guitar underneath, string pad swells, echoed backing vocals, chorus melody climbing step by step to a held high note, glossy mix, plate reverb on the high notes, shy, hopeful, euphoric",
+ "negativeTags": "distorted guitar, female lead vocals, saxophone, slow tempo, trap hi-hats, EDM drop, rap",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 250,
+ "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Wear My Weather",
+ "prompt": "[Intro: dark drone fades in, galloping toms, breathy sampled hook]\n\n[Verse 1: breathy voice over toms and drone]\nYou say it doesn't hurt you\nI say it doesn't show\nWe stand in the same kitchen\nIn two kinds of snow\n\n[Pre-Chorus: plucked string synth figures]\nThere's a door between us nobody built\nI'd open it with anything\nA word, a prayer, a guilt\n\n[Chorus: soaring, keening, sampled hook underneath]\nCome wear my weather\nFor an hour, for a day\nI'll walk inside your thunder\n'Til I learn what it would say\nIf we could swap our skies, love\nNobody'd have to shout\nCome wear my weather\nAnd I'll wear yours out\n\n[Verse 2: breathy voice over toms and drone]\nYou were raised on different thunder\nI was raised on different rain\nWe learned two words for mercy\nAnd no word for the pain\n\n[Pre-Chorus: plucked string synth figures]\nThere's a door between us nobody built\nI'd open it with anything\nA word, a prayer, a guilt\n\n[Chorus: soaring, keening, guitar growl]\nCome wear my weather\nFor an hour, for a day\nI'll walk inside your thunder\n'Til I learn what it would say\nIf we could swap our skies, love\nNobody'd have to shout\nCome wear my weather\nAnd I'll wear yours out\n\n[Bridge: chanted on one note, stacked voices, low pitched voice]\nTrade me, trade me, eyes for eyes\nNot to blind, just to recognize\nTrade me, trade me, skin for skin\nOpen the door and let the weather in\n\n[Breakdown: kick alone, wordless call, faint rain]\n(Ee-oh) Is it raining where you are?\n(Ee-oh) It's been raining where I am\n(Ee-oh) Is it raining where you are?\n(Ee-oh, ee-oh)\n\n[Final Chorus: full intensity, two voices trading lines]\nCome wear my weather\nFor an hour, for a day\nI'll walk inside your thunder\n'Til I learn what it would say\nIf we could swap our skies, love\nNobody'd have to shout\nCome wear my weather\nAnd I'll wear yours out\n\n[Outro: toms keep running, everything fades to the drone]\nIf we could swap our skies\n(Come wear my weather)\nIf we could swap our skies\n(Come wear my weather)\nI'd wear yours out",
+ "style": "1985 British art-pop, theatrical female mezzo-soprano vocal, breathy verses and keening soaring chorus, 106 BPM, B-flat minor over a dark drone, relentless, ritualistic, galloping deep tom-tom drum pattern with dry electronic kick, breathy lo-fi sampled cello-and-sigh hook, sustained dark synth drone, plucked string synth figures, distant delayed electric guitar growl, deep sub pedal bass, layered whispers, pitch-shifted low voice answering in the bridge, chanted one-note bridge, dark wide immersive mix, long reverbs, faint rain ambience, yearning, mystical, urgent",
+ "negativeTags": "cymbals, hi-hats, male lead vocals, acoustic guitar, saxophone, bright pop, trap, rap",
+ "vocalGender": "f",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 270,
+ "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "e80_04",
+  "title": "Meet Me in the Monsoon",
+  "collection": "eighties",
+  "album": "80s Reimagined",
+  "track": 4,
+  "slug": "e80_04_meet_me_in_the_monsoon",
+  "inspiredBy": "Africa (Toto, 1982)",
+  "leadVoice": "Verses by a soft, slightly husky male baritone-tenor, sung close and conversational. Choruses by a different, higher tenor leading a five-part stacked harmony wall, smooth and blended, with a wordless 'oh-oh' answer.",
+  "model": "V6",
+  "style": "1982 West Coast yacht rock, soft rock with world percussion, husky soft male verse vocal and a higher tenor leading huge five-part stacked chorus harmonies, 92 BPM, verses in A major, chorus lifting to B major, warm, wistful, conga and shaker loop, kalimba and marimba ostinato, bell-like digital keys, fat brassy analog synth chords, fretless bass slides, clean guitar fills, soft deep snare, flute-like synth solo, lush polished studio mix, hall reverb, rain and distant thunder ambience, longing, widescreen, redemptive",
+  "negativeTags": "distorted guitar, heavy drums, female lead vocals, trap hi-hats, EDM, rap, autotune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: rain, congas and shaker, kalimba motif, brass synth hook]\n\n[Verse 1: soft husky vocal, percussion, bass, electric piano]\nI heard the cicadas tuning up at noon\nThe old men say it means the sky is due\nThere's a map on my wall with a pin in the sand\nIn a place I only know from you\n\n[Verse 2: add clean guitar fills]\nThe pilot says the desert's two hours west\nI check my watch against a dream I had\nYou wrote, \"The rain smells like a penny here\"\nI never knew I missed a thing so bad\n\n[Chorus: key lifts, huge stacked harmonies, drums open]\nMeet me in the monsoon\nWhere the dry riverbeds remember how to run\nI've been thirsty in a house full of water\nI counted every summer and I only needed one\nMeet me in the monsoon\n(Oh-oh, oh-oh)\n\n[Verse 3: back to a hush]\nThe saguaros lift their arms up like a choir\nOlder than anything that I regret\nI'm hurrying toward a thing I cannot name\nIs it you, or who I haven't been yet?\n\n[Chorus: huge stacked harmonies]\nMeet me in the monsoon\nWhere the dry riverbeds remember how to run\nI've been thirsty in a house full of water\nI counted every summer and I only needed one\nMeet me in the monsoon\n(Oh-oh, oh-oh)\n\n[Instrumental Solo: flute synth and marimba trading phrases]\n\n[Bridge: whispered group chant over percussion, building]\n(Hurry now, the wash is filling)\n(Hurry now, the sky is willing)\n(Hurry now, the wash is filling)\n(Hurry now)\n\n[Final Chorus: extended, full harmony wall]\nMeet me in the monsoon\nWhere the dry riverbeds remember how to run\nI've been thirsty in a house full of water\nI counted every summer and I only needed one\nMeet me in the monsoon\nMeet me in the monsoon\nWhere the thunder says the things we never could\nMeet me in the monsoon\n(Oh-oh, oh-oh)\nI'm gonna stand there 'til I'm good\n\n[Outro: harmonies repeat, band thins to rain, fade out]\n(Meet me, meet me)\n(Meet me in the monsoon)",
+  "taskId": "d7d6da95466b4d6d85202f636d3b5741",
+  "sunoClipIds": [
+    "27dd3a43-623c-4261-a9da-e21a6fe79266",
+    "53cf4d95-f82f-4c0b-9117-51194b431857"
+  ],
+  "created": "Nov 15, 2026 6:21 PM ET",
+  "createTimeMs": 1794784881481,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "27dd3a43-623c-4261-a9da-e21a6fe79266",
+      "durationSec": 254.16,
+      "file": "eighties/e80_04_meet_me_in_the_monsoon_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "53cf4d95-f82f-4c0b-9117-51194b431857",
+      "durationSec": 254.64,
+      "file": "eighties/e80_04_meet_me_in_the_monsoon_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "eighties/e80_04_meet_me_in_the_monsoon_req.json",
+    "eighties/e80_04_meet_me_in_the_monsoon_rec.json"
+  ],
+  "cover": "eighties/covers/e80_04_meet_me_in_the_monsoon.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 92 BPM, 4/4 with a lazy half-time sway, verses in A major and the chorus lifting a whole step to B major so it feels like the sky opening. Warm, wistful and widescreen.\n\nVOICE: Verses by a soft, slightly husky male baritone-tenor, sung close and conversational. Choruses by a different, higher tenor leading a five-part stacked harmony wall, smooth and blended, with a wordless 'oh-oh' answer.\n\nINSTRUMENTS: A looping hand-percussion bed (congas, shaker, a soft cowbell tick). A kalimba and marimba ostinato doubled by a bell-like digital keyboard. Fat, brassy analog poly-synth chords. Fretless-style bass with gentle slides. Clean electric guitar adding small fills. Brushed, laid-back drum kit with a deep, soft snare. A breathy flute-like synth for the solo.\n\nARRANGEMENT MAP: 0:00 Intro, rain ambience, then percussion loop and the kalimba motif, with the brass-synth hook at 0:10. 0:26 Verse 1, percussion, bass and electric piano only. 0:52 Verse 2, add guitar fills. 1:18 Chorus 1, key lifts, full harmony wall, drums open up. 1:44 Verse 3, back down to hush. 2:10 Chorus 2. 2:36 Solo, flute-synth and marimba trading 2-bar phrases. 3:02 Bridge, whispered group chant over percussion alone, building. 3:15 Final extended chorus with a new closing couplet. 3:50 Outro, harmonies repeat 'meet me' while the band thins to percussion and rain, fading at 4:05.\n\nPRODUCTION & MIX: Lush and expensive-sounding. Smooth compression, long hall reverb on the harmony stack, percussion spread wide, bass warm and centred.\n\nSIGNATURE MOMENT: The step up into the first chorus, where one voice becomes many and the key changes under your feet.\n\nMODERN POINT OF VIEW: Real field-recorded desert rain and distant thunder open and close the track. A deep sub swell lands on each chorus downbeat.\n\nEMOTIONAL ARC: Longing, arrival, then release. It should feel like the first rain after a dry year.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1982 West Coast yacht rock, soft rock with world percussion, husky soft male verse vocal and a higher tenor leading huge five-part stacked chorus harmonies, 92 BPM, verses in A major, chorus lifting to B major, warm, wistful, conga and shaker loop, kalimba and marimba ostinato, bell-like digital keys, fat brassy analog synth chords, fretless bass slides, clean guitar fills, soft deep snare, flute-like synth solo, lush polished studio mix, hall reverb, rain and distant thunder ambience, longing, widescreen, redemptive\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, heavy drums, female lead vocals, trap hi-hats, EDM, rap, autotune\n\nWHAT IT IS ABOUT\n\nA traveller flies toward a desert they only know from someone's letters, arriving just as the summer storms break. They aren't sure if they're chasing a person or the self they haven't become.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a long-distance love story; a homecoming to the American Southwest; a midlife reset ('thirsty in a house full of water' is comfort without meaning); recovery and renewal; or faith returning after a dry season. The 'you' is never pinned down, exactly like the original.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: hushed, bookish verses, a chorus built for a room full of voices, and a geography talking point. Here the trick is reversed: a monsoon in the desert sounds like a mistake but is real, so the 'well, actually' crowd gets to explain it. Designed mishearing: 'Meet me in the monsoon' is heard as 'Meet me in the moon, soon', which is just as romantic.",
+  "workbookAtAGlance": "Meet Me in the Monsoon\n\nBackup titles\nThirsty in a House Full of Water / The Rain Smells Like a Penny\n\nAt a glance\n92 BPM, A major, chorus lifts to B\nVoice: Soft male lead, big stacked harmonies\nLength: about 4 minutes"
+}

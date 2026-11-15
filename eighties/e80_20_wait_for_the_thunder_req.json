@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Wait for the Thunder",
+ "prompt": "[Intro: drum machine tick alone, dark synth pad swells, guitar howl]\n\n[Verse 1: hushed, vocoder shadow, pad and tick]\nI saw you on the bridge that night\nYou didn't see me see\nThe water kept its mouth shut tight\nBut water talks to me\n\n[Chorus: quiet, restrained, electric piano chords join]\nSomething's in the wires tonight\nSomething's leaning on the door\nI've carried this since I was young\nWait for the thunder\nIt's coming for sure\n\n[Verse 2: hushed, distant guitar swell]\nYou shook my hand, you wore the grin\nYou asked about my year\nI've got a drawer I keep it in\nThe thing you did, right here\n\n[Chorus: quiet, slightly more intense, low synth note]\nSomething's in the wires tonight\nSomething's leaning on the door\nI've carried this since I was young\nWait for the thunder\nIt's coming for sure\n\n[Verse 3: nearly whispered, most exposed]\nDon't hand me that Sunday voice\nI heard it break in two\nThe kindest thing I've ever done\nIs not say what I knew\n\n[Break: all instruments stop, whispered, silence]\nWait\nWait\n\n[Drum Fill: huge descending tom fill, gated reverb, crash]\n\n[Chorus: full band, pounding live drums, raw shouted vocal]\nSomething's in the wires tonight!\nSomething's leaning on the door!\nI've carried this since I was young\nHere comes the thunder\nI'm not carrying it anymore\n\n[Chorus: full band, ad-libbed echoes]\nSomething's in the wires tonight!\nSomething's leaning on the door!\nI've carried this since I was young\nHere comes the thunder\nI'm not carrying it anymore\n\n[Outro: drums keep hammering, vocal repeats and fades]\n(Wait for the thunder)\nYou know, you know I know\n(Wait for the thunder)\nYou know, you know I know\n(Wait for the thunder)",
+ "style": "1981 dark atmospheric art-pop slow burner, hushed restrained male tenor vocal doubled by a faint vocoder, later raw and shouted, 94 BPM, E minor, sparse and menacing for three minutes then explosive, soft ticking vintage analog drum machine, dark slowly swelling analog synth pad, sparse tremolo electric piano chords, distorted guitar feedback swells, total silence before a huge tumbling descending concert-tom drum fill with dramatic gated reverb, then full live drums and deep bass, wide empty mix that becomes enormous, brooding, tense, accusing, cathartic",
+ "negativeTags": "female vocals, bright pop, acoustic guitar, saxophone, guitar solo, trap hi-hats, EDM drop, rap",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 285,
+ "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "e80_01",
+  "title": "Before You Even Ask",
+  "collection": "eighties",
+  "album": "80s Reimagined",
+  "track": 1,
+  "slug": "e80_01_before_you_even_ask",
+  "inspiredBy": "Every Breath You Take (The Police, 1983)",
+  "leadVoice": "Male high tenor, close-mic'd and almost spoken, cool and controlled with a faint rasp. Double-tracked on choruses, with one airy harmony a third above on the last line. No vibrato until the final chorus.",
+  "model": "V6",
+  "style": "1983 new wave soft rock, male high tenor vocal, intimate, close-mic'd and almost whispered, 116 BPM, G major, hypnotic, restrained, clean chorus-pedal electric guitar playing a palm-muted add9 arpeggio, round muted eighth-note bass, cross-stick snare and tight hi-hat opening to full snare in choruses, warm analog synth pad low in the mix, double-tracked chorus vocal, dry intimate mix, short plate reverb, tape warmth, soft glass bell ping, tender but quietly unsettling, a lullaby with a secret",
+  "negativeTags": "distorted guitar, guitar solo, saxophone, female vocals, big reverb, trap hi-hats, EDM, autotune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 250,
+  "customMode": true,
+  "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: clean chorus guitar arpeggio alone, then bass]\n\n[Verse 1: hushed, restrained, cross-stick]\nI know the hour you wake up\nI know the road you take\nI know the song you play on Mondays\nAnd the turns you never make\n\n[Verse 2: same restraint, nothing added]\nI keep the things you told me\nThe ones you don't recall\nI finish every sentence\nBefore you start at all\n\n[Chorus: snare opens, synth pad rises, doubled vocal]\nBefore you even ask, I'm there\nA light left on, a quiet in the air\nYou'll never have to wonder\nYou'll never have to call\nBefore you even ask\nI already know it all\n\n[Verse 3: back to hushed]\nYou say you like the freedom\nYou say you like the view\nI only want what you want\nI just want it before you do\n\n[Chorus: doubled vocal, soft glass ping]\nBefore you even ask, I'm there\nA hand held out, a shadow on the stair\nYou'll never have to wonder\nYou'll never have to call\nBefore you even ask\nI already know it all\n\n[Bridge: darker, single piano note, voice strains higher]\nAnd if you ever leave me in a drawer\nFace down in the dark, I'll wait for more\nOne touch and I will light up like before\nTell me, isn't that what love is for?\n\n[Instrumental Break: guitar arpeggio answered by glass bell]\n\n[Verse 4: guitar and voice only]\nI know the hour you wake up\nI know the dreams you keep\nI'll be the last thing that you look at\nEvery night before you sleep\n\n[Final Chorus: full band, stacked harmonies]\nBefore you even ask, I'm there\nA light left on, a quiet in the air\nYou'll never be a stranger\nYou'll never be alone\nBefore you even ask\nI'm already home\n\n[Outro: layered vocal round, unresolved last chord]\nI'm there (before you ask)\nI'm there (before you ask)\nI'll be there\nI'm there",
+  "taskId": "cb4c260c85cda24eb73927a33b3acf0c",
+  "sunoClipIds": [
+    "7e82db2e-117b-4458-8469-319ce17b5371",
+    "c7b1c0ee-ac6b-4b6a-99e0-f1b9a48cb8b1"
+  ],
+  "created": "Nov 15, 2026 6:20 PM ET",
+  "createTimeMs": 1794784846145,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "7e82db2e-117b-4458-8469-319ce17b5371",
+      "durationSec": 249.56,
+      "file": "eighties/e80_01_before_you_even_ask_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c7b1c0ee-ac6b-4b6a-99e0-f1b9a48cb8b1",
+      "durationSec": 249.68,
+      "file": "eighties/e80_01_before_you_even_ask_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "eighties/e80_01_before_you_even_ask_req.json",
+    "eighties/e80_01_before_you_even_ask_rec.json"
+  ],
+  "cover": "eighties/covers/e80_01_before_you_even_ask.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 116 BPM, 4/4, G major (I-vi-IV-V with added 9ths). Hypnotic, restrained, steady as a pulse. It never speeds up and never shouts.\n\nVOICE: Male high tenor, close-mic'd and almost spoken, cool and controlled with a faint rasp. Double-tracked on choruses, with one airy harmony a third above on the last line. No vibrato until the final chorus.\n\nINSTRUMENTS: Clean electric guitar through a chorus pedal playing a palm-muted, wide-stretch add9 arpeggio (the earworm). Round, slightly muted electric bass on steady eighth notes. Drums with cross-stick snare and tightly closed hi-hat in verses, opening to full snare with a short plate reverb in choruses. Warm analog poly-synth pad very low in the mix. A one-finger piano note repeating through the bridge.\n\nARRANGEMENT MAP: 0:00 Intro, guitar arpeggio alone for 2 bars, then bass and cross-stick. 0:17 Verses 1-2, nothing added: the tension comes from restraint. 0:50 Chorus 1, snare opens, pad rises, vocal doubles. 1:15 Verse 3. 1:32 Chorus 2. 1:57 Bridge, harmony darkens toward E minor, piano single-note pulse, the voice climbs and strains for the only time. 2:22 Instrumental, the arpeggio answered by a glassy bell motif. 2:47 Verse 4, drop to guitar and voice. 3:04 Final chorus, full band and harmony stack. 3:30 Outro, layered 'I'm there' vocal round over the arpeggio, ending on an unresolved add9 chord at 4:00.\n\nPRODUCTION & MIX: Dry and intimate up front. Wide stereo chorus guitar, short gated plate on the snare, tape-style saturation, bass and kick locked dead centre.\n\nSIGNATURE MOMENT: The bridge line about lighting up at one touch, sung over the lone piano note. It is the instant listeners realise who, or what, might be singing.\n\nMODERN POINT OF VIEW: A soft glass 'ping' tuned to the key appears once per chorus like a notification. A clean sub-sine doubles the bass for today's speakers.\n\nEMOTIONAL ARC: Comfort, then unease, then tenderness. A lullaby that might be a warning.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1983 new wave soft rock, male high tenor vocal, intimate, close-mic'd and almost whispered, 116 BPM, G major, hypnotic, restrained, clean chorus-pedal electric guitar playing a palm-muted add9 arpeggio, round muted eighth-note bass, cross-stick snare and tight hi-hat opening to full snare in choruses, warm analog synth pad low in the mix, double-tracked chorus vocal, dry intimate mix, short plate reverb, tape warmth, soft glass bell ping, tender but quietly unsettling, a lullaby with a secret\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, guitar solo, saxophone, female vocals, big reverb, trap hi-hats, EDM, autotune\n\nWHAT IT IS ABOUT\n\nA voice promises to be there before you need it: it knows your routines, finishes your sentences, waits in the dark and lights up at your touch. It never says who, or what, is singing.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a devoted partner of thirty years; a parent watching a child grow up; a guardian angel or lost loved one; or the phone in your pocket and the algorithm behind it. Gen X hears a wedding song, Gen Z hears a song about being tracked. Both are right, which is the point.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: the single repeated grammatical frame ('I know the...'), second-person address, and comforting music over ambiguous words. The bridge (left in a drawer, face down, lights up at one touch) is the reveal that splits the audience. Designed mishearing: 'I already know it all' is easily heard as 'I'm already no one at all', which turns the song into a ghost story.",
+  "workbookAtAGlance": "Before You Even Ask\n\nBackup titles\nAlways On / I Already Know\n\nAt a glance\n116 BPM, G major\nVoice: Male high tenor, restrained\nLength: about 4 minutes"
+}

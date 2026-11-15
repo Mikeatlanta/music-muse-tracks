@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Kindness Is a Riot",
+ "prompt": "[Intro: bass riff and finger snaps, piano joins, scat vocals]\nDoo-lay, doo-lay, ah-ha\nDoo-lay, doo-lay, ooh\nDoo-lay, doo-lay, ah-ha\n(Hey)\n\n[Verse 1: tenor then baritone trading lines, bass and snaps]\nBuzzing in my pocket, ringing in my teeth\nA hundred little fires and I can't find the street\nThe news is at the window, the bills are at the door\nThe ceiling's on the carpet and I can't find the floor\n\n[Pre-Chorus: guitar arpeggios, rising piano]\nIt's the weight of the day after day after day\nIt's the wait for a word nobody will say\n\n[Chorus: drums open, both voices in unison]\nSo be kind, be loud about it\nBe kind, stand up and shout it\nWhen the whole world's wound up tight\nKindness is a riot tonight\n\n[Scat Break: playful scat vocals over bass and snaps]\nDoo-lay, doo-lay, ah-ha\nDoo-lay, doo-lay, ooh\n\n[Verse 2: baritone then tenor, quieter and closer]\nI watched a stranger crumble on the six-fifteen train\nI watched another stranger hold her 'til she knew her name\nNobody filmed it, nobody cheered\nSomething almost holy just appeared\n\n[Pre-Chorus: guitar arpeggios, rising piano]\nIt's the weight of the day after day after day\nIt's the wait for a word nobody will say\n\n[Chorus: drums open, both voices in unison]\nSo be kind, be loud about it\nBe kind, stand up and shout it\nWhen the whole world's wound up tight\nKindness is a riot tonight\n\n[Breakdown: snaps, organ, near whispers, building bar by bar]\nWhat if we, what if we, what if we did?\nWhat if we, what if we, what if we did?\nTurn it down, turn it down\nTurn it all the way up!\n\n[Bridge: climax, operatic tenor at full power, piano, choir]\nGive it away, give it away\nIt's the only thing that stays\nGive it away, give it away\nIt's the only thing that stays\n\n[Final Chorus: both voices and choir]\nSo be kind, be loud about it\nBe kind, stand up and shout it\nWhen the whole world's wound up tight\nKindness is a riot tonight\nKindness is a riot tonight\n\n[Outro: bass and snaps, last scat, final words spoken alone]\nDoo-lay, doo-lay, ah-ha\nBe kind",
+ "style": "1981 British art-rock duet, two contrasting male vocals trading lines, a flamboyant operatic tenor with falsetto leaps and scat singing and a cool dry baritone, 112 BPM, A major, dynamic from sparse to enormous, bouncing six-note electric bass riff with a rest, doubled by piano, finger snaps and handclaps, clean chiming guitar arpeggios, bright piano, tight drums, organ pad, multi-tracked choir at the climax, quiet whispered breakdown building to a full-voice peak, ending on bass, snaps and a spoken line, live roomy mix, anxious, compassionate, cathartic",
+ "negativeTags": "female lead vocals, drum machine, synth-pop, saxophone, trap hi-hats, EDM, rap, autotune",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 250,
+ "callBackUrl": "https://example.com/cb"
+}

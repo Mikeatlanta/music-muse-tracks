@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Call It Recess",
+ "prompt": "[Intro: school bell, gang shout, bubbling synth riff, handclaps]\n(Everybody out! Everybody out!)\n\n[Verse 1: bass, claps and voice, riff answers each line]\nThe alarm goes off like a tiny lawyer\nMy daughter says, \"Mom, you forgot how to play\"\nKid, I wrote the manual on it\nI just filed it under \"someday\"\n\n[Chorus: full arrangement, gang shouts]\nSo call it recess (ring that bell!)\nWe've been good so long, been good so well\nPut the grown-up down, let the wild one out\nCall it recess\nThat's what it's all about\n(Everybody out! Everybody out!)\n\n[Verse 2: bass, claps and voice, hiccups and asides]\nThree o'clock and the meeting's eternal\nMy mother texts, \"Are you getting your rest?\"\nMa, you didn't raise a spreadsheet\nYou raised a firework under a desk\n\n[Chorus: full arrangement, gang shouts]\nSo call it recess (ring that bell!)\nWe've been good so long, been good so well\nPut the grown-up down, let the wild one out\nCall it recess\nThat's what it's all about\n(Everybody out! Everybody out!)\n\n[Synth Solo: wobbly whistling lead, chopped vocal snippets]\n\n[Bridge: half-time, soft, sincere, close warm voice]\nThey take a kid who's all bright colors\nHand her beige and a set of keys\nI'm gonna find that kid tonight\nAnd tell her, \"Come outside with me\"\n\n[Chorus: drum fill, bell, full arrangement]\nSo call it recess (ring that bell!)\nWe've been good so long, been good so well\nPut the grown-up down, let the wild one out\nCall it recess\nThat's what it's all about\n\n[Final Chorus: squeals and spoken asides over the top]\nCall it recess (ring that bell!)\nWe've been good so long, been good so well\nPut the grown-up down, let the wild one out\nCall it recess\nThat's what it's all about\n(Everybody out! Everybody out!)\n\n[Outro: call and response with the gang, last bell and a laugh]\n(Everybody out!) Recess!\n(Everybody out!) Call it recess!\n(Everybody out!) Recess!\n(Everybody out!)",
+ "style": "1983 quirky new wave dance-pop, bright characterful female soprano vocal with hiccups, squeaks, spoken asides and a big belt, 122 BPM, G major, bouncy, mischievous, bubbling toy-organ-and-marimba synth riff, bouncy synth bass, drum machine with crisp handclaps on the backbeat, clean off-beat reggae-tinged guitar upstrokes, bright synth-brass stabs, whistling wobbly synth solo, school bell sound effect, mixed gang backing shouts, softer sincere half-time bridge, bright punchy colourful mix, playful, liberated, joyful, party",
+ "negativeTags": "male lead vocals, distorted guitar, dark mood, slow ballad, saxophone, trap hi-hats, rap",
+ "vocalGender": "f",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 245,
+ "callBackUrl": "https://example.com/cb"
+}

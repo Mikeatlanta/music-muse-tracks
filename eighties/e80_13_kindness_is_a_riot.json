@@ -1,0 +1,51 @@
+{
+  "id": "e80_13",
+  "title": "Kindness Is a Riot",
+  "collection": "eighties",
+  "album": "80s Reimagined",
+  "track": 13,
+  "slug": "e80_13_kindness_is_a_riot",
+  "inspiredBy": "Under Pressure (Queen & David Bowie, 1981)",
+  "leadVoice": "A duet for two contrasting male voices. Voice A is a flamboyant, operatic tenor with a huge range who leaps into falsetto and takes the scat lines, verse lines 1-2 and the climax. Voice B is a cool, dry, slightly detached baritone who takes verse lines 3-4 and speaks the last words. They trade lines, then join in unison on the chorus, with a multi-tracked choir behind them at the climax.",
+  "model": "V6",
+  "style": "1981 British art-rock duet, two contrasting male vocals trading lines, a flamboyant operatic tenor with falsetto leaps and scat singing and a cool dry baritone, 112 BPM, A major, dynamic from sparse to enormous, bouncing six-note electric bass riff with a rest, doubled by piano, finger snaps and handclaps, clean chiming guitar arpeggios, bright piano, tight drums, organ pad, multi-tracked choir at the climax, quiet whispered breakdown building to a full-voice peak, ending on bass, snaps and a spoken line, live roomy mix, anxious, compassionate, cathartic",
+  "negativeTags": "female lead vocals, drum machine, synth-pop, saxophone, trap hi-hats, EDM, rap, autotune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 250,
+  "customMode": true,
+  "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bass riff and finger snaps, piano joins, scat vocals]\nDoo-lay, doo-lay, ah-ha\nDoo-lay, doo-lay, ooh\nDoo-lay, doo-lay, ah-ha\n(Hey)\n\n[Verse 1: tenor then baritone trading lines, bass and snaps]\nBuzzing in my pocket, ringing in my teeth\nA hundred little fires and I can't find the street\nThe news is at the window, the bills are at the door\nThe ceiling's on the carpet and I can't find the floor\n\n[Pre-Chorus: guitar arpeggios, rising piano]\nIt's the weight of the day after day after day\nIt's the wait for a word nobody will say\n\n[Chorus: drums open, both voices in unison]\nSo be kind, be loud about it\nBe kind, stand up and shout it\nWhen the whole world's wound up tight\nKindness is a riot tonight\n\n[Scat Break: playful scat vocals over bass and snaps]\nDoo-lay, doo-lay, ah-ha\nDoo-lay, doo-lay, ooh\n\n[Verse 2: baritone then tenor, quieter and closer]\nI watched a stranger crumble on the six-fifteen train\nI watched another stranger hold her 'til she knew her name\nNobody filmed it, nobody cheered\nSomething almost holy just appeared\n\n[Pre-Chorus: guitar arpeggios, rising piano]\nIt's the weight of the day after day after day\nIt's the wait for a word nobody will say\n\n[Chorus: drums open, both voices in unison]\nSo be kind, be loud about it\nBe kind, stand up and shout it\nWhen the whole world's wound up tight\nKindness is a riot tonight\n\n[Breakdown: snaps, organ, near whispers, building bar by bar]\nWhat if we, what if we, what if we did?\nWhat if we, what if we, what if we did?\nTurn it down, turn it down\nTurn it all the way up!\n\n[Bridge: climax, operatic tenor at full power, piano, choir]\nGive it away, give it away\nIt's the only thing that stays\nGive it away, give it away\nIt's the only thing that stays\n\n[Final Chorus: both voices and choir]\nSo be kind, be loud about it\nBe kind, stand up and shout it\nWhen the whole world's wound up tight\nKindness is a riot tonight\nKindness is a riot tonight\n\n[Outro: bass and snaps, last scat, final words spoken alone]\nDoo-lay, doo-lay, ah-ha\nBe kind",
+  "taskId": "abbd7f5fe95c0aaeede5968884a73b32",
+  "sunoClipIds": [
+    "c4977416-2131-4ce2-bdb9-6d840ab368a6",
+    "12a9e085-be08-42e1-be9b-f3b356df9619"
+  ],
+  "created": "Nov 15, 2026 6:21 PM ET",
+  "createTimeMs": 1794784900232,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "c4977416-2131-4ce2-bdb9-6d840ab368a6",
+      "durationSec": 248.76,
+      "file": "eighties/e80_13_kindness_is_a_riot_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "12a9e085-be08-42e1-be9b-f3b356df9619",
+      "durationSec": 249.56,
+      "file": "eighties/e80_13_kindness_is_a_riot_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "eighties/e80_13_kindness_is_a_riot_req.json",
+    "eighties/e80_13_kindness_is_a_riot_rec.json"
+  ],
+  "cover": "eighties/covers/e80_13_kindness_is_a_riot.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, A major, built on a two-bar bass figure. Springy and nervous at first, then enormous, then suddenly intimate.\n\nVOICE: A duet for two contrasting male voices. Voice A is a flamboyant, operatic tenor with a huge range who leaps into falsetto and takes the scat lines, verse lines 1-2 and the climax. Voice B is a cool, dry, slightly detached baritone who takes verse lines 3-4 and speaks the last words. They trade lines, then join in unison on the chorus, with a multi-tracked choir behind them at the climax.\n\nINSTRUMENTS: Electric bass playing a short, bouncing six-note figure with a held rest, doubled an octave up by piano (the earworm). Finger snaps and handclaps on the backbeat. Clean, chiming electric guitar arpeggios. Bright piano chords. Tight drums that stay on hi-hat and snaps until the choruses. A soft organ pad beneath the breakdown.\n\nARRANGEMENT MAP: 0:00 Intro, bass figure and finger snaps alone, piano doubles at 0:09, scat vocals trade at 0:17. 0:34 Verse 1, voices A then B over bass, snaps and hi-hat. 0:51 Pre-chorus, guitar arpeggios and a rising piano line. 1:00 Chorus 1, drums open, unison vocals. 1:17 Scat break. 1:26 Verse 2, B then A, a little quieter and closer. 1:43 Pre-chorus. 1:52 Chorus 2. 2:09 Breakdown, everything drops to snaps, organ and near-whispers, then builds bar by bar for 16 bars. 2:43 Climax, voice A at full operatic power over crashing piano and the choir. 3:17 Final chorus, both voices and choir, with the last line repeated. 3:43 Outro, back to bass and snaps, one last scat, then voice B says the final two words alone at 4:00.\n\nPRODUCTION & MIX: Live, roomy and dynamic, with real loud-quiet contrast instead of constant loudness. The bass is the lead instrument in the mix. Voices panned slightly apart so the conversation is clear.\n\nSIGNATURE MOMENT: The swing from the whispered breakdown to the full-voice climax, and the final dry, spoken 'be kind'.\n\nMODERN POINT OF VIEW: A phone-vibration buzz is tuned into the first bar of verse 1. The choir stack is huge and modern, but the finger snaps stay raw and human.\n\nEMOTIONAL ARC: Anxiety, witness, catharsis, then calm.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1981 British art-rock duet, two contrasting male vocals trading lines, a flamboyant operatic tenor with falsetto leaps and scat singing and a cool dry baritone, 112 BPM, A major, dynamic from sparse to enormous, bouncing six-note electric bass riff with a rest, doubled by piano, finger snaps and handclaps, clean chiming guitar arpeggios, bright piano, tight drums, organ pad, multi-tracked choir at the climax, quiet whispered breakdown building to a full-voice peak, ending on bass, snaps and a spoken line, live roomy mix, anxious, compassionate, cathartic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale lead vocals, drum machine, synth-pop, saxophone, trap hi-hats, EDM, rap, autotune\n\nWHAT IT IS ABOUT\n\nTwo voices trade panic about a world that will not stop buzzing, then notice a stranger holding up another stranger on a train. The answer they reach is loud, public, unembarrassed kindness.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a burnout anthem for the notification age; a protest song where the protest is decency; a duet between two generations; a church-friendly message song; or a comedy title, since 'a riot' also means hilarious. 'Weight' and 'wait' are sung identically on purpose, so the pre-chorus says two things at once.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a bass-and-finger-snap hook, scat that listeners will each transcribe differently, two contrasting voices in conversation, and a quiet breakdown that explodes into a moral. Designed mishearing: the invented scat syllables ('doo-lay, doo-lay') have no correct spelling, and the title is heard as 'Kindness is a rite' or 'Kind of a quiet night'.",
+  "workbookAtAGlance": "Kindness Is a Riot\n\nBackup titles\nThe Weight (and the Wait) / Be Loud About It\n\nAt a glance\n112 BPM, A major\nVoice: Male duet: flamboyant tenor and cool baritone\nLength: about 4 minutes"
+}

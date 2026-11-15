@@ -1,0 +1,51 @@
+{
+  "id": "e80_09",
+  "title": "Everybody's Selling Something",
+  "collection": "eighties",
+  "album": "80s Reimagined",
+  "track": 9,
+  "slug": "e80_09_everybodys_selling_something",
+  "inspiredBy": "Sweet Dreams (Are Made of This) (Eurythmics, 1983)",
+  "leadVoice": "Cool, low female contralto with an androgynous colour: precise, unsmiling, almost spoken, with no vibrato. Wordless multi-tracked 'ah' harmonies stacked like a choir in the breaks. Backing answers in parentheses are sung by the same voice an octave up.",
+  "model": "V6",
+  "style": "1983 cold minimalist British synth-pop, cool low androgynous female contralto vocal, precise and unsmiling, 124 BPM, A minor, hypnotic, mechanical, two interlocking analog synth sequences forming a dark riff, heavy four-on-the-floor electronic kick, thin electronic snare and clap, sub-heavy synth bass, staccato synth string stabs, tapped-glass metallic percussion, multi-tracked wordless choir-like harmonies, call-and-response hook, stark spacious mix, sparse breakdown with voice and kick only, detached, knowing, cinematic, slightly menacing",
+  "negativeTags": "guitar, acoustic instruments, male lead vocals, live drums, saxophone, warm ballad, trap hi-hats, rap",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 250,
+  "customMode": true,
+  "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: dark interlocking synth riff, heavy kick]\n\n[Verse 1: cool, low, deadpan]\nEverybody's selling something\nTell me what you came to buy\nI've been up and down the market\nEverybody's got a price or a lie\n\n[Verse 2: cool, low, deadpan]\nHalf of them will sell you mirrors\nHalf of them will sell you doors\nOne of them just wants you wanting\nAll of them want you wanting more\n\n[Chorus: call and response hook, claps]\nStep right up (don't look down)\nStep right up (it's your turn now)\nStep right up (don't look down)\nThe carnival is the whole town\n\n[Interlude: wordless choir-like harmonies over the riff]\n(Ah, ah, ah)\n\n[Verse 3: cool, low]\nI sold a summer for a title\nI sold the title for a view\nI sold the view to buy the summer\nBack at twice the price from you\n\n[Verse 4: add staccato string stabs]\nEverybody's selling something\nEven silence has a fee\nI would give you this for nothing\nBut nothing's the most expensive thing on me\n\n[Chorus: call and response hook, claps]\nStep right up (don't look down)\nStep right up (it's your turn now)\nStep right up (don't look down)\nThe carnival is the whole town\n\n[Breakdown: kick, voice and tapped glass only, tense]\nEverybody's selling something\nEverybody's selling something\n(What did you come to buy?)\n(What did you come to buy?)\n\n[Verse: synth riff slams back in]\nEverybody's selling something\nTell me what you came to buy\nI've been up and down the market\nEverybody's got a price or a lie\n\n[Chorus: repeated, layered harmonies]\nStep right up (don't look down)\nStep right up (it's your turn now)\nStep right up (don't look down)\nThe carnival is the whole town\n\n[Outro: riff and whispered question, sudden cut]\nStep right up\nStep right up\n(What did you come to buy?)",
+  "taskId": "dc4ba73f45f3bf036d4bfcccb8ba9ccd",
+  "sunoClipIds": [
+    "ed1275e9-2295-4e46-9ebe-35bf1d2510e0",
+    "58313ba1-ea93-4e65-8e5f-84a3b7fccbd7"
+  ],
+  "created": "Nov 15, 2026 6:21 PM ET",
+  "createTimeMs": 1794784904145,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ed1275e9-2295-4e46-9ebe-35bf1d2510e0",
+      "durationSec": 249.52,
+      "file": "eighties/e80_09_everybodys_selling_something_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "58313ba1-ea93-4e65-8e5f-84a3b7fccbd7",
+      "durationSec": 249.4,
+      "file": "eighties/e80_09_everybodys_selling_something_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "eighties/e80_09_everybodys_selling_something_req.json",
+    "eighties/e80_09_everybodys_selling_something_rec.json"
+  ],
+  "cover": "eighties/covers/e80_09_everybodys_selling_something.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, A minor, built on a single looping minor-key progression. Cold, hypnotic and mechanical, with an unblinking four-on-the-floor pulse.\n\nVOICE: Cool, low female contralto with an androgynous colour: precise, unsmiling, almost spoken, with no vibrato. Wordless multi-tracked 'ah' harmonies stacked like a choir in the breaks. Backing answers in parentheses are sung by the same voice an octave up.\n\nINSTRUMENTS: Two interlocking analog synth sequences, one low and buzzing, one higher and string-like, that together form the riff (the earworm). Heavy electronic kick on every beat. A sharp, thin electronic snare and clap. Sub-heavy synth bass doubling the low sequence. Staccato synthetic string stabs. A cold metallic percussion sound, like tapped glass bottles, in the breakdown. No guitars.\n\nARRANGEMENT MAP: 0:00 Intro, the two-part synth riff with kick for 8 bars. 0:16 Verse 1. 0:31 Verse 2. 0:47 Hook, call-and-response vocals with claps. 1:02 Vocal break, the wordless 'ah' harmony stack over the riff. 1:18 Verse 3. 1:33 Verse 4. 1:49 Hook. 2:04 Instrumental, the riff with string stabs and a high counter-melody. 2:20 Breakdown, everything out except kick, voice and the tapped-glass percussion: the trailer moment. 2:51 Riff slams back for the verse 1 reprise. 3:07 Hook, repeated with layered harmonies. 3:38 Outro, the riff and whispered question repeating, cutting dead at 4:00.\n\nPRODUCTION & MIX: Stark and spacious. Synths dry and upfront, a long dark reverb only on the harmony stacks, the kick hard and central. Nothing warm, nothing soft.\n\nSIGNATURE MOMENT: The riff. It should be recognisable in one bar and work under any scene from a heist to a fashion show.\n\nMODERN POINT OF VIEW: Deeper sub-bass and audible side-chain pumping against the kick. The breakdown is arranged like a modern film trailer, with a low impact hit before the riff returns.\n\nEMOTIONAL ARC: Detached, knowing, then defiant. It never smiles.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1983 cold minimalist British synth-pop, cool low androgynous female contralto vocal, precise and unsmiling, 124 BPM, A minor, hypnotic, mechanical, two interlocking analog synth sequences forming a dark riff, heavy four-on-the-floor electronic kick, thin electronic snare and clap, sub-heavy synth bass, staccato synth string stabs, tapped-glass metallic percussion, multi-tracked wordless choir-like harmonies, call-and-response hook, stark spacious mix, sparse breakdown with voice and kick only, detached, knowing, cinematic, slightly menacing\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nguitar, acoustic instruments, male lead vocals, live drums, saxophone, warm ballad, trap hi-hats, rap\n\nWHAT IT IS ABOUT\n\nA cold-eyed walk through a market where everyone has something to sell: mirrors, doors, a version of yourself. The singer has sold a summer for a title and bought it back at twice the price.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a jab at hustle culture and influencers; a wry anthem for anyone who works in sales; a comment on the 1980s and its greed; a spiritual song about what can't be bought; or a break-up song ('nothing's the most expensive thing on me'). The verse about selling a summer for a title is the midlife reading: trading time for status, then paying to get the time back.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a proverb instead of a story, a detached narrator, and a chanted instruction hook. The counting verse (half of them, half of them, one of them, all of them) is built for captions. Designed mishearing: 'Everybody's selling something' is heard as 'Everybody's sailing somewhere', a gentler song hiding inside the cynical one.",
+  "workbookAtAGlance": "Everybody's Selling Something\n\nBackup titles\nThe Carnival Is the Whole Town / Price or a Lie\n\nAt a glance\n124 BPM, A minor\nVoice: Cool androgynous contralto\nLength: about 4 minutes"
+}

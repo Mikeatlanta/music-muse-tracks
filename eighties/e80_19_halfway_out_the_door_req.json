@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Halfway Out the Door",
+ "prompt": "[Intro: synth pad, soft drum tick, bass pulse, sustained guitar note]\n\n[Verse 1: low murmur over bass and tick]\nI see the keys in your hand\nI see the coat that you won't put down\nYou're a tide that can't decide\nAnd I'm the shore, I don't make a sound\n\n[Verse 2: kick drum enters]\nI've been the cure and the thirst\nI've been the lock and I've been the thief\nYou hand me just enough of you\nTo keep me, to keep me on my knees\n\n[Chorus: still restrained, quiet]\nHalfway out the door\nHalfway in my arms\nI can't hold you here\nI can't let you go far\nHalfway out the door\n\n[Verse 3: voice rises an octave, floor tom joins]\nMaybe it's you, maybe a town\nMaybe a God that I can't put down\nSomething I love is taking me slow\nAnd I'd fall, I'd fall if it let me go\n\n[Chorus: shimmering delay guitar enters, snare begins]\nHalfway out the door\nHalfway in my arms\nI can't hold you here\nI can't let you go far\nHalfway out the door\n\n[Build: wordless rising vocal, every instrument growing]\nOh, oh, oh, oh\n(Stay) Oh, oh, oh, oh\n(Go) Oh, oh, oh, oh\n(Stay) Oh, oh, oh, oh\n\n[Chorus: climax, full drums, crashing cymbals, full-voice cry]\nHalfway out the door!\nHalfway in my arms!\nI can't hold you here\nI can't let you go far\nHalfway out the door\n\n[Instrumental: chiming delay guitar, descending, calming]\n\n[Outro: bass and one guitar note, whispered, unresolved]\nI see the keys in your hand\nI see the keys in my own",
+ "style": "1987 atmospheric Irish-style stadium rock, slow-burn ballad, male vocal starting as a low breathy murmur and rising to a full-throated wordless cry, 108 BPM, C major, one unchanging four-chord loop, builds from a whisper to a huge climax and back, pulsing eighth-note bass guitar, soft drum-machine tick giving way to live drums with booming floor tom and late snare, endless sustained violin-like electric guitar note, shimmering rhythmic delay guitar arpeggios entering late, warm synth pad, fragile whispered coda, spacious mix, huge reverbs, wide dynamics, aching, torn, spiritual, cathartic",
+ "negativeTags": "shredding guitar solo, female lead vocals, saxophone, piano ballad, trap hi-hats, EDM, rap, autotune",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 265,
+ "callBackUrl": "https://example.com/cb"
+}

@@ -3202,5 +3202,1025 @@
       "halloween/hw_06_hollow_playground_rec.json"
     ],
     "cover": "halloween/covers/hw_06_hollow_playground.jpg"
+  },
+  {
+    "id": "e80_01",
+    "title": "Before You Even Ask",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 1,
+    "slug": "e80_01_before_you_even_ask",
+    "inspiredBy": "Every Breath You Take (The Police, 1983)",
+    "leadVoice": "Male high tenor, close-mic'd and almost spoken, cool and controlled with a faint rasp. Double-tracked on choruses, with one airy harmony a third above on the last line. No vibrato until the final chorus.",
+    "model": "V6",
+    "style": "1983 new wave soft rock, male high tenor vocal, intimate, close-mic'd and almost whispered, 116 BPM, G major, hypnotic, restrained, clean chorus-pedal electric guitar playing a palm-muted add9 arpeggio, round muted eighth-note bass, cross-stick snare and tight hi-hat opening to full snare in choruses, warm analog synth pad low in the mix, double-tracked chorus vocal, dry intimate mix, short plate reverb, tape warmth, soft glass bell ping, tender but quietly unsettling, a lullaby with a secret",
+    "negativeTags": "distorted guitar, guitar solo, saxophone, female vocals, big reverb, trap hi-hats, EDM, autotune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 250,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: clean chorus guitar arpeggio alone, then bass]\n\n[Verse 1: hushed, restrained, cross-stick]\nI know the hour you wake up\nI know the road you take\nI know the song you play on Mondays\nAnd the turns you never make\n\n[Verse 2: same restraint, nothing added]\nI keep the things you told me\nThe ones you don't recall\nI finish every sentence\nBefore you start at all\n\n[Chorus: snare opens, synth pad rises, doubled vocal]\nBefore you even ask, I'm there\nA light left on, a quiet in the air\nYou'll never have to wonder\nYou'll never have to call\nBefore you even ask\nI already know it all\n\n[Verse 3: back to hushed]\nYou say you like the freedom\nYou say you like the view\nI only want what you want\nI just want it before you do\n\n[Chorus: doubled vocal, soft glass ping]\nBefore you even ask, I'm there\nA hand held out, a shadow on the stair\nYou'll never have to wonder\nYou'll never have to call\nBefore you even ask\nI already know it all\n\n[Bridge: darker, single piano note, voice strains higher]\nAnd if you ever leave me in a drawer\nFace down in the dark, I'll wait for more\nOne touch and I will light up like before\nTell me, isn't that what love is for?\n\n[Instrumental Break: guitar arpeggio answered by glass bell]\n\n[Verse 4: guitar and voice only]\nI know the hour you wake up\nI know the dreams you keep\nI'll be the last thing that you look at\nEvery night before you sleep\n\n[Final Chorus: full band, stacked harmonies]\nBefore you even ask, I'm there\nA light left on, a quiet in the air\nYou'll never be a stranger\nYou'll never be alone\nBefore you even ask\nI'm already home\n\n[Outro: layered vocal round, unresolved last chord]\nI'm there (before you ask)\nI'm there (before you ask)\nI'll be there\nI'm there",
+    "taskId": "cb4c260c85cda24eb73927a33b3acf0c",
+    "sunoClipIds": [
+      "7e82db2e-117b-4458-8469-319ce17b5371",
+      "c7b1c0ee-ac6b-4b6a-99e0-f1b9a48cb8b1"
+    ],
+    "created": "Nov 15, 2026 6:20 PM ET",
+    "createTimeMs": 1794784846145,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "7e82db2e-117b-4458-8469-319ce17b5371",
+        "durationSec": 249.56,
+        "file": "eighties/e80_01_before_you_even_ask_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "c7b1c0ee-ac6b-4b6a-99e0-f1b9a48cb8b1",
+        "durationSec": 249.68,
+        "file": "eighties/e80_01_before_you_even_ask_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_01_before_you_even_ask_req.json",
+      "eighties/e80_01_before_you_even_ask_rec.json"
+    ],
+    "cover": "eighties/covers/e80_01_before_you_even_ask.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 116 BPM, 4/4, G major (I-vi-IV-V with added 9ths). Hypnotic, restrained, steady as a pulse. It never speeds up and never shouts.\n\nVOICE: Male high tenor, close-mic'd and almost spoken, cool and controlled with a faint rasp. Double-tracked on choruses, with one airy harmony a third above on the last line. No vibrato until the final chorus.\n\nINSTRUMENTS: Clean electric guitar through a chorus pedal playing a palm-muted, wide-stretch add9 arpeggio (the earworm). Round, slightly muted electric bass on steady eighth notes. Drums with cross-stick snare and tightly closed hi-hat in verses, opening to full snare with a short plate reverb in choruses. Warm analog poly-synth pad very low in the mix. A one-finger piano note repeating through the bridge.\n\nARRANGEMENT MAP: 0:00 Intro, guitar arpeggio alone for 2 bars, then bass and cross-stick. 0:17 Verses 1-2, nothing added: the tension comes from restraint. 0:50 Chorus 1, snare opens, pad rises, vocal doubles. 1:15 Verse 3. 1:32 Chorus 2. 1:57 Bridge, harmony darkens toward E minor, piano single-note pulse, the voice climbs and strains for the only time. 2:22 Instrumental, the arpeggio answered by a glassy bell motif. 2:47 Verse 4, drop to guitar and voice. 3:04 Final chorus, full band and harmony stack. 3:30 Outro, layered 'I'm there' vocal round over the arpeggio, ending on an unresolved add9 chord at 4:00.\n\nPRODUCTION & MIX: Dry and intimate up front. Wide stereo chorus guitar, short gated plate on the snare, tape-style saturation, bass and kick locked dead centre.\n\nSIGNATURE MOMENT: The bridge line about lighting up at one touch, sung over the lone piano note. It is the instant listeners realise who, or what, might be singing.\n\nMODERN POINT OF VIEW: A soft glass 'ping' tuned to the key appears once per chorus like a notification. A clean sub-sine doubles the bass for today's speakers.\n\nEMOTIONAL ARC: Comfort, then unease, then tenderness. A lullaby that might be a warning.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1983 new wave soft rock, male high tenor vocal, intimate, close-mic'd and almost whispered, 116 BPM, G major, hypnotic, restrained, clean chorus-pedal electric guitar playing a palm-muted add9 arpeggio, round muted eighth-note bass, cross-stick snare and tight hi-hat opening to full snare in choruses, warm analog synth pad low in the mix, double-tracked chorus vocal, dry intimate mix, short plate reverb, tape warmth, soft glass bell ping, tender but quietly unsettling, a lullaby with a secret\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, guitar solo, saxophone, female vocals, big reverb, trap hi-hats, EDM, autotune\n\nWHAT IT IS ABOUT\n\nA voice promises to be there before you need it: it knows your routines, finishes your sentences, waits in the dark and lights up at your touch. It never says who, or what, is singing.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a devoted partner of thirty years; a parent watching a child grow up; a guardian angel or lost loved one; or the phone in your pocket and the algorithm behind it. Gen X hears a wedding song, Gen Z hears a song about being tracked. Both are right, which is the point.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: the single repeated grammatical frame ('I know the...'), second-person address, and comforting music over ambiguous words. The bridge (left in a drawer, face down, lights up at one touch) is the reveal that splits the audience. Designed mishearing: 'I already know it all' is easily heard as 'I'm already no one at all', which turns the song into a ghost story.",
+    "workbookAtAGlance": "Before You Even Ask\n\nBackup titles\nAlways On / I Already Know\n\nAt a glance\n116 BPM, G major\nVoice: Male high tenor, restrained\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_02",
+    "title": "Carolina Knows",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 2,
+    "slug": "e80_02_carolina_knows",
+    "inspiredBy": "Billie Jean (Michael Jackson, 1983)",
+    "leadVoice": "Male tenor, breathy and urgent, with clipped consonants used as percussion. Gasps, vocal catches and finger-snap ad-libs between lines. Chorus stacked in tight four-part harmony. Whispered 'she knows' answers panned hard left and right.",
+    "model": "V6",
+    "style": "1983 post-disco dance-funk pop, breathy urgent male tenor vocal with percussive gasps and ad-libs, 118 BPM, E minor, tense, paranoid, sleek, relentless staccato eighth-note synth bass ostinato, dry punchy drum machine with live hi-hat and shaker, off-beat electric piano and synth stabs, muted funk guitar scratches, string-machine swells, finger snaps, tight four-part chorus harmonies, whispered call-and-response backing vocals, bone-dry close mix, bass drop-out in the bridge, noir, danceable",
+    "negativeTags": "distorted guitar, acoustic guitar, saxophone, female lead vocals, big reverb, trap hi-hats, EDM drop",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 250,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: drums alone, then synth bass line, long groove]\n(She knows, she knows)\n\n[Verse 1: breathy, clipped, dry]\nShe came in like a headline\nRed coat, a borrowed name\nSaid, \"Smile, we're both in the picture\"\nAnd the flash went off like blame\nNow the whole town's got a version\nPassed around from hand to hand\nI was only there a minute\nBut a minute's all they planned\n\n[Pre-Chorus: strings rise, bass climbs]\nAnd everybody's watching (watching)\nEverybody swears they saw\nOne frame and you're guilty\nOne frame and it's law\n\n[Chorus: tight four-part harmony, whispered answers]\nCarolina knows\nWhat happened in the dark\nCarolina knows\nWho struck the spark\nShe keeps it in her pocket, keeps it close\nI say it wasn't me\nBut Carolina knows\n\n[Verse 2: add muted funk guitar scratches]\nAn old man at the station\nSaid, \"Son, here's how it's been:\nThe truth walks out by morning\nBut the story's moving in\"\nNow there's a kid on every corner\nHolding up a little light\nThey don't want to know what happened\nThey just want to watch tonight\n\n[Pre-Chorus: strings rise, bass climbs]\nAnd everybody's watching (watching)\nEverybody swears they saw\nOne frame and you're guilty\nOne frame and it's law\n\n[Chorus: tight four-part harmony, whispered answers]\nCarolina knows\nWhat happened in the dark\nCarolina knows\nWho struck the spark\nShe keeps it in her pocket, keeps it close\nI say it wasn't me\nBut Carolina knows\n\n[Bridge: bass drops out, voice and finger snaps, bass returns]\nWas it me? (Was it?) Was it you?\nWas it something that the mirror made us do?\nPlay it back, play it slow\nNobody asks Carolina, no\n\n[Breakdown: call and response with whispers]\n(She knows) Ask her\n(She knows) Go on and ask her\n(She knows) I said it wasn't me\n(She knows, she knows, she knows)\n\n[Final Chorus: ad-libs, full groove]\nCarolina knows\nWhat happened in the dark\nCarolina knows\nWho struck the spark\nShe keeps it in her pocket, keeps it close\nI swear it wasn't me\nBut Carolina knows\n\n[Outro: drums and bass only, last line unaccompanied]\n(She knows, she knows)\nIt wasn't me\n(She knows, she knows)\nWas it me?",
+    "taskId": "4117c2cd4c794032e7eede90a28737b8",
+    "sunoClipIds": [
+      "3479274f-c2ae-46a0-bd35-90e96fa93fb9",
+      "daf27762-baff-4572-bf9f-5b343e038ea6"
+    ],
+    "created": "Nov 15, 2026 6:20 PM ET",
+    "createTimeMs": 1794784856759,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3479274f-c2ae-46a0-bd35-90e96fa93fb9",
+        "durationSec": 249.68,
+        "file": "eighties/e80_02_carolina_knows_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "daf27762-baff-4572-bf9f-5b343e038ea6",
+        "durationSec": 248.68,
+        "file": "eighties/e80_02_carolina_knows_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_02_carolina_knows_req.json",
+      "eighties/e80_02_carolina_knows_rec.json"
+    ],
+    "cover": "eighties/covers/e80_02_carolina_knows.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, E minor (a two-chord minor vamp in verses, the chorus moving to the iv and V). Tight, paranoid dance-funk: all tension and no release until the chorus.\n\nVOICE: Male tenor, breathy and urgent, with clipped consonants used as percussion. Gasps, vocal catches and finger-snap ad-libs between lines. Chorus stacked in tight four-part harmony. Whispered 'she knows' answers panned hard left and right.\n\nINSTRUMENTS: Dry drum-machine-style kick and snare with a real hi-hat and shaker. A prowling, staccato eighth-note synth-bass ostinato that never stops (the earworm). Three-note minor-key electric-piano and synth stabs on the off-beats. Muted rhythm-guitar scratches. A string-machine line that swells in the pre-chorus. Finger snaps and one hand-clap layer.\n\nARRANGEMENT MAP: 0:00 Intro, drums alone for 2 bars, then the bass line, then stabs: nearly 30 seconds before any lead vocal, so the groove gets to walk. 0:29 Verse 1. 1:01 Pre-chorus, strings rise and the bass climbs. 1:17 Chorus 1. 1:38 Verse 2, add guitar scratch. 2:10 Pre-chorus. 2:26 Chorus 2. 2:47 Bridge, the bass drops out for 4 bars leaving voice and snaps, then slams back. 3:03 Breakdown, call-and-response with the whispers. 3:19 Final chorus with ad-libs. 3:45 Outro, groove strips back to drums and bass, the last line sung unaccompanied, ending on the question at 4:00.\n\nPRODUCTION & MIX: Bone-dry and close. Almost no reverb on the drums, a short slap echo on the vocal, bass and kick glued together, wide stereo only on stabs and whispers. Lots of air between parts.\n\nSIGNATURE MOMENT: The 4 bars in the bridge where the bass vanishes and the dance floor holds its breath, then its return.\n\nMODERN POINT OF VIEW: A camera-shutter click layered into the snare on the last beat of each chorus bar. A clean sub-bass octave beneath the synth bass.\n\nEMOTIONAL ARC: Cool denial, rising panic, then doubt. The last word is a question.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1983 post-disco dance-funk pop, breathy urgent male tenor vocal with percussive gasps and ad-libs, 118 BPM, E minor, tense, paranoid, sleek, relentless staccato eighth-note synth bass ostinato, dry punchy drum machine with live hi-hat and shaker, off-beat electric piano and synth stabs, muted funk guitar scratches, string-machine swells, finger snaps, tight four-part chorus harmonies, whispered call-and-response backing vocals, bone-dry close mix, bass drop-out in the bridge, noir, danceable\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, acoustic guitar, saxophone, female lead vocals, big reverb, trap hi-hats, EDM drop\n\nWHAT IT IS ABOUT\n\nOne photo, one minute, and a whole town has a version of what happened. The narrator swears he did nothing. Only Carolina knows the truth, and she isn't saying which way it goes.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: an innocent man caught in a rumour; a guilty man protesting too much; a small-town scandal from 1984; or a modern pile-on where a single frame becomes a verdict ('a kid on every corner holding up a little light' is a lighter, a candle or a phone camera). Carolina can be a woman, a witness, or the home state that never forgets.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a named woman in the title, a denial chorus, an elder's warning, and a story that never reveals the verdict. The song ends on 'Was it me?', a doubt planted on purpose. Designed mishearing: 'Carolina knows' sounds exactly like 'Carolina, no' and 'Carolina's nose'. The bridge even ends on 'Carolina, no' to feed the argument.",
+    "workbookAtAGlance": "Carolina Knows\n\nBackup titles\nOne Frame / Ask Carolina\n\nAt a glance\n118 BPM, E minor\nVoice: Male tenor, breathy and percussive\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_03",
+    "title": "Say Me Yes",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 3,
+    "slug": "e80_03_say_me_yes",
+    "inspiredBy": "Take On Me (a-ha, 1985)",
+    "leadVoice": "Male voice with a huge range. Verses sit low, soft and slightly accented, nearly mumbled. Each chorus line steps higher until the last 'yes' is held in clear, pure falsetto at the very top of the range. Echoed backing answers in the chorus.",
+    "model": "V6",
+    "style": "1985 Scandinavian-style synth-pop, male vocal with low soft verses and a soaring pure falsetto chorus, 166 BPM, B major, fast, bright, yearning, sparkling staccato synth lead riff with digital bell and analog saw layers, octave-bouncing synth bass, crisp drum machine with gated snare and sixteenth-note hi-hats, strummed acoustic guitar underneath, string pad swells, echoed backing vocals, chorus melody climbing step by step to a held high note, glossy mix, plate reverb on the high notes, shy, hopeful, euphoric",
+    "negativeTags": "distorted guitar, female lead vocals, saxophone, slow tempo, trap hi-hats, EDM drop, rap",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 250,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: drum fill, sparkling fast synth riff]\n\n[Verse 1: low soft vocal, riff drops out, bass and pad]\nThree dots on the glass, then they disappear\nI've been writing you all year\nEvery word's a paper plane\nFolded twice and thrown away again\n\n[Pre-Chorus: rising pad, tom build]\nI'm no good at standing still\nIf I don't jump now, I never will\n\n[Chorus: melody climbs step by step into falsetto]\nSay me yes (say me yes)\nSay it now (say it now)\nI'm a sketch 'til you color me in somehow\nSay me yes\nOne word and I'm real\nSay me, say me yes\n\n[Verse 2: low soft vocal]\nYou talk like there's forever in your coat\nI'm a candle on a boat\nShy is just a slower kind of brave\nWatch me learn it wave by wave\n\n[Pre-Chorus: rising pad, tom build]\nI'm no good at standing still\nIf I don't jump now, I never will\n\n[Chorus: climbs into falsetto, echoed backing vocals]\nSay me yes (say me yes)\nSay it now (say it now)\nI'm a sketch 'til you color me in somehow\nSay me yes\nOne word and I'm real\nSay me, say me yes\n\n[Bridge: stripped back, new chord colour]\nOh, the things we never send\nPile up like snow against the door\nOpen it, open it\nI can't hold it anymore\n\n[Synth Solo: lead riff with pitch bends]\n\n[Breakdown Chorus: kick and claps only, sung gently]\nSay me yes (say me yes)\nSay it slow (say it slow)\nI was only ever waiting for a go\n\n[Final Chorus: full power, last note held in high falsetto]\nSay me yes (say me yes)\nSay it now (say it now)\nI'm a sketch 'til you color me in somehow\nSay me yes\nOne word and I'm real\nSay me, say me yes\nSay me, say me yes\n\n[Outro: synth riff, echoing vocal, hard stop]\n(Yes, yes, yes)",
+    "taskId": "7cf0ee38ae1645d105a5a919f4ca6f99",
+    "sunoClipIds": [
+      "558f7b76-ca73-4a83-a8a1-910ceefc182d",
+      "3d5961d0-1a2b-49e1-927f-c14f58b236e4"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784864213,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "558f7b76-ca73-4a83-a8a1-910ceefc182d",
+        "durationSec": 249.6,
+        "file": "eighties/e80_03_say_me_yes_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "3d5961d0-1a2b-49e1-927f-c14f58b236e4",
+        "durationSec": 249.6,
+        "file": "eighties/e80_03_say_me_yes_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_03_say_me_yes_req.json",
+      "eighties/e80_03_say_me_yes_rec.json"
+    ],
+    "cover": "eighties/covers/e80_03_say_me_yes.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 166 BPM, 4/4, B major (verses hover on the relative minor, the chorus bursts into the major). Fast, bright, nervous energy, like a heartbeat before a first kiss.\n\nVOICE: Male voice with a huge range. Verses sit low, soft and slightly accented, nearly mumbled. Each chorus line steps higher until the last 'yes' is held in clear, pure falsetto at the very top of the range. Echoed backing answers in the chorus.\n\nINSTRUMENTS: A sparkling staccato synth lead playing a fast, bouncing riff (bright digital bell tone layered with a warm analog saw). Octave-jumping synth bass. Crisp drum machine with a cracking snare and sixteenth-note hi-hats. Strummed acoustic guitar tucked underneath for lift. Soft string pad in the pre-chorus. Tom fills into each chorus.\n\nARRANGEMENT MAP: 0:00 Intro, a drum fill then the full synth riff for 8 bars. 0:14 Verse 1, the riff drops out leaving bass, drums and a held pad. 0:37 Pre-chorus, rising pad and tom build. 0:49 Chorus 1, three steps upward. 1:12 Riff returns. 1:24 Verse 2. 1:47 Pre-chorus. 1:59 Chorus 2. 2:22 Bridge, half the instruments and a new chord colour. 2:45 Synth solo over the riff with pitch bends. 3:08 Breakdown chorus, kick and claps only, sung gently. 3:20 Final chorus at full power, the last 'yes' held for 4 bars. 3:50 Outro, riff and echoing 'yes', hard stop at 4:00.\n\nPRODUCTION & MIX: Glossy and bright. Wide chorus on the synths, a gated reverb snare, vocal dry in the verses and drenched in plate reverb on the high notes.\n\nSIGNATURE MOMENT: The final held falsetto 'yes', a note placed just out of reach of the average singer so every crowd attempts it and laughs.\n\nMODERN POINT OF VIEW: A wide modern super-saw layer and gentle side-chain pumping join for the final chorus only. The intro riff is doubled by a soft 'typing' tick pattern.\n\nEMOTIONAL ARC: Shy, then brave, then airborne.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1985 Scandinavian-style synth-pop, male vocal with low soft verses and a soaring pure falsetto chorus, 166 BPM, B major, fast, bright, yearning, sparkling staccato synth lead riff with digital bell and analog saw layers, octave-bouncing synth bass, crisp drum machine with gated snare and sixteenth-note hi-hats, strummed acoustic guitar underneath, string pad swells, echoed backing vocals, chorus melody climbing step by step to a held high note, glossy mix, plate reverb on the high notes, shy, hopeful, euphoric\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, female lead vocals, saxophone, slow tempo, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nSomeone shy has spent a year writing and deleting the same message. Tonight they finally ask: one word from you and I stop being a sketch and become real.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a crush finally confessed; a job, a move or a dream waiting on someone's approval; a kid asking a parent to believe in them; or a person coming out and asking to be accepted. 'Three dots on the glass' is a typing indicator to one generation and rain on a window to another.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a deliberately off-grammar title that becomes a catchphrase, low murmured verses nobody will learn, and a chorus that climbs to a note the crowd will miss together. Designed mishearing: 'Say me yes' is heard as 'Save me, yes', which means the same thing and deepens it.",
+    "workbookAtAGlance": "Say Me Yes\n\nBackup titles\nColor Me In / One Word and I'm Real\n\nAt a glance\n166 BPM, B major\nVoice: Male, low verse to soaring falsetto\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_04",
+    "title": "Meet Me in the Monsoon",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 4,
+    "slug": "e80_04_meet_me_in_the_monsoon",
+    "inspiredBy": "Africa (Toto, 1982)",
+    "leadVoice": "Verses by a soft, slightly husky male baritone-tenor, sung close and conversational. Choruses by a different, higher tenor leading a five-part stacked harmony wall, smooth and blended, with a wordless 'oh-oh' answer.",
+    "model": "V6",
+    "style": "1982 West Coast yacht rock, soft rock with world percussion, husky soft male verse vocal and a higher tenor leading huge five-part stacked chorus harmonies, 92 BPM, verses in A major, chorus lifting to B major, warm, wistful, conga and shaker loop, kalimba and marimba ostinato, bell-like digital keys, fat brassy analog synth chords, fretless bass slides, clean guitar fills, soft deep snare, flute-like synth solo, lush polished studio mix, hall reverb, rain and distant thunder ambience, longing, widescreen, redemptive",
+    "negativeTags": "distorted guitar, heavy drums, female lead vocals, trap hi-hats, EDM, rap, autotune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: rain, congas and shaker, kalimba motif, brass synth hook]\n\n[Verse 1: soft husky vocal, percussion, bass, electric piano]\nI heard the cicadas tuning up at noon\nThe old men say it means the sky is due\nThere's a map on my wall with a pin in the sand\nIn a place I only know from you\n\n[Verse 2: add clean guitar fills]\nThe pilot says the desert's two hours west\nI check my watch against a dream I had\nYou wrote, \"The rain smells like a penny here\"\nI never knew I missed a thing so bad\n\n[Chorus: key lifts, huge stacked harmonies, drums open]\nMeet me in the monsoon\nWhere the dry riverbeds remember how to run\nI've been thirsty in a house full of water\nI counted every summer and I only needed one\nMeet me in the monsoon\n(Oh-oh, oh-oh)\n\n[Verse 3: back to a hush]\nThe saguaros lift their arms up like a choir\nOlder than anything that I regret\nI'm hurrying toward a thing I cannot name\nIs it you, or who I haven't been yet?\n\n[Chorus: huge stacked harmonies]\nMeet me in the monsoon\nWhere the dry riverbeds remember how to run\nI've been thirsty in a house full of water\nI counted every summer and I only needed one\nMeet me in the monsoon\n(Oh-oh, oh-oh)\n\n[Instrumental Solo: flute synth and marimba trading phrases]\n\n[Bridge: whispered group chant over percussion, building]\n(Hurry now, the wash is filling)\n(Hurry now, the sky is willing)\n(Hurry now, the wash is filling)\n(Hurry now)\n\n[Final Chorus: extended, full harmony wall]\nMeet me in the monsoon\nWhere the dry riverbeds remember how to run\nI've been thirsty in a house full of water\nI counted every summer and I only needed one\nMeet me in the monsoon\nMeet me in the monsoon\nWhere the thunder says the things we never could\nMeet me in the monsoon\n(Oh-oh, oh-oh)\nI'm gonna stand there 'til I'm good\n\n[Outro: harmonies repeat, band thins to rain, fade out]\n(Meet me, meet me)\n(Meet me in the monsoon)",
+    "taskId": "d7d6da95466b4d6d85202f636d3b5741",
+    "sunoClipIds": [
+      "27dd3a43-623c-4261-a9da-e21a6fe79266",
+      "53cf4d95-f82f-4c0b-9117-51194b431857"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784881481,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "27dd3a43-623c-4261-a9da-e21a6fe79266",
+        "durationSec": 254.16,
+        "file": "eighties/e80_04_meet_me_in_the_monsoon_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "53cf4d95-f82f-4c0b-9117-51194b431857",
+        "durationSec": 254.64,
+        "file": "eighties/e80_04_meet_me_in_the_monsoon_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_04_meet_me_in_the_monsoon_req.json",
+      "eighties/e80_04_meet_me_in_the_monsoon_rec.json"
+    ],
+    "cover": "eighties/covers/e80_04_meet_me_in_the_monsoon.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 92 BPM, 4/4 with a lazy half-time sway, verses in A major and the chorus lifting a whole step to B major so it feels like the sky opening. Warm, wistful and widescreen.\n\nVOICE: Verses by a soft, slightly husky male baritone-tenor, sung close and conversational. Choruses by a different, higher tenor leading a five-part stacked harmony wall, smooth and blended, with a wordless 'oh-oh' answer.\n\nINSTRUMENTS: A looping hand-percussion bed (congas, shaker, a soft cowbell tick). A kalimba and marimba ostinato doubled by a bell-like digital keyboard. Fat, brassy analog poly-synth chords. Fretless-style bass with gentle slides. Clean electric guitar adding small fills. Brushed, laid-back drum kit with a deep, soft snare. A breathy flute-like synth for the solo.\n\nARRANGEMENT MAP: 0:00 Intro, rain ambience, then percussion loop and the kalimba motif, with the brass-synth hook at 0:10. 0:26 Verse 1, percussion, bass and electric piano only. 0:52 Verse 2, add guitar fills. 1:18 Chorus 1, key lifts, full harmony wall, drums open up. 1:44 Verse 3, back down to hush. 2:10 Chorus 2. 2:36 Solo, flute-synth and marimba trading 2-bar phrases. 3:02 Bridge, whispered group chant over percussion alone, building. 3:15 Final extended chorus with a new closing couplet. 3:50 Outro, harmonies repeat 'meet me' while the band thins to percussion and rain, fading at 4:05.\n\nPRODUCTION & MIX: Lush and expensive-sounding. Smooth compression, long hall reverb on the harmony stack, percussion spread wide, bass warm and centred.\n\nSIGNATURE MOMENT: The step up into the first chorus, where one voice becomes many and the key changes under your feet.\n\nMODERN POINT OF VIEW: Real field-recorded desert rain and distant thunder open and close the track. A deep sub swell lands on each chorus downbeat.\n\nEMOTIONAL ARC: Longing, arrival, then release. It should feel like the first rain after a dry year.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1982 West Coast yacht rock, soft rock with world percussion, husky soft male verse vocal and a higher tenor leading huge five-part stacked chorus harmonies, 92 BPM, verses in A major, chorus lifting to B major, warm, wistful, conga and shaker loop, kalimba and marimba ostinato, bell-like digital keys, fat brassy analog synth chords, fretless bass slides, clean guitar fills, soft deep snare, flute-like synth solo, lush polished studio mix, hall reverb, rain and distant thunder ambience, longing, widescreen, redemptive\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, heavy drums, female lead vocals, trap hi-hats, EDM, rap, autotune\n\nWHAT IT IS ABOUT\n\nA traveller flies toward a desert they only know from someone's letters, arriving just as the summer storms break. They aren't sure if they're chasing a person or the self they haven't become.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a long-distance love story; a homecoming to the American Southwest; a midlife reset ('thirsty in a house full of water' is comfort without meaning); recovery and renewal; or faith returning after a dry season. The 'you' is never pinned down, exactly like the original.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: hushed, bookish verses, a chorus built for a room full of voices, and a geography talking point. Here the trick is reversed: a monsoon in the desert sounds like a mistake but is real, so the 'well, actually' crowd gets to explain it. Designed mishearing: 'Meet me in the monsoon' is heard as 'Meet me in the moon, soon', which is just as romantic.",
+    "workbookAtAGlance": "Meet Me in the Monsoon\n\nBackup titles\nThirsty in a House Full of Water / The Rain Smells Like a Penny\n\nAt a glance\n92 BPM, A major, chorus lifts to B\nVoice: Soft male lead, big stacked harmonies\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_05",
+    "title": "Little Thunder",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 5,
+    "slug": "e80_05_little_thunder",
+    "inspiredBy": "Sweet Child O' Mine (Guns N' Roses, 1987)",
+    "leadVoice": "Male high tenor with a serrated rasp, sweet and almost lullaby-soft in the verses, opening into a wide, wailing upper register on the chorus 'oh, oh'. Low octave double on the breakdown questions, building to full-throated screams at the end.",
+    "model": "V6",
+    "style": "1987 Sunset Strip hard rock with a tender heart, raspy male high tenor vocal, lullaby-soft verses and wailing chorus, 122 BPM, E major turning to E minor for the final breakdown, neck-pickup lead guitar through a cranked tube amp playing a circular string-skipping arpeggio riff, crunchy rhythm guitar, melodic bass, big live roomy drums, long expressive wah guitar solo, half-time minor-key breakdown building to screams, raw live-room mix, affectionate, soaring, then aching",
+    "negativeTags": "synthesizer, keyboards, piano, drum machine, female vocals, pop production, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: lone lead guitar arpeggio riff, band enters one by one]\n\n[Verse 1: soft, sweet, raspy]\nHer laugh is a screen door slamming\nOn the first warm night of the year\nAnd every time I hear it coming\nAll my winters disappear\n\n[Chorus: wide wailing vocal]\nOh, oh, Little Thunder\nDon't you ever quiet down\nOh, oh, Little Thunder\nShake the windows of this town\n\n[Verse 2: soft, sweet, raspy]\nHer look is a storm deciding\nIf it's gonna break or pass\nI'd stand out in a field forever\nJust to watch it cross the grass\n\n[Chorus: wide wailing vocal]\nOh, oh, Little Thunder\nDon't you ever quiet down\nOh, oh, Little Thunder\nShake the windows of this town\n\n[Guitar Solo: short, melodic, sings the vocal line]\n\n[Verse 3: soft, sweet]\nHer hands are small but they move the weather\nHer heart's a drum the sky can't hold\nAnd if the world should try to hush her\nI'll be her echo when I'm old\n\n[Chorus: wide wailing vocal]\nOh, oh, Little Thunder\nDon't you ever quiet down\nOh, oh, Little Thunder\nShake the windows of this town\n\n[Guitar Solo: long, lyrical, then wah pedal, screaming bend]\n\n[Breakdown: turns minor, half-time, palm mutes, builds to screams]\nWhat do we do with all this time?\nWhat do we do with it now?\nWhat do we do (what do we do)\nWhat do we do with all this sky?\nWhat do we do with all this time?\n(Little Thunder, Little Thunder)\nWhat do we do with it now?\n\n[Outro: full band crescendo, final chord rings out]\nRoll on, roll on\nRoll on, Little Thunder\nRoll on",
+    "taskId": "aae59db707ac8c2b2f66c341173232fd",
+    "sunoClipIds": [
+      "6096cc23-6662-483a-a9f5-7e29a70e43fc",
+      "3e16c004-6015-4d59-9a01-68b192726ecd"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784866132,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "6096cc23-6662-483a-a9f5-7e29a70e43fc",
+        "durationSec": 254.44,
+        "file": "eighties/e80_05_little_thunder_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "3e16c004-6015-4d59-9a01-68b192726ecd",
+        "durationSec": 254.4,
+        "file": "eighties/e80_05_little_thunder_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_05_little_thunder_req.json",
+      "eighties/e80_05_little_thunder_rec.json"
+    ],
+    "cover": "eighties/covers/e80_05_little_thunder.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, E major for the body of the song, shifting to E minor for the final breakdown. Bright and affectionate for three minutes, then dark and searching.\n\nVOICE: Male high tenor with a serrated rasp, sweet and almost lullaby-soft in the verses, opening into a wide, wailing upper register on the chorus 'oh, oh'. Low octave double on the breakdown questions, building to full-throated screams at the end.\n\nINSTRUMENTS: Lead electric guitar on the neck pickup through a cranked British tube amp, playing a circular, string-skipping arpeggio riff that sounds like a music box played by a rock band (the earworm). A second rhythm guitar with crunchy open chords. Melodic bass that answers the riff in the intro. Big live drums with a cracking snare and wide tom fills. No keyboards.\n\nARRANGEMENT MAP: 0:00 Intro, the arpeggio riff alone, then bass melody, then rhythm guitar and drums entering one at a time over 30 seconds. 0:31 Verse 1. 0:47 Chorus 1. 1:03 Verse 2. 1:19 Chorus 2. 1:35 Guitar solo 1, short and melodic, singing the vocal line. 1:51 Verse 3. 2:07 Chorus 3. 2:23 Guitar solo 2, the big one: starts lyrical, kicks on a wah pedal, climbs the neck, ends on a screaming sustained bend. 2:55 Breakdown, the key turns minor, half-time feel, chugging palm mutes, the question repeated and intensifying. 3:40 Outro, full-band crescendo on 'roll on', final crashing chord rings out to 4:05.\n\nPRODUCTION & MIX: Live-in-a-room energy. Guitars panned left and right, natural room reverb on the drums, vocal upfront with a short slap delay, minimal polish.\n\nSIGNATURE MOMENT: The intro riff. Two notes in, the whole room knows the song. Second place goes to the instant the key turns minor.\n\nMODERN POINT OF VIEW: Tighter, deeper low end than a 1987 master, and parallel-compressed drums for punch on small speakers. The breakdown's low vocal double is close and dry, like a private thought.\n\nEMOTIONAL ARC: Adoration, celebration, then the ache of time passing.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1987 Sunset Strip hard rock with a tender heart, raspy male high tenor vocal, lullaby-soft verses and wailing chorus, 122 BPM, E major turning to E minor for the final breakdown, neck-pickup lead guitar through a cranked tube amp playing a circular string-skipping arpeggio riff, crunchy rhythm guitar, melodic bass, big live roomy drums, long expressive wah guitar solo, half-time minor-key breakdown building to screams, raw live-room mix, affectionate, soaring, then aching\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, keyboards, piano, drum machine, female vocals, pop production, autotune, EDM\n\nWHAT IT IS ABOUT\n\nA love song to someone small, loud and unstoppable, whose laugh ends winters. The singer promises to be her echo, then is left asking what to do with all the time that is passing.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a father to a daughter; a lover to a firecracker partner; an adult talking to the fearless kid they used to be; or a tribute to anyone the world tried to quieten. The breakdown ('what do we do with all this time?') is a parent watching a child grow, or anyone facing the second half of life.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: nature similes that anchor love in memory, a rough voice singing soft words, and a late turn from major-key comfort to a minor-key unanswered question. Designed mishearing: 'Little Thunder' is heard as 'Little Wonder', and both fit. The nickname is built to be given to real children, pets and guitars.",
+    "workbookAtAGlance": "Little Thunder\n\nBackup titles\nShake the Windows / All This Sky\n\nAt a glance\n122 BPM, E major, breakdown in E minor\nVoice: Raspy male high tenor\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_06",
+    "title": "Keep the Porch Light On",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 6,
+    "slug": "e80_06_keep_the_porch_light_on",
+    "inspiredBy": "Don't Stop Believin' (Journey, 1981)",
+    "leadVoice": "Soaring male tenor, clear and bright with effortless high notes and a slight cry at the top of phrases. Verses are sung like storytelling. The late chorus is delivered at full power with stacked three-part harmonies and answering backing lines.",
+    "model": "V6",
+    "style": "1981 arena rock anthem, clear soaring male tenor storytelling vocal, 118 BPM, D major, patient, cinematic, late-arriving chorus, rolling eighth-note grand piano riff, bass doubling the piano, palm-muted electric guitar chug that builds, singing lead guitar with fast ascending runs, simple arena drums entering late, string-synth pad, stacked three-part harmonies, call-and-response final chorus, long fade-out, polished wide mix, plate reverb snare, lonely, hopeful, communal, night highway",
+    "negativeTags": "female lead vocals, drum machine, saxophone, trap hi-hats, EDM, rap, autotune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 265,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: rolling piano riff alone, bass joins]\n\n[Verse 1: voice, piano and bass only]\nShe's got a duffel bag and a diner check\nBorn on the north shore of a town without a sea\nHe's got his father's coat and a one-way stare\nCounting exits like a rosary\n\n[Instrumental: lead guitar enters, climbing run, held note]\n\n[Verse 2: drums enter, simple beat]\nA radio plays in the laundromat\nSomebody's quarters buying one more spin\nTwo strangers folding in fluorescent light\nBoth pretending they're not listening\n\n[Pre-Chorus: guitar chug builds, harmonies appear]\nNight owls, neon saints\nRunning on a rumor and a tank of maybe\nOne more town, one more try\nThe radio keeps saying \"any day now, baby\"\n\n[Guitar Solo: melodic and lyrical]\n\n[Verse 3: full band]\nNow the years go by like mile signs\nSome you read and some you miss\nEverybody's got a window seat\nAnd a name they tell the dark like this\n\n[Pre-Chorus: builds with snare roll]\nNight owls, neon saints\nRunning on a rumor and a tank of maybe\nOne more town, one more try\nThe radio keeps saying \"any day now, baby\"\n\n[Chorus: first time, band wide open, big harmonies]\nKeep the porch light on\nI'm a long way out but I'm coming home\nKeep the porch light on\nKeep it burning 'til the dark is gone\nSomebody, somewhere\nKeep the porch light on\n\n[Chorus: call and response]\nKeep the porch light on\n(Night owls) I can see it from the road\nKeep the porch light on\n(Neon saints) It's the only thing I know\nSomebody, somewhere\nKeep the porch light on\n\n[Outro: title repeated, long fade out]\nKeep the porch light on\nKeep the porch light on\nKeep the porch light on",
+    "taskId": "2c2aab3c0356f6fd9b7b81f7b941508d",
+    "sunoClipIds": [
+      "ba7564f6-51ff-46f6-82a8-6a049e2b5f81",
+      "3afc9dc3-e987-4a5b-b654-66b72ccde802"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784871589,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ba7564f6-51ff-46f6-82a8-6a049e2b5f81",
+        "durationSec": 264.6,
+        "file": "eighties/e80_06_keep_the_porch_light_on_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "3afc9dc3-e987-4a5b-b654-66b72ccde802",
+        "durationSec": 264.2,
+        "file": "eighties/e80_06_keep_the_porch_light_on_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_06_keep_the_porch_light_on_req.json",
+      "eighties/e80_06_keep_the_porch_light_on_rec.json"
+    ],
+    "cover": "eighties/covers/e80_06_keep_the_porch_light_on.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, D major, built on a four-chord cycle that keeps rolling like wheels on a highway. Patient, cinematic and steadily rising.\n\nVOICE: Soaring male tenor, clear and bright with effortless high notes and a slight cry at the top of phrases. Verses are sung like storytelling. The late chorus is delivered at full power with stacked three-part harmonies and answering backing lines.\n\nINSTRUMENTS: Grand piano playing a rolling eighth-note riff with a walking left hand (the earworm). Electric bass doubling the piano's low notes. Palm-muted electric guitar that starts as a quiet chug and grows across the song. A lead guitar that plays fast ascending runs and singing sustained notes. Solid, simple arena drums. A shimmering string-synth pad joins late.\n\nARRANGEMENT MAP: 0:00 Intro, piano riff alone for 4 bars, bass joins. 0:17 Verse 1, voice, piano and bass only. 0:50 Instrumental, lead guitar enters with a climbing run and a held note. 1:06 Verse 2, drums enter with a simple beat. 1:39 Pre-chorus 1, guitar chug doubles in intensity, harmonies appear. 1:55 Guitar solo, melodic and lyrical, quoting the pre-chorus tune. 2:16 Verse 3, full band. 2:48 Pre-chorus 2, builds with a snare roll. 3:05 Chorus, the title line arrives for the first time and the band is wide open. 3:30 Chorus repeat with call-and-response. 3:55 Outro, title repeated to a fade ending at 4:15 with no final chord.\n\nPRODUCTION & MIX: Big, clean arena-rock polish. Piano bright and centred, guitars doubled and wide, snare with a roomy plate reverb, vocal crystal clear on top.\n\nSIGNATURE MOMENT: 3:05. After three minutes of waiting, the chorus finally lands. The delay is the design.\n\nMODERN POINT OF VIEW: A soft ambient pad and a sub-bass layer give modern depth. The fade is long and unresolved on purpose, so the song never ends, it just drives out of earshot.\n\nEMOTIONAL ARC: Lonely, hopeful, then communal. One voice becomes a whole crowd.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1981 arena rock anthem, clear soaring male tenor storytelling vocal, 118 BPM, D major, patient, cinematic, late-arriving chorus, rolling eighth-note grand piano riff, bass doubling the piano, palm-muted electric guitar chug that builds, singing lead guitar with fast ascending runs, simple arena drums entering late, string-synth pad, stacked three-part harmonies, call-and-response final chorus, long fade-out, polished wide mix, plate reverb snare, lonely, hopeful, communal, night highway\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale lead vocals, drum machine, saxophone, trap hi-hats, EDM, rap, autotune\n\nWHAT IT IS ABOUT\n\nTwo strangers leaving nowhere towns cross paths in a late-night laundromat. Years roll by like mile signs. Everyone on the road is whispering the same request to someone back home.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a runaway calling home; a soldier or a touring musician; a grown child speaking to ageing parents; a prayer; or the voice of someone who has passed, asking to be remembered. For the listener who grew up in the 80s, it is also the kid you were, still on the way back.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: archetypes instead of names, cinematic night imagery, and the chorus held back until 3:05 so the first arrival is the climax. The 'wrong' geography is built in: 'the north shore of a town without a sea'. Designed mishearing: 'Keep the porch light on' will be sung as 'Keep the Porsche light on', which is the most 1980s mistake possible.",
+    "workbookAtAGlance": "Keep the Porch Light On\n\nBackup titles\nNight Owls, Neon Saints / A Tank of Maybe\n\nAt a glance\n118 BPM, D major\nVoice: Soaring male tenor\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_07",
+    "title": "Nobody's at the Wheel",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 7,
+    "slug": "e80_07_nobodys_at_the_wheel",
+    "inspiredBy": "Everybody Wants to Rule the World (Tears for Fears, 1985)",
+    "leadVoice": "Smooth male tenor-baritone, relaxed and unhurried, slightly behind the beat, almost conversational. A second voice doubles in octaves on the chorus. No strain anywhere: the calm is the point.",
+    "model": "V6",
+    "style": "1985 British sophisticated synth-pop, new wave, smooth relaxed male tenor vocal slightly behind the beat, 110 BPM, 12/8 shuffle, G major, breezy, bittersweet, chiming clean electric guitar two-note rocking figure throughout, pulsing pedal synth bass, shuffle drum machine with live cymbals, glassy digital bell keys, warm analog pad, one clean melodic guitar solo and one overdriven soaring guitar solo, octave-doubled chorus vocal, subtle vocoder harmony at the end, clean wide sunlit mix, top-down driving, carefree on the surface, thoughtful underneath",
+    "negativeTags": "heavy metal riffs, female lead vocals, saxophone, dark mood, trap hi-hats, EDM drop, rap",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 260,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: two-note guitar figure fades in, synth swells, shuffle beat]\n\n[Verse 1: relaxed, behind the beat]\nGood morning, here's your future\nIt was ordered yesterday\nThe seat already knows you\nAnd the road already knows the way\n\n[Verse 2: bell keys answer the vocal]\nWe built a perfect engine\nThen we climbed into the back\nWindows up, the weather's lovely\nOn a painted-over track\n\n[Chorus: octave-doubled vocal, wide pad]\nRoll on, roll on\nIsn't it a lovely feel?\nEverybody's singing along\nNobody's at the wheel\n\n[Verse 3: relaxed]\nThere's a room where they decide things\nThere's a door without a key\nI knocked for half a lifetime\nThen I found out the room was me\n\n[Chorus: octave-doubled vocal, wide pad]\nRoll on, roll on\nIsn't it a lovely feel?\nEverybody's singing along\nNobody's at the wheel\n\n[Bridge: warmer, sadder chords, sustained pad]\nSay that you'll remember\nHow the summer didn't last\nAll the kings of the on-ramp\nGetting smaller in the glass\n\n[Guitar Solo: clean, lyrical, short]\n\n[Verse 4: drums drop to hi-hat, then return]\nSo take your hands out of your pockets\nPut a palm against the pane\nSomebody ought to steer this\nSomebody ought to know its name\n\n[Final Chorus: double chorus, subtle vocoder harmony]\nRoll on, roll on\nIsn't it a lovely feel?\nEverybody's singing along\nNobody's at the wheel\nRoll on, roll on\nHalfway to tomorrow, signed and sealed\nEverybody wants the window\nNobody wants the wheel\n\n[Guitar Solo: overdriven, climbing, full band]\n\n[Outro: backing vocals, two-note guitar figure, fade out]\n(Roll on, roll on)\n(Roll on, roll on)",
+    "taskId": "cb43ba9856242a5dfa158e29438092c4",
+    "sunoClipIds": [
+      "0bccbeff-db9d-4a33-93cb-b34a6dc6ae34",
+      "c95a2226-97ee-486c-8ac6-2b191d774989"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784878740,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0bccbeff-db9d-4a33-93cb-b34a6dc6ae34",
+        "durationSec": 259.96,
+        "file": "eighties/e80_07_nobodys_at_the_wheel_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "c95a2226-97ee-486c-8ac6-2b191d774989",
+        "durationSec": 259.32,
+        "file": "eighties/e80_07_nobodys_at_the_wheel_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_07_nobodys_at_the_wheel_req.json",
+      "eighties/e80_07_nobodys_at_the_wheel_rec.json"
+    ],
+    "cover": "eighties/covers/e80_07_nobodys_at_the_wheel.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 110 BPM in a 12/8 shuffle (a rolling triplet feel), G major, with a pedal bass note that makes the chords float above it. Breezy, top-down, deceptively easy.\n\nVOICE: Smooth male tenor-baritone, relaxed and unhurried, slightly behind the beat, almost conversational. A second voice doubles in octaves on the chorus. No strain anywhere: the calm is the point.\n\nINSTRUMENTS: A chiming clean electric guitar playing a two-note rocking figure that runs through the whole song (the earworm). A pulsing synth bass holding one note under changing chords. Shuffle drum-machine pattern layered with live cymbals. Glassy digital bell keyboard answering the vocal. Warm analog pad. Two guitar solos: one clean and melodic, one overdriven and soaring.\n\nARRANGEMENT MAP: 0:00 Intro, the two-note guitar figure fades in with synth swells, drums enter at 0:13. 0:26 Verse 1. 0:44 Verse 2, bell keyboard answers. 1:01 Chorus 1, octave vocal and wide pad. 1:19 Verse 3. 1:36 Chorus 2. 1:54 Bridge, the chords shift somewhere warmer and sadder, with sustained organ-like pad. 2:11 Guitar solo 1, clean, lyrical, short. 2:29 Verse 4, the drums drop to hi-hat for 2 bars then return. 2:46 Final double chorus, with the lyric twist on the last two lines. 3:21 Guitar solo 2, overdriven and climbing over the full band. 3:45 Outro, 'roll on' backing vocals and the two-note figure fading out by 4:10.\n\nPRODUCTION & MIX: Clean, wide and sunlit. Shimmering chorus on guitars, tight gated snare, the vocal dry and close. Everything sits back so the groove feels effortless.\n\nSIGNATURE MOMENT: The opening fade-in of the two-note guitar figure, instantly a windows-down feeling. Second: the last two lines, where the title quietly changes meaning.\n\nMODERN POINT OF VIEW: A subtle vocoder harmony shadows the final chorus, a machine singing along. Stereo field is wider and the sub-bass deeper than a 1985 master.\n\nEMOTIONAL ARC: Carefree, then curious, then quietly awake.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1985 British sophisticated synth-pop, new wave, smooth relaxed male tenor vocal slightly behind the beat, 110 BPM, 12/8 shuffle, G major, breezy, bittersweet, chiming clean electric guitar two-note rocking figure throughout, pulsing pedal synth bass, shuffle drum machine with live cymbals, glassy digital bell keys, warm analog pad, one clean melodic guitar solo and one overdriven soaring guitar solo, octave-doubled chorus vocal, subtle vocoder harmony at the end, clean wide sunlit mix, top-down driving, carefree on the surface, thoughtful underneath\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nheavy metal riffs, female lead vocals, saxophone, dark mood, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nA beautiful drive in a car that seems to steer itself. Everyone is in the back seat singing along, the weather is lovely, and no one wants to ask who is driving.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a carefree road-trip anthem; a wry song about self-driving cars and autopilot living; a political comment that nobody is in charge; or a personal confession ('I found out the room was me') about finally taking control of your own life. The last line flips the title: everybody wants the window, nobody wants the wheel.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: breezy shuffle against uneasy words, proverb-like short lines, an opening that greets the listener directly, and a title that accuses everyone including the singer. Designed mishearing: 'Nobody's at the wheel' is heard as 'Nobody said for real' and 'Nobody's at the will', and 'lovely feel' keeps the chorus sounding happy to anyone not listening closely.",
+    "workbookAtAGlance": "Nobody's at the Wheel\n\nBackup titles\nEverybody Wants the Window / Roll On\n\nAt a glance\n110 BPM, G major, 12/8 shuffle\nVoice: Smooth male tenor, laid back\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_08",
+    "title": "Ring the Bell Again",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 8,
+    "slug": "e80_08_ring_the_bell_again",
+    "inspiredBy": "Eye of the Tiger (Survivor, 1982)",
+    "leadVoice": "Gritty male tenor with real grain, pushed and earnest, every line ending with force. Verses are tight and rhythmic. The chorus opens up with doubled lead and a gang of male backing voices on the title line.",
+    "model": "V6",
+    "style": "1982 arena rock motivational anthem, gritty earnest male tenor vocal, 108 BPM, D minor, driving, muscular, relentless palm-muted sixteenth-note guitar chug, syncopated full-band power-chord stabs with silence between hits, piano doubling the stabs, punchy bass locked to the kick, big gated-reverb snare, rock organ pad in the chorus, short anthemic guitar solo, boxing ring bell on chorus downbeats, doubled chorus with male gang backing vocals, tight punchy mix, determined comeback, training montage, cold morning run",
+    "negativeTags": "female vocals, synth-pop, drum machine, saxophone, acoustic ballad, trap hi-hats, EDM, rap",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: muted guitar chug alone, then power-chord stabs]\n\n[Verse 1: chug, bass and kick, stabs answer the vocal]\nFive a.m., the street's still sleeping\nBreath like smoke, shoes on stone\nUsed to run from every mirror\nNow I'm running toward my own\nLost the title, lost the corner\nLost the name up on the door\nFound a kid inside who's hungry\nLike he's never lost before\n\n[Pre-Chorus: snare build]\nSo tape it up, pull it tight\nOne more round in the morning light\n\n[Chorus: full band, gang vocals, bell hit]\nRing the bell again\nI'm not done, I'm not done\nKnock me down to the count of ten\nI'll be up at one\nIt's the heart of a late bloomer\nBurning slow, burning long\nRing the bell again\nI'm coming on strong\n\n[Verse 2: chug, bass and kick, stabs answer the vocal]\nThey love you when you're twenty\nThey forget you when you fall\nBut a second wind's a freight train\nComing straight on through the wall\nEvery bruise is a diploma\nEvery scar's a signed receipt\nI've got nothing left to prove now\nThat's what makes me hard to beat\n\n[Pre-Chorus: snare build]\nSo tape it up, pull it tight\nOne more round in the morning light\n\n[Chorus: full band, gang vocals, bell hit]\nRing the bell again\nI'm not done, I'm not done\nKnock me down to the count of ten\nI'll be up at one\nIt's the heart of a late bloomer\nBurning slow, burning long\nRing the bell again\nI'm coming on strong\n\n[Bridge: kick and chug only, call and response, building]\nStand (stand) when the lights go low\nStand (stand) when they tell you no\nThe crowd went home an hour ago\nI'm still here, ring it, let's go\n\n[Guitar Solo: short, melodic, anthemic]\n\n[Final Chorus: bigger, crashes on every stab]\nRing the bell again\nI'm not done, I'm not done\nKnock me down to the count of ten\nI'll be up at one\nIt's the heart of a late bloomer\nBurning slow, burning long\nRing the bell again\nI'm coming on strong\n\n[Outro: stabs and gang chant, single final hit]\nRing the bell (again)\nRing the bell (again)\nRing the bell",
+    "taskId": "0985bd3944a2d497c98fa585b5311cc4",
+    "sunoClipIds": [
+      "ae2a9011-79c8-433b-b683-e161c17e80cf",
+      "6c43d334-41d8-40f9-b5f2-775b2ce9093c"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784881049,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ae2a9011-79c8-433b-b683-e161c17e80cf",
+        "durationSec": 254.6,
+        "file": "eighties/e80_08_ring_the_bell_again_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "6c43d334-41d8-40f9-b5f2-775b2ce9093c",
+        "durationSec": 254.76,
+        "file": "eighties/e80_08_ring_the_bell_again_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_08_ring_the_bell_again_req.json",
+      "eighties/e80_08_ring_the_bell_again_rec.json"
+    ],
+    "cover": "eighties/covers/e80_08_ring_the_bell_again.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 108 BPM, 4/4, D minor, driving straight eighths. Determined, muscular and marching, like footsteps on a cold morning.\n\nVOICE: Gritty male tenor with real grain, pushed and earnest, every line ending with force. Verses are tight and rhythmic. The chorus opens up with doubled lead and a gang of male backing voices on the title line.\n\nINSTRUMENTS: Electric guitar playing a relentless palm-muted sixteenth-note chug on one low note (the ticking engine). Full-band power-chord stabs, with drums, bass and piano all hitting together in a syncopated pattern with silence between hits (the earworm). Punchy bass locked to the kick. Big gated-reverb snare. Piano doubling the stabs. A sustained rock organ pad in choruses.\n\nARRANGEMENT MAP: 0:00 Intro, muted guitar chug alone for 4 bars, then the stab pattern crashes in twice. 0:18 Verse 1, chug, bass and kick only, with stabs answering every second line. 0:54 Pre-chorus, snare build. 1:03 Chorus 1, full band and gang vocals. 1:30 Stab pattern returns alone. 1:39 Verse 2. 2:15 Pre-chorus. 2:24 Chorus 2. 2:51 Bridge, drops to kick, chug and call-and-response vocals, building bar by bar. 3:09 Guitar solo, short, melodic and anthemic over the chorus chords. 3:27 Final chorus, one step more intense, crashes on every stab. 3:54 Outro, the stab pattern and 'ring the bell' chant, ending on a single final hit at 4:05.\n\nPRODUCTION & MIX: Tight, punchy and dry in the verses, huge in the choruses. Guitars doubled wide, snare with classic gated reverb, vocal forward with slight tape grit.\n\nSIGNATURE MOMENT: The first full-band stabs after the lone guitar chug. The silence between each hit is where fists go in the air.\n\nMODERN POINT OF VIEW: A real boxing-ring bell rings once on the downbeat of each chorus. Cinematic sub-bass impacts reinforce the stabs, trailer-style.\n\nEMOTIONAL ARC: Grit, resolve, then triumph without bragging.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1982 arena rock motivational anthem, gritty earnest male tenor vocal, 108 BPM, D minor, driving, muscular, relentless palm-muted sixteenth-note guitar chug, syncopated full-band power-chord stabs with silence between hits, piano doubling the stabs, punchy bass locked to the kick, big gated-reverb snare, rock organ pad in the chorus, short anthemic guitar solo, boxing ring bell on chorus downbeats, doubled chorus with male gang backing vocals, tight punchy mix, determined comeback, training montage, cold morning run\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale vocals, synth-pop, drum machine, saxophone, acoustic ballad, trap hi-hats, EDM, rap\n\nWHAT IT IS ABOUT\n\nA comeback at an age when nobody expects one. The title, the corner office and the applause are gone. What is left is a five a.m. run and a hunger that has nothing to prove.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a boxer's last fight; starting over after a layoff or a divorce; recovery from illness or addiction; a parent going back to school; or anyone over forty refusing to be counted out. 'Ring the bell' is a boxing round, a school bell, a hospital bell rung at the end of treatment, or the opening bell of a market.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: verb-driven montage lines, chord stabs that punch in the gaps, and a metaphor the listener can wear ('the heart of a late bloomer'). The line 'knock me down to the count of ten, I'll be up at one' is the T-shirt. Designed mishearing: 'Ring the bell again' is heard as 'Bring the belt again', which is still boxing.",
+    "workbookAtAGlance": "Ring the Bell Again\n\nBackup titles\nUp at One / Heart of a Late Bloomer\n\nAt a glance\n108 BPM, D minor\nVoice: Gritty male tenor\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_09",
+    "title": "Everybody's Selling Something",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 9,
+    "slug": "e80_09_everybodys_selling_something",
+    "inspiredBy": "Sweet Dreams (Are Made of This) (Eurythmics, 1983)",
+    "leadVoice": "Cool, low female contralto with an androgynous colour: precise, unsmiling, almost spoken, with no vibrato. Wordless multi-tracked 'ah' harmonies stacked like a choir in the breaks. Backing answers in parentheses are sung by the same voice an octave up.",
+    "model": "V6",
+    "style": "1983 cold minimalist British synth-pop, cool low androgynous female contralto vocal, precise and unsmiling, 124 BPM, A minor, hypnotic, mechanical, two interlocking analog synth sequences forming a dark riff, heavy four-on-the-floor electronic kick, thin electronic snare and clap, sub-heavy synth bass, staccato synth string stabs, tapped-glass metallic percussion, multi-tracked wordless choir-like harmonies, call-and-response hook, stark spacious mix, sparse breakdown with voice and kick only, detached, knowing, cinematic, slightly menacing",
+    "negativeTags": "guitar, acoustic instruments, male lead vocals, live drums, saxophone, warm ballad, trap hi-hats, rap",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 250,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: dark interlocking synth riff, heavy kick]\n\n[Verse 1: cool, low, deadpan]\nEverybody's selling something\nTell me what you came to buy\nI've been up and down the market\nEverybody's got a price or a lie\n\n[Verse 2: cool, low, deadpan]\nHalf of them will sell you mirrors\nHalf of them will sell you doors\nOne of them just wants you wanting\nAll of them want you wanting more\n\n[Chorus: call and response hook, claps]\nStep right up (don't look down)\nStep right up (it's your turn now)\nStep right up (don't look down)\nThe carnival is the whole town\n\n[Interlude: wordless choir-like harmonies over the riff]\n(Ah, ah, ah)\n\n[Verse 3: cool, low]\nI sold a summer for a title\nI sold the title for a view\nI sold the view to buy the summer\nBack at twice the price from you\n\n[Verse 4: add staccato string stabs]\nEverybody's selling something\nEven silence has a fee\nI would give you this for nothing\nBut nothing's the most expensive thing on me\n\n[Chorus: call and response hook, claps]\nStep right up (don't look down)\nStep right up (it's your turn now)\nStep right up (don't look down)\nThe carnival is the whole town\n\n[Breakdown: kick, voice and tapped glass only, tense]\nEverybody's selling something\nEverybody's selling something\n(What did you come to buy?)\n(What did you come to buy?)\n\n[Verse: synth riff slams back in]\nEverybody's selling something\nTell me what you came to buy\nI've been up and down the market\nEverybody's got a price or a lie\n\n[Chorus: repeated, layered harmonies]\nStep right up (don't look down)\nStep right up (it's your turn now)\nStep right up (don't look down)\nThe carnival is the whole town\n\n[Outro: riff and whispered question, sudden cut]\nStep right up\nStep right up\n(What did you come to buy?)",
+    "taskId": "dc4ba73f45f3bf036d4bfcccb8ba9ccd",
+    "sunoClipIds": [
+      "ed1275e9-2295-4e46-9ebe-35bf1d2510e0",
+      "58313ba1-ea93-4e65-8e5f-84a3b7fccbd7"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784904145,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ed1275e9-2295-4e46-9ebe-35bf1d2510e0",
+        "durationSec": 249.52,
+        "file": "eighties/e80_09_everybodys_selling_something_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "58313ba1-ea93-4e65-8e5f-84a3b7fccbd7",
+        "durationSec": 249.4,
+        "file": "eighties/e80_09_everybodys_selling_something_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_09_everybodys_selling_something_req.json",
+      "eighties/e80_09_everybodys_selling_something_rec.json"
+    ],
+    "cover": "eighties/covers/e80_09_everybodys_selling_something.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, A minor, built on a single looping minor-key progression. Cold, hypnotic and mechanical, with an unblinking four-on-the-floor pulse.\n\nVOICE: Cool, low female contralto with an androgynous colour: precise, unsmiling, almost spoken, with no vibrato. Wordless multi-tracked 'ah' harmonies stacked like a choir in the breaks. Backing answers in parentheses are sung by the same voice an octave up.\n\nINSTRUMENTS: Two interlocking analog synth sequences, one low and buzzing, one higher and string-like, that together form the riff (the earworm). Heavy electronic kick on every beat. A sharp, thin electronic snare and clap. Sub-heavy synth bass doubling the low sequence. Staccato synthetic string stabs. A cold metallic percussion sound, like tapped glass bottles, in the breakdown. No guitars.\n\nARRANGEMENT MAP: 0:00 Intro, the two-part synth riff with kick for 8 bars. 0:16 Verse 1. 0:31 Verse 2. 0:47 Hook, call-and-response vocals with claps. 1:02 Vocal break, the wordless 'ah' harmony stack over the riff. 1:18 Verse 3. 1:33 Verse 4. 1:49 Hook. 2:04 Instrumental, the riff with string stabs and a high counter-melody. 2:20 Breakdown, everything out except kick, voice and the tapped-glass percussion: the trailer moment. 2:51 Riff slams back for the verse 1 reprise. 3:07 Hook, repeated with layered harmonies. 3:38 Outro, the riff and whispered question repeating, cutting dead at 4:00.\n\nPRODUCTION & MIX: Stark and spacious. Synths dry and upfront, a long dark reverb only on the harmony stacks, the kick hard and central. Nothing warm, nothing soft.\n\nSIGNATURE MOMENT: The riff. It should be recognisable in one bar and work under any scene from a heist to a fashion show.\n\nMODERN POINT OF VIEW: Deeper sub-bass and audible side-chain pumping against the kick. The breakdown is arranged like a modern film trailer, with a low impact hit before the riff returns.\n\nEMOTIONAL ARC: Detached, knowing, then defiant. It never smiles.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1983 cold minimalist British synth-pop, cool low androgynous female contralto vocal, precise and unsmiling, 124 BPM, A minor, hypnotic, mechanical, two interlocking analog synth sequences forming a dark riff, heavy four-on-the-floor electronic kick, thin electronic snare and clap, sub-heavy synth bass, staccato synth string stabs, tapped-glass metallic percussion, multi-tracked wordless choir-like harmonies, call-and-response hook, stark spacious mix, sparse breakdown with voice and kick only, detached, knowing, cinematic, slightly menacing\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nguitar, acoustic instruments, male lead vocals, live drums, saxophone, warm ballad, trap hi-hats, rap\n\nWHAT IT IS ABOUT\n\nA cold-eyed walk through a market where everyone has something to sell: mirrors, doors, a version of yourself. The singer has sold a summer for a title and bought it back at twice the price.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a jab at hustle culture and influencers; a wry anthem for anyone who works in sales; a comment on the 1980s and its greed; a spiritual song about what can't be bought; or a break-up song ('nothing's the most expensive thing on me'). The verse about selling a summer for a title is the midlife reading: trading time for status, then paying to get the time back.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a proverb instead of a story, a detached narrator, and a chanted instruction hook. The counting verse (half of them, half of them, one of them, all of them) is built for captions. Designed mishearing: 'Everybody's selling something' is heard as 'Everybody's sailing somewhere', a gentler song hiding inside the cynical one.",
+    "workbookAtAGlance": "Everybody's Selling Something\n\nBackup titles\nThe Carnival Is the Whole Town / Price or a Lie\n\nAt a glance\n124 BPM, A minor\nVoice: Cool androgynous contralto\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_10",
+    "title": "Overtime Hearts",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 10,
+    "slug": "e80_10_overtime_hearts",
+    "inspiredBy": "Livin' on a Prayer (Bon Jovi, 1986)",
+    "leadVoice": "Gritty male tenor with a blue-collar edge. Verses are sung low and tense, like telling a story across a bar. The chorus leaps up high and is shouted as much as sung, backed by a gang of voices on every 'oh-oh'. After the key change the lead is at the very top of his range, slightly cracking, which is the thrill.",
+    "model": "V6",
+    "style": "1986 pop-metal arena rock anthem, gritty blue-collar male tenor vocal with a shouted high chorus, 122 BPM, D minor with a dramatic key change up for the final choruses, talk-box guitar hook that sounds like a robotic voice, pulsing sequenced synth bass, chugging palm-muted rhythm guitars opening into power chords, bright keyboard pads and synth brass, huge arena drums with gated reverb, fast melodic guitar solo, clap-and-chant breakdown, big male gang vocals, glossy wide mix, working-class love story, defiant, fist-pumping stadium singalong",
+    "negativeTags": "female lead vocals, drum machine, saxophone, acoustic ballad, trap hi-hats, EDM, rap, autotune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: dark synth pad, pulsing bass, talk-box guitar hook]\n(Oh-oh, oh-oh)\n\n[Verse 1: bass pulse, hi-hat and voice, guitars held back]\nDanny drives the night for strangers\nSleeping in the hours between\nGot a diploma in a kitchen drawer\nAnd a dashboard full of dreams\nRosa pulls a double on the ward\nFeet on fire, coffee cold\nShe texts him from the stairwell:\n\"We're not broke, babe, we're on hold\"\n\n[Pre-Chorus: drums build, guitars open up]\nShe says: we've got each other's shoulders\nWe've got the weekend if it comes\nYou count the miles, I'll count the hours\nWe'll call it even when we're done\n\n[Chorus: full band, shouted, gang vocals]\nOh-oh! Clock us in, we're overtime hearts\nOh-oh! Beating through the hardest parts\nHold tight, we were built for the long way 'round\nOh-oh! Overtime hearts, don't let us down\n\n[Verse 2: bass pulse and voice, talk-box answers]\nThe landlord left a letter\nIn a font that never smiles\nRosa stuck it to the fridge door\nDrew a heart and wrote \"in a while\"\nDanny hums a song his father\nUsed to hum against the cold\nSome things you don't inherit\nSome things are all you hold\n\n[Pre-Chorus: drums build, guitars open up]\nShe says: we've got each other's shoulders\nWe've got the weekend if it comes\nYou count the miles, I'll count the hours\nWe'll call it even when we're done\n\n[Chorus: full band, shouted, gang vocals]\nOh-oh! Clock us in, we're overtime hearts\nOh-oh! Beating through the hardest parts\nHold tight, we were built for the long way 'round\nOh-oh! Overtime hearts, don't let us down\n\n[Guitar Solo: fast, melodic, ends on a held bend]\n\n[Bridge: kick drum and claps, crowd chant]\nOne more mile, one more floor\nOne more night, then one night more\n(Hold tight) Hold tight\n(Hold tight) Hold tight\n\n[Final Chorus: key change up, biggest, gang vocals]\nOh-oh! Clock us in, we're overtime hearts\nOh-oh! Beating through the hardest parts\nHold tight, we were built for the long way 'round\nOh-oh! Overtime hearts, don't let us down\nOh-oh! Clock us in, we're overtime hearts\nOh-oh! Beating through the hardest parts\nHold tight, we were built for the long way 'round\nOh-oh! Overtime hearts, don't let us down\n\n[Outro: gang chant and talk-box trading, final crash]\n(Oh-oh) Overtime hearts\n(Oh-oh) Overtime hearts",
+    "taskId": "d5fb8cca754343a39a53f62515c79de4",
+    "sunoClipIds": [
+      "fa3d267d-d827-4e2a-964f-49055504f801",
+      "115a7dc6-7a1e-4681-b515-9a6eebf52f52"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784890540,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "fa3d267d-d827-4e2a-964f-49055504f801",
+        "durationSec": 254.48,
+        "file": "eighties/e80_10_overtime_hearts_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "115a7dc6-7a1e-4681-b515-9a6eebf52f52",
+        "durationSec": 254.4,
+        "file": "eighties/e80_10_overtime_hearts_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_10_overtime_hearts_req.json",
+      "eighties/e80_10_overtime_hearts_rec.json"
+    ],
+    "cover": "eighties/covers/e80_10_overtime_hearts.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, D minor, with the final choruses jumping up a minor third to F minor. Urgent, fist-pumping, built for twenty thousand people.\n\nVOICE: Gritty male tenor with a blue-collar edge. Verses are sung low and tense, like telling a story across a bar. The chorus leaps up high and is shouted as much as sung, backed by a gang of voices on every 'oh-oh'. After the key change the lead is at the very top of his range, slightly cracking, which is the thrill.\n\nINSTRUMENTS: A talk-box guitar hook, a guitar that sounds like a robotic voice saying 'woh-woh' (the earworm). Pulsing sequenced synth bass in the intro and verses. Chugging palm-muted rhythm guitars that open into ringing power chords. Bright keyboard pads and a synth-brass line in the chorus. Huge arena drums with an explosive snare and tom rolls.\n\nARRANGEMENT MAP: 0:00 Intro, dark synth pad and pulsing bass, the talk-box hook answering, gang 'oh-oh' at 0:16. 0:31 Verse 1, bass pulse, hi-hat and voice, guitars held back. 1:02 Pre-chorus, drums build, guitars open up. 1:18 Chorus 1, full band and gang vocals. 1:34 Talk-box hook returns. 1:42 Verse 2. 2:13 Pre-chorus. 2:29 Chorus 2. 2:45 Guitar solo, fast, melodic and singable, ending on a held bend. 3:01 Bridge, drops to kick drum and claps with the crowd-style 'hold tight' chant. 3:16 One beat of silence, then the key change and the final double chorus. 3:48 Outro, gang chant and talk-box trading, final crash at 4:05.\n\nPRODUCTION & MIX: Maximum 1986 arena gloss. Layered guitars wide, drums drenched in big gated reverb, gang vocals spread across the whole stereo field, lead vocal bright and forward.\n\nSIGNATURE MOMENT: The beat of silence and the key change at 3:16. The whole room has to jump up to reach it.\n\nMODERN POINT OF VIEW: A tighter, punchier kick and sub than the era allowed. A phone-buzz texture introduces the line where Rosa texts from the stairwell.\n\nEMOTIONAL ARC: Tired, defiant, then victorious together.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1986 pop-metal arena rock anthem, gritty blue-collar male tenor vocal with a shouted high chorus, 122 BPM, D minor with a dramatic key change up for the final choruses, talk-box guitar hook that sounds like a robotic voice, pulsing sequenced synth bass, chugging palm-muted rhythm guitars opening into power chords, bright keyboard pads and synth brass, huge arena drums with gated reverb, fast melodic guitar solo, clap-and-chant breakdown, big male gang vocals, glossy wide mix, working-class love story, defiant, fist-pumping stadium singalong\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale lead vocals, drum machine, saxophone, acoustic ballad, trap hi-hats, EDM, rap, autotune\n\nWHAT IT IS ABOUT\n\nDanny drives nights for strangers. Rosa works double shifts on a hospital ward. The rent letter is on the fridge with a heart drawn on it. They are tired, in love, and not finished.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a love story about a couple getting by; an anthem for nurses, drivers and anyone on a second job; a song about your own parents and what they carried; or a pep talk for the last stretch of anything hard. 'Overtime' is extra hours at work and extra time at the end of a game.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: two named characters with real jobs, a chorus that is quoted speech between them, a voice-like guitar hook, and a late upward key change that pushes the crowd past its range. The line 'we're not broke, babe, we're on hold' is written to be quoted. Designed mishearing: 'overtime hearts' is heard as 'over-tired hearts' and 'oh, the time hurts', and both are true.",
+    "workbookAtAGlance": "Overtime Hearts\n\nBackup titles\nClock Us In / We're Not Broke, We're on Hold\n\nAt a glance\n122 BPM, D minor, key change to F minor\nVoice: Gritty male tenor, gang chorus\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_11",
+    "title": "Wear My Weather",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 11,
+    "slug": "e80_11_wear_my_weather",
+    "inspiredBy": "Running Up That Hill (A Deal with God) (Kate Bush, 1985)",
+    "leadVoice": "Female mezzo-soprano with a theatrical, wide-ranging delivery: breathy and close in the verses, swooping up into a strong, keening head voice on the chorus. Layered whispered doubles. In the bridge and outro a pitch-shifted low version of her own voice answers her, as if the other person has borrowed it.",
+    "model": "V6",
+    "style": "1985 British art-pop, theatrical female mezzo-soprano vocal, breathy verses and keening soaring chorus, 106 BPM, B-flat minor over a dark drone, relentless, ritualistic, galloping deep tom-tom drum pattern with dry electronic kick, breathy lo-fi sampled cello-and-sigh hook, sustained dark synth drone, plucked string synth figures, distant delayed electric guitar growl, deep sub pedal bass, layered whispers, pitch-shifted low voice answering in the bridge, chanted one-note bridge, dark wide immersive mix, long reverbs, faint rain ambience, yearning, mystical, urgent",
+    "negativeTags": "cymbals, hi-hats, male lead vocals, acoustic guitar, saxophone, bright pop, trap, rap",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 270,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: dark drone fades in, galloping toms, breathy sampled hook]\n\n[Verse 1: breathy voice over toms and drone]\nYou say it doesn't hurt you\nI say it doesn't show\nWe stand in the same kitchen\nIn two kinds of snow\n\n[Pre-Chorus: plucked string synth figures]\nThere's a door between us nobody built\nI'd open it with anything\nA word, a prayer, a guilt\n\n[Chorus: soaring, keening, sampled hook underneath]\nCome wear my weather\nFor an hour, for a day\nI'll walk inside your thunder\n'Til I learn what it would say\nIf we could swap our skies, love\nNobody'd have to shout\nCome wear my weather\nAnd I'll wear yours out\n\n[Verse 2: breathy voice over toms and drone]\nYou were raised on different thunder\nI was raised on different rain\nWe learned two words for mercy\nAnd no word for the pain\n\n[Pre-Chorus: plucked string synth figures]\nThere's a door between us nobody built\nI'd open it with anything\nA word, a prayer, a guilt\n\n[Chorus: soaring, keening, guitar growl]\nCome wear my weather\nFor an hour, for a day\nI'll walk inside your thunder\n'Til I learn what it would say\nIf we could swap our skies, love\nNobody'd have to shout\nCome wear my weather\nAnd I'll wear yours out\n\n[Bridge: chanted on one note, stacked voices, low pitched voice]\nTrade me, trade me, eyes for eyes\nNot to blind, just to recognize\nTrade me, trade me, skin for skin\nOpen the door and let the weather in\n\n[Breakdown: kick alone, wordless call, faint rain]\n(Ee-oh) Is it raining where you are?\n(Ee-oh) It's been raining where I am\n(Ee-oh) Is it raining where you are?\n(Ee-oh, ee-oh)\n\n[Final Chorus: full intensity, two voices trading lines]\nCome wear my weather\nFor an hour, for a day\nI'll walk inside your thunder\n'Til I learn what it would say\nIf we could swap our skies, love\nNobody'd have to shout\nCome wear my weather\nAnd I'll wear yours out\n\n[Outro: toms keep running, everything fades to the drone]\nIf we could swap our skies\n(Come wear my weather)\nIf we could swap our skies\n(Come wear my weather)\nI'd wear yours out",
+    "taskId": "76a786623c0e4a820a40d9df4376d542",
+    "sunoClipIds": [
+      "f5cbe265-6132-4fcc-af2c-8c80631db391",
+      "161b4cc1-53ed-489e-8a0d-13a17f877625"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784890690,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "f5cbe265-6132-4fcc-af2c-8c80631db391",
+        "durationSec": 269.56,
+        "file": "eighties/e80_11_wear_my_weather_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "161b4cc1-53ed-489e-8a0d-13a17f877625",
+        "durationSec": 269.52,
+        "file": "eighties/e80_11_wear_my_weather_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_11_wear_my_weather_req.json",
+      "eighties/e80_11_wear_my_weather_rec.json"
+    ],
+    "cover": "eighties/covers/e80_11_wear_my_weather.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 106 BPM, 4/4, B-flat minor, over a drone that barely changes. Relentless, galloping and ritual, like running in a dream.\n\nVOICE: Female mezzo-soprano with a theatrical, wide-ranging delivery: breathy and close in the verses, swooping up into a strong, keening head voice on the chorus. Layered whispered doubles. In the bridge and outro a pitch-shifted low version of her own voice answers her, as if the other person has borrowed it.\n\nINSTRUMENTS: A driving, galloping drum pattern played on deep toms and a dry electronic kick, with no cymbals at all (the engine). A breathy sampled-instrument hook, half cello and half human sigh, playing a short falling phrase (the earworm). A dark, sustained synth drone. Plucked string-like synth figures. A distant, heavily delayed electric guitar that only growls in the choruses. Deep sub-bass pedal note.\n\nARRANGEMENT MAP: 0:00 Intro, drone fades in, the galloping toms start at 0:05, the sampled hook enters at 0:14. 0:32 Verse 1, voice over drums and drone only. 0:50 Pre-chorus, plucked figures appear. 1:04 Chorus 1, hook returns under the vocal, guitar growl. 1:40 Verse 2. 1:58 Pre-chorus. 2:12 Chorus 2. 2:48 Bridge, chanted on one note with stacked voices, the low pitch-shifted voice joins. 3:06 Breakdown, drums thin to kick alone, the wordless call and the 'raining' question. 3:24 Final chorus, full intensity with the two voices trading lines. 3:58 Outro, the toms keep running while everything else fades, ending on the drone at 4:20.\n\nPRODUCTION & MIX: Dark, wide and immersive. Drums dry and centred, vocals swimming in long reverb and delay, the hook slightly lo-fi and grainy like an early digital sampler.\n\nSIGNATURE MOMENT: The first entry of the sampled sigh-cello hook over the galloping toms. It should raise the hair on your arms.\n\nMODERN POINT OF VIEW: Cinema-grade sub-bass under the drone, and real rain and far-off thunder mixed almost subliminally beneath the breakdown.\n\nEMOTIONAL ARC: Distance, pleading, then communion.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1985 British art-pop, theatrical female mezzo-soprano vocal, breathy verses and keening soaring chorus, 106 BPM, B-flat minor over a dark drone, relentless, ritualistic, galloping deep tom-tom drum pattern with dry electronic kick, breathy lo-fi sampled cello-and-sigh hook, sustained dark synth drone, plucked string synth figures, distant delayed electric guitar growl, deep sub pedal bass, layered whispers, pitch-shifted low voice answering in the bridge, chanted one-note bridge, dark wide immersive mix, long reverbs, faint rain ambience, yearning, mystical, urgent\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ncymbals, hi-hats, male lead vocals, acoustic guitar, saxophone, bright pop, trap, rap\n\nWHAT IT IS ABOUT\n\nTwo people stand in the same kitchen in two different kinds of snow. One asks the other to trade inner weather for a day, so that nobody has to shout to be understood.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a marriage trying to hear itself; a parent and a teenager; a friend reaching someone who is depressed or grieving; two sides of a divided family or country; or a conversation with your younger self. 'I'll wear yours out' means both 'I'll wear it outside' and 'I'll carry it until it's used up'.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an impossible swap as the central idea, a bodily metaphor for emotional work, direct questions to 'you', and a chanted bridge. The opening image ('the same kitchen, in two kinds of snow') is the line people will quote. Designed mishearing: 'Wear my weather' is heard as 'Where, my wanderer' and 'Whether, my weather', each of which opens a different story.",
+    "workbookAtAGlance": "Wear My Weather\n\nBackup titles\nTwo Kinds of Snow / Swap Our Skies\n\nAt a glance\n106 BPM, B-flat minor\nVoice: Theatrical female mezzo-soprano\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_12",
+    "title": "Slow Dance With a Secret",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 12,
+    "slug": "e80_12_slow_dance_with_a_secret",
+    "inspiredBy": "Careless Whisper (George Michael, 1984)",
+    "leadVoice": "Breathy, soulful male tenor, intimate and close in the verses, rising to an aching full voice in the chorus and flipping into soft falsetto at the ends of lines. Ad-libbed sighs and melismas in the final chorus. Light two-part 'ooh' backing harmonies.",
+    "model": "V6",
+    "style": "1984 sophisti-pop, blue-eyed soul slow ballad, breathy soulful male tenor vocal with falsetto flips and ad-libbed melismas, 76 BPM, C minor, smoky, swaying, sensual alto saxophone playing a descending four-bar hook and a climbing solo, fretless bass slides, nylon-string guitar arpeggios, glassy digital electric piano, soft congas and shaker, drum machine with rim-click and deep reverb snare, warm string pad, soft ooh backing harmonies, lush late-night mix, long plate reverb, faint vinyl crackle, last dance, guilt, tenderness, bittersweet",
+    "negativeTags": "distorted guitar, fast tempo, female lead vocals, rock drums, trap hi-hats, EDM, rap",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 275,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: sultry saxophone hook twice, electric piano, vinyl crackle]\n\n[Verse 1: breathy, rim-click, nylon guitar]\nThe band is playing something from the year we met\nYou fix my collar like you haven't noticed yet\nA silver ball is turning every lie to light\nAnd I can't find the floor tonight\n\n[Pre-Chorus: strings rise]\nHands know things that mouths won't say\nYou're leading now, I look away\n\n[Chorus: snare enters, saxophone answers the vocal]\nI'm slow dancing with a secret\nAnd it's stepping on your feet\nEvery turn I almost tell you\nEvery turn I miss the beat\nThe saxophone keeps asking\nWhat I can't say out loud\nI'm slow dancing with a secret\nIn the middle of the crowd\n\n[Instrumental: saxophone hook, once]\n\n[Verse 2: breathy, rim-click, nylon guitar]\nTomorrow has a suitcase and a taxi fare\nTonight has your perfume and your shoulder bare\nIf music is a mercy, let it play too long\nDon't make me be here when it's gone\n\n[Pre-Chorus: strings rise]\nHands know things that mouths won't say\nYou're leading now, I look away\n\n[Chorus: saxophone answers the vocal]\nI'm slow dancing with a secret\nAnd it's stepping on your feet\nEvery turn I almost tell you\nEvery turn I miss the beat\nThe saxophone keeps asking\nWhat I can't say out loud\nI'm slow dancing with a secret\nIn the middle of the crowd\n\n[Bridge: brief major-key hope, voice nearly alone]\nMaybe you already know\nMaybe that's why you hold me so slow\nMaybe we're both dancing with one\nAnd the song is almost done\n\n[Saxophone Solo: starts on the hook, climbs to a held high note]\n\n[Final Chorus: vocal ad-libs, saxophone weaving around the voice]\nI'm slow dancing with a secret\nAnd it's stepping on your feet\nEvery turn I almost tell you\nEvery turn I miss the beat\nThe saxophone keeps asking\nWhat I can't say out loud\nI'm slow dancing with a secret\nIn the middle of the crowd\n\n[Outro: band slows, saxophone hook one last time, fade out]\nAnd the song is almost done\n(Almost done)\nAnd the song is almost done",
+    "taskId": "bcff79f82b88ebf07a65242b481574be",
+    "sunoClipIds": [
+      "4f2da731-680b-456c-bc0a-93974ac4e64c",
+      "865b26a9-b87c-486b-ad82-9dd31b5128ae"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784897659,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "4f2da731-680b-456c-bc0a-93974ac4e64c",
+        "durationSec": 274.8,
+        "file": "eighties/e80_12_slow_dance_with_a_secret_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "865b26a9-b87c-486b-ad82-9dd31b5128ae",
+        "durationSec": 277.16,
+        "file": "eighties/e80_12_slow_dance_with_a_secret_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_12_slow_dance_with_a_secret_req.json",
+      "eighties/e80_12_slow_dance_with_a_secret_rec.json"
+    ],
+    "cover": "eighties/covers/e80_12_slow_dance_with_a_secret.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 76 BPM, 4/4, C minor, a slow four-chord descending loop. Smoky, swaying and bittersweet: a last dance at 1 a.m.\n\nVOICE: Breathy, soulful male tenor, intimate and close in the verses, rising to an aching full voice in the chorus and flipping into soft falsetto at the ends of lines. Ad-libbed sighs and melismas in the final chorus. Light two-part 'ooh' backing harmonies.\n\nINSTRUMENTS: Alto saxophone playing a four-bar descending phrase with a bluesy fall at the end: sensual, slightly raspy, instantly hummable (the earworm). Fretless bass with sliding notes. Nylon-string guitar picking gentle arpeggios. Glassy digital electric piano chords. Soft congas and shaker. A drum machine with a rim-click backbeat and a deep, reverb-soaked snare on the choruses. Warm string pad.\n\nARRANGEMENT MAP: 0:00 Intro, the sax hook played in full, twice, over electric piano and bass. 0:25 Verse 1, rim-click, nylon guitar and voice. 0:50 Pre-chorus, strings rise. 1:03 Chorus 1, snare enters, sax answers the vocal lines. 1:28 Sax hook, once. 1:41 Verse 2. 2:06 Pre-chorus. 2:19 Chorus 2. 2:44 Bridge, chords move to the relative major for a moment of fragile hope, voice nearly alone. 3:09 Sax solo, starts on the hook then improvises upward to a held high note. 3:34 Final chorus with vocal ad-libs and sax weaving around the voice. 3:59 Outro, the last line repeated as the band slows and the sax plays the hook one final time, fading at 4:25.\n\nPRODUCTION & MIX: Lush and late-night. Long plate reverb on the sax and snare, voice warm and upfront, bass round and deep, everything smooth and velvet-soft.\n\nSIGNATURE MOMENT: The first four bars. The sax plays the entire emotional story before anyone sings.\n\nMODERN POINT OF VIEW: A wider, deeper mix with soft sub-bass, and vinyl crackle under the intro so it sounds like the record the couple is dancing to.\n\nEMOTIONAL ARC: Tender, guilty, then resigned. The song ends before the secret is told.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1984 sophisti-pop, blue-eyed soul slow ballad, breathy soulful male tenor vocal with falsetto flips and ad-libbed melismas, 76 BPM, C minor, smoky, swaying, sensual alto saxophone playing a descending four-bar hook and a climbing solo, fretless bass slides, nylon-string guitar arpeggios, glassy digital electric piano, soft congas and shaker, drum machine with rim-click and deep reverb snare, warm string pad, soft ooh backing harmonies, lush late-night mix, long plate reverb, faint vinyl crackle, last dance, guilt, tenderness, bittersweet\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, fast tempo, female lead vocals, rock drums, trap hi-hats, EDM, rap\n\nWHAT IT IS ABOUT\n\nA couple dances to a song from the year they met. One of them is holding something they haven't said, and every turn of the floor almost shakes it loose. The saxophone keeps asking.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: an affair about to be confessed; a diagnosis not yet shared; someone who has decided to leave; a hidden engagement ring and a proposal that keeps failing to start; or two people who each know the other's secret already. The lyric never says what the secret is, so the listener fills in their own.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a dance floor as the stage for guilt, emotion shown through the body (missed steps, hands that know), and an instrumental hook that 'speaks'. The bridge twist ('maybe we're both dancing with one') doubles the story. Designed mishearing: 'slow dancing with a secret' is heard as 'slow dancing with a seeker' and 'so dancing with a secret'.",
+    "workbookAtAGlance": "Slow Dance With a Secret\n\nBackup titles\nHands Know Things / Before the Band Stops\n\nAt a glance\n76 BPM, C minor\nVoice: Breathy male tenor with falsetto\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_13",
+    "title": "Kindness Is a Riot",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 13,
+    "slug": "e80_13_kindness_is_a_riot",
+    "inspiredBy": "Under Pressure (Queen & David Bowie, 1981)",
+    "leadVoice": "A duet for two contrasting male voices. Voice A is a flamboyant, operatic tenor with a huge range who leaps into falsetto and takes the scat lines, verse lines 1-2 and the climax. Voice B is a cool, dry, slightly detached baritone who takes verse lines 3-4 and speaks the last words. They trade lines, then join in unison on the chorus, with a multi-tracked choir behind them at the climax.",
+    "model": "V6",
+    "style": "1981 British art-rock duet, two contrasting male vocals trading lines, a flamboyant operatic tenor with falsetto leaps and scat singing and a cool dry baritone, 112 BPM, A major, dynamic from sparse to enormous, bouncing six-note electric bass riff with a rest, doubled by piano, finger snaps and handclaps, clean chiming guitar arpeggios, bright piano, tight drums, organ pad, multi-tracked choir at the climax, quiet whispered breakdown building to a full-voice peak, ending on bass, snaps and a spoken line, live roomy mix, anxious, compassionate, cathartic",
+    "negativeTags": "female lead vocals, drum machine, synth-pop, saxophone, trap hi-hats, EDM, rap, autotune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 250,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bass riff and finger snaps, piano joins, scat vocals]\nDoo-lay, doo-lay, ah-ha\nDoo-lay, doo-lay, ooh\nDoo-lay, doo-lay, ah-ha\n(Hey)\n\n[Verse 1: tenor then baritone trading lines, bass and snaps]\nBuzzing in my pocket, ringing in my teeth\nA hundred little fires and I can't find the street\nThe news is at the window, the bills are at the door\nThe ceiling's on the carpet and I can't find the floor\n\n[Pre-Chorus: guitar arpeggios, rising piano]\nIt's the weight of the day after day after day\nIt's the wait for a word nobody will say\n\n[Chorus: drums open, both voices in unison]\nSo be kind, be loud about it\nBe kind, stand up and shout it\nWhen the whole world's wound up tight\nKindness is a riot tonight\n\n[Scat Break: playful scat vocals over bass and snaps]\nDoo-lay, doo-lay, ah-ha\nDoo-lay, doo-lay, ooh\n\n[Verse 2: baritone then tenor, quieter and closer]\nI watched a stranger crumble on the six-fifteen train\nI watched another stranger hold her 'til she knew her name\nNobody filmed it, nobody cheered\nSomething almost holy just appeared\n\n[Pre-Chorus: guitar arpeggios, rising piano]\nIt's the weight of the day after day after day\nIt's the wait for a word nobody will say\n\n[Chorus: drums open, both voices in unison]\nSo be kind, be loud about it\nBe kind, stand up and shout it\nWhen the whole world's wound up tight\nKindness is a riot tonight\n\n[Breakdown: snaps, organ, near whispers, building bar by bar]\nWhat if we, what if we, what if we did?\nWhat if we, what if we, what if we did?\nTurn it down, turn it down\nTurn it all the way up!\n\n[Bridge: climax, operatic tenor at full power, piano, choir]\nGive it away, give it away\nIt's the only thing that stays\nGive it away, give it away\nIt's the only thing that stays\n\n[Final Chorus: both voices and choir]\nSo be kind, be loud about it\nBe kind, stand up and shout it\nWhen the whole world's wound up tight\nKindness is a riot tonight\nKindness is a riot tonight\n\n[Outro: bass and snaps, last scat, final words spoken alone]\nDoo-lay, doo-lay, ah-ha\nBe kind",
+    "taskId": "abbd7f5fe95c0aaeede5968884a73b32",
+    "sunoClipIds": [
+      "c4977416-2131-4ce2-bdb9-6d840ab368a6",
+      "12a9e085-be08-42e1-be9b-f3b356df9619"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784900232,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "c4977416-2131-4ce2-bdb9-6d840ab368a6",
+        "durationSec": 248.76,
+        "file": "eighties/e80_13_kindness_is_a_riot_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "12a9e085-be08-42e1-be9b-f3b356df9619",
+        "durationSec": 249.56,
+        "file": "eighties/e80_13_kindness_is_a_riot_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_13_kindness_is_a_riot_req.json",
+      "eighties/e80_13_kindness_is_a_riot_rec.json"
+    ],
+    "cover": "eighties/covers/e80_13_kindness_is_a_riot.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, A major, built on a two-bar bass figure. Springy and nervous at first, then enormous, then suddenly intimate.\n\nVOICE: A duet for two contrasting male voices. Voice A is a flamboyant, operatic tenor with a huge range who leaps into falsetto and takes the scat lines, verse lines 1-2 and the climax. Voice B is a cool, dry, slightly detached baritone who takes verse lines 3-4 and speaks the last words. They trade lines, then join in unison on the chorus, with a multi-tracked choir behind them at the climax.\n\nINSTRUMENTS: Electric bass playing a short, bouncing six-note figure with a held rest, doubled an octave up by piano (the earworm). Finger snaps and handclaps on the backbeat. Clean, chiming electric guitar arpeggios. Bright piano chords. Tight drums that stay on hi-hat and snaps until the choruses. A soft organ pad beneath the breakdown.\n\nARRANGEMENT MAP: 0:00 Intro, bass figure and finger snaps alone, piano doubles at 0:09, scat vocals trade at 0:17. 0:34 Verse 1, voices A then B over bass, snaps and hi-hat. 0:51 Pre-chorus, guitar arpeggios and a rising piano line. 1:00 Chorus 1, drums open, unison vocals. 1:17 Scat break. 1:26 Verse 2, B then A, a little quieter and closer. 1:43 Pre-chorus. 1:52 Chorus 2. 2:09 Breakdown, everything drops to snaps, organ and near-whispers, then builds bar by bar for 16 bars. 2:43 Climax, voice A at full operatic power over crashing piano and the choir. 3:17 Final chorus, both voices and choir, with the last line repeated. 3:43 Outro, back to bass and snaps, one last scat, then voice B says the final two words alone at 4:00.\n\nPRODUCTION & MIX: Live, roomy and dynamic, with real loud-quiet contrast instead of constant loudness. The bass is the lead instrument in the mix. Voices panned slightly apart so the conversation is clear.\n\nSIGNATURE MOMENT: The swing from the whispered breakdown to the full-voice climax, and the final dry, spoken 'be kind'.\n\nMODERN POINT OF VIEW: A phone-vibration buzz is tuned into the first bar of verse 1. The choir stack is huge and modern, but the finger snaps stay raw and human.\n\nEMOTIONAL ARC: Anxiety, witness, catharsis, then calm.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1981 British art-rock duet, two contrasting male vocals trading lines, a flamboyant operatic tenor with falsetto leaps and scat singing and a cool dry baritone, 112 BPM, A major, dynamic from sparse to enormous, bouncing six-note electric bass riff with a rest, doubled by piano, finger snaps and handclaps, clean chiming guitar arpeggios, bright piano, tight drums, organ pad, multi-tracked choir at the climax, quiet whispered breakdown building to a full-voice peak, ending on bass, snaps and a spoken line, live roomy mix, anxious, compassionate, cathartic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale lead vocals, drum machine, synth-pop, saxophone, trap hi-hats, EDM, rap, autotune\n\nWHAT IT IS ABOUT\n\nTwo voices trade panic about a world that will not stop buzzing, then notice a stranger holding up another stranger on a train. The answer they reach is loud, public, unembarrassed kindness.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a burnout anthem for the notification age; a protest song where the protest is decency; a duet between two generations; a church-friendly message song; or a comedy title, since 'a riot' also means hilarious. 'Weight' and 'wait' are sung identically on purpose, so the pre-chorus says two things at once.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a bass-and-finger-snap hook, scat that listeners will each transcribe differently, two contrasting voices in conversation, and a quiet breakdown that explodes into a moral. Designed mishearing: the invented scat syllables ('doo-lay, doo-lay') have no correct spelling, and the title is heard as 'Kindness is a rite' or 'Kind of a quiet night'.",
+    "workbookAtAGlance": "Kindness Is a Riot\n\nBackup titles\nThe Weight (and the Wait) / Be Loud About It\n\nAt a glance\n112 BPM, A major\nVoice: Male duet: flamboyant tenor and cool baritone\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_14",
+    "title": "Remember Me Loud",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 14,
+    "slug": "e80_14_remember_me_loud",
+    "inspiredBy": "Don't You (Forget About Me) (Simple Minds, 1985)",
+    "leadVoice": "Dramatic male baritone who starts in a low, intimate croon, cracks into a higher, urgent shout on the chorus, and half-speaks the breakdown. Slightly theatrical with a breathy edge. Crowd-style gang vocals on every 'na-na' chant, as if a whole school is singing.",
+    "model": "V6",
+    "style": "1985 anthemic British new wave, arena rock, dramatic male baritone vocal going from low croon to urgent shout, 112 BPM, D major, big steady stomp, bittersweet, cinematic, booming tom-heavy drums with huge gated-reverb snare, octave-pulsing bass, chiming delay-soaked electric guitar, bright glassy synth chords, organ pad, sparkling keyboard counter-melody, tambourine, half-spoken breakdown over drums and bass, crowd-style gang chant building voice by voice to a huge final chorus, long fade, reverberant gymnasium-sized mix, end credits, nostalgic, defiant, fists in the air",
+    "negativeTags": "female lead vocals, heavy metal, saxophone, acoustic ballad, trap hi-hats, EDM drop, rap",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 270,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: crashing drum fill, gang chant, full band]\nNa-na, na-na-now!\nNa-na, na-na-now!\n\n[Verse 1: low croon, drums and bass, chiming guitar in the gaps]\nWrite my name inside your sneaker\nScratch it in the bleacher wood\nWe were nobody on a Saturday\nAnd nobody felt so good\nWhen Monday comes with its uniforms\nAnd the hallway makes us small\nWill you nod like we were strangers?\nWill you know me at all?\n\n[Chorus: full band, voice jumps an octave]\nRemember me loud\nNot a whisper, not a maybe\nRemember me loud\nLike the summer went crazy\nWhen you're grown and the quiet comes around\nDon't remember me nice\nRemember me loud\n\n[Verse 2: low croon, drums and bass]\nSomeday you'll have a lanyard\nAnd a parking space with your name\nYou'll hear four notes in an elevator\nAnd for a second, you'll be flame\nI'll be a face in a yearbook\nI'll be a song you half recall\nWill you tell them that you knew me?\nWill you tell them at all?\n\n[Chorus: full band, urgent shout]\nRemember me loud\nNot a whisper, not a maybe\nRemember me loud\nLike the summer went crazy\nWhen you're grown and the quiet comes around\nDon't remember me nice\nRemember me loud\n\n[Breakdown: kick and bass only, half-spoken vocal]\nDon't file me under \"used to be\"\nDon't fold me in a drawer\nSay it, say it\nSay it like before\n\n[Build: gang chant returns voice by voice, snare roll growing]\nNa-na, na-na-now!\nNa-na, na-na-now!\nNa-na, na-na-now!\nNa-na, na-na-now!\n\n[Final Chorus: full power, ad-libs]\nRemember me loud\nNot a whisper, not a maybe\nRemember me loud\nLike the summer went crazy\nWhen you're grown and the quiet comes around\nDon't remember me nice\nRemember me loud\n\n[Outro: crowd chant over full band, shouted answers, long fade]\nNa-na, na-na-now! (Remember me)\nNa-na, na-na-now! (Aloud)\nNa-na, na-na-now! (Remember me)\nNa-na, na-na-now!",
+    "taskId": "cacf5e03137c9b2e6547ccbde1d338f0",
+    "sunoClipIds": [
+      "7184467b-90d6-4597-8db2-a29e2ddcfc77",
+      "927d7814-bd1f-4335-8605-5c93d15abf90"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784905584,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "7184467b-90d6-4597-8db2-a29e2ddcfc77",
+        "durationSec": 269.6,
+        "file": "eighties/e80_14_remember_me_loud_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "927d7814-bd1f-4335-8605-5c93d15abf90",
+        "durationSec": 268.76,
+        "file": "eighties/e80_14_remember_me_loud_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_14_remember_me_loud_req.json",
+      "eighties/e80_14_remember_me_loud_rec.json"
+    ],
+    "cover": "eighties/covers/e80_14_remember_me_loud.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, D major, big steady stomp. Anthemic, bittersweet and wide open, like the last scene of a film.\n\nVOICE: Dramatic male baritone who starts in a low, intimate croon, cracks into a higher, urgent shout on the chorus, and half-speaks the breakdown. Slightly theatrical with a breathy edge. Crowd-style gang vocals on every 'na-na' chant, as if a whole school is singing.\n\nINSTRUMENTS: Big, booming drums with a tom-heavy pattern and a huge gated-reverb snare (the heartbeat). An octave-pulsing bass line. Chiming electric guitar soaked in delay, playing ringing two-note shapes. Bright, glassy synth chords and a sustained organ pad. A sparkling keyboard counter-melody in the chorus. Tambourine on the backbeat.\n\nARRANGEMENT MAP: 0:00 Intro, a crashing drum fill and the gang 'na-na' chant twice over full band. 0:17 Verse 1, drums, bass and low croon, guitar chiming in the gaps. 0:51 Chorus 1, full band, the voice jumps an octave. 1:17 Verse 2. 1:51 Chorus 2. 2:17 Instrumental, delayed guitar and synth trading phrases. 2:34 Breakdown, everything out except kick, bass and the half-spoken vocal. 2:51 Build, the chant returns one voice at a time, a snare roll growing under it for 8 bars. 3:08 Final chorus at full power with ad-libs. 3:34 Outro, the chant repeating over the full band with shouted answers, slowly fading with the crowd still singing at 4:20.\n\nPRODUCTION & MIX: Huge and reverberant. Drums like they were recorded in a gymnasium, guitars and synths wide, vocal dry in the verses then echoing in the chorus.\n\nSIGNATURE MOMENT: The breakdown and rebuild. One low voice, then the chant returning voice by voice until the whole room has its fist in the air.\n\nMODERN POINT OF VIEW: The gang vocals are layered like a modern stadium crowd, with real handclaps. The low end is fuller and the fade is long, designed for a film's end credits.\n\nEMOTIONAL ARC: Vulnerable, insistent, then communal and defiant.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1985 anthemic British new wave, arena rock, dramatic male baritone vocal going from low croon to urgent shout, 112 BPM, D major, big steady stomp, bittersweet, cinematic, booming tom-heavy drums with huge gated-reverb snare, octave-pulsing bass, chiming delay-soaked electric guitar, bright glassy synth chords, organ pad, sparkling keyboard counter-melody, tambourine, half-spoken breakdown over drums and bass, crowd-style gang chant building voice by voice to a huge final chorus, long fade, reverberant gymnasium-sized mix, end credits, nostalgic, defiant, fists in the air\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale lead vocals, heavy metal, saxophone, acoustic ballad, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nA Saturday that made two nobodies feel like somebody, and the fear of Monday. Decades later one of them hears four notes in an elevator and is seventeen again. The request: don't remember me politely.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a graduation or reunion anthem; a break-up song; a message from a friend who died young; a parent speaking to a grown child; or the 1980s themselves talking to the people who lived them. 'Loud' is sung so it also sounds like 'aloud' and 'allowed': say my name out loud, and let me be remembered.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: questions in the verses, a plea in the chorus, a chant anyone can join after one hearing, and a breakdown that rebuilds from drums and bass. The lanyard-and-parking-space verse is aimed squarely at the grown-up 80s kid. Designed mishearing: loud / aloud / allowed, plus 'Remember me, Lloyd', which someone will insist is the real lyric.",
+    "workbookAtAGlance": "Remember Me Loud\n\nBackup titles\nDon't Remember Me Nice / Write My Name in Your Sneaker\n\nAt a glance\n112 BPM, D major\nVoice: Dramatic male baritone, croon to shout\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_15",
+    "title": "Call It Recess",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 15,
+    "slug": "e80_15_call_it_recess",
+    "inspiredBy": "Girls Just Want to Have Fun (Cyndi Lauper, 1983)",
+    "leadVoice": "Bright female soprano with a quirky, characterful delivery: hiccups, squeaks, playful spoken asides and a slight street accent, sliding from a sweet coo to a full-throated belt. Gang backing vocals from a mixed crowd of women and kids on the 'everybody out' shouts.",
+    "model": "V6",
+    "style": "1983 quirky new wave dance-pop, bright characterful female soprano vocal with hiccups, squeaks, spoken asides and a big belt, 122 BPM, G major, bouncy, mischievous, bubbling toy-organ-and-marimba synth riff, bouncy synth bass, drum machine with crisp handclaps on the backbeat, clean off-beat reggae-tinged guitar upstrokes, bright synth-brass stabs, whistling wobbly synth solo, school bell sound effect, mixed gang backing shouts, softer sincere half-time bridge, bright punchy colourful mix, playful, liberated, joyful, party",
+    "negativeTags": "male lead vocals, distorted guitar, dark mood, slow ballad, saxophone, trap hi-hats, rap",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: school bell, gang shout, bubbling synth riff, handclaps]\n(Everybody out! Everybody out!)\n\n[Verse 1: bass, claps and voice, riff answers each line]\nThe alarm goes off like a tiny lawyer\nMy daughter says, \"Mom, you forgot how to play\"\nKid, I wrote the manual on it\nI just filed it under \"someday\"\n\n[Chorus: full arrangement, gang shouts]\nSo call it recess (ring that bell!)\nWe've been good so long, been good so well\nPut the grown-up down, let the wild one out\nCall it recess\nThat's what it's all about\n(Everybody out! Everybody out!)\n\n[Verse 2: bass, claps and voice, hiccups and asides]\nThree o'clock and the meeting's eternal\nMy mother texts, \"Are you getting your rest?\"\nMa, you didn't raise a spreadsheet\nYou raised a firework under a desk\n\n[Chorus: full arrangement, gang shouts]\nSo call it recess (ring that bell!)\nWe've been good so long, been good so well\nPut the grown-up down, let the wild one out\nCall it recess\nThat's what it's all about\n(Everybody out! Everybody out!)\n\n[Synth Solo: wobbly whistling lead, chopped vocal snippets]\n\n[Bridge: half-time, soft, sincere, close warm voice]\nThey take a kid who's all bright colors\nHand her beige and a set of keys\nI'm gonna find that kid tonight\nAnd tell her, \"Come outside with me\"\n\n[Chorus: drum fill, bell, full arrangement]\nSo call it recess (ring that bell!)\nWe've been good so long, been good so well\nPut the grown-up down, let the wild one out\nCall it recess\nThat's what it's all about\n\n[Final Chorus: squeals and spoken asides over the top]\nCall it recess (ring that bell!)\nWe've been good so long, been good so well\nPut the grown-up down, let the wild one out\nCall it recess\nThat's what it's all about\n(Everybody out! Everybody out!)\n\n[Outro: call and response with the gang, last bell and a laugh]\n(Everybody out!) Recess!\n(Everybody out!) Call it recess!\n(Everybody out!) Recess!\n(Everybody out!)",
+    "taskId": "efc74fb9fa4282deb216b9e20f1753ac",
+    "sunoClipIds": [
+      "74a27fc5-9298-42ff-bbff-d2b17765f087",
+      "f2df9d5b-c0fb-4dda-a332-5a7b428c6697"
+    ],
+    "created": "Nov 15, 2026 6:21 PM ET",
+    "createTimeMs": 1794784910823,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "74a27fc5-9298-42ff-bbff-d2b17765f087",
+        "durationSec": 244.8,
+        "file": "eighties/e80_15_call_it_recess_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "f2df9d5b-c0fb-4dda-a332-5a7b428c6697",
+        "durationSec": 243.92,
+        "file": "eighties/e80_15_call_it_recess_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_15_call_it_recess_req.json",
+      "eighties/e80_15_call_it_recess_rec.json"
+    ],
+    "cover": "eighties/covers/e80_15_call_it_recess.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, G major, bouncing straight-eighth feel with a hint of reggae lilt in the guitar. Sunny, mischievous and impossible to sit still to.\n\nVOICE: Bright female soprano with a quirky, characterful delivery: hiccups, squeaks, playful spoken asides and a slight street accent, sliding from a sweet coo to a full-throated belt. Gang backing vocals from a mixed crowd of women and kids on the 'everybody out' shouts.\n\nINSTRUMENTS: A bubbling synth riff that sounds like a toy organ crossed with a marimba, playing a skipping, playground-chant melody (the earworm). Bouncy synth bass. Drum machine with crisp handclaps on every backbeat. Clean guitar playing light off-beat upstrokes. Bright synth-brass stabs in the chorus. A whistling, wobbly synth lead for the solo.\n\nARRANGEMENT MAP: 0:00 Intro, a school bell rings, the gang shout, then the bubbling riff with claps for 8 bars. 0:16 Verse 1, bass, claps and voice with the riff answering each line. 0:32 Chorus 1, full arrangement with gang shouts. 0:56 Riff alone, 4 bars. 1:04 Verse 2. 1:20 Chorus 2. 1:44 Synth solo, the wobbly whistle lead playing a cheeky variation on the vocal tune. 2:08 Bridge, half-time feel, softer and suddenly sincere, voice close and warm. 2:32 Drum fill and bell, chorus 3. 2:56 Final chorus, with improvised squeals and spoken asides over the top. 3:20 Outro, call-and-response between the gang and the lead, riff bubbling on, ending with one last bell and a laugh at 3:55.\n\nPRODUCTION & MIX: Bright, punchy and colourful. Claps and riff upfront, vocal dry and close so every hiccup is heard, a short bright reverb on the gang vocals.\n\nSIGNATURE MOMENT: The sincere half-time bridge, the one place the joke drops and she means it, followed by the bell that launches the last choruses.\n\nMODERN POINT OF VIEW: Chopped, pitched snippets of the lead vocal dance around the synth solo. A real school bell is the song's recurring sound effect. Sub-bass keeps it club-ready.\n\nEMOTIONAL ARC: Cheeky, liberated, briefly tender, then pure joy.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1983 quirky new wave dance-pop, bright characterful female soprano vocal with hiccups, squeaks, spoken asides and a big belt, 122 BPM, G major, bouncy, mischievous, bubbling toy-organ-and-marimba synth riff, bouncy synth bass, drum machine with crisp handclaps on the backbeat, clean off-beat reggae-tinged guitar upstrokes, bright synth-brass stabs, whistling wobbly synth solo, school bell sound effect, mixed gang backing shouts, softer sincere half-time bridge, bright punchy colourful mix, playful, liberated, joyful, party\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, distorted guitar, dark mood, slow ballad, saxophone, trap hi-hats, rap\n\nWHAT IT IS ABOUT\n\nThe girl who came home at dawn in 1983 is now the grown-up with the alarm clock, the meeting and a daughter who says she has forgotten how to play. Tonight she rings the bell on herself.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a mums' night out anthem; a joyful burnout song for anyone chained to a desk; a daughter and mother singing to each other; a retirement party song; or a sequel to the original's spirit, in which the parent being talked back to is now the one singing. 'Put the grown-up down' works for every age over twenty-five.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: mini domestic scenes with a relative's voice in each verse, a playground-simple title, and a bridge that states the real stakes. The generational flip (the kid now tells the parent to have fun) is the modern point of view. Designed mishearing: 'Call it recess' is heard as 'Call it reckless', which improves it.",
+    "workbookAtAGlance": "Call It Recess\n\nBackup titles\nRing That Bell / You Raised a Firework\n\nAt a glance\n122 BPM, G major\nVoice: Quirky bright female soprano\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_16",
+    "title": "Surprise, It's Me Again",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 16,
+    "slug": "e80_16_surprise_its_me_again",
+    "inspiredBy": "Never Gonna Give You Up (Rick Astley, 1987)",
+    "leadVoice": "Rich, deep, soulful male baritone: a big, warm, slightly old-fashioned voice with clean diction and total sincerity. Sweet female backing singers answer with 'oohs' and echo the ends of chorus lines.",
+    "model": "V6",
+    "style": "1987 British hit-factory dance-pop, rich deep soulful male baritone vocal, sincere and warm, 114 BPM, B-flat major, bright, bouncy, wholesome, opens with a slow moody piano-and-strings false intro before a rolling tom fill launches the beat, crisp digital drum machine, syncopated rubbery digital synth bass, bright synth-brass stabs, sweeping synth strings, glittering bell arpeggios, handclaps, sweet female backing vocals echoing and singing ooh, shiny tight punchy mix, clap-and-bass breakdown, joyful, devoted, playful, feel-good",
+    "negativeTags": "distorted guitar, guitar solo, rock drums, female lead vocals, dark mood, trap hi-hats, rap",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 248,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: slow sad solo piano and soft strings, minor key, no drums]\n\n[Instrumental: rolling tom fill, upbeat dance beat, brass stabs]\n\n[Verse 1: warm deep baritone, bass and drums, brass answers]\nYou know my number, you know my face\nI've been showing up since the second grade\nNo fine print, rain or shine\nYou've seen this movie about a thousand times\n\n[Pre-Chorus: strings climb]\nI've just gotta say it, and I've gotta say it plain\nYou could change the channel\nI'd be on it just the same\n\n[Chorus: everything in, female backing vocals echo]\nSurprise, it's me again\nAlways here, never left\nAlways gonna show up, always gonna stay\nAlways gonna open with the same old play\nSurprise, it's me again\nBet you saw it coming, friend\nAlways gonna love you 'til the very end\nSurprise, it's me again\n\n[Verse 2: warm deep baritone, brass answers]\nYou clicked on something else, I know\nA cooking show, a how-to video\nBut every road leads back to this:\nA guy in a coat with a promise and a wish\n\n[Pre-Chorus: strings climb]\nI've just gotta say it, and I've gotta say it plain\nYou could change the channel\nI'd be on it just the same\n\n[Chorus: everything in, female backing vocals echo]\nSurprise, it's me again\nAlways here, never left\nAlways gonna show up, always gonna stay\nAlways gonna open with the same old play\nSurprise, it's me again\nBet you saw it coming, friend\nAlways gonna love you 'til the very end\nSurprise, it's me again\n\n[Bridge: softer, female oohs lead, baritone answers]\n(Ooh) The world keeps changing every song\n(Ooh) I'm the one that still goes on\n(Ooh) Call it a joke, call it a sign\nI meant it every single time\n\n[Breakdown: handclaps and bass only, call and response]\nAlways, always, always gonna (show up)\nAlways, always, always gonna (stay)\nAlways, always, always gonna (show up)\nAlways gonna\n\n[Final Chorus: tom fill, full band, ad-libs]\nSurprise, it's me again\nAlways here, never left\nAlways gonna show up, always gonna stay\nAlways gonna open with the same old play\nSurprise, it's me again\nBet you saw it coming, friend\nAlways gonna love you 'til the very end\nSurprise, it's me again\n\n[Outro: call and echo over the groove, tom fill, hard stop]\nSurprise (it's me again)\nSurprise (it's me again)\nSurprise",
+    "taskId": "b3273d37b2208cf31de04a9e760e68cd",
+    "sunoClipIds": [
+      "6f0be840-283d-42fd-a950-67efd1aad068",
+      "c4f1f745-a585-466a-99e8-8ea744f94d75"
+    ],
+    "created": "Nov 15, 2026 6:22 PM ET",
+    "createTimeMs": 1794784927768,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "6f0be840-283d-42fd-a950-67efd1aad068",
+        "durationSec": 247.6,
+        "file": "eighties/e80_16_surprise_its_me_again_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "c4f1f745-a585-466a-99e8-8ea744f94d75",
+        "durationSec": 247.96,
+        "file": "eighties/e80_16_surprise_its_me_again_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_16_surprise_its_me_again_req.json",
+      "eighties/e80_16_surprise_its_me_again_rec.json"
+    ],
+    "cover": "eighties/covers/e80_16_surprise_its_me_again.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 114 BPM, 4/4, B-flat major, after a slow false intro at about 70 BPM in G minor. Bright, bouncy, wholesome factory-pop with an unstoppable spring in its step.\n\nVOICE: Rich, deep, soulful male baritone: a big, warm, slightly old-fashioned voice with clean diction and total sincerity. Sweet female backing singers answer with 'oohs' and echo the ends of chorus lines.\n\nINSTRUMENTS: A crisp digital drum machine with a famous-sounding rolling tom fill that launches the song. A syncopated, rubbery digital synth bass (the earworm). Bright synth-brass stabs punctuating every line. Lush synth strings sweeping upward into the choruses. Glittering bell arpeggios. Handclaps on the backbeat. A gentle rhythm guitar buried in the mix.\n\nARRANGEMENT MAP: 0:00 False intro, a lonely piano and soft strings play a slow, moody minor-key phrase, as if a sad ballad is starting. 0:12 A rolling tom fill crashes in and the real song starts: strings, brass stabs and bass for 8 bars. 0:29 Verse 1, bass, drums and voice, brass answering. 0:46 Pre-chorus, strings climb. 0:58 Chorus 1, everything in, backing singers echoing. 1:32 Verse 2. 1:49 Pre-chorus. 2:01 Chorus 2. 2:35 Bridge, softer, backing 'oohs' lead and the baritone answers warmly. 2:52 Breakdown, claps, bass and call-and-response only. 3:05 Tom fill again, then the final chorus with ad-libs. 3:39 Outro, 'surprise' and its echo trading over the groove, ending with one more tom fill and a hard stop at 3:58.\n\nPRODUCTION & MIX: Shiny, tight and loud. Every part quantised and bright, bass and kick punchy, the vocal thick and central with a short plate reverb.\n\nSIGNATURE MOMENT: 0:12. The mood flips from sad piano to the tom fill and the beat. That switch is the joke, the gift and the whole reason to share it.\n\nMODERN POINT OF VIEW: The false intro is deliberately the length of a preview clip. Tight side-chain compression and a clean sub keep the groove modern on phone speakers.\n\nEMOTIONAL ARC: Fake melancholy, then relentless good cheer, then real warmth in the bridge.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1987 British hit-factory dance-pop, rich deep soulful male baritone vocal, sincere and warm, 114 BPM, B-flat major, bright, bouncy, wholesome, opens with a slow moody piano-and-strings false intro before a rolling tom fill launches the beat, crisp digital drum machine, syncopated rubbery digital synth bass, bright synth-brass stabs, sweeping synth strings, glittering bell arpeggios, handclaps, sweet female backing vocals echoing and singing ooh, shiny tight punchy mix, clap-and-bass breakdown, joyful, devoted, playful, feel-good\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, guitar solo, rock drums, female lead vocals, dark mood, trap hi-hats, rap\n\nWHAT IT IS ABOUT\n\nA relentlessly loyal narrator who keeps turning up: since second grade, on every channel, behind every link. He knows you saw it coming. He meant it every single time.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a devoted partner or best friend; a dog greeting you at the door; a parent who never misses a recital; an ex who will not take the hint; or the song itself, aware that it will be used as a prank. The false slow intro lets people disguise it as a different track before the beat drops.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a chorus that is a list of vows in one repeating shape, plain earnest language, and a deep voice that surprises. Built-in second life: the moody 12-second false intro is designed for bait-and-switch sharing, and the lyric winks at it ('you clicked on something else, I know'). Designed mishearing: 'Surprise, it's me again' is heard as 'Some prize, it's me again', which is the self-deprecating version.",
+    "workbookAtAGlance": "Surprise, It's Me Again\n\nBackup titles\nAlways Gonna Show Up / You Saw It Coming\n\nAt a glance\n114 BPM, B-flat major\nVoice: Rich male baritone\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_17",
+    "title": "Don't Let the Song End",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 17,
+    "slug": "e80_17_dont_let_the_song_end",
+    "inspiredBy": "I Wanna Dance with Somebody (Who Loves Me) (Whitney Houston, 1987)",
+    "leadVoice": "Powerhouse female soprano with gospel roots. Playful and light in the verses with little laughs and slides, then enormous, ringing belted notes in the chorus with effortless runs. After the key change she ad-libs freely above the melody. Three female backing singers do tight call-and-response.",
+    "model": "V6",
+    "style": "1987 euphoric dance-pop with gospel-powered vocals, powerhouse female soprano vocal with playful verses, huge belted chorus notes, runs and ad-libs, 120 BPM, A major with a key change up for the final choruses, bright punchy synth-brass fanfare riff, popping slap-style synth bass, drum machine with fat snare, handclaps and cowbell, glittering digital bells and electric piano, clean funky rhythm guitar, rising synth strings, joyful saxophone answers, three female backing singers in tight call-and-response, glossy bright wide mix, sparkling, joyful on top, lonely underneath",
+    "negativeTags": "male lead vocals, distorted guitar, dark mood, slow ballad, trap hi-hats, EDM drop, rap",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: drum fill, synth-brass fanfare riff, backing chant]\n(Whoo!)\n(Don't let it, don't let it)\n\n[Verse 1: playful vocal, bass, drums and bells]\nLipstick on at the end of the day\nNowhere to be, going anyway\nThe quiet in this house has a sound of its own\nAnd it gets so loud when I'm alone\n\n[Pre-Chorus: turns minor and wistful, strings rise]\nOh, I'm fine, I'm fine in the daylight\nBut the dark comes asking questions\nAnd I need more than fine\n\n[Chorus: brass fanfare, belted lead, backing vocals answer]\nDon't let the song end\nI'm not done feeling alive\nSpin me around again\n'Til the morning's on our side\nI need a hand, I need a spark, I need a friend\nDJ, whoever you are\nDon't let the song end\n\n[Verse 2: playful vocal]\nI've been to the party where nobody stays\nSmiled for the camera, drove home in a daze\nLove's on the playlist but it skips my name\nTonight I'm not going home the same\n\n[Pre-Chorus: turns minor and wistful, strings rise]\nOh, I'm fine, I'm fine in the daylight\nBut the dark comes asking questions\nAnd I need more than fine\n\n[Chorus: brass fanfare, belted lead, backing vocals answer]\nDon't let the song end\nI'm not done feeling alive\nSpin me around again\n'Til the morning's on our side\nI need a hand, I need a spark, I need a friend\nDJ, whoever you are\nDon't let the song end\n\n[Bridge: kick and claps, lead and backing trade shouts, climbing]\nOne more chorus (one more!)\nOne more key (higher!)\nIf it's gotta be over\nLet it be over in a blaze\n\n[Final Chorus: key change up, held note, huge belt]\nDon't let the song end\nI'm not done feeling alive\nSpin me around again\n'Til the morning's on our side\nI need a hand, I need a spark, I need a friend\nDJ, whoever you are\nDon't let the song end\n\n[Final Chorus: ad-libs and runs, saxophone answers]\nDon't let the song end (don't let it)\nI'm not done feeling alive\nSpin me around again (spin me)\n'Til the morning's on our side\nI need a hand, I need a spark, I need a friend\nDJ, whoever you are\nDon't let the song end\n\n[Outro: backing chant loops, lead ad-libs, claps, last brass hit]\n(Don't let it, don't let it) Don't let the song end\n(Don't let it, don't let it) Say you'll stay 'til then\n(Don't let it, don't let it) Don't let the song end",
+    "taskId": "44974dc4c9415fcc16a215642f65d929",
+    "sunoClipIds": [
+      "aa285b47-66a9-49f0-baa0-db913afe0fa1",
+      "dfd54840-91ba-46cc-b979-cb8615cfed96"
+    ],
+    "created": "Nov 15, 2026 6:22 PM ET",
+    "createTimeMs": 1794784926815,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "aa285b47-66a9-49f0-baa0-db913afe0fa1",
+        "durationSec": 238.76,
+        "file": "eighties/e80_17_dont_let_the_song_end_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "dfd54840-91ba-46cc-b979-cb8615cfed96",
+        "durationSec": 239.6,
+        "file": "eighties/e80_17_dont_let_the_song_end_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_17_dont_let_the_song_end_req.json",
+      "eighties/e80_17_dont_let_the_song_end_rec.json"
+    ],
+    "cover": "eighties/covers/e80_17_dont_let_the_song_end.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, A major, with the last choruses lifting a whole step to B major. Sparkling, euphoric dance-pop: confetti in sound.\n\nVOICE: Powerhouse female soprano with gospel roots. Playful and light in the verses with little laughs and slides, then enormous, ringing belted notes in the chorus with effortless runs. After the key change she ad-libs freely above the melody. Three female backing singers do tight call-and-response.\n\nINSTRUMENTS: Bright, punchy synth-brass stabs playing a jubilant fanfare riff (the earworm). A popping, slap-style synth bass. Drum machine with a fat snare, handclaps and a cowbell. Glittering digital bell and electric-piano chords. A funky, clean rhythm guitar. Rising synth string runs into each chorus. A short, joyful saxophone answering lines in the final choruses.\n\nARRANGEMENT MAP: 0:00 Intro, a drum fill, a whooped 'whoo!', then the brass fanfare riff with the backing chant for 8 bars. 0:16 Verse 1, bass, drums, bells and playful vocal. 0:32 Pre-chorus, the chords turn minor and wistful for a moment, strings rise. 0:44 Chorus 1, fanfare returns, backing answers. 1:08 Riff, 4 bars. 1:16 Verse 2. 1:32 Pre-chorus. 1:44 Chorus 2. 2:08 Bridge, the drums break down to kick and claps while lead and backing singers trade shouts, climbing. 2:24 A held note carries over the key change into the final chorus, a whole step higher. 2:48 Second final chorus with ad-libs and sax answers. 3:12 Outro, backing chant loops while the lead improvises, the band drops out to claps and voices, then one last brass hit at 3:50.\n\nPRODUCTION & MIX: Glossy, bright and wide. Crisp digital reverb on the snare, vocal huge and upfront, every stab and clap razor-sharp.\n\nSIGNATURE MOMENT: The held note that rides over the key change at 2:24. It is the instant every hand on the dance floor goes up.\n\nMODERN POINT OF VIEW: Side-chained pads and a deep clean sub make it sit next to current dance-pop. The brief minor-key pre-chorus is kept exposed so the loneliness is audible if you listen for it.\n\nEMOTIONAL ARC: Brave face, confession, then release. Joy as an act of defiance.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1987 euphoric dance-pop with gospel-powered vocals, powerhouse female soprano vocal with playful verses, huge belted chorus notes, runs and ad-libs, 120 BPM, A major with a key change up for the final choruses, bright punchy synth-brass fanfare riff, popping slap-style synth bass, drum machine with fat snare, handclaps and cowbell, glittering digital bells and electric piano, clean funky rhythm guitar, rising synth strings, joyful saxophone answers, three female backing singers in tight call-and-response, glossy bright wide mix, sparkling, joyful on top, lonely underneath\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, distorted guitar, dark mood, slow ballad, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nDressed up with nowhere to be, she goes out anyway. The house is too quiet, daylight is fine but the dark asks questions, and for three minutes the dance floor is the answer. She begs it not to stop.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a Saturday night anthem; a song about loneliness in a crowd; a plea to hold on to youth; the last months with someone you love; or a prayer for more time. 'The song' can be the night, a relationship or a life. On a dance floor nobody will notice it is sad, which is exactly how the original works.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: joyful production over a lonely verse, a title that is a plea, call-and-response backing vocals, and a late key change with a spoken cue ('higher!'). Designed mishearing: 'Don't let the song end' is heard as 'Don't let the sun in', the version sung by people leaving the club at dawn.",
+    "workbookAtAGlance": "Don't Let the Song End\n\nBackup titles\nMore Than Fine / Spin Me Around Again\n\nAt a glance\n120 BPM, A major, key change to B\nVoice: Powerhouse female soprano\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_18",
+    "title": "Guess Who's Not Dead",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 18,
+    "slug": "e80_18_guess_whos_not_dead",
+    "inspiredBy": "Back in Black (AC/DC, 1980)",
+    "leadVoice": "A high, rasping, sandpaper rock scream, pitched near the top of the male range, half sung and half spat in rhythm. Phrases are short and percussive, placed in the holes the riff leaves. A gang of rough male voices shouts the 'hey! hey!' answers.",
+    "model": "V6",
+    "style": "1980 Australian-style hard rock, high rasping sandpaper male rock scream vocal, rhythmic and percussive, 92 BPM, key of A, blues-rock, slow heavy strutting swagger, two overdriven electric guitars panned hard left and right playing a stop-start riff with sharp open-chord stabs, full-band silences, rising bluesy bent-note lick, thick simple bass locked to the kick, huge natural roomy drums playing a plain beat, raw blues-rock guitar solo, rough male gang shouts answering, dry loud spacious live-room mix, comeback, defiant, celebratory, larger than life",
+    "negativeTags": "synthesizer, keyboards, piano, drum machine, female vocals, clean pop vocals, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 260,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: four muted guitar clicks, then heavy stop-start riff]\n\n[Verse 1: rasping vocal squeezed into the gaps of the riff]\nRolled the stone, kicked the door\nDust on my boots from the day before\nThey read my name with their heads all bowed\nI was in the back row laughing loud\nGot a scar for every time I quit\nGot a grin and I'm keeping it\nCount me out, count again\nYou're gonna run out of fingers, friend\n\n[Chorus: ringing open chords, gang shouts]\nGuess who's not dead (hey! hey!)\nGuess who's out of bed (hey! hey!)\nStill loud, still here, still in your head\nGuess who, guess who's not dead\n\n[Verse 2: rasping vocal over the riff]\nNew knees, same old song\nI've been wrong but I ain't been gone\nPoured one out for the ones who flew\nTurned it up 'cause they'd want me to\nThey said the party moved along\nLeft the lights on, left the song\nI don't need your invitation\nI'm the reason for the celebration\n\n[Chorus: ringing open chords, gang shouts]\nGuess who's not dead (hey! hey!)\nGuess who's out of bed (hey! hey!)\nStill loud, still here, still in your head\nGuess who, guess who's not dead\n\n[Guitar Solo: raw blues-rock, bends, wide vibrato]\n\n[Bridge: palm-muted chugs, kick and hi-hat, chant, snare roll]\nYou can't bury what won't lie down\nYou can't bury what won't lie down\nI'm the knock, I'm the knock, I'm the knock on wood\nBack and feeling dangerously good\n\n[Chorus: ringing open chords, gang shouts]\nGuess who's not dead (hey! hey!)\nGuess who's out of bed (hey! hey!)\nStill loud, still here, still in your head\nGuess who, guess who's not dead\n\n[Final Chorus: lead guitar wailing over the top]\nGuess who's not dead (hey! hey!)\nGuess who's out of bed (hey! hey!)\nStill loud, still here, still in your head\nGuess who, guess who's not dead\n\n[Outro: riff with shouted tags, last stab, open chord rings]\nNot dead (hey!)\nNot dead (hey!)\nGuess who",
+    "taskId": "d98eace5bb0c7ce5c843fe41dd622c95",
+    "sunoClipIds": [
+      "b0dba0b1-04d5-42db-a04f-874991dc91ec",
+      "55c42be2-7afd-4192-9902-8ef60e50d4f0"
+    ],
+    "created": "Nov 15, 2026 6:22 PM ET",
+    "createTimeMs": 1794784921993,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "b0dba0b1-04d5-42db-a04f-874991dc91ec",
+        "durationSec": 258.76,
+        "file": "eighties/e80_18_guess_whos_not_dead_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "55c42be2-7afd-4192-9902-8ef60e50d4f0",
+        "durationSec": 259.96,
+        "file": "eighties/e80_18_guess_whos_not_dead_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_18_guess_whos_not_dead_req.json",
+      "eighties/e80_18_guess_whos_not_dead_rec.json"
+    ],
+    "cover": "eighties/covers/e80_18_guess_whos_not_dead.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 92 BPM, 4/4, in A with a blues-rock tonality (major chords, minor pentatonic riffs). Slow, heavy, strutting swagger. It walks, it does not run.\n\nVOICE: A high, rasping, sandpaper rock scream, pitched near the top of the male range, half sung and half spat in rhythm. Phrases are short and percussive, placed in the holes the riff leaves. A gang of rough male voices shouts the 'hey! hey!' answers.\n\nINSTRUMENTS: Two overdriven electric guitars panned hard left and right, playing a stop-start two-bar riff: sharp syncopated open-chord stabs with full-band silence between them, answered by a rising bluesy bent-note lick (the earworm). A simple, thick bass guitar locked to the kick. A huge, natural, roomy drum kit playing the plainest possible beat, slightly behind the pulse. No keyboards and no effects beyond amplifier crunch.\n\nARRANGEMENT MAP: 0:00 Intro, four dry clicks on a muted guitar, then the riff crashes in with full band for 4 rounds. 0:21 Verse 1, the riff continues underneath with the vocal squeezed into its gaps. 0:53 Chorus 1, guitars open into ringing chords, gang shouts. 1:14 Riff, 2 rounds. 1:25 Verse 2. 1:57 Chorus 2. 2:18 Guitar solo, raw blues-rock: bends, fast pentatonic bursts and a wide vibrato, over the verse riff. 2:50 Bridge, guitars drop to single palm-muted chugs and the drums play only kick and hi-hat while the vocal chants, building to a snare roll. 3:11 Chorus 3. 3:32 Final chorus, lead guitar wailing over the top. 3:53 Outro, the riff with shouted tags, ending on one last stab and the ring of an open chord at 4:10.\n\nPRODUCTION & MIX: Dry, loud and enormous. Lots of space around every hit, drums recorded in a big live room, guitars crunchy but clear, no reverb wash on the vocal.\n\nSIGNATURE MOMENT: The silences inside the riff. The band stops dead between stabs, and that gap is where a stadium claps.\n\nMODERN POINT OF VIEW: Fatter low end with a sub layer under the kick, tuned for car systems and cinema trailers. Otherwise untouched: this style works because nothing is added.\n\nEMOTIONAL ARC: Swagger from the first second, a wink of grief in verse 2, then pure celebration.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1980 Australian-style hard rock, high rasping sandpaper male rock scream vocal, rhythmic and percussive, 92 BPM, key of A, blues-rock, slow heavy strutting swagger, two overdriven electric guitars panned hard left and right playing a stop-start riff with sharp open-chord stabs, full-band silences, rising bluesy bent-note lick, thick simple bass locked to the kick, huge natural roomy drums playing a plain beat, raw blues-rock guitar solo, rough male gang shouts answering, dry loud spacious live-room mix, comeback, defiant, celebratory, larger than life\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, keyboards, piano, drum machine, female vocals, clean pop vocals, autotune, EDM\n\nWHAT IT IS ABOUT\n\nThey read the eulogy and he was laughing in the back row. New knees, same old song. A swaggering announcement from someone the world had finished with, raising a glass to the friends who did not make it back.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a midlife comeback after a layoff, a divorce or a health scare; a band reunion; Gen X announcing it is still here; vinyl, arcades and everything analog returning; or, with its rolled-stone opening, an Easter song in a leather jacket. The verse that pours one out 'for the ones who flew' keeps the memorial hidden inside the party, as the original does.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a stop-start riff with the vocal in the gaps, swagger covering grief, and a title you can shout in two seconds. The chorus is a question the crowd answers with 'hey! hey!'. Designed mishearing: 'Guess who's not dead' will be heard by some as a far more religious sentence, and the opening line encourages it. That argument is free publicity.",
+    "workbookAtAGlance": "Guess Who's Not Dead\n\nBackup titles\nYou Can't Bury What Won't Lie Down / Still Loud\n\nAt a glance\n92 BPM, A (blues-based)\nVoice: High, rasping rock screamer\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_19",
+    "title": "Halfway Out the Door",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 19,
+    "slug": "e80_19_halfway_out_the_door",
+    "inspiredBy": "With or Without You (U2, 1987)",
+    "leadVoice": "Male voice that begins as a low, breathy murmur, almost spoken, barely above the bass. Each section sits a little higher and fuller, until the build section breaks into a full-throated, open-vowel wordless cry at the top of his range. The coda returns to a fragile near-whisper. Faint backing voices whisper 'stay' and 'go' under the cry.",
+    "model": "V6",
+    "style": "1987 atmospheric Irish-style stadium rock, slow-burn ballad, male vocal starting as a low breathy murmur and rising to a full-throated wordless cry, 108 BPM, C major, one unchanging four-chord loop, builds from a whisper to a huge climax and back, pulsing eighth-note bass guitar, soft drum-machine tick giving way to live drums with booming floor tom and late snare, endless sustained violin-like electric guitar note, shimmering rhythmic delay guitar arpeggios entering late, warm synth pad, fragile whispered coda, spacious mix, huge reverbs, wide dynamics, aching, torn, spiritual, cathartic",
+    "negativeTags": "shredding guitar solo, female lead vocals, saxophone, piano ballad, trap hi-hats, EDM, rap, autotune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 265,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: synth pad, soft drum tick, bass pulse, sustained guitar note]\n\n[Verse 1: low murmur over bass and tick]\nI see the keys in your hand\nI see the coat that you won't put down\nYou're a tide that can't decide\nAnd I'm the shore, I don't make a sound\n\n[Verse 2: kick drum enters]\nI've been the cure and the thirst\nI've been the lock and I've been the thief\nYou hand me just enough of you\nTo keep me, to keep me on my knees\n\n[Chorus: still restrained, quiet]\nHalfway out the door\nHalfway in my arms\nI can't hold you here\nI can't let you go far\nHalfway out the door\n\n[Verse 3: voice rises an octave, floor tom joins]\nMaybe it's you, maybe a town\nMaybe a God that I can't put down\nSomething I love is taking me slow\nAnd I'd fall, I'd fall if it let me go\n\n[Chorus: shimmering delay guitar enters, snare begins]\nHalfway out the door\nHalfway in my arms\nI can't hold you here\nI can't let you go far\nHalfway out the door\n\n[Build: wordless rising vocal, every instrument growing]\nOh, oh, oh, oh\n(Stay) Oh, oh, oh, oh\n(Go) Oh, oh, oh, oh\n(Stay) Oh, oh, oh, oh\n\n[Chorus: climax, full drums, crashing cymbals, full-voice cry]\nHalfway out the door!\nHalfway in my arms!\nI can't hold you here\nI can't let you go far\nHalfway out the door\n\n[Instrumental: chiming delay guitar, descending, calming]\n\n[Outro: bass and one guitar note, whispered, unresolved]\nI see the keys in your hand\nI see the keys in my own",
+    "taskId": "b86a03636526278b6147f7c698e6afe9",
+    "sunoClipIds": [
+      "2e6f8fe8-9523-4482-af23-51d1b252447e",
+      "2c4fb997-12f6-40d5-a1b6-626d629a22ec"
+    ],
+    "created": "Nov 15, 2026 6:22 PM ET",
+    "createTimeMs": 1794784924703,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "2e6f8fe8-9523-4482-af23-51d1b252447e",
+        "durationSec": 264.4,
+        "file": "eighties/e80_19_halfway_out_the_door_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "2c4fb997-12f6-40d5-a1b6-626d629a22ec",
+        "durationSec": 263.76,
+        "file": "eighties/e80_19_halfway_out_the_door_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_19_halfway_out_the_door_req.json",
+      "eighties/e80_19_halfway_out_the_door_rec.json"
+    ],
+    "cover": "eighties/covers/e80_19_halfway_out_the_door.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 108 BPM, 4/4, C major, on one four-chord loop (I-V-vi-IV) that never changes from first bar to last. A slow burn: it starts as a whisper and takes three minutes to catch fire.\n\nVOICE: Male voice that begins as a low, breathy murmur, almost spoken, barely above the bass. Each section sits a little higher and fuller, until the build section breaks into a full-throated, open-vowel wordless cry at the top of his range. The coda returns to a fragile near-whisper. Faint backing voices whisper 'stay' and 'go' under the cry.\n\nINSTRUMENTS: A bass guitar playing steady, pulsing eighth notes on the root of each chord (the spine). A soft drum-machine tick that is later joined, then replaced, by a live kit with a booming floor tom and a late-arriving snare. A sustained, endless, violin-like electric guitar note that hovers over everything (the earworm atmosphere). Shimmering, rhythmically delayed guitar arpeggios that only enter in the second half. A warm, barely-there synth pad.\n\nARRANGEMENT MAP: 0:00 Intro, synth pad and drum tick, then the bass pulse and the endless sustained guitar note. 0:27 Verse 1, murmured voice over bass and tick. 0:53 Verse 2, kick drum enters. 1:20 Chorus 1, still restrained, a higher harmony guitar note appears. 1:42 Verse 3, the voice rises an octave, floor tom joins. 2:09 Chorus 2, the delayed arpeggio guitar finally enters and the snare begins. 2:31 Build, wordless 'oh' rising across 8 bars as every instrument grows. 2:58 Climax chorus, full kit, crashing cymbals, voice at full cry. 3:20 Instrumental, the delayed guitar plays a simple, chiming, descending figure as the storm recedes. 3:47 Coda, back to bass and one guitar note, the final two lines nearly whispered, ending unresolved at 4:15.\n\nPRODUCTION & MIX: Spacious, atmospheric and patient. Huge natural reverbs and long delays, the bass warm and dominant early, the dynamic range left wide so the climax is truly louder.\n\nSIGNATURE MOMENT: The wordless cry at 2:31-2:58. After two and a half minutes of holding back, the voice lets go.\n\nMODERN POINT OF VIEW: A deep sub under the bass pulse and a wider, more immersive reverb field. The whispered 'stay / go' backing voices are a new layer, panned to opposite sides.\n\nEMOTIONAL ARC: Restraint, ache, eruption, then exhausted tenderness.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1987 atmospheric Irish-style stadium rock, slow-burn ballad, male vocal starting as a low breathy murmur and rising to a full-throated wordless cry, 108 BPM, C major, one unchanging four-chord loop, builds from a whisper to a huge climax and back, pulsing eighth-note bass guitar, soft drum-machine tick giving way to live drums with booming floor tom and late snare, endless sustained violin-like electric guitar note, shimmering rhythmic delay guitar arpeggios entering late, warm synth pad, fragile whispered coda, spacious mix, huge reverbs, wide dynamics, aching, torn, spiritual, cathartic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nshredding guitar solo, female lead vocals, saxophone, piano ballad, trap hi-hats, EDM, rap, autotune\n\nWHAT IT IS ABOUT\n\nSomeone stands in a doorway with keys in hand and a coat they won't put down. The singer can't hold them and can't release them. In the last line, the keys turn out to be in the singer's own hand too.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a relationship stuck between leaving and staying; faith that won't go and won't settle ('a God that I can't put down'); a hometown you love and need to escape; a habit you can't quit; or an adult child and an ageing parent. The final line reverses the whole song: maybe the narrator is the one who is halfway out.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a single paradox as the entire lyric, an unidentified 'you', four chords that never change, and a climax where words are replaced by a wordless cry. The backing voices whisper 'stay' and 'go' under the cry so the listener hears whichever they need. Designed mishearing: 'Halfway out the door' is heard as 'Half the way I adore'.",
+    "workbookAtAGlance": "Halfway Out the Door\n\nBackup titles\nThe Keys in My Own Hand / Tide That Can't Decide\n\nAt a glance\n108 BPM, C major\nVoice: Male, low murmur to full cry\nLength: about 4 minutes"
+  },
+  {
+    "id": "e80_20",
+    "title": "Wait for the Thunder",
+    "collection": "eighties",
+    "album": "80s Reimagined",
+    "track": 20,
+    "slug": "e80_20_wait_for_the_thunder",
+    "inspiredBy": "In the Air Tonight (Phil Collins, 1981)",
+    "leadVoice": "Male tenor, hushed and close, sung almost under his breath with clenched restraint. In the verses the voice is doubled by a faint robotic vocoder layer, making it sound cold and distant. After the drum fill the processing is stripped away and he sings out raw, loud and angry, with echoes repeating his last words.",
+    "model": "V6",
+    "style": "1981 dark atmospheric art-pop slow burner, hushed restrained male tenor vocal doubled by a faint vocoder, later raw and shouted, 94 BPM, E minor, sparse and menacing for three minutes then explosive, soft ticking vintage analog drum machine, dark slowly swelling analog synth pad, sparse tremolo electric piano chords, distorted guitar feedback swells, total silence before a huge tumbling descending concert-tom drum fill with dramatic gated reverb, then full live drums and deep bass, wide empty mix that becomes enormous, brooding, tense, accusing, cathartic",
+    "negativeTags": "female vocals, bright pop, acoustic guitar, saxophone, guitar solo, trap hi-hats, EDM drop, rap",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 285,
+    "customMode": true,
+    "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: drum machine tick alone, dark synth pad swells, guitar howl]\n\n[Verse 1: hushed, vocoder shadow, pad and tick]\nI saw you on the bridge that night\nYou didn't see me see\nThe water kept its mouth shut tight\nBut water talks to me\n\n[Chorus: quiet, restrained, electric piano chords join]\nSomething's in the wires tonight\nSomething's leaning on the door\nI've carried this since I was young\nWait for the thunder\nIt's coming for sure\n\n[Verse 2: hushed, distant guitar swell]\nYou shook my hand, you wore the grin\nYou asked about my year\nI've got a drawer I keep it in\nThe thing you did, right here\n\n[Chorus: quiet, slightly more intense, low synth note]\nSomething's in the wires tonight\nSomething's leaning on the door\nI've carried this since I was young\nWait for the thunder\nIt's coming for sure\n\n[Verse 3: nearly whispered, most exposed]\nDon't hand me that Sunday voice\nI heard it break in two\nThe kindest thing I've ever done\nIs not say what I knew\n\n[Break: all instruments stop, whispered, silence]\nWait\nWait\n\n[Drum Fill: huge descending tom fill, gated reverb, crash]\n\n[Chorus: full band, pounding live drums, raw shouted vocal]\nSomething's in the wires tonight!\nSomething's leaning on the door!\nI've carried this since I was young\nHere comes the thunder\nI'm not carrying it anymore\n\n[Chorus: full band, ad-libbed echoes]\nSomething's in the wires tonight!\nSomething's leaning on the door!\nI've carried this since I was young\nHere comes the thunder\nI'm not carrying it anymore\n\n[Outro: drums keep hammering, vocal repeats and fades]\n(Wait for the thunder)\nYou know, you know I know\n(Wait for the thunder)\nYou know, you know I know\n(Wait for the thunder)",
+    "taskId": "0da6569d19fa8d35a59201390db86716",
+    "sunoClipIds": [
+      "5ec63a95-1173-4233-ace5-462ede10f34d",
+      "c1cf7641-0c65-4424-b911-7bedbcff8366"
+    ],
+    "created": "Nov 15, 2026 6:22 PM ET",
+    "createTimeMs": 1794784929597,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "5ec63a95-1173-4233-ace5-462ede10f34d",
+        "durationSec": 284.88,
+        "file": "eighties/e80_20_wait_for_the_thunder_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "c1cf7641-0c65-4424-b911-7bedbcff8366",
+        "durationSec": 284.72,
+        "file": "eighties/e80_20_wait_for_the_thunder_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "eighties/e80_20_wait_for_the_thunder_req.json",
+      "eighties/e80_20_wait_for_the_thunder_rec.json"
+    ],
+    "cover": "eighties/covers/e80_20_wait_for_the_thunder.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 94 BPM, 4/4, E minor, three slow chords that circle without resolving. Dark, still and menacing for most of its length, then explosive.\n\nVOICE: Male tenor, hushed and close, sung almost under his breath with clenched restraint. In the verses the voice is doubled by a faint robotic vocoder layer, making it sound cold and distant. After the drum fill the processing is stripped away and he sings out raw, loud and angry, with echoes repeating his last words.\n\nINSTRUMENTS: A vintage analog drum machine playing a soft, ticking, hypnotic pattern (the pulse). A dark, slowly swelling analog synth pad. Sparse electric piano chords with a tremolo shimmer. Distorted electric guitar that enters only as long, feedback-like swells. A deep, simple bass guitar that arrives with the drums. Then a real drum kit: huge concert toms and a snare with dramatic gated reverb.\n\nARRANGEMENT MAP: 0:00 Intro, drum-machine tick alone, then the synth pad swelling in and one distant guitar howl. 0:30 Verse 1, voice with vocoder shadow over pad and tick. 0:56 Refrain 1, electric piano chords join. 1:27 Verse 2, a second guitar swell. 1:53 Refrain 2, slightly more intense, a low synth note added. 2:24 Verse 3, the most exposed moment, the voice nearly a whisper. 2:50 Pre-thunder, every instrument cuts out. Two whispered words, then one full bar of total silence. 2:58 The fill: a tumbling, descending run of twelve strokes across four deep toms, soaked in gated reverb, landing on a crash. 3:01 Refrain with full band, live drums pounding, bass in, voice unprocessed and shouting. 3:32 Second full refrain with ad-libbed echoes. 4:03 Outro, drums keep hammering while the vocal repeats and fades, ending at 4:35.\n\nPRODUCTION & MIX: Extremely sparse and dark for three minutes with a wide, empty stereo field, so that the drums sound gigantic when they arrive. Gated room reverb on the kit: enormous, then abruptly cut off.\n\nSIGNATURE MOMENT: 2:58. The silence, then the tom fill. Everything in the arrangement exists to make those two seconds land.\n\nMODERN POINT OF VIEW: A sub-bass drop under the bar of silence, felt more than heard, and a faint field recording of approaching thunder beneath verse 3.\n\nEMOTIONAL ARC: Cold control, pressure, rupture, then release.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1981 dark atmospheric art-pop slow burner, hushed restrained male tenor vocal doubled by a faint vocoder, later raw and shouted, 94 BPM, E minor, sparse and menacing for three minutes then explosive, soft ticking vintage analog drum machine, dark slowly swelling analog synth pad, sparse tremolo electric piano chords, distorted guitar feedback swells, total silence before a huge tumbling descending concert-tom drum fill with dramatic gated reverb, then full live drums and deep bass, wide empty mix that becomes enormous, brooding, tense, accusing, cathartic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale vocals, bright pop, acoustic guitar, saxophone, guitar solo, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nSomeone has kept quiet for years about what they saw one night on a bridge. They shake the hand, they return the smile, and they wait. Three minutes in, the sky breaks.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a betrayal finally confronted; a family secret; a crime witnessed; a reckoning with your own past self (the 'you' can be the singer); or plain dread about a storm, real or political, that everyone can feel coming. The lyric never states what happened, so listeners will invent the story, as they did with the original.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an accusation with no context, long near-silences, and a single delayed instrumental event that the title actually names, so people tell each other to 'wait for the thunder'. The bridge-and-water imagery is planted for legend-making. Designed mishearing: 'Wait for the thunder' is heard as 'Weight of the thunder' and 'Wake for the thunder'.",
+    "workbookAtAGlance": "Wait for the Thunder\n\nBackup titles\nWater Talks to Me / That Sunday Voice\n\nAt a glance\n94 BPM, E minor\nVoice: Hushed male tenor, processed, then raw\nLength: about 4 minutes"
   }
 ]

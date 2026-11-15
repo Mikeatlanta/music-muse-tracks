@@ -1,0 +1,51 @@
+{
+  "id": "e80_05",
+  "title": "Little Thunder",
+  "collection": "eighties",
+  "album": "80s Reimagined",
+  "track": 5,
+  "slug": "e80_05_little_thunder",
+  "inspiredBy": "Sweet Child O' Mine (Guns N' Roses, 1987)",
+  "leadVoice": "Male high tenor with a serrated rasp, sweet and almost lullaby-soft in the verses, opening into a wide, wailing upper register on the chorus 'oh, oh'. Low octave double on the breakdown questions, building to full-throated screams at the end.",
+  "model": "V6",
+  "style": "1987 Sunset Strip hard rock with a tender heart, raspy male high tenor vocal, lullaby-soft verses and wailing chorus, 122 BPM, E major turning to E minor for the final breakdown, neck-pickup lead guitar through a cranked tube amp playing a circular string-skipping arpeggio riff, crunchy rhythm guitar, melodic bass, big live roomy drums, long expressive wah guitar solo, half-time minor-key breakdown building to screams, raw live-room mix, affectionate, soaring, then aching",
+  "negativeTags": "synthesizer, keyboards, piano, drum machine, female vocals, pop production, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "80s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: lone lead guitar arpeggio riff, band enters one by one]\n\n[Verse 1: soft, sweet, raspy]\nHer laugh is a screen door slamming\nOn the first warm night of the year\nAnd every time I hear it coming\nAll my winters disappear\n\n[Chorus: wide wailing vocal]\nOh, oh, Little Thunder\nDon't you ever quiet down\nOh, oh, Little Thunder\nShake the windows of this town\n\n[Verse 2: soft, sweet, raspy]\nHer look is a storm deciding\nIf it's gonna break or pass\nI'd stand out in a field forever\nJust to watch it cross the grass\n\n[Chorus: wide wailing vocal]\nOh, oh, Little Thunder\nDon't you ever quiet down\nOh, oh, Little Thunder\nShake the windows of this town\n\n[Guitar Solo: short, melodic, sings the vocal line]\n\n[Verse 3: soft, sweet]\nHer hands are small but they move the weather\nHer heart's a drum the sky can't hold\nAnd if the world should try to hush her\nI'll be her echo when I'm old\n\n[Chorus: wide wailing vocal]\nOh, oh, Little Thunder\nDon't you ever quiet down\nOh, oh, Little Thunder\nShake the windows of this town\n\n[Guitar Solo: long, lyrical, then wah pedal, screaming bend]\n\n[Breakdown: turns minor, half-time, palm mutes, builds to screams]\nWhat do we do with all this time?\nWhat do we do with it now?\nWhat do we do (what do we do)\nWhat do we do with all this sky?\nWhat do we do with all this time?\n(Little Thunder, Little Thunder)\nWhat do we do with it now?\n\n[Outro: full band crescendo, final chord rings out]\nRoll on, roll on\nRoll on, Little Thunder\nRoll on",
+  "taskId": "aae59db707ac8c2b2f66c341173232fd",
+  "sunoClipIds": [
+    "6096cc23-6662-483a-a9f5-7e29a70e43fc",
+    "3e16c004-6015-4d59-9a01-68b192726ecd"
+  ],
+  "created": "Nov 15, 2026 6:21 PM ET",
+  "createTimeMs": 1794784866132,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "6096cc23-6662-483a-a9f5-7e29a70e43fc",
+      "durationSec": 254.44,
+      "file": "eighties/e80_05_little_thunder_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "3e16c004-6015-4d59-9a01-68b192726ecd",
+      "durationSec": 254.4,
+      "file": "eighties/e80_05_little_thunder_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "eighties/e80_05_little_thunder_req.json",
+    "eighties/e80_05_little_thunder_rec.json"
+  ],
+  "cover": "eighties/covers/e80_05_little_thunder.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, E major for the body of the song, shifting to E minor for the final breakdown. Bright and affectionate for three minutes, then dark and searching.\n\nVOICE: Male high tenor with a serrated rasp, sweet and almost lullaby-soft in the verses, opening into a wide, wailing upper register on the chorus 'oh, oh'. Low octave double on the breakdown questions, building to full-throated screams at the end.\n\nINSTRUMENTS: Lead electric guitar on the neck pickup through a cranked British tube amp, playing a circular, string-skipping arpeggio riff that sounds like a music box played by a rock band (the earworm). A second rhythm guitar with crunchy open chords. Melodic bass that answers the riff in the intro. Big live drums with a cracking snare and wide tom fills. No keyboards.\n\nARRANGEMENT MAP: 0:00 Intro, the arpeggio riff alone, then bass melody, then rhythm guitar and drums entering one at a time over 30 seconds. 0:31 Verse 1. 0:47 Chorus 1. 1:03 Verse 2. 1:19 Chorus 2. 1:35 Guitar solo 1, short and melodic, singing the vocal line. 1:51 Verse 3. 2:07 Chorus 3. 2:23 Guitar solo 2, the big one: starts lyrical, kicks on a wah pedal, climbs the neck, ends on a screaming sustained bend. 2:55 Breakdown, the key turns minor, half-time feel, chugging palm mutes, the question repeated and intensifying. 3:40 Outro, full-band crescendo on 'roll on', final crashing chord rings out to 4:05.\n\nPRODUCTION & MIX: Live-in-a-room energy. Guitars panned left and right, natural room reverb on the drums, vocal upfront with a short slap delay, minimal polish.\n\nSIGNATURE MOMENT: The intro riff. Two notes in, the whole room knows the song. Second place goes to the instant the key turns minor.\n\nMODERN POINT OF VIEW: Tighter, deeper low end than a 1987 master, and parallel-compressed drums for punch on small speakers. The breakdown's low vocal double is close and dry, like a private thought.\n\nEMOTIONAL ARC: Adoration, celebration, then the ache of time passing.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1987 Sunset Strip hard rock with a tender heart, raspy male high tenor vocal, lullaby-soft verses and wailing chorus, 122 BPM, E major turning to E minor for the final breakdown, neck-pickup lead guitar through a cranked tube amp playing a circular string-skipping arpeggio riff, crunchy rhythm guitar, melodic bass, big live roomy drums, long expressive wah guitar solo, half-time minor-key breakdown building to screams, raw live-room mix, affectionate, soaring, then aching\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, keyboards, piano, drum machine, female vocals, pop production, autotune, EDM\n\nWHAT IT IS ABOUT\n\nA love song to someone small, loud and unstoppable, whose laugh ends winters. The singer promises to be her echo, then is left asking what to do with all the time that is passing.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a father to a daughter; a lover to a firecracker partner; an adult talking to the fearless kid they used to be; or a tribute to anyone the world tried to quieten. The breakdown ('what do we do with all this time?') is a parent watching a child grow, or anyone facing the second half of life.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: nature similes that anchor love in memory, a rough voice singing soft words, and a late turn from major-key comfort to a minor-key unanswered question. Designed mishearing: 'Little Thunder' is heard as 'Little Wonder', and both fit. The nickname is built to be given to real children, pets and guitars.",
+  "workbookAtAGlance": "Little Thunder\n\nBackup titles\nShake the Windows / All This Sky\n\nAt a glance\n122 BPM, E major, breakdown in E minor\nVoice: Raspy male high tenor\nLength: about 4 minutes"
+}
