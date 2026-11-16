@@ -15,7 +15,7 @@ function copyText(text,btn,label){const done=()=>{if(btn){const o=label||btn.tex
  if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(text).then(done,fb);else fb()}
 
 /* ---------- state ---------- */
-let SONGS=[],BY={},SEC={},SITE="",TAKES=new Set();
+let SONGS=[],BY={},SEC={},SITE="",MEDIA="https://pub-e6b0e29159a24a5598dc008fabb2d993.r2.dev/",TAKES=new Set();
 let favs=new Set(load("mm-fav-takes",[]));
 let trash=new Set(load("mm-trash",[]));
 let plays={};{const raw=load("mm-plays",{})||{};Object.keys(raw).forEach(id=>{const v=raw[id];if(v&&typeof v==="object"&&typeof v.count==="number")plays[id]={count:v.count,last:v.last||""};else if(typeof v==="number")plays[id]={count:v,last:""}})}
@@ -32,14 +32,15 @@ const tkid=(s,n)=>s.id+"#"+n;
 const score=s=>s.k.reduce((a,k)=>a+((plays[tkid(s,k[0])]||{}).count||0),0);
 const lastPlayed=s=>s.k.reduce((a,k)=>{const e=plays[tkid(s,k[0])];const ms=e&&e.last?Date.parse(e.last):0;return ms>a?ms:a},0);
 const hasFav=s=>s.k.some(k=>favs.has(tkid(s,k[0])));
-const takeOf=id=>{const[sid,n]=id.split("#"),s=BY[sid];if(!s)return null;const k=s.k.find(x=>String(x[0])===n);return k?{s,n:k[0],src:k[1],t:s.t}:null};
+const takeOf=id=>{const[sid,n]=id.split("#"),s=BY[sid];if(!s)return null;const k=s.k.find(x=>String(x[0])===n);return k?{s,n:k[0],src:M(k[1]),t:s.t}:null};
+const M=p=>/^https?:/.test(p)?p:MEDIA+p;
 const pickN=s=>s.p||s.k[0][0];
 
 /* ---------- card rendering ---------- */
 function badge(id){const e=plays[id],n=e?e.count||0:0;
  return n>0?`<span class="pcnt" title="${esc(e.last?"Last played "+new Date(e.last).toLocaleString():"")}">▶ ${n} play${n===1?"":"s"}</span>`:'<span class="pcnt new" title="Not played yet"><i class="dot" aria-hidden="true"></i><span class="u">unplayed</span></span>'}
 function cardHTML(s){const sec=SEC[s.s]||{},tr=trash.has(s.id);
- let h=`<a class="cov" href="${esc(s.cv)}" target="_blank" title="View full cover"><img src="${esc(s.th)}" alt="${esc(s.t)} cover" loading="lazy" decoding="async" width="600" height="600"></a><div class="body"><p class="colb">📁 ${esc(sec.title||s.s)}</p>`;
+ let h=`<a class="cov" href="${esc(M(s.cv))}" target="_blank" title="View full cover"><img src="${esc(M(s.th))}" alt="${esc(s.t)} cover" loading="lazy" decoding="async" width="600" height="600"></a><div class="body"><p class="colb">📁 ${esc(sec.title||s.s)}</p>`;
  if(s.n)h+=`<p class="num">${esc(s.n)}</p>`;
  h+=`<h2>${esc(s.t)}</h2><button class="trb" data-id="${esc(s.id)}" aria-pressed="${tr}" title="${tr?"Unmark (keep this song)":"Mark for deletion"}" aria-label="${tr?"Unmark (keep this song)":"Mark for deletion"}">${tr?"↩":"🗑"}</button>`;
  h+=`<button class="shb" type="button" data-id="${esc(s.id)}" title="Share the ⭐ pick take of this song" aria-label="Share this song">${SH} Share</button>`;
@@ -53,7 +54,7 @@ function cardHTML(s){const sec=SEC[s.s]||{},tr=trash.has(s.id);
    `<button class="pb${head?" cur":""}" data-n="${n}" title="Play take ${n}">${pl?"⏸ Playing":head?"▶ Resume":"▶ Play"}</button>`+
    `<button class="qb${qi>=0?" on":""}" data-n="${n}" aria-pressed="${qi>=0}" title="Add take ${n} to queue">${qi>=0?"✓ Queued":"+ Queue"}</button>${badge(id)}`+
    `<button class="tsh" type="button" data-n="${n}" title="Share take ${n}" aria-label="Share take ${n}">${SH}</button><i class="tp"></i>`+
-   `<a class="btn" href="${esc(src)}" download="${esc(dl)}">⬇ Download</a></div>`}
+   `<a class="btn" href="${esc(M(src))}" download="${esc(dl)}">⬇ Download</a></div>`}
  h+=`<details class="rc"><summary>Lyrics &amp; Suno recipe</summary><div class="rcb ld">Loading…</div></details></div>`;return h}
 function el(s){if(s.el)return s.el;const a=D.createElement("article");a.className="card"+(trash.has(s.id)?" trashed":"");a.id=s.id;a.innerHTML=cardHTML(s);s.el=a;return a}
 function syncCard(s){/* bring a detached, previously built card up to date */const tr=trash.has(s.id);s.el.classList.toggle("trashed",tr);const b=s.el.querySelector(".trb");if(b){b.classList.remove("arm");b.textContent=tr?"↩":"🗑";b.title=tr?"Unmark (keep this song)":"Mark for deletion";b.setAttribute("aria-label",b.title);b.setAttribute("aria-pressed",tr)}paintTakes(s)}
@@ -194,6 +195,9 @@ function go(id,noHash){const s=BY[id];if(!s)return;const r=why(s);
 function openHash(){const id=decodeURIComponent((location.hash||"").slice(1));if(id&&BY[id])go(id,true);else if(id&&SEC[id]){const x=$(id);x&&x.scrollIntoView()}}
 addEventListener("hashchange",openHash);
 
+/* ---------- downloads (media is cross-origin on R2, so save via blob) ---------- */
+D.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest("a.btn[download]");if(!a||e.ctrlKey||e.metaKey||e.shiftKey)return;const href=a.href;if(new URL(href).origin===location.origin)return;e.preventDefault();if(a._busy)return;a._busy=true;const o=a.textContent;a.textContent="⏳ Saving…";
+ fetch(href).then(r=>{if(!r.ok)throw 0;return r.blob()}).then(b=>{const u=URL.createObjectURL(b),x=D.createElement("a");x.href=u;x.download=a.getAttribute("download")||"";D.body.appendChild(x);x.click();x.remove();setTimeout(()=>URL.revokeObjectURL(u),30000)}).catch(()=>window.open(href,"_blank")).finally(()=>{a._busy=false;a.textContent=o})},true);
 /* ---------- delegated clicks ---------- */
 D.addEventListener("click",e=>{const t=e.target;
  const a=t.closest&&t.closest("[data-go]");if(a){e.preventDefault();go(a.dataset.go);return}
@@ -259,7 +263,7 @@ function ticker(){const v=$("mmtr");const L=SONGS.filter(s=>!trash.has(s.id)).so
 
 /* ---------- boot ---------- */
 D.querySelectorAll("section.col").forEach(x=>{SEC[x.id]={id:x.id,title:(x.querySelector(".h2")||{}).textContent||x.id,main:x.querySelector("main")}});
-fetch("meta/index.json?v="+V,{credentials:"same-origin",mode:"cors"}).then(r=>r.json()).then(d=>{SITE=d.site||(location.origin+location.pathname.replace(/[^/]*$/,""));
+fetch("meta/index.json?v="+V,{credentials:"same-origin",mode:"cors"}).then(r=>r.json()).then(d=>{SITE=d.site||(location.origin+location.pathname.replace(/[^/]*$/,""));if(typeof d.media==="string")MEDIA=d.media;
  SONGS=d.songs;SONGS.forEach((s,i)=>{s.o=i;BY[s.id]=s;s.k.forEach(k=>TAKES.add(tkid(s,k[0])))});
  trash=new Set([...trash].filter(x=>BY[x]));Q=Q.filter(x=>takeOf(x));
  $("loading").remove();fillFilters();ticker();
