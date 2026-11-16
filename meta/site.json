@@ -1,0 +1,1415 @@
+{
+ "note": "Site layout for build_fast.py. sections: order = nav/page order; songs whose collection matches a section are added to it (new ones after the listed order). cards: per-song display overrides; new songs can omit them.",
+ "sections": [
+  {
+   "id": "popcountry",
+   "nav": "🤠 Pop-Country Reimagined",
+   "title": "🤠 Pop-Country Reimagined",
+   "blurb": "Thirty new songs, each built on the hook mechanics of a 2000–2026 pop-country crossover and written as a fresh original. Story songs, duets and summer anthems, all original lyrics.",
+   "collections": [
+    "popcountry"
+   ],
+   "order": [
+    "pc_01_zero_turn_cowboy",
+    "pc_02_phone_in_the_tip_jar",
+    "pc_03_split_the_blame",
+    "pc_04_let_the_coffee_talk",
+    "pc_05_now_im_the_one_at_the_door",
+    "pc_06_no_hurry_on_a_sure_thing",
+    "pc_07_sweet_tea_sober",
+    "pc_08_porch_light_yellow",
+    "pc_09_scenic_route",
+    "pc_10_home_by_dark",
+    "pc_11_colorado_got_my_girl",
+    "pc_12_recalculating",
+    "pc_13_changed_every_password",
+    "pc_14_three_dots",
+    "pc_15_whats_your_favorite_now",
+    "pc_16_go_fish",
+    "pc_17_cast_iron_and_a_cold_one",
+    "pc_18_minivan_with_the_windows_down",
+    "pc_19_got_fired_on_a_friday",
+    "pc_20_laugh_lines_and_county_lines",
+    "pc_21_already_there",
+    "pc_22_pencil_in_the_cassette",
+    "pc_23_never_was_a_talker",
+    "pc_24_i_went_home_for_lunch",
+    "pc_25_blacktop_now",
+    "pc_26_hand_me_the_aux",
+    "pc_27_write_it_on_the_back",
+    "pc_28_better_be_a_porch_swing",
+    "pc_29_good_engine_bad_paint",
+    "pc_30_cross_that_bridge"
+   ]
+  },
+  {
+   "id": "christianpop",
+   "nav": "✝️ Christian Pop Reimagined",
+   "title": "✝️ Christian Pop Reimagined",
+   "blurb": "Thirty new songs about Jesus, each built on the hook mechanics of one of the most popular Christian songs of the streaming era and recast in a genre people already love. Every one is written so you are halfway through before you realize it. All original lyrics.",
+   "collections": [
+    "christianpop"
+   ],
+   "order": [
+    "cp_01_changed_the_locks",
+    "cp_02_in_your_handwriting",
+    "cp_03_out_past_the_buoys",
+    "cp_04_arrivals_gate",
+    "cp_05_say_it_again",
+    "cp_06_one_short_of_a_hundred",
+    "cp_07_mm_hmm_amen",
+    "cp_08_ruined_my_plans_thank_you",
+    "cp_09_the_send_off",
+    "cp_10_somebodys_been_here",
+    "cp_11_louder_on_the_low_days",
+    "cp_12_running_out_of_fingers",
+    "cp_13_full_fridge_still_hungry",
+    "cp_14_looking_back_i_see_you",
+    "cp_15_honest_to_god",
+    "cp_16_i_said_your_name_tonight",
+    "cp_17_still_empty",
+    "cp_18_the_first_to_call_me_son",
+    "cp_19_on_the_hour",
+    "cp_20_signed_in_red",
+    "cp_21_who_does_that",
+    "cp_22_nobody_from_nowhere",
+    "cp_23_empty_handed_at_the_door",
+    "cp_24_i_know_a_guy",
+    "cp_25_halfway_down_the_driveway",
+    "cp_26_hole_in_the_roof",
+    "cp_27_save_me_a_chair",
+    "cp_28_meet_me_at_the_well",
+    "cp_29_set_a_table",
+    "cp_30_the_me_i_dont_post"
+   ]
+  },
+  {
+   "id": "seventies",
+   "nav": "📼 70s Reimagined",
+   "title": "📼 70s Reimagined",
+   "blurb": "Twenty brand-new originals, each built on the hook mechanics of one of the most enduring songs of the 1970s and written from today's point of view. Glam rock, soft rock, disco, funk, Southern rock, folk and soul sounds, all original lyrics.",
+   "collections": [
+    "seventies"
+   ],
+   "order": [
+    "e70_01_mama_i_said_it_out_loud",
+    "e70_02_youll_hear_it_when_its_quiet",
+    "e70_03_second_friday_in_october",
+    "e70_04_seventeen_at_the_core",
+    "e70_05_last_call_at_the_meridian",
+    "e70_06_cold_on_a_clear_blue_day",
+    "e70_07_walk_like_the_rents_paid",
+    "e70_08_shortcut_to_trouble",
+    "e70_09_sweet_nowhere_special",
+    "e70_10_satellite_dad",
+    "e70_11_the_day_the_dial_went_dark",
+    "e70_12_hey_grown_ups",
+    "e70_13_lines_i_earned",
+    "e70_14_leave_it_till_morning",
+    "e70_15_the_house_dont_hum",
+    "e70_16_stuck_on_a_good_thing",
+    "e70_17_suppose_we_did",
+    "e70_18_look_at_you_look_at_me",
+    "e70_19_last_song_at_the_bowl_a_rama",
+    "e70_20_nothing_wrong_with_you"
+   ]
+  },
+  {
+   "id": "nineties",
+   "nav": "📼 90s Reimagined",
+   "title": "📼 90s Reimagined",
+   "blurb": "Twenty brand-new originals, each built on the hook mechanics of one of the most enduring songs of the 1990s and written from today's point of view. Grunge, Britpop, hip-hop, teen pop, power ballads and Eurodance sounds, all original lyrics.",
+   "collections": [
+    "nineties"
+   ],
+   "order": [
+    "e90_01_if_you_looked_up",
+    "e90_02_somedaylight",
+    "e90_03_lukewarm_riot",
+    "e90_04_kingdom_of_the_grind",
+    "e90_05_wrong_room",
+    "e90_06_tell_me_what_i_mean",
+    "e90_07_leave_me_on_red",
+    "e90_08_run_it_by_the_group_chat",
+    "e90_09_buffering",
+    "e90_10_leaving_you_the_light",
+    "e90_11_still_got_the_voltage",
+    "e90_12_late_bloomer",
+    "e90_13_count_the_wolves",
+    "e90_14_area_code_love",
+    "e90_15_night_bus_choir",
+    "e90_16_rather_be_tired",
+    "e90_17_every_ocean_after",
+    "e90_18_beside_myself",
+    "e90_19_walk_it_off",
+    "e90_20_when_the_lights_come_on"
+   ]
+  },
+  {
+   "id": "eighties",
+   "nav": "📼 80s Reimagined",
+   "title": "📼 80s Reimagined",
+   "blurb": "Twenty brand-new originals, each built on the hook mechanics of one of the most enduring songs of the 1980s and written from today's point of view. New wave, synth-pop, arena rock, sophisti-pop and hair-metal sounds, all original lyrics.",
+   "collections": [
+    "eighties"
+   ],
+   "order": [
+    "e80_01_before_you_even_ask",
+    "e80_02_carolina_knows",
+    "e80_03_say_me_yes",
+    "e80_04_meet_me_in_the_monsoon",
+    "e80_05_little_thunder",
+    "e80_06_keep_the_porch_light_on",
+    "e80_07_nobodys_at_the_wheel",
+    "e80_08_ring_the_bell_again",
+    "e80_09_everybodys_selling_something",
+    "e80_10_overtime_hearts",
+    "e80_11_wear_my_weather",
+    "e80_12_slow_dance_with_a_secret",
+    "e80_13_kindness_is_a_riot",
+    "e80_14_remember_me_loud",
+    "e80_15_call_it_recess",
+    "e80_16_surprise_its_me_again",
+    "e80_17_dont_let_the_song_end",
+    "e80_18_guess_whos_not_dead",
+    "e80_19_halfway_out_the_door",
+    "e80_20_wait_for_the_thunder"
+   ]
+  },
+  {
+   "id": "halloween",
+   "nav": "🎃 Halloween",
+   "title": "Halloween",
+   "blurb": "A monster dance-craze novelty song plus two long trick-or-treat haunted-house soundtracks full of jump-scare surprises, and three no-music sound-effects ambiences (graveyard, crypt, haunted playground).",
+   "collections": [
+    "halloween"
+   ],
+   "order": [
+    "hw_01_creepy_crawl",
+    "hw_02_music_box_manor",
+    "hw_03_cauldron_hollow",
+    "hw_04_graveyard_gate",
+    "hw_05_ghoul_crypt",
+    "hw_06_hollow_playground"
+   ]
+  },
+  {
+   "id": "debt",
+   "nav": "Minimum Payment",
+   "title": "Minimum Payment",
+   "blurb": "A concept album of hard industrial techno about modern economic dread: debt, rent, the grind, AI, burnout, the feed, and the unwritten future.",
+   "collections": [
+    "debt"
+   ],
+   "order": [
+    "debt_01_minimum_payment",
+    "debt_02_priced_out",
+    "debt_03_never_retire",
+    "debt_04_replaced",
+    "debt_05_side_hustle",
+    "debt_06_burnout",
+    "debt_07_feed_control",
+    "debt_08_static_horizon",
+    "debt_09_quiet_riot",
+    "debt_10_not_yet_written"
+   ],
+   "albumCover": {
+    "href": "debt/covers/album.jpg",
+    "src": "debt/covers/album_600.jpg",
+    "alt": "Minimum Payment album cover"
+   }
+  },
+  {
+   "id": "faith",
+   "nav": "Faith Pop",
+   "title": "Faith Pop",
+   "blurb": "Uplifting Christian music, from bright dance-pop to soulful gospel, Southern gospel hymns and dark Christian EBM.",
+   "collections": [
+    "faith"
+   ],
+   "order": [
+    "never_off_your_mind",
+    "still_holding_me",
+    "over_in_glory",
+    "morning_will_come",
+    "grace_found_my_name",
+    "checkmate_at_calvary",
+    "it_is_written",
+    "blessed_be_the_name",
+    "fourth_man_in_the_fire"
+   ]
+  },
+  {
+   "id": "dark",
+   "nav": "Dark Electro",
+   "title": "Dark Electro",
+   "blurb": "Ten dark, driving electro tracks: neon highways, cold synths and robot funk.",
+   "collections": [
+    "dark"
+   ],
+   "order": [
+    "dark_06_midnight_interceptor",
+    "dark_05_voltage_choir",
+    "dark_04_cold_protocol",
+    "dark_07_red_glass_highway",
+    "dark_03_static_cathedral",
+    "dark_01_blackout_boulevard",
+    "dark_08_robot_romance",
+    "dark_09_chrome_funk_machine",
+    "dark_10_nightshift_paris",
+    "dark_02_iron_curtain_call",
+    "dark_11_iron_psalm",
+    "dark_12_signal_cathedral",
+    "dark_13_perjury_machine",
+    "dark_14_perjury_machine_overlay",
+    "dark_15_refuse_the_machine",
+    "dark_16_ledger_of_bone",
+    "dark_17_iron_sabbath",
+    "dark_18_flesh_firmware",
+    "dark_19_counterfeit_saviors",
+    "dark_20_winter_in_the_wires",
+    "dark_21_lantern_under_concrete",
+    "dark_22_neon_tribunal",
+    "dark_23_ghost_protocol_zero"
+   ],
+   "zip": {
+    "href": "https://github.com/Mikeatlanta/music-muse-tracks/releases/download/v1/dark-electro.zip",
+    "label": "Download collection (zip)"
+   }
+  },
+  {
+   "id": "sacred",
+   "nav": "Sacred Trance",
+   "title": "Sacred Trance",
+   "blurb": "Ten meditative trance pieces with chants, world instruments and ambient space.",
+   "collections": [
+    "sacred"
+   ],
+   "order": [
+    "sacred_07_green_hollow_hymn",
+    "sacred_03_isla_de_luz",
+    "sacred_04_drums_of_the_red_earth",
+    "sacred_05_cantus_of_stars",
+    "sacred_09_stillwater_mind",
+    "sacred_01_veil_of_sanctum",
+    "sacred_10_wings_of_eternity",
+    "sacred_08_sands_of_the_ney",
+    "sacred_06_temple_smoke",
+    "sacred_02_whisper_of_aurora"
+   ],
+   "zip": {
+    "href": "https://github.com/Mikeatlanta/music-muse-tracks/releases/download/v1/sacred-trance.zip",
+    "label": "Download collection (zip)"
+   }
+  },
+  {
+   "id": "chill",
+   "nav": "Chill House Playlist",
+   "title": "Chill House Playlist",
+   "blurb": "A ten-track chill house set with warm grooves and lounge textures.",
+   "collections": [
+    "playlist"
+   ],
+   "order": [
+    "playlist_04_velvet_telephone",
+    "playlist_03_amber_caravan",
+    "playlist_05_chrome_horizon",
+    "playlist_07_after_the_rain",
+    "playlist_10_seedling_strings",
+    "playlist_08_machine_lumiere",
+    "playlist_09_paper_moons",
+    "playlist_02_smoke_and_bandoneon",
+    "playlist_06_static_velvet",
+    "playlist_01_brighter_than_gold"
+   ],
+   "zip": {
+    "href": "https://github.com/Mikeatlanta/music-muse-tracks/releases/download/v1/chill-playlist.zip",
+    "label": "Download collection (zip)"
+   }
+  },
+  {
+   "id": "singles",
+   "nav": "Singles",
+   "title": "Singles",
+   "blurb": "Early one-offs: club house, EDM, synthwave, industrial EBM, Enigma-style chant and poolside chill.",
+   "collections": [
+    "media"
+   ],
+   "order": [
+    "mad_at_the_machine",
+    "red_and_blue",
+    "red_and_blue_synth",
+    "iron_directive",
+    "lumen_silentii",
+    "dead_signal",
+    "salt_and_sunlight"
+   ],
+   "zip": {
+    "href": "https://github.com/Mikeatlanta/music-muse-tracks/releases/download/v1/all-songs.zip",
+    "label": "Download all songs (zip)"
+   }
+  }
+ ],
+ "cards": {
+  "pc_01_zero_turn_cowboy": {
+   "line": "Track 01 · 2019 country trap · 68 BPM · Deep deadpan male baritone, with a gravelly older guest"
+  },
+  "pc_02_phone_in_the_tip_jar": {
+   "line": "Track 02 · 2024 country crossover with a hip-hop low end · 81 BPM · Warm male baritone with gang vocals"
+  },
+  "pc_03_split_the_blame": {
+   "line": "Track 03 · 2024 pop-country with a 1980s pop-rock shine · 128 BPM · Male and female duet, wry"
+  },
+  "pc_04_let_the_coffee_talk": {
+   "line": "Track 04 · 2023 country-pop with soft trap drums · 102 BPM · Conversational male voice, close mic"
+  },
+  "pc_05_now_im_the_one_at_the_door": {
+   "line": "Track 05 · 2008 pop-country story song · 119 BPM · Warm male tenor, storytelling"
+  },
+  "pc_06_no_hurry_on_a_sure_thing": {
+   "line": "Track 06 · 2017 pop-country crossover · 77 BPM · Female and male duet, easy and warm"
+  },
+  "pc_07_sweet_tea_sober": {
+   "line": "Track 07 · Slow country soul ballad in 6/8 · 49 BPM · Gritty soul baritone with long runs"
+  },
+  "pc_08_porch_light_yellow": {
+   "line": "Track 08 · 2022 raw folk-country waltz · 84 BPM · Raw, cracked male tenor"
+  },
+  "pc_09_scenic_route": {
+   "line": "Track 09 · Mid-2000s country-rock road anthem · 104 BPM · Bright male tenor with shouted group vocals"
+  },
+  "pc_10_home_by_dark": {
+   "line": "Track 10 · Acoustic string-band country singalong · 148 BPM · Easy male tenor with group harmonies"
+  },
+  "pc_11_colorado_got_my_girl": {
+   "line": "Track 11 · 1990s-style traditional country two-step with modern clarity · 120 BPM · Female alto with a conversational drawl"
+  },
+  "pc_12_recalculating": {
+   "line": "Track 12 · 2024 dance-floor country line-dance song · 110 BPM · Sassy female voice, half-spoken"
+  },
+  "pc_13_changed_every_password": {
+   "line": "Track 13 · Mid-2000s country-rock revenge song · 74 BPM · Powerhouse female voice, simmer to belt"
+  },
+  "pc_14_three_dots": {
+   "line": "Track 14 · Late-2000s country-pop ballad duet · 108 BPM · Female and male duet, hushed then full"
+  },
+  "pc_15_whats_your_favorite_now": {
+   "line": "Track 15 · 2019 country-pop with R&B polish · 90 BPM · Soft male tenor with stacked harmonies"
+  },
+  "pc_16_go_fish": {
+   "line": "Track 16 · 2024 country-pop dance stomp · 110 BPM · Playful female voice with group shouts"
+  },
+  "pc_17_cast_iron_and_a_cold_one": {
+   "line": "Track 17 · Late-2000s acoustic country with tight four-part harmony · 86 BPM · Warm male lead with four-part harmony"
+  },
+  "pc_18_minivan_with_the_windows_down": {
+   "line": "Track 18 · Early-2010s radio country summer anthem · 148 BPM · Sunny male tenor with harmonies"
+  },
+  "pc_19_got_fired_on_a_friday": {
+   "line": "Track 19 · Modern country with a 1990s honky-tonk heart · 115 BPM · Grinning male baritone"
+  },
+  "pc_20_laugh_lines_and_county_lines": {
+   "line": "Track 20 · 2017 country with an R&B pocket · 99 BPM · Talk-sung male voice with a grin"
+  },
+  "pc_21_already_there": {
+   "line": "Track 21 · 2015 country with a soul heart · 82 BPM · Tender male tenor"
+  },
+  "pc_22_pencil_in_the_cassette": {
+   "line": "Track 22 · Early-2010s country with a 1980s heartland-rock frame · 104 BPM · Nostalgic male baritone"
+  },
+  "pc_23_never_was_a_talker": {
+   "line": "Track 23 · Soft country ballad · 76 BPM · Plain, gentle male voice"
+  },
+  "pc_24_i_went_home_for_lunch": {
+   "line": "Track 24 · Mid-2000s country story ballad · 76 BPM · Plain male baritone, storytelling"
+  },
+  "pc_25_blacktop_now": {
+   "line": "Track 25 · Early-2010s country with a hip-hop rhythm section · 64 BPM · Male voice: spoken-rap verses, sung chorus"
+  },
+  "pc_26_hand_me_the_aux": {
+   "line": "Track 26 · Mid-2010s radio country · 100 BPM · Easygoing male voice"
+  },
+  "pc_27_write_it_on_the_back": {
+   "line": "Track 27 · Acoustic country advice song · 88 BPM · Warm male voice with a harmony"
+  },
+  "pc_28_better_be_a_porch_swing": {
+   "line": "Track 28 · 2017 country slow jam with R&B warmth · 78 BPM · Smooth male baritone"
+  },
+  "pc_29_good_engine_bad_paint": {
+   "line": "Track 29 · 2019 pop-soul country · 77 BPM · Smoky female alto"
+  },
+  "pc_30_cross_that_bridge": {
+   "line": "Track 30 · 2022 country power ballad · 70 BPM · Gritty male voice, raw in the chorus"
+  },
+  "cp_01_changed_the_locks": {
+   "line": "Track 01 · Late-2000s arena rock with electronics · 135 BPM · Tense male tenor with grit"
+  },
+  "cp_02_in_your_handwriting": {
+   "line": "Track 02 · Modern soul-pop piano ballad in 6/8 · 72 BPM · Smoky female alto, quiet to full"
+  },
+  "cp_03_out_past_the_buoys": {
+   "line": "Track 03 · Cinematic dream pop slow-build anthem · 66 BPM · Airy female soprano"
+  },
+  "cp_04_arrivals_gate": {
+   "line": "Track 04 · Anthemic stadium rock with ringing delay guitars · 112 BPM · Hushed male tenor rising to full"
+  },
+  "cp_05_say_it_again": {
+   "line": "Track 05 · 1980s-style synth-pop with modern clarity · 118 BPM · Bright, breathless female voice"
+  },
+  "cp_06_one_short_of_a_hundred": {
+   "line": "Track 06 · Early-2010s stomp-and-holler folk rock · 96 BPM · Raspy male tenor with gang vocals"
+  },
+  "cp_07_mm_hmm_amen": {
+   "line": "Track 07 · Early-2000s Southern hip-hop with a lo-fi finish · 92 BPM · Relaxed male rap with a sung group hook"
+  },
+  "cp_08_ruined_my_plans_thank_you": {
+   "line": "Track 08 · 2024 bedroom pop with a hip-hop kick · 100 BPM · Light, grinning young male voice"
+  },
+  "cp_09_the_send_off": {
+   "line": "Track 09 · Gospel choir pop ballad that builds · 70 BPM · Male and female leads with a choir"
+  },
+  "cp_10_somebodys_been_here": {
+   "line": "Track 10 · Modern Afropop with highlife guitars · 104 BPM · Joyful female and male voices with a group"
+  },
+  "cp_11_louder_on_the_low_days": {
+   "line": "Track 11 · 1970s-style funk played by a modern gospel band · 126 BPM · Energetic male tenor with a choir"
+  },
+  "cp_12_running_out_of_fingers": {
+   "line": "Track 12 · Celtic folk-pop jig in 6/8 · 112 BPM · Clear female voice with a group"
+  },
+  "cp_13_full_fridge_still_hungry": {
+   "line": "Track 13 · Early-2000s alternative rock · 76 BPM · Restless male voice, rising to a shout"
+  },
+  "cp_14_looking_back_i_see_you": {
+   "line": "Track 14 · 1960s Southern soul gospel ballad in 12/8 · 62 BPM · Warm, testifying female alto"
+  },
+  "cp_15_honest_to_god": {
+   "line": "Track 15 · Modern dark cinematic pop duet · 80 BPM · Low male and clear female voices"
+  },
+  "cp_16_i_said_your_name_tonight": {
+   "line": "Track 16 · Modern pop ballad with gospel warmth · 68 BPM · Gentle female soprano"
+  },
+  "cp_17_still_empty": {
+   "line": "Track 17 · Garage rock stomp built for arenas · 124 BPM · Swaggering male voice with stadium shouts"
+  },
+  "cp_18_the_first_to_call_me_son": {
+   "line": "Track 18 · Retro soul lullaby in 6/8 · 58 BPM · Gentle, soulful male tenor"
+  },
+  "cp_19_on_the_hour": {
+   "line": "Track 19 · Late-1990s neo-soul slow jam · 68 BPM · Smooth, close male tenor"
+  },
+  "cp_20_signed_in_red": {
+   "line": "Track 20 · Southern rock with a gospel choir · 84 BPM · Gravel male baritone with a choir"
+  },
+  "cp_21_who_does_that": {
+   "line": "Track 21 · Early-2010s folk-EDM anthem · 126 BPM · Earnest male tenor"
+  },
+  "cp_22_nobody_from_nowhere": {
+   "line": "Track 22 · 2020s stomp-and-holler folk-pop · 118 BPM · Plain, raw male voice with gang vocals"
+  },
+  "cp_23_empty_handed_at_the_door": {
+   "line": "Track 23 · Rootsy folk-soul with a gospel choir · 76 BPM · Bare, raspy male voice"
+  },
+  "cp_24_i_know_a_guy": {
+   "line": "Track 24 · Modern country-pop with gospel touches · 96 BPM · Warm, conversational female voice"
+  },
+  "cp_25_halfway_down_the_driveway": {
+   "line": "Track 25 · 2003-style pop-punk · 168 BPM · Earnest young male tenor"
+  },
+  "cp_26_hole_in_the_roof": {
+   "line": "Track 26 · Mid-2010s Southern roots rock anthem · 100 BPM · Raspy male baritone with gang vocals"
+  },
+  "cp_27_save_me_a_chair": {
+   "line": "Track 27 · Late-2010s pop-rap ballad · 80 BPM · Tender male rap with a female sung hook"
+  },
+  "cp_28_meet_me_at_the_well": {
+   "line": "Track 28 · Swampy gospel-blues stomp · 88 BPM · Smoky female lead with a choir"
+  },
+  "cp_29_set_a_table": {
+   "line": "Track 29 · Modern nu-disco funk-pop · 112 BPM · Cool male voice with falsetto stacks"
+  },
+  "cp_30_the_me_i_dont_post": {
+   "line": "Track 30 · 1990s R&B slow jam with gospel harmonies · 72 BPM · Silky male tenor with harmonies"
+  },
+  "e70_01_mama_i_said_it_out_loud": {
+   "line": "Track 01 · 1975 British progressive glam rock mini-opera in several sections · 72 / 144 BPM · Male lead"
+  },
+  "e70_02_youll_hear_it_when_its_quiet": {
+   "line": "Track 02 · 1977 California soft rock · 120 BPM · Female lead"
+  },
+  "e70_03_second_friday_in_october": {
+   "line": "Track 03 · 1978 polished funk and soul celebration · 126 BPM · Male lead"
+  },
+  "e70_04_seventeen_at_the_core": {
+   "line": "Track 04 · 1976 Swedish disco pop wall of sound · 101 BPM · Two female voices"
+  },
+  "e70_05_last_call_at_the_meridian": {
+   "line": "Track 05 · 1976 Los Angeles soft rock epic · 74 BPM · Male lead"
+  },
+  "e70_06_cold_on_a_clear_blue_day": {
+   "line": "Track 06 · 1970 American roots rock · 116 BPM · Male lead"
+  },
+  "e70_07_walk_like_the_rents_paid": {
+   "line": "Track 07 · 1977 disco · 104 BPM · Three-part male falsetto"
+  },
+  "e70_08_shortcut_to_trouble": {
+   "line": "Track 08 · 1979 Australian hard rock boogie · 116 BPM · Male lead"
+  },
+  "e70_09_sweet_nowhere_special": {
+   "line": "Track 09 · 1974 Southern rock · 98 BPM · Male lead, female backing"
+  },
+  "e70_10_satellite_dad": {
+   "line": "Track 10 · 1972 singer-songwriter piano rock · 68 BPM · Male lead"
+  },
+  "e70_11_the_day_the_dial_went_dark": {
+   "line": "Track 11 · 1971 American folk rock story song · 72 / 138 BPM · Male lead"
+  },
+  "e70_12_hey_grown_ups": {
+   "line": "Track 12 · 1979 British art rock with a disco rhythm section · 104 BPM · Male lead, children's choir"
+  },
+  "e70_13_lines_i_earned": {
+   "line": "Track 13 · 1973 hard rock power ballad with a classical tint · 80 BPM · Male lead"
+  },
+  "e70_14_leave_it_till_morning": {
+   "line": "Track 14 · 1970 piano gospel rock hymn · 72 BPM · Male lead"
+  },
+  "e70_15_the_house_dont_hum": {
+   "line": "Track 15 · 1971 acoustic soul blues · 78 BPM · Male lead"
+  },
+  "e70_16_stuck_on_a_good_thing": {
+   "line": "Track 16 · 1974 brassy European pop stomp · 118 BPM · Male lead"
+  },
+  "e70_17_suppose_we_did": {
+   "line": "Track 17 · 1971 piano peace ballad · 76 BPM · Male lead"
+  },
+  "e70_18_look_at_you_look_at_me": {
+   "line": "Track 18 · 1978 film musical pop rock duet · 107 BPM · Male and female duet"
+  },
+  "e70_19_last_song_at_the_bowl_a_rama": {
+   "line": "Track 19 · 1973 singer-songwriter waltz story song · 60 BPM · Male lead"
+  },
+  "e70_20_nothing_wrong_with_you": {
+   "line": "Track 20 · 1974 West Coast pop soul groove · 106 BPM · Male lead"
+  },
+  "e90_01_if_you_looked_up": {
+   "line": "Track 01 · 1998 alternative rock power ballad · 72 BPM · Male lead"
+  },
+  "e90_02_somedaylight": {
+   "line": "Track 02 · 1995 Britpop acoustic rock anthem · 87 BPM · Male lead"
+  },
+  "e90_03_lukewarm_riot": {
+   "line": "Track 03 · 1991 Seattle grunge alternative rock · 117 BPM · Male lead"
+  },
+  "e90_04_kingdom_of_the_grind": {
+   "line": "Track 04 · 1995 West Coast conscious hip-hop with gospel choir · 80 BPM · Male lead"
+  },
+  "e90_05_wrong_room": {
+   "line": "Track 05 · 1992 British alternative rock ballad · 92 BPM · Male lead"
+  },
+  "e90_06_tell_me_what_i_mean": {
+   "line": "Track 06 · 1999 boy band pop ballad · 99 BPM · Five-part male harmony"
+  },
+  "e90_07_leave_me_on_red": {
+   "line": "Track 07 · 1998 teen pop · 93 BPM · Female lead"
+  },
+  "e90_08_run_it_by_the_group_chat": {
+   "line": "Track 08 · 1996 British girl group dance-pop · 110 BPM · Five female voices"
+  },
+  "e90_09_buffering": {
+   "line": "Track 09 · 1999 Atlanta R&B · 93 BPM · Female R&B trio"
+  },
+  "e90_10_leaving_you_the_light": {
+   "line": "Track 10 · 1992 soul pop power ballad · 66 BPM · Female lead"
+  },
+  "e90_11_still_got_the_voltage": {
+   "line": "Track 11 · 1990 hard rock stadium anthem · 134 BPM · Male lead"
+  },
+  "e90_12_late_bloomer": {
+   "line": "Track 12 · 1999 California pop-rock with ska upstrokes · 104 BPM · Male lead"
+  },
+  "e90_13_count_the_wolves": {
+   "line": "Track 13 · 1991 mainstream heavy metal · 123 BPM · Male lead"
+  },
+  "e90_14_area_code_love": {
+   "line": "Track 14 · 1995 West Coast G-funk party hip-hop · 92 BPM · Two male rappers"
+  },
+  "e90_15_night_bus_choir": {
+   "line": "Track 15 · 1992 alternative rock ballad · 84 BPM · Male lead"
+  },
+  "e90_16_rather_be_tired": {
+   "line": "Track 16 · 1998 orchestral rock power ballad · 60 BPM · Male lead"
+  },
+  "e90_17_every_ocean_after": {
+   "line": "Track 17 · 1997 film theme pop ballad · 96 BPM · Female lead"
+  },
+  "e90_18_beside_myself": {
+   "line": "Track 18 · 1991 American college rock · 125 BPM · Male lead"
+  },
+  "e90_19_walk_it_off": {
+   "line": "Track 19 · 1997 Britpop orchestral rock · 86 BPM · Male lead"
+  },
+  "e90_20_when_the_lights_come_on": {
+   "line": "Track 20 · 1993 Eurodance · 124 BPM · Male lead, female backing"
+  },
+  "e80_01_before_you_even_ask": {
+   "line": "Track 01 · 1983 new wave soft rock · 116 BPM · Male lead"
+  },
+  "e80_02_carolina_knows": {
+   "line": "Track 02 · 1983 post-disco dance-funk pop · 118 BPM · Male lead"
+  },
+  "e80_03_say_me_yes": {
+   "line": "Track 03 · 1985 Scandinavian-style synth-pop · 166 BPM · Male lead"
+  },
+  "e80_04_meet_me_in_the_monsoon": {
+   "line": "Track 04 · 1982 West Coast yacht rock · 92 BPM · Male lead"
+  },
+  "e80_05_little_thunder": {
+   "line": "Track 05 · 1987 Sunset Strip hard rock with a tender heart · 122 BPM · Male lead"
+  },
+  "e80_06_keep_the_porch_light_on": {
+   "line": "Track 06 · 1981 arena rock anthem · 118 BPM · Male lead"
+  },
+  "e80_07_nobodys_at_the_wheel": {
+   "line": "Track 07 · 1985 British sophisticated synth-pop · 110 BPM · Male lead"
+  },
+  "e80_08_ring_the_bell_again": {
+   "line": "Track 08 · 1982 arena rock motivational anthem · 108 BPM · Male lead"
+  },
+  "e80_09_everybodys_selling_something": {
+   "line": "Track 09 · 1983 cold minimalist British synth-pop · 124 BPM · Female lead"
+  },
+  "e80_10_overtime_hearts": {
+   "line": "Track 10 · 1986 pop-metal arena rock anthem · 122 BPM · Male lead"
+  },
+  "e80_11_wear_my_weather": {
+   "line": "Track 11 · 1985 British art-pop · 106 BPM · Female lead"
+  },
+  "e80_12_slow_dance_with_a_secret": {
+   "line": "Track 12 · 1984 sophisti-pop · 76 BPM · Male lead"
+  },
+  "e80_13_kindness_is_a_riot": {
+   "line": "Track 13 · 1981 British art-rock duet · 112 BPM · Male duet"
+  },
+  "e80_14_remember_me_loud": {
+   "line": "Track 14 · 1985 anthemic British new wave · 112 BPM · Male lead"
+  },
+  "e80_15_call_it_recess": {
+   "line": "Track 15 · 1983 quirky new wave dance-pop · 122 BPM · Female lead"
+  },
+  "e80_16_surprise_its_me_again": {
+   "line": "Track 16 · 1987 British hit-factory dance-pop · 114 BPM · Male lead"
+  },
+  "e80_17_dont_let_the_song_end": {
+   "line": "Track 17 · 1987 euphoric dance-pop with gospel-powered vocals · 120 BPM · Female lead"
+  },
+  "e80_18_guess_whos_not_dead": {
+   "line": "Track 18 · 1980 Australian-style hard rock · 92 BPM · Male lead"
+  },
+  "e80_19_halfway_out_the_door": {
+   "line": "Track 19 · 1987 atmospheric Irish-style stadium rock · 108 BPM · Male lead"
+  },
+  "e80_20_wait_for_the_thunder": {
+   "line": "Track 20 · 1981 dark atmospheric art-pop slow burner · 94 BPM · Male lead"
+  },
+  "hw_01_creepy_crawl": {
+   "line": "Halloween novelty dance · 124 BPM · surf-rock meets electro-swing",
+   "rows": [
+    [
+     "model",
+     "V6"
+    ],
+    [
+     "negativeTags",
+     "ballad, sad, metal screaming, lo-fi, country, gore"
+    ],
+    [
+     "instrumental",
+     "False"
+    ],
+    [
+     "vocalGender",
+     "m"
+    ],
+    [
+     "styleWeight",
+     "0.8"
+    ],
+    [
+     "weirdnessConstraint",
+     "0.55"
+    ],
+    [
+     "audioWeight",
+     "0.65"
+    ],
+    [
+     "duration",
+     "auto"
+    ],
+    [
+     "customMode",
+     "True"
+    ],
+    [
+     "taskId",
+     "44eb3805b54137cc82d0574f1a866539"
+    ],
+    [
+     "clip IDs",
+     "1f1492cc-cf4a-4466-b80c-52718a87ebcb, 9438176f-b3cd-4f5e-a4e2-04b63f15e859"
+    ],
+    [
+     "durations",
+     "187.6s, 182.4s"
+    ],
+    [
+     "created",
+     "Oct 31, 2026 1:25 PM ET"
+    ]
+   ]
+  },
+  "hw_02_music_box_manor": {
+   "line": "Instrumental · Haunted-house ambience · trick-or-treat background",
+   "lyrNote": "(instrumental)",
+   "lyricsText": "(Instrumental, no lyrics)"
+  },
+  "hw_03_cauldron_hollow": {
+   "line": "Instrumental · Witch-forest ambience · trick-or-treat background",
+   "lyrNote": "(instrumental)",
+   "lyricsText": "(Instrumental, no lyrics)"
+  },
+  "hw_04_graveyard_gate": {
+   "line": "No music · Sound-effects ambience · graveyard at night (wind, gate, crows, werewolf howls)",
+   "lyrNote": "(instrumental)",
+   "rows": [
+    [
+     "model",
+     "V6"
+    ],
+    [
+     "negativeTags",
+     "music, melody, song, drums, beat, percussion, rhythm, bass, synth, piano, strings, organ, music box, guitar, orchestra, chords, pads, drone, vocals singing, choir, harmony, lyrics, rap"
+    ],
+    [
+     "instrumental",
+     "True"
+    ],
+    [
+     "styleWeight",
+     "0.9"
+    ],
+    [
+     "weirdnessConstraint",
+     "0.3"
+    ],
+    [
+     "audioWeight",
+     "0.65"
+    ],
+    [
+     "duration",
+     "360"
+    ],
+    [
+     "customMode",
+     "True"
+    ],
+    [
+     "taskId",
+     "c87ec63419c8d2559b61035ddf224b53"
+    ],
+    [
+     "clip IDs",
+     "b515bba9-ad20-4975-b850-b38878ba51b8, ebebdd4c-4ac7-4d50-9cc3-ac07e585e123"
+    ],
+    [
+     "durations",
+     "360.0s, 360.1s"
+    ],
+    [
+     "created",
+     "Oct 31, 2026 2:44 PM ET"
+    ],
+    [
+     "post-processing",
+     "Raw Suno takes carried a low sustained C/G tonal drone; published audio is notch-filtered (2 passes, harmonic peaks 35 Hz-4 kHz) to strip it, then loudness-normalized to -18 LUFS. No beat or melody detected."
+    ]
+   ],
+   "lyricsText": "(No music, no lyrics: pure sound effects)"
+  },
+  "hw_05_ghoul_crypt": {
+   "line": "No music · Sound-effects ambience · ghoul crypt (groans, chains, dripping, sinister laughter)",
+   "lyrNote": "(instrumental)",
+   "rows": [
+    [
+     "model",
+     "V6"
+    ],
+    [
+     "negativeTags",
+     "music, melody, song, drums, beat, percussion, rhythm, bass, synth, piano, strings, organ, music box, guitar, orchestra, chords, pads, drone, vocals singing, choir, harmony, lyrics, rap"
+    ],
+    [
+     "instrumental",
+     "True"
+    ],
+    [
+     "styleWeight",
+     "0.9"
+    ],
+    [
+     "weirdnessConstraint",
+     "0.3"
+    ],
+    [
+     "audioWeight",
+     "0.65"
+    ],
+    [
+     "duration",
+     "360"
+    ],
+    [
+     "customMode",
+     "True"
+    ],
+    [
+     "taskId",
+     "c3ee94552e351685a5ef033258be254c"
+    ],
+    [
+     "clip IDs",
+     "42a04578-a67f-4f60-9341-983e3b1e7ed8, 0093a025-dcca-4fa6-a1d0-3cd917a50f8d"
+    ],
+    [
+     "durations",
+     "359.7s, 360.0s"
+    ],
+    [
+     "created",
+     "Oct 31, 2026 2:44 PM ET"
+    ],
+    [
+     "post-processing",
+     "Raw Suno takes carried a low sustained C/G tonal drone; published audio is notch-filtered (2 passes, harmonic peaks 35 Hz-4 kHz) to strip it, then loudness-normalized to -18 LUFS. No beat or melody detected."
+    ]
+   ],
+   "lyricsText": "(No music, no lyrics: pure sound effects)"
+  },
+  "hw_06_hollow_playground": {
+   "line": "No music · Sound-effects ambience · haunted playground (child giggles, whispers, swings, screams)",
+   "lyrNote": "(instrumental)",
+   "rows": [
+    [
+     "model",
+     "V6"
+    ],
+    [
+     "negativeTags",
+     "music, melody, song, drums, beat, percussion, rhythm, bass, synth, piano, strings, organ, music box, guitar, orchestra, chords, pads, drone, vocals singing, choir, harmony, lyrics, rap"
+    ],
+    [
+     "instrumental",
+     "True"
+    ],
+    [
+     "styleWeight",
+     "0.9"
+    ],
+    [
+     "weirdnessConstraint",
+     "0.3"
+    ],
+    [
+     "audioWeight",
+     "0.65"
+    ],
+    [
+     "duration",
+     "360"
+    ],
+    [
+     "customMode",
+     "True"
+    ],
+    [
+     "taskId",
+     "eb069e16c5ffe42127b1c74d68c39d79"
+    ],
+    [
+     "clip IDs",
+     "45a0bce2-a4ac-40fa-a988-acdf8635f64c, d77f994c-2697-4787-8b4f-3af1690c94f0"
+    ],
+    [
+     "durations",
+     "359.6s, 359.9s"
+    ],
+    [
+     "created",
+     "Oct 31, 2026 2:45 PM ET"
+    ],
+    [
+     "post-processing",
+     "Raw Suno takes carried a low sustained C/G tonal drone; published audio is notch-filtered (2 passes, harmonic peaks 35 Hz-4 kHz) to strip it, then loudness-normalized to -18 LUFS. No beat or melody detected."
+    ]
+   ],
+   "lyricsText": "(No music, no lyrics: pure sound effects)"
+  },
+  "debt_01_minimum_payment": {
+   "line": "Track 01 · Hard industrial techno · 138 BPM",
+   "cover": "debt/covers/debt_01_minimum_payment.jpg"
+  },
+  "debt_02_priced_out": {
+   "line": "Track 02 · Hard industrial techno · 140 BPM",
+   "cover": "debt/covers/debt_02_priced_out.jpg"
+  },
+  "debt_03_never_retire": {
+   "line": "Track 03 · Hard industrial techno · 142 BPM",
+   "cover": "debt/covers/debt_03_never_retire.jpg"
+  },
+  "debt_04_replaced": {
+   "line": "Track 04 · Hard industrial techno · 143 BPM",
+   "cover": "debt/covers/debt_04_replaced.jpg"
+  },
+  "debt_05_side_hustle": {
+   "line": "Track 05 · Hard industrial techno · 145 BPM",
+   "cover": "debt/covers/debt_05_side_hustle.jpg"
+  },
+  "debt_06_burnout": {
+   "line": "Track 06 · Hard industrial techno · 136 BPM",
+   "cover": "debt/covers/debt_06_burnout.jpg"
+  },
+  "debt_07_feed_control": {
+   "line": "Track 07 · Hard industrial techno · 141 BPM",
+   "cover": "debt/covers/debt_07_feed_control.jpg"
+  },
+  "debt_08_static_horizon": {
+   "line": "Track 08 · Hard industrial techno · 139 BPM",
+   "cover": "debt/covers/debt_08_static_horizon.jpg"
+  },
+  "debt_09_quiet_riot": {
+   "line": "Track 09 · Hard industrial techno · 146 BPM",
+   "cover": "debt/covers/debt_09_quiet_riot.jpg"
+  },
+  "debt_10_not_yet_written": {
+   "line": "Track 10 · Hard industrial techno · 144 BPM",
+   "cover": "debt/covers/debt_10_not_yet_written.jpg"
+  },
+  "never_off_your_mind": {
+   "line": "Upbeat Christian dance-pop · 118 BPM · youthful female vocal",
+   "cover": "faith/covers/never_off_your_mind.jpg"
+  },
+  "still_holding_me": {
+   "line": "Contemporary gospel ballad · 72 BPM · soulful female vocal & choir",
+   "cover": "faith/covers/still_holding_me.jpg"
+  },
+  "over_in_glory": {
+   "line": "Southern gospel hymn · 84 BPM waltz · baritone lead & quartet",
+   "cover": "faith/covers/over_in_glory.jpg"
+  },
+  "morning_will_come": {
+   "line": "Contemporary gospel ballad · 68 BPM · soulful female vocal & choir",
+   "cover": "faith/covers/morning_will_come.jpg"
+  },
+  "grace_found_my_name": {
+   "line": "Contemporary gospel ballad · 76 BPM · soulful female vocal & choir",
+   "cover": "faith/covers/grace_found_my_name.jpg"
+  },
+  "checkmate_at_calvary": {
+   "line": "Christian EBM · 128 BPM · growled male vocal, numbers-station radio, choir stabs",
+   "cover": "faith/covers/checkmate_at_calvary.jpg"
+  },
+  "it_is_written": {
+   "line": "Christian EBM · 126 BPM · the wilderness temptation, Gregorian drone",
+   "cover": "faith/covers/it_is_written.jpg"
+  },
+  "blessed_be_the_name": {
+   "line": "Christian EBM · 124 BPM · the testing of Job, industrial church bells",
+   "cover": "faith/covers/blessed_be_the_name.jpg"
+  },
+  "fourth_man_in_the_fire": {
+   "line": "Christian EBM · 132 BPM · the fiery furnace, furnace roar & horn stabs",
+   "cover": "faith/covers/fourth_man_in_the_fire.jpg"
+  },
+  "dark_06_midnight_interceptor": {
+   "line": "Dark 80s retro synthwave night chase",
+   "num": "06 · Instrumental",
+   "artist": "Neon Varga",
+   "dl": [
+    "Neon Varga - Midnight Interceptor (Take 1).mp3",
+    "Neon Varga - Midnight Interceptor (Take 2).mp3"
+   ],
+   "cover": "dark/covers/dark_06_midnight_interceptor.jpg"
+  },
+  "dark_05_voltage_choir": {
+   "line": "Early-90s EBM with growled vocals and sci-fi samples",
+   "num": "05 · Male, growled",
+   "artist": "Ferrum Ritual",
+   "dl": [
+    "Ferrum Ritual - Voltage Choir (Take 1).mp3",
+    "Ferrum Ritual - Voltage Choir (Take 2).mp3"
+   ],
+   "cover": "dark/covers/dark_05_voltage_choir.jpg"
+  },
+  "dark_04_cold_protocol": {
+   "line": "Late-80s industrial EBM, harsh processed male shouts",
+   "num": "04 · Male, harsh processed",
+   "artist": "Unit Kessel",
+   "dl": [
+    "Unit Kessel - Cold Protocol (Take 1).mp3",
+    "Unit Kessel - Cold Protocol (Take 2).mp3"
+   ],
+   "cover": "dark/covers/dark_04_cold_protocol.jpg"
+  },
+  "dark_07_red_glass_highway": {
+   "line": "Dark synthwave with a cool breathy female vocal",
+   "num": "07 · Female, breathy",
+   "artist": "Vesper Drive",
+   "dl": [
+    "Vesper Drive - Red Glass Highway (Take 1).mp3",
+    "Vesper Drive - Red Glass Highway (Take 2).mp3"
+   ],
+   "cover": "dark/covers/dark_07_red_glass_highway.jpg"
+  },
+  "dark_03_static_cathedral": {
+   "line": "Cinematic dark electro, slow-burning distorted bass",
+   "num": "03 · Instrumental",
+   "artist": "Le Spectre Rouge",
+   "dl": [
+    "Le Spectre Rouge - Static Cathedral (Take 1).mp3",
+    "Le Spectre Rouge - Static Cathedral (Take 2).mp3"
+   ],
+   "cover": "dark/covers/dark_03_static_cathedral.jpg"
+  },
+  "dark_01_blackout_boulevard": {
+   "line": "Dark cinematic French electro, menacing minimal groove",
+   "num": "01 · Instrumental",
+   "artist": "Vantablanc",
+   "dl": [
+    "Vantablanc - Blackout Boulevard (Take 1).mp3",
+    "Vantablanc - Blackout Boulevard (Take 2).mp3"
+   ],
+   "cover": "dark/covers/dark_01_blackout_boulevard.jpg"
+  },
+  "dark_08_robot_romance": {
+   "line": "Filtered French house with robotic vocoder vocals",
+   "num": "08 · Vocoder",
+   "artist": "Les Circuits",
+   "dl": [
+    "Les Circuits - Robot Romance (Take 1).mp3",
+    "Les Circuits - Robot Romance (Take 2).mp3"
+   ],
+   "cover": "dark/covers/dark_08_robot_romance.jpg"
+  },
+  "dark_09_chrome_funk_machine": {
+   "line": "Vocoder disco-funk with slap bass and talkbox hooks",
+   "num": "09 · Vocoder / talkbox",
+   "artist": "Disque Lumière",
+   "dl": [
+    "Disque Lumière - Chrome Funk Machine (Take 1).mp3",
+    "Disque Lumière - Chrome Funk Machine (Take 2).mp3"
+   ],
+   "cover": "dark/covers/dark_09_chrome_funk_machine.jpg"
+  },
+  "dark_10_nightshift_paris": {
+   "line": "Hybrid: dark French electro meets EBM sequences and synthwave arps",
+   "num": "10 · Instrumental",
+   "artist": "Atelier Zéro",
+   "dl": [
+    "Atelier Zéro - Nightshift Paris (Take 1).mp3",
+    "Atelier Zéro - Nightshift Paris (Take 2).mp3"
+   ],
+   "cover": "dark/covers/dark_10_nightshift_paris.jpg"
+  },
+  "dark_02_iron_curtain_call": {
+   "line": "Dark French electro-techno with a cold spoken female vocal",
+   "num": "02 · Female, spoken",
+   "artist": "Noir Métal",
+   "dl": [
+    "Noir Métal - Iron Curtain Call (Take 1).mp3",
+    "Noir Métal - Iron Curtain Call (Take 2).mp3"
+   ],
+   "cover": "dark/covers/dark_02_iron_curtain_call.jpg"
+  },
+  "dark_11_iron_psalm": {
+   "line": "Early 90s EBM · 124 BPM · growled male vocal, factory sirens",
+   "cover": "dark/covers/dark_11_iron_psalm.jpg"
+  },
+  "dark_12_signal_cathedral": {
+   "line": "Early 90s EBM · 128 BPM · growled male vocal, numbers-station radio",
+   "cover": "dark/covers/dark_12_signal_cathedral.jpg"
+  },
+  "dark_13_perjury_machine": {
+   "line": "Early 90s EBM · 126 BPM · growled male vocal, courtroom & press-conference samples",
+   "cover": "dark/covers/dark_13_perjury_machine.jpg"
+  },
+  "dark_14_perjury_machine_overlay": {
+   "line": "Early 90s EBM · 126 BPM · growled male vocal, courtroom samples · overlay edit with sample-drop gaps",
+   "cover": "dark/covers/dark_14_perjury_machine_overlay.jpg"
+  },
+  "dark_15_refuse_the_machine": {
+   "line": "Industrial techno/EBM club · 132 BPM · growled & shouted male vocal, gang chants",
+   "cover": "dark/covers/dark_15_refuse_the_machine.jpg"
+  },
+  "dark_16_ledger_of_bone": {
+   "line": "New EBM · 128 BPM · cold baritone, money & ownership",
+   "cover": "dark/covers/dark_16_ledger_of_bone.jpg"
+  },
+  "dark_17_iron_sabbath": {
+   "line": "New EBM · 126 BPM · Sabbath rest vs. the machine",
+   "cover": "dark/covers/dark_17_iron_sabbath.jpg"
+  },
+  "dark_18_flesh_firmware": {
+   "line": "Aggrotech · 135 BPM · screamed vocal, AI & data harvest",
+   "cover": "dark/covers/dark_18_flesh_firmware.jpg"
+  },
+  "dark_19_counterfeit_saviors": {
+   "line": "Aggrotech · 138 BPM · false prophets, one true resurrection",
+   "cover": "dark/covers/dark_19_counterfeit_saviors.jpg"
+  },
+  "dark_20_winter_in_the_wires": {
+   "line": "Coldwave · 118 BPM · post-punk bass, deep baritone",
+   "cover": "dark/covers/dark_20_winter_in_the_wires.jpg"
+  },
+  "dark_21_lantern_under_concrete": {
+   "line": "Darkwave · 114 BPM · low female vocal, light in the dark",
+   "cover": "dark/covers/dark_21_lantern_under_concrete.jpg"
+  },
+  "dark_22_neon_tribunal": {
+   "line": "Dark clubbing · 125 BPM · cyberpunk, robotic voice samples",
+   "cover": "dark/covers/dark_22_neon_tribunal.jpg"
+  },
+  "dark_23_ghost_protocol_zero": {
+   "line": "Dark clubbing · 122 BPM · cyberpunk, instrumental",
+   "cover": "dark/covers/dark_23_ghost_protocol_zero.jpg"
+  },
+  "sacred_07_green_hollow_hymn": {
+   "line": "Celtic-flavored new age with airy female vocal",
+   "num": "07 · Female, airy",
+   "artist": "Bríd Ashling",
+   "dl": [
+    "Bríd Ashling - Green Hollow Hymn (Take 1).mp3",
+    "Bríd Ashling - Green Hollow Hymn (Take 2).mp3"
+   ],
+   "cover": "sacred/covers/sacred_07_green_hollow_hymn.jpg"
+  },
+  "sacred_03_isla_de_luz": {
+   "line": "Uplifting 90s Balearic trance, instrumental",
+   "num": "03 · Instrumental",
+   "artist": "Mar Celeste",
+   "dl": [
+    "Mar Celeste - Isla de Luz (Take 1).mp3",
+    "Mar Celeste - Isla de Luz (Take 2).mp3"
+   ],
+   "cover": "sacred/covers/sacred_03_isla_de_luz.jpg"
+  },
+  "sacred_04_drums_of_the_red_earth": {
+   "line": "Tribal world-trance with ethnic percussion and wordless chant",
+   "num": "04 · Wordless tribal chant",
+   "artist": "Kaya Ritual",
+   "dl": [
+    "Kaya Ritual - Drums of the Red Earth (Take 1).mp3",
+    "Kaya Ritual - Drums of the Red Earth (Take 2).mp3"
+   ],
+   "cover": "sacred/covers/sacred_04_drums_of_the_red_earth.jpg"
+  },
+  "sacred_05_cantus_of_stars": {
+   "line": "Cinematic choir trance",
+   "num": "05 · Choir (invented Latin)",
+   "artist": "Aetherion Choir",
+   "dl": [
+    "Aetherion Choir - Cantus of Stars (Take 1).mp3",
+    "Aetherion Choir - Cantus of Stars (Take 2).mp3"
+   ],
+   "cover": "sacred/covers/sacred_05_cantus_of_stars.jpg"
+  },
+  "sacred_09_stillwater_mind": {
+   "line": "Deep meditative ambient-house, instrumental",
+   "num": "09 · Instrumental",
+   "artist": "Inner Meridian",
+   "dl": [
+    "Inner Meridian - Stillwater Mind (Take 1).mp3",
+    "Inner Meridian - Stillwater Mind (Take 2).mp3"
+   ],
+   "cover": "sacred/covers/sacred_09_stillwater_mind.jpg"
+  },
+  "sacred_01_veil_of_sanctum": {
+   "line": "Hypnotic chant downtempo with slow breakbeats",
+   "num": "01 · Female whisper + male chant",
+   "artist": "Ordo Lucem",
+   "dl": [
+    "Ordo Lucem - Veil of Sanctum (Take 1).mp3",
+    "Ordo Lucem - Veil of Sanctum (Take 2).mp3"
+   ],
+   "cover": "sacred/covers/sacred_01_veil_of_sanctum.jpg"
+  },
+  "sacred_10_wings_of_eternity": {
+   "line": "Euphoric dream-trance anthem with soaring female vocal",
+   "num": "10 · Female, soaring",
+   "artist": "Solara Dawn",
+   "dl": [
+    "Solara Dawn - Wings of Eternity (Take 1).mp3",
+    "Solara Dawn - Wings of Eternity (Take 2).mp3"
+   ],
+   "cover": "sacred/covers/sacred_10_wings_of_eternity.jpg"
+  },
+  "sacred_08_sands_of_the_ney": {
+   "line": "Middle-Eastern flute trance, instrumental",
+   "num": "08 · Instrumental",
+   "artist": "Zahir Mirage",
+   "dl": [
+    "Zahir Mirage - Sands of the Ney (Take 1).mp3",
+    "Zahir Mirage - Sands of the Ney (Take 2).mp3"
+   ],
+   "cover": "sacred/covers/sacred_08_sands_of_the_ney.jpg"
+  },
+  "sacred_06_temple_smoke": {
+   "line": "Slow mystical dub-chill, instrumental",
+   "num": "06 · Instrumental",
+   "artist": "Dubra Sangha",
+   "dl": [
+    "Dubra Sangha - Temple Smoke (Take 1).mp3",
+    "Dubra Sangha - Temple Smoke (Take 2).mp3"
+   ],
+   "cover": "sacred/covers/sacred_06_temple_smoke.jpg"
+  },
+  "sacred_02_whisper_of_aurora": {
+   "line": "Ethereal ambient with whispered female vocal",
+   "num": "02 · Female whisper",
+   "artist": "Lyra Sanctis",
+   "dl": [
+    "Lyra Sanctis - Whisper of Aurora (Take 1).mp3",
+    "Lyra Sanctis - Whisper of Aurora (Take 2).mp3"
+   ],
+   "cover": "sacred/covers/sacred_02_whisper_of_aurora.jpg"
+  },
+  "playlist_04_velvet_telephone": {
+   "line": "80s Italo synth disco, playful male vocal",
+   "num": "04 · Vocal",
+   "artist": "Lido Nero",
+   "dl": [
+    "Lido Nero - Velvet Telephone (Take 1).mp3",
+    "Lido Nero - Velvet Telephone (Take 2).mp3"
+   ],
+   "cover": "playlist/covers/playlist_04_velvet_telephone.jpg"
+  },
+  "playlist_03_amber_caravan": {
+   "line": "Afro-house with a warm female vocal and tribal percussion",
+   "num": "03 · Vocal",
+   "artist": "Kesari Moon",
+   "dl": [
+    "Kesari Moon - Amber Caravan (Take 1).mp3",
+    "Kesari Moon - Amber Caravan (Take 2).mp3"
+   ],
+   "cover": "playlist/covers/playlist_03_amber_caravan.jpg"
+  },
+  "playlist_05_chrome_horizon": {
+   "line": "Dreamy retro synthwave, instrumental",
+   "num": "05 · Instrumental",
+   "artist": "Neon Veranda",
+   "dl": [
+    "Neon Veranda - Chrome Horizon (Take 1).mp3",
+    "Neon Veranda - Chrome Horizon (Take 2).mp3"
+   ],
+   "cover": "playlist/covers/playlist_05_chrome_horizon.jpg"
+  },
+  "playlist_07_after_the_rain": {
+   "line": "Sultry darkwave / indie electronic, breathy female vocal",
+   "num": "07 · Vocal",
+   "artist": "Mara Lune",
+   "dl": [
+    "Mara Lune - After the Rain (Take 1).mp3",
+    "Mara Lune - After the Rain (Take 2).mp3"
+   ],
+   "cover": "playlist/covers/playlist_07_after_the_rain.jpg"
+  },
+  "playlist_10_seedling_strings": {
+   "line": "Uplifting organic melodic deep house, mostly instrumental with airy vocal chops",
+   "num": "10 · Mostly instrumental",
+   "artist": "Verdant Hollow",
+   "dl": [
+    "Verdant Hollow - Seedling Strings (Take 1).mp3",
+    "Verdant Hollow - Seedling Strings (Take 2).mp3"
+   ],
+   "cover": "playlist/covers/playlist_10_seedling_strings.jpg"
+  },
+  "playlist_08_machine_lumiere": {
+   "line": "Dark French-style techno with spoken male vocal",
+   "num": "08 · Vocal",
+   "artist": "Sentinelle",
+   "dl": [
+    "Sentinelle - Machine Lumière (Take 1).mp3",
+    "Sentinelle - Machine Lumière (Take 2).mp3"
+   ],
+   "cover": "playlist/covers/playlist_08_machine_lumiere.jpg"
+  },
+  "playlist_09_paper_moons": {
+   "line": "Dreamy melancholic indie-electronic melodic house, intimate male-female duet",
+   "num": "09 · Vocal",
+   "artist": "Halden & Wren",
+   "dl": [
+    "Halden & Wren - Paper Moons (Take 1).mp3",
+    "Halden & Wren - Paper Moons (Take 2).mp3"
+   ],
+   "cover": "playlist/covers/playlist_09_paper_moons.jpg"
+  },
+  "playlist_02_smoke_and_bandoneon": {
+   "line": "Electro-tango lounge, smoky vintage jazz-diva female vocal",
+   "num": "02 · Vocal",
+   "artist": "Café Ventisca",
+   "dl": [
+    "Café Ventisca - Smoke and Bandoneon (Take 1).mp3",
+    "Café Ventisca - Smoke and Bandoneon (Take 2).mp3"
+   ],
+   "cover": "playlist/covers/playlist_02_smoke_and_bandoneon.jpg"
+  },
+  "playlist_06_static_velvet": {
+   "line": "Dark moody R&B-meets-industrial-synth slow jam, brooding falsetto male vocal",
+   "num": "06 · Vocal",
+   "artist": "Ashen Halo",
+   "dl": [
+    "Ashen Halo - Static Velvet (Take 1).mp3",
+    "Ashen Halo - Static Velvet (Take 2).mp3"
+   ],
+   "cover": "playlist/covers/playlist_06_static_velvet.jpg"
+  },
+  "playlist_01_brighter_than_gold": {
+   "line": "Feel-good melodic progressive house, soaring uplifting female topline",
+   "num": "01 · Vocal",
+   "artist": "Solenne Ray",
+   "dl": [
+    "Solenne Ray - Brighter Than Gold (Take 1).mp3",
+    "Solenne Ray - Brighter Than Gold (Take 2).mp3"
+   ],
+   "cover": "playlist/covers/playlist_01_brighter_than_gold.jpg"
+  },
+  "mad_at_the_machine": {
+   "line": "Dark club house · 126 BPM · sassy female vocal",
+   "cover": "media/covers/mad_at_the_machine.jpg"
+  },
+  "red_and_blue": {
+   "line": "High-energy EDM club banger · 128 BPM · sirens & engine revs",
+   "cover": "media/covers/red_and_blue.jpg"
+  },
+  "red_and_blue_synth": {
+   "line": "Dark 80s synthwave · 120 BPM · neon night chase",
+   "cover": "media/covers/red_and_blue_synth.jpg"
+  },
+  "iron_directive": {
+   "line": "Industrial EBM · 118 BPM · cold dystopian machine",
+   "cover": "media/covers/iron_directive.jpg"
+  },
+  "lumen_silentii": {
+   "line": "Early 90s new age downtempo · 96 BPM · chant & whispers",
+   "cover": "media/covers/lumen_silentii.jpg"
+  },
+  "dead_signal": {
+   "line": "Industrial EBM · 126 BPM · cyberpunk war transmission",
+   "cover": "media/covers/dead_signal.jpg"
+  },
+  "salt_and_sunlight": {
+   "line": "Balearic chill house · 112 BPM · sunset poolside lounge",
+   "cover": "media/covers/salt_and_sunlight.jpg"
+  }
+ }
+}
