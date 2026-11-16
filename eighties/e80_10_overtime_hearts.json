@@ -47,5 +47,84 @@
   ],
   "cover": "eighties/covers/e80_10_overtime_hearts.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, D minor, with the final choruses jumping up a minor third to F minor. Urgent, fist-pumping, built for twenty thousand people.\n\nVOICE: Gritty male tenor with a blue-collar edge. Verses are sung low and tense, like telling a story across a bar. The chorus leaps up high and is shouted as much as sung, backed by a gang of voices on every 'oh-oh'. After the key change the lead is at the very top of his range, slightly cracking, which is the thrill.\n\nINSTRUMENTS: A talk-box guitar hook, a guitar that sounds like a robotic voice saying 'woh-woh' (the earworm). Pulsing sequenced synth bass in the intro and verses. Chugging palm-muted rhythm guitars that open into ringing power chords. Bright keyboard pads and a synth-brass line in the chorus. Huge arena drums with an explosive snare and tom rolls.\n\nARRANGEMENT MAP: 0:00 Intro, dark synth pad and pulsing bass, the talk-box hook answering, gang 'oh-oh' at 0:16. 0:31 Verse 1, bass pulse, hi-hat and voice, guitars held back. 1:02 Pre-chorus, drums build, guitars open up. 1:18 Chorus 1, full band and gang vocals. 1:34 Talk-box hook returns. 1:42 Verse 2. 2:13 Pre-chorus. 2:29 Chorus 2. 2:45 Guitar solo, fast, melodic and singable, ending on a held bend. 3:01 Bridge, drops to kick drum and claps with the crowd-style 'hold tight' chant. 3:16 One beat of silence, then the key change and the final double chorus. 3:48 Outro, gang chant and talk-box trading, final crash at 4:05.\n\nPRODUCTION & MIX: Maximum 1986 arena gloss. Layered guitars wide, drums drenched in big gated reverb, gang vocals spread across the whole stereo field, lead vocal bright and forward.\n\nSIGNATURE MOMENT: The beat of silence and the key change at 3:16. The whole room has to jump up to reach it.\n\nMODERN POINT OF VIEW: A tighter, punchier kick and sub than the era allowed. A phone-buzz texture introduces the line where Rosa texts from the stairwell.\n\nEMOTIONAL ARC: Tired, defiant, then victorious together.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1986 pop-metal arena rock anthem, gritty blue-collar male tenor vocal with a shouted high chorus, 122 BPM, D minor with a dramatic key change up for the final choruses, talk-box guitar hook that sounds like a robotic voice, pulsing sequenced synth bass, chugging palm-muted rhythm guitars opening into power chords, bright keyboard pads and synth brass, huge arena drums with gated reverb, fast melodic guitar solo, clap-and-chant breakdown, big male gang vocals, glossy wide mix, working-class love story, defiant, fist-pumping stadium singalong\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale lead vocals, drum machine, saxophone, acoustic ballad, trap hi-hats, EDM, rap, autotune\n\nWHAT IT IS ABOUT\n\nDanny drives nights for strangers. Rosa works double shifts on a hospital ward. The rent letter is on the fridge with a heart drawn on it. They are tired, in love, and not finished.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a love story about a couple getting by; an anthem for nurses, drivers and anyone on a second job; a song about your own parents and what they carried; or a pep talk for the last stretch of anything hard. 'Overtime' is extra hours at work and extra time at the end of a game.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: two named characters with real jobs, a chorus that is quoted speech between them, a voice-like guitar hook, and a late upward key change that pushes the crowd past its range. The line 'we're not broke, babe, we're on hold' is written to be quoted. Designed mishearing: 'overtime hearts' is heard as 'over-tired hearts' and 'oh, the time hurts', and both are true.",
-  "workbookAtAGlance": "Overtime Hearts\n\nBackup titles\nClock Us In / We're Not Broke, We're on Hold\n\nAt a glance\n122 BPM, D minor, key change to F minor\nVoice: Gritty male tenor, gang chorus\nLength: about 4 minutes"
+  "workbookAtAGlance": "Overtime Hearts\n\nBackup titles\nClock Us In / We're Not Broke, We're on Hold\n\nAt a glance\n122 BPM, D minor, key change to F minor\nVoice: Gritty male tenor, gang chorus\nLength: about 4 minutes",
+  "qa": {
+    "title": "Overtime Hearts",
+    "id": "e80_10",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 11% of lines recognised (unclear: Intro, Verse 1, Pre-Chorus, Verse 2, Outro)"
+        ],
+        "durationSec": 254.5,
+        "measuredBpm": 130.8,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 7.2,
+        "lufs": -13.6,
+        "peakDbfs": -0.67,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 253.0,
+        "vocalCoverage": 0.834,
+        "vocalSpanSec": [
+          21.1,
+          252.4
+        ],
+        "vocalF0MedianHz": 529,
+        "vocalF0P25Hz": 522,
+        "lyricLineRecall": 0.106,
+        "lyricUnclearSections": [
+          "Intro",
+          "Verse 1",
+          "Pre-Chorus",
+          "Verse 2",
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 4% of lines recognised (unclear: Intro, Verse 1, Chorus, Verse 2, Bridge, Final Chorus, Outro)"
+        ],
+        "durationSec": 254.4,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 5.9,
+        "lufs": -13.7,
+        "peakDbfs": -0.42,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 254.4,
+        "vocalCoverage": 0.818,
+        "vocalSpanSec": [
+          12.2,
+          252.9
+        ],
+        "vocalF0MedianHz": 864,
+        "vocalF0P25Hz": 393,
+        "lyricLineRecall": 0.043,
+        "lyricUnclearSections": [
+          "Intro",
+          "Verse 1",
+          "Chorus",
+          "Verse 2",
+          "Bridge",
+          "Final Chorus",
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

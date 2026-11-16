@@ -1,0 +1,1363 @@
+{
+ "method": "Per take: duration/ending (RMS envelope), mid-song gaps (<-45 dBFS >2s), sample peak + clipped samples, integrated LUFS (pyloudnorm), tempo (librosa beat tracking, half/double/2:3 allowed), vocal stem via demucs htdemucs (coverage, pitch), lyrics via faster-whisper small.en on the mix in 90s windows plus a VAD pass on the vocal stem when recall was low; line recall = share of lyric lines (>=3 words) fuzzy-matched >=0.6. Whisper struggles with sung/shouted rock vocals, so low lyric recall is a warning, not proof of missing lyrics.",
+ "lufsMedian": -13.3,
+ "songs": {
+  "e80_01_before_you_even_ask": {
+   "title": "Before You Even Ask",
+   "id": "e80_01",
+   "pick": 1,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 249.6,
+     "measuredBpm": 114.8,
+     "bpmFactor": 1,
+     "targetBpm": 116,
+     "bpmErrPct": 1.0,
+     "lufs": -12.8,
+     "peakDbfs": -0.63,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 3.1,
+     "contentEndSec": 247.6,
+     "vocalCoverage": 0.541,
+     "vocalSpanSec": [
+      15.3,
+      235.2
+     ],
+     "vocalF0MedianHz": 295,
+     "vocalF0P25Hz": 248,
+     "lyricLineRecall": 1.0,
+     "lyricUnclearSections": [],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 249.7,
+     "measuredBpm": 117.5,
+     "bpmFactor": 1,
+     "targetBpm": 116,
+     "bpmErrPct": 1.3,
+     "lufs": -13.3,
+     "peakDbfs": -0.48,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.6,
+     "contentEndSec": 247.6,
+     "vocalCoverage": 0.597,
+     "vocalSpanSec": [
+      13.9,
+      244.3
+     ],
+     "vocalF0MedianHz": 248,
+     "vocalF0P25Hz": 197,
+     "lyricLineRecall": 0.829,
+     "lyricUnclearSections": [],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_02_carolina_knows": {
+   "title": "Carolina Knows",
+   "id": "e80_02",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 249.7,
+     "measuredBpm": 116.1,
+     "bpmFactor": 1,
+     "targetBpm": 118,
+     "bpmErrPct": 1.6,
+     "lufs": -13.2,
+     "peakDbfs": -0.68,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 0.6,
+     "contentEndSec": 248.0,
+     "vocalCoverage": 0.64,
+     "vocalSpanSec": [
+      6.1,
+      247.9
+     ],
+     "vocalF0MedianHz": 331,
+     "vocalF0P25Hz": 222,
+     "lyricLineRecall": 0.731,
+     "lyricUnclearSections": [
+      "Breakdown"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 248.7,
+     "measuredBpm": 117.5,
+     "bpmFactor": 1,
+     "targetBpm": 118,
+     "bpmErrPct": 0.5,
+     "lufs": -12.8,
+     "peakDbfs": -0.57,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 0.5,
+     "contentEndSec": 246.4,
+     "vocalCoverage": 0.621,
+     "vocalSpanSec": [
+      6.0,
+      246.3
+     ],
+     "vocalF0MedianHz": 329,
+     "vocalF0P25Hz": 221,
+     "lyricLineRecall": 0.942,
+     "lyricUnclearSections": [],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_03_say_me_yes": {
+   "title": "Say Me Yes",
+   "id": "e80_03",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 249.6,
+     "measuredBpm": 169.4,
+     "bpmFactor": 1,
+     "targetBpm": 166,
+     "bpmErrPct": 2.1,
+     "lufs": -13.4,
+     "peakDbfs": -1.58,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.3,
+     "contentEndSec": 248.2,
+     "vocalCoverage": 0.727,
+     "vocalSpanSec": [
+      27.3,
+      242.8
+     ],
+     "vocalF0MedianHz": 468,
+     "vocalF0P25Hz": 312,
+     "lyricLineRecall": 0.872,
+     "lyricUnclearSections": [
+      "Outro"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 249.6,
+     "measuredBpm": 166.7,
+     "bpmFactor": 1,
+     "targetBpm": 166,
+     "bpmErrPct": 0.4,
+     "lufs": -13.1,
+     "peakDbfs": -1.21,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.8,
+     "contentEndSec": 247.8,
+     "vocalCoverage": 0.661,
+     "vocalSpanSec": [
+      20.9,
+      228.6
+     ],
+     "vocalF0MedianHz": 369,
+     "vocalF0P25Hz": 311,
+     "lyricLineRecall": 0.923,
+     "lyricUnclearSections": [
+      "Outro"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_04_meet_me_in_the_monsoon": {
+   "title": "Meet Me in the Monsoon",
+   "id": "e80_04",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "warn",
+     "reasons": [
+      "tempo measured 110 BPM vs 92 target (~20% off)"
+     ],
+     "durationSec": 254.2,
+     "measuredBpm": 110.0,
+     "bpmFactor": 1,
+     "targetBpm": 92,
+     "bpmErrPct": 19.5,
+     "lufs": -13.1,
+     "peakDbfs": -0.2,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.4,
+     "contentEndSec": 252.8,
+     "vocalCoverage": 0.689,
+     "vocalSpanSec": [
+      6.5,
+      244.7
+     ],
+     "vocalF0MedianHz": 277,
+     "vocalF0P25Hz": 221,
+     "lyricLineRecall": 0.641,
+     "lyricUnclearSections": [
+      "Bridge"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "warn",
+     "reasons": [
+      "tempo measured 114 BPM vs 92 target (~18% off)"
+     ],
+     "durationSec": 254.7,
+     "measuredBpm": 113.6,
+     "bpmFactor": 0.67,
+     "targetBpm": 92,
+     "bpmErrPct": 17.7,
+     "lufs": -12.9,
+     "peakDbfs": -0.15,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.8,
+     "contentEndSec": 254.0,
+     "vocalCoverage": 0.654,
+     "vocalSpanSec": [
+      18.3,
+      237.8
+     ],
+     "vocalF0MedianHz": 293,
+     "vocalF0P25Hz": 248,
+     "lyricLineRecall": 0.846,
+     "lyricUnclearSections": [],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_05_little_thunder": {
+   "title": "Little Thunder",
+   "id": "e80_05",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check partial: 36% of lines recognised (unclear: Verse 1, Verse 3, Breakdown)"
+     ],
+     "durationSec": 254.5,
+     "measuredBpm": 126.0,
+     "bpmFactor": 1,
+     "targetBpm": 122,
+     "bpmErrPct": 3.3,
+     "lufs": -13.5,
+     "peakDbfs": -2.03,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.8,
+     "contentEndSec": 252.9,
+     "vocalCoverage": 0.6,
+     "vocalSpanSec": [
+      16.8,
+      245.4
+     ],
+     "vocalF0MedianHz": 666,
+     "vocalF0P25Hz": 378,
+     "lyricLineRecall": 0.364,
+     "lyricUnclearSections": [
+      "Verse 1",
+      "Verse 3",
+      "Breakdown"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check partial: 58% of lines recognised (unclear: Verse 3, Breakdown, Outro)"
+     ],
+     "durationSec": 254.4,
+     "measuredBpm": 121.6,
+     "bpmFactor": 1,
+     "targetBpm": 122,
+     "bpmErrPct": 0.3,
+     "lufs": -13.1,
+     "peakDbfs": -1.16,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.5,
+     "contentEndSec": 253.2,
+     "vocalCoverage": 0.678,
+     "vocalSpanSec": [
+      16.8,
+      244.4
+     ],
+     "vocalF0MedianHz": 580,
+     "vocalF0P25Hz": 307,
+     "lyricLineRecall": 0.576,
+     "lyricUnclearSections": [
+      "Verse 3",
+      "Breakdown",
+      "Outro"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_06_keep_the_porch_light_on": {
+   "title": "Keep the Porch Light On",
+   "id": "e80_06",
+   "pick": 1,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 264.6,
+     "measuredBpm": 120.2,
+     "bpmFactor": 1,
+     "targetBpm": 118,
+     "bpmErrPct": 1.9,
+     "lufs": -13.8,
+     "peakDbfs": -0.76,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.6,
+     "contentEndSec": 263.0,
+     "vocalCoverage": 0.535,
+     "vocalSpanSec": [
+      20.4,
+      258.9
+     ],
+     "vocalF0MedianHz": 391,
+     "vocalF0P25Hz": 331,
+     "lyricLineRecall": 0.879,
+     "lyricUnclearSections": [
+      "Verse 1"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check partial: 48% of lines recognised (unclear: Verse 2, Pre-Chorus)"
+     ],
+     "durationSec": 264.2,
+     "measuredBpm": 120.2,
+     "bpmFactor": 1,
+     "targetBpm": 118,
+     "bpmErrPct": 1.9,
+     "lufs": -13.8,
+     "peakDbfs": -1.85,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.5,
+     "contentEndSec": 262.9,
+     "vocalCoverage": 0.52,
+     "vocalSpanSec": [
+      17.6,
+      239.1
+     ],
+     "vocalF0MedianHz": 374,
+     "vocalF0P25Hz": 297,
+     "lyricLineRecall": 0.485,
+     "lyricUnclearSections": [
+      "Verse 2",
+      "Pre-Chorus"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_07_nobodys_at_the_wheel": {
+   "title": "Nobody's at the Wheel",
+   "id": "e80_07",
+   "pick": 1,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 260.0,
+     "measuredBpm": 113.6,
+     "bpmFactor": 1,
+     "targetBpm": 110,
+     "bpmErrPct": 3.3,
+     "lufs": -13.1,
+     "peakDbfs": -0.63,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.2,
+     "contentEndSec": 258.7,
+     "vocalCoverage": 0.556,
+     "vocalSpanSec": [
+      19.0,
+      239.9
+     ],
+     "vocalF0MedianHz": 247,
+     "vocalF0P25Hz": 196,
+     "lyricLineRecall": 0.842,
+     "lyricUnclearSections": [],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 259.3,
+     "measuredBpm": 112.3,
+     "bpmFactor": 1,
+     "targetBpm": 110,
+     "bpmErrPct": 2.1,
+     "lufs": -13.5,
+     "peakDbfs": -1.0,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.6,
+     "contentEndSec": 258.1,
+     "vocalCoverage": 0.519,
+     "vocalSpanSec": [
+      22.8,
+      246.5
+     ],
+     "vocalF0MedianHz": 248,
+     "vocalF0P25Hz": 220,
+     "lyricLineRecall": 0.763,
+     "lyricUnclearSections": [],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_08_ring_the_bell_again": {
+   "title": "Ring the Bell Again",
+   "id": "e80_08",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check weak: only 33% of lines recognised (unclear: Verse 2, Bridge, Outro)"
+     ],
+     "durationSec": 254.6,
+     "measuredBpm": 111.1,
+     "bpmFactor": 1,
+     "targetBpm": 108,
+     "bpmErrPct": 2.9,
+     "lufs": -13.6,
+     "peakDbfs": -1.17,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 0.4,
+     "contentEndSec": 253.3,
+     "vocalCoverage": 0.722,
+     "vocalSpanSec": [
+      27.0,
+      240.0
+     ],
+     "vocalF0MedianHz": 586,
+     "vocalF0P25Hz": 293,
+     "lyricLineRecall": 0.333,
+     "lyricUnclearSections": [
+      "Verse 2",
+      "Bridge",
+      "Outro"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 254.8,
+     "measuredBpm": 110.0,
+     "bpmFactor": 1,
+     "targetBpm": 108,
+     "bpmErrPct": 1.8,
+     "lufs": -13.3,
+     "peakDbfs": -0.77,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 0.3,
+     "contentEndSec": 254.1,
+     "vocalCoverage": 0.62,
+     "vocalSpanSec": [
+      33.2,
+      235.5
+     ],
+     "vocalF0MedianHz": 783,
+     "vocalF0P25Hz": 442,
+     "lyricLineRecall": 0.863,
+     "lyricUnclearSections": [],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_09_everybodys_selling_something": {
+   "title": "Everybody's Selling Something",
+   "id": "e80_09",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check partial: 45% of lines recognised (unclear: Chorus, Interlude, Outro)"
+     ],
+     "durationSec": 249.5,
+     "measuredBpm": 129.2,
+     "bpmFactor": 1,
+     "targetBpm": 124,
+     "bpmErrPct": 4.2,
+     "lufs": -12.9,
+     "peakDbfs": -1.22,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 0.7,
+     "contentEndSec": 246.6,
+     "vocalCoverage": 0.57,
+     "vocalSpanSec": [
+      19.0,
+      217.2
+     ],
+     "vocalF0MedianHz": 263,
+     "vocalF0P25Hz": 231,
+     "lyricLineRecall": 0.45,
+     "lyricUnclearSections": [
+      "Chorus",
+      "Interlude",
+      "Outro"
+     ],
+     "requestedVoice": "f",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 249.4,
+     "measuredBpm": 126.0,
+     "bpmFactor": 1,
+     "targetBpm": 124,
+     "bpmErrPct": 1.7,
+     "lufs": -12.4,
+     "peakDbfs": -1.04,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.0,
+     "contentEndSec": 247.1,
+     "vocalCoverage": 0.752,
+     "vocalSpanSec": [
+      16.4,
+      245.6
+     ],
+     "vocalF0MedianHz": 372,
+     "vocalF0P25Hz": 247,
+     "lyricLineRecall": 0.825,
+     "lyricUnclearSections": [
+      "Interlude"
+     ],
+     "requestedVoice": "f",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_10_overtime_hearts": {
+   "title": "Overtime Hearts",
+   "id": "e80_10",
+   "pick": 1,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check weak: only 11% of lines recognised (unclear: Intro, Verse 1, Pre-Chorus, Verse 2, Outro)"
+     ],
+     "durationSec": 254.5,
+     "measuredBpm": 130.8,
+     "bpmFactor": 1,
+     "targetBpm": 122,
+     "bpmErrPct": 7.2,
+     "lufs": -13.6,
+     "peakDbfs": -0.67,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 0.9,
+     "contentEndSec": 253.0,
+     "vocalCoverage": 0.834,
+     "vocalSpanSec": [
+      21.1,
+      252.4
+     ],
+     "vocalF0MedianHz": 529,
+     "vocalF0P25Hz": 522,
+     "lyricLineRecall": 0.106,
+     "lyricUnclearSections": [
+      "Intro",
+      "Verse 1",
+      "Pre-Chorus",
+      "Verse 2",
+      "Outro"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check weak: only 4% of lines recognised (unclear: Intro, Verse 1, Chorus, Verse 2, Bridge, Final Chorus, Outro)"
+     ],
+     "durationSec": 254.4,
+     "measuredBpm": 129.2,
+     "bpmFactor": 1,
+     "targetBpm": 122,
+     "bpmErrPct": 5.9,
+     "lufs": -13.7,
+     "peakDbfs": -0.42,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.6,
+     "contentEndSec": 254.4,
+     "vocalCoverage": 0.818,
+     "vocalSpanSec": [
+      12.2,
+      252.9
+     ],
+     "vocalF0MedianHz": 864,
+     "vocalF0P25Hz": 393,
+     "lyricLineRecall": 0.043,
+     "lyricUnclearSections": [
+      "Intro",
+      "Verse 1",
+      "Chorus",
+      "Verse 2",
+      "Bridge",
+      "Final Chorus",
+      "Outro"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_11_wear_my_weather": {
+   "title": "Wear My Weather",
+   "id": "e80_11",
+   "pick": 1,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 269.6,
+     "measuredBpm": 107.7,
+     "bpmFactor": 1,
+     "targetBpm": 106,
+     "bpmErrPct": 1.6,
+     "lufs": -12.0,
+     "peakDbfs": -1.0,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.2,
+     "contentEndSec": 268.1,
+     "vocalCoverage": 0.821,
+     "vocalSpanSec": [
+      19.2,
+      259.6
+     ],
+     "vocalF0MedianHz": 465,
+     "vocalF0P25Hz": 311,
+     "lyricLineRecall": 0.922,
+     "lyricUnclearSections": [],
+     "requestedVoice": "f",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check partial: 41% of lines recognised (unclear: Bridge, Breakdown)"
+     ],
+     "durationSec": 269.5,
+     "measuredBpm": 107.7,
+     "bpmFactor": 1,
+     "targetBpm": 106,
+     "bpmErrPct": 1.6,
+     "lufs": -12.1,
+     "peakDbfs": -0.23,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.4,
+     "contentEndSec": 268.1,
+     "vocalCoverage": 0.789,
+     "vocalSpanSec": [
+      18.9,
+      256.4
+     ],
+     "vocalF0MedianHz": 351,
+     "vocalF0P25Hz": 312,
+     "lyricLineRecall": 0.412,
+     "lyricUnclearSections": [
+      "Bridge",
+      "Breakdown"
+     ],
+     "requestedVoice": "f",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_12_slow_dance_with_a_secret": {
+   "title": "Slow Dance With a Secret",
+   "id": "e80_12",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 274.8,
+     "measuredBpm": 72.8,
+     "bpmFactor": 1,
+     "targetBpm": 76,
+     "bpmErrPct": 4.2,
+     "lufs": -13.0,
+     "peakDbfs": -0.14,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.5,
+     "contentEndSec": 272.6,
+     "vocalCoverage": 0.696,
+     "vocalSpanSec": [
+      10.5,
+      269.6
+     ],
+     "vocalF0MedianHz": 297,
+     "vocalF0P25Hz": 234,
+     "lyricLineRecall": 0.81,
+     "lyricUnclearSections": [],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 277.2,
+     "measuredBpm": 74.9,
+     "bpmFactor": 1,
+     "targetBpm": 76,
+     "bpmErrPct": 1.4,
+     "lufs": -13.6,
+     "peakDbfs": -0.15,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.1,
+     "contentEndSec": 275.8,
+     "vocalCoverage": 0.675,
+     "vocalSpanSec": [
+      4.6,
+      273.1
+     ],
+     "vocalF0MedianHz": 295,
+     "vocalF0P25Hz": 261,
+     "lyricLineRecall": 0.976,
+     "lyricUnclearSections": [],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_13_kindness_is_a_riot": {
+   "title": "Kindness Is a Riot",
+   "id": "e80_13",
+   "pick": 1,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check weak: only 33% of lines recognised (unclear: Intro, Scat Break, Verse 2, Breakdown, Bridge, Outro)"
+     ],
+     "durationSec": 248.8,
+     "measuredBpm": 112.3,
+     "bpmFactor": 1,
+     "targetBpm": 112,
+     "bpmErrPct": 0.3,
+     "lufs": -13.8,
+     "peakDbfs": -0.19,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.3,
+     "contentEndSec": 246.0,
+     "vocalCoverage": 0.883,
+     "vocalSpanSec": [
+      0.9,
+      242.9
+     ],
+     "vocalF0MedianHz": 394,
+     "vocalF0P25Hz": 331,
+     "lyricLineRecall": 0.333,
+     "lyricUnclearSections": [
+      "Intro",
+      "Scat Break",
+      "Verse 2",
+      "Breakdown",
+      "Bridge",
+      "Outro"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check weak: only 23% of lines recognised (unclear: Intro, Chorus, Scat Break, Breakdown, Final Chorus, Outro)"
+     ],
+     "durationSec": 249.6,
+     "measuredBpm": 108.8,
+     "bpmFactor": 1,
+     "targetBpm": 112,
+     "bpmErrPct": 2.9,
+     "lufs": -14.1,
+     "peakDbfs": -0.59,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.5,
+     "contentEndSec": 247.9,
+     "vocalCoverage": 0.897,
+     "vocalSpanSec": [
+      1.4,
+      243.6
+     ],
+     "vocalF0MedianHz": 496,
+     "vocalF0P25Hz": 439,
+     "lyricLineRecall": 0.231,
+     "lyricUnclearSections": [
+      "Intro",
+      "Chorus",
+      "Scat Break",
+      "Breakdown",
+      "Final Chorus",
+      "Outro"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_14_remember_me_loud": {
+   "title": "Remember Me Loud",
+   "id": "e80_14",
+   "pick": 1,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 269.6,
+     "measuredBpm": 117.5,
+     "bpmFactor": 1,
+     "targetBpm": 112,
+     "bpmErrPct": 4.9,
+     "lufs": -13.6,
+     "peakDbfs": -0.97,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.7,
+     "contentEndSec": 268.2,
+     "vocalCoverage": 0.822,
+     "vocalSpanSec": [
+      5.0,
+      264.4
+     ],
+     "vocalF0MedianHz": 752,
+     "vocalF0P25Hz": 329,
+     "lyricLineRecall": 0.765,
+     "lyricUnclearSections": [
+      "Intro",
+      "Build",
+      "Outro"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check weak: only 14% of lines recognised (unclear: Intro, Verse 1, Build, Outro)"
+     ],
+     "durationSec": 268.8,
+     "measuredBpm": 117.5,
+     "bpmFactor": 1,
+     "targetBpm": 112,
+     "bpmErrPct": 4.9,
+     "lufs": -13.3,
+     "peakDbfs": -2.29,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.1,
+     "contentEndSec": 268.0,
+     "vocalCoverage": 0.879,
+     "vocalSpanSec": [
+      4.2,
+      265.3
+     ],
+     "vocalF0MedianHz": 394,
+     "vocalF0P25Hz": 296,
+     "lyricLineRecall": 0.137,
+     "lyricUnclearSections": [
+      "Intro",
+      "Verse 1",
+      "Build",
+      "Outro"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_15_call_it_recess": {
+   "title": "Call It Recess",
+   "id": "e80_15",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "warn",
+     "reasons": [
+      "peak 0.02 dBFS (1 clipped sample, inaudible)",
+      "lyric check partial: 46% of lines recognised (unclear: Intro, Outro)"
+     ],
+     "durationSec": 244.8,
+     "measuredBpm": 126.0,
+     "bpmFactor": 1,
+     "targetBpm": 122,
+     "bpmErrPct": 3.3,
+     "lufs": -14.3,
+     "peakDbfs": 0.02,
+     "clipSamples": 1,
+     "midGaps": [],
+     "endFadeSec": 0.9,
+     "contentEndSec": 244.4,
+     "vocalCoverage": 0.638,
+     "vocalSpanSec": [
+      2.4,
+      232.9
+     ],
+     "vocalF0MedianHz": 394,
+     "vocalF0P25Hz": 368,
+     "lyricLineRecall": 0.462,
+     "lyricUnclearSections": [
+      "Intro",
+      "Outro"
+     ],
+     "requestedVoice": "f",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 243.9,
+     "measuredBpm": 123.0,
+     "bpmFactor": 1,
+     "targetBpm": 122,
+     "bpmErrPct": 0.9,
+     "lufs": -14.0,
+     "peakDbfs": -1.37,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.0,
+     "contentEndSec": 241.7,
+     "vocalCoverage": 0.696,
+     "vocalSpanSec": [
+      0.9,
+      240.3
+     ],
+     "vocalF0MedianHz": 493,
+     "vocalF0P25Hz": 331,
+     "lyricLineRecall": 0.821,
+     "lyricUnclearSections": [
+      "Bridge"
+     ],
+     "requestedVoice": "f",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_16_surprise_its_me_again": {
+   "title": "Surprise, It's Me Again",
+   "id": "e80_16",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 247.6,
+     "measuredBpm": 121.6,
+     "bpmFactor": 1,
+     "targetBpm": 114,
+     "bpmErrPct": 6.7,
+     "lufs": -13.9,
+     "peakDbfs": -0.39,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.1,
+     "contentEndSec": 247.3,
+     "vocalCoverage": 0.733,
+     "vocalSpanSec": [
+      38.6,
+      240.7
+     ],
+     "vocalF0MedianHz": 263,
+     "vocalF0P25Hz": 183,
+     "lyricLineRecall": 0.702,
+     "lyricUnclearSections": [
+      "Bridge",
+      "Breakdown"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 248.0,
+     "measuredBpm": 118.8,
+     "bpmFactor": 1,
+     "targetBpm": 114,
+     "bpmErrPct": 4.2,
+     "lufs": -13.8,
+     "peakDbfs": -0.04,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.1,
+     "contentEndSec": 247.9,
+     "vocalCoverage": 0.753,
+     "vocalSpanSec": [
+      23.0,
+      245.5
+     ],
+     "vocalF0MedianHz": 293,
+     "vocalF0P25Hz": 196,
+     "lyricLineRecall": 0.979,
+     "lyricUnclearSections": [],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_17_dont_let_the_song_end": {
+   "title": "Don't Let the Song End",
+   "id": "e80_17",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check weak: only 12% of lines recognised (unclear: Intro, Pre-Chorus, Verse 2, Bridge, Outro)"
+     ],
+     "durationSec": 238.8,
+     "measuredBpm": 124.5,
+     "bpmFactor": 1,
+     "targetBpm": 120,
+     "bpmErrPct": 3.8,
+     "lufs": -14.1,
+     "peakDbfs": -0.79,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.3,
+     "contentEndSec": 238.0,
+     "vocalCoverage": 0.807,
+     "vocalSpanSec": [
+      5.2,
+      237.0
+     ],
+     "vocalF0MedianHz": 519,
+     "vocalF0P25Hz": 351,
+     "lyricLineRecall": 0.12,
+     "lyricUnclearSections": [
+      "Intro",
+      "Pre-Chorus",
+      "Verse 2",
+      "Bridge",
+      "Outro"
+     ],
+     "requestedVoice": "f",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 239.6,
+     "measuredBpm": 126.0,
+     "bpmFactor": 1,
+     "targetBpm": 120,
+     "bpmErrPct": 5.0,
+     "lufs": -14.2,
+     "peakDbfs": -1.52,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.2,
+     "contentEndSec": 239.0,
+     "vocalCoverage": 0.863,
+     "vocalSpanSec": [
+      5.9,
+      237.2
+     ],
+     "vocalF0MedianHz": 349,
+     "vocalF0P25Hz": 311,
+     "lyricLineRecall": 0.88,
+     "lyricUnclearSections": [],
+     "requestedVoice": "f",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_18_guess_whos_not_dead": {
+   "title": "Guess Who's Not Dead",
+   "id": "e80_18",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "warn",
+     "reasons": [
+      "tempo measured 110 BPM vs 92 target (~20% off)",
+      "lyric check partial: 50% of lines recognised (unclear: Verse 1, Verse 2)"
+     ],
+     "durationSec": 258.8,
+     "measuredBpm": 110.0,
+     "bpmFactor": 1,
+     "targetBpm": 92,
+     "bpmErrPct": 19.5,
+     "lufs": -12.8,
+     "peakDbfs": -1.04,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 1.2,
+     "contentEndSec": 257.5,
+     "vocalCoverage": 0.62,
+     "vocalSpanSec": [
+      25.7,
+      252.5
+     ],
+     "vocalF0MedianHz": 614,
+     "vocalF0P25Hz": 417,
+     "lyricLineRecall": 0.5,
+     "lyricUnclearSections": [
+      "Verse 1",
+      "Verse 2"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "warn",
+     "reasons": [
+      "ending cut at the length limit (last chord clipped)",
+      "tempo measured 107 BPM vs 92 target (~16% off)"
+     ],
+     "durationSec": 260.0,
+     "measuredBpm": 106.6,
+     "bpmFactor": 1,
+     "targetBpm": 92,
+     "bpmErrPct": 15.8,
+     "lufs": -13.4,
+     "peakDbfs": -0.23,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 0.2,
+     "contentEndSec": 260.0,
+     "vocalCoverage": 0.709,
+     "vocalSpanSec": [
+      7.7,
+      260.0
+     ],
+     "vocalF0MedianHz": 829,
+     "vocalF0P25Hz": 735,
+     "lyricLineRecall": 0.868,
+     "lyricUnclearSections": [],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_19_halfway_out_the_door": {
+   "title": "Halfway Out the Door",
+   "id": "e80_19",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "warn",
+     "reasons": [
+      "lyric check weak: only 12% of lines recognised (unclear: Verse 2, Chorus, Verse 3, Build)"
+     ],
+     "durationSec": 264.4,
+     "measuredBpm": 107.7,
+     "bpmFactor": 1,
+     "targetBpm": 108,
+     "bpmErrPct": 0.3,
+     "lufs": -13.2,
+     "peakDbfs": -1.07,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 0.7,
+     "contentEndSec": 261.5,
+     "vocalCoverage": 0.622,
+     "vocalSpanSec": [
+      18.5,
+      245.5
+     ],
+     "vocalF0MedianHz": 439,
+     "vocalF0P25Hz": 260,
+     "lyricLineRecall": 0.121,
+     "lyricUnclearSections": [
+      "Verse 2",
+      "Chorus",
+      "Verse 3",
+      "Build"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 263.8,
+     "measuredBpm": 107.7,
+     "bpmFactor": 1,
+     "targetBpm": 108,
+     "bpmErrPct": 0.3,
+     "lufs": -12.4,
+     "peakDbfs": -1.19,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.6,
+     "contentEndSec": 262.5,
+     "vocalCoverage": 0.585,
+     "vocalSpanSec": [
+      20.7,
+      246.7
+     ],
+     "vocalF0MedianHz": 389,
+     "vocalF0P25Hz": 261,
+     "lyricLineRecall": 0.636,
+     "lyricUnclearSections": [
+      "Verse 3",
+      "Build"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  },
+  "e80_20_wait_for_the_thunder": {
+   "title": "Wait for the Thunder",
+   "id": "e80_20",
+   "pick": 2,
+   "takes": [
+    {
+     "take": 1,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 284.9,
+     "measuredBpm": 92.3,
+     "bpmFactor": 1,
+     "targetBpm": 94,
+     "bpmErrPct": 1.8,
+     "lufs": -12.5,
+     "peakDbfs": -0.52,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 0.7,
+     "contentEndSec": 283.3,
+     "vocalCoverage": 0.693,
+     "vocalSpanSec": [
+      19.3,
+      280.4
+     ],
+     "vocalF0MedianHz": 372,
+     "vocalF0P25Hz": 247,
+     "lyricLineRecall": 0.784,
+     "lyricUnclearSections": [],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    },
+    {
+     "take": 2,
+     "verdict": "pass",
+     "reasons": [],
+     "durationSec": 284.7,
+     "measuredBpm": 93.1,
+     "bpmFactor": 1,
+     "targetBpm": 94,
+     "bpmErrPct": 0.9,
+     "lufs": -12.4,
+     "peakDbfs": -0.94,
+     "clipSamples": 0,
+     "midGaps": [],
+     "endFadeSec": 2.6,
+     "contentEndSec": 282.7,
+     "vocalCoverage": 0.551,
+     "vocalSpanSec": [
+      18.0,
+      274.9
+     ],
+     "vocalF0MedianHz": 264,
+     "vocalF0P25Hz": 247,
+     "lyricLineRecall": 0.838,
+     "lyricUnclearSections": [
+      "Verse 1"
+     ],
+     "requestedVoice": "m",
+     "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+    }
+   ]
+  }
+ }
+}

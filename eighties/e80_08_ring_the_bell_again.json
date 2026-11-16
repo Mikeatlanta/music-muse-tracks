@@ -47,5 +47,72 @@
   ],
   "cover": "eighties/covers/e80_08_ring_the_bell_again.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 108 BPM, 4/4, D minor, driving straight eighths. Determined, muscular and marching, like footsteps on a cold morning.\n\nVOICE: Gritty male tenor with real grain, pushed and earnest, every line ending with force. Verses are tight and rhythmic. The chorus opens up with doubled lead and a gang of male backing voices on the title line.\n\nINSTRUMENTS: Electric guitar playing a relentless palm-muted sixteenth-note chug on one low note (the ticking engine). Full-band power-chord stabs, with drums, bass and piano all hitting together in a syncopated pattern with silence between hits (the earworm). Punchy bass locked to the kick. Big gated-reverb snare. Piano doubling the stabs. A sustained rock organ pad in choruses.\n\nARRANGEMENT MAP: 0:00 Intro, muted guitar chug alone for 4 bars, then the stab pattern crashes in twice. 0:18 Verse 1, chug, bass and kick only, with stabs answering every second line. 0:54 Pre-chorus, snare build. 1:03 Chorus 1, full band and gang vocals. 1:30 Stab pattern returns alone. 1:39 Verse 2. 2:15 Pre-chorus. 2:24 Chorus 2. 2:51 Bridge, drops to kick, chug and call-and-response vocals, building bar by bar. 3:09 Guitar solo, short, melodic and anthemic over the chorus chords. 3:27 Final chorus, one step more intense, crashes on every stab. 3:54 Outro, the stab pattern and 'ring the bell' chant, ending on a single final hit at 4:05.\n\nPRODUCTION & MIX: Tight, punchy and dry in the verses, huge in the choruses. Guitars doubled wide, snare with classic gated reverb, vocal forward with slight tape grit.\n\nSIGNATURE MOMENT: The first full-band stabs after the lone guitar chug. The silence between each hit is where fists go in the air.\n\nMODERN POINT OF VIEW: A real boxing-ring bell rings once on the downbeat of each chorus. Cinematic sub-bass impacts reinforce the stabs, trailer-style.\n\nEMOTIONAL ARC: Grit, resolve, then triumph without bragging.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1982 arena rock motivational anthem, gritty earnest male tenor vocal, 108 BPM, D minor, driving, muscular, relentless palm-muted sixteenth-note guitar chug, syncopated full-band power-chord stabs with silence between hits, piano doubling the stabs, punchy bass locked to the kick, big gated-reverb snare, rock organ pad in the chorus, short anthemic guitar solo, boxing ring bell on chorus downbeats, doubled chorus with male gang backing vocals, tight punchy mix, determined comeback, training montage, cold morning run\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale vocals, synth-pop, drum machine, saxophone, acoustic ballad, trap hi-hats, EDM, rap\n\nWHAT IT IS ABOUT\n\nA comeback at an age when nobody expects one. The title, the corner office and the applause are gone. What is left is a five a.m. run and a hunger that has nothing to prove.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a boxer's last fight; starting over after a layoff or a divorce; recovery from illness or addiction; a parent going back to school; or anyone over forty refusing to be counted out. 'Ring the bell' is a boxing round, a school bell, a hospital bell rung at the end of treatment, or the opening bell of a market.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: verb-driven montage lines, chord stabs that punch in the gaps, and a metaphor the listener can wear ('the heart of a late bloomer'). The line 'knock me down to the count of ten, I'll be up at one' is the T-shirt. Designed mishearing: 'Ring the bell again' is heard as 'Bring the belt again', which is still boxing.",
-  "workbookAtAGlance": "Ring the Bell Again\n\nBackup titles\nUp at One / Heart of a Late Bloomer\n\nAt a glance\n108 BPM, D minor\nVoice: Gritty male tenor\nLength: about 4 minutes"
+  "workbookAtAGlance": "Ring the Bell Again\n\nBackup titles\nUp at One / Heart of a Late Bloomer\n\nAt a glance\n108 BPM, D minor\nVoice: Gritty male tenor\nLength: about 4 minutes",
+  "qa": {
+    "title": "Ring the Bell Again",
+    "id": "e80_08",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 33% of lines recognised (unclear: Verse 2, Bridge, Outro)"
+        ],
+        "durationSec": 254.6,
+        "measuredBpm": 111.1,
+        "bpmFactor": 1,
+        "targetBpm": 108,
+        "bpmErrPct": 2.9,
+        "lufs": -13.6,
+        "peakDbfs": -1.17,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.4,
+        "contentEndSec": 253.3,
+        "vocalCoverage": 0.722,
+        "vocalSpanSec": [
+          27.0,
+          240.0
+        ],
+        "vocalF0MedianHz": 586,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.333,
+        "lyricUnclearSections": [
+          "Verse 2",
+          "Bridge",
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.8,
+        "measuredBpm": 110.0,
+        "bpmFactor": 1,
+        "targetBpm": 108,
+        "bpmErrPct": 1.8,
+        "lufs": -13.3,
+        "peakDbfs": -0.77,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 254.1,
+        "vocalCoverage": 0.62,
+        "vocalSpanSec": [
+          33.2,
+          235.5
+        ],
+        "vocalF0MedianHz": 783,
+        "vocalF0P25Hz": 442,
+        "lyricLineRecall": 0.863,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

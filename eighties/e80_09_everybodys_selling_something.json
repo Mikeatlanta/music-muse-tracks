@@ -47,5 +47,74 @@
   ],
   "cover": "eighties/covers/e80_09_everybodys_selling_something.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, A minor, built on a single looping minor-key progression. Cold, hypnotic and mechanical, with an unblinking four-on-the-floor pulse.\n\nVOICE: Cool, low female contralto with an androgynous colour: precise, unsmiling, almost spoken, with no vibrato. Wordless multi-tracked 'ah' harmonies stacked like a choir in the breaks. Backing answers in parentheses are sung by the same voice an octave up.\n\nINSTRUMENTS: Two interlocking analog synth sequences, one low and buzzing, one higher and string-like, that together form the riff (the earworm). Heavy electronic kick on every beat. A sharp, thin electronic snare and clap. Sub-heavy synth bass doubling the low sequence. Staccato synthetic string stabs. A cold metallic percussion sound, like tapped glass bottles, in the breakdown. No guitars.\n\nARRANGEMENT MAP: 0:00 Intro, the two-part synth riff with kick for 8 bars. 0:16 Verse 1. 0:31 Verse 2. 0:47 Hook, call-and-response vocals with claps. 1:02 Vocal break, the wordless 'ah' harmony stack over the riff. 1:18 Verse 3. 1:33 Verse 4. 1:49 Hook. 2:04 Instrumental, the riff with string stabs and a high counter-melody. 2:20 Breakdown, everything out except kick, voice and the tapped-glass percussion: the trailer moment. 2:51 Riff slams back for the verse 1 reprise. 3:07 Hook, repeated with layered harmonies. 3:38 Outro, the riff and whispered question repeating, cutting dead at 4:00.\n\nPRODUCTION & MIX: Stark and spacious. Synths dry and upfront, a long dark reverb only on the harmony stacks, the kick hard and central. Nothing warm, nothing soft.\n\nSIGNATURE MOMENT: The riff. It should be recognisable in one bar and work under any scene from a heist to a fashion show.\n\nMODERN POINT OF VIEW: Deeper sub-bass and audible side-chain pumping against the kick. The breakdown is arranged like a modern film trailer, with a low impact hit before the riff returns.\n\nEMOTIONAL ARC: Detached, knowing, then defiant. It never smiles.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1983 cold minimalist British synth-pop, cool low androgynous female contralto vocal, precise and unsmiling, 124 BPM, A minor, hypnotic, mechanical, two interlocking analog synth sequences forming a dark riff, heavy four-on-the-floor electronic kick, thin electronic snare and clap, sub-heavy synth bass, staccato synth string stabs, tapped-glass metallic percussion, multi-tracked wordless choir-like harmonies, call-and-response hook, stark spacious mix, sparse breakdown with voice and kick only, detached, knowing, cinematic, slightly menacing\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nguitar, acoustic instruments, male lead vocals, live drums, saxophone, warm ballad, trap hi-hats, rap\n\nWHAT IT IS ABOUT\n\nA cold-eyed walk through a market where everyone has something to sell: mirrors, doors, a version of yourself. The singer has sold a summer for a title and bought it back at twice the price.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a jab at hustle culture and influencers; a wry anthem for anyone who works in sales; a comment on the 1980s and its greed; a spiritual song about what can't be bought; or a break-up song ('nothing's the most expensive thing on me'). The verse about selling a summer for a title is the midlife reading: trading time for status, then paying to get the time back.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a proverb instead of a story, a detached narrator, and a chanted instruction hook. The counting verse (half of them, half of them, one of them, all of them) is built for captions. Designed mishearing: 'Everybody's selling something' is heard as 'Everybody's sailing somewhere', a gentler song hiding inside the cynical one.",
-  "workbookAtAGlance": "Everybody's Selling Something\n\nBackup titles\nThe Carnival Is the Whole Town / Price or a Lie\n\nAt a glance\n124 BPM, A minor\nVoice: Cool androgynous contralto\nLength: about 4 minutes"
+  "workbookAtAGlance": "Everybody's Selling Something\n\nBackup titles\nThe Carnival Is the Whole Town / Price or a Lie\n\nAt a glance\n124 BPM, A minor\nVoice: Cool androgynous contralto\nLength: about 4 minutes",
+  "qa": {
+    "title": "Everybody's Selling Something",
+    "id": "e80_09",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 45% of lines recognised (unclear: Chorus, Interlude, Outro)"
+        ],
+        "durationSec": 249.5,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 4.2,
+        "lufs": -12.9,
+        "peakDbfs": -1.22,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 246.6,
+        "vocalCoverage": 0.57,
+        "vocalSpanSec": [
+          19.0,
+          217.2
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 231,
+        "lyricLineRecall": 0.45,
+        "lyricUnclearSections": [
+          "Chorus",
+          "Interlude",
+          "Outro"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 249.4,
+        "measuredBpm": 126.0,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 1.7,
+        "lufs": -12.4,
+        "peakDbfs": -1.04,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 247.1,
+        "vocalCoverage": 0.752,
+        "vocalSpanSec": [
+          16.4,
+          245.6
+        ],
+        "vocalF0MedianHz": 372,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.825,
+        "lyricUnclearSections": [
+          "Interlude"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

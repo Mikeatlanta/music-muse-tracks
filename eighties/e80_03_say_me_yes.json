@@ -47,5 +47,70 @@
   ],
   "cover": "eighties/covers/e80_03_say_me_yes.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 166 BPM, 4/4, B major (verses hover on the relative minor, the chorus bursts into the major). Fast, bright, nervous energy, like a heartbeat before a first kiss.\n\nVOICE: Male voice with a huge range. Verses sit low, soft and slightly accented, nearly mumbled. Each chorus line steps higher until the last 'yes' is held in clear, pure falsetto at the very top of the range. Echoed backing answers in the chorus.\n\nINSTRUMENTS: A sparkling staccato synth lead playing a fast, bouncing riff (bright digital bell tone layered with a warm analog saw). Octave-jumping synth bass. Crisp drum machine with a cracking snare and sixteenth-note hi-hats. Strummed acoustic guitar tucked underneath for lift. Soft string pad in the pre-chorus. Tom fills into each chorus.\n\nARRANGEMENT MAP: 0:00 Intro, a drum fill then the full synth riff for 8 bars. 0:14 Verse 1, the riff drops out leaving bass, drums and a held pad. 0:37 Pre-chorus, rising pad and tom build. 0:49 Chorus 1, three steps upward. 1:12 Riff returns. 1:24 Verse 2. 1:47 Pre-chorus. 1:59 Chorus 2. 2:22 Bridge, half the instruments and a new chord colour. 2:45 Synth solo over the riff with pitch bends. 3:08 Breakdown chorus, kick and claps only, sung gently. 3:20 Final chorus at full power, the last 'yes' held for 4 bars. 3:50 Outro, riff and echoing 'yes', hard stop at 4:00.\n\nPRODUCTION & MIX: Glossy and bright. Wide chorus on the synths, a gated reverb snare, vocal dry in the verses and drenched in plate reverb on the high notes.\n\nSIGNATURE MOMENT: The final held falsetto 'yes', a note placed just out of reach of the average singer so every crowd attempts it and laughs.\n\nMODERN POINT OF VIEW: A wide modern super-saw layer and gentle side-chain pumping join for the final chorus only. The intro riff is doubled by a soft 'typing' tick pattern.\n\nEMOTIONAL ARC: Shy, then brave, then airborne.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1985 Scandinavian-style synth-pop, male vocal with low soft verses and a soaring pure falsetto chorus, 166 BPM, B major, fast, bright, yearning, sparkling staccato synth lead riff with digital bell and analog saw layers, octave-bouncing synth bass, crisp drum machine with gated snare and sixteenth-note hi-hats, strummed acoustic guitar underneath, string pad swells, echoed backing vocals, chorus melody climbing step by step to a held high note, glossy mix, plate reverb on the high notes, shy, hopeful, euphoric\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, female lead vocals, saxophone, slow tempo, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nSomeone shy has spent a year writing and deleting the same message. Tonight they finally ask: one word from you and I stop being a sketch and become real.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a crush finally confessed; a job, a move or a dream waiting on someone's approval; a kid asking a parent to believe in them; or a person coming out and asking to be accepted. 'Three dots on the glass' is a typing indicator to one generation and rain on a window to another.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a deliberately off-grammar title that becomes a catchphrase, low murmured verses nobody will learn, and a chorus that climbs to a note the crowd will miss together. Designed mishearing: 'Say me yes' is heard as 'Save me, yes', which means the same thing and deepens it.",
-  "workbookAtAGlance": "Say Me Yes\n\nBackup titles\nColor Me In / One Word and I'm Real\n\nAt a glance\n166 BPM, B major\nVoice: Male, low verse to soaring falsetto\nLength: about 4 minutes"
+  "workbookAtAGlance": "Say Me Yes\n\nBackup titles\nColor Me In / One Word and I'm Real\n\nAt a glance\n166 BPM, B major\nVoice: Male, low verse to soaring falsetto\nLength: about 4 minutes",
+  "qa": {
+    "title": "Say Me Yes",
+    "id": "e80_03",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 249.6,
+        "measuredBpm": 169.4,
+        "bpmFactor": 1,
+        "targetBpm": 166,
+        "bpmErrPct": 2.1,
+        "lufs": -13.4,
+        "peakDbfs": -1.58,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 248.2,
+        "vocalCoverage": 0.727,
+        "vocalSpanSec": [
+          27.3,
+          242.8
+        ],
+        "vocalF0MedianHz": 468,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.872,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 249.6,
+        "measuredBpm": 166.7,
+        "bpmFactor": 1,
+        "targetBpm": 166,
+        "bpmErrPct": 0.4,
+        "lufs": -13.1,
+        "peakDbfs": -1.21,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.8,
+        "contentEndSec": 247.8,
+        "vocalCoverage": 0.661,
+        "vocalSpanSec": [
+          20.9,
+          228.6
+        ],
+        "vocalF0MedianHz": 369,
+        "vocalF0P25Hz": 311,
+        "lyricLineRecall": 0.923,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

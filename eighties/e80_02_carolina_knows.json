@@ -47,5 +47,68 @@
   ],
   "cover": "eighties/covers/e80_02_carolina_knows.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, E minor (a two-chord minor vamp in verses, the chorus moving to the iv and V). Tight, paranoid dance-funk: all tension and no release until the chorus.\n\nVOICE: Male tenor, breathy and urgent, with clipped consonants used as percussion. Gasps, vocal catches and finger-snap ad-libs between lines. Chorus stacked in tight four-part harmony. Whispered 'she knows' answers panned hard left and right.\n\nINSTRUMENTS: Dry drum-machine-style kick and snare with a real hi-hat and shaker. A prowling, staccato eighth-note synth-bass ostinato that never stops (the earworm). Three-note minor-key electric-piano and synth stabs on the off-beats. Muted rhythm-guitar scratches. A string-machine line that swells in the pre-chorus. Finger snaps and one hand-clap layer.\n\nARRANGEMENT MAP: 0:00 Intro, drums alone for 2 bars, then the bass line, then stabs: nearly 30 seconds before any lead vocal, so the groove gets to walk. 0:29 Verse 1. 1:01 Pre-chorus, strings rise and the bass climbs. 1:17 Chorus 1. 1:38 Verse 2, add guitar scratch. 2:10 Pre-chorus. 2:26 Chorus 2. 2:47 Bridge, the bass drops out for 4 bars leaving voice and snaps, then slams back. 3:03 Breakdown, call-and-response with the whispers. 3:19 Final chorus with ad-libs. 3:45 Outro, groove strips back to drums and bass, the last line sung unaccompanied, ending on the question at 4:00.\n\nPRODUCTION & MIX: Bone-dry and close. Almost no reverb on the drums, a short slap echo on the vocal, bass and kick glued together, wide stereo only on stabs and whispers. Lots of air between parts.\n\nSIGNATURE MOMENT: The 4 bars in the bridge where the bass vanishes and the dance floor holds its breath, then its return.\n\nMODERN POINT OF VIEW: A camera-shutter click layered into the snare on the last beat of each chorus bar. A clean sub-bass octave beneath the synth bass.\n\nEMOTIONAL ARC: Cool denial, rising panic, then doubt. The last word is a question.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1983 post-disco dance-funk pop, breathy urgent male tenor vocal with percussive gasps and ad-libs, 118 BPM, E minor, tense, paranoid, sleek, relentless staccato eighth-note synth bass ostinato, dry punchy drum machine with live hi-hat and shaker, off-beat electric piano and synth stabs, muted funk guitar scratches, string-machine swells, finger snaps, tight four-part chorus harmonies, whispered call-and-response backing vocals, bone-dry close mix, bass drop-out in the bridge, noir, danceable\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, acoustic guitar, saxophone, female lead vocals, big reverb, trap hi-hats, EDM drop\n\nWHAT IT IS ABOUT\n\nOne photo, one minute, and a whole town has a version of what happened. The narrator swears he did nothing. Only Carolina knows the truth, and she isn't saying which way it goes.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: an innocent man caught in a rumour; a guilty man protesting too much; a small-town scandal from 1984; or a modern pile-on where a single frame becomes a verdict ('a kid on every corner holding up a little light' is a lighter, a candle or a phone camera). Carolina can be a woman, a witness, or the home state that never forgets.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a named woman in the title, a denial chorus, an elder's warning, and a story that never reveals the verdict. The song ends on 'Was it me?', a doubt planted on purpose. Designed mishearing: 'Carolina knows' sounds exactly like 'Carolina, no' and 'Carolina's nose'. The bridge even ends on 'Carolina, no' to feed the argument.",
-  "workbookAtAGlance": "Carolina Knows\n\nBackup titles\nOne Frame / Ask Carolina\n\nAt a glance\n118 BPM, E minor\nVoice: Male tenor, breathy and percussive\nLength: about 4 minutes"
+  "workbookAtAGlance": "Carolina Knows\n\nBackup titles\nOne Frame / Ask Carolina\n\nAt a glance\n118 BPM, E minor\nVoice: Male tenor, breathy and percussive\nLength: about 4 minutes",
+  "qa": {
+    "title": "Carolina Knows",
+    "id": "e80_02",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 249.7,
+        "measuredBpm": 116.1,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 1.6,
+        "lufs": -13.2,
+        "peakDbfs": -0.68,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 248.0,
+        "vocalCoverage": 0.64,
+        "vocalSpanSec": [
+          6.1,
+          247.9
+        ],
+        "vocalF0MedianHz": 331,
+        "vocalF0P25Hz": 222,
+        "lyricLineRecall": 0.731,
+        "lyricUnclearSections": [
+          "Breakdown"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 248.7,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 0.5,
+        "lufs": -12.8,
+        "peakDbfs": -0.57,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.5,
+        "contentEndSec": 246.4,
+        "vocalCoverage": 0.621,
+        "vocalSpanSec": [
+          6.0,
+          246.3
+        ],
+        "vocalF0MedianHz": 329,
+        "vocalF0P25Hz": 221,
+        "lyricLineRecall": 0.942,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

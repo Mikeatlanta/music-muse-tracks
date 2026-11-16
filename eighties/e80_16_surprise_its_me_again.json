@@ -47,5 +47,69 @@
   ],
   "cover": "eighties/covers/e80_16_surprise_its_me_again.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 114 BPM, 4/4, B-flat major, after a slow false intro at about 70 BPM in G minor. Bright, bouncy, wholesome factory-pop with an unstoppable spring in its step.\n\nVOICE: Rich, deep, soulful male baritone: a big, warm, slightly old-fashioned voice with clean diction and total sincerity. Sweet female backing singers answer with 'oohs' and echo the ends of chorus lines.\n\nINSTRUMENTS: A crisp digital drum machine with a famous-sounding rolling tom fill that launches the song. A syncopated, rubbery digital synth bass (the earworm). Bright synth-brass stabs punctuating every line. Lush synth strings sweeping upward into the choruses. Glittering bell arpeggios. Handclaps on the backbeat. A gentle rhythm guitar buried in the mix.\n\nARRANGEMENT MAP: 0:00 False intro, a lonely piano and soft strings play a slow, moody minor-key phrase, as if a sad ballad is starting. 0:12 A rolling tom fill crashes in and the real song starts: strings, brass stabs and bass for 8 bars. 0:29 Verse 1, bass, drums and voice, brass answering. 0:46 Pre-chorus, strings climb. 0:58 Chorus 1, everything in, backing singers echoing. 1:32 Verse 2. 1:49 Pre-chorus. 2:01 Chorus 2. 2:35 Bridge, softer, backing 'oohs' lead and the baritone answers warmly. 2:52 Breakdown, claps, bass and call-and-response only. 3:05 Tom fill again, then the final chorus with ad-libs. 3:39 Outro, 'surprise' and its echo trading over the groove, ending with one more tom fill and a hard stop at 3:58.\n\nPRODUCTION & MIX: Shiny, tight and loud. Every part quantised and bright, bass and kick punchy, the vocal thick and central with a short plate reverb.\n\nSIGNATURE MOMENT: 0:12. The mood flips from sad piano to the tom fill and the beat. That switch is the joke, the gift and the whole reason to share it.\n\nMODERN POINT OF VIEW: The false intro is deliberately the length of a preview clip. Tight side-chain compression and a clean sub keep the groove modern on phone speakers.\n\nEMOTIONAL ARC: Fake melancholy, then relentless good cheer, then real warmth in the bridge.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1987 British hit-factory dance-pop, rich deep soulful male baritone vocal, sincere and warm, 114 BPM, B-flat major, bright, bouncy, wholesome, opens with a slow moody piano-and-strings false intro before a rolling tom fill launches the beat, crisp digital drum machine, syncopated rubbery digital synth bass, bright synth-brass stabs, sweeping synth strings, glittering bell arpeggios, handclaps, sweet female backing vocals echoing and singing ooh, shiny tight punchy mix, clap-and-bass breakdown, joyful, devoted, playful, feel-good\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, guitar solo, rock drums, female lead vocals, dark mood, trap hi-hats, rap\n\nWHAT IT IS ABOUT\n\nA relentlessly loyal narrator who keeps turning up: since second grade, on every channel, behind every link. He knows you saw it coming. He meant it every single time.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a devoted partner or best friend; a dog greeting you at the door; a parent who never misses a recital; an ex who will not take the hint; or the song itself, aware that it will be used as a prank. The false slow intro lets people disguise it as a different track before the beat drops.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a chorus that is a list of vows in one repeating shape, plain earnest language, and a deep voice that surprises. Built-in second life: the moody 12-second false intro is designed for bait-and-switch sharing, and the lyric winks at it ('you clicked on something else, I know'). Designed mishearing: 'Surprise, it's me again' is heard as 'Some prize, it's me again', which is the self-deprecating version.",
-  "workbookAtAGlance": "Surprise, It's Me Again\n\nBackup titles\nAlways Gonna Show Up / You Saw It Coming\n\nAt a glance\n114 BPM, B-flat major\nVoice: Rich male baritone\nLength: about 4 minutes"
+  "workbookAtAGlance": "Surprise, It's Me Again\n\nBackup titles\nAlways Gonna Show Up / You Saw It Coming\n\nAt a glance\n114 BPM, B-flat major\nVoice: Rich male baritone\nLength: about 4 minutes",
+  "qa": {
+    "title": "Surprise, It's Me Again",
+    "id": "e80_16",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 247.6,
+        "measuredBpm": 121.6,
+        "bpmFactor": 1,
+        "targetBpm": 114,
+        "bpmErrPct": 6.7,
+        "lufs": -13.9,
+        "peakDbfs": -0.39,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 247.3,
+        "vocalCoverage": 0.733,
+        "vocalSpanSec": [
+          38.6,
+          240.7
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 183,
+        "lyricLineRecall": 0.702,
+        "lyricUnclearSections": [
+          "Bridge",
+          "Breakdown"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 248.0,
+        "measuredBpm": 118.8,
+        "bpmFactor": 1,
+        "targetBpm": 114,
+        "bpmErrPct": 4.2,
+        "lufs": -13.8,
+        "peakDbfs": -0.04,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 247.9,
+        "vocalCoverage": 0.753,
+        "vocalSpanSec": [
+          23.0,
+          245.5
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 196,
+        "lyricLineRecall": 0.979,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

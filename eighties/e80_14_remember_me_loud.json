@@ -47,5 +47,77 @@
   ],
   "cover": "eighties/covers/e80_14_remember_me_loud.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, D major, big steady stomp. Anthemic, bittersweet and wide open, like the last scene of a film.\n\nVOICE: Dramatic male baritone who starts in a low, intimate croon, cracks into a higher, urgent shout on the chorus, and half-speaks the breakdown. Slightly theatrical with a breathy edge. Crowd-style gang vocals on every 'na-na' chant, as if a whole school is singing.\n\nINSTRUMENTS: Big, booming drums with a tom-heavy pattern and a huge gated-reverb snare (the heartbeat). An octave-pulsing bass line. Chiming electric guitar soaked in delay, playing ringing two-note shapes. Bright, glassy synth chords and a sustained organ pad. A sparkling keyboard counter-melody in the chorus. Tambourine on the backbeat.\n\nARRANGEMENT MAP: 0:00 Intro, a crashing drum fill and the gang 'na-na' chant twice over full band. 0:17 Verse 1, drums, bass and low croon, guitar chiming in the gaps. 0:51 Chorus 1, full band, the voice jumps an octave. 1:17 Verse 2. 1:51 Chorus 2. 2:17 Instrumental, delayed guitar and synth trading phrases. 2:34 Breakdown, everything out except kick, bass and the half-spoken vocal. 2:51 Build, the chant returns one voice at a time, a snare roll growing under it for 8 bars. 3:08 Final chorus at full power with ad-libs. 3:34 Outro, the chant repeating over the full band with shouted answers, slowly fading with the crowd still singing at 4:20.\n\nPRODUCTION & MIX: Huge and reverberant. Drums like they were recorded in a gymnasium, guitars and synths wide, vocal dry in the verses then echoing in the chorus.\n\nSIGNATURE MOMENT: The breakdown and rebuild. One low voice, then the chant returning voice by voice until the whole room has its fist in the air.\n\nMODERN POINT OF VIEW: The gang vocals are layered like a modern stadium crowd, with real handclaps. The low end is fuller and the fade is long, designed for a film's end credits.\n\nEMOTIONAL ARC: Vulnerable, insistent, then communal and defiant.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1985 anthemic British new wave, arena rock, dramatic male baritone vocal going from low croon to urgent shout, 112 BPM, D major, big steady stomp, bittersweet, cinematic, booming tom-heavy drums with huge gated-reverb snare, octave-pulsing bass, chiming delay-soaked electric guitar, bright glassy synth chords, organ pad, sparkling keyboard counter-melody, tambourine, half-spoken breakdown over drums and bass, crowd-style gang chant building voice by voice to a huge final chorus, long fade, reverberant gymnasium-sized mix, end credits, nostalgic, defiant, fists in the air\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale lead vocals, heavy metal, saxophone, acoustic ballad, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nA Saturday that made two nobodies feel like somebody, and the fear of Monday. Decades later one of them hears four notes in an elevator and is seventeen again. The request: don't remember me politely.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a graduation or reunion anthem; a break-up song; a message from a friend who died young; a parent speaking to a grown child; or the 1980s themselves talking to the people who lived them. 'Loud' is sung so it also sounds like 'aloud' and 'allowed': say my name out loud, and let me be remembered.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: questions in the verses, a plea in the chorus, a chant anyone can join after one hearing, and a breakdown that rebuilds from drums and bass. The lanyard-and-parking-space verse is aimed squarely at the grown-up 80s kid. Designed mishearing: loud / aloud / allowed, plus 'Remember me, Lloyd', which someone will insist is the real lyric.",
-  "workbookAtAGlance": "Remember Me Loud\n\nBackup titles\nDon't Remember Me Nice / Write My Name in Your Sneaker\n\nAt a glance\n112 BPM, D major\nVoice: Dramatic male baritone, croon to shout\nLength: about 4 minutes"
+  "workbookAtAGlance": "Remember Me Loud\n\nBackup titles\nDon't Remember Me Nice / Write My Name in Your Sneaker\n\nAt a glance\n112 BPM, D major\nVoice: Dramatic male baritone, croon to shout\nLength: about 4 minutes",
+  "qa": {
+    "title": "Remember Me Loud",
+    "id": "e80_14",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 269.6,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 4.9,
+        "lufs": -13.6,
+        "peakDbfs": -0.97,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 268.2,
+        "vocalCoverage": 0.822,
+        "vocalSpanSec": [
+          5.0,
+          264.4
+        ],
+        "vocalF0MedianHz": 752,
+        "vocalF0P25Hz": 329,
+        "lyricLineRecall": 0.765,
+        "lyricUnclearSections": [
+          "Intro",
+          "Build",
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 14% of lines recognised (unclear: Intro, Verse 1, Build, Outro)"
+        ],
+        "durationSec": 268.8,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 4.9,
+        "lufs": -13.3,
+        "peakDbfs": -2.29,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 268.0,
+        "vocalCoverage": 0.879,
+        "vocalSpanSec": [
+          4.2,
+          265.3
+        ],
+        "vocalF0MedianHz": 394,
+        "vocalF0P25Hz": 296,
+        "lyricLineRecall": 0.137,
+        "lyricUnclearSections": [
+          "Intro",
+          "Verse 1",
+          "Build",
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

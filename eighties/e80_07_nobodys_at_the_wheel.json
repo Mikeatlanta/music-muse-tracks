@@ -47,5 +47,66 @@
   ],
   "cover": "eighties/covers/e80_07_nobodys_at_the_wheel.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 110 BPM in a 12/8 shuffle (a rolling triplet feel), G major, with a pedal bass note that makes the chords float above it. Breezy, top-down, deceptively easy.\n\nVOICE: Smooth male tenor-baritone, relaxed and unhurried, slightly behind the beat, almost conversational. A second voice doubles in octaves on the chorus. No strain anywhere: the calm is the point.\n\nINSTRUMENTS: A chiming clean electric guitar playing a two-note rocking figure that runs through the whole song (the earworm). A pulsing synth bass holding one note under changing chords. Shuffle drum-machine pattern layered with live cymbals. Glassy digital bell keyboard answering the vocal. Warm analog pad. Two guitar solos: one clean and melodic, one overdriven and soaring.\n\nARRANGEMENT MAP: 0:00 Intro, the two-note guitar figure fades in with synth swells, drums enter at 0:13. 0:26 Verse 1. 0:44 Verse 2, bell keyboard answers. 1:01 Chorus 1, octave vocal and wide pad. 1:19 Verse 3. 1:36 Chorus 2. 1:54 Bridge, the chords shift somewhere warmer and sadder, with sustained organ-like pad. 2:11 Guitar solo 1, clean, lyrical, short. 2:29 Verse 4, the drums drop to hi-hat for 2 bars then return. 2:46 Final double chorus, with the lyric twist on the last two lines. 3:21 Guitar solo 2, overdriven and climbing over the full band. 3:45 Outro, 'roll on' backing vocals and the two-note figure fading out by 4:10.\n\nPRODUCTION & MIX: Clean, wide and sunlit. Shimmering chorus on guitars, tight gated snare, the vocal dry and close. Everything sits back so the groove feels effortless.\n\nSIGNATURE MOMENT: The opening fade-in of the two-note guitar figure, instantly a windows-down feeling. Second: the last two lines, where the title quietly changes meaning.\n\nMODERN POINT OF VIEW: A subtle vocoder harmony shadows the final chorus, a machine singing along. Stereo field is wider and the sub-bass deeper than a 1985 master.\n\nEMOTIONAL ARC: Carefree, then curious, then quietly awake.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1985 British sophisticated synth-pop, new wave, smooth relaxed male tenor vocal slightly behind the beat, 110 BPM, 12/8 shuffle, G major, breezy, bittersweet, chiming clean electric guitar two-note rocking figure throughout, pulsing pedal synth bass, shuffle drum machine with live cymbals, glassy digital bell keys, warm analog pad, one clean melodic guitar solo and one overdriven soaring guitar solo, octave-doubled chorus vocal, subtle vocoder harmony at the end, clean wide sunlit mix, top-down driving, carefree on the surface, thoughtful underneath\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nheavy metal riffs, female lead vocals, saxophone, dark mood, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nA beautiful drive in a car that seems to steer itself. Everyone is in the back seat singing along, the weather is lovely, and no one wants to ask who is driving.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a carefree road-trip anthem; a wry song about self-driving cars and autopilot living; a political comment that nobody is in charge; or a personal confession ('I found out the room was me') about finally taking control of your own life. The last line flips the title: everybody wants the window, nobody wants the wheel.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: breezy shuffle against uneasy words, proverb-like short lines, an opening that greets the listener directly, and a title that accuses everyone including the singer. Designed mishearing: 'Nobody's at the wheel' is heard as 'Nobody said for real' and 'Nobody's at the will', and 'lovely feel' keeps the chorus sounding happy to anyone not listening closely.",
-  "workbookAtAGlance": "Nobody's at the Wheel\n\nBackup titles\nEverybody Wants the Window / Roll On\n\nAt a glance\n110 BPM, G major, 12/8 shuffle\nVoice: Smooth male tenor, laid back\nLength: about 4 minutes"
+  "workbookAtAGlance": "Nobody's at the Wheel\n\nBackup titles\nEverybody Wants the Window / Roll On\n\nAt a glance\n110 BPM, G major, 12/8 shuffle\nVoice: Smooth male tenor, laid back\nLength: about 4 minutes",
+  "qa": {
+    "title": "Nobody's at the Wheel",
+    "id": "e80_07",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 260.0,
+        "measuredBpm": 113.6,
+        "bpmFactor": 1,
+        "targetBpm": 110,
+        "bpmErrPct": 3.3,
+        "lufs": -13.1,
+        "peakDbfs": -0.63,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 258.7,
+        "vocalCoverage": 0.556,
+        "vocalSpanSec": [
+          19.0,
+          239.9
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 196,
+        "lyricLineRecall": 0.842,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 259.3,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 110,
+        "bpmErrPct": 2.1,
+        "lufs": -13.5,
+        "peakDbfs": -1.0,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 258.1,
+        "vocalCoverage": 0.519,
+        "vocalSpanSec": [
+          22.8,
+          246.5
+        ],
+        "vocalF0MedianHz": 248,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.763,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

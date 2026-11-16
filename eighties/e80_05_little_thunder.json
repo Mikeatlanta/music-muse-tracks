@@ -47,5 +47,78 @@
   ],
   "cover": "eighties/covers/e80_05_little_thunder.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, E major for the body of the song, shifting to E minor for the final breakdown. Bright and affectionate for three minutes, then dark and searching.\n\nVOICE: Male high tenor with a serrated rasp, sweet and almost lullaby-soft in the verses, opening into a wide, wailing upper register on the chorus 'oh, oh'. Low octave double on the breakdown questions, building to full-throated screams at the end.\n\nINSTRUMENTS: Lead electric guitar on the neck pickup through a cranked British tube amp, playing a circular, string-skipping arpeggio riff that sounds like a music box played by a rock band (the earworm). A second rhythm guitar with crunchy open chords. Melodic bass that answers the riff in the intro. Big live drums with a cracking snare and wide tom fills. No keyboards.\n\nARRANGEMENT MAP: 0:00 Intro, the arpeggio riff alone, then bass melody, then rhythm guitar and drums entering one at a time over 30 seconds. 0:31 Verse 1. 0:47 Chorus 1. 1:03 Verse 2. 1:19 Chorus 2. 1:35 Guitar solo 1, short and melodic, singing the vocal line. 1:51 Verse 3. 2:07 Chorus 3. 2:23 Guitar solo 2, the big one: starts lyrical, kicks on a wah pedal, climbs the neck, ends on a screaming sustained bend. 2:55 Breakdown, the key turns minor, half-time feel, chugging palm mutes, the question repeated and intensifying. 3:40 Outro, full-band crescendo on 'roll on', final crashing chord rings out to 4:05.\n\nPRODUCTION & MIX: Live-in-a-room energy. Guitars panned left and right, natural room reverb on the drums, vocal upfront with a short slap delay, minimal polish.\n\nSIGNATURE MOMENT: The intro riff. Two notes in, the whole room knows the song. Second place goes to the instant the key turns minor.\n\nMODERN POINT OF VIEW: Tighter, deeper low end than a 1987 master, and parallel-compressed drums for punch on small speakers. The breakdown's low vocal double is close and dry, like a private thought.\n\nEMOTIONAL ARC: Adoration, celebration, then the ache of time passing.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1987 Sunset Strip hard rock with a tender heart, raspy male high tenor vocal, lullaby-soft verses and wailing chorus, 122 BPM, E major turning to E minor for the final breakdown, neck-pickup lead guitar through a cranked tube amp playing a circular string-skipping arpeggio riff, crunchy rhythm guitar, melodic bass, big live roomy drums, long expressive wah guitar solo, half-time minor-key breakdown building to screams, raw live-room mix, affectionate, soaring, then aching\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, keyboards, piano, drum machine, female vocals, pop production, autotune, EDM\n\nWHAT IT IS ABOUT\n\nA love song to someone small, loud and unstoppable, whose laugh ends winters. The singer promises to be her echo, then is left asking what to do with all the time that is passing.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a father to a daughter; a lover to a firecracker partner; an adult talking to the fearless kid they used to be; or a tribute to anyone the world tried to quieten. The breakdown ('what do we do with all this time?') is a parent watching a child grow, or anyone facing the second half of life.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: nature similes that anchor love in memory, a rough voice singing soft words, and a late turn from major-key comfort to a minor-key unanswered question. Designed mishearing: 'Little Thunder' is heard as 'Little Wonder', and both fit. The nickname is built to be given to real children, pets and guitars.",
-  "workbookAtAGlance": "Little Thunder\n\nBackup titles\nShake the Windows / All This Sky\n\nAt a glance\n122 BPM, E major, breakdown in E minor\nVoice: Raspy male high tenor\nLength: about 4 minutes"
+  "workbookAtAGlance": "Little Thunder\n\nBackup titles\nShake the Windows / All This Sky\n\nAt a glance\n122 BPM, E major, breakdown in E minor\nVoice: Raspy male high tenor\nLength: about 4 minutes",
+  "qa": {
+    "title": "Little Thunder",
+    "id": "e80_05",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 36% of lines recognised (unclear: Verse 1, Verse 3, Breakdown)"
+        ],
+        "durationSec": 254.5,
+        "measuredBpm": 126.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 3.3,
+        "lufs": -13.5,
+        "peakDbfs": -2.03,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 252.9,
+        "vocalCoverage": 0.6,
+        "vocalSpanSec": [
+          16.8,
+          245.4
+        ],
+        "vocalF0MedianHz": 666,
+        "vocalF0P25Hz": 378,
+        "lyricLineRecall": 0.364,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Verse 3",
+          "Breakdown"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 58% of lines recognised (unclear: Verse 3, Breakdown, Outro)"
+        ],
+        "durationSec": 254.4,
+        "measuredBpm": 121.6,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.3,
+        "lufs": -13.1,
+        "peakDbfs": -1.16,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 253.2,
+        "vocalCoverage": 0.678,
+        "vocalSpanSec": [
+          16.8,
+          244.4
+        ],
+        "vocalF0MedianHz": 580,
+        "vocalF0P25Hz": 307,
+        "lyricLineRecall": 0.576,
+        "lyricUnclearSections": [
+          "Verse 3",
+          "Breakdown",
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

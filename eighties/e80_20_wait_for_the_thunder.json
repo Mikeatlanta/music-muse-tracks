@@ -47,5 +47,68 @@
   ],
   "cover": "eighties/covers/e80_20_wait_for_the_thunder.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 94 BPM, 4/4, E minor, three slow chords that circle without resolving. Dark, still and menacing for most of its length, then explosive.\n\nVOICE: Male tenor, hushed and close, sung almost under his breath with clenched restraint. In the verses the voice is doubled by a faint robotic vocoder layer, making it sound cold and distant. After the drum fill the processing is stripped away and he sings out raw, loud and angry, with echoes repeating his last words.\n\nINSTRUMENTS: A vintage analog drum machine playing a soft, ticking, hypnotic pattern (the pulse). A dark, slowly swelling analog synth pad. Sparse electric piano chords with a tremolo shimmer. Distorted electric guitar that enters only as long, feedback-like swells. A deep, simple bass guitar that arrives with the drums. Then a real drum kit: huge concert toms and a snare with dramatic gated reverb.\n\nARRANGEMENT MAP: 0:00 Intro, drum-machine tick alone, then the synth pad swelling in and one distant guitar howl. 0:30 Verse 1, voice with vocoder shadow over pad and tick. 0:56 Refrain 1, electric piano chords join. 1:27 Verse 2, a second guitar swell. 1:53 Refrain 2, slightly more intense, a low synth note added. 2:24 Verse 3, the most exposed moment, the voice nearly a whisper. 2:50 Pre-thunder, every instrument cuts out. Two whispered words, then one full bar of total silence. 2:58 The fill: a tumbling, descending run of twelve strokes across four deep toms, soaked in gated reverb, landing on a crash. 3:01 Refrain with full band, live drums pounding, bass in, voice unprocessed and shouting. 3:32 Second full refrain with ad-libbed echoes. 4:03 Outro, drums keep hammering while the vocal repeats and fades, ending at 4:35.\n\nPRODUCTION & MIX: Extremely sparse and dark for three minutes with a wide, empty stereo field, so that the drums sound gigantic when they arrive. Gated room reverb on the kit: enormous, then abruptly cut off.\n\nSIGNATURE MOMENT: 2:58. The silence, then the tom fill. Everything in the arrangement exists to make those two seconds land.\n\nMODERN POINT OF VIEW: A sub-bass drop under the bar of silence, felt more than heard, and a faint field recording of approaching thunder beneath verse 3.\n\nEMOTIONAL ARC: Cold control, pressure, rupture, then release.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1981 dark atmospheric art-pop slow burner, hushed restrained male tenor vocal doubled by a faint vocoder, later raw and shouted, 94 BPM, E minor, sparse and menacing for three minutes then explosive, soft ticking vintage analog drum machine, dark slowly swelling analog synth pad, sparse tremolo electric piano chords, distorted guitar feedback swells, total silence before a huge tumbling descending concert-tom drum fill with dramatic gated reverb, then full live drums and deep bass, wide empty mix that becomes enormous, brooding, tense, accusing, cathartic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale vocals, bright pop, acoustic guitar, saxophone, guitar solo, trap hi-hats, EDM drop, rap\n\nWHAT IT IS ABOUT\n\nSomeone has kept quiet for years about what they saw one night on a bridge. They shake the hand, they return the smile, and they wait. Three minutes in, the sky breaks.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a betrayal finally confronted; a family secret; a crime witnessed; a reckoning with your own past self (the 'you' can be the singer); or plain dread about a storm, real or political, that everyone can feel coming. The lyric never states what happened, so listeners will invent the story, as they did with the original.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an accusation with no context, long near-silences, and a single delayed instrumental event that the title actually names, so people tell each other to 'wait for the thunder'. The bridge-and-water imagery is planted for legend-making. Designed mishearing: 'Wait for the thunder' is heard as 'Weight of the thunder' and 'Wake for the thunder'.",
-  "workbookAtAGlance": "Wait for the Thunder\n\nBackup titles\nWater Talks to Me / That Sunday Voice\n\nAt a glance\n94 BPM, E minor\nVoice: Hushed male tenor, processed, then raw\nLength: about 4 minutes"
+  "workbookAtAGlance": "Wait for the Thunder\n\nBackup titles\nWater Talks to Me / That Sunday Voice\n\nAt a glance\n94 BPM, E minor\nVoice: Hushed male tenor, processed, then raw\nLength: about 4 minutes",
+  "qa": {
+    "title": "Wait for the Thunder",
+    "id": "e80_20",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.9,
+        "measuredBpm": 92.3,
+        "bpmFactor": 1,
+        "targetBpm": 94,
+        "bpmErrPct": 1.8,
+        "lufs": -12.5,
+        "peakDbfs": -0.52,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 283.3,
+        "vocalCoverage": 0.693,
+        "vocalSpanSec": [
+          19.3,
+          280.4
+        ],
+        "vocalF0MedianHz": 372,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.784,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.7,
+        "measuredBpm": 93.1,
+        "bpmFactor": 1,
+        "targetBpm": 94,
+        "bpmErrPct": 0.9,
+        "lufs": -12.4,
+        "peakDbfs": -0.94,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.6,
+        "contentEndSec": 282.7,
+        "vocalCoverage": 0.551,
+        "vocalSpanSec": [
+          18.0,
+          274.9
+        ],
+        "vocalF0MedianHz": 264,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.838,
+        "lyricUnclearSections": [
+          "Verse 1"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

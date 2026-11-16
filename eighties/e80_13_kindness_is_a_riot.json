@@ -47,5 +47,84 @@
   ],
   "cover": "eighties/covers/e80_13_kindness_is_a_riot.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, A major, built on a two-bar bass figure. Springy and nervous at first, then enormous, then suddenly intimate.\n\nVOICE: A duet for two contrasting male voices. Voice A is a flamboyant, operatic tenor with a huge range who leaps into falsetto and takes the scat lines, verse lines 1-2 and the climax. Voice B is a cool, dry, slightly detached baritone who takes verse lines 3-4 and speaks the last words. They trade lines, then join in unison on the chorus, with a multi-tracked choir behind them at the climax.\n\nINSTRUMENTS: Electric bass playing a short, bouncing six-note figure with a held rest, doubled an octave up by piano (the earworm). Finger snaps and handclaps on the backbeat. Clean, chiming electric guitar arpeggios. Bright piano chords. Tight drums that stay on hi-hat and snaps until the choruses. A soft organ pad beneath the breakdown.\n\nARRANGEMENT MAP: 0:00 Intro, bass figure and finger snaps alone, piano doubles at 0:09, scat vocals trade at 0:17. 0:34 Verse 1, voices A then B over bass, snaps and hi-hat. 0:51 Pre-chorus, guitar arpeggios and a rising piano line. 1:00 Chorus 1, drums open, unison vocals. 1:17 Scat break. 1:26 Verse 2, B then A, a little quieter and closer. 1:43 Pre-chorus. 1:52 Chorus 2. 2:09 Breakdown, everything drops to snaps, organ and near-whispers, then builds bar by bar for 16 bars. 2:43 Climax, voice A at full operatic power over crashing piano and the choir. 3:17 Final chorus, both voices and choir, with the last line repeated. 3:43 Outro, back to bass and snaps, one last scat, then voice B says the final two words alone at 4:00.\n\nPRODUCTION & MIX: Live, roomy and dynamic, with real loud-quiet contrast instead of constant loudness. The bass is the lead instrument in the mix. Voices panned slightly apart so the conversation is clear.\n\nSIGNATURE MOMENT: The swing from the whispered breakdown to the full-voice climax, and the final dry, spoken 'be kind'.\n\nMODERN POINT OF VIEW: A phone-vibration buzz is tuned into the first bar of verse 1. The choir stack is huge and modern, but the finger snaps stay raw and human.\n\nEMOTIONAL ARC: Anxiety, witness, catharsis, then calm.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1981 British art-rock duet, two contrasting male vocals trading lines, a flamboyant operatic tenor with falsetto leaps and scat singing and a cool dry baritone, 112 BPM, A major, dynamic from sparse to enormous, bouncing six-note electric bass riff with a rest, doubled by piano, finger snaps and handclaps, clean chiming guitar arpeggios, bright piano, tight drums, organ pad, multi-tracked choir at the climax, quiet whispered breakdown building to a full-voice peak, ending on bass, snaps and a spoken line, live roomy mix, anxious, compassionate, cathartic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale lead vocals, drum machine, synth-pop, saxophone, trap hi-hats, EDM, rap, autotune\n\nWHAT IT IS ABOUT\n\nTwo voices trade panic about a world that will not stop buzzing, then notice a stranger holding up another stranger on a train. The answer they reach is loud, public, unembarrassed kindness.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a burnout anthem for the notification age; a protest song where the protest is decency; a duet between two generations; a church-friendly message song; or a comedy title, since 'a riot' also means hilarious. 'Weight' and 'wait' are sung identically on purpose, so the pre-chorus says two things at once.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a bass-and-finger-snap hook, scat that listeners will each transcribe differently, two contrasting voices in conversation, and a quiet breakdown that explodes into a moral. Designed mishearing: the invented scat syllables ('doo-lay, doo-lay') have no correct spelling, and the title is heard as 'Kindness is a rite' or 'Kind of a quiet night'.",
-  "workbookAtAGlance": "Kindness Is a Riot\n\nBackup titles\nThe Weight (and the Wait) / Be Loud About It\n\nAt a glance\n112 BPM, A major\nVoice: Male duet: flamboyant tenor and cool baritone\nLength: about 4 minutes"
+  "workbookAtAGlance": "Kindness Is a Riot\n\nBackup titles\nThe Weight (and the Wait) / Be Loud About It\n\nAt a glance\n112 BPM, A major\nVoice: Male duet: flamboyant tenor and cool baritone\nLength: about 4 minutes",
+  "qa": {
+    "title": "Kindness Is a Riot",
+    "id": "e80_13",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 33% of lines recognised (unclear: Intro, Scat Break, Verse 2, Breakdown, Bridge, Outro)"
+        ],
+        "durationSec": 248.8,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 0.3,
+        "lufs": -13.8,
+        "peakDbfs": -0.19,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 246.0,
+        "vocalCoverage": 0.883,
+        "vocalSpanSec": [
+          0.9,
+          242.9
+        ],
+        "vocalF0MedianHz": 394,
+        "vocalF0P25Hz": 331,
+        "lyricLineRecall": 0.333,
+        "lyricUnclearSections": [
+          "Intro",
+          "Scat Break",
+          "Verse 2",
+          "Breakdown",
+          "Bridge",
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 23% of lines recognised (unclear: Intro, Chorus, Scat Break, Breakdown, Final Chorus, Outro)"
+        ],
+        "durationSec": 249.6,
+        "measuredBpm": 108.8,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 2.9,
+        "lufs": -14.1,
+        "peakDbfs": -0.59,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 247.9,
+        "vocalCoverage": 0.897,
+        "vocalSpanSec": [
+          1.4,
+          243.6
+        ],
+        "vocalF0MedianHz": 496,
+        "vocalF0P25Hz": 439,
+        "lyricLineRecall": 0.231,
+        "lyricUnclearSections": [
+          "Intro",
+          "Chorus",
+          "Scat Break",
+          "Breakdown",
+          "Final Chorus",
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

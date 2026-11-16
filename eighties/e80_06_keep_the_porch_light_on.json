@@ -47,5 +47,73 @@
   ],
   "cover": "eighties/covers/e80_06_keep_the_porch_light_on.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, D major, built on a four-chord cycle that keeps rolling like wheels on a highway. Patient, cinematic and steadily rising.\n\nVOICE: Soaring male tenor, clear and bright with effortless high notes and a slight cry at the top of phrases. Verses are sung like storytelling. The late chorus is delivered at full power with stacked three-part harmonies and answering backing lines.\n\nINSTRUMENTS: Grand piano playing a rolling eighth-note riff with a walking left hand (the earworm). Electric bass doubling the piano's low notes. Palm-muted electric guitar that starts as a quiet chug and grows across the song. A lead guitar that plays fast ascending runs and singing sustained notes. Solid, simple arena drums. A shimmering string-synth pad joins late.\n\nARRANGEMENT MAP: 0:00 Intro, piano riff alone for 4 bars, bass joins. 0:17 Verse 1, voice, piano and bass only. 0:50 Instrumental, lead guitar enters with a climbing run and a held note. 1:06 Verse 2, drums enter with a simple beat. 1:39 Pre-chorus 1, guitar chug doubles in intensity, harmonies appear. 1:55 Guitar solo, melodic and lyrical, quoting the pre-chorus tune. 2:16 Verse 3, full band. 2:48 Pre-chorus 2, builds with a snare roll. 3:05 Chorus, the title line arrives for the first time and the band is wide open. 3:30 Chorus repeat with call-and-response. 3:55 Outro, title repeated to a fade ending at 4:15 with no final chord.\n\nPRODUCTION & MIX: Big, clean arena-rock polish. Piano bright and centred, guitars doubled and wide, snare with a roomy plate reverb, vocal crystal clear on top.\n\nSIGNATURE MOMENT: 3:05. After three minutes of waiting, the chorus finally lands. The delay is the design.\n\nMODERN POINT OF VIEW: A soft ambient pad and a sub-bass layer give modern depth. The fade is long and unresolved on purpose, so the song never ends, it just drives out of earshot.\n\nEMOTIONAL ARC: Lonely, hopeful, then communal. One voice becomes a whole crowd.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1981 arena rock anthem, clear soaring male tenor storytelling vocal, 118 BPM, D major, patient, cinematic, late-arriving chorus, rolling eighth-note grand piano riff, bass doubling the piano, palm-muted electric guitar chug that builds, singing lead guitar with fast ascending runs, simple arena drums entering late, string-synth pad, stacked three-part harmonies, call-and-response final chorus, long fade-out, polished wide mix, plate reverb snare, lonely, hopeful, communal, night highway\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale lead vocals, drum machine, saxophone, trap hi-hats, EDM, rap, autotune\n\nWHAT IT IS ABOUT\n\nTwo strangers leaving nowhere towns cross paths in a late-night laundromat. Years roll by like mile signs. Everyone on the road is whispering the same request to someone back home.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a runaway calling home; a soldier or a touring musician; a grown child speaking to ageing parents; a prayer; or the voice of someone who has passed, asking to be remembered. For the listener who grew up in the 80s, it is also the kid you were, still on the way back.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: archetypes instead of names, cinematic night imagery, and the chorus held back until 3:05 so the first arrival is the climax. The 'wrong' geography is built in: 'the north shore of a town without a sea'. Designed mishearing: 'Keep the porch light on' will be sung as 'Keep the Porsche light on', which is the most 1980s mistake possible.",
-  "workbookAtAGlance": "Keep the Porch Light On\n\nBackup titles\nNight Owls, Neon Saints / A Tank of Maybe\n\nAt a glance\n118 BPM, D major\nVoice: Soaring male tenor\nLength: about 4 minutes"
+  "workbookAtAGlance": "Keep the Porch Light On\n\nBackup titles\nNight Owls, Neon Saints / A Tank of Maybe\n\nAt a glance\n118 BPM, D major\nVoice: Soaring male tenor\nLength: about 4 minutes",
+  "qa": {
+    "title": "Keep the Porch Light On",
+    "id": "e80_06",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 264.6,
+        "measuredBpm": 120.2,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 1.9,
+        "lufs": -13.8,
+        "peakDbfs": -0.76,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 263.0,
+        "vocalCoverage": 0.535,
+        "vocalSpanSec": [
+          20.4,
+          258.9
+        ],
+        "vocalF0MedianHz": 391,
+        "vocalF0P25Hz": 331,
+        "lyricLineRecall": 0.879,
+        "lyricUnclearSections": [
+          "Verse 1"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 48% of lines recognised (unclear: Verse 2, Pre-Chorus)"
+        ],
+        "durationSec": 264.2,
+        "measuredBpm": 120.2,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 1.9,
+        "lufs": -13.8,
+        "peakDbfs": -1.85,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.5,
+        "contentEndSec": 262.9,
+        "vocalCoverage": 0.52,
+        "vocalSpanSec": [
+          17.6,
+          239.1
+        ],
+        "vocalF0MedianHz": 374,
+        "vocalF0P25Hz": 297,
+        "lyricLineRecall": 0.485,
+        "lyricUnclearSections": [
+          "Verse 2",
+          "Pre-Chorus"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

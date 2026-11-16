@@ -47,5 +47,75 @@
   ],
   "cover": "eighties/covers/e80_18_guess_whos_not_dead.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 92 BPM, 4/4, in A with a blues-rock tonality (major chords, minor pentatonic riffs). Slow, heavy, strutting swagger. It walks, it does not run.\n\nVOICE: A high, rasping, sandpaper rock scream, pitched near the top of the male range, half sung and half spat in rhythm. Phrases are short and percussive, placed in the holes the riff leaves. A gang of rough male voices shouts the 'hey! hey!' answers.\n\nINSTRUMENTS: Two overdriven electric guitars panned hard left and right, playing a stop-start two-bar riff: sharp syncopated open-chord stabs with full-band silence between them, answered by a rising bluesy bent-note lick (the earworm). A simple, thick bass guitar locked to the kick. A huge, natural, roomy drum kit playing the plainest possible beat, slightly behind the pulse. No keyboards and no effects beyond amplifier crunch.\n\nARRANGEMENT MAP: 0:00 Intro, four dry clicks on a muted guitar, then the riff crashes in with full band for 4 rounds. 0:21 Verse 1, the riff continues underneath with the vocal squeezed into its gaps. 0:53 Chorus 1, guitars open into ringing chords, gang shouts. 1:14 Riff, 2 rounds. 1:25 Verse 2. 1:57 Chorus 2. 2:18 Guitar solo, raw blues-rock: bends, fast pentatonic bursts and a wide vibrato, over the verse riff. 2:50 Bridge, guitars drop to single palm-muted chugs and the drums play only kick and hi-hat while the vocal chants, building to a snare roll. 3:11 Chorus 3. 3:32 Final chorus, lead guitar wailing over the top. 3:53 Outro, the riff with shouted tags, ending on one last stab and the ring of an open chord at 4:10.\n\nPRODUCTION & MIX: Dry, loud and enormous. Lots of space around every hit, drums recorded in a big live room, guitars crunchy but clear, no reverb wash on the vocal.\n\nSIGNATURE MOMENT: The silences inside the riff. The band stops dead between stabs, and that gap is where a stadium claps.\n\nMODERN POINT OF VIEW: Fatter low end with a sub layer under the kick, tuned for car systems and cinema trailers. Otherwise untouched: this style works because nothing is added.\n\nEMOTIONAL ARC: Swagger from the first second, a wink of grief in verse 2, then pure celebration.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1980 Australian-style hard rock, high rasping sandpaper male rock scream vocal, rhythmic and percussive, 92 BPM, key of A, blues-rock, slow heavy strutting swagger, two overdriven electric guitars panned hard left and right playing a stop-start riff with sharp open-chord stabs, full-band silences, rising bluesy bent-note lick, thick simple bass locked to the kick, huge natural roomy drums playing a plain beat, raw blues-rock guitar solo, rough male gang shouts answering, dry loud spacious live-room mix, comeback, defiant, celebratory, larger than life\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, keyboards, piano, drum machine, female vocals, clean pop vocals, autotune, EDM\n\nWHAT IT IS ABOUT\n\nThey read the eulogy and he was laughing in the back row. New knees, same old song. A swaggering announcement from someone the world had finished with, raising a glass to the friends who did not make it back.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a midlife comeback after a layoff, a divorce or a health scare; a band reunion; Gen X announcing it is still here; vinyl, arcades and everything analog returning; or, with its rolled-stone opening, an Easter song in a leather jacket. The verse that pours one out 'for the ones who flew' keeps the memorial hidden inside the party, as the original does.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a stop-start riff with the vocal in the gaps, swagger covering grief, and a title you can shout in two seconds. The chorus is a question the crowd answers with 'hey! hey!'. Designed mishearing: 'Guess who's not dead' will be heard by some as a far more religious sentence, and the opening line encourages it. That argument is free publicity.",
-  "workbookAtAGlance": "Guess Who's Not Dead\n\nBackup titles\nYou Can't Bury What Won't Lie Down / Still Loud\n\nAt a glance\n92 BPM, A (blues-based)\nVoice: High, rasping rock screamer\nLength: about 4 minutes"
+  "workbookAtAGlance": "Guess Who's Not Dead\n\nBackup titles\nYou Can't Bury What Won't Lie Down / Still Loud\n\nAt a glance\n92 BPM, A (blues-based)\nVoice: High, rasping rock screamer\nLength: about 4 minutes",
+  "qa": {
+    "title": "Guess Who's Not Dead",
+    "id": "e80_18",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 110 BPM vs 92 target (~20% off)",
+          "lyric check partial: 50% of lines recognised (unclear: Verse 1, Verse 2)"
+        ],
+        "durationSec": 258.8,
+        "measuredBpm": 110.0,
+        "bpmFactor": 1,
+        "targetBpm": 92,
+        "bpmErrPct": 19.5,
+        "lufs": -12.8,
+        "peakDbfs": -1.04,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 257.5,
+        "vocalCoverage": 0.62,
+        "vocalSpanSec": [
+          25.7,
+          252.5
+        ],
+        "vocalF0MedianHz": 614,
+        "vocalF0P25Hz": 417,
+        "lyricLineRecall": 0.5,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Verse 2"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)",
+          "tempo measured 107 BPM vs 92 target (~16% off)"
+        ],
+        "durationSec": 260.0,
+        "measuredBpm": 106.6,
+        "bpmFactor": 1,
+        "targetBpm": 92,
+        "bpmErrPct": 15.8,
+        "lufs": -13.4,
+        "peakDbfs": -0.23,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 260.0,
+        "vocalCoverage": 0.709,
+        "vocalSpanSec": [
+          7.7,
+          260.0
+        ],
+        "vocalF0MedianHz": 829,
+        "vocalF0P25Hz": 735,
+        "lyricLineRecall": 0.868,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

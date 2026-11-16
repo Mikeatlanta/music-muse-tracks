@@ -47,5 +47,71 @@
   ],
   "cover": "eighties/covers/e80_11_wear_my_weather.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 106 BPM, 4/4, B-flat minor, over a drone that barely changes. Relentless, galloping and ritual, like running in a dream.\n\nVOICE: Female mezzo-soprano with a theatrical, wide-ranging delivery: breathy and close in the verses, swooping up into a strong, keening head voice on the chorus. Layered whispered doubles. In the bridge and outro a pitch-shifted low version of her own voice answers her, as if the other person has borrowed it.\n\nINSTRUMENTS: A driving, galloping drum pattern played on deep toms and a dry electronic kick, with no cymbals at all (the engine). A breathy sampled-instrument hook, half cello and half human sigh, playing a short falling phrase (the earworm). A dark, sustained synth drone. Plucked string-like synth figures. A distant, heavily delayed electric guitar that only growls in the choruses. Deep sub-bass pedal note.\n\nARRANGEMENT MAP: 0:00 Intro, drone fades in, the galloping toms start at 0:05, the sampled hook enters at 0:14. 0:32 Verse 1, voice over drums and drone only. 0:50 Pre-chorus, plucked figures appear. 1:04 Chorus 1, hook returns under the vocal, guitar growl. 1:40 Verse 2. 1:58 Pre-chorus. 2:12 Chorus 2. 2:48 Bridge, chanted on one note with stacked voices, the low pitch-shifted voice joins. 3:06 Breakdown, drums thin to kick alone, the wordless call and the 'raining' question. 3:24 Final chorus, full intensity with the two voices trading lines. 3:58 Outro, the toms keep running while everything else fades, ending on the drone at 4:20.\n\nPRODUCTION & MIX: Dark, wide and immersive. Drums dry and centred, vocals swimming in long reverb and delay, the hook slightly lo-fi and grainy like an early digital sampler.\n\nSIGNATURE MOMENT: The first entry of the sampled sigh-cello hook over the galloping toms. It should raise the hair on your arms.\n\nMODERN POINT OF VIEW: Cinema-grade sub-bass under the drone, and real rain and far-off thunder mixed almost subliminally beneath the breakdown.\n\nEMOTIONAL ARC: Distance, pleading, then communion.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1985 British art-pop, theatrical female mezzo-soprano vocal, breathy verses and keening soaring chorus, 106 BPM, B-flat minor over a dark drone, relentless, ritualistic, galloping deep tom-tom drum pattern with dry electronic kick, breathy lo-fi sampled cello-and-sigh hook, sustained dark synth drone, plucked string synth figures, distant delayed electric guitar growl, deep sub pedal bass, layered whispers, pitch-shifted low voice answering in the bridge, chanted one-note bridge, dark wide immersive mix, long reverbs, faint rain ambience, yearning, mystical, urgent\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ncymbals, hi-hats, male lead vocals, acoustic guitar, saxophone, bright pop, trap, rap\n\nWHAT IT IS ABOUT\n\nTwo people stand in the same kitchen in two different kinds of snow. One asks the other to trade inner weather for a day, so that nobody has to shout to be understood.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a marriage trying to hear itself; a parent and a teenager; a friend reaching someone who is depressed or grieving; two sides of a divided family or country; or a conversation with your younger self. 'I'll wear yours out' means both 'I'll wear it outside' and 'I'll carry it until it's used up'.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an impossible swap as the central idea, a bodily metaphor for emotional work, direct questions to 'you', and a chanted bridge. The opening image ('the same kitchen, in two kinds of snow') is the line people will quote. Designed mishearing: 'Wear my weather' is heard as 'Where, my wanderer' and 'Whether, my weather', each of which opens a different story.",
-  "workbookAtAGlance": "Wear My Weather\n\nBackup titles\nTwo Kinds of Snow / Swap Our Skies\n\nAt a glance\n106 BPM, B-flat minor\nVoice: Theatrical female mezzo-soprano\nLength: about 4 minutes"
+  "workbookAtAGlance": "Wear My Weather\n\nBackup titles\nTwo Kinds of Snow / Swap Our Skies\n\nAt a glance\n106 BPM, B-flat minor\nVoice: Theatrical female mezzo-soprano\nLength: about 4 minutes",
+  "qa": {
+    "title": "Wear My Weather",
+    "id": "e80_11",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 269.6,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 106,
+        "bpmErrPct": 1.6,
+        "lufs": -12.0,
+        "peakDbfs": -1.0,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 268.1,
+        "vocalCoverage": 0.821,
+        "vocalSpanSec": [
+          19.2,
+          259.6
+        ],
+        "vocalF0MedianHz": 465,
+        "vocalF0P25Hz": 311,
+        "lyricLineRecall": 0.922,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 41% of lines recognised (unclear: Bridge, Breakdown)"
+        ],
+        "durationSec": 269.5,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 106,
+        "bpmErrPct": 1.6,
+        "lufs": -12.1,
+        "peakDbfs": -0.23,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 268.1,
+        "vocalCoverage": 0.789,
+        "vocalSpanSec": [
+          18.9,
+          256.4
+        ],
+        "vocalF0MedianHz": 351,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.412,
+        "lyricUnclearSections": [
+          "Bridge",
+          "Breakdown"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }

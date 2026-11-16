@@ -47,5 +47,76 @@
   ],
   "cover": "eighties/covers/e80_19_halfway_out_the_door.jpg",
   "producerBrief": "TEMPO / KEY / FEEL: 108 BPM, 4/4, C major, on one four-chord loop (I-V-vi-IV) that never changes from first bar to last. A slow burn: it starts as a whisper and takes three minutes to catch fire.\n\nVOICE: Male voice that begins as a low, breathy murmur, almost spoken, barely above the bass. Each section sits a little higher and fuller, until the build section breaks into a full-throated, open-vowel wordless cry at the top of his range. The coda returns to a fragile near-whisper. Faint backing voices whisper 'stay' and 'go' under the cry.\n\nINSTRUMENTS: A bass guitar playing steady, pulsing eighth notes on the root of each chord (the spine). A soft drum-machine tick that is later joined, then replaced, by a live kit with a booming floor tom and a late-arriving snare. A sustained, endless, violin-like electric guitar note that hovers over everything (the earworm atmosphere). Shimmering, rhythmically delayed guitar arpeggios that only enter in the second half. A warm, barely-there synth pad.\n\nARRANGEMENT MAP: 0:00 Intro, synth pad and drum tick, then the bass pulse and the endless sustained guitar note. 0:27 Verse 1, murmured voice over bass and tick. 0:53 Verse 2, kick drum enters. 1:20 Chorus 1, still restrained, a higher harmony guitar note appears. 1:42 Verse 3, the voice rises an octave, floor tom joins. 2:09 Chorus 2, the delayed arpeggio guitar finally enters and the snare begins. 2:31 Build, wordless 'oh' rising across 8 bars as every instrument grows. 2:58 Climax chorus, full kit, crashing cymbals, voice at full cry. 3:20 Instrumental, the delayed guitar plays a simple, chiming, descending figure as the storm recedes. 3:47 Coda, back to bass and one guitar note, the final two lines nearly whispered, ending unresolved at 4:15.\n\nPRODUCTION & MIX: Spacious, atmospheric and patient. Huge natural reverbs and long delays, the bass warm and dominant early, the dynamic range left wide so the climax is truly louder.\n\nSIGNATURE MOMENT: The wordless cry at 2:31-2:58. After two and a half minutes of holding back, the voice lets go.\n\nMODERN POINT OF VIEW: A deep sub under the bass pulse and a wider, more immersive reverb field. The whispered 'stay / go' backing voices are a new layer, panned to opposite sides.\n\nEMOTIONAL ARC: Restraint, ache, eruption, then exhausted tenderness.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1987 atmospheric Irish-style stadium rock, slow-burn ballad, male vocal starting as a low breathy murmur and rising to a full-throated wordless cry, 108 BPM, C major, one unchanging four-chord loop, builds from a whisper to a huge climax and back, pulsing eighth-note bass guitar, soft drum-machine tick giving way to live drums with booming floor tom and late snare, endless sustained violin-like electric guitar note, shimmering rhythmic delay guitar arpeggios entering late, warm synth pad, fragile whispered coda, spacious mix, huge reverbs, wide dynamics, aching, torn, spiritual, cathartic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nshredding guitar solo, female lead vocals, saxophone, piano ballad, trap hi-hats, EDM, rap, autotune\n\nWHAT IT IS ABOUT\n\nSomeone stands in a doorway with keys in hand and a coat they won't put down. The singer can't hold them and can't release them. In the last line, the keys turn out to be in the singer's own hand too.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a relationship stuck between leaving and staying; faith that won't go and won't settle ('a God that I can't put down'); a hometown you love and need to escape; a habit you can't quit; or an adult child and an ageing parent. The final line reverses the whole song: maybe the narrator is the one who is halfway out.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a single paradox as the entire lyric, an unidentified 'you', four chords that never change, and a climax where words are replaced by a wordless cry. The backing voices whisper 'stay' and 'go' under the cry so the listener hears whichever they need. Designed mishearing: 'Halfway out the door' is heard as 'Half the way I adore'.",
-  "workbookAtAGlance": "Halfway Out the Door\n\nBackup titles\nThe Keys in My Own Hand / Tide That Can't Decide\n\nAt a glance\n108 BPM, C major\nVoice: Male, low murmur to full cry\nLength: about 4 minutes"
+  "workbookAtAGlance": "Halfway Out the Door\n\nBackup titles\nThe Keys in My Own Hand / Tide That Can't Decide\n\nAt a glance\n108 BPM, C major\nVoice: Male, low murmur to full cry\nLength: about 4 minutes",
+  "qa": {
+    "title": "Halfway Out the Door",
+    "id": "e80_19",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 12% of lines recognised (unclear: Verse 2, Chorus, Verse 3, Build)"
+        ],
+        "durationSec": 264.4,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 108,
+        "bpmErrPct": 0.3,
+        "lufs": -13.2,
+        "peakDbfs": -1.07,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 261.5,
+        "vocalCoverage": 0.622,
+        "vocalSpanSec": [
+          18.5,
+          245.5
+        ],
+        "vocalF0MedianHz": 439,
+        "vocalF0P25Hz": 260,
+        "lyricLineRecall": 0.121,
+        "lyricUnclearSections": [
+          "Verse 2",
+          "Chorus",
+          "Verse 3",
+          "Build"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 263.8,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 108,
+        "bpmErrPct": 0.3,
+        "lufs": -12.4,
+        "peakDbfs": -1.19,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.6,
+        "contentEndSec": 262.5,
+        "vocalCoverage": 0.585,
+        "vocalSpanSec": [
+          20.7,
+          246.7
+        ],
+        "vocalF0MedianHz": 389,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.636,
+        "lyricUnclearSections": [
+          "Verse 3",
+          "Build"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
 }
