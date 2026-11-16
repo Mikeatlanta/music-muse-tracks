@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Hole in the Roof",
+  "prompt": "[Intro: slide guitar, floor-tom groove, handclaps]\n\n[Verse 1: raspy male voice, storytelling]\nDanny couldn't walk since the accident in June\nWe heard a man was in town, said he might be leaving soon\nHouse was packed out to the street, couldn't get in the door\nSo Marcus looked at me and said, \"What's a roof for?\"\n\n[Chorus: gang vocals, full band, anthemic]\nWe cut a hole in the roof\nFour friends and a rope and a mat\nDust coming down on the good people's heads\nWe weren't sorry about that\nWhen a friend can't get there on his own\nYou carry him, you make a way through\nYou don't knock, you don't wait, you don't ask\nYou cut a hole in the roof\n\n[Verse 2: voice lower, band holding back]\nWe lowered him down in the middle of the room\nRight at the feet of Jesus, in the quiet, in the gloom\nHe looked up at us four, sweating, through the beams\nThen down at Danny, smiling: \"Son, you're forgiven. You're free.\"\n\n[Chorus: gang vocals, full band, anthemic]\nWe cut a hole in the roof\nFour friends and a rope and a mat\nDust coming down on the good people's heads\nWe weren't sorry about that\nWhen a friend can't get there on his own\nYou carry him, you make a way through\nYou don't knock, you don't wait, you don't ask\nYou cut a hole in the roof\n\n[Bridge: half-time, organ, building]\nThen he said, \"Get up,\" and Danny did\nWalked out the front door carrying his bed\nI've been the one on the mat since then\nAnd I've had friends on the rope. Amen.\n\n[Final Chorus: loudest, everyone]\nSo we'll cut a hole in the roof\nFour friends and a rope and a mat\nIf you can't get to him on your own\nWe will carry you. Count on that.\nWhen a friend can't get there by himself\nYou carry him, you make a way through\nYou don't knock, you don't wait, you don't ask\nYou cut a hole in the roof\n\n[Outro: slide guitar, hammering, laughter]",
+  "style": "Mid-2010s Southern roots rock anthem, raspy warm male baritone vocal telling a story with relish, gang of men singing every chorus loud and a little ragged, quieter wondering bridge, 100 BPM, A major, rolling groove with a big swinging backbeat, slide guitar, floor-tom and kick groove with handclaps, overdriven rhythm guitar, bass, Hammond organ, pounding piano in the chorus, tambourine, warm live thick mix, loyal, bold, joyful",
+  "negativeTags": "female lead vocals, synths, drum machine, rap, trap hi-hats, EDM, slow piano ballad, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

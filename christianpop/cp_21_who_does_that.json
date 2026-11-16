@@ -1,0 +1,114 @@
+{
+  "id": "cp_21",
+  "title": "Who Does That",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 21,
+  "slug": "cp_21_who_does_that",
+  "inspiredBy": "This Is Amazing Grace (Phil Wickham, 2013)",
+  "leadVoice": "Male tenor, clear, high and sincere. Verses are intimate with only a guitar. In the choruses he sings the question and a crowd shouts it back. He sounds amazed, not preachy.",
+  "model": "V6",
+  "style": "Early-2010s folk-EDM anthem, clear high sincere male tenor vocal, intimate guitar-only verses, crowd shouting the chorus question back, 126 BPM, G major, acoustic verses building to a festival drop, strummed acoustic guitar, whistled riff, four-on-the-floor kick, bright sawtooth synth lead doubling the whistle, sidechained pads, snare rolls into each drop, handclaps, piano in the bridge, warm then wide and pumping, amazed, joyful, uplifting",
+  "negativeTags": "female lead vocals, rap, slow ballad, distorted rock guitar, country twang, trap hi-hats, dark mood, jazz",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: acoustic guitar strum, whistled riff]\n\n[Verse 1: earnest male voice, guitar only]\nWho pays the bill for the table that mocked him?\nWho gives his coat to the fella that robbed him?\nWho hears his name get dragged through the dirt\nAnd says, \"Put it on mine. Whatever it's worth.\"\n\n[Pre-Chorus: building, snare roll]\nI've known good people, I've known kind\nI never knew one who'd cross that line\n\n[Chorus: the drop, synth lead doubles the whistle]\nWho does that? (Who does that?)\nWho trades a throne for a hill and a tree?\nWho does that? (Who does that?)\nWho had it all and spent it on me?\nNobody I know, nobody I've met\nWho does that?\n\n[Verse 2: voice and guitar, kick drum under]\nKing of everything, born in a barn\nWashed twelve pairs of feet with his own two arms\nCould've called down fire, called it a day\nCalled out \"Father, forgive them\" instead, and stayed\n\n[Pre-Chorus: building, snare roll]\nI know his name now, I'll say it loud\nOnly one man in the whole wide crowd\n\n[Chorus: the drop, crowd answers]\nJesus does that! (Jesus does that!)\nHe traded a throne for a hill and a tree\nJesus does that! (Jesus does that!)\nHe had it all and he spent it on me\nNobody else, nobody yet\nJesus does that\n\n[Bridge: breakdown, handclaps, voices together]\nI can't earn it, I can't pay it back\nI can only stand here saying\nWho does that?\n\n[Final Chorus: biggest drop, everyone]\nJesus does that! (Jesus does that!)\nHe traded a throne for a hill and a tree\nJesus does that! (Jesus does that!)\nHe had it all and he spent it on me\nNobody else, nobody yet\nJesus does that\n\n[Outro: whistled riff alone]",
+  "taskId": "629813968d5af1b8b85f822726dae614",
+  "sunoClipIds": [
+    "17c61cfa-164d-4d0c-8423-c791b40eb49f",
+    "2ef8f29d-71bc-454b-bcda-9d9ea2dead85"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848835645,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "17c61cfa-164d-4d0c-8423-c791b40eb49f",
+      "durationSec": 204.8,
+      "file": "christianpop/cp_21_who_does_that_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "2ef8f29d-71bc-454b-bcda-9d9ea2dead85",
+      "durationSec": 205.0,
+      "file": "christianpop/cp_21_who_does_that_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_21_who_does_that_req.json",
+    "christianpop/cp_21_who_does_that_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_21_who_does_that.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 126 BPM, 4/4, G major. A folk song that turns into a festival dance track and back.\n\nVOICE: Male tenor, clear, high and sincere. Verses are intimate with only a guitar. In the choruses he sings the question and a crowd shouts it back. He sounds amazed, not preachy.\n\nINSTRUMENTS: Strummed acoustic guitar, a whistled riff, a four-on-the-floor kick, a bright sawtooth synth lead that doubles the whistle after each chorus line, sidechained pads, snare rolls into each drop, handclaps, a piano in the bridge.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and whistle. 0:10 Verse 1. 0:32 Pre-chorus. 0:40 Chorus 1 and drop. 1:04 Verse 2, the king. 1:22 Pre-chorus. 1:30 Chorus 2, the answer. 1:56 Bridge, claps. 2:14 Final chorus and drop. 2:44 Outro, whistle alone, ends 3:06.\n\nPRODUCTION & MIX: Early-2010s folk-EDM: acoustic and warm in the verses, wide and pumping in the drops, the whistle and synth playing the same tune.\n\nSIGNATURE MOMENT: The second drop at 1:30, when the question becomes an answer and the crowd shouts the name.\n\nTHE REVEAL: Verse 1 and the first chorus ask about a generosity nobody has seen. Verse 2 at 1:04 gives the barn, the foot-washing and the words from the cross; at 1:30 the same tune carries the answer.\n\nEMOTIONAL ARC: Puzzled, amazed, certain, celebrating.",
+  "workbookAtAGlance": "Who Does That\n\nBackup titles\nPut It on Mine / Nobody I Know\n\nAt a glance\n126 BPM, G major\nVoice: Earnest male tenor\nLength: about 3 minutes 10",
+  "genre": "EDM",
+  "year": 2013,
+  "qa": {
+    "title": "Who Does That",
+    "id": "cp_21",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.8,
+        "measuredBpm": 130.8,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 3.8,
+        "lufs": -13.3,
+        "peakDbfs": -0.81,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 204.8,
+        "vocalCoverage": 0.811,
+        "vocalSpanSec": [
+          2.2,
+          199.3
+        ],
+        "vocalF0MedianHz": 496,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 205.0,
+        "measuredBpm": 134.2,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 6.5,
+        "lufs": -13.6,
+        "peakDbfs": -1.18,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 204.0,
+        "vocalCoverage": 0.738,
+        "vocalSpanSec": [
+          16.7,
+          203.0
+        ],
+        "vocalF0MedianHz": 396,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.97,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

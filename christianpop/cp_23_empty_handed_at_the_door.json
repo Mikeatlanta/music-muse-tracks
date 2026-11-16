@@ -1,0 +1,116 @@
+{
+  "id": "cp_23",
+  "title": "Empty-Handed at the Door",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 23,
+  "slug": "cp_23_empty_handed_at_the_door",
+  "inspiredBy": "Gratitude (Brandon Lake, 2020)",
+  "leadVoice": "Male, raspy and worn, sung quietly and very close for the first verse. He opens up in the choruses and shouts the bridge with a break in his voice. A choir joins from the bridge. One spoken word to end.",
+  "model": "V6",
+  "style": "Rootsy folk-soul with a gospel choir, raspy worn male vocal sung quietly and very close at first, opening up in the choruses and shouting the bridge with a break in the voice, 76 BPM, B-flat major, starts with one acoustic guitar then a swaying backbeat, handclaps, upright bass, tambourine, Hammond organ, kick drum and floor tom, piano, gospel choir in the bridge and last chorus, live room sound, humble, grateful, rising",
+  "negativeTags": "female lead vocals, synths, drum machine, electric guitar distortion, rap, auto-tune, EDM, fast tempo",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: single acoustic guitar, room sound]\n\n[Verse 1: bare, close male voice]\nEverybody's coming up the walk with something\nA casserole, a bottle, a store-bought pie\nI checked my pockets twice out on the sidewalk\nGot a bus pass and a lot of nerve, and I\n\n[Chorus: handclaps, upright bass, warm]\nI'm empty-handed at the door\nNothing fancy, nothing more\nAll I brought is \"thank you\"\nAnd it's all I can afford\nYou said come, and I came, and I'm sure\nEmpty-handed at the door\n\n[Verse 2: voice lower, guitar and bass]\nThe table's long and every chair's got a name on it\nThere's mine, in ink, like I was always meant\nThe host is at the head in a workman's jacket\nBreaking bread and passing it. I know those hands.\n\n[Pre-Chorus: hushed, organ enters]\nThere's a cup he's pouring, red and deep\nHe says, \"This is me, for you. Take. Eat.\"\n\n[Chorus: handclaps, upright bass, warm]\nI'm empty-handed at the door\nNothing fancy, nothing more\nAll I brought is \"thank you\"\nAnd it's all I can afford\nYou said come, and I came, and I'm sure\nEmpty-handed at the door\n\n[Bridge: building, stomps, choir, shouted]\nSo sing, my empty hands!\nSing, my empty pockets!\nThe one who owns the cattle on a thousand hills\nDoesn't want my wallet\nHe wants me. He wants me.\n\n[Final Chorus: full band and choir]\nI'm empty-handed at the door\nNothing fancy, nothing more\nAll I brought is \"thank you\"\nJesus, it's yours\nYou said come, and I came, and I'm sure\nEmpty-handed at the door\n\n[Outro: one guitar, a chair pulled in, spoken]\nThank you.",
+  "taskId": "3f3d231c23c294f7e452ab58a747a366",
+  "sunoClipIds": [
+    "af82eeb4-1961-4ac8-85c0-a1fd151a8c94",
+    "b4435158-ceb0-4ab7-bd52-bb3b4e1a69fa"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848859776,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "af82eeb4-1961-4ac8-85c0-a1fd151a8c94",
+      "durationSec": 224.4,
+      "file": "christianpop/cp_23_empty_handed_at_the_door_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "b4435158-ceb0-4ab7-bd52-bb3b4e1a69fa",
+      "durationSec": 224.8,
+      "file": "christianpop/cp_23_empty_handed_at_the_door_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_23_empty_handed_at_the_door_req.json",
+    "christianpop/cp_23_empty_handed_at_the_door_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_23_empty_handed_at_the_door.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 76 BPM, 4/4, B-flat major. Slow and bare at first, with a swaying backbeat once the claps come in.\n\nVOICE: Male, raspy and worn, sung quietly and very close for the first verse. He opens up in the choruses and shouts the bridge with a break in his voice. A choir joins from the bridge. One spoken word to end.\n\nINSTRUMENTS: One acoustic guitar, then handclaps, upright bass, a tambourine, Hammond organ from the pre-chorus, a kick drum and floor tom, piano, a gospel choir in the bridge and last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, guitar. 0:10 Verse 1. 0:42 Chorus 1 with claps. 1:10 Verse 2, the table. 1:42 Pre-chorus, the cup. 1:56 Chorus 2. 2:24 Bridge, shouted. 2:50 Final chorus with choir. 3:18 Outro, a chair and 'Thank you' at 3:26.\n\nPRODUCTION & MIX: Rootsy and live: you can hear the room, fingers on strings and the choir standing behind him.\n\nSIGNATURE MOMENT: The shouted 'So sing, my empty hands!' at 2:24.\n\nTHE REVEAL: Verse 1 and the first chorus are a guest with nothing to bring. At 1:10 the host wears a workman's jacket and breaks bread, and at 1:42 he pours the cup. The last chorus gives the thanks to Jesus by name.\n\nEMOTIONAL ARC: Embarrassed, welcomed, overwhelmed, thankful.",
+  "workbookAtAGlance": "Empty-Handed at the Door\n\nBackup titles\nAll I Brought Is Thank You / A Bus Pass and a Lot of Nerve\n\nAt a glance\n76 BPM, B-flat major\nVoice: Bare, raspy male voice\nLength: about 3 minutes 30",
+  "genre": "Soul",
+  "year": 2020,
+  "qa": {
+    "title": "Empty-Handed at the Door",
+    "id": "cp_23",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.4,
+        "measuredBpm": 74.9,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 1.4,
+        "lufs": -13.8,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.5,
+        "contentEndSec": 224.4,
+        "vocalCoverage": 0.679,
+        "vocalSpanSec": [
+          14.3,
+          224.3
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 246,
+        "lyricLineRecall": 0.939,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.52 dBFS (8 clipped sample, inaudible)"
+        ],
+        "durationSec": 224.8,
+        "measuredBpm": 73.8,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 2.9,
+        "lufs": -14.0,
+        "peakDbfs": 0.52,
+        "clipSamples": 8,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 222.2,
+        "vocalCoverage": 0.717,
+        "vocalSpanSec": [
+          6.4,
+          212.1
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

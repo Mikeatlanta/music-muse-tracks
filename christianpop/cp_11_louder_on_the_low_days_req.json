@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Louder on the Low Days",
+  "prompt": "[Intro: drum break, horn stabs, clavinet riff]\n\n[Verse 1: energetic male tenor, playful]\nAnybody can sing when the check comes through\nWhen the test comes back and the sky is blue\nBut I got a song with a different trick\nIt gets louder when the going gets thick\n\n[Chorus: full band, horns, choir answers]\nI sing louder on the low days (louder!)\nDance harder on the hard ones (harder!)\nWhen the bottom drops out, that's my cue\nI got a song that the dark can't use\nTurn it up when it all goes wrong\nLouder on the low days\n\n[Verse 2: tenor, bass and drums pushing]\nTwo men in a jail cell, midnight, beat\nChains on their ankles, stocks on their feet\nThey started singing like the doors were wide\nAnd the ground shook loose and the locks all died\n\n[Pre-Chorus: horns climbing]\nSame song, same reason, same King\nThe one who walked out of a grave in spring\n\n[Chorus: full band, horns, choir answers]\nI sing louder on the low days (louder!)\nDance harder on the hard ones (harder!)\nWhen the bottom drops out, that's my cue\nI got a song that the dark can't use\nTurn it up when it all goes wrong\nLouder on the low days\n\n[Breakdown: drums and claps, call and response]\nWho's it for? (Jesus!)\nWho rolled the stone? (Jesus!)\nWho's still good on a bad day? (Jesus!)\nThen what do we do? (Louder!)\n\n[Final Chorus: key up, horns screaming, choir full]\nI sing louder on the low days (louder!)\nDance harder on the hard ones (harder!)\nWhen the bottom drops out, that's my cue\nI got a song that the dark can't use\nTurn it up when it all goes wrong\nLouder on the low days\n\n[Outro: horn riff, choir laughing, one last hit]",
+  "style": "1970s-style funk played by a modern gospel band, bright elastic male tenor vocal with gospel runs, mixed choir shouting answers and singing choruses in full harmony, call and response breakdown, 126 BPM, E major with a key change up for the final chorus, fast funky bounce, tight live drums with loud snare, slap bass, clavinet, trumpet saxophone and trombone horn section, muted funk guitar, Hammond organ, tambourine and handclaps, dry punchy mix, joyful, defiant, celebratory",
+  "negativeTags": "slow ballad, acoustic folk, trap hi-hats, EDM drop, distorted rock guitars, country twang, auto-tune, sad mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "callBackUrl": "https://example.com/cb"
+}

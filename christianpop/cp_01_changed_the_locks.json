@@ -1,0 +1,121 @@
+{
+  "id": "cp_01",
+  "title": "Changed the Locks",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 1,
+  "slug": "cp_01_changed_the_locks",
+  "inspiredBy": "Monster (Skillet, 2009)",
+  "leadVoice": "Male tenor with grit. Verses are low, tight and close to the microphone. Choruses are shouted melody with stacked voices behind. No growling. The name in the last chorus is sung, not screamed.",
+  "model": "V6",
+  "style": "Late-2000s arena rock with electronics, gritty male tenor vocal, low tight close verses and shouted melodic choruses with stacked voices, no screaming, 135 BPM, E minor, driving and tense, pulsing string-like synth riff, heavy palm-muted guitars opening into big chords, four-on-the-floor kick with live drums, low piano doubling the riff, choir pad in a half-time bridge, thick loud dry mix, defiant, urgent, triumphant",
+  "negativeTags": "female lead vocals, screamed vocals, acoustic folk, banjo, soft ballad, trap hi-hats, jazz, country twang",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: pulsing synth riff, palm-muted guitar, heartbeat kick]\n\n[Verse 1: low tense male voice, close]\nHe comes around at midnight with my face on\nSame walk, same laugh, same jacket I had on\nHe knows where I kept the spare, he knows the code\nHe says, \"Let me in. It's cold. You owe me. This is home.\"\n\n[Pre-Chorus: drums build]\nAnd I used to let him, every time\nI'd hand him the keys and I'd call it mine\n\n[Chorus: huge guitars, shouted melody]\nBut somebody changed the locks\nHe can knock, he can knock, he can knock\nThe man I was is on the porch tonight\nAnd the door don't open from the outside\nI didn't do it, I'm not that strong\nSomebody changed the locks\n\n[Verse 2: voice steadier, guitars chugging]\nIt was a carpenter. I'll tell you how it went.\nHe didn't ask what I could pay, he didn't ask for rent\nHe took the old door off its hinges with his hands\nThere were scars on both of them. He said, \"I understand.\"\n\n[Pre-Chorus: drums build]\nHe hung a new one, heavy, solid, true\nSaid, \"I'll stand here. He goes through me to get to you.\"\n\n[Chorus: huge guitars, shouted melody]\nAnd somebody changed the locks\nHe can knock, he can knock, he can knock\nThe man I was is on the porch tonight\nAnd the door don't open from the outside\nI didn't do it, I'm not that strong\nSomebody changed the locks\n\n[Bridge: half-time, synths and stacked voices]\nOld things gone, a new thing begun\nI don't live there. I'm not that one.\nAnd the knocking's getting further away\n\n[Final Chorus: biggest, full band and voices]\n'Cause Jesus changed the locks\nHe can knock, he can knock, he can knock\nThe man I was can stay out in the night\n'Cause the one in my doorway is the Light\nI didn't do it, I'm not that strong\nJesus changed the locks\n\n[Outro: knocking fades, one synth note, a latch clicks]",
+  "taskId": "c7d2c54926a7df2f57ee517e0988d0df",
+  "sunoClipIds": [
+    "2856b961-5146-40f3-a7a6-885b74e842ac",
+    "f9e4542b-aa99-463f-ad07-8055df9ab88b"
+  ],
+  "created": "Nov 16, 2026 12:06 PM ET",
+  "createTimeMs": 1794848766633,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "2856b961-5146-40f3-a7a6-885b74e842ac",
+      "durationSec": 214.8,
+      "file": "christianpop/cp_01_changed_the_locks_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "f9e4542b-aa99-463f-ad07-8055df9ab88b",
+      "durationSec": 214.28,
+      "file": "christianpop/cp_01_changed_the_locks_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_01_changed_the_locks_req.json",
+    "christianpop/cp_01_changed_the_locks_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_01_changed_the_locks.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 135 BPM, 4/4, E minor. Driving and tense; the bridge drops to half-time and the last chorus breaks out.\n\nVOICE: Male tenor with grit. Verses are low, tight and close to the microphone. Choruses are shouted melody with stacked voices behind. No growling. The name in the last chorus is sung, not screamed.\n\nINSTRUMENTS: A pulsing, string-like synth riff, heavy palm-muted guitars opening into big chords, bass locked to a four-on-the-floor kick, live drums, a low piano note doubling the riff, a choir pad in the bridge, three knocks on wood used as a sound effect.\n\nARRANGEMENT MAP: 0:00 Intro, synth riff and knocks. 0:12 Verse 1. 0:36 Pre-chorus. 0:44 Chorus 1. 1:04 Verse 2, the carpenter. 1:28 Pre-chorus. 1:36 Chorus 2. 1:58 Bridge, half-time. 2:22 Final chorus with the name. 2:52 Outro, knocking fades, a latch at 3:14.\n\nPRODUCTION & MIX: Late-2000s arena rock with electronics: thick guitars, tight low end, synth riff bright in the middle, vocals loud and dry.\n\nSIGNATURE MOMENT: The first shouted 'somebody changed the locks' at 0:44.\n\nTHE REVEAL: Verse 1 and the first chorus could be about any habit or any person. At 1:04 the locksmith is a carpenter with scars in both hands. The name Jesus is held back until the final chorus at 2:22.\n\nEMOTIONAL ARC: Dread, defiance, astonishment, safety.",
+  "workbookAtAGlance": "Changed the Locks\n\nBackup titles\nThe Man I Was Is on the Porch / He Can Knock\n\nAt a glance\n135 BPM, E minor\nVoice: Tense male tenor with grit\nLength: about 3 minutes 20",
+  "genre": "Arena Rock",
+  "year": 2009,
+  "qa": {
+    "title": "Changed the Locks",
+    "id": "cp_01",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 137.8,
+        "bpmFactor": 1,
+        "targetBpm": 135,
+        "bpmErrPct": 2.1,
+        "lufs": -13.1,
+        "peakDbfs": -0.03,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 213.3,
+        "vocalCoverage": 0.766,
+        "vocalSpanSec": [
+          25.2,
+          209.7
+        ],
+        "vocalF0MedianHz": 331,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.667,
+        "lyricUnclearSections": [
+          "Pre-Chorus"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 24% of lines recognised (unclear: Pre-Chorus, Final Chorus)"
+        ],
+        "durationSec": 214.3,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 135,
+        "bpmErrPct": 0.7,
+        "lufs": -13.4,
+        "peakDbfs": -0.31,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 212.6,
+        "vocalCoverage": 0.773,
+        "vocalSpanSec": [
+          18.1,
+          192.6
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 187,
+        "lyricLineRecall": 0.242,
+        "lyricUnclearSections": [
+          "Pre-Chorus",
+          "Final Chorus"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

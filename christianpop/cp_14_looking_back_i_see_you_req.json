@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Looking Back, I See You",
+  "prompt": "[Intro: churchy organ, slow horn swell, drums in twelve]\n\n[Verse 1: warm female alto, testifying]\nSeven years old with a fever of a hundred and four\nMama on her knees on the bedroom floor\nI didn't see a thing but the ceiling fan\nLooking back, I see your hand\n\n[Verse 2: alto, band easing in]\nNineteen, wild, on a wet two-lane\nCar turned twice and stopped in the rain\nNot a scratch. I called it luck back then.\nLooking back, I see you again\n\n[Chorus: horns, backing singers answer]\nLooking back, I see you (I see you)\nEvery room I thought was empty (I see you)\nEvery night I cried alone, there were two\nI couldn't tell it then, Lord, but it's true\nEvery mile behind me's got the same view\nLooking back, I see you\n\n[Verse 3: voice softer, organ only]\nBuried my husband on a Thursday in the spring\nCouldn't pray, couldn't eat, couldn't sing\nSomebody sat with me till the morning came\nLooking back, I know his name\n\n[Chorus: horns, backing singers answer]\nLooking back, I see you (I see you)\nEvery room I thought was empty (I see you)\nEvery night I cried alone, there were two\nI couldn't tell it then, Lord, but it's true\nEvery mile behind me's got the same view\nLooking back, I see you\n\n[Bridge: organ and voice, preaching, building]\nHe was there on the cross with me on his mind\nHe was there in the tomb, and he left it behind\nHe was there, he is here, he'll be there when I go\nJesus! That's the name I know!\n\n[Final Chorus: key up, full horns, ad-libs]\nLooking back, I see you (I see you)\nEvery room I thought was empty (I see you)\nEvery night I cried alone, there were two\nI couldn't tell it then, Lord, but it's true\nEvery mile behind me's got the same view\nLooking back, I see you\n\n[Outro: organ, one voice, low]\nMm. I see you.",
+  "style": "1960s Southern soul gospel ballad in 12/8, rich warm gospel-trained female alto vocal held back in storytelling verses then preaching the bridge with growing force, three backing singers answering in the choruses, free ad-libs at the end, 62 BPM, A-flat major with a key change up for the final chorus, slow sway, Hammond organ, horn section with slow swells and stabs, tremolo electric guitar fills, electric bass, 12/8 ride drums, piano, warm tape sound, grateful, wise, triumphant",
+  "negativeTags": "male lead vocals, synths, drum machine, rap, distorted rock guitar, fast tempo, EDM, country twang, auto-tune",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "cp_30",
+  "title": "The Me I Don't Post",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 30,
+  "slug": "cp_30_the_me_i_dont_post",
+  "inspiredBy": "Known (Tauren Wells, 2018)",
+  "leadVoice": "Male tenor, silky and agile, with tasteful runs at the ends of lines and a strong falsetto. Four-part harmonies of male voices in the style of 1990s vocal groups fill the choruses and sing the bridge unaccompanied. He ad-libs over the last chorus.",
+  "model": "V6",
+  "style": "1990s R&B slow jam with gospel harmonies, silky agile male tenor vocal with tasteful runs and strong falsetto, four-part male vocal-group harmonies in the choruses and an unaccompanied harmony bridge, ad-libs at the end, 72 BPM, B-flat major, slow smooth warm groove, chorused electric piano, finger snaps, deep sustained bass, soft programmed kick and crisp backbeat snare, clean guitar fills, string pad, glossy warm mix, intimate, honest, secure",
+  "negativeTags": "female lead vocals, rock guitars, banjo, country twang, fast tempo, EDM drop, aggressive rap, acoustic folk",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: electric piano, finger snaps, harmonised oohs]\n\n[Verse 1: silky male tenor]\nGot a highlight reel and a good left side\nGot a laugh I do when I'm trying to hide\nThree hundred people think they know my name\nNone of them have seen me when I'm off my game\n\n[Pre-Chorus: harmonies stacking]\nThere's a door in the back, I keep it shut\nOld shame, bad nights, all that stuff\n\n[Chorus: smooth full groove, layered vocals]\nBut you know the me I don't post\nThe one who's scared, the one who's lost the most\nYou've seen the drafts, you've seen the deleted\nYou saw the worst of me and never retreated\nSeen all of it, and pulled me close\nYou love the me I don't post\n\n[Verse 2: voice softer, bass and keys]\nThere's a man in the Book sitting under a tree\nThought nobody knew him, a lot like me\nJesus said, \"I saw you before you got the call\"\nHe fell right out of hiding. I know that fall.\n\n[Pre-Chorus: harmonies stacking]\nSo I opened the door I keep shut\nYou'd already been in there, cleaning up\n\n[Chorus: smooth full groove, layered vocals]\n'Cause you know the me I don't post\nThe one who's scared, the one who's lost the most\nYou've seen the drafts, you've seen the deleted\nYou saw the worst of me and never retreated\nSeen all of it, and pulled me close\nYou love the me I don't post\n\n[Bridge: voices alone in harmony, then the band returns]\nAll the way seen. Still wanted.\nAll the way through. Not haunted.\nYou took my worst to the cross, and you chose\nThe me I don't post\n\n[Final Chorus: fullest, ad-libs on top]\nJesus, you know the me I don't post\nThe one who's scared, the one who's lost the most\nYou've seen the drafts, you've seen the deleted\nYou saw the worst of me and never retreated\nSeen all of it, and pulled me close\nYou love the me I don't post\n\n[Outro: snaps, harmonised oohs, a phone set face down]",
+  "taskId": "db4bf74983fc5def4de6981438d5bf19",
+  "sunoClipIds": [
+    "27bce738-f582-46b7-9a70-225adbf89d3d",
+    "33411ea4-39c4-42b8-8d87-c45860f9123f"
+  ],
+  "created": "Nov 16, 2026 12:08 PM ET",
+  "createTimeMs": 1794848889978,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "27bce738-f582-46b7-9a70-225adbf89d3d",
+      "durationSec": 224.36,
+      "file": "christianpop/cp_30_the_me_i_dont_post_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "33411ea4-39c4-42b8-8d87-c45860f9123f",
+      "durationSec": 224.72,
+      "file": "christianpop/cp_30_the_me_i_dont_post_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_30_the_me_i_dont_post_req.json",
+    "christianpop/cp_30_the_me_i_dont_post_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_30_the_me_i_dont_post.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 72 BPM, 4/4, B-flat major. A slow, smooth 1990s R&B groove, warm and close.\n\nVOICE: Male tenor, silky and agile, with tasteful runs at the ends of lines and a strong falsetto. Four-part harmonies of male voices in the style of 1990s vocal groups fill the choruses and sing the bridge unaccompanied. He ad-libs over the last chorus.\n\nINSTRUMENTS: Electric piano with a chorus effect, finger snaps, a deep sustained bass, a soft programmed kick and a crisp snare on the backbeat, a clean guitar playing small fills, a warm string pad, a bell-like synth.\n\nARRANGEMENT MAP: 0:00 Intro, keys, snaps and oohs. 0:12 Verse 1. 0:38 Pre-chorus. 0:48 Chorus 1. 1:18 Verse 2, under the tree. 1:44 Pre-chorus. 1:54 Chorus 2. 2:24 Bridge, voices alone. 2:44 Final chorus with ad-libs. 3:14 Outro, snaps, oohs and a phone set down at 3:26.\n\nPRODUCTION & MIX: 1990s R&B slow jam: glossy, warm, harmonies wide, bass deep, a little reverb on the snare.\n\nSIGNATURE MOMENT: The unaccompanied harmony on 'All the way seen. Still wanted.' at 2:24.\n\nTHE REVEAL: Verse 1 and the first chorus read as a love song to the one person who knows him. Verse 2 at 1:18 is Nathanael under the fig tree in John 1, with Jesus named. The bridge takes it to the cross.\n\nEMOTIONAL ARC: Guarded, exposed, unashamed, loved.",
+  "workbookAtAGlance": "The Me I Don't Post\n\nBackup titles\nYou've Seen the Drafts / Face Down\n\nAt a glance\n72 BPM, B-flat major\nVoice: Silky male tenor with harmonies\nLength: about 3 minutes 30",
+  "genre": "R&B",
+  "year": 2018,
+  "qa": {
+    "title": "The Me I Don't Post",
+    "id": "cp_30",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.29 dBFS (11 clipped sample, inaudible)"
+        ],
+        "durationSec": 224.4,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1,
+        "targetBpm": 72,
+        "bpmErrPct": 5.6,
+        "lufs": -13.5,
+        "peakDbfs": 0.29,
+        "clipSamples": 11,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 223.1,
+        "vocalCoverage": 0.822,
+        "vocalSpanSec": [
+          5.0,
+          209.5
+        ],
+        "vocalF0MedianHz": 274,
+        "vocalF0P25Hz": 238,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.25 dBFS (4 clipped sample, inaudible)",
+          "tempo measured 58 BPM vs 72 target (~20% off)"
+        ],
+        "durationSec": 224.7,
+        "measuredBpm": 57.7,
+        "bpmFactor": 1,
+        "targetBpm": 72,
+        "bpmErrPct": 19.8,
+        "lufs": -13.5,
+        "peakDbfs": 0.25,
+        "clipSamples": 4,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 223.4,
+        "vocalCoverage": 0.838,
+        "vocalSpanSec": [
+          4.6,
+          221.3
+        ],
+        "vocalF0MedianHz": 266,
+        "vocalF0P25Hz": 234,
+        "lyricLineRecall": 0.971,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

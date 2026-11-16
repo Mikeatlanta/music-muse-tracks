@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "I Said Your Name Tonight",
+  "prompt": "[Intro: soft piano, warm pad]\n\n[Verse 1: gentle female voice]\nI said your name tonight\nOut loud, in the dark, by the bed\nSaid it slow, said it twice\nSaid some things I've never said\n\nI told him how you take your coffee\nHow you hum when you're afraid\nHow you've been so tired lately\nI said your name, and stayed\n\n[Chorus: strings rise]\nI said your name tonight\nTo the one who hung the stars\nI don't have the words to fix it\nBut I know whose hands you're in, and whose we are\nI can't carry you. He can.\nSo I said your name tonight\n\n[Verse 2: voice a little stronger]\nHe knows what a fever is\nHe's touched a hand and watched it leave\nHe's stopped a funeral in the street\nAnd told a mother not to grieve\n\nHe's had friends who couldn't stay awake\nTo pray with him one night\nSo I stayed up. I said your name.\nTo Jesus. Till the light.\n\n[Chorus: strings and soft drums]\nI said your name tonight\nTo the one who hung the stars\nI don't have the words to fix it\nBut I know whose hands you're in, and whose we are\nI can't carry you. He can.\nSo I said your name tonight\n\n[Bridge: choir enters, building]\nHealing, if he will, and I'm asking that he will\nPeace, if it's a while. Him beside you, still.\nYour name. I said it. Your name. Again.\nYour name. He knows it. Amen.\n\n[Final Chorus: full choir, then just her]\nI said your name tonight\nTo the one who hung the stars\nI don't have the words to fix it\nBut I know whose hands you're in, and whose we are\nI can't carry you. He can.\nSo I said your name tonight\n\n[Outro: piano, whispered]\nAnd for me, too.",
+  "style": "Modern pop ballad with gospel warmth, soft clear young female soprano vocal almost speaking the first verse and growing stronger without belting, choir joining the bridge and last chorus then dropping away, whispered ending, 68 BPM, C major, slow tender ballad with a gentle lift, piano, warm synth pad, string quartet, soft mallet-like drums and deep kick, bass, gospel choir, single acoustic guitar, close soft mix, caring, hopeful, peaceful",
+  "negativeTags": "male lead vocals, rock guitars, rap, trap hi-hats, fast tempo, EDM, country twang, belting",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

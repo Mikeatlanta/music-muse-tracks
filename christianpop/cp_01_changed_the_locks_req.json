@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Changed the Locks",
+  "prompt": "[Intro: pulsing synth riff, palm-muted guitar, heartbeat kick]\n\n[Verse 1: low tense male voice, close]\nHe comes around at midnight with my face on\nSame walk, same laugh, same jacket I had on\nHe knows where I kept the spare, he knows the code\nHe says, \"Let me in. It's cold. You owe me. This is home.\"\n\n[Pre-Chorus: drums build]\nAnd I used to let him, every time\nI'd hand him the keys and I'd call it mine\n\n[Chorus: huge guitars, shouted melody]\nBut somebody changed the locks\nHe can knock, he can knock, he can knock\nThe man I was is on the porch tonight\nAnd the door don't open from the outside\nI didn't do it, I'm not that strong\nSomebody changed the locks\n\n[Verse 2: voice steadier, guitars chugging]\nIt was a carpenter. I'll tell you how it went.\nHe didn't ask what I could pay, he didn't ask for rent\nHe took the old door off its hinges with his hands\nThere were scars on both of them. He said, \"I understand.\"\n\n[Pre-Chorus: drums build]\nHe hung a new one, heavy, solid, true\nSaid, \"I'll stand here. He goes through me to get to you.\"\n\n[Chorus: huge guitars, shouted melody]\nAnd somebody changed the locks\nHe can knock, he can knock, he can knock\nThe man I was is on the porch tonight\nAnd the door don't open from the outside\nI didn't do it, I'm not that strong\nSomebody changed the locks\n\n[Bridge: half-time, synths and stacked voices]\nOld things gone, a new thing begun\nI don't live there. I'm not that one.\nAnd the knocking's getting further away\n\n[Final Chorus: biggest, full band and voices]\n'Cause Jesus changed the locks\nHe can knock, he can knock, he can knock\nThe man I was can stay out in the night\n'Cause the one in my doorway is the Light\nI didn't do it, I'm not that strong\nJesus changed the locks\n\n[Outro: knocking fades, one synth note, a latch clicks]",
+  "style": "Late-2000s arena rock with electronics, gritty male tenor vocal, low tight close verses and shouted melodic choruses with stacked voices, no screaming, 135 BPM, E minor, driving and tense, pulsing string-like synth riff, heavy palm-muted guitars opening into big chords, four-on-the-floor kick with live drums, low piano doubling the riff, choir pad in a half-time bridge, thick loud dry mix, defiant, urgent, triumphant",
+  "negativeTags": "female lead vocals, screamed vocals, acoustic folk, banjo, soft ballad, trap hi-hats, jazz, country twang",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "cp_17",
+  "title": "Still Empty",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 17,
+  "slug": "cp_17_still_empty",
+  "inspiredBy": "God's Not Dead (Like a Lion) (Newsboys, 2011)",
+  "leadVoice": "Male, mid-range, dry and swaggering in verse 1, with a sneer in the first chorus. From verse 2 he sings with rising excitement, and a large crowd shouts 'hey!' and then every chorus line with him.",
+  "model": "V6",
+  "style": "Garage rock stomp built for arenas, dry swaggering mid-range male vocal with a sneer in the first chorus then rising excitement, large crowd shouting hey and every later chorus line, 124 BPM, E minor turning to E major in the triumphant choruses, stomping strut that becomes a stadium chant, fuzzed-out bass riff, stomps and handclaps, loud kick and snare, gritty electric guitar doubling the riff, tambourine, organ stabs, raw loud dry mix, defiant, surprised, exultant",
+  "negativeTags": "female lead vocals, acoustic ballad, banjo, synth pop, trap hi-hats, orchestral strings, soft mood, auto-tune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: fuzz bass riff, stomp-clap, crowd shouting hey]\n\n[Verse 1: swaggering male voice, dry]\nBought the big TV, mounted it myself\nTrophies and a bottle on the top shelf\nDid it all, got it all, checked every box\nCome home at night to the ticking of the clocks\n\n[Chorus: stomp-clap, bluesy, sneering]\nStill empty (hey!) what a joke\nStill empty (hey!) all that smoke\nFilled it up with everything I found\nStill an echo when I walk around\nEvery room, every drawer, every night\nStill empty\n\n[Verse 2: voice sharper, guitars in]\nThen I heard about a hole in a hill outside a town\nSealed with a boulder, soldiers all around\nFriday they buried him, and that was that\nSunday the women came running back\n\n[Chorus: triumphant, full gang, major lift]\nStill empty! (Hey!) Go and check\nStill empty! (Hey!) Nobody's there yet\nTwo thousand years they've been digging around\nNobody's found a body in that ground\nBest news I ever heard in my life\nStill empty!\n\n[Bridge: breakdown, bass and claps, then everyone]\nMy house was empty and it nearly killed me\nHis grave is empty and it finally filled me\nHe's alive (he's alive!), he's alive (he's alive!)\nJesus is alive!\n\n[Final Chorus: loudest, crowd on every line]\nStill empty! (Hey!) Go and check\nStill empty! (Hey!) Nobody's there yet\nTwo thousand years they've been digging around\nNobody's found a body in that ground\nBest news I ever heard in my life\nStill empty!\n\n[Outro: fuzz riff, crowd cheering, one last stomp]",
+  "taskId": "7b0e1fbd8c84b094dda6b3ea2980be5a",
+  "sunoClipIds": [
+    "7cb4f88b-505c-4b11-9817-1cdfc5fc6b27",
+    "28e7ed0d-245d-4ecc-b431-05434d5995fa"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848825502,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "7cb4f88b-505c-4b11-9817-1cdfc5fc6b27",
+      "durationSec": 203.96,
+      "file": "christianpop/cp_17_still_empty_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "28e7ed0d-245d-4ecc-b431-05434d5995fa",
+      "durationSec": 204.8,
+      "file": "christianpop/cp_17_still_empty_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_17_still_empty_req.json",
+    "christianpop/cp_17_still_empty_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_17_still_empty.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, E minor, with the second and later choruses harmonised in E major. A stomping garage-rock strut that turns into a stadium chant.\n\nVOICE: Male, mid-range, dry and swaggering in verse 1, with a sneer in the first chorus. From verse 2 he sings with rising excitement, and a large crowd shouts 'hey!' and then every chorus line with him.\n\nINSTRUMENTS: A fuzzed-out bass riff, stomps and handclaps as the main beat, a loud kick and snare from verse 2, a gritty electric guitar doubling the riff, tambourine, organ stabs in the triumphant choruses.\n\nARRANGEMENT MAP: 0:00 Intro, fuzz riff and stomp-clap. 0:10 Verse 1. 0:32 Chorus 1, the lament. 0:58 Verse 2, the tomb. 1:20 Chorus 2, the triumph. 1:46 Bridge, breakdown and chant. 2:14 Final chorus. 2:42 Outro, riff, cheering and a last stomp at 3:06.\n\nPRODUCTION & MIX: Garage rock built for arenas: raw, loud, dry, the crowd as big as the band.\n\nSIGNATURE MOMENT: The chorus at 1:20, the same two words as before with the opposite meaning and the chords turned major.\n\nTHE REVEAL: Verse 1 and chorus one are a rich man's empty house. Verse 2 at 0:58 is the sealed tomb, and chorus two says it is still empty. The bridge spells out the contrast in two lines and shouts that Jesus is alive.\n\nEMOTIONAL ARC: Hollow, bitter, startled, exultant.",
+  "workbookAtAGlance": "Still Empty\n\nBackup titles\nGo and Check / Best News I Ever Heard\n\nAt a glance\n124 BPM, E minor\nVoice: Swaggering male voice with stadium shouts\nLength: about 3 minutes 10",
+  "genre": "Garage Rock",
+  "year": 2011,
+  "qa": {
+    "title": "Still Empty",
+    "id": "cp_17",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.0,
+        "measuredBpm": 126.0,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 1.7,
+        "lufs": -13.4,
+        "peakDbfs": -0.64,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.5,
+        "contentEndSec": 203.2,
+        "vocalCoverage": 0.629,
+        "vocalSpanSec": [
+          15.8,
+          202.3
+        ],
+        "vocalF0MedianHz": 333,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 0.778,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.8,
+        "measuredBpm": 126.0,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 1.7,
+        "lufs": -13.3,
+        "peakDbfs": -0.85,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 204.5,
+        "vocalCoverage": 0.62,
+        "vocalSpanSec": [
+          8.4,
+          204.3
+        ],
+        "vocalF0MedianHz": 333,
+        "vocalF0P25Hz": 226,
+        "lyricLineRecall": 0.852,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Arrivals Gate",
+  "prompt": "[Intro: chiming delay guitar, soft pulsing bass]\n\n[Verse 1: male tenor, hushed, expectant]\nI've got a sign with your name, I made it twice\nMy hands were shaking and it didn't look right\nWe've talked for years, I know your voice\nI've never seen your face. I never had the choice.\n\n[Pre-Chorus: drums enter]\nEverybody's pouring through the sliding doors\nRunning into arms, dropping bags on the floor\n\n[Chorus: wide, soaring, full band]\nAnd I'm standing at the arrivals gate\nHeart in my throat, I can hardly wait\nWill I run, will I freeze, will I fall on my face?\nHow will I know you in a crowded place?\nI've loved you my whole life, sight unseen\nI'm standing at the arrivals gate\n\n[Verse 2: voice close, the turn]\nBut that's backwards. I'm the one coming in\nOff a long, long flight, with the shape I'm in\nAnd you're the one at the rail with the sign\nYou've had my name on it since before time\n\n[Pre-Chorus: drums build]\nAnd I'll know you, I'll know you, there's no mistake\nBy the scars in the hands reaching over the gate\n\n[Chorus: wide, soaring, full band]\nAnd you're standing at the arrivals gate\nArms out wide, you could hardly wait\nI will run, I will freeze, I will fall on my face\nYou'll pick me out of any crowded place\nYou've loved me my whole life, and you've seen\nJesus, at the arrivals gate\n\n[Bridge: half-time, guitars ringing]\nNo more goodbyes in that terminal\nNo lost and found, no last call\nEvery tear wiped by the hand that made the eye\nHome. Home. I'm home.\n\n[Final Chorus: full band, highest]\nAnd you're standing at the arrivals gate\nArms out wide, you could hardly wait\nI will run, I will freeze, I will fall on my face\nYou'll pick me out of any crowded place\nYou've loved me my whole life, and you've seen\nJesus, at the arrivals gate\n\n[Outro: delay guitar, a crowd murmuring, one voice]\nThere you are.",
+  "style": "Anthemic stadium rock with ringing delay guitars, clear earnest male tenor vocal, nearly whispered first verse lifting to long open held chorus melodies, 112 BPM, D major, steady widening build, dotted-eighth delay electric guitar chiming patterns, pulsing eighth-note bass, steady drums with big open snare, shimmer guitar, piano, string pad, half-time bridge, wide bright emotional mix, expectant, longing, overjoyed",
+  "negativeTags": "female lead vocals, rap, trap hi-hats, banjo, country twang, funk, harsh distortion, EDM drop",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

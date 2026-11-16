@@ -1,0 +1,116 @@
+{
+  "id": "cp_12",
+  "title": "Running Out of Fingers",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 12,
+  "slug": "cp_12_running_out_of_fingers",
+  "inspiredBy": "10,000 Reasons (Bless the Lord) (Matt Redman, 2011)",
+  "leadVoice": "Female, clear and unadorned, with a slight lilt, like a folk singer. A group of men, women and children join every chorus in unison and simple harmony. The bridge is voices only.",
+  "model": "V6",
+  "style": "Celtic folk-pop jig in 6/8, clear unadorned female vocal with a slight lilt, group of men women and children joining every chorus in unison and simple harmony, voices-only bridge, 112 BPM, D major, lilting and light, tin whistle melody, fiddle, frame drum, open-tuned acoustic guitar, mandolin, accordion drone, upright bass, stomps and handclaps, whistle and fiddle reel, bright woody room sound, thankful, warm, joyful",
+  "negativeTags": "male lead vocals, synths, drum machine, electric guitar, rap, trap hi-hats, slow piano ballad, auto-tune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: tin whistle melody, frame drum, acoustic guitar]\n\n[Verse 1: clear female voice, bright]\nMy grandmother counted on her fingers every night\nBefore she'd lay her head down, before she'd dim the light\nOne for the bread, and two for the roof\nThree for the neighbours, and four for the truth\n\n[Chorus: group voices, fiddle, stomping]\nAnd I'm running out of fingers\nI'm running out of hands\nCounting up the good you've done\nIs more than one girl can\nLend me yours, lend me the stars\nLend me every grain of sand\nI'm running out of fingers\nAnd I'm only where I began\n\n[Verse 2: voice softer, whistle answering]\nOne for a manger, a baby in the hay\nTwo for a blind man who saw his first day\nThree for a table where the traitor got fed\nFour for a Friday, and the last thing he said\n\n[Chorus: group voices, fiddle, stomping]\nAnd I'm running out of fingers\nI'm running out of hands\nCounting up the good you've done\nIs more than one girl can\nLend me yours, lend me the stars\nLend me every grain of sand\nI'm running out of fingers\nAnd I'm only where I began\n\n[Verse 3: voice lifting, band full]\nFive for a Sunday and a stone rolled wide\nSix for a breakfast on the waterside\nSeven for the day that he calls me home\nI'll start again there, with a new set of my own\n\n[Instrumental: whistle and fiddle reel, handclaps]\n\n[Bridge: voices alone, hushed then growing]\nMorning, I'll count. Noon, I'll count.\nWhen my voice is gone and I can't get it out\nMy soul will count\n\n[Final Chorus: everyone, loudest]\nJesus, I'm running out of fingers\nI'm running out of hands\nCounting up the good you've done\nIs more than one girl can\nLend me yours, lend me the stars\nLend me every grain of sand\nI'm running out of fingers\nAnd I'm only where I began\n\n[Outro: whistle alone, one voice]\nOne for the bread...",
+  "taskId": "866689d23e799caf7328e6cf70e595d6",
+  "sunoClipIds": [
+    "f6a72951-c2bf-4304-b886-7e52e2619537",
+    "15d30e79-d676-47f2-aa47-bc0100f3b28e"
+  ],
+  "created": "Nov 16, 2026 12:06 PM ET",
+  "createTimeMs": 1794848810644,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f6a72951-c2bf-4304-b886-7e52e2619537",
+      "durationSec": 214.2,
+      "file": "christianpop/cp_12_running_out_of_fingers_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "15d30e79-d676-47f2-aa47-bc0100f3b28e",
+      "durationSec": 214.76,
+      "file": "christianpop/cp_12_running_out_of_fingers_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_12_running_out_of_fingers_req.json",
+    "christianpop/cp_12_running_out_of_fingers_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_12_running_out_of_fingers.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 6/8, D major. A lilting Irish-style jig, light on its feet and easy to clap.\n\nVOICE: Female, clear and unadorned, with a slight lilt, like a folk singer. A group of men, women and children join every chorus in unison and simple harmony. The bridge is voices only.\n\nINSTRUMENTS: Tin whistle, fiddle, a frame drum (bodhran), acoustic guitar in open tuning, mandolin, an accordion drone, upright bass, foot stomps and handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, whistle tune. 0:12 Verse 1. 0:36 Chorus 1. 1:00 Verse 2, the count changes. 1:24 Chorus 2. 1:48 Verse 3. 2:10 Instrumental reel. 2:26 Bridge, voices alone. 2:42 Final chorus. 3:08 Outro, whistle and the first count again at 3:14.\n\nPRODUCTION & MIX: Folk-pop with a Celtic band: bright, woody, lively, voices recorded together in a room.\n\nSIGNATURE MOMENT: 'Four for a Friday, and the last thing he said' at 1:20.\n\nTHE REVEAL: Verse 1 is a grandmother's nightly habit. Verse 2 at 1:00 keeps the same counting game and fills it with the life of Christ; verse 3 reaches Easter morning and the breakfast on the shore. The name is sung at the start of the last chorus.\n\nEMOTIONAL ARC: Fond, thankful, awed, endless.",
+  "workbookAtAGlance": "Running Out of Fingers\n\nBackup titles\nOne for the Bread / Lend Me the Stars\n\nAt a glance\n112 BPM, D major\nVoice: Clear female voice with a group\nLength: about 3 minutes 20",
+  "genre": "Folk Pop",
+  "year": 2011,
+  "qa": {
+    "title": "Running Out of Fingers",
+    "id": "cp_12",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.17 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 214.2,
+        "measuredBpm": 113.6,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 1.4,
+        "lufs": -13.9,
+        "peakDbfs": 0.17,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 212.9,
+        "vocalCoverage": 0.68,
+        "vocalSpanSec": [
+          13.0,
+          198.5
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 113.6,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 1.4,
+        "lufs": -13.7,
+        "peakDbfs": -0.13,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 212.7,
+        "vocalCoverage": 0.658,
+        "vocalSpanSec": [
+          10.8,
+          203.4
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 278,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

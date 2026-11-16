@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Halfway Down the Driveway",
+  "prompt": "[Intro: palm-muted power chords, fast hi-hat count-in]\n\n[Verse 1: earnest young male voice, fast]\nTook the cash, took the car, said some things I can't take back\nTold my dad he was dead to me, and I didn't even pack\nEighteen months of other people's couches, other people's fun\nWoke up broke behind a diner, eating scraps. I was done.\n\n[Pre-Chorus: half-time, building]\nSo I wrote a speech on a napkin, walking home\n\"I'm not your son. Just let me mow the lawn.\"\n\n[Chorus: explosive, shouted melody, gang vocals]\nAnd I was halfway down the driveway\nWith my speech in my hand\nWhen the screen door blew wide open\nAnd I saw my old man run\nHe never ran for anything, bad knee and all\nHalfway down the driveway\nHe didn't let me finish. He didn't let me fall.\n\n[Verse 2: fast, guitars wide open]\nPut his jacket on my shoulders, yelled, \"Fire up the grill!\"\nCalled the neighbors, called the cousins, I was standing there still\nMy brother's in the garage, mad, and honestly, that's fair\nBut Dad just keeps on saying, \"He was gone. He's here. He's here.\"\n\n[Pre-Chorus: half-time, building]\nSomebody told that story two thousand years ago\nTo show us what his Father's like. Now I know.\n\n[Chorus: explosive, shouted melody, gang vocals]\nAnd I was halfway down the driveway\nWith my speech in my hand\nWhen the screen door blew wide open\nAnd I saw my old man run\nHe never ran for anything, bad knee and all\nHalfway down the driveway\nHe didn't let me finish. He didn't let me fall.\n\n[Bridge: half-time, crowd chant]\nWhoa-oh, I had a speech\nWhoa-oh, he had a feast\nJesus said that's how God sees me\nRunning, running, running to me\n\n[Final Chorus: fastest and loudest]\nAnd I was halfway down the driveway\nWith my speech in my hand\nWhen the screen door blew wide open\nAnd I saw my Father run\nHe never stopped watching that road, not once\nHalfway down the driveway\nHe didn't let me finish. He didn't let me fall.\n\n[Outro: feedback, a screen door slam, spoken]\nWelcome home, kid.",
+  "style": "2003-style pop-punk, nasal earnest slightly strained young male tenor vocal cramming words into fast verses and shouting the choruses with gang vocals, crowd whoa-oh chant in the bridge, 168 BPM, E major, fast bright punk with half-time drops before each chorus, two overdriven guitars with palm-muted power chords opening up, picked bass, fast punk drums with cracking snare, guitar feedback, bright tight loud mix, breathless, grateful, joyful",
+  "negativeTags": "female lead vocals, acoustic folk, banjo, synth pop, rap, slow ballad, country twang, orchestral strings",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "callBackUrl": "https://example.com/cb"
+}

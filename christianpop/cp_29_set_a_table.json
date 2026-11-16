@@ -1,0 +1,119 @@
+{
+  "id": "cp_29",
+  "title": "Set a Table",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 29,
+  "slug": "cp_29_set_a_table",
+  "inspiredBy": "I just need U. (TobyMac, 2018)",
+  "leadVoice": "Male, cool and rhythmic in the verses, nearly spoken. The pre-chorus and chorus go up into stacked falsetto. A group shouts the answers in the bridge. A talkbox doubles a few phrases.",
+  "model": "V6",
+  "style": "Modern nu-disco funk-pop, cool rhythmic nearly spoken male verses rising to stacked falsetto in the pre-chorus and chorus, group shouting answers in the bridge, talkbox doubling phrases, 112 BPM, F minor, sleek disco-funk strut, tight muted funk rhythm guitar, four-on-the-floor kick with open hi-hats, syncopated slap bass, disco strings, electric piano, handclaps, horn section in the last chorus, polished tight bright mix, calm, confident, joyful",
+  "negativeTags": "female lead vocals, acoustic folk, banjo, country twang, slow ballad, distorted rock guitar, trap hi-hats, dark mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: funky rhythm guitar, four-on-the-floor kick, talkbox lick]\n\n[Verse 1: cool male voice, rhythmic]\nBad news on the left, bad news on the right\nGroup chat's on fire, can't sleep at night\nEverybody's shouting, everybody's sure\nI'm just trying to make it to the door\n\n[Pre-Chorus: building, falsetto]\nThen right there in the middle of the mess\nSomebody pulled a chair out, said, \"Sit. Rest.\"\n\n[Chorus: full disco groove, strings, falsetto stacks]\nYou set a table (ooh) in the middle of it all\nCandles lit (ooh) with my back against the wall\nTrouble at the window, trouble at the gate\nYou just smile and you fill my plate\nMy cup's running over on the floor\nYou set a table. I'm not scared anymore.\n\n[Verse 2: voice lower, bass leading]\nOld song by a shepherd boy, three thousand years\nAbout a Shepherd walking with him through his fears\nThen the Shepherd came himself, in sandals and dust\nSet a table with his friends the night before the cross\n\n[Pre-Chorus: building, falsetto]\nBread and a cup and \"remember me\"\nAnd a seat with my name. I can't believe.\n\n[Chorus: full disco groove, strings, falsetto stacks]\nYou set a table (ooh) in the middle of it all\nCandles lit (ooh) with my back against the wall\nTrouble at the window, trouble at the gate\nYou just smile and you fill my plate\nMy cup's running over on the floor\nYou set a table. I'm not scared anymore.\n\n[Bridge: breakdown, bass and claps, chant]\nGoodness (following me!)\nMercy (following me!)\nAll my days (following me!)\nJesus (leading me!)\n\n[Final Chorus: everything in, horns on top]\nYou set a table (ooh) in the middle of it all\nCandles lit (ooh) with my back against the wall\nTrouble at the window, trouble at the gate\nYou just smile and you fill my plate\nMy cup's running over on the floor\nJesus set a table. I'm not scared anymore.\n\n[Outro: guitar, glasses clinking, laughter]",
+  "taskId": "96301af6b14f68885c3597b5c76c2a96",
+  "sunoClipIds": [
+    "947886d6-2dcb-43cb-bc8e-05e6ef3d1f3f",
+    "df9dd913-877d-43ee-aca6-5ea69b0cb881"
+  ],
+  "created": "Nov 16, 2026 12:08 PM ET",
+  "createTimeMs": 1794848881707,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "947886d6-2dcb-43cb-bc8e-05e6ef3d1f3f",
+      "durationSec": 208.76,
+      "file": "christianpop/cp_29_set_a_table_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "df9dd913-877d-43ee-aca6-5ea69b0cb881",
+      "durationSec": 209.72,
+      "file": "christianpop/cp_29_set_a_table_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_29_set_a_table_req.json",
+    "christianpop/cp_29_set_a_table_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_29_set_a_table.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, F minor. A sleek disco-funk strut that is impossible to sit still to.\n\nVOICE: Male, cool and rhythmic in the verses, nearly spoken. The pre-chorus and chorus go up into stacked falsetto. A group shouts the answers in the bridge. A talkbox doubles a few phrases.\n\nINSTRUMENTS: A tight, muted funk rhythm guitar, a four-on-the-floor kick with open hi-hats, a syncopated slap bass, disco strings, a talkbox lead, electric piano, handclaps, a horn section in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, guitar, kick and talkbox. 0:10 Verse 1. 0:28 Pre-chorus. 0:36 Chorus 1. 1:06 Verse 2, the shepherd. 1:24 Pre-chorus, the supper. 1:32 Chorus 2. 2:02 Bridge, chant. 2:20 Final chorus with horns. 2:50 Outro, guitar, glasses and laughter, ends 3:12.\n\nPRODUCTION & MIX: Modern nu-disco: polished, tight and bright, bass and kick locked, strings wide.\n\nSIGNATURE MOMENT: The bridge chant at 2:02, ending 'Jesus (leading me!)'.\n\nTHE REVEAL: Verse 1 and the first chorus are someone making a calm place in a chaotic day. Verse 2 at 1:06 points to Psalm 23 and then to the Last Supper, and the bridge finishes the psalm with the name.\n\nEMOTIONAL ARC: Frazzled, surprised, calm, dancing.",
+  "workbookAtAGlance": "Set a Table\n\nBackup titles\nIn the Middle of It All / My Cup's on the Floor\n\nAt a glance\n112 BPM, F minor\nVoice: Cool male voice with falsetto stacks\nLength: about 3 minutes 15",
+  "genre": "Disco",
+  "year": 2018,
+  "qa": {
+    "title": "Set a Table",
+    "id": "cp_29",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending",
+          "peak 0.07 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 208.8,
+        "measuredBpm": 114.8,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 2.5,
+        "lufs": -13.6,
+        "peakDbfs": 0.07,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 208.1,
+        "vocalCoverage": 0.666,
+        "vocalSpanSec": [
+          3.6,
+          189.5
+        ],
+        "vocalF0MedianHz": 312,
+        "vocalF0P25Hz": 233,
+        "lyricLineRecall": 0.824,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 209.7,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 0.3,
+        "lufs": -13.7,
+        "peakDbfs": -0.91,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 208.3,
+        "vocalCoverage": 0.727,
+        "vocalSpanSec": [
+          2.5,
+          190.6
+        ],
+        "vocalF0MedianHz": 372,
+        "vocalF0P25Hz": 234,
+        "lyricLineRecall": 0.971,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

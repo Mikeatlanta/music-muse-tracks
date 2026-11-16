@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Out Past the Buoys",
+  "prompt": "[Intro: slow synth swell, distant guitar notes, water]\n\n[Verse 1: airy female voice, very quiet]\nI learned to swim in the shallow end\nToes on the tile, one hand on the edge\nI liked a floor that I could feel\nI liked a wall. I liked a deal.\n\n[Verse 2: a little fuller, a soft pulse begins]\nThen you were standing where the water's dark\nPast the rope, past the last white mark\nYou didn't shout, you didn't wave\nYou just said my name, and \"come,\" and stayed\n\n[Chorus: wide and soaring, soft drums enter]\nSo I'm out past the buoys now\nOut where my feet can't find the ground\nEverything I trusted is back on the sand\nAll I've got is your voice and your hand\nMore afraid and more alive than I knew how\nOut past the buoys now\n\n[Verse 3: voice close again, guitar notes ringing]\nA fisherman did this, long before me\nClimbed out of a boat on a midnight sea\nHe walked till he looked at the wind instead\nWent under, reached, and you were there. You said\n\n[Bridge: slow build, layered voices, growing each line]\n\"Why did you doubt? I had you.\"\n\"Why did you doubt? I had you.\"\nI had you. I have you.\nI had you. I have you.\nJesus, you have me\n\n[Final Chorus: full drums, soaring, voices stacked]\nSo I'm out past the buoys now\nOut where my feet can't find the ground\nEverything I trusted is back on the sand\nAll I've got is your voice and your hand\nMore afraid and more alive than I knew how\nOut past the buoys now\n\n[Outro: synths fade into water, one breath]",
+  "style": "Cinematic dream pop slow-build anthem, young airy pure female soprano vocal with a lot of breath, murmured verses opening into a soaring chorus, voice layered into a crowd in the bridge, 66 BPM, D major, very slow and weightless, warm synth pads, delayed electric guitar single notes, soft sub-bass pulse, piano, toms and slow kick, full drums and cymbal swells only at the end, huge reverb, wide mix, awed, trusting, immense",
+  "negativeTags": "male lead vocals, fast tempo, distorted guitar, rap, banjo, country twang, dry mix, funk, trap hi-hats",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

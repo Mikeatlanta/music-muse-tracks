@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "In Your Handwriting",
+  "prompt": "[Intro: solo piano, slow rolling chords]\n\n[Verse 1: female alto, quiet and close]\nThere's a note in my locker from the seventh grade\nThere's a text I should've deleted, and I saved\nThere's a list in my own writing on the mirror in my head\nEvery line starts \"not enough,\" and that's the one I've read\n\n[Chorus: full voice, strings and soft choir]\nBut I found my name in your handwriting\nAnd it didn't say what theirs did\nIt said \"wanted,\" it said \"mine\"\nIt said \"worth it,\" underlined\nI keep reading it and crying\nMy name, in your handwriting\n\n[Verse 2: voice steadier, piano and cello]\nThey say you only wrote one time, in the dust, with your hand\nWhile a crowd held their stones and a woman couldn't stand\nWhatever it was you wrote there, every stone hit the ground\nAnd you told her what you're telling me right now\n\n[Chorus: full voice, strings and soft choir]\nAnd I found my name in your handwriting\nAnd it didn't say what theirs did\nIt said \"wanted,\" it said \"mine\"\nIt said \"worth it,\" underlined\nI keep reading it and crying\nMy name, in your handwriting\n\n[Bridge: builds from a whisper to a belt]\nAnd the hand that wrote it has a scar straight through\nSo I know what it cost you to write what you do\nJesus, write it deeper, write it where I'll see\nOver every other word they ever wrote on me\n\n[Final Chorus: biggest, choir and full band]\nI found my name in your handwriting\nAnd it didn't say what theirs did\nIt said \"wanted,\" it said \"mine\"\nIt said \"worth it,\" underlined\nI keep reading it and crying\nMy name, in your handwriting\n\n[Outro: piano alone, last line whispered]\nMy name. In your handwriting.",
+  "style": "Modern soul-pop piano ballad in 6/8, smoky low female alto vocal with a catch in it, almost whispered verses, full open choruses, a long climb to one belted line in the bridge and a whispered ending, 72 BPM, F major, slow rolling build, grand piano, cello, string section, soft deep drums from the second chorus, small choir, close warm natural mix, vulnerable, tender, overwhelming",
+  "negativeTags": "male lead vocals, electric guitar, drum machine, rap, fast tempo, EDM synths, country twang, auto-tune",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "cp_18",
+  "title": "The First to Call Me Son",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 18,
+  "slug": "cp_18_the_first_to_call_me_son",
+  "inspiredBy": "Good Good Father (Chris Tomlin, 2015)",
+  "leadVoice": "Male tenor, soft, warm and a little husky, in the style of 1960s soul sung quietly. He stays gentle until the bridge, where the voice thickens and nearly breaks. A small choir hums and then sings behind him.",
+  "model": "V6",
+  "style": "Retro soul lullaby in 6/8, soft warm slightly husky male tenor vocal in a quiet 1960s soul style, voice thickening and nearly breaking in the bridge, small choir humming then singing, 58 BPM, E-flat major, slow rocking sway, clean tremolo electric guitar arpeggios, Hammond organ, upright-style bass, brushed drums with rim click, a little piano, warm tape-soft mix, tender, healing, grateful",
+  "negativeTags": "female lead vocals, loud drums, synths, rap, distorted guitar, fast tempo, EDM, country twang",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: warm electric guitar arpeggios in six, soft organ]\n\n[Verse 1: gentle soulful male voice]\nI learned to tie a tie from a video\nLearned to shave from a guy at school\nSigned my own permission slips\nGot good at making do\n\nFather's Day I'd stay home sick\nNever knew what card to buy\nTold myself it didn't matter\nI'm pretty good at lies\n\n[Chorus: fuller, choir humming, tender]\nThen you were the first to call me son\nFirst to wait up, first to come\nYou knew my name before I had one\nAnd you say it like I've already won\nAll those years I thought I had none\nYou were the first to call me son\n\n[Verse 2: voice close, guitar and bass]\nSomebody taught me a prayer one night\nStarts with two words: \"Our Father\"\nI got as far as the second one\nAnd couldn't go any farther\n\n'Cause the one who made the mountains\nSent his only boy for me\nSo a kid with no one in the bleachers\nCould be family\n\n[Chorus: fuller, choir humming, tender]\nAnd you were the first to call me son\nFirst to wait up, first to come\nYou knew my name before I had one\nAnd you say it like I've already won\nAll those years I thought I had none\nYou were the first to call me son\n\n[Bridge: band swells, voice breaking]\nAbba. I'm still learning how to say it.\nJesus called you that in a garden, crying\nNow he's teaching me. I'm trying.\n\n[Final Chorus: full band and choir, then down to a hush]\nYou were the first to call me son\nFirst to wait up, first to come\nYou knew my name before I had one\nAnd you say it like I've already won\nAll those years I thought I had none\nYou were the first to call me son\n\n[Outro: guitar alone, whispered]\nOur Father...",
+  "taskId": "2362560f4b02a55d0b7beaf248343abb",
+  "sunoClipIds": [
+    "583f06bc-1191-4068-8bf5-aa68f2be50c3",
+    "415ca71e-d487-41f9-b260-fd51861360c6"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848838508,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "583f06bc-1191-4068-8bf5-aa68f2be50c3",
+      "durationSec": 234.76,
+      "file": "christianpop/cp_18_the_first_to_call_me_son_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "415ca71e-d487-41f9-b260-fd51861360c6",
+      "durationSec": 234.36,
+      "file": "christianpop/cp_18_the_first_to_call_me_son_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_18_the_first_to_call_me_son_req.json",
+    "christianpop/cp_18_the_first_to_call_me_son_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_18_the_first_to_call_me_son.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 58 BPM, 6/8, E-flat major. A slow, rocking soul lullaby.\n\nVOICE: Male tenor, soft, warm and a little husky, in the style of 1960s soul sung quietly. He stays gentle until the bridge, where the voice thickens and nearly breaks. A small choir hums and then sings behind him.\n\nINSTRUMENTS: Clean electric guitar playing arpeggios with tremolo, Hammond organ, upright-style bass, brushed drums with a soft rim click, a little piano, a choir of six voices.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and organ. 0:14 Verse 1. 0:58 Chorus 1. 1:36 Verse 2, the prayer. 2:18 Chorus 2. 2:52 Bridge. 3:10 Final chorus. 3:32 Outro, guitar and the whisper at 3:38.\n\nPRODUCTION & MIX: Retro soul recorded warmly: tremolo guitar, tape softness, the choir in the room, nothing bright.\n\nSIGNATURE MOMENT: 'I got as far as the second one and couldn't go any farther' at 1:48.\n\nTHE REVEAL: The first chorus could be about any man who stepped in. At 1:36 the prayer is the Lord's Prayer, the only boy is sent, and the bridge says Jesus used the same word, Abba, in Gethsemane.\n\nEMOTIONAL ARC: Guarded, undone, adopted, learning to say it.",
+  "workbookAtAGlance": "The First to Call Me Son\n\nBackup titles\nOur Father / Nobody in the Bleachers\n\nAt a glance\n58 BPM, E-flat major\nVoice: Gentle, soulful male tenor\nLength: about 3 minutes 40",
+  "genre": "Soul",
+  "year": 2015,
+  "qa": {
+    "title": "The First to Call Me Son",
+    "id": "cp_18",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.8,
+        "measuredBpm": 56.8,
+        "bpmFactor": 1,
+        "targetBpm": 58,
+        "bpmErrPct": 2.1,
+        "lufs": -14.1,
+        "peakDbfs": -0.07,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 233.2,
+        "vocalCoverage": 0.678,
+        "vocalSpanSec": [
+          17.0,
+          216.1
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 227,
+        "lyricLineRecall": 0.919,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.4,
+        "measuredBpm": 61.2,
+        "bpmFactor": 1,
+        "targetBpm": 58,
+        "bpmErrPct": 5.4,
+        "lufs": -14.2,
+        "peakDbfs": -0.95,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.9,
+        "contentEndSec": 232.5,
+        "vocalCoverage": 0.696,
+        "vocalSpanSec": [
+          17.8,
+          227.0
+        ],
+        "vocalF0MedianHz": 311,
+        "vocalF0P25Hz": 198,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Honest to God",
+  "prompt": "[Intro: one low piano note, distant choir pad, heartbeat kick]\n\n[Verse 1: low male voice, intimate]\n\"I'm good.\" \"Just tired.\" \"Busy week.\"\nYou've got a hundred ways to never speak\nYou smile on cue, you laugh on time\nYou've got everyone believing that you're fine\n\n[Pre-Chorus: female voice joins]\nAnd you're so worn out from holding the door\nAgainst everything you can't say anymore\n\n[Chorus: huge drums, strings, both voices]\nSo be honest to God\nIf you can't tell anybody else\nHonest to God\nHe's not shocked, he's not somewhere else\nSay the ugly part, say the part that scares you\nSay the thing you'd never say in prayer, too\nHe can take it. He's not fragile.\nBe honest to God\n\n[Verse 2: female voice, close]\nThere's a man in the gospels crying at a grave\nThere's a man in a garden begging for another way\nThere's a man on a cross saying, \"Why have you gone?\"\nIf Jesus prayed like that, then you can go on\n\n[Pre-Chorus: male voice joins]\nHe's not asking for the version that you post\nHe wants the one at three a.m. the most\n\n[Chorus: huge drums, strings, both voices]\nSo be honest to God\nIf you can't tell anybody else\nHonest to God\nHe's not shocked, he's not somewhere else\nSay the ugly part, say the part that scares you\nSay the thing you'd never say in prayer, too\nHe can take it. He's not fragile.\nBe honest to God\n\n[Bridge: piano only, whisper growing to a roar]\nI'm not okay. (Say it.)\nI'm angry. (Say it.)\nI'm scared. (Say it.)\nI'm here. (I know. Stay.)\n\n[Final Chorus: everything, then suddenly quiet]\nSo be honest to God\nIf you can't tell anybody else\nHonest to God\nHe's not shocked, he's not somewhere else\nSay the ugly part, say the part that scares you\nSay the thing you'd never say in prayer, too\nAnd he's honest back: you're loved.\nHonest to God\n\n[Outro: piano, one long breath out]",
+  "style": "Modern dark cinematic pop duet, low close gentle male voice on the first verse and clear steady female voice on the second, both at full strength in the choruses, whispered confessions answered softly in the bridge, 80 BPM, C minor ending on a major chord, slow and dramatic, low piano, deep heartbeat kick, cinematic toms and huge snare, string section, dark synth bass, wordless choir pad, wide dramatic mix, compassionate, intense, releasing",
+  "negativeTags": "banjo, country twang, funk, upbeat dance, rap, distorted rock guitars, cheerful mood, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

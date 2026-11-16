@@ -1,0 +1,116 @@
+{
+  "id": "cp_26",
+  "title": "Hole in the Roof",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 26,
+  "slug": "cp_26_hole_in_the_roof",
+  "inspiredBy": "Brother (NEEDTOBREATHE feat. Gavin DeGraw, 2015)",
+  "leadVoice": "Male baritone, raspy and warm, telling the story with relish. A gang of men sing every chorus with him, loud and a little ragged. The bridge is quieter and wondering.",
+  "model": "V6",
+  "style": "Mid-2010s Southern roots rock anthem, raspy warm male baritone vocal telling a story with relish, gang of men singing every chorus loud and a little ragged, quieter wondering bridge, 100 BPM, A major, rolling groove with a big swinging backbeat, slide guitar, floor-tom and kick groove with handclaps, overdriven rhythm guitar, bass, Hammond organ, pounding piano in the chorus, tambourine, warm live thick mix, loyal, bold, joyful",
+  "negativeTags": "female lead vocals, synths, drum machine, rap, trap hi-hats, EDM, slow piano ballad, auto-tune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: slide guitar, floor-tom groove, handclaps]\n\n[Verse 1: raspy male voice, storytelling]\nDanny couldn't walk since the accident in June\nWe heard a man was in town, said he might be leaving soon\nHouse was packed out to the street, couldn't get in the door\nSo Marcus looked at me and said, \"What's a roof for?\"\n\n[Chorus: gang vocals, full band, anthemic]\nWe cut a hole in the roof\nFour friends and a rope and a mat\nDust coming down on the good people's heads\nWe weren't sorry about that\nWhen a friend can't get there on his own\nYou carry him, you make a way through\nYou don't knock, you don't wait, you don't ask\nYou cut a hole in the roof\n\n[Verse 2: voice lower, band holding back]\nWe lowered him down in the middle of the room\nRight at the feet of Jesus, in the quiet, in the gloom\nHe looked up at us four, sweating, through the beams\nThen down at Danny, smiling: \"Son, you're forgiven. You're free.\"\n\n[Chorus: gang vocals, full band, anthemic]\nWe cut a hole in the roof\nFour friends and a rope and a mat\nDust coming down on the good people's heads\nWe weren't sorry about that\nWhen a friend can't get there on his own\nYou carry him, you make a way through\nYou don't knock, you don't wait, you don't ask\nYou cut a hole in the roof\n\n[Bridge: half-time, organ, building]\nThen he said, \"Get up,\" and Danny did\nWalked out the front door carrying his bed\nI've been the one on the mat since then\nAnd I've had friends on the rope. Amen.\n\n[Final Chorus: loudest, everyone]\nSo we'll cut a hole in the roof\nFour friends and a rope and a mat\nIf you can't get to him on your own\nWe will carry you. Count on that.\nWhen a friend can't get there by himself\nYou carry him, you make a way through\nYou don't knock, you don't wait, you don't ask\nYou cut a hole in the roof\n\n[Outro: slide guitar, hammering, laughter]",
+  "taskId": "924ad24446cec974e261b0156d227b3b",
+  "sunoClipIds": [
+    "58c6aa97-c019-435d-8e81-ba2b3b1a5c38",
+    "a51bc7b6-2793-4043-898e-d15cc1bfd3fa"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848870191,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "58c6aa97-c019-435d-8e81-ba2b3b1a5c38",
+      "durationSec": 214.16,
+      "file": "christianpop/cp_26_hole_in_the_roof_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a51bc7b6-2793-4043-898e-d15cc1bfd3fa",
+      "durationSec": 214.32,
+      "file": "christianpop/cp_26_hole_in_the_roof_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_26_hole_in_the_roof_req.json",
+    "christianpop/cp_26_hole_in_the_roof_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_26_hole_in_the_roof.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 100 BPM, 4/4, A major. A rolling Southern roots-rock groove with a big, swinging backbeat.\n\nVOICE: Male baritone, raspy and warm, telling the story with relish. A gang of men sing every chorus with him, loud and a little ragged. The bridge is quieter and wondering.\n\nINSTRUMENTS: Slide guitar, a floor-tom and kick groove with handclaps, overdriven rhythm guitar, bass, Hammond organ, piano pounding eighth notes in the chorus, tambourine, a banjo low in the mix.\n\nARRANGEMENT MAP: 0:00 Intro, slide guitar and toms. 0:12 Verse 1. 0:38 Chorus 1. 1:06 Verse 2, the room below. 1:34 Chorus 2. 2:02 Bridge, half-time. 2:26 Final chorus. 2:56 Outro, slide guitar, hammering and laughter, ends 3:16.\n\nPRODUCTION & MIX: Mid-2010s Southern rock: warm, live, guitars and organ thick, gang vocals wide.\n\nSIGNATURE MOMENT: '\"What's a roof for?\"' at 0:34, straight into the gang chorus.\n\nTHE REVEAL: Verse 1 and the first chorus are four friends doing something reckless for a fifth. Verse 2 at 1:06 puts Jesus in the room below, in the words of Mark chapter 2, and the bridge has the man walk out.\n\nEMOTIONAL ARC: Determined, daring, astonished, sworn to each other.",
+  "workbookAtAGlance": "Hole in the Roof\n\nBackup titles\nWhat's a Roof For / Four Friends and a Rope\n\nAt a glance\n100 BPM, A major\nVoice: Raspy male baritone with gang vocals\nLength: about 3 minutes 20",
+  "genre": "Roots Rock",
+  "year": 2015,
+  "qa": {
+    "title": "Hole in the Roof",
+    "id": "cp_26",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.2,
+        "measuredBpm": 100.3,
+        "bpmFactor": 1,
+        "targetBpm": 100,
+        "bpmErrPct": 0.3,
+        "lufs": -12.7,
+        "peakDbfs": -0.05,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 211.9,
+        "vocalCoverage": 0.532,
+        "vocalSpanSec": [
+          4.9,
+          210.1
+        ],
+        "vocalF0MedianHz": 261,
+        "vocalF0P25Hz": 221,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.41 dBFS (4 clipped sample, inaudible)"
+        ],
+        "durationSec": 214.3,
+        "measuredBpm": 100.3,
+        "bpmFactor": 1,
+        "targetBpm": 100,
+        "bpmErrPct": 0.3,
+        "lufs": -13.2,
+        "peakDbfs": 0.41,
+        "clipSamples": 4,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 212.3,
+        "vocalCoverage": 0.548,
+        "vocalSpanSec": [
+          19.1,
+          204.4
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 249,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

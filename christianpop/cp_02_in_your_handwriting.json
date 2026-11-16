@@ -1,0 +1,114 @@
+{
+  "id": "cp_02",
+  "title": "In Your Handwriting",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 2,
+  "slug": "cp_02_in_your_handwriting",
+  "inspiredBy": "You Say (Lauren Daigle, 2018)",
+  "leadVoice": "Female alto, smoky and low, with a catch in it. Almost whispered in verse 1, full and open in the choruses, a long climb through the bridge to one belted line, then a whisper to finish.",
+  "model": "V6",
+  "style": "Modern soul-pop piano ballad in 6/8, smoky low female alto vocal with a catch in it, almost whispered verses, full open choruses, a long climb to one belted line in the bridge and a whispered ending, 72 BPM, F major, slow rolling build, grand piano, cello, string section, soft deep drums from the second chorus, small choir, close warm natural mix, vulnerable, tender, overwhelming",
+  "negativeTags": "male lead vocals, electric guitar, drum machine, rap, fast tempo, EDM synths, country twang, auto-tune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: solo piano, slow rolling chords]\n\n[Verse 1: female alto, quiet and close]\nThere's a note in my locker from the seventh grade\nThere's a text I should've deleted, and I saved\nThere's a list in my own writing on the mirror in my head\nEvery line starts \"not enough,\" and that's the one I've read\n\n[Chorus: full voice, strings and soft choir]\nBut I found my name in your handwriting\nAnd it didn't say what theirs did\nIt said \"wanted,\" it said \"mine\"\nIt said \"worth it,\" underlined\nI keep reading it and crying\nMy name, in your handwriting\n\n[Verse 2: voice steadier, piano and cello]\nThey say you only wrote one time, in the dust, with your hand\nWhile a crowd held their stones and a woman couldn't stand\nWhatever it was you wrote there, every stone hit the ground\nAnd you told her what you're telling me right now\n\n[Chorus: full voice, strings and soft choir]\nAnd I found my name in your handwriting\nAnd it didn't say what theirs did\nIt said \"wanted,\" it said \"mine\"\nIt said \"worth it,\" underlined\nI keep reading it and crying\nMy name, in your handwriting\n\n[Bridge: builds from a whisper to a belt]\nAnd the hand that wrote it has a scar straight through\nSo I know what it cost you to write what you do\nJesus, write it deeper, write it where I'll see\nOver every other word they ever wrote on me\n\n[Final Chorus: biggest, choir and full band]\nI found my name in your handwriting\nAnd it didn't say what theirs did\nIt said \"wanted,\" it said \"mine\"\nIt said \"worth it,\" underlined\nI keep reading it and crying\nMy name, in your handwriting\n\n[Outro: piano alone, last line whispered]\nMy name. In your handwriting.",
+  "taskId": "1c725f535eabc417ca9200a6ad57624a",
+  "sunoClipIds": [
+    "1342e00e-a503-4cba-914f-63f604f13629",
+    "7583116c-1e9e-4817-81be-8c85cf95bcaf"
+  ],
+  "created": "Nov 16, 2026 12:06 PM ET",
+  "createTimeMs": 1794848770276,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "1342e00e-a503-4cba-914f-63f604f13629",
+      "durationSec": 234.56,
+      "file": "christianpop/cp_02_in_your_handwriting_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "7583116c-1e9e-4817-81be-8c85cf95bcaf",
+      "durationSec": 234.84,
+      "file": "christianpop/cp_02_in_your_handwriting_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_02_in_your_handwriting_req.json",
+    "christianpop/cp_02_in_your_handwriting_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_02_in_your_handwriting.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 72 BPM, 6/8, F major. A slow, rolling ballad that grows from one piano to a full room.\n\nVOICE: Female alto, smoky and low, with a catch in it. Almost whispered in verse 1, full and open in the choruses, a long climb through the bridge to one belted line, then a whisper to finish.\n\nINSTRUMENTS: Grand piano throughout, cello from verse 2, a string section in the choruses, soft timpani-like drums and a deep kick from the second chorus, a small choir humming and then singing, bass.\n\nARRANGEMENT MAP: 0:00 Intro piano. 0:14 Verse 1. 0:50 Chorus 1. 1:22 Verse 2, the dust. 1:58 Chorus 2. 2:30 Bridge, whisper to belt. 2:58 Final chorus. 3:26 Outro, piano and a whisper, ends 3:40.\n\nPRODUCTION & MIX: Modern soul-pop ballad: piano and voice very close, strings wide, plenty of natural room.\n\nSIGNATURE MOMENT: The belted 'Jesus, write it deeper' at 2:46.\n\nTHE REVEAL: For the first eighty seconds 'you' could be a parent, a partner or a teacher. Verse 2 at 1:22 is John chapter 8, the woman and the stones. The bridge names Jesus and the scar in his hand.\n\nEMOTIONAL ARC: Shame, disbelief, recognition, held.",
+  "workbookAtAGlance": "In Your Handwriting\n\nBackup titles\nWanted, Underlined / The Hand That Wrote It\n\nAt a glance\n72 BPM, F major\nVoice: Smoky female alto, quiet to full\nLength: about 3 minutes 40",
+  "genre": "Soul",
+  "year": 2018,
+  "qa": {
+    "title": "In Your Handwriting",
+    "id": "cp_02",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.6,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1,
+        "targetBpm": 72,
+        "bpmErrPct": 5.6,
+        "lufs": -15.1,
+        "peakDbfs": -1.06,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 232.8,
+        "vocalCoverage": 0.653,
+        "vocalSpanSec": [
+          15.9,
+          220.8
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.9,
+        "measuredBpm": 67.6,
+        "bpmFactor": 1,
+        "targetBpm": 72,
+        "bpmErrPct": 6.2,
+        "lufs": -14.7,
+        "peakDbfs": -1.6,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 232.5,
+        "vocalCoverage": 0.693,
+        "vocalSpanSec": [
+          15.5,
+          223.1
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.968,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

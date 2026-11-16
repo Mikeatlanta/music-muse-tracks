@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Who Does That",
+  "prompt": "[Intro: acoustic guitar strum, whistled riff]\n\n[Verse 1: earnest male voice, guitar only]\nWho pays the bill for the table that mocked him?\nWho gives his coat to the fella that robbed him?\nWho hears his name get dragged through the dirt\nAnd says, \"Put it on mine. Whatever it's worth.\"\n\n[Pre-Chorus: building, snare roll]\nI've known good people, I've known kind\nI never knew one who'd cross that line\n\n[Chorus: the drop, synth lead doubles the whistle]\nWho does that? (Who does that?)\nWho trades a throne for a hill and a tree?\nWho does that? (Who does that?)\nWho had it all and spent it on me?\nNobody I know, nobody I've met\nWho does that?\n\n[Verse 2: voice and guitar, kick drum under]\nKing of everything, born in a barn\nWashed twelve pairs of feet with his own two arms\nCould've called down fire, called it a day\nCalled out \"Father, forgive them\" instead, and stayed\n\n[Pre-Chorus: building, snare roll]\nI know his name now, I'll say it loud\nOnly one man in the whole wide crowd\n\n[Chorus: the drop, crowd answers]\nJesus does that! (Jesus does that!)\nHe traded a throne for a hill and a tree\nJesus does that! (Jesus does that!)\nHe had it all and he spent it on me\nNobody else, nobody yet\nJesus does that\n\n[Bridge: breakdown, handclaps, voices together]\nI can't earn it, I can't pay it back\nI can only stand here saying\nWho does that?\n\n[Final Chorus: biggest drop, everyone]\nJesus does that! (Jesus does that!)\nHe traded a throne for a hill and a tree\nJesus does that! (Jesus does that!)\nHe had it all and he spent it on me\nNobody else, nobody yet\nJesus does that\n\n[Outro: whistled riff alone]",
+  "style": "Early-2010s folk-EDM anthem, clear high sincere male tenor vocal, intimate guitar-only verses, crowd shouting the chorus question back, 126 BPM, G major, acoustic verses building to a festival drop, strummed acoustic guitar, whistled riff, four-on-the-floor kick, bright sawtooth synth lead doubling the whistle, sidechained pads, snare rolls into each drop, handclaps, piano in the bridge, warm then wide and pumping, amazed, joyful, uplifting",
+  "negativeTags": "female lead vocals, rap, slow ballad, distorted rock guitar, country twang, trap hi-hats, dark mood, jazz",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

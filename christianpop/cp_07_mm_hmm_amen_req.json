@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Mm-Hmm (Amen)",
+  "prompt": "[Intro: nylon guitar loop, vinyl crackle, soft humming]\n\n[Chorus: sung, laid-back, group hum]\nMm-hmm, mm-hmm\nMy life's a mess, but mm-hmm\nBills on the table, rain on the roof\nStill got a reason, still got proof\nMm-hmm, mm-hmm\n\n[Verse 1: relaxed male rap, conversational]\nWoke up late, coffee tastes like regret\nCheck engine light's my longest relationship yet\nBoss wants more and my knees want less\nMama on the phone asking, \"Baby, are you blessed?\"\nI say, \"Mama, I'm tired.\" She says, \"That ain't what I asked.\"\nI laugh 'cause she's right, and I hate that\nThere's a hum underneath all the noise of the day\nBeen there since a Sunday I can't shake\n\n[Chorus: sung, laid-back, group hum]\nMm-hmm, mm-hmm\nMy life's a mess, but mm-hmm\nBills on the table, rain on the roof\nStill got a reason, still got proof\nMm-hmm, mm-hmm\n\n[Verse 2: rap, warmer, beat fuller]\nLet me tell you where the hum comes from, real quick\nThirty-three years old, friends all split\nHung between two thieves on a hill outside town\nSaid \"forgive them\" while they gambled for his coat on the ground\nThree days later, garden, early light\nA woman thought he was the gardener. She was kind of right.\nHe's been growing something in me ever since\nIn the cracks, in the mess, in the dents\n\n[Chorus: sung, the hum becomes the word]\nAmen, amen\nMy life's a mess, but amen\nBills on the table, rain on the roof\nStill got a reason, he's my proof\nAmen, amen\n\n[Bridge: guitar loop only, spoken]\nI ain't saying it's easy\nI'm saying I ain't alone\nMm-hmm\n\n[Final Chorus: whole group, handclaps]\nAmen, amen\nMy life's a mess, but amen\nBills on the table, rain on the roof\nStill got a reason, Jesus is proof\nAmen, amen\n\n[Outro: guitar loop, humming, a laugh, spoken]\nTell Mama I said yes.",
+  "style": "Early-2000s Southern hip-hop with a lo-fi finish, soft-voiced conversational unforced male rap verses, hook sung by a small mixed group first hummed then singing amen, 92 BPM with a lazy swing, A minor, laid-back warm head-nod groove, looped nylon-string guitar figure, dusty boom-bap drum break, round bass, vinyl crackle, Rhodes electric piano, handclaps in the last chorus, warm dusty mix, honest, easygoing, hopeful",
+  "negativeTags": "aggressive rap, trap 808s, auto-tune, rock guitars, EDM synths, fast tempo, operatic vocals, country twang",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

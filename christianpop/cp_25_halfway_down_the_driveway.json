@@ -1,0 +1,118 @@
+{
+  "id": "cp_25",
+  "title": "Halfway Down the Driveway",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 25,
+  "slug": "cp_25_halfway_down_the_driveway",
+  "inspiredBy": "The Prodigal (Josiah Queen, 2024)",
+  "leadVoice": "Young male tenor, nasal, earnest and slightly strained, in the style of early-2000s pop-punk. He crams the verse words in quickly and shouts the choruses with a gang behind him. An older man speaks the last line.",
+  "model": "V6",
+  "style": "2003-style pop-punk, nasal earnest slightly strained young male tenor vocal cramming words into fast verses and shouting the choruses with gang vocals, crowd whoa-oh chant in the bridge, 168 BPM, E major, fast bright punk with half-time drops before each chorus, two overdriven guitars with palm-muted power chords opening up, picked bass, fast punk drums with cracking snare, guitar feedback, bright tight loud mix, breathless, grateful, joyful",
+  "negativeTags": "female lead vocals, acoustic folk, banjo, synth pop, rap, slow ballad, country twang, orchestral strings",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: palm-muted power chords, fast hi-hat count-in]\n\n[Verse 1: earnest young male voice, fast]\nTook the cash, took the car, said some things I can't take back\nTold my dad he was dead to me, and I didn't even pack\nEighteen months of other people's couches, other people's fun\nWoke up broke behind a diner, eating scraps. I was done.\n\n[Pre-Chorus: half-time, building]\nSo I wrote a speech on a napkin, walking home\n\"I'm not your son. Just let me mow the lawn.\"\n\n[Chorus: explosive, shouted melody, gang vocals]\nAnd I was halfway down the driveway\nWith my speech in my hand\nWhen the screen door blew wide open\nAnd I saw my old man run\nHe never ran for anything, bad knee and all\nHalfway down the driveway\nHe didn't let me finish. He didn't let me fall.\n\n[Verse 2: fast, guitars wide open]\nPut his jacket on my shoulders, yelled, \"Fire up the grill!\"\nCalled the neighbors, called the cousins, I was standing there still\nMy brother's in the garage, mad, and honestly, that's fair\nBut Dad just keeps on saying, \"He was gone. He's here. He's here.\"\n\n[Pre-Chorus: half-time, building]\nSomebody told that story two thousand years ago\nTo show us what his Father's like. Now I know.\n\n[Chorus: explosive, shouted melody, gang vocals]\nAnd I was halfway down the driveway\nWith my speech in my hand\nWhen the screen door blew wide open\nAnd I saw my old man run\nHe never ran for anything, bad knee and all\nHalfway down the driveway\nHe didn't let me finish. He didn't let me fall.\n\n[Bridge: half-time, crowd chant]\nWhoa-oh, I had a speech\nWhoa-oh, he had a feast\nJesus said that's how God sees me\nRunning, running, running to me\n\n[Final Chorus: fastest and loudest]\nAnd I was halfway down the driveway\nWith my speech in my hand\nWhen the screen door blew wide open\nAnd I saw my Father run\nHe never stopped watching that road, not once\nHalfway down the driveway\nHe didn't let me finish. He didn't let me fall.\n\n[Outro: feedback, a screen door slam, spoken]\nWelcome home, kid.",
+  "taskId": "e823c38df54600fa9bd2f675f2e0bfb1",
+  "sunoClipIds": [
+    "3faccd77-402f-4fe4-9745-c94130480e85",
+    "00fa1a02-8dad-4ed8-9966-32c2e513d322"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848866418,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "3faccd77-402f-4fe4-9745-c94130480e85",
+      "durationSec": 184.12,
+      "file": "christianpop/cp_25_halfway_down_the_driveway_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "00fa1a02-8dad-4ed8-9966-32c2e513d322",
+      "durationSec": 183.8,
+      "file": "christianpop/cp_25_halfway_down_the_driveway_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_25_halfway_down_the_driveway_req.json",
+    "christianpop/cp_25_halfway_down_the_driveway_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_25_halfway_down_the_driveway.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 168 BPM, 4/4, E major. Fast, bright pop-punk with half-time drops before each chorus.\n\nVOICE: Young male tenor, nasal, earnest and slightly strained, in the style of early-2000s pop-punk. He crams the verse words in quickly and shouts the choruses with a gang behind him. An older man speaks the last line.\n\nINSTRUMENTS: Two overdriven guitars playing palm-muted power chords that open up in the chorus, a picked bass following the guitars, fast punk drums with a cracking snare, gang vocals, a little guitar feedback.\n\nARRANGEMENT MAP: 0:00 Intro, muted chords and count-in. 0:08 Verse 1. 0:30 Pre-chorus, half-time. 0:40 Chorus 1. 1:02 Verse 2. 1:24 Pre-chorus, the old story. 1:34 Chorus 2. 1:56 Bridge, crowd chant. 2:16 Final chorus. 2:40 Outro, feedback, a door slam and the spoken line at 2:46.\n\nPRODUCTION & MIX: 2003-style pop-punk: bright, tight, loud guitars panned wide, vocals doubled, nothing subtle.\n\nSIGNATURE MOMENT: 'And I saw my old man run' at 0:48.\n\nTHE REVEAL: Until 1:24 it is a present-day boy coming home to his dad. The second pre-chorus says the story is two thousand years old and whose Father it describes; the bridge names Jesus as the teller, and the last chorus capitalises 'Father'.\n\nEMOTIONAL ARC: Ashamed, rehearsing, overwhelmed, home.",
+  "workbookAtAGlance": "Halfway Down the Driveway\n\nBackup titles\nDad Ran / I Had a Speech\n\nAt a glance\n168 BPM, E major\nVoice: Earnest young male tenor\nLength: about 2 minutes 50",
+  "genre": "Pop-Punk",
+  "year": 2024,
+  "qa": {
+    "title": "Halfway Down the Driveway",
+    "id": "cp_25",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 191 BPM vs 168 target (~14% off)"
+        ],
+        "durationSec": 184.1,
+        "measuredBpm": 191.4,
+        "bpmFactor": 1,
+        "targetBpm": 168,
+        "bpmErrPct": 13.9,
+        "lufs": -14.0,
+        "peakDbfs": -0.4,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 183.8,
+        "vocalCoverage": 0.909,
+        "vocalSpanSec": [
+          0.8,
+          183.8
+        ],
+        "vocalF0MedianHz": 333,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.921,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 195 BPM vs 168 target (~16% off)"
+        ],
+        "durationSec": 183.8,
+        "measuredBpm": 195.0,
+        "bpmFactor": 1,
+        "targetBpm": 168,
+        "bpmErrPct": 16.1,
+        "lufs": -14.1,
+        "peakDbfs": -1.38,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 183.6,
+        "vocalCoverage": 0.856,
+        "vocalSpanSec": [
+          0.4,
+          183.0
+        ],
+        "vocalF0MedianHz": 331,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.947,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

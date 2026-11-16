@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Running Out of Fingers",
+  "prompt": "[Intro: tin whistle melody, frame drum, acoustic guitar]\n\n[Verse 1: clear female voice, bright]\nMy grandmother counted on her fingers every night\nBefore she'd lay her head down, before she'd dim the light\nOne for the bread, and two for the roof\nThree for the neighbours, and four for the truth\n\n[Chorus: group voices, fiddle, stomping]\nAnd I'm running out of fingers\nI'm running out of hands\nCounting up the good you've done\nIs more than one girl can\nLend me yours, lend me the stars\nLend me every grain of sand\nI'm running out of fingers\nAnd I'm only where I began\n\n[Verse 2: voice softer, whistle answering]\nOne for a manger, a baby in the hay\nTwo for a blind man who saw his first day\nThree for a table where the traitor got fed\nFour for a Friday, and the last thing he said\n\n[Chorus: group voices, fiddle, stomping]\nAnd I'm running out of fingers\nI'm running out of hands\nCounting up the good you've done\nIs more than one girl can\nLend me yours, lend me the stars\nLend me every grain of sand\nI'm running out of fingers\nAnd I'm only where I began\n\n[Verse 3: voice lifting, band full]\nFive for a Sunday and a stone rolled wide\nSix for a breakfast on the waterside\nSeven for the day that he calls me home\nI'll start again there, with a new set of my own\n\n[Instrumental: whistle and fiddle reel, handclaps]\n\n[Bridge: voices alone, hushed then growing]\nMorning, I'll count. Noon, I'll count.\nWhen my voice is gone and I can't get it out\nMy soul will count\n\n[Final Chorus: everyone, loudest]\nJesus, I'm running out of fingers\nI'm running out of hands\nCounting up the good you've done\nIs more than one girl can\nLend me yours, lend me the stars\nLend me every grain of sand\nI'm running out of fingers\nAnd I'm only where I began\n\n[Outro: whistle alone, one voice]\nOne for the bread...",
+  "style": "Celtic folk-pop jig in 6/8, clear unadorned female vocal with a slight lilt, group of men women and children joining every chorus in unison and simple harmony, voices-only bridge, 112 BPM, D major, lilting and light, tin whistle melody, fiddle, frame drum, open-tuned acoustic guitar, mandolin, accordion drone, upright bass, stomps and handclaps, whistle and fiddle reel, bright woody room sound, thankful, warm, joyful",
+  "negativeTags": "male lead vocals, synths, drum machine, electric guitar, rap, trap hi-hats, slow piano ballad, auto-tune",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "cp_06",
+  "title": "One Short of a Hundred",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 6,
+  "slug": "cp_06_one_short_of_a_hundred",
+  "inspiredBy": "Reckless Love (Cory Asbury, 2017)",
+  "leadVoice": "Male tenor, raspy and earnest, pushing hard in the choruses. A gang of men and women shout-sing every chorus with him. The bridge climbs until he is nearly yelling. The last line is alone and quiet.",
+  "model": "V6",
+  "style": "Early-2010s stomp-and-holler folk rock, raspy earnest male tenor vocal pushing hard in the choruses, gang of men and women shout-singing every chorus, bridge climbing to a near yell, quiet solo last line, 96 BPM, G major, stomping march that grows from one guitar to a crowd, strummed acoustic guitar, kick drum on every beat, banjo, upright bass, floor toms and tambourine, mandolin, trumpet in the last chorus, stomps and handclaps, loud roomy acoustic mix, grateful, urgent, joyful",
+  "negativeTags": "female lead vocals, synths, drum machine, electric guitar distortion, rap, auto-tune, trap hi-hats, slow piano ballad",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: lone acoustic guitar, kick drum on every beat]\n\n[Verse 1: raspy male voice, urgent]\nI wandered off on a Tuesday, nobody saw me go\nThought I'd find a better field, a higher hill, I don't know\nBy dark I was down in a gully with my leg caught in the thorns\nThinking nobody counts that close. Nobody comes this far.\n\n[Chorus: banjo, stomps, gang vocals]\nBut you were one short of a hundred\nAnd you wouldn't call it close enough\nLeft the whole flock on the hillside\nCame down through the rocks and the rough\nNinety-nine were safe and sleeping\nAnd you came after one\nOne short of a hundred\nAnd I'm the one\n\n[Verse 2: voice closer, band holding back]\nI heard you before I saw you, calling out my name\nNot \"where have you been,\" not \"you ought to be ashamed\"\nYou got down in the ditch with me, tore your hands on the vine\nPut me up on your shoulders like I was some great find\n\n[Chorus: banjo, stomps, gang vocals]\n'Cause you were one short of a hundred\nAnd you wouldn't call it close enough\nLeft the whole flock on the hillside\nCame down through the rocks and the rough\nNinety-nine were safe and sleeping\nAnd you came after one\nOne short of a hundred\nAnd I'm the one\n\n[Bridge: building, everyone shouting by the end]\nAnd the story goes you sang the whole way home\nCalled the neighbors, threw a party, 'cause the one was not alone\nGood Shepherd, that's the name you gave yourself\nLaid your life down for the sheep. Jesus, no one else.\n\n[Final Chorus: full band, loudest]\nYou were one short of a hundred\nAnd you wouldn't call it close enough\nLeft the whole flock on the hillside\nCame down through the rocks and the rough\nNinety-nine were safe and sleeping\nAnd you came after one\nOne short of a hundred\nAnd I'm the one\n\n[Outro: stomps fade, one voice alone]\nAnd I'm the one.",
+  "taskId": "888b3ef9d774d3a819c23ada9b0256b5",
+  "sunoClipIds": [
+    "f51cce46-143a-443d-851c-f564b720b8e4",
+    "c54848c2-155b-420e-85f2-7395b1c8f29b"
+  ],
+  "created": "Nov 16, 2026 12:06 PM ET",
+  "createTimeMs": 1794848785491,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f51cce46-143a-443d-851c-f564b720b8e4",
+      "durationSec": 221.16,
+      "file": "christianpop/cp_06_one_short_of_a_hundred_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c54848c2-155b-420e-85f2-7395b1c8f29b",
+      "durationSec": 223.96,
+      "file": "christianpop/cp_06_one_short_of_a_hundred_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_06_one_short_of_a_hundred_req.json",
+    "christianpop/cp_06_one_short_of_a_hundred_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_06_one_short_of_a_hundred.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4, G major. A stomping folk-rock march that starts with one guitar and ends with a crowd.\n\nVOICE: Male tenor, raspy and earnest, pushing hard in the choruses. A gang of men and women shout-sing every chorus with him. The bridge climbs until he is nearly yelling. The last line is alone and quiet.\n\nINSTRUMENTS: Strummed acoustic guitar, a kick drum on every beat, banjo, upright bass, floor toms and tambourine, mandolin, a trumpet line in the last chorus, foot stomps and handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and kick. 0:10 Verse 1. 0:44 Chorus 1 with the gang. 1:16 Verse 2. 1:46 Chorus 2. 2:16 Bridge, building. 2:44 Final chorus. 3:16 Outro, stomps fade, the solo line at 3:24.\n\nPRODUCTION & MIX: Early-2010s stomp-and-holler folk rock: acoustic, loud, roomy, voices slightly ragged on purpose.\n\nSIGNATURE MOMENT: The gang entering on 'one short of a hundred' at 0:44.\n\nTHE REVEAL: Verse 1 is someone lost in the dark. The first chorus at 0:44 brings in a flock and a hundred, which churchgoers will know at once; for everyone else the bridge at 2:16 says 'Good Shepherd' and the name.\n\nEMOTIONAL ARC: Lost, found, carried, celebrated.",
+  "workbookAtAGlance": "One Short of a Hundred\n\nBackup titles\nAnd I'm the One / Nobody Comes This Far\n\nAt a glance\n96 BPM, G major\nVoice: Raspy male tenor with gang vocals\nLength: about 3 minutes 30",
+  "genre": "Folk Rock",
+  "year": 2017,
+  "qa": {
+    "title": "One Short of a Hundred",
+    "id": "cp_06",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)"
+        ],
+        "durationSec": 221.2,
+        "measuredBpm": 95.7,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 0.3,
+        "lufs": -13.7,
+        "peakDbfs": -0.17,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.0,
+        "contentEndSec": 221.2,
+        "vocalCoverage": 0.626,
+        "vocalSpanSec": [
+          10.9,
+          221.2
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.973,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 107 BPM vs 96 target (~11% off)"
+        ],
+        "durationSec": 224.0,
+        "measuredBpm": 106.6,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 11.0,
+        "lufs": -13.6,
+        "peakDbfs": -0.2,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 223.4,
+        "vocalCoverage": 0.622,
+        "vocalSpanSec": [
+          13.1,
+          216.6
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 224,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

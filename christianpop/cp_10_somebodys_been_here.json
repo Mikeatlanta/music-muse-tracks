@@ -1,0 +1,118 @@
+{
+  "id": "cp_10",
+  "title": "Somebody's Been Here",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 10,
+  "slug": "cp_10_somebodys_been_here",
+  "inspiredBy": "Way Maker (Leeland, 2019)",
+  "leadVoice": "A woman leads verse 1, bright and smiling; a man with a warm tenor leads verse 2. A group sings the answers in parentheses and the choruses, in the open harmonies of African church choirs. The bridge is a chant over drums.",
+  "model": "V6",
+  "style": "Modern Afropop with highlife guitars, bright smiling female lead on the first verse and warm male tenor on the second, group singing call-and-response answers and choruses in open African choir harmonies, chant over drums in the bridge, 104 BPM, G major, sunny rolling groove, two interlocking clean electric guitars, shaker, log drum and congas, soft kick on every beat, singing bass guitar, bright keyboard, handclaps, clean warm mix, joyful, grateful, danceable",
+  "negativeTags": "distorted guitar, slow ballad, country twang, trap hi-hats, EDM drop, orchestral strings, sad mood, screaming",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bright highlife guitar line, shaker, log drum]\n\n[Verse 1: joyful female voice, lilting]\nI came to the river and the bridge was built\nCame to the table and the cup was filled\nCame to the door I was scared to try\nOpen already, with a light inside\n\n[Chorus: group voices, call and response, dancing]\nSomebody's been here (been here before me)\nSomebody's been here (clearing the road)\nI didn't see you, I didn't hear you\nBut I know your work when I see it, oh\nEvery place I'm going, you already know\nSomebody's been here\n\n[Verse 2: male voice, same lilt]\nI came to the grave I was sure would win\nStone rolled back and nobody in\nFolded cloth where the body lay\nAnd a gardener asking why I cry today\n\n[Pre-Chorus: both voices, rising]\nIt was you, it was you, all along\nJesus, going on ahead of me, making it home\n\n[Chorus: group voices, call and response, dancing]\nSomebody's been here (been here before me)\nSomebody's been here (clearing the road)\nI didn't see you, I didn't hear you\nBut I know your work when I see it, oh\nEvery place I'm going, you already know\nSomebody's been here\n\n[Bridge: drums and voices, chant, building]\nNight shift, day shift, you don't sleep\nWhile I was resting, you were up for me\nAhead of me (Jesus), behind me (Jesus)\nBeside me (Jesus), inside me (Jesus)\n\n[Final Chorus: everyone, guitars dancing on top]\nSomebody's been here (been here before me)\nSomebody's been here (clearing the road)\nI didn't see you, I didn't hear you\nBut I know your work when I see it, oh\nEvery place I'm going, you already know\nSomebody's been here\n\n[Outro: guitar line, laughter, shaker]",
+  "taskId": "98367eec4972d504b87805b6d4f5c801",
+  "sunoClipIds": [
+    "2d889d65-12c8-47be-a5f4-ce89ea9d083b",
+    "66bf217c-b3de-43a6-b717-034eedf77d0e"
+  ],
+  "created": "Nov 16, 2026 12:06 PM ET",
+  "createTimeMs": 1794848802605,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "2d889d65-12c8-47be-a5f4-ce89ea9d083b",
+      "durationSec": 213.6,
+      "file": "christianpop/cp_10_somebodys_been_here_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "66bf217c-b3de-43a6-b717-034eedf77d0e",
+      "durationSec": 212.8,
+      "file": "christianpop/cp_10_somebodys_been_here_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_10_somebodys_been_here_req.json",
+    "christianpop/cp_10_somebodys_been_here_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_10_somebodys_been_here.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, G major. A sunny, rolling West African pop groove that makes people sway.\n\nVOICE: A woman leads verse 1, bright and smiling; a man with a warm tenor leads verse 2. A group sings the answers in parentheses and the choruses, in the open harmonies of African church choirs. The bridge is a chant over drums.\n\nINSTRUMENTS: Two interlocking clean electric guitars playing highlife lines, shaker, log drum and congas, a soft kick on every beat, a singing bass guitar, a bright keyboard, handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, guitar line. 0:10 Verse 1. 0:34 Chorus 1. 1:06 Verse 2, the grave. 1:30 Pre-chorus, the name. 1:40 Chorus 2. 2:10 Bridge, chant. 2:34 Final chorus. 3:04 Outro, guitar and laughter, ends 3:18.\n\nPRODUCTION & MIX: Modern Afropop with highlife guitars: clean, warm, percussion wide, voices close and joyful.\n\nSIGNATURE MOMENT: The four-way chant 'ahead of me, behind me, beside me, inside me' at 2:22.\n\nTHE REVEAL: Verse 1 is a run of good surprises. Verse 2 at 1:06 is Easter morning in John 20, with the folded cloth and the man mistaken for a gardener, and the pre-chorus names him.\n\nEMOTIONAL ARC: Surprised, grateful, astonished, dancing.",
+  "workbookAtAGlance": "Somebody's Been Here\n\nBackup titles\nI Know Your Work When I See It / Open Already\n\nAt a glance\n104 BPM, G major\nVoice: Joyful female and male voices with a group\nLength: about 3 minutes 20",
+  "genre": "Afropop",
+  "year": 2019,
+  "qa": {
+    "title": "Somebody's Been Here",
+    "id": "cp_10",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.08 dBFS (3 clipped sample, inaudible)"
+        ],
+        "durationSec": 213.6,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 0.6,
+        "lufs": -13.5,
+        "peakDbfs": 0.08,
+        "clipSamples": 3,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 211.9,
+        "vocalCoverage": 0.602,
+        "vocalSpanSec": [
+          18.0,
+          194.1
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.34 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 212.8,
+        "measuredBpm": 104.4,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 0.4,
+        "lufs": -12.8,
+        "peakDbfs": 0.34,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 211.9,
+        "vocalCoverage": 0.723,
+        "vocalSpanSec": [
+          5.6,
+          188.1
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 248,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Ruined My Plans (Thank You)",
+  "prompt": "[Intro: ukulele chop, finger snaps, a laugh]\n\n[Verse 1: light sing-rap male voice, grinning]\nI had a five-year plan with a color-coded chart\nDream job, dream car, dream girl, dream start\nShowed it to you once, real quick, like, \"sign here, please\"\nYou read the whole thing over and you laughed at me\n\n[Chorus: bouncy, 808 and claps, singalong]\nYou ruined my plans, thank you\nTore 'em up, threw 'em out, thank you\nI wanted a puddle, you gave me the sea\nI wanted my way, you wanted me free\nBest thing that ever happened to me\nYou ruined my plans, thank you\n\n[Verse 2: sing-rap, beat fuller]\nFishermen had a business, nets and a boat\nYou walked by, said two words, and they just up and go\nTax man in a tree, girl at a well\nEverybody's plans got wrecked, and they're all doing well\n\n[Chorus: bouncy, 808 and claps, singalong]\nYou ruined my plans, thank you\nTore 'em up, threw 'em out, thank you\nI wanted a puddle, you gave me the sea\nI wanted my way, you wanted me free\nBest thing that ever happened to me\nYou ruined my plans, thank you, Jesus\n\n[Bridge: beat drops, ukulele, half-spoken]\n\"Not my will.\" That's a hard one to say\nYou said it first, in a garden, the night before the day\nThat saved the world\nSo. Okay. Your way.\n\n[Final Chorus: everything in, friends shouting along]\nYou ruined my plans, thank you\nTore 'em up, threw 'em out, thank you\nI wanted a puddle, you gave me the sea\nI wanted my way, you wanted me free\nBest thing that ever happened to me\nYou ruined my plans, thank you, Jesus\n\n[Outro: ukulele, spoken]\nWhat's the plan now?\nNo idea.\nPerfect.",
+  "style": "2024 bedroom pop with a hip-hop kick, light close young male vocal half-sung half-rapped with an audible smile, doubled an octave up in the choruses, friends shouting along at the end, nearly spoken sincere bridge, 100 BPM with a bounce, C major, sunny light and quick, chopped ukulele figure, finger snaps and handclaps, round 808 kick and bass, crisp rimshot, bright bell-like synth, vocal chop hook, clean dry minimal mix, very short song, playful, grateful, free",
+  "negativeTags": "female lead vocals, rock guitars, slow ballad, orchestral strings, country twang, dark mood, heavy drums, choir",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 165,
+  "callBackUrl": "https://example.com/cb"
+}

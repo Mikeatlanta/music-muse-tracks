@@ -1,0 +1,114 @@
+{
+  "id": "cp_05",
+  "title": "Say It Again",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 5,
+  "slug": "cp_05_say_it_again",
+  "inspiredBy": "What a Beautiful Name (Hillsong Worship, 2016)",
+  "leadVoice": "Female, clear and bright with a little breathiness, sounding delighted. The second verse is sung lower and more slowly. Stacked harmonies in the choruses and a crowd of voices answering in the bridge. One whispered word to finish.",
+  "model": "V6",
+  "style": "1980s-style synth-pop with modern clarity, clear bright slightly breathy delighted female vocal, stacked harmonies in the choruses, crowd of voices answering in a half-time bridge, whispered ending, 118 BPM, A major with a key change up for the final chorus, bright quick and giddy, sparkling synth arpeggio, big gated-reverb drums, pulsing synth bass, clean chorused electric guitar, glassy keyboards, handclaps, glossy wide mix, joyful, in love, awed",
+  "negativeTags": "male lead vocals, acoustic folk, banjo, rap, distorted guitar, slow ballad, country twang, trap hi-hats",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: sparkling synth arpeggio, gated drums]\n\n[Verse 1: bright female voice, breathless]\nI've been writing it in margins, on the fog of the glass\nSaying it at stoplights, in the back of my class\nMy friends all think I've met someone, and I guess I have\nThere's a name I can't stop saying and it's making me laugh\n\n[Pre-Chorus: building, bass pulsing]\nTwo little syllables, soft at the start\nGoes off like a firework in the dark\n\n[Chorus: big, glossy, joyful]\nSay it again, say it again\nI just love the way it sounds\nSay it when I'm up, say it when I'm lost\nSay it and the walls come down\nSweetest thing I've ever said\nSay it again, say it again\n\n[Verse 2: voice lower, awed]\nIt was whispered to a girl by an angel in the night\nShouted at a storm, and the storm got quiet\nNailed above a cross in three languages for shame\nAnd death itself gave up when it heard that name\n\n[Pre-Chorus: building, bass pulsing]\nTwo little syllables, here it comes\nEvery knee, every star, every tongue\n\n[Chorus: big, glossy, joyful, the name sung]\nJesus, Jesus\nI just love the way it sounds\nSay it when I'm up, say it when I'm lost\nSay it and the walls come down\nSweetest thing I've ever said\nJesus, Jesus\n\n[Bridge: half-time, voices stacking]\nName over every name I know\nOver my fear, over my shame, over my grave\nSay it (Jesus), say it (Jesus)\n\n[Final Chorus: key change up, everything brighter]\nJesus, Jesus\nI just love the way it sounds\nSay it when I'm up, say it when I'm lost\nSay it and the walls come down\nSweetest thing I've ever said\nJesus, Jesus\n\n[Outro: synth arpeggio, one whisper]\nJesus.",
+  "taskId": "88b88cd6d841e58bfc73d9e819639268",
+  "sunoClipIds": [
+    "f642b9a5-1827-41bd-b1da-2404a55c73c3",
+    "7c60ecec-056a-41f5-be97-832d63b39b2e"
+  ],
+  "created": "Nov 16, 2026 12:06 PM ET",
+  "createTimeMs": 1794848784751,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f642b9a5-1827-41bd-b1da-2404a55c73c3",
+      "durationSec": 213.96,
+      "file": "christianpop/cp_05_say_it_again_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "7c60ecec-056a-41f5-be97-832d63b39b2e",
+      "durationSec": 214.28,
+      "file": "christianpop/cp_05_say_it_again_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_05_say_it_again_req.json",
+    "christianpop/cp_05_say_it_again_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_05_say_it_again.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, A major, lifting to B major for the final chorus. Bright, quick and giddy, like running to tell someone.\n\nVOICE: Female, clear and bright with a little breathiness, sounding delighted. The second verse is sung lower and more slowly. Stacked harmonies in the choruses and a crowd of voices answering in the bridge. One whispered word to finish.\n\nINSTRUMENTS: A sparkling synth arpeggio, big gated-reverb drums, a pulsing synth bass, clean chorused electric guitar, glassy keyboard chords, a string pad in the bridge, handclaps.\n\nARRANGEMENT MAP: 0:00 Intro arpeggio. 0:10 Verse 1. 0:34 Pre-chorus. 0:42 Chorus 1. 1:02 Verse 2, where the name has been. 1:26 Pre-chorus. 1:34 Chorus 2, the name. 1:54 Bridge, half-time. 2:18 Final chorus, key up. 2:46 Outro, arpeggio and a whisper at 3:14.\n\nPRODUCTION & MIX: 1980s-style synth-pop made with modern clarity: glossy, wide, big snare, voice bright on top.\n\nSIGNATURE MOMENT: The chorus melody returning with the name in place of 'say it again' at 1:34.\n\nTHE REVEAL: Verse 1 is a girl with a crush. Verse 2 at 1:02 gives the angel, the storm and the sign on the cross, and the chorus that follows finally sings the two syllables.\n\nEMOTIONAL ARC: Giddy, teasing, awed, overjoyed.",
+  "workbookAtAGlance": "Say It Again\n\nBackup titles\nTwo Little Syllables / I Just Love the Way It Sounds\n\nAt a glance\n118 BPM, A major, lifting to B major\nVoice: Bright, breathless female voice\nLength: about 3 minutes 20",
+  "genre": "Synth-Pop",
+  "year": 2016,
+  "qa": {
+    "title": "Say It Again",
+    "id": "cp_05",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.0,
+        "measuredBpm": 120.2,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 1.9,
+        "lufs": -13.9,
+        "peakDbfs": -1.52,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 211.7,
+        "vocalCoverage": 0.748,
+        "vocalSpanSec": [
+          12.8,
+          204.6
+        ],
+        "vocalF0MedianHz": 278,
+        "vocalF0P25Hz": 249,
+        "lyricLineRecall": 0.897,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.3,
+        "measuredBpm": 120.2,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 1.9,
+        "lufs": -14.3,
+        "peakDbfs": -1.87,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.5,
+        "contentEndSec": 212.0,
+        "vocalCoverage": 0.8,
+        "vocalSpanSec": [
+          15.7,
+          206.9
+        ],
+        "vocalF0MedianHz": 349,
+        "vocalF0P25Hz": 311,
+        "lyricLineRecall": 0.897,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Still Empty",
+  "prompt": "[Intro: fuzz bass riff, stomp-clap, crowd shouting hey]\n\n[Verse 1: swaggering male voice, dry]\nBought the big TV, mounted it myself\nTrophies and a bottle on the top shelf\nDid it all, got it all, checked every box\nCome home at night to the ticking of the clocks\n\n[Chorus: stomp-clap, bluesy, sneering]\nStill empty (hey!) what a joke\nStill empty (hey!) all that smoke\nFilled it up with everything I found\nStill an echo when I walk around\nEvery room, every drawer, every night\nStill empty\n\n[Verse 2: voice sharper, guitars in]\nThen I heard about a hole in a hill outside a town\nSealed with a boulder, soldiers all around\nFriday they buried him, and that was that\nSunday the women came running back\n\n[Chorus: triumphant, full gang, major lift]\nStill empty! (Hey!) Go and check\nStill empty! (Hey!) Nobody's there yet\nTwo thousand years they've been digging around\nNobody's found a body in that ground\nBest news I ever heard in my life\nStill empty!\n\n[Bridge: breakdown, bass and claps, then everyone]\nMy house was empty and it nearly killed me\nHis grave is empty and it finally filled me\nHe's alive (he's alive!), he's alive (he's alive!)\nJesus is alive!\n\n[Final Chorus: loudest, crowd on every line]\nStill empty! (Hey!) Go and check\nStill empty! (Hey!) Nobody's there yet\nTwo thousand years they've been digging around\nNobody's found a body in that ground\nBest news I ever heard in my life\nStill empty!\n\n[Outro: fuzz riff, crowd cheering, one last stomp]",
+  "style": "Garage rock stomp built for arenas, dry swaggering mid-range male vocal with a sneer in the first chorus then rising excitement, large crowd shouting hey and every later chorus line, 124 BPM, E minor turning to E major in the triumphant choruses, stomping strut that becomes a stadium chant, fuzzed-out bass riff, stomps and handclaps, loud kick and snare, gritty electric guitar doubling the riff, tambourine, organ stabs, raw loud dry mix, defiant, surprised, exultant",
+  "negativeTags": "female lead vocals, acoustic ballad, banjo, synth pop, trap hi-hats, orchestral strings, soft mood, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

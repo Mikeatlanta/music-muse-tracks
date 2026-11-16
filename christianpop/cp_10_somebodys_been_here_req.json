@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Somebody's Been Here",
+  "prompt": "[Intro: bright highlife guitar line, shaker, log drum]\n\n[Verse 1: joyful female voice, lilting]\nI came to the river and the bridge was built\nCame to the table and the cup was filled\nCame to the door I was scared to try\nOpen already, with a light inside\n\n[Chorus: group voices, call and response, dancing]\nSomebody's been here (been here before me)\nSomebody's been here (clearing the road)\nI didn't see you, I didn't hear you\nBut I know your work when I see it, oh\nEvery place I'm going, you already know\nSomebody's been here\n\n[Verse 2: male voice, same lilt]\nI came to the grave I was sure would win\nStone rolled back and nobody in\nFolded cloth where the body lay\nAnd a gardener asking why I cry today\n\n[Pre-Chorus: both voices, rising]\nIt was you, it was you, all along\nJesus, going on ahead of me, making it home\n\n[Chorus: group voices, call and response, dancing]\nSomebody's been here (been here before me)\nSomebody's been here (clearing the road)\nI didn't see you, I didn't hear you\nBut I know your work when I see it, oh\nEvery place I'm going, you already know\nSomebody's been here\n\n[Bridge: drums and voices, chant, building]\nNight shift, day shift, you don't sleep\nWhile I was resting, you were up for me\nAhead of me (Jesus), behind me (Jesus)\nBeside me (Jesus), inside me (Jesus)\n\n[Final Chorus: everyone, guitars dancing on top]\nSomebody's been here (been here before me)\nSomebody's been here (clearing the road)\nI didn't see you, I didn't hear you\nBut I know your work when I see it, oh\nEvery place I'm going, you already know\nSomebody's been here\n\n[Outro: guitar line, laughter, shaker]",
+  "style": "Modern Afropop with highlife guitars, bright smiling female lead on the first verse and warm male tenor on the second, group singing call-and-response answers and choruses in open African choir harmonies, chant over drums in the bridge, 104 BPM, G major, sunny rolling groove, two interlocking clean electric guitars, shaker, log drum and congas, soft kick on every beat, singing bass guitar, bright keyboard, handclaps, clean warm mix, joyful, grateful, danceable",
+  "negativeTags": "distorted guitar, slow ballad, country twang, trap hi-hats, EDM drop, orchestral strings, sad mood, screaming",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "cp_03",
+  "title": "Out Past the Buoys",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 3,
+  "slug": "cp_03_out_past_the_buoys",
+  "inspiredBy": "Oceans (Where Feet May Fail) (Hillsong UNITED, 2013)",
+  "leadVoice": "Female soprano, young, airy and pure, with a lot of breath. She barely sings above a murmur until the chorus, then opens out. In the bridge her voice is layered again and again until it is a crowd.",
+  "model": "V6",
+  "style": "Cinematic dream pop slow-build anthem, young airy pure female soprano vocal with a lot of breath, murmured verses opening into a soaring chorus, voice layered into a crowd in the bridge, 66 BPM, D major, very slow and weightless, warm synth pads, delayed electric guitar single notes, soft sub-bass pulse, piano, toms and slow kick, full drums and cymbal swells only at the end, huge reverb, wide mix, awed, trusting, immense",
+  "negativeTags": "male lead vocals, fast tempo, distorted guitar, rap, banjo, country twang, dry mix, funk, trap hi-hats",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: slow synth swell, distant guitar notes, water]\n\n[Verse 1: airy female voice, very quiet]\nI learned to swim in the shallow end\nToes on the tile, one hand on the edge\nI liked a floor that I could feel\nI liked a wall. I liked a deal.\n\n[Verse 2: a little fuller, a soft pulse begins]\nThen you were standing where the water's dark\nPast the rope, past the last white mark\nYou didn't shout, you didn't wave\nYou just said my name, and \"come,\" and stayed\n\n[Chorus: wide and soaring, soft drums enter]\nSo I'm out past the buoys now\nOut where my feet can't find the ground\nEverything I trusted is back on the sand\nAll I've got is your voice and your hand\nMore afraid and more alive than I knew how\nOut past the buoys now\n\n[Verse 3: voice close again, guitar notes ringing]\nA fisherman did this, long before me\nClimbed out of a boat on a midnight sea\nHe walked till he looked at the wind instead\nWent under, reached, and you were there. You said\n\n[Bridge: slow build, layered voices, growing each line]\n\"Why did you doubt? I had you.\"\n\"Why did you doubt? I had you.\"\nI had you. I have you.\nI had you. I have you.\nJesus, you have me\n\n[Final Chorus: full drums, soaring, voices stacked]\nSo I'm out past the buoys now\nOut where my feet can't find the ground\nEverything I trusted is back on the sand\nAll I've got is your voice and your hand\nMore afraid and more alive than I knew how\nOut past the buoys now\n\n[Outro: synths fade into water, one breath]",
+  "taskId": "77e786b2aae5cb0ddcc09aeb62181984",
+  "sunoClipIds": [
+    "ff4393e2-3dc8-467b-887c-bf8b5afff335",
+    "088d346a-0cc3-421a-8531-881267b08b44"
+  ],
+  "created": "Nov 16, 2026 12:06 PM ET",
+  "createTimeMs": 1794848774680,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ff4393e2-3dc8-467b-887c-bf8b5afff335",
+      "durationSec": 254.8,
+      "file": "christianpop/cp_03_out_past_the_buoys_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "088d346a-0cc3-421a-8531-881267b08b44",
+      "durationSec": 254.76,
+      "file": "christianpop/cp_03_out_past_the_buoys_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_03_out_past_the_buoys_req.json",
+    "christianpop/cp_03_out_past_the_buoys_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_03_out_past_the_buoys.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 66 BPM, 4/4, D major. Very slow and weightless, building in one long arc.\n\nVOICE: Female soprano, young, airy and pure, with a lot of breath. She barely sings above a murmur until the chorus, then opens out. In the bridge her voice is layered again and again until it is a crowd.\n\nINSTRUMENTS: Warm synth pads, an electric guitar with long delay playing single notes, a soft sub-bass pulse, piano, toms and a slow kick from the first chorus, full drums and cymbal swells only at the end, water sounds.\n\nARRANGEMENT MAP: 0:00 Intro, pads and water. 0:20 Verse 1. 0:48 Verse 2, pulse begins. 1:18 Chorus 1. 1:56 Verse 3, the fisherman. 2:26 Bridge, building line by line. 3:04 Final chorus, full. 3:40 Outro, fade to water and a breath at 3:58.\n\nPRODUCTION & MIX: Cinematic dream pop: huge reverb, wide pads, the voice floating in front, drums far away until the end.\n\nSIGNATURE MOMENT: The fourth 'I have you' in the bridge at 2:50, when the full drums finally arrive.\n\nTHE REVEAL: Two verses and a chorus read as a love song or a swimming lesson. Verse 3 at 1:56 is Peter leaving the boat in Matthew 14. The bridge gives Christ's own words to him, and then the name.\n\nEMOTIONAL ARC: Caution, called, out of depth, held.",
+  "workbookAtAGlance": "Out Past the Buoys\n\nBackup titles\nI Had You / Past the Last White Mark\n\nAt a glance\n66 BPM, D major\nVoice: Airy female soprano\nLength: about 4 minutes",
+  "genre": "Dream Pop",
+  "year": 2013,
+  "qa": {
+    "title": "Out Past the Buoys",
+    "id": "cp_03",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.8,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1,
+        "targetBpm": 66,
+        "bpmErrPct": 3.0,
+        "lufs": -15.0,
+        "peakDbfs": -1.7,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 253.2,
+        "vocalCoverage": 0.627,
+        "vocalSpanSec": [
+          18.3,
+          221.7
+        ],
+        "vocalF0MedianHz": 331,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.8,
+        "measuredBpm": 67.3,
+        "bpmFactor": 1,
+        "targetBpm": 66,
+        "bpmErrPct": 2.0,
+        "lufs": -14.6,
+        "peakDbfs": -1.47,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 253.0,
+        "vocalCoverage": 0.59,
+        "vocalSpanSec": [
+          18.6,
+          242.2
+        ],
+        "vocalF0MedianHz": 332,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 0.897,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

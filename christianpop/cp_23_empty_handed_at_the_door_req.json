@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Empty-Handed at the Door",
+  "prompt": "[Intro: single acoustic guitar, room sound]\n\n[Verse 1: bare, close male voice]\nEverybody's coming up the walk with something\nA casserole, a bottle, a store-bought pie\nI checked my pockets twice out on the sidewalk\nGot a bus pass and a lot of nerve, and I\n\n[Chorus: handclaps, upright bass, warm]\nI'm empty-handed at the door\nNothing fancy, nothing more\nAll I brought is \"thank you\"\nAnd it's all I can afford\nYou said come, and I came, and I'm sure\nEmpty-handed at the door\n\n[Verse 2: voice lower, guitar and bass]\nThe table's long and every chair's got a name on it\nThere's mine, in ink, like I was always meant\nThe host is at the head in a workman's jacket\nBreaking bread and passing it. I know those hands.\n\n[Pre-Chorus: hushed, organ enters]\nThere's a cup he's pouring, red and deep\nHe says, \"This is me, for you. Take. Eat.\"\n\n[Chorus: handclaps, upright bass, warm]\nI'm empty-handed at the door\nNothing fancy, nothing more\nAll I brought is \"thank you\"\nAnd it's all I can afford\nYou said come, and I came, and I'm sure\nEmpty-handed at the door\n\n[Bridge: building, stomps, choir, shouted]\nSo sing, my empty hands!\nSing, my empty pockets!\nThe one who owns the cattle on a thousand hills\nDoesn't want my wallet\nHe wants me. He wants me.\n\n[Final Chorus: full band and choir]\nI'm empty-handed at the door\nNothing fancy, nothing more\nAll I brought is \"thank you\"\nJesus, it's yours\nYou said come, and I came, and I'm sure\nEmpty-handed at the door\n\n[Outro: one guitar, a chair pulled in, spoken]\nThank you.",
+  "style": "Rootsy folk-soul with a gospel choir, raspy worn male vocal sung quietly and very close at first, opening up in the choruses and shouting the bridge with a break in the voice, 76 BPM, B-flat major, starts with one acoustic guitar then a swaying backbeat, handclaps, upright bass, tambourine, Hammond organ, kick drum and floor tom, piano, gospel choir in the bridge and last chorus, live room sound, humble, grateful, rising",
+  "negativeTags": "female lead vocals, synths, drum machine, electric guitar distortion, rap, auto-tune, EDM, fast tempo",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "cp_08",
+  "title": "Ruined My Plans (Thank You)",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 8,
+  "slug": "cp_08_ruined_my_plans_thank_you",
+  "inspiredBy": "Your Way's Better (Forrest Frank, 2024)",
+  "leadVoice": "Young male, light and close, half-sung and half-rapped with a smile you can hear. Doubled an octave up in the choruses. Friends shout along in the last chorus. The bridge is nearly spoken and suddenly sincere. Three spoken lines at the end.",
+  "model": "V6",
+  "style": "2024 bedroom pop with a hip-hop kick, light close young male vocal half-sung half-rapped with an audible smile, doubled an octave up in the choruses, friends shouting along at the end, nearly spoken sincere bridge, 100 BPM with a bounce, C major, sunny light and quick, chopped ukulele figure, finger snaps and handclaps, round 808 kick and bass, crisp rimshot, bright bell-like synth, vocal chop hook, clean dry minimal mix, very short song, playful, grateful, free",
+  "negativeTags": "female lead vocals, rock guitars, slow ballad, orchestral strings, country twang, dark mood, heavy drums, choir",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 165,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: ukulele chop, finger snaps, a laugh]\n\n[Verse 1: light sing-rap male voice, grinning]\nI had a five-year plan with a color-coded chart\nDream job, dream car, dream girl, dream start\nShowed it to you once, real quick, like, \"sign here, please\"\nYou read the whole thing over and you laughed at me\n\n[Chorus: bouncy, 808 and claps, singalong]\nYou ruined my plans, thank you\nTore 'em up, threw 'em out, thank you\nI wanted a puddle, you gave me the sea\nI wanted my way, you wanted me free\nBest thing that ever happened to me\nYou ruined my plans, thank you\n\n[Verse 2: sing-rap, beat fuller]\nFishermen had a business, nets and a boat\nYou walked by, said two words, and they just up and go\nTax man in a tree, girl at a well\nEverybody's plans got wrecked, and they're all doing well\n\n[Chorus: bouncy, 808 and claps, singalong]\nYou ruined my plans, thank you\nTore 'em up, threw 'em out, thank you\nI wanted a puddle, you gave me the sea\nI wanted my way, you wanted me free\nBest thing that ever happened to me\nYou ruined my plans, thank you, Jesus\n\n[Bridge: beat drops, ukulele, half-spoken]\n\"Not my will.\" That's a hard one to say\nYou said it first, in a garden, the night before the day\nThat saved the world\nSo. Okay. Your way.\n\n[Final Chorus: everything in, friends shouting along]\nYou ruined my plans, thank you\nTore 'em up, threw 'em out, thank you\nI wanted a puddle, you gave me the sea\nI wanted my way, you wanted me free\nBest thing that ever happened to me\nYou ruined my plans, thank you, Jesus\n\n[Outro: ukulele, spoken]\nWhat's the plan now?\nNo idea.\nPerfect.",
+  "taskId": "5f909baff8038f890d597c91fe73267d",
+  "sunoClipIds": [
+    "5decc32d-bf33-4629-85b2-610a3e53add8",
+    "1bcccf49-14fe-4ff1-80fb-e9da4e6cc0c4"
+  ],
+  "created": "Nov 16, 2026 12:06 PM ET",
+  "createTimeMs": 1794848779195,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "5decc32d-bf33-4629-85b2-610a3e53add8",
+      "durationSec": 164.36,
+      "file": "christianpop/cp_08_ruined_my_plans_thank_you_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "1bcccf49-14fe-4ff1-80fb-e9da4e6cc0c4",
+      "durationSec": 164.72,
+      "file": "christianpop/cp_08_ruined_my_plans_thank_you_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_08_ruined_my_plans_thank_you_req.json",
+    "christianpop/cp_08_ruined_my_plans_thank_you_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_08_ruined_my_plans_thank_you.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 100 BPM, 4/4 with a bounce, C major. Sunny, light and quick, a song to dance to in a kitchen.\n\nVOICE: Young male, light and close, half-sung and half-rapped with a smile you can hear. Doubled an octave up in the choruses. Friends shout along in the last chorus. The bridge is nearly spoken and suddenly sincere. Three spoken lines at the end.\n\nINSTRUMENTS: A chopped ukulele figure, finger snaps and handclaps, a round 808 kick and bass, a crisp rimshot, a bright bell-like synth, a short vocal chop used as a hook.\n\nARRANGEMENT MAP: 0:00 Intro, ukulele and snaps. 0:08 Verse 1. 0:28 Chorus 1. 0:50 Verse 2, the fishermen. 1:10 Chorus 2, the name. 1:32 Bridge, beat out. 1:50 Final chorus with friends. 2:14 Outro, three spoken lines, ends 2:28.\n\nPRODUCTION & MIX: 2024 bedroom pop: clean, bright, dry and minimal, big soft low end, vocals right at the front.\n\nSIGNATURE MOMENT: 'So. Okay. Your way.' at 1:46.\n\nTHE REVEAL: Verse 1 could be addressed to a girlfriend or a mentor. Verse 2 at 0:50 lists the fishermen, Zacchaeus and the woman at the well, and the second chorus ends on the name. The bridge goes to Gethsemane in three careful lines.\n\nEMOTIONAL ARC: Cocky, laughing at himself, grateful, free.",
+  "workbookAtAGlance": "Ruined My Plans (Thank You)\n\nBackup titles\nColor-Coded Chart / No Idea. Perfect.\n\nAt a glance\n100 BPM, C major\nVoice: Light, grinning young male voice\nLength: about 2 minutes 30",
+  "genre": "Hip-Hop",
+  "year": 2024,
+  "qa": {
+    "title": "Ruined My Plans (Thank You)",
+    "id": "cp_08",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 164.4,
+        "measuredBpm": 100.3,
+        "bpmFactor": 1,
+        "targetBpm": 100,
+        "bpmErrPct": 0.3,
+        "lufs": -13.8,
+        "peakDbfs": -0.4,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 161.8,
+        "vocalCoverage": 0.724,
+        "vocalSpanSec": [
+          0.4,
+          161.8
+        ],
+        "vocalF0MedianHz": 261,
+        "vocalF0P25Hz": 166,
+        "lyricLineRecall": 0.935,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 164.7,
+        "measuredBpm": 100.3,
+        "bpmFactor": 1,
+        "targetBpm": 100,
+        "bpmErrPct": 0.3,
+        "lufs": -13.0,
+        "peakDbfs": -0.31,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 163.1,
+        "vocalCoverage": 0.767,
+        "vocalSpanSec": [
+          0.5,
+          159.7
+        ],
+        "vocalF0MedianHz": 248,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.935,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

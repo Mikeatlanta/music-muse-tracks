@@ -1,0 +1,114 @@
+{
+  "id": "cp_07",
+  "title": "Mm-Hmm (Amen)",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 7,
+  "slug": "cp_07_mm_hmm_amen",
+  "inspiredBy": "Ooh Ahh (My Life Be Like) (GRITS feat. TobyMac, 2002)",
+  "leadVoice": "Male rapper with a soft Southern voice, conversational and unforced, smiling in places. The hook is sung by a small mixed group, hummed with closed mouths in the first two choruses and opened into the word afterwards. Spoken lines in the bridge and outro.",
+  "model": "V6",
+  "style": "Early-2000s Southern hip-hop with a lo-fi finish, soft-voiced conversational unforced male rap verses, hook sung by a small mixed group first hummed then singing amen, 92 BPM with a lazy swing, A minor, laid-back warm head-nod groove, looped nylon-string guitar figure, dusty boom-bap drum break, round bass, vinyl crackle, Rhodes electric piano, handclaps in the last chorus, warm dusty mix, honest, easygoing, hopeful",
+  "negativeTags": "aggressive rap, trap 808s, auto-tune, rock guitars, EDM synths, fast tempo, operatic vocals, country twang",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: nylon guitar loop, vinyl crackle, soft humming]\n\n[Chorus: sung, laid-back, group hum]\nMm-hmm, mm-hmm\nMy life's a mess, but mm-hmm\nBills on the table, rain on the roof\nStill got a reason, still got proof\nMm-hmm, mm-hmm\n\n[Verse 1: relaxed male rap, conversational]\nWoke up late, coffee tastes like regret\nCheck engine light's my longest relationship yet\nBoss wants more and my knees want less\nMama on the phone asking, \"Baby, are you blessed?\"\nI say, \"Mama, I'm tired.\" She says, \"That ain't what I asked.\"\nI laugh 'cause she's right, and I hate that\nThere's a hum underneath all the noise of the day\nBeen there since a Sunday I can't shake\n\n[Chorus: sung, laid-back, group hum]\nMm-hmm, mm-hmm\nMy life's a mess, but mm-hmm\nBills on the table, rain on the roof\nStill got a reason, still got proof\nMm-hmm, mm-hmm\n\n[Verse 2: rap, warmer, beat fuller]\nLet me tell you where the hum comes from, real quick\nThirty-three years old, friends all split\nHung between two thieves on a hill outside town\nSaid \"forgive them\" while they gambled for his coat on the ground\nThree days later, garden, early light\nA woman thought he was the gardener. She was kind of right.\nHe's been growing something in me ever since\nIn the cracks, in the mess, in the dents\n\n[Chorus: sung, the hum becomes the word]\nAmen, amen\nMy life's a mess, but amen\nBills on the table, rain on the roof\nStill got a reason, he's my proof\nAmen, amen\n\n[Bridge: guitar loop only, spoken]\nI ain't saying it's easy\nI'm saying I ain't alone\nMm-hmm\n\n[Final Chorus: whole group, handclaps]\nAmen, amen\nMy life's a mess, but amen\nBills on the table, rain on the roof\nStill got a reason, Jesus is proof\nAmen, amen\n\n[Outro: guitar loop, humming, a laugh, spoken]\nTell Mama I said yes.",
+  "taskId": "0dc6864b28158c23c32073d4a0aab998",
+  "sunoClipIds": [
+    "c8903150-7aaa-43a3-85c0-ef00add5f0da",
+    "3ed86a90-44a4-41cb-b50f-6234a440d2cf"
+  ],
+  "created": "Nov 16, 2026 12:06 PM ET",
+  "createTimeMs": 1794848792236,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "c8903150-7aaa-43a3-85c0-ef00add5f0da",
+      "durationSec": 204.36,
+      "file": "christianpop/cp_07_mm_hmm_amen_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "3ed86a90-44a4-41cb-b50f-6234a440d2cf",
+      "durationSec": 204.36,
+      "file": "christianpop/cp_07_mm_hmm_amen_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_07_mm_hmm_amen_req.json",
+    "christianpop/cp_07_mm_hmm_amen_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_07_mm_hmm_amen.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 92 BPM, 4/4 with a lazy swing, A minor. Laid-back, warm and unhurried, a head-nod on a porch.\n\nVOICE: Male rapper with a soft Southern voice, conversational and unforced, smiling in places. The hook is sung by a small mixed group, hummed with closed mouths in the first two choruses and opened into the word afterwards. Spoken lines in the bridge and outro.\n\nINSTRUMENTS: A looped nylon-string guitar figure, a dusty boom-bap drum break, round bass, vinyl crackle, a Rhodes electric piano, handclaps in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, guitar loop. 0:10 Chorus 1, hummed. 0:32 Verse 1. 1:00 Chorus 2, hummed. 1:20 Verse 2, the hill and the garden. 1:50 Chorus 3, 'amen'. 2:12 Bridge, guitar only. 2:26 Final chorus with claps. 2:50 Outro, a laugh and the spoken line at 3:04.\n\nPRODUCTION & MIX: Early-2000s Southern hip-hop with a lo-fi finish: warm, dusty, drums soft, guitar and voice forward.\n\nSIGNATURE MOMENT: The hum opening into 'amen' at 1:50.\n\nTHE REVEAL: The first minute is a tired man and his mother. At 1:20 he explains the hum: the crucifixion and the garden on the third day, told in eight plain lines. The name Jesus arrives in the last chorus.\n\nEMOTIONAL ARC: Worn down, amused, explaining, at peace.",
+  "workbookAtAGlance": "Mm-Hmm (Amen)\n\nBackup titles\nTell Mama I Said Yes / Check Engine Light\n\nAt a glance\n92 BPM, A minor\nVoice: Relaxed male rap with a sung group hook\nLength: about 3 minutes 10",
+  "genre": "Hip-Hop",
+  "year": 2002,
+  "qa": {
+    "title": "Mm-Hmm (Amen)",
+    "id": "cp_07",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.4,
+        "measuredBpm": 91.1,
+        "bpmFactor": 1,
+        "targetBpm": 92,
+        "bpmErrPct": 1.0,
+        "lufs": -13.8,
+        "peakDbfs": -0.4,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 201.3,
+        "vocalCoverage": 0.584,
+        "vocalSpanSec": [
+          10.8,
+          176.8
+        ],
+        "vocalF0MedianHz": 193,
+        "vocalF0P25Hz": 159,
+        "lyricLineRecall": 0.857,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.4,
+        "measuredBpm": 92.3,
+        "bpmFactor": 1,
+        "targetBpm": 92,
+        "bpmErrPct": 0.3,
+        "lufs": -14.1,
+        "peakDbfs": -0.57,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 202.8,
+        "vocalCoverage": 0.59,
+        "vocalSpanSec": [
+          12.0,
+          185.6
+        ],
+        "vocalF0MedianHz": 163,
+        "vocalF0P25Hz": 132,
+        "lyricLineRecall": 0.857,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

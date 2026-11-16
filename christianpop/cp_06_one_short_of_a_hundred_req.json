@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "One Short of a Hundred",
+  "prompt": "[Intro: lone acoustic guitar, kick drum on every beat]\n\n[Verse 1: raspy male voice, urgent]\nI wandered off on a Tuesday, nobody saw me go\nThought I'd find a better field, a higher hill, I don't know\nBy dark I was down in a gully with my leg caught in the thorns\nThinking nobody counts that close. Nobody comes this far.\n\n[Chorus: banjo, stomps, gang vocals]\nBut you were one short of a hundred\nAnd you wouldn't call it close enough\nLeft the whole flock on the hillside\nCame down through the rocks and the rough\nNinety-nine were safe and sleeping\nAnd you came after one\nOne short of a hundred\nAnd I'm the one\n\n[Verse 2: voice closer, band holding back]\nI heard you before I saw you, calling out my name\nNot \"where have you been,\" not \"you ought to be ashamed\"\nYou got down in the ditch with me, tore your hands on the vine\nPut me up on your shoulders like I was some great find\n\n[Chorus: banjo, stomps, gang vocals]\n'Cause you were one short of a hundred\nAnd you wouldn't call it close enough\nLeft the whole flock on the hillside\nCame down through the rocks and the rough\nNinety-nine were safe and sleeping\nAnd you came after one\nOne short of a hundred\nAnd I'm the one\n\n[Bridge: building, everyone shouting by the end]\nAnd the story goes you sang the whole way home\nCalled the neighbors, threw a party, 'cause the one was not alone\nGood Shepherd, that's the name you gave yourself\nLaid your life down for the sheep. Jesus, no one else.\n\n[Final Chorus: full band, loudest]\nYou were one short of a hundred\nAnd you wouldn't call it close enough\nLeft the whole flock on the hillside\nCame down through the rocks and the rough\nNinety-nine were safe and sleeping\nAnd you came after one\nOne short of a hundred\nAnd I'm the one\n\n[Outro: stomps fade, one voice alone]\nAnd I'm the one.",
+  "style": "Early-2010s stomp-and-holler folk rock, raspy earnest male tenor vocal pushing hard in the choruses, gang of men and women shout-singing every chorus, bridge climbing to a near yell, quiet solo last line, 96 BPM, G major, stomping march that grows from one guitar to a crowd, strummed acoustic guitar, kick drum on every beat, banjo, upright bass, floor toms and tambourine, mandolin, trumpet in the last chorus, stomps and handclaps, loud roomy acoustic mix, grateful, urgent, joyful",
+  "negativeTags": "female lead vocals, synths, drum machine, electric guitar distortion, rap, auto-tune, trap hi-hats, slow piano ballad",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

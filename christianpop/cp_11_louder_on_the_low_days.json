@@ -1,0 +1,116 @@
+{
+  "id": "cp_11",
+  "title": "Louder on the Low Days",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 11,
+  "slug": "cp_11_louder_on_the_low_days",
+  "inspiredBy": "Praise (Elevation Worship feat. Brandon Lake, Chris Brown & Chandler Moore, 2023)",
+  "leadVoice": "Male tenor, bright and elastic, with gospel runs and a preacher's sense of timing. A mixed choir shouts the answers and sings the choruses in full harmony. The breakdown is pure call and response.",
+  "model": "V6",
+  "style": "1970s-style funk played by a modern gospel band, bright elastic male tenor vocal with gospel runs, mixed choir shouting answers and singing choruses in full harmony, call and response breakdown, 126 BPM, E major with a key change up for the final chorus, fast funky bounce, tight live drums with loud snare, slap bass, clavinet, trumpet saxophone and trombone horn section, muted funk guitar, Hammond organ, tambourine and handclaps, dry punchy mix, joyful, defiant, celebratory",
+  "negativeTags": "slow ballad, acoustic folk, trap hi-hats, EDM drop, distorted rock guitars, country twang, auto-tune, sad mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: drum break, horn stabs, clavinet riff]\n\n[Verse 1: energetic male tenor, playful]\nAnybody can sing when the check comes through\nWhen the test comes back and the sky is blue\nBut I got a song with a different trick\nIt gets louder when the going gets thick\n\n[Chorus: full band, horns, choir answers]\nI sing louder on the low days (louder!)\nDance harder on the hard ones (harder!)\nWhen the bottom drops out, that's my cue\nI got a song that the dark can't use\nTurn it up when it all goes wrong\nLouder on the low days\n\n[Verse 2: tenor, bass and drums pushing]\nTwo men in a jail cell, midnight, beat\nChains on their ankles, stocks on their feet\nThey started singing like the doors were wide\nAnd the ground shook loose and the locks all died\n\n[Pre-Chorus: horns climbing]\nSame song, same reason, same King\nThe one who walked out of a grave in spring\n\n[Chorus: full band, horns, choir answers]\nI sing louder on the low days (louder!)\nDance harder on the hard ones (harder!)\nWhen the bottom drops out, that's my cue\nI got a song that the dark can't use\nTurn it up when it all goes wrong\nLouder on the low days\n\n[Breakdown: drums and claps, call and response]\nWho's it for? (Jesus!)\nWho rolled the stone? (Jesus!)\nWho's still good on a bad day? (Jesus!)\nThen what do we do? (Louder!)\n\n[Final Chorus: key up, horns screaming, choir full]\nI sing louder on the low days (louder!)\nDance harder on the hard ones (harder!)\nWhen the bottom drops out, that's my cue\nI got a song that the dark can't use\nTurn it up when it all goes wrong\nLouder on the low days\n\n[Outro: horn riff, choir laughing, one last hit]",
+  "taskId": "fb8fd82591c82d33823c3e41a1b60a28",
+  "sunoClipIds": [
+    "edeaafcd-be14-4694-ac19-e4d8e992de14",
+    "2e83dd83-fb60-4cd3-acf3-5a13336f28f5"
+  ],
+  "created": "Nov 16, 2026 12:06 PM ET",
+  "createTimeMs": 1794848811642,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "edeaafcd-be14-4694-ac19-e4d8e992de14",
+      "durationSec": 209.6,
+      "file": "christianpop/cp_11_louder_on_the_low_days_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "2e83dd83-fb60-4cd3-acf3-5a13336f28f5",
+      "durationSec": 208.72,
+      "file": "christianpop/cp_11_louder_on_the_low_days_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_11_louder_on_the_low_days_req.json",
+    "christianpop/cp_11_louder_on_the_low_days_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_11_louder_on_the_low_days.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 126 BPM, 4/4, E major, lifting to F# major for the final chorus. Fast, funky and bouncing.\n\nVOICE: Male tenor, bright and elastic, with gospel runs and a preacher's sense of timing. A mixed choir shouts the answers and sings the choruses in full harmony. The breakdown is pure call and response.\n\nINSTRUMENTS: A tight live drum kit with a loud snare, slap-and-pop electric bass, clavinet, a three-piece horn section (trumpet, tenor saxophone, trombone), rhythm guitar playing muted funk chords, Hammond organ, tambourine and handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, drum break and horns. 0:10 Verse 1. 0:30 Chorus 1. 0:58 Verse 2, the jail. 1:18 Pre-chorus. 1:26 Chorus 2. 1:54 Breakdown, call and response. 2:16 Final chorus, key up. 2:46 Outro, horn riff and a last hit at 3:10.\n\nPRODUCTION & MIX: 1970s funk played by a modern gospel band: dry, punchy, horns bright, choir wide and close.\n\nSIGNATURE MOMENT: The four-part call and response at 1:54, ending in the crowd's 'Louder!'.\n\nTHE REVEAL: Verse 1 and the first chorus are any singer's defiance. Verse 2 at 0:58 is Paul and Silas in Acts 16, the pre-chorus names the risen King, and the breakdown answers every question with one name.\n\nEMOTIONAL ARC: Cocky, tested, defiant, jubilant.",
+  "workbookAtAGlance": "Louder on the Low Days\n\nBackup titles\nThat's My Cue / A Song the Dark Can't Use\n\nAt a glance\n126 BPM, E major, lifting to F# major\nVoice: Energetic male tenor with a choir\nLength: about 3 minutes 15",
+  "genre": "Funk",
+  "year": 2023,
+  "qa": {
+    "title": "Louder on the Low Days",
+    "id": "cp_11",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 209.6,
+        "measuredBpm": 127.6,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 1.3,
+        "lufs": -13.3,
+        "peakDbfs": -0.67,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 208.3,
+        "vocalCoverage": 0.671,
+        "vocalSpanSec": [
+          2.1,
+          198.6
+        ],
+        "vocalF0MedianHz": 618,
+        "vocalF0P25Hz": 315,
+        "lyricLineRecall": 0.906,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 208.7,
+        "measuredBpm": 126.0,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 0.0,
+        "lufs": -13.5,
+        "peakDbfs": -0.87,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 206.8,
+        "vocalCoverage": 0.7,
+        "vocalSpanSec": [
+          2.2,
+          204.5
+        ],
+        "vocalF0MedianHz": 519,
+        "vocalF0P25Hz": 349,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

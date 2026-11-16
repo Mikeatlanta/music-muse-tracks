@@ -1,0 +1,116 @@
+{
+  "id": "cp_22",
+  "title": "Nobody from Nowhere",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 22,
+  "slug": "cp_22_nobody_from_nowhere",
+  "inspiredBy": "Who Am I (Casting Crowns, 2003)",
+  "leadVoice": "Male, plain and a little hoarse, with a rural accent, singing quickly and conversationally in the verses. A gang of voices yells the choruses with him. The bridge is almost spoken, then swells.",
+  "model": "V6",
+  "style": "2020s stomp-and-holler folk-pop, plain slightly hoarse male vocal with a rural accent singing quickly and conversationally, gang of voices yelling the choruses, almost spoken bridge that swells, 118 BPM, C major, driving stomp that starts small and ends as a shout, fingerpicked banjo, strummed acoustic guitar, kick drum and floor tom, upright bass, stomps and handclaps, fiddle, harmonium drone, rough loud acoustic mix, humble, astonished, glad",
+  "negativeTags": "female lead vocals, synths, drum machine, rap, auto-tune, EDM drop, slow piano ballad, jazz",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: fingerpicked banjo, soft kick drum]\n\n[Verse 1: plain raw male voice]\nTown I'm from's got one red light\nIt blinks. It doesn't even change.\nNobody famous ever left here\nNobody's ever heard my name\n\nI stock shelves on the late shift\nTalk to the radio driving home\nSeven billion people out there\nI figured I was on my own\n\n[Chorus: stomps, gang vocals, wide open]\nI'm a nobody from nowhere\nAnd you know my middle name\nYou count the hairs, you catch the tears\nYou've been here every day\nMaker of the Milky Way\nAsking how my shift went\nA nobody from nowhere\nAnd you call me your friend\n\n[Verse 2: voice closer, banjo and bass]\nYou picked a town like this one once\nPeople said nothing good came out\nWorked with your hands for thirty years\nNobody wrote it down\n\nA nobody from Nazareth\nHung on a hill between two thieves\nTurns out the King of everything\nKnows what it's like to be me\n\n[Chorus: stomps, gang vocals, wide open]\nI'm a nobody from nowhere\nAnd you know my middle name\nYou count the hairs, you catch the tears\nYou've been here every day\nMaker of the Milky Way\nAsking how my shift went\nA nobody from nowhere\nAnd you call me your friend\n\n[Bridge: band drops, voice and banjo, then a swell]\nI didn't climb up. I couldn't have.\nI never even left this place.\nYou came all the way down here.\nThat's grace. That's grace.\n\n[Final Chorus: full band, everyone shouting]\nI'm a nobody from nowhere\nAnd you know my middle name\nYou count the hairs, you catch the tears\nYou've been here every day\nMaker of the Milky Way\nAsking how my shift went\nA nobody from nowhere\nAnd Jesus calls me friend\n\n[Outro: banjo, a truck door, radio static]",
+  "taskId": "6866c27f39c648ad742f777e5bbfec2f",
+  "sunoClipIds": [
+    "fcdd2029-a9bf-49ed-b058-dc3493deb576",
+    "f1e53c3a-a4ec-413e-9e5a-c5c27e7a587d"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848854548,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "fcdd2029-a9bf-49ed-b058-dc3493deb576",
+      "durationSec": 224.4,
+      "file": "christianpop/cp_22_nobody_from_nowhere_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "f1e53c3a-a4ec-413e-9e5a-c5c27e7a587d",
+      "durationSec": 223.76,
+      "file": "christianpop/cp_22_nobody_from_nowhere_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_22_nobody_from_nowhere_req.json",
+    "christianpop/cp_22_nobody_from_nowhere_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_22_nobody_from_nowhere.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, C major. A driving folk-pop stomp that starts small and ends as a shout.\n\nVOICE: Male, plain and a little hoarse, with a rural accent, singing quickly and conversationally in the verses. A gang of voices yells the choruses with him. The bridge is almost spoken, then swells.\n\nINSTRUMENTS: Fingerpicked banjo, strummed acoustic guitar, a kick drum and floor tom, upright bass, foot stomps and handclaps, fiddle, a harmonium drone, electric guitar joining in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, banjo. 0:10 Verse 1. 0:46 Chorus 1. 1:20 Verse 2, Nazareth. 1:56 Chorus 2. 2:30 Bridge. 2:50 Final chorus. 3:22 Outro, a truck door and radio static, ends 3:30.\n\nPRODUCTION & MIX: 2020s stomp-and-holler folk-pop: acoustic, loud, a little rough, voices crowded round one microphone.\n\nSIGNATURE MOMENT: 'Maker of the Milky Way, asking how my shift went' at 1:00.\n\nTHE REVEAL: Verse 1 and the first chorus could be about a girl who notices him. Verse 2 at 1:20 is the hidden years in Nazareth and the cross, and the final chorus changes 'you call me' to 'Jesus calls me'.\n\nEMOTIONAL ARC: Unseen, noticed, understood, lifted.",
+  "workbookAtAGlance": "Nobody from Nowhere\n\nBackup titles\nYou Know My Middle Name / One Red Light\n\nAt a glance\n118 BPM, C major\nVoice: Plain, raw male voice with gang vocals\nLength: about 3 minutes 30",
+  "genre": "Folk Pop",
+  "year": 2003,
+  "qa": {
+    "title": "Nobody from Nowhere",
+    "id": "cp_22",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 224.4,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 0.5,
+        "lufs": -13.8,
+        "peakDbfs": -0.3,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.0,
+        "contentEndSec": 224.0,
+        "vocalCoverage": 0.582,
+        "vocalSpanSec": [
+          12.3,
+          214.4
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 260,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 223.8,
+        "measuredBpm": 118.8,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 0.7,
+        "lufs": -13.1,
+        "peakDbfs": -0.03,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 222.4,
+        "vocalCoverage": 0.538,
+        "vocalSpanSec": [
+          12.8,
+          206.8
+        ],
+        "vocalF0MedianHz": 235,
+        "vocalF0P25Hz": 174,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

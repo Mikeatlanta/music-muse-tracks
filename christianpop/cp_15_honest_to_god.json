@@ -1,0 +1,114 @@
+{
+  "id": "cp_15",
+  "title": "Honest to God",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 15,
+  "slug": "cp_15_honest_to_god",
+  "inspiredBy": "God Only Knows (for KING & COUNTRY, 2018)",
+  "leadVoice": "A man with a low, close, gentle voice sings verse 1; a woman with a clear, steady voice sings verse 2. They join for the choruses at full strength. In the bridge one confesses in a whisper and the other answers softly in parentheses.",
+  "model": "V6",
+  "style": "Modern dark cinematic pop duet, low close gentle male voice on the first verse and clear steady female voice on the second, both at full strength in the choruses, whispered confessions answered softly in the bridge, 80 BPM, C minor ending on a major chord, slow and dramatic, low piano, deep heartbeat kick, cinematic toms and huge snare, string section, dark synth bass, wordless choir pad, wide dramatic mix, compassionate, intense, releasing",
+  "negativeTags": "banjo, country twang, funk, upbeat dance, rap, distorted rock guitars, cheerful mood, auto-tune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: one low piano note, distant choir pad, heartbeat kick]\n\n[Verse 1: low male voice, intimate]\n\"I'm good.\" \"Just tired.\" \"Busy week.\"\nYou've got a hundred ways to never speak\nYou smile on cue, you laugh on time\nYou've got everyone believing that you're fine\n\n[Pre-Chorus: female voice joins]\nAnd you're so worn out from holding the door\nAgainst everything you can't say anymore\n\n[Chorus: huge drums, strings, both voices]\nSo be honest to God\nIf you can't tell anybody else\nHonest to God\nHe's not shocked, he's not somewhere else\nSay the ugly part, say the part that scares you\nSay the thing you'd never say in prayer, too\nHe can take it. He's not fragile.\nBe honest to God\n\n[Verse 2: female voice, close]\nThere's a man in the gospels crying at a grave\nThere's a man in a garden begging for another way\nThere's a man on a cross saying, \"Why have you gone?\"\nIf Jesus prayed like that, then you can go on\n\n[Pre-Chorus: male voice joins]\nHe's not asking for the version that you post\nHe wants the one at three a.m. the most\n\n[Chorus: huge drums, strings, both voices]\nSo be honest to God\nIf you can't tell anybody else\nHonest to God\nHe's not shocked, he's not somewhere else\nSay the ugly part, say the part that scares you\nSay the thing you'd never say in prayer, too\nHe can take it. He's not fragile.\nBe honest to God\n\n[Bridge: piano only, whisper growing to a roar]\nI'm not okay. (Say it.)\nI'm angry. (Say it.)\nI'm scared. (Say it.)\nI'm here. (I know. Stay.)\n\n[Final Chorus: everything, then suddenly quiet]\nSo be honest to God\nIf you can't tell anybody else\nHonest to God\nHe's not shocked, he's not somewhere else\nSay the ugly part, say the part that scares you\nSay the thing you'd never say in prayer, too\nAnd he's honest back: you're loved.\nHonest to God\n\n[Outro: piano, one long breath out]",
+  "taskId": "738724909b5df8c0124d6807ec7624e3",
+  "sunoClipIds": [
+    "ea19d967-0b4b-43ec-bbce-9cdd19f9c9fb",
+    "6cedc16d-cde2-4526-a9f8-de852ab8f973"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848826225,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ea19d967-0b4b-43ec-bbce-9cdd19f9c9fb",
+      "durationSec": 224.72,
+      "file": "christianpop/cp_15_honest_to_god_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "6cedc16d-cde2-4526-a9f8-de852ab8f973",
+      "durationSec": 224.8,
+      "file": "christianpop/cp_15_honest_to_god_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_15_honest_to_god_req.json",
+    "christianpop/cp_15_honest_to_god_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_15_honest_to_god.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, C minor, ending on a major chord. Dark, slow and cinematic, with a chorus that hits like a wave.\n\nVOICE: A man with a low, close, gentle voice sings verse 1; a woman with a clear, steady voice sings verse 2. They join for the choruses at full strength. In the bridge one confesses in a whisper and the other answers softly in parentheses.\n\nINSTRUMENTS: A low piano, a deep heartbeat kick, cinematic toms and a huge snare in the choruses, a string section, a dark synth bass, a wordless choir pad, a bright piano figure that arrives with the final line.\n\nARRANGEMENT MAP: 0:00 Intro, piano note and heartbeat. 0:12 Verse 1, him. 0:38 Pre-chorus. 0:48 Chorus 1. 1:18 Verse 2, her. 1:44 Pre-chorus. 1:54 Chorus 2. 2:24 Bridge, piano and whispers. 2:46 Final chorus, cutting to quiet on the last two lines. 3:18 Outro, a breath out at 3:26.\n\nPRODUCTION & MIX: Modern cinematic pop: dark, wide and dramatic, drums enormous, voices dry and close in the verses.\n\nSIGNATURE MOMENT: 'He can take it. He's not fragile.' at 1:08.\n\nTHE REVEAL: The title sounds like the everyday exclamation, and verse 1 is one friend talking to another. Verse 2 at 1:18 shows Jesus weeping at Lazarus's grave, in Gethsemane and on the cross, and names him.\n\nEMOTIONAL ARC: Hiding, exhausted, permitted, loved.",
+  "workbookAtAGlance": "Honest to God\n\nBackup titles\nHe Can Take It / The One at 3 A.M.\n\nAt a glance\n80 BPM, C minor\nVoice: Low male and clear female voices\nLength: about 3 minutes 30",
+  "genre": "Pop",
+  "year": 2018,
+  "qa": {
+    "title": "Honest to God",
+    "id": "cp_15",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.7,
+        "measuredBpm": 75.4,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 5.7,
+        "lufs": -13.1,
+        "peakDbfs": -1.6,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 221.7,
+        "vocalCoverage": 0.685,
+        "vocalSpanSec": [
+          12.5,
+          217.9
+        ],
+        "vocalF0MedianHz": 300,
+        "vocalF0P25Hz": 175,
+        "lyricLineRecall": 0.975,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.8,
+        "measuredBpm": 75.4,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 5.7,
+        "lufs": -13.7,
+        "peakDbfs": -0.91,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 224.0,
+        "vocalCoverage": 0.685,
+        "vocalSpanSec": [
+          7.6,
+          221.2
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 198,
+        "lyricLineRecall": 0.975,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

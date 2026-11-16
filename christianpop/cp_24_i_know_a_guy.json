@@ -1,0 +1,116 @@
+{
+  "id": "cp_24",
+  "title": "I Know a Guy",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 24,
+  "slug": "cp_24_i_know_a_guy",
+  "inspiredBy": "My Jesus (Anne Wilson, 2021)",
+  "leadVoice": "Female, warm and friendly with a Kentucky accent, talking as much as singing in the verses, like someone across a kitchen table. She drops the humour and sings plainly in the bridge. Harmonies join the last chorus. Three spoken lines to finish.",
+  "model": "V6",
+  "style": "Modern country-pop with gospel touches, warm friendly female vocal with a Kentucky accent talking as much as singing in the verses, plain sincere bridge, harmonies and a small gospel choir in the last chorus, 96 BPM, G major, bright easy shuffle with a wink, strummed acoustic guitar, dobro, handclaps, walking bass, brushed snare and kick, fiddle, twangy electric guitar, bright warm natural mix, funny, kind, inviting",
+  "negativeTags": "male lead vocals, synths, trap hi-hats, rap, distorted rock guitar, EDM, slow ballad, dark mood",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bright acoustic guitar, dobro lick, handclaps]\n\n[Verse 1: warm conversational female voice]\nYou look like you've been carrying a couch up the stairs\nBy yourself, for about eleven years\nSit down a minute, honey, put your purse on the floor\nI got a number you should have. That's what friends are for.\n\n[Chorus: full band, catchy, grinning]\nI know a guy\nFixes what's broke, finds what's lost\nWorks all hours, never sends a bill\nAlready covered the cost\nHe did my heart, he did my mama's too\nI know a guy\nAnd he's been asking about you\n\n[Verse 2: voice playful, band bouncing]\nHe's a carpenter by trade, but he does a little of it all\nStorms, fevers, weddings, funerals\nFishes with his friends, loves kids, tells a real good story\nNever met a stranger, never been in a hurry\n\n[Pre-Chorus: band drops back]\nHe's from a little town called Nazareth\nAnd honey, you should hear what he did to death\n\n[Chorus: full band, catchy, grinning]\nI know a guy\nFixes what's broke, finds what's lost\nWorks all hours, never sends a bill\nAlready covered the cost\nHe did my heart, he did my mama's too\nI know a guy\nAnd he's been asking about you\n\n[Bridge: band quiet, close and sincere]\nI'm not selling you anything. I was right where you are.\nCrying in a parking lot, in a borrowed car\nI said his name. Just \"Jesus.\" That's all I had.\nHe picked up on the first ring. He's like that.\n\n[Final Chorus: full band, harmonies, handclaps]\nI know a guy\nName's Jesus. Finds what's lost.\nWorks all hours, never sends a bill\nAlready covered the cost\nHe did my heart, he'll do yours too\nI know a guy\nAnd he's been asking about you\n\n[Outro: dobro, spoken]\nYou want his number?\nYeah.\nYou already got it.",
+  "taskId": "fcb796a8a351a907beb1de0d2cafc145",
+  "sunoClipIds": [
+    "a583ade2-f61a-4951-b591-b35c9ff64c4d",
+    "868ecf84-fbcf-48d7-b33c-6f3a97ea0fed"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848861686,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "a583ade2-f61a-4951-b591-b35c9ff64c4d",
+      "durationSec": 208.48,
+      "file": "christianpop/cp_24_i_know_a_guy_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "868ecf84-fbcf-48d7-b33c-6f3a97ea0fed",
+      "durationSec": 208.96,
+      "file": "christianpop/cp_24_i_know_a_guy_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_24_i_know_a_guy_req.json",
+    "christianpop/cp_24_i_know_a_guy_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_24_i_know_a_guy.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4, G major. A bright, easy country-pop shuffle with a wink in it.\n\nVOICE: Female, warm and friendly with a Kentucky accent, talking as much as singing in the verses, like someone across a kitchen table. She drops the humour and sings plainly in the bridge. Harmonies join the last chorus. Three spoken lines to finish.\n\nINSTRUMENTS: Strummed acoustic guitar, dobro, handclaps, a walking bass, brushed snare and kick, fiddle, a twangy electric guitar, a small gospel choir in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, guitar, dobro and claps. 0:10 Verse 1. 0:36 Chorus 1. 1:02 Verse 2, the carpenter. 1:26 Pre-chorus, Nazareth. 1:36 Chorus 2. 2:02 Bridge, sincere. 2:26 Final chorus with choir. 2:54 Outro, dobro and three spoken lines, ends 3:12.\n\nPRODUCTION & MIX: Modern country-pop with gospel touches: bright, warm, acoustic instruments forward, voice natural.\n\nSIGNATURE MOMENT: 'And honey, you should hear what he did to death' at 1:32.\n\nTHE REVEAL: The first chorus sounds exactly like a tradesman's reference. Verse 2 at 1:02 adds clues (a carpenter, storms, fishing with friends), and the pre-chorus at 1:26 gives the home town. The bridge is her own story, with the name.\n\nEMOTIONAL ARC: Teasing, hinting, sincere, inviting.",
+  "workbookAtAGlance": "I Know a Guy\n\nBackup titles\nHe's Been Asking About You / Never Sends a Bill\n\nAt a glance\n96 BPM, G major\nVoice: Warm, conversational female voice\nLength: about 3 minutes 15",
+  "genre": "Country Pop",
+  "year": 2021,
+  "qa": {
+    "title": "I Know a Guy",
+    "id": "cp_24",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.2 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 208.5,
+        "measuredBpm": 96.6,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 0.6,
+        "lufs": -13.8,
+        "peakDbfs": 0.2,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 207.7,
+        "vocalCoverage": 0.686,
+        "vocalSpanSec": [
+          5.4,
+          197.7
+        ],
+        "vocalF0MedianHz": 224,
+        "vocalF0P25Hz": 197,
+        "lyricLineRecall": 0.973,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 209.0,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 7.7,
+        "lufs": -13.2,
+        "peakDbfs": -0.51,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 207.5,
+        "vocalCoverage": 0.764,
+        "vocalSpanSec": [
+          9.4,
+          203.6
+        ],
+        "vocalF0MedianHz": 248,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

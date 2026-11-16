@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "The First to Call Me Son",
+  "prompt": "[Intro: warm electric guitar arpeggios in six, soft organ]\n\n[Verse 1: gentle soulful male voice]\nI learned to tie a tie from a video\nLearned to shave from a guy at school\nSigned my own permission slips\nGot good at making do\n\nFather's Day I'd stay home sick\nNever knew what card to buy\nTold myself it didn't matter\nI'm pretty good at lies\n\n[Chorus: fuller, choir humming, tender]\nThen you were the first to call me son\nFirst to wait up, first to come\nYou knew my name before I had one\nAnd you say it like I've already won\nAll those years I thought I had none\nYou were the first to call me son\n\n[Verse 2: voice close, guitar and bass]\nSomebody taught me a prayer one night\nStarts with two words: \"Our Father\"\nI got as far as the second one\nAnd couldn't go any farther\n\n'Cause the one who made the mountains\nSent his only boy for me\nSo a kid with no one in the bleachers\nCould be family\n\n[Chorus: fuller, choir humming, tender]\nAnd you were the first to call me son\nFirst to wait up, first to come\nYou knew my name before I had one\nAnd you say it like I've already won\nAll those years I thought I had none\nYou were the first to call me son\n\n[Bridge: band swells, voice breaking]\nAbba. I'm still learning how to say it.\nJesus called you that in a garden, crying\nNow he's teaching me. I'm trying.\n\n[Final Chorus: full band and choir, then down to a hush]\nYou were the first to call me son\nFirst to wait up, first to come\nYou knew my name before I had one\nAnd you say it like I've already won\nAll those years I thought I had none\nYou were the first to call me son\n\n[Outro: guitar alone, whispered]\nOur Father...",
+  "style": "Retro soul lullaby in 6/8, soft warm slightly husky male tenor vocal in a quiet 1960s soul style, voice thickening and nearly breaking in the bridge, small choir humming then singing, 58 BPM, E-flat major, slow rocking sway, clean tremolo electric guitar arpeggios, Hammond organ, upright-style bass, brushed drums with rim click, a little piano, warm tape-soft mix, tender, healing, grateful",
+  "negativeTags": "female lead vocals, loud drums, synths, rap, distorted guitar, fast tempo, EDM, country twang",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Nobody from Nowhere",
+  "prompt": "[Intro: fingerpicked banjo, soft kick drum]\n\n[Verse 1: plain raw male voice]\nTown I'm from's got one red light\nIt blinks. It doesn't even change.\nNobody famous ever left here\nNobody's ever heard my name\n\nI stock shelves on the late shift\nTalk to the radio driving home\nSeven billion people out there\nI figured I was on my own\n\n[Chorus: stomps, gang vocals, wide open]\nI'm a nobody from nowhere\nAnd you know my middle name\nYou count the hairs, you catch the tears\nYou've been here every day\nMaker of the Milky Way\nAsking how my shift went\nA nobody from nowhere\nAnd you call me your friend\n\n[Verse 2: voice closer, banjo and bass]\nYou picked a town like this one once\nPeople said nothing good came out\nWorked with your hands for thirty years\nNobody wrote it down\n\nA nobody from Nazareth\nHung on a hill between two thieves\nTurns out the King of everything\nKnows what it's like to be me\n\n[Chorus: stomps, gang vocals, wide open]\nI'm a nobody from nowhere\nAnd you know my middle name\nYou count the hairs, you catch the tears\nYou've been here every day\nMaker of the Milky Way\nAsking how my shift went\nA nobody from nowhere\nAnd you call me your friend\n\n[Bridge: band drops, voice and banjo, then a swell]\nI didn't climb up. I couldn't have.\nI never even left this place.\nYou came all the way down here.\nThat's grace. That's grace.\n\n[Final Chorus: full band, everyone shouting]\nI'm a nobody from nowhere\nAnd you know my middle name\nYou count the hairs, you catch the tears\nYou've been here every day\nMaker of the Milky Way\nAsking how my shift went\nA nobody from nowhere\nAnd Jesus calls me friend\n\n[Outro: banjo, a truck door, radio static]",
+  "style": "2020s stomp-and-holler folk-pop, plain slightly hoarse male vocal with a rural accent singing quickly and conversationally, gang of voices yelling the choruses, almost spoken bridge that swells, 118 BPM, C major, driving stomp that starts small and ends as a shout, fingerpicked banjo, strummed acoustic guitar, kick drum and floor tom, upright bass, stomps and handclaps, fiddle, harmonium drone, rough loud acoustic mix, humble, astonished, glad",
+  "negativeTags": "female lead vocals, synths, drum machine, rap, auto-tune, EDM drop, slow piano ballad, jazz",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

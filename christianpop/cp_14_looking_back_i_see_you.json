@@ -1,0 +1,116 @@
+{
+  "id": "cp_14",
+  "title": "Looking Back, I See You",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 14,
+  "slug": "cp_14_looking_back_i_see_you",
+  "inspiredBy": "Goodness of God (Bethel Music & Jenn Johnson, 2019)",
+  "leadVoice": "Female alto, rich and warm, a gospel-trained voice held back until the bridge. She tells the verses like a story to one person, then preaches the bridge with growing force. Three backing singers answer her in the choruses. She ad-libs freely over the last chorus.",
+  "model": "V6",
+  "style": "1960s Southern soul gospel ballad in 12/8, rich warm gospel-trained female alto vocal held back in storytelling verses then preaching the bridge with growing force, three backing singers answering in the choruses, free ad-libs at the end, 62 BPM, A-flat major with a key change up for the final chorus, slow sway, Hammond organ, horn section with slow swells and stabs, tremolo electric guitar fills, electric bass, 12/8 ride drums, piano, warm tape sound, grateful, wise, triumphant",
+  "negativeTags": "male lead vocals, synths, drum machine, rap, distorted rock guitar, fast tempo, EDM, country twang, auto-tune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: churchy organ, slow horn swell, drums in twelve]\n\n[Verse 1: warm female alto, testifying]\nSeven years old with a fever of a hundred and four\nMama on her knees on the bedroom floor\nI didn't see a thing but the ceiling fan\nLooking back, I see your hand\n\n[Verse 2: alto, band easing in]\nNineteen, wild, on a wet two-lane\nCar turned twice and stopped in the rain\nNot a scratch. I called it luck back then.\nLooking back, I see you again\n\n[Chorus: horns, backing singers answer]\nLooking back, I see you (I see you)\nEvery room I thought was empty (I see you)\nEvery night I cried alone, there were two\nI couldn't tell it then, Lord, but it's true\nEvery mile behind me's got the same view\nLooking back, I see you\n\n[Verse 3: voice softer, organ only]\nBuried my husband on a Thursday in the spring\nCouldn't pray, couldn't eat, couldn't sing\nSomebody sat with me till the morning came\nLooking back, I know his name\n\n[Chorus: horns, backing singers answer]\nLooking back, I see you (I see you)\nEvery room I thought was empty (I see you)\nEvery night I cried alone, there were two\nI couldn't tell it then, Lord, but it's true\nEvery mile behind me's got the same view\nLooking back, I see you\n\n[Bridge: organ and voice, preaching, building]\nHe was there on the cross with me on his mind\nHe was there in the tomb, and he left it behind\nHe was there, he is here, he'll be there when I go\nJesus! That's the name I know!\n\n[Final Chorus: key up, full horns, ad-libs]\nLooking back, I see you (I see you)\nEvery room I thought was empty (I see you)\nEvery night I cried alone, there were two\nI couldn't tell it then, Lord, but it's true\nEvery mile behind me's got the same view\nLooking back, I see you\n\n[Outro: organ, one voice, low]\nMm. I see you.",
+  "taskId": "629dd5072552b7a6a883dda97387b410",
+  "sunoClipIds": [
+    "e9364e52-539c-470c-9204-a2750a7fec7c",
+    "1ae3c9ef-bc8e-4d34-83e7-ff341f0f3a3c"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848822181,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "e9364e52-539c-470c-9204-a2750a7fec7c",
+      "durationSec": 244.8,
+      "file": "christianpop/cp_14_looking_back_i_see_you_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "1ae3c9ef-bc8e-4d34-83e7-ff341f0f3a3c",
+      "durationSec": 244.28,
+      "file": "christianpop/cp_14_looking_back_i_see_you_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_14_looking_back_i_see_you_req.json",
+    "christianpop/cp_14_looking_back_i_see_you_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_14_looking_back_i_see_you.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 62 BPM, 12/8, A-flat major, lifting to B-flat major for the final chorus. A slow, swaying Southern soul ballad.\n\nVOICE: Female alto, rich and warm, a gospel-trained voice held back until the bridge. She tells the verses like a story to one person, then preaches the bridge with growing force. Three backing singers answer her in the choruses. She ad-libs freely over the last chorus.\n\nINSTRUMENTS: Hammond organ, a horn section (two trumpets, tenor sax, trombone) playing slow swells and stabs, electric guitar with tremolo playing fills, electric bass, drums with a 12/8 ride pattern, piano.\n\nARRANGEMENT MAP: 0:00 Intro, organ and horns. 0:12 Verse 1. 0:38 Verse 2. 1:06 Chorus 1. 1:40 Verse 3, organ only. 2:06 Chorus 2. 2:38 Bridge, preaching. 3:02 Final chorus, key up. 3:36 Outro, organ and a low hum, ends 3:48.\n\nPRODUCTION & MIX: 1960s Southern soul: warm tape sound, horns in the room, voice slightly overdriven on the loud notes.\n\nSIGNATURE MOMENT: 'Jesus! That's the name I know!' at 2:56, straight into the key change.\n\nTHE REVEAL: The verses are three scenes from a life with no one named. The chorus says 'Lord' once, at 1:22. The bridge at 2:38 goes to the cross and the empty tomb and shouts the name.\n\nEMOTIONAL ARC: Remembering, recognising, grieving, testifying.",
+  "workbookAtAGlance": "Looking Back, I See You\n\nBackup titles\nI Called It Luck Back Then / There Were Two\n\nAt a glance\n62 BPM, A-flat major, lifting to B-flat major\nVoice: Warm, testifying female alto\nLength: about 3 minutes 50",
+  "genre": "Soul",
+  "year": 2019,
+  "qa": {
+    "title": "Looking Back, I See You",
+    "id": "cp_14",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 46 BPM vs 62 target (~11% off)"
+        ],
+        "durationSec": 244.8,
+        "measuredBpm": 45.7,
+        "bpmFactor": 1.5,
+        "targetBpm": 62,
+        "bpmErrPct": 10.6,
+        "lufs": -12.8,
+        "peakDbfs": -0.27,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 242.6,
+        "vocalCoverage": 0.768,
+        "vocalSpanSec": [
+          20.5,
+          241.9
+        ],
+        "vocalF0MedianHz": 314,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.3,
+        "measuredBpm": 61.3,
+        "bpmFactor": 1,
+        "targetBpm": 62,
+        "bpmErrPct": 1.1,
+        "lufs": -13.4,
+        "peakDbfs": -0.47,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 242.8,
+        "vocalCoverage": 0.699,
+        "vocalSpanSec": [
+          15.6,
+          241.9
+        ],
+        "vocalF0MedianHz": 347,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.971,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

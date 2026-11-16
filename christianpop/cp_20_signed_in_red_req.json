@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Signed in Red",
+  "prompt": "[Intro: gritty guitar riff, kick drum and tambourine]\n\n[Verse 1: gravel male baritone]\nI ran a tab in every town I ever blew through\nHearts and promises and money, coming due\nHad a ledger on me longer than the Mississippi\nCollectors at the door and not a dime to give 'em\n\n[Pre-Chorus: band tightening]\nThen the notice came. I opened it slow.\nThought it was the end. It said, \"You don't owe.\"\n\n[Chorus: big, choir behind, shout-along]\nPaid in full, signed in red\nEvery line, every cent, every word I said\nSomebody took my debt and wrote his name instead\nI walked out of that courtroom with a lifted head\nPaid in full, and signed in red\n\n[Verse 2: voice lower, organ under]\nI asked the judge, \"Who covers a bill like mine?\"\nHe said, \"My own son. Stepped up. Got in line.\nTook your sentence, took it up a hill.\nLast thing he said was 'finished.' It was. It is. Still.\"\n\n[Chorus: big, choir behind, shout-along]\nPaid in full, signed in red\nEvery line, every cent, every word I said\nSomebody took my debt and wrote his name instead\nI walked out of that courtroom with a lifted head\nPaid in full, and signed in red\n\n[Guitar Solo: slide guitar, bluesy, choir humming]\n\n[Bridge: organ and choir, testifying]\nIf you owe more than you can ever pay\nThere's a man with scars who'll take it away\nJesus paid it! All of it! Mine!\nJesus paid it! All of it! Yours!\n\n[Final Chorus: loudest, choir and handclaps]\nPaid in full, signed in red\nEvery line, every cent, every word I said\nJesus took my debt and wrote his name instead\nI walked out of that courtroom with a lifted head\nPaid in full, and signed in red\n\n[Outro: guitar riff, a gavel, a heavy door swinging open]",
+  "style": "Southern rock with a gospel choir, deep gravelly male baritone vocal half-growled in the verses and roaring in the choruses, choir behind every chorus and leading the bridge, 84 BPM, G major, mid-tempo shuffle with a heavy backbeat, gritty overdriven guitar riff, slide guitar solo, loud kick and snare with tambourine, bass, Hammond organ, barroom piano, handclaps, warm heavy mix, relieved, grateful, testifying",
+  "negativeTags": "female lead vocals, synths, drum machine, rap, trap hi-hats, EDM, soft acoustic ballad, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

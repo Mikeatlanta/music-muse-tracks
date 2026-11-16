@@ -1,0 +1,118 @@
+{
+  "id": "cp_19",
+  "title": "On the Hour",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 19,
+  "slug": "cp_19_on_the_hour",
+  "inspiredBy": "Lord, I Need You (Matt Maher, 2011)",
+  "leadVoice": "Male tenor, smooth and close, sliding into falsetto at the ends of lines. Thick harmonies of his own voice in the choruses. The bridge is nearly whispered.",
+  "model": "V6",
+  "style": "Late-1990s neo-soul slow jam, smooth close male tenor vocal sliding into falsetto at the ends of lines, thick self-harmonies in the choruses, nearly whispered bridge, 68 BPM with a lazy swing, D-flat major, slow warm late-night groove, Rhodes electric piano, deep rounded bass behind the beat, dry kick and rimshot, muted electric guitar, soft organ, ticking clock as percussion, warm thick close mix, humble, devoted, calm",
+  "negativeTags": "female lead vocals, loud drums, distorted guitar, banjo, country twang, fast tempo, EDM, rap",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: electric piano chords, soft rimshot, a clock ticking]\n\n[Verse 1: smooth close male voice]\nSeven a.m., before my feet hit the floor\nNine, at the red light, I'm back at your door\nNoon, at my desk, with my head in my hand\nEvery hour, on the hour. I had other plans.\n\n[Chorus: stacked harmonies, deep bass]\nOn the hour, like a bell\nI come looking for you\nI thought by now I'd stand up by myself\nTurns out I don't want to\nCall it weakness, call it anything you choose\nOn the hour, I come running to you\n\n[Verse 2: voice lower, bass and keys]\nThere's a garden where you asked your friends\n\"Stay awake with me. Just one hour.\" And then\nThey slept. And you went on alone\nSo I'd never have to face one on my own\n\n[Chorus: stacked harmonies, deep bass]\nOn the hour, like a bell\nI come looking for you\nI thought by now I'd stand up by myself\nTurns out I don't want to\nCall it weakness, call it anything you choose\nJesus, on the hour, I come running to you\n\n[Bridge: electric piano and voice, the clock ticking]\nThree o'clock, the dark hour, the cross\nThree a.m., my dark hour, I'm lost\nSame you. Both times. There.\n\n[Final Chorus: fullest, falsetto on top]\nOn the hour, like a bell\nI come looking for you\nI thought by now I'd stand up by myself\nTurns out I don't want to\nCall it weakness, call it anything you choose\nJesus, on the hour, I come running to you\n\n[Outro: clock ticking, hummed melody, the ticking stops]",
+  "taskId": "533160e53644cf3bc5aebc2cb9d3879a",
+  "sunoClipIds": [
+    "30f6ae48-0be4-45b5-873a-3624cc77eae6",
+    "31daec84-bd06-4181-949e-7429d84fa5ff"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848841937,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "30f6ae48-0be4-45b5-873a-3624cc77eae6",
+      "durationSec": 224.8,
+      "file": "christianpop/cp_19_on_the_hour_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "31daec84-bd06-4181-949e-7429d84fa5ff",
+      "durationSec": 224.24,
+      "file": "christianpop/cp_19_on_the_hour_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_19_on_the_hour_req.json",
+    "christianpop/cp_19_on_the_hour_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_19_on_the_hour.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 68 BPM, 4/4 with a lazy swing, D-flat major. A slow, warm neo-soul groove, late-night and unhurried.\n\nVOICE: Male tenor, smooth and close, sliding into falsetto at the ends of lines. Thick harmonies of his own voice in the choruses. The bridge is nearly whispered.\n\nINSTRUMENTS: A Rhodes electric piano, a deep, rounded bass guitar playing behind the beat, a dry kick and a rimshot, a muted electric guitar, soft organ, a ticking clock used as percussion at the start, in the bridge and at the end.\n\nARRANGEMENT MAP: 0:00 Intro, keys and clock. 0:14 Verse 1. 0:44 Chorus 1. 1:20 Verse 2, the garden. 1:50 Chorus 2, the name. 2:26 Bridge, keys and clock. 2:44 Final chorus. 3:18 Outro, humming, the ticking stops at 3:28.\n\nPRODUCTION & MIX: Late-1990s neo-soul: warm, thick, slightly behind the beat, voice very close, no bright edges.\n\nSIGNATURE MOMENT: 'Same you. Both times. There.' at 2:38, with only the clock.\n\nTHE REVEAL: Verse 1 and the first chorus are a man who cannot stay away from someone. Verse 2 at 1:20 is Gethsemane and the sleeping disciples; the second chorus adds the name, and the bridge pairs the hour of the cross with his own worst hour.\n\nEMOTIONAL ARC: Rueful, needing, understood, kept.",
+  "workbookAtAGlance": "On the Hour\n\nBackup titles\nLike a Bell / Three O'Clock\n\nAt a glance\n68 BPM, D-flat major\nVoice: Smooth, close male tenor\nLength: about 3 minutes 30",
+  "genre": "Soul",
+  "year": 2011,
+  "qa": {
+    "title": "On the Hour",
+    "id": "cp_19",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.14 dBFS (5 clipped sample, inaudible)"
+        ],
+        "durationSec": 224.8,
+        "measuredBpm": 63.0,
+        "bpmFactor": 1,
+        "targetBpm": 68,
+        "bpmErrPct": 7.3,
+        "lufs": -13.3,
+        "peakDbfs": 0.14,
+        "clipSamples": 5,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 224.2,
+        "vocalCoverage": 0.727,
+        "vocalSpanSec": [
+          6.2,
+          210.8
+        ],
+        "vocalF0MedianHz": 198,
+        "vocalF0P25Hz": 173,
+        "lyricLineRecall": 0.862,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.11 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 224.3,
+        "measuredBpm": 65.4,
+        "bpmFactor": 1,
+        "targetBpm": 68,
+        "bpmErrPct": 3.8,
+        "lufs": -13.9,
+        "peakDbfs": 0.11,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 224.3,
+        "vocalCoverage": 0.645,
+        "vocalSpanSec": [
+          13.9,
+          198.0
+        ],
+        "vocalF0MedianHz": 207,
+        "vocalF0P25Hz": 173,
+        "lyricLineRecall": 0.966,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

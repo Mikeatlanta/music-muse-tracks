@@ -1,0 +1,114 @@
+{
+  "id": "cp_09",
+  "title": "The Send-Off",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 9,
+  "slug": "cp_09_the_send_off",
+  "inspiredBy": "The Blessing (Kari Jobe, Cody Carnes & Elevation Worship, 2020)",
+  "leadVoice": "A man sings verse 1 plainly, like a father giving a toast he has not rehearsed. A woman with a clear, warm voice joins the chorus and takes verse 2. A choir comes in under the second chorus and carries the bridge. Two spoken lines at the end, parent and child.",
+  "model": "V6",
+  "style": "Gospel choir pop ballad that builds, plain fatherly male voice on the first verse, clear warm female voice joining the chorus and taking the second verse, choir entering under the second chorus and carrying the bridge, 70 BPM, B-flat major, slow steady growth from solo piano to full choir, piano, soft pad, acoustic guitar, cello, bass, gentle drums opening up in the bridge, handclaps, live church-hall warmth, loving, generous, hopeful",
+  "negativeTags": "rap, distorted guitar, trap hi-hats, EDM synths, fast tempo, country twang, auto-tune, dark mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft piano, a room of people settling]\n\n[Verse 1: male voice, gentle, like a toast]\nThe car's packed up and the tank is full\nYou've got your mother's eyes and my old tools\nI had a speech, I lost the page\nSo here's what I've got, in the driveway\n\n[Chorus: female voice joins, warm]\nMay the road know your name\nMay the door be unlocked when you knock\nMay you never eat alone\nMay you always find your way back to this block\nAnd when I can't be there, and I won't always be\nMay the One who walks with me walk with you\n\n[Verse 2: female voice]\nHe walked dusty roads with no place to sleep\nKnew every town by the blisters on his feet\nHe blessed the children when they pushed them away\nI'm asking him to do the same today\n\n[Chorus: both voices, choir enters softly]\nMay his light find your window\nMay his peace be the roof on your home\nMay he keep you when I can't\nMay he hold you when you're grown\nAnd whoever calls you Mama, and whoever calls them that\nMay the One who walks with me walk with them\n\n[Bridge: choir building, handclaps, repeating]\nGo with God (go with God)\nGo in peace (go in peace)\nGo on now (go on now)\nJesus has you, and he's got me\n\n[Final Chorus: full choir, both leads above]\nMay his light find your window\nMay his peace be the roof on your home\nMay he keep you when I can't\nMay he hold you when you're grown\nAnd whoever calls you Mama, and whoever calls them that\nMay the One who walks with me walk with them\n\n[Outro: piano, a car door, spoken]\nCall when you get there.\nI will.",
+  "taskId": "b2f731efdc86d63ceb2d3dafd0454af7",
+  "sunoClipIds": [
+    "1f75f47e-f624-418d-9092-2397a79b6c88",
+    "19b1e6b5-b1a5-441c-8e1f-f576a797ea83"
+  ],
+  "created": "Nov 16, 2026 12:06 PM ET",
+  "createTimeMs": 1794848796722,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "1f75f47e-f624-418d-9092-2397a79b6c88",
+      "durationSec": 239.4,
+      "file": "christianpop/cp_09_the_send_off_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "19b1e6b5-b1a5-441c-8e1f-f576a797ea83",
+      "durationSec": 239.6,
+      "file": "christianpop/cp_09_the_send_off_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_09_the_send_off_req.json",
+    "christianpop/cp_09_the_send_off_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_09_the_send_off.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 70 BPM, 4/4, B-flat major. Slow and steady, growing from a piano in a quiet room to a full choir.\n\nVOICE: A man sings verse 1 plainly, like a father giving a toast he has not rehearsed. A woman with a clear, warm voice joins the chorus and takes verse 2. A choir comes in under the second chorus and carries the bridge. Two spoken lines at the end, parent and child.\n\nINSTRUMENTS: Piano, a soft pad, acoustic guitar, a cello, bass, drums entering gently at the second chorus and opening up in the bridge, a gospel choir, handclaps in the bridge.\n\nARRANGEMENT MAP: 0:00 Intro piano. 0:12 Verse 1, him. 0:40 Chorus 1, both. 1:18 Verse 2, her. 1:46 Chorus 2, choir in. 2:22 Bridge, choir building. 2:50 Final chorus. 3:26 Outro, piano, a car door and two spoken lines, ends 3:42.\n\nPRODUCTION & MIX: Live and warm, like a recording made in a church hall: piano close, choir all around, natural reverb.\n\nSIGNATURE MOMENT: 'And whoever calls you Mama, and whoever calls them that' at 2:10.\n\nTHE REVEAL: Verse 1 and the first chorus are a parent's wishes; only the last line hints at a companion. Verse 2 at 1:18 describes him by the roads he walked, and the second chorus becomes a prayer to him. The bridge says the name.\n\nEMOTIONAL ARC: Tongue-tied, giving, entrusting, letting go.",
+  "workbookAtAGlance": "The Send-Off\n\nBackup titles\nMay the Road Know Your Name / Call When You Get There\n\nAt a glance\n70 BPM, B-flat major\nVoice: Male and female leads with a choir\nLength: about 3 minutes 45",
+  "genre": "Gospel",
+  "year": 2020,
+  "qa": {
+    "title": "The Send-Off",
+    "id": "cp_09",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 239.4,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1,
+        "targetBpm": 70,
+        "bpmErrPct": 2.9,
+        "lufs": -15.4,
+        "peakDbfs": -1.51,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 238.0,
+        "vocalCoverage": 0.595,
+        "vocalSpanSec": [
+          14.5,
+          226.9
+        ],
+        "vocalF0MedianHz": 266,
+        "vocalF0P25Hz": 174,
+        "lyricLineRecall": 0.968,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 239.6,
+        "measuredBpm": 67.6,
+        "bpmFactor": 1,
+        "targetBpm": 70,
+        "bpmErrPct": 3.5,
+        "lufs": -15.0,
+        "peakDbfs": -0.48,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 237.8,
+        "vocalCoverage": 0.61,
+        "vocalSpanSec": [
+          7.6,
+          219.1
+        ],
+        "vocalF0MedianHz": 266,
+        "vocalF0P25Hz": 196,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

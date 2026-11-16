@@ -1,0 +1,114 @@
+{
+  "id": "cp_13",
+  "title": "Full Fridge, Still Hungry",
+  "collection": "christianpop",
+  "album": "Christian Pop Reimagined",
+  "track": 13,
+  "slug": "cp_13_full_fridge_still_hungry",
+  "inspiredBy": "Meant to Live (Switchfoot, 2003)",
+  "leadVoice": "Male, mid-range, slightly bored and edgy in the verses, as if talking to himself. The chorus is sung high and hard with a rasp. The bridge is shouted in short bursts.",
+  "model": "V6",
+  "style": "Early-2000s alternative rock, mid-range male vocal slightly bored and edgy in the verses then high hard and raspy in the chorus, shouted bridge in short bursts, 76 BPM with a heavy half-time feel, D minor in drop-D, thick slow and restless with a wide-open chorus, two heavily distorted guitars on a descending riff, fat bass, big roomy drums with crashing cymbals, clean guitar arpeggio in the verses, string pad under the last chorus, wall-of-guitars mix, dissatisfied, searching, relieved",
+  "negativeTags": "female lead vocals, acoustic folk, banjo, synth pop, rap, trap hi-hats, country twang, soft ballad",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Christian Pop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: thick distorted guitar riff, drums crash in]\n\n[Verse 1: restless male voice, low guitars]\nTwo-day shipping, new thing's here\nFelt alright for half a beer\nScrolled until my thumb went numb\nEverybody's winning. I feel dumb.\n\n[Pre-Chorus: tense, climbing]\nGot the job and got the view\nGot the thing they told me to\n\n[Chorus: huge, wide, anthemic]\nFull fridge, still hungry\nFull house, still alone\nFull tank, nowhere worth going\nFull screen, nobody home\nThere's a hole that the stuff falls through\nFull fridge, still hungry\nFor something true\n\n[Verse 2: voice steadier, riff chugging]\nA man fed five thousand on a hill\nNext day they came back for a refill\nHe said, \"You're chasing bread that's gone by night.\nI'm the kind that keeps. I am the bread of life.\"\n\n[Pre-Chorus: tense, climbing]\nI laughed. Then I tried it. Then I wept.\nFirst thing in years that ever kept.\n\n[Chorus: huge, wide, anthemic]\nFull fridge, still hungry\nFull house, still alone\nFull tank, nowhere worth going\nFull screen, nobody home\nThere's a hole that the stuff falls through\nI was full, and still hungry\nFor something true\n\n[Bridge: half-time heavy riff, shouted]\nNot this. Not this.\nNot the next thing, not the next.\nYou. You. You.\n\n[Final Chorus: loudest, a harmony on top]\nFull fridge, and I'm fed now\nFull house, not alone\nEmpty hands and somewhere worth going\nJesus, you're home\nThere's a hole, and it's shaped like you\nI was full, and still hungry\nAnd you're true\n\n[Outro: riff, feedback, a fridge door closing]",
+  "taskId": "2f36d95f75f3eac7015d1843d2944c68",
+  "sunoClipIds": [
+    "34cb1a41-52c7-40de-89f2-a8dd9386ceca",
+    "31b87b14-abbf-4654-a6d8-b47166979db4"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848831785,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "34cb1a41-52c7-40de-89f2-a8dd9386ceca",
+      "durationSec": 216.4,
+      "file": "christianpop/cp_13_full_fridge_still_hungry_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "31b87b14-abbf-4654-a6d8-b47166979db4",
+      "durationSec": 216.4,
+      "file": "christianpop/cp_13_full_fridge_still_hungry_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "christianpop/cp_13_full_fridge_still_hungry_req.json",
+    "christianpop/cp_13_full_fridge_still_hungry_rec.json"
+  ],
+  "cover": "christianpop/covers/cp_13_full_fridge_still_hungry.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 76 BPM with a heavy half-time feel, 4/4, D minor in drop-D tuning. Thick, slow and restless, with a chorus that opens wide.\n\nVOICE: Male, mid-range, slightly bored and edgy in the verses, as if talking to himself. The chorus is sung high and hard with a rasp. The bridge is shouted in short bursts.\n\nINSTRUMENTS: Two heavily distorted guitars playing a descending riff in drop-D, a fat bass, big roomy drums with crashing cymbals, a clean guitar arpeggio in the verses, a string pad under the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro riff. 0:12 Verse 1. 0:36 Pre-chorus. 0:44 Chorus 1. 1:10 Verse 2, the hill. 1:34 Pre-chorus. 1:42 Chorus 2. 2:08 Bridge, half-time. 2:28 Final chorus with new words. 2:56 Outro, riff and feedback, a fridge door at 3:14.\n\nPRODUCTION & MIX: Early-2000s alternative rock: wall-of-guitars, big natural drums, vocal slightly gritty and loud.\n\nSIGNATURE MOMENT: The four-line chorus list landing on 'full screen, nobody home' at 0:56.\n\nTHE REVEAL: Verse 1 and the first chorus are modern restlessness with no religion in it. Verse 2 at 1:10 is the day after the feeding of the five thousand in John 6, and the last chorus rewrites every line and names Jesus.\n\nEMOTIONAL ARC: Numb, restless, sceptical, fed.",
+  "workbookAtAGlance": "Full Fridge, Still Hungry\n\nBackup titles\nBread That Keeps / Full Screen, Nobody Home\n\nAt a glance\n76 BPM, D minor (drop D)\nVoice: Restless male voice, rising to a shout\nLength: about 3 minutes 20",
+  "genre": "Alternative Rock",
+  "year": 2003,
+  "qa": {
+    "title": "Full Fridge, Still Hungry",
+    "id": "cp_13",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 216.4,
+        "measuredBpm": 76.0,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 0.0,
+        "lufs": -13.7,
+        "peakDbfs": -1.17,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 215.8,
+        "vocalCoverage": 0.691,
+        "vocalSpanSec": [
+          25.3,
+          215.6
+        ],
+        "vocalF0MedianHz": 221,
+        "vocalF0P25Hz": 197,
+        "lyricLineRecall": 0.917,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 216.4,
+        "measuredBpm": 76.0,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 0.0,
+        "lufs": -13.7,
+        "peakDbfs": -1.29,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 215.8,
+        "vocalCoverage": 0.701,
+        "vocalSpanSec": [
+          25.3,
+          210.9
+        ],
+        "vocalF0MedianHz": 329,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.944,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}
