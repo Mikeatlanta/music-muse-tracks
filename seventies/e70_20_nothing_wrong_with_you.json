@@ -1,0 +1,114 @@
+{
+  "id": "e70_20",
+  "title": "Nothing Wrong With You",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 20,
+  "slug": "e70_20_nothing_wrong_with_you",
+  "inspiredBy": "Come and Get Your Love (Redbone, 1974)",
+  "leadVoice": "Male, relaxed and slightly nasal, with a drawl that sits just behind the beat. He calls out short lines and the rest of the band answers in a loose group. Group vocals on the chorus, and a chant in the bridge.",
+  "model": "V6",
+  "style": "1974 West Coast pop soul groove, relaxed slightly nasal male vocal with a drawl just behind the beat, calling out short lines answered by a loose group of band voices, group vocals on the chorus, 106 BPM, D major, loping rolling unhurried groove, round loping electric bass line carrying the tune, light swinging drums, string section with long gliding lines, twangy sitar-like guitar melody, clean rhythm guitar, congas, handclaps, chant bridge, warm round uncluttered mix, relaxed, reassuring, feel-good",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy distortion, dark mood, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: loping bass line, light drums, gliding strings]\n\n[Verse 1: laid-back lead, the band answers in brackets]\nHey (hey)\nWho told you that you had to change? (yeah)\nHey (hey)\nWho went and made you feel so strange? (ooh)\nYou were fine before they told you\nYou were fine\n\n[Chorus: easy groove, strings, group vocals]\nNothing wrong with you\nNothing wrong with you\nBring what you've got, bring what you've been\nDoor's wide open, come on in\nNothing wrong with you\n\n[Verse 2: laid-back lead, the band answers]\nHey (hey)\nYou don't have to earn a chair (yeah)\nHey (hey)\nThere was always one right there (ooh)\nYou were fine before they told you\nYou were fine\n\n[Chorus: easy groove, strings, group vocals]\nNothing wrong with you\nNothing wrong with you\nBring what you've got, bring what you've been\nDoor's wide open, come on in\nNothing wrong with you\n\n[Instrumental: electric sitar-like guitar melody over the groove]\n\n[Bridge: group chanting, handclaps]\nCome on in, come on in\n(Nothing wrong)\nCome on in, come on in\n(Nothing wrong)\n\n[Final Chorus: everyone, strings soaring, ad-libs]\nNothing wrong with you\nNothing wrong with you\nBring what you've got, bring what you've been\nDoor's wide open, come on in\nNothing wrong with you\n\n[Outro: bass line and strings, voices fading]\nYou were fine\nYou were fine",
+  "taskId": "a5ba43655db3198debbff8f8790d7545",
+  "sunoClipIds": [
+    "0cd045e4-ca0c-477e-9560-ea445973eb87",
+    "ffa5e516-bf41-412a-b453-c1fc4586ab60"
+  ],
+  "created": "Nov 16, 2026 8:08 AM ET",
+  "createTimeMs": 1794834519765,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0cd045e4-ca0c-477e-9560-ea445973eb87",
+      "durationSec": 214.2,
+      "file": "seventies/e70_20_nothing_wrong_with_you_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ffa5e516-bf41-412a-b453-c1fc4586ab60",
+      "durationSec": 213.76,
+      "file": "seventies/e70_20_nothing_wrong_with_you_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_20_nothing_wrong_with_you_req.json",
+    "seventies/e70_20_nothing_wrong_with_you_rec.json"
+  ],
+  "cover": "seventies/covers/e70_20_nothing_wrong_with_you.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 106 BPM, 4/4, D major. A loping, rolling, unhurried groove. Warm, loose and completely at ease.\n\nVOICE: Male, relaxed and slightly nasal, with a drawl that sits just behind the beat. He calls out short lines and the rest of the band answers in a loose group. Group vocals on the chorus, and a chant in the bridge.\n\nINSTRUMENTS: A round, loping electric bass line that carries the tune. A light, swinging drum kit. A string section playing long, gliding lines. A guitar with a twangy, sitar-like tone playing the instrumental melody. Clean rhythm guitar. Congas and handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, bass, drums and strings. 0:14 Verse 1. 0:40 Chorus 1. 1:02 Verse 2. 1:28 Chorus 2. 1:50 Instrumental with the sitar-like guitar. 2:12 Bridge, chant and claps. 2:30 Final chorus. 2:52 Outro, the bass and strings with voices fading by 3:15.\n\nPRODUCTION & MIX: Mid-1970s West Coast pop-soul: warm, round and uncluttered, bass and strings forward, everything sitting back in the pocket.\n\nSIGNATURE MOMENT: The first shouted 'Hey' and the band's reply at 0:14.\n\nMODERN POINT OF VIEW: 'You were fine before they told you' is the line of someone who has watched younger people be talked out of themselves. The song is advice from an elder with no lecture in it.\n\nEMOTIONAL ARC: Reassurance, welcome, ease.",
+  "workbookAtAGlance": "Nothing Wrong With You\n\nBackup titles\nBefore They Told You / Door's Wide Open\n\nAt a glance\n106 BPM, D major\nVoice: Laid-back male voice, band answering\nLength: about 3 minutes 20",
+  "qa": {
+    "title": "Nothing Wrong With You",
+    "id": "e70_20",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.3 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 214.2,
+        "measuredBpm": 106.6,
+        "bpmFactor": 1,
+        "targetBpm": 106,
+        "bpmErrPct": 0.5,
+        "lufs": -13.6,
+        "peakDbfs": 0.3,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 212.6,
+        "vocalCoverage": 0.625,
+        "vocalSpanSec": [
+          19.1,
+          201.0
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 245,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 213.8,
+        "measuredBpm": 104.4,
+        "bpmFactor": 1,
+        "targetBpm": 106,
+        "bpmErrPct": 1.5,
+        "lufs": -13.5,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 212.6,
+        "vocalCoverage": 0.573,
+        "vocalSpanSec": [
+          19.3,
+          196.5
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

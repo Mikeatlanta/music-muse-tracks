@@ -1,0 +1,116 @@
+{
+  "id": "e70_15",
+  "title": "The House Don't Hum",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 15,
+  "slug": "e70_15_the_house_dont_hum",
+  "inspiredBy": "Ain't No Sunshine (Bill Withers, 1971)",
+  "leadVoice": "Male baritone, warm, plain and conversational, with no vibrato to speak of and no vocal runs. He sings as if talking to himself. In the break he repeats two words rapidly in one long breath, evenly, then delivers the last line slowly.",
+  "model": "V6",
+  "style": "1971 acoustic soul blues, warm plain conversational male baritone vocal with no vibrato and no vocal runs, a break where two words are repeated rapidly many times in one breath over only kick drum and bass, 78 BPM, A minor, slow bare and still, fingerpicked acoustic guitar, soft deep electric bass, string section playing low sustained slowly rising lines, very sparse drums with kick and brushed snare, small band recorded dry warm and close with lots of silence, lonely, understated, short",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, distorted guitar, fast tempo, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 165,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: fingerpicked acoustic guitar, soft bass]\n\n[Verse 1: warm, plain, close]\nKettle's cold and the stairs don't creak\nRadio's lost the will to speak\nThe house don't hum\nThe house don't hum\nSince her suitcase hit the street\n\n[Verse 2: strings enter, low and slow]\nI wonder where she's laid her head\nI wonder if she read what I said\nThe house don't hum\nThe house don't hum\nThere's a hollow in the bed\n\n[Break: band stops except kick and bass, one breath]\nAnd I wait, and I wait, and I wait, and I wait\nI wait, I wait, I wait, I wait\nI wait, I wait, I wait, I wait\nI wait, I wait, I wait, I wait\nI ought to go and find her\nBut I wait\n\n[Verse 3: strings fuller, voice the same]\nClock's still ticking but it's lost its nerve\nDog's at the window, staring at the kerb\nThe house don't hum\nThe house don't hum\nIt's more quiet than I deserve\n\n[Outro: guitar and strings, the title twice, stop]\nThe house don't hum\nThe house don't hum",
+  "taskId": "f70a409a7ebddc9bce37eea91441c0fc",
+  "sunoClipIds": [
+    "d779fcda-0255-4100-a8c5-438c9a9924ef",
+    "49a7387c-c1b7-4331-ac58-30607f9218ab"
+  ],
+  "created": "Nov 16, 2026 8:08 AM ET",
+  "createTimeMs": 1794834494790,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "d779fcda-0255-4100-a8c5-438c9a9924ef",
+      "durationSec": 164.8,
+      "file": "seventies/e70_15_the_house_dont_hum_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "49a7387c-c1b7-4331-ac58-30607f9218ab",
+      "durationSec": 164.92,
+      "file": "seventies/e70_15_the_house_dont_hum_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_15_the_house_dont_hum_req.json",
+    "seventies/e70_15_the_house_dont_hum_rec.json"
+  ],
+  "cover": "seventies/covers/e70_15_the_house_dont_hum.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 78 BPM, 4/4, A minor. Slow, bare and still. A blues without any showing off.\n\nVOICE: Male baritone, warm, plain and conversational, with no vibrato to speak of and no vocal runs. He sings as if talking to himself. In the break he repeats two words rapidly in one long breath, evenly, then delivers the last line slowly.\n\nINSTRUMENTS: A fingerpicked acoustic guitar. A soft, deep electric bass. A string section playing low, sustained, slowly rising lines. A drum kit used very sparingly: a kick and a brushed snare. Nothing else.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and bass. 0:10 Verse 1. 0:38 Verse 2, strings enter. 1:06 Break: everything stops except a kick drum and bass while the two words are repeated, then two slower lines. 1:36 Verse 3, with fuller strings. 2:04 Outro, the title sung twice and a clean stop at 2:25.\n\nPRODUCTION & MIX: Early-1970s soul recorded with a small band: dry, warm and close, a great deal of silence around each sound.\n\nSIGNATURE MOMENT: The break at 1:06, sixteen repetitions in one breath.\n\nMODERN POINT OF VIEW: The lines after the break are the difference: he knows he ought to go and find her, and he waits anyway. It is a more self-aware kind of stuck, and 'more quiet than I deserve' admits some fault.\n\nEMOTIONAL ARC: Emptiness, fixation, a flicker of self-knowledge.",
+  "workbookAtAGlance": "The House Don't Hum\n\nBackup titles\nSince Her Suitcase / And I Wait\n\nAt a glance\n78 BPM, A minor\nVoice: Warm plain male baritone\nLength: about 2 minutes 30",
+  "qa": {
+    "title": "The House Don't Hum",
+    "id": "e70_15",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 67 BPM vs 78 target (~14% off)"
+        ],
+        "durationSec": 164.8,
+        "measuredBpm": 67.1,
+        "bpmFactor": 1,
+        "targetBpm": 78,
+        "bpmErrPct": 14.0,
+        "lufs": -14.2,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 164.3,
+        "vocalCoverage": 0.409,
+        "vocalSpanSec": [
+          15.2,
+          154.3
+        ],
+        "vocalF0MedianHz": 159,
+        "vocalF0P25Hz": 145,
+        "lyricLineRecall": 0.957,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 65 BPM vs 78 target (~16% off)"
+        ],
+        "durationSec": 164.9,
+        "measuredBpm": 65.4,
+        "bpmFactor": 1,
+        "targetBpm": 78,
+        "bpmErrPct": 16.1,
+        "lufs": -13.6,
+        "peakDbfs": -0.32,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 164.1,
+        "vocalCoverage": 0.385,
+        "vocalSpanSec": [
+          15.8,
+          153.6
+        ],
+        "vocalF0MedianHz": 165,
+        "vocalF0P25Hz": 134,
+        "lyricLineRecall": 0.783,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

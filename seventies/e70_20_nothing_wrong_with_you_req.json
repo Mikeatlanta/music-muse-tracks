@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Nothing Wrong With You",
+  "prompt": "[Intro: loping bass line, light drums, gliding strings]\n\n[Verse 1: laid-back lead, the band answers in brackets]\nHey (hey)\nWho told you that you had to change? (yeah)\nHey (hey)\nWho went and made you feel so strange? (ooh)\nYou were fine before they told you\nYou were fine\n\n[Chorus: easy groove, strings, group vocals]\nNothing wrong with you\nNothing wrong with you\nBring what you've got, bring what you've been\nDoor's wide open, come on in\nNothing wrong with you\n\n[Verse 2: laid-back lead, the band answers]\nHey (hey)\nYou don't have to earn a chair (yeah)\nHey (hey)\nThere was always one right there (ooh)\nYou were fine before they told you\nYou were fine\n\n[Chorus: easy groove, strings, group vocals]\nNothing wrong with you\nNothing wrong with you\nBring what you've got, bring what you've been\nDoor's wide open, come on in\nNothing wrong with you\n\n[Instrumental: electric sitar-like guitar melody over the groove]\n\n[Bridge: group chanting, handclaps]\nCome on in, come on in\n(Nothing wrong)\nCome on in, come on in\n(Nothing wrong)\n\n[Final Chorus: everyone, strings soaring, ad-libs]\nNothing wrong with you\nNothing wrong with you\nBring what you've got, bring what you've been\nDoor's wide open, come on in\nNothing wrong with you\n\n[Outro: bass line and strings, voices fading]\nYou were fine\nYou were fine",
+  "style": "1974 West Coast pop soul groove, relaxed slightly nasal male vocal with a drawl just behind the beat, calling out short lines answered by a loose group of band voices, group vocals on the chorus, 106 BPM, D major, loping rolling unhurried groove, round loping electric bass line carrying the tune, light swinging drums, string section with long gliding lines, twangy sitar-like guitar melody, clean rhythm guitar, congas, handclaps, chant bridge, warm round uncluttered mix, relaxed, reassuring, feel-good",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy distortion, dark mood, autotune, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

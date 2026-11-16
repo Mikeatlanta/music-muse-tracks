@@ -1,0 +1,116 @@
+{
+  "id": "e70_13",
+  "title": "Lines I Earned",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 13,
+  "slug": "e70_13_lines_i_earned",
+  "inspiredBy": "Dream On (Aerosmith, 1973)",
+  "leadVoice": "Male. He starts in a low, husky, almost spoken register, darker than his natural voice. Each section moves higher and harder. In the build he repeats two words, rising a step each time, until he is screaming them in a piercing, raw upper register that few singers can reach.",
+  "model": "V6",
+  "style": "1973 hard rock power ballad with a classical tint, male vocal starting low husky and almost spoken, rising section by section, repeating two words each time a step higher until screaming in a piercing raw upper register, 80 BPM, F minor, slow grave climbing march, harpsichord-like electric piano playing a baroque arpeggio, wavering tape-style string-machine pad, electric guitars growing from quiet to thick sustained chords, melodic bass, drums soft then pounding, warm murky analogue mix, dark, proud, ferocious",
+  "negativeTags": "drum machine, female lead vocals, rap, upbeat pop, trap hi-hats, autotune, EDM, country, disco",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 270,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: harpsichord-like electric piano arpeggio, soft strings]\n\n[Verse 1: low, dark, almost spoken]\nGot my father's forehead and my mother's frown\nGot a map of every time I let me down\nSomebody's been drawing while I slept\nA ledger of the promises I kept\n\n[Verse 2: bass and soft drums enter]\nThere's a crease for every winter that I worked\nThere's a crease for every answer that I shirked\nAnd the laughing made the ones around my eyes\nI wouldn't sell them back at any price\n\n[Chorus: band rises, guitars enter, voice higher]\nThese are lines I earned\nEvery one a bridge I burned or built\nI'm not smoothing out a single year\nCount them, I'm still here\nGo on, count them\nI'm still here\n\n[Verse 3: fuller, voice with more edge]\nHalf my heroes never got this far\nHalf my friends are pictures in a drawer\nSo I'll take the grey and I'll take the ache\nI'll take every morning I can wake\n\n[Chorus: band rises, guitars louder, voice higher]\nThese are lines I earned\nEvery one a bridge I burned or built\nI'm not smoothing out a single year\nCount them, I'm still here\nGo on, count them\nI'm still here\n\n[Build: one phrase repeated, each time higher, drums pounding]\nStill here\nStill here\nStill here\nStill here\nStill here\nStill here\n\n[Climax: screamed at the top of the range, full band, strings]\nStill here\nStill here\n\n[Outro: arpeggio returns alone, slowing]\nCount them",
+  "taskId": "69cb213f81f5e54f80503ff9995af989",
+  "sunoClipIds": [
+    "f88653d0-60bf-41de-8ed9-8f9bc9a2b4c5",
+    "130edc4d-3e95-4615-92ca-aed2a02812fb"
+  ],
+  "created": "Nov 16, 2026 8:08 AM ET",
+  "createTimeMs": 1794834487523,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f88653d0-60bf-41de-8ed9-8f9bc9a2b4c5",
+      "durationSec": 269.56,
+      "file": "seventies/e70_13_lines_i_earned_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "130edc4d-3e95-4615-92ca-aed2a02812fb",
+      "durationSec": 269.6,
+      "file": "seventies/e70_13_lines_i_earned_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_13_lines_i_earned_req.json",
+    "seventies/e70_13_lines_i_earned_rec.json"
+  ],
+  "cover": "seventies/covers/e70_13_lines_i_earned.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, F minor. A slow, grave march that keeps climbing. Dark, proud and finally ferocious.\n\nVOICE: Male. He starts in a low, husky, almost spoken register, darker than his natural voice. Each section moves higher and harder. In the build he repeats two words, rising a step each time, until he is screaming them in a piercing, raw upper register that few singers can reach.\n\nINSTRUMENTS: An electric piano with a plucked, harpsichord-like sound playing a baroque arpeggio. A string-machine pad (the wavering, tape-like strings of early 1970s rock). Electric guitars that enter quietly and grow to thick, sustained chords. A melodic bass. A drum kit that begins softly and ends pounding. A short guitar lead before the build.\n\nARRANGEMENT MAP: 0:00 Intro, the arpeggio and strings. 0:24 Verse 1. 0:48 Verse 2, bass and drums. 1:12 Chorus 1. 1:42 Verse 3. 2:06 Chorus 2. 2:36 Build, the two words repeated six times, each a step higher. 3:12 Climax, screamed twice over the full band. 3:36 Outro, the arpeggio alone, slowing, two quiet words at 4:05.\n\nPRODUCTION & MIX: Early-1970s hard rock with a classical tint: warm, slightly murky and analogue, the keyboard and strings wide, the voice dry.\n\nSIGNATURE MOMENT: The first full scream at 3:12.\n\nMODERN POINT OF VIEW: A teenager wrote the original imagining age. This is written from inside it: friends in a drawer, grey hair accepted, and pride in the evidence. The scream is not despair. It is a roll-call answered.\n\nEMOTIONAL ARC: Inventory, defiance, a roar of presence.",
+  "workbookAtAGlance": "Lines I Earned\n\nBackup titles\nCount Them / I'm Still Here\n\nAt a glance\n80 BPM, F minor\nVoice: Male voice, low and dark rising to a scream\nLength: about 4 minutes 15",
+  "qa": {
+    "title": "Lines I Earned",
+    "id": "e70_13",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 69 BPM vs 80 target (~14% off)"
+        ],
+        "durationSec": 269.6,
+        "measuredBpm": 68.7,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 14.2,
+        "lufs": -13.1,
+        "peakDbfs": -1.7,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 268.2,
+        "vocalCoverage": 0.629,
+        "vocalSpanSec": [
+          15.6,
+          268.0
+        ],
+        "vocalF0MedianHz": 394,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.75,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 66 BPM vs 80 target (~17% off)"
+        ],
+        "durationSec": 269.6,
+        "measuredBpm": 66.3,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 17.2,
+        "lufs": -13.4,
+        "peakDbfs": -1.97,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 268.2,
+        "vocalCoverage": 0.661,
+        "vocalSpanSec": [
+          25.0,
+          262.3
+        ],
+        "vocalF0MedianHz": 522,
+        "vocalF0P25Hz": 349,
+        "lyricLineRecall": 0.958,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

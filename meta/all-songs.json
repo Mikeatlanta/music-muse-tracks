@@ -7868,5 +7868,2300 @@
         }
       ]
     }
+  },
+  {
+    "id": "e70_01",
+    "title": "Mama, I Said It Out Loud",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 1,
+    "slug": "e70_01_mama_i_said_it_out_loud",
+    "inspiredBy": "Bohemian Rhapsody (Queen, 1975)",
+    "leadVoice": "A male tenor with an enormous range and a theatrical delivery: tender in the ballad, operatic and exact in the middle, snarling in the rock section, hushed at the end. In the intro and opera his voice is stacked dozens of times into a choir, from a rumbling bass to a piercing falsetto, trading phrases left and right.",
+    "model": "V6",
+    "style": "1975 British progressive glam rock mini-opera in several sections, theatrical male tenor with a huge range, his voice stacked into a massive choir from bass to piercing falsetto trading phrases, a cappella harmony intro, tender piano ballad at 72 BPM in B-flat major, singing harmonised lead guitar solo, sudden mock-opera section with staccato piano and call-and-response choir at double speed, heavy hard rock riff section, quiet piano coda ending on a gong, grand piano, melodic bass, big dry drums and timpani, tape-saturated maximal mix, dramatic, operatic, epic",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, trap hi-hats, autotune, EDM, country, disco",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 315,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: a cappella four-part harmony, close and soft]\nSomebody tell me whose shoes I am wearing\nWhose name's on the door, whose face in the mirror is staring\nI'm an ordinary man, I need no applause\nBut I swallowed a sentence for years, and it clawed\n\n[Ballad: solo voice and piano, bass enters]\nMama, I said it out loud\nStood in the kitchen and I said it out loud\nForty years of yes, and I told them no\nMama, the words are out and I can't make them go\n\n[Ballad: fuller, drums enter softly]\nMama, ooh\nI know it isn't what you planned\nIf I'm a stranger to you now\nHold on to my hand\n\n[Verse: piano and band, voice breaking]\nGoodbye to the desk and the tie\nThe smile I wore like a borrowed suit\nI'm not sorry, I'm terrified\nI don't know what I'll do\n\n[Guitar Solo: singing, harmonised lead guitar over the ballad chords]\n\n[Opera: staccato piano, stacked choir, high and low voices trading]\n(Who is this man?) A clerk! (A clerk?) A clerk from accounts!\n(Signore, signore, he's making announcements!)\nSound the trombones, the committee's upset\n(Rigatoni!) Rigatoni! (Minestrone!) Not yet!\nHe's only a small man from a small cul-de-sac\n(Leave him his lunch break and send the man back!)\nSend him back? No! We will not send him back!\n(Send him back!) Never! (Send him back!) Never, never, never!\nThe neighbours have a pitchfork with my name on\nMy name on, my name on!\n\n[Hard Rock: heavy guitar riff, full band, shouted]\nYou had me in a drawer with a label and a date\nYou had me saying sorry for arriving, being late\nOh, people, not this time, people\nI'm walking out, I'm walking right out of this gate\n\n[Guitar Break: riff climbs, drums crash, then slows]\n\n[Coda: slow, piano and soft voice, a gong at the end]\nIt was only a sentence\nIt was only the truth\nI said it in the kitchen\nAnd the ceiling stayed a roof\nMorning's coming anyway",
+    "taskId": "cdb04f98378b3c8421751b33ac3bff9c",
+    "sunoClipIds": [
+      "40ac7227-0b6f-4ee7-9310-002c929bd9b0",
+      "de25aeb3-2c3b-49f1-9f7c-d2d60a728a3d"
+    ],
+    "created": "Nov 16, 2026 8:07 AM ET",
+    "createTimeMs": 1794834444425,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "40ac7227-0b6f-4ee7-9310-002c929bd9b0",
+        "durationSec": 314.16,
+        "file": "seventies/e70_01_mama_i_said_it_out_loud_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "de25aeb3-2c3b-49f1-9f7c-d2d60a728a3d",
+        "durationSec": 313.96,
+        "file": "seventies/e70_01_mama_i_said_it_out_loud_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_01_mama_i_said_it_out_loud_req.json",
+      "seventies/e70_01_mama_i_said_it_out_loud_rec.json"
+    ],
+    "cover": "seventies/covers/e70_01_mama_i_said_it_out_loud.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: Five sections. Ballad at 72 BPM in B-flat major; opera at a brisk 144 with sudden key changes; hard rock at 144 in E-flat; coda back to 72. Theatrical, shifting, larger than life.\n\nVOICE: A male tenor with an enormous range and a theatrical delivery: tender in the ballad, operatic and exact in the middle, snarling in the rock section, hushed at the end. In the intro and opera his voice is stacked dozens of times into a choir, from a rumbling bass to a piercing falsetto, trading phrases left and right.\n\nINSTRUMENTS: Grand piano. A lead electric guitar with a thick, singing, layered tone, often harmonised with itself. Melodic bass. A big, dry drum kit with timpani. Massed vocal overdubs used as an orchestra. A heavy, crunching guitar riff for the rock section. A single gong at the close.\n\nARRANGEMENT MAP: 0:00 Intro, voices alone. 0:28 Ballad, piano and solo voice. 1:20 Drums enter. 1:55 Verse with the full band. 2:25 Guitar solo. 2:50 Opera: the band cuts to staccato piano and the choir takes over, with sudden stops and key changes. 3:45 Hard rock section. 4:15 Guitar break climbing and then slowing. 4:30 Coda, piano and soft voice, a gong at 4:55.\n\nPRODUCTION & MIX: Mid-1970s maximal studio rock: tape-saturated, with huge walls of overdubbed voices and guitars, dramatic panning and extreme changes of volume.\n\nSIGNATURE MOMENT: The cut from guitar solo to staccato piano and choir at 2:50.\n\nMODERN POINT OF VIEW: The confession is a middle-aged man's, and the terror is ordinary: a job, a role, a kitchen. The coda's discovery is that he told the truth and the ceiling stayed up.\n\nEMOTIONAL ARC: Confession, fear, farce, defiance, calm.",
+    "workbookAtAGlance": "Mama, I Said It Out Loud\n\nBackup titles\nRigatoni, Not Yet / The Ceiling Stayed a Roof\n\nAt a glance\n72 BPM, then 144, then 72, B-flat major, moving through several keys\nVoice: Theatrical male tenor, stacked choir of the same voice\nLength: about 5 minutes",
+    "qa": {
+      "title": "Mama, I Said It Out Loud",
+      "id": "e70_01",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check partial: 56% of lines recognised (unclear: Opera, Hard Rock)"
+          ],
+          "durationSec": 314.2,
+          "measuredBpm": 139.7,
+          "bpmFactor": 1,
+          "targetBpm": 144,
+          "bpmErrPct": 3.0,
+          "lufs": -13.8,
+          "peakDbfs": -0.52,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 312.7,
+          "vocalCoverage": 0.592,
+          "vocalSpanSec": [
+            14.9,
+            276.8
+          ],
+          "vocalF0MedianHz": 355,
+          "vocalF0P25Hz": 302,
+          "lyricLineRecall": 0.559,
+          "lyricUnclearSections": [
+            "Opera",
+            "Hard Rock"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check partial: 50% of lines recognised"
+          ],
+          "durationSec": 314.0,
+          "measuredBpm": 139.7,
+          "bpmFactor": 1,
+          "targetBpm": 144,
+          "bpmErrPct": 3.0,
+          "lufs": -13.8,
+          "peakDbfs": -0.49,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.6,
+          "contentEndSec": 312.0,
+          "vocalCoverage": 0.599,
+          "vocalSpanSec": [
+            13.0,
+            298.9
+          ],
+          "vocalF0MedianHz": 444,
+          "vocalF0P25Hz": 295,
+          "lyricLineRecall": 0.5,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_02",
+    "title": "You'll Hear It When It's Quiet",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 2,
+    "slug": "e70_02_youll_hear_it_when_its_quiet",
+    "inspiredBy": "Dreams (Fleetwood Mac, 1977)",
+    "leadVoice": "Female alto, husky and slightly nasal with a quick, fluttering vibrato. She sings softly and evenly, never pushing. Two more voices, a higher woman and a man, join in close three-part harmony on the choruses. Dreamy ad-libs over the last chorus.",
+    "model": "V6",
+    "style": "1977 California soft rock, husky slightly nasal female alto vocal with a quick fluttering vibrato, soft even delivery, close three-part harmony choruses with a higher woman and a man, dreamy ad-libs, 120 BPM, A minor, two chords alternating unchanged for the whole song, cool floating and unhurried, very steady soft drums with constant hi-hat, round simple repeating bass line, clean electric guitar volume swells, vibraphone, electric piano, quiet acoustic guitar, light congas, dry close warm balanced mix, calm, knowing, bittersweet",
+    "negativeTags": "distorted guitar, synthesizer, drum machine, male lead vocals, rap, fast tempo, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 275,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: soft steady drums, round bass, two drifting guitar chords]\n\n[Verse 1: husky, calm, close]\nSo you want the open road\nThe wind and none of the weight\nGo on, then, I won't hold the door\nI won't stand at the gate\n\n[Pre-Chorus: vibraphone, soft harmony]\nOne night the engine's going to cool\nAnd the radio will fade\nAnd you'll be parked with what you chose\nAnd everything it weighed\n\n[Chorus: three-part harmony, the same two chords]\nTides only turn when nobody's looking\nFires only talk when the room goes cold\nYou'll hear it when it's quiet\nWhat the loud was keeping from you\nAnd I'll be fine by then\nOh, I'll be fine\n\n[Verse 2: husky, a little cooler]\nI've seen the way you pack a bag\nLike the bag has all the answers\nYou love the leaving more than the going\nYou're a dance without the dancers\n\n[Pre-Chorus: vibraphone, soft harmony]\nOne day the mirror's going to ask\nAnd you won't know what to say\nAnd you'll remember someone asked you\nKindly, once, to stay\n\n[Chorus: three-part harmony, the same two chords]\nTides only turn when nobody's looking\nFires only talk when the room goes cold\nYou'll hear it when it's quiet\nWhat the loud was keeping from you\nAnd I'll be fine by then\nOh, I'll be fine\n\n[Guitar Solo: volume swells, sparse and sighing]\n\n[Final Chorus: harmonies fuller, ad-libs drifting]\nTides only turn when nobody's looking\nFires only talk when the room goes cold\nYou'll hear it when it's quiet\nYou'll hear it when it's quiet\n\n[Outro: drums and bass alone, fading]\nQuiet",
+    "taskId": "3364acda4428b76abd34190376faeaa0",
+    "sunoClipIds": [
+      "c564333f-2d14-4a93-808e-7e2d4e3508a0",
+      "9f163f1c-880e-463f-b9b5-86f266640952"
+    ],
+    "created": "Nov 16, 2026 8:07 AM ET",
+    "createTimeMs": 1794834455216,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "c564333f-2d14-4a93-808e-7e2d4e3508a0",
+        "durationSec": 274.56,
+        "file": "seventies/e70_02_youll_hear_it_when_its_quiet_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "9f163f1c-880e-463f-b9b5-86f266640952",
+        "durationSec": 274.56,
+        "file": "seventies/e70_02_youll_hear_it_when_its_quiet_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_02_youll_hear_it_when_its_quiet_req.json",
+      "seventies/e70_02_youll_hear_it_when_its_quiet_rec.json"
+    ],
+    "cover": "seventies/covers/e70_02_youll_hear_it_when_its_quiet.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, A minor. Two chords alternating without change for the whole song. Cool, floating and unhurried.\n\nVOICE: Female alto, husky and slightly nasal with a quick, fluttering vibrato. She sings softly and evenly, never pushing. Two more voices, a higher woman and a man, join in close three-part harmony on the choruses. Dreamy ad-libs over the last chorus.\n\nINSTRUMENTS: A very steady, soft drum pattern with a constant hi-hat and a gentle snare. A round, simple, repeating bass line. Clean electric guitar playing swells and small answering phrases with a volume pedal. Vibraphone. Electric piano. Acoustic guitar strummed quietly. Light congas.\n\nARRANGEMENT MAP: 0:00 Intro, drums, bass and guitar. 0:16 Verse 1. 0:48 Pre-chorus. 1:20 Chorus 1. 1:52 Verse 2. 2:24 Pre-chorus. 2:56 Chorus 2. 3:28 Guitar solo of swells. 3:44 Final chorus, with the title line repeated. 4:08 Outro, drums and bass fading by 4:20.\n\nPRODUCTION & MIX: Late-1970s California studio sound: dry, close, warm and perfectly balanced, each instrument small and clear, a lot of air.\n\nSIGNATURE MOMENT: The first chorus, when three voices arrive on the proverb lines.\n\nMODERN POINT OF VIEW: She does not predict that he will be lonely and come back. She says she will be fine by then. The calm of the original is kept, and the dependence is taken out.\n\nEMOTIONAL ARC: Composure, clear sight, release.",
+    "workbookAtAGlance": "You'll Hear It When It's Quiet\n\nBackup titles\nTides Only Turn / Everything It Weighed\n\nAt a glance\n120 BPM, A minor (two chords)\nVoice: Husky female alto, soft harmonies\nLength: about 4 minutes",
+    "qa": {
+      "title": "You'll Hear It When It's Quiet",
+      "id": "e70_02",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 274.6,
+          "measuredBpm": 118.8,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 1.0,
+          "lufs": -13.7,
+          "peakDbfs": -0.31,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.6,
+          "contentEndSec": 272.8,
+          "vocalCoverage": 0.496,
+          "vocalSpanSec": [
+            17.0,
+            255.1
+          ],
+          "vocalF0MedianHz": 264,
+          "vocalF0P25Hz": 249,
+          "lyricLineRecall": 0.938,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 274.6,
+          "measuredBpm": 121.6,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 1.3,
+          "lufs": -14.0,
+          "peakDbfs": -0.23,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.6,
+          "contentEndSec": 272.7,
+          "vocalCoverage": 0.577,
+          "vocalSpanSec": [
+            16.7,
+            258.4
+          ],
+          "vocalF0MedianHz": 295,
+          "vocalF0P25Hz": 263,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_03",
+    "title": "Second Friday in October",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 3,
+    "slug": "e70_03_second_friday_in_october",
+    "inspiredBy": "September (Earth, Wind & Fire, 1978)",
+    "leadVoice": "A smooth male tenor carries the verses. A second man sings a pure, very high falsetto over the pre-chorus and choruses. A group of men sings the nonsense syllables in tight harmony. Falsetto ad-libs at the end.",
+    "model": "V6",
+    "style": "1978 polished funk and soul celebration, smooth male tenor lead, a second man singing pure very high falsetto on the choruses, group of men singing nonsense syllables in tight harmony, 126 BPM, A major, rolling buoyant groove, bright tight horn section riff with trumpets, trombones and saxophones answering the vocals, clean choppy rhythm guitar, busy melodic electric bass, crisp drums with lively hi-hat, congas, cowbell, kalimba in the break, electric piano, strings, bright clean punchy mix, joyful, nostalgic, danceable",
+    "negativeTags": "distorted guitar, female lead vocals, slow ballad, dark mood, drum machine, rap, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bright horn riff, clean guitar chops, rolling bass]\n\n[Verse 1: smooth tenor, light and happy]\nIt was the second Friday in October\nStreetlights humming, summer almost over\nYour cousin's car, the radio on low\nWe didn't have a single place to go\n\n[Pre-Chorus: falsetto joins, horns climb]\nAnd the whole town smelled like rain and somebody's fire\nOur hearts were ringing like a telephone wire\n\n[Chorus: group vocals, falsetto on top, horns answering]\nSha-da-dee, say you were there\nSha-da-dee, leaves in your hair\nSha-da-dee, nothing went wrong\nOn the second Friday, all night long\n\n[Verse 2: smooth tenor, bass busier]\nNow the calendar has turned a few more pages\nWe've been all kinds of people, all kinds of ages\nBut when the air gets cool and the light gets gold\nI am twenty-one and I'm not getting old\n\n[Pre-Chorus: falsetto joins, horns climb]\nAnd the whole town smells like rain and somebody's fire\nMy heart is ringing like a telephone wire\n\n[Chorus: group vocals, falsetto on top, horns answering]\nSha-da-dee, say you were there\nSha-da-dee, leaves in your hair\nSha-da-dee, nothing went wrong\nOn the second Friday, all night long\n\n[Horn Break: horn section trades with a kalimba, percussion]\n\n[Bridge: falsetto lead, group answering]\nSha-da-dee-ya, dee-ya\n(Was it the ninth? Was it the tenth?)\nSha-da-dee-ya, dee-ya\n(Nobody knows, nobody cares)\n\n[Final Chorus: everyone, horns wide open, falsetto ad-libs]\nSha-da-dee, say you were there\nSha-da-dee, leaves in your hair\nSha-da-dee, nothing went wrong\nOn the second Friday, all night long\nSha-da-dee, sha-da-dee\nAll night long\n\n[Outro: horn riff, falsetto fading]\nSha-da-dee",
+    "taskId": "493e938dabab9a8631265b9e557574f7",
+    "sunoClipIds": [
+      "d84d2dce-a0a3-4d8b-9171-294bcb819a87",
+      "4f00217c-6f87-4ce1-9125-f260ede49435"
+    ],
+    "created": "Nov 16, 2026 8:07 AM ET",
+    "createTimeMs": 1794834447557,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "d84d2dce-a0a3-4d8b-9171-294bcb819a87",
+        "durationSec": 234.4,
+        "file": "seventies/e70_03_second_friday_in_october_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "4f00217c-6f87-4ce1-9125-f260ede49435",
+        "durationSec": 234.76,
+        "file": "seventies/e70_03_second_friday_in_october_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_03_second_friday_in_october_req.json",
+      "seventies/e70_03_second_friday_in_october_rec.json"
+    ],
+    "cover": "seventies/covers/e70_03_second_friday_in_october.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 126 BPM, 4/4, A major. A rolling, buoyant groove that never lets up. Pure celebration.\n\nVOICE: A smooth male tenor carries the verses. A second man sings a pure, very high falsetto over the pre-chorus and choruses. A group of men sings the nonsense syllables in tight harmony. Falsetto ad-libs at the end.\n\nINSTRUMENTS: A horn section (trumpets, trombones, saxophones) playing a bright, tight riff and answering the vocals. A clean electric guitar playing constant choppy chords. A busy, melodic electric bass. A crisp drum kit with a lively hi-hat. Congas and a cowbell. An African thumb piano (kalimba) in the break. Electric piano and strings.\n\nARRANGEMENT MAP: 0:00 Intro, horn riff over guitar and bass. 0:15 Verse 1. 0:30 Pre-chorus. 0:45 Chorus 1. 1:00 Verse 2. 1:15 Pre-chorus. 1:30 Chorus 2. 1:45 Horn break with kalimba. 2:08 Bridge, falsetto and answering voices. 2:38 Final chorus, extended. 3:15 Outro, horns and fading falsetto to 3:35.\n\nPRODUCTION & MIX: Late-1970s polished funk and soul: bright, clean and punchy, horns crisp, bass round, vocals stacked and smooth.\n\nSIGNATURE MOMENT: The first 'sha-da-dee' at 0:45, with the falsetto above it.\n\nMODERN POINT OF VIEW: Verse 2 looks back from decades later and says the cool air still does it. The bridge admits nobody remembers the actual date, which is how real memories of perfect nights behave.\n\nEMOTIONAL ARC: Joy remembered, joy relived.",
+    "workbookAtAGlance": "Second Friday in October\n\nBackup titles\nSha-Da-Dee / Leaves in Your Hair\n\nAt a glance\n126 BPM, A major\nVoice: Male tenor and high falsetto, group vocals\nLength: about 3 minutes 40",
+    "qa": {
+      "title": "Second Friday in October",
+      "id": "e70_03",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 234.4,
+          "measuredBpm": 124.5,
+          "bpmFactor": 1,
+          "targetBpm": 126,
+          "bpmErrPct": 1.2,
+          "lufs": -13.6,
+          "peakDbfs": -0.38,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.4,
+          "contentEndSec": 233.0,
+          "vocalCoverage": 0.681,
+          "vocalSpanSec": [
+            19.2,
+            229.0
+          ],
+          "vocalF0MedianHz": 333,
+          "vocalF0P25Hz": 263,
+          "lyricLineRecall": 0.871,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.2 dBFS (2 clipped sample, inaudible)",
+            "lyric check partial: 58% of lines recognised"
+          ],
+          "durationSec": 234.8,
+          "measuredBpm": 126.0,
+          "bpmFactor": 1,
+          "targetBpm": 126,
+          "bpmErrPct": 0.0,
+          "lufs": -13.8,
+          "peakDbfs": 0.2,
+          "clipSamples": 2,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 233.0,
+          "vocalCoverage": 0.611,
+          "vocalSpanSec": [
+            31.4,
+            221.7
+          ],
+          "vocalF0MedianHz": 385,
+          "vocalF0P25Hz": 295,
+          "lyricLineRecall": 0.581,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_04",
+    "title": "Seventeen at the Core",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 4,
+    "slug": "e70_04_seventeen_at_the_core",
+    "inspiredBy": "Dancing Queen (ABBA, 1976)",
+    "leadVoice": "Two women singing mostly in unison, one voice bright and clear, the other warmer and deeper, so the blend shimmers. They split into harmony at the ends of phrases and climb very high together. Each takes one verse alone, softly. Layered many times in the chorus.",
+    "model": "V6",
+    "style": "1976 Swedish disco pop wall of sound, two female voices singing mostly in unison, one bright and clear and one warm and deep, splitting into high harmony at the ends of phrases, layered many times, each taking a soft verse alone, 101 BPM, A major, stately gliding tempo, song opens with the chorus, grand piano with a sweeping glissando and rich rolling chords, high sustained string section, steady drums with soft four-on-the-floor kick, melodic moving bass, tambourine, tubular bells, dense bright reverberant mix, glowing, bittersweet, joyful",
+    "negativeTags": "male lead vocals, distorted guitar, rap, drum machine, dark mood, trap hi-hats, autotune, EDM drop",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: sweeping piano glissando, strings, straight into the chorus]\n\n[Chorus: two women in unison, lush and bright]\nLook at her go\nSilver hair and seventeen at the core\nEvery beat she ever knew comes back for more\nOh, she's the last one dancing\nAnd the first one on the floor\nLook at her, she's seventeen at the core\n\n[Verse 1: softer, one voice leading, piano and bass]\nThe band's a little out of tune\nIt's someone's wedding, late in June\nShe leaves her handbag with her friend\nAnd walks out on the floor\n\n[Pre-Chorus: harmonies rise, drums build]\nAnd you can see it, anyone can\nThe years step back and give her room\n\n[Chorus: two women in unison, lush and bright]\nLook at her go\nSilver hair and seventeen at the core\nEvery beat she ever knew comes back for more\nOh, she's the last one dancing\nAnd the first one on the floor\nLook at her, she's seventeen at the core\n\n[Verse 2: softer, the other voice leading]\nShe raised three kids and buried one\nShe's done what anyone has done\nBut there's a song, and here it comes\nAnd nobody is tired any more\n\n[Pre-Chorus: harmonies rise, drums build]\nAnd you can see it, anyone can\nThe years step back and give her room\n\n[Chorus: two women in unison, lush and bright]\nLook at her go\nSilver hair and seventeen at the core\nEvery beat she ever knew comes back for more\nOh, she's the last one dancing\nAnd the first one on the floor\nLook at her, she's seventeen at the core\n\n[Outro: chorus melody on piano and strings, voices in harmony, fade]\nLook at her go\nLook at her go",
+    "taskId": "0f601dfd5b1c880e59e59cf56846007c",
+    "sunoClipIds": [
+      "3622ed78-595f-4aad-adf0-c0ac0df341ad",
+      "6f4d39fd-cc67-4a66-b559-fd744cca241d"
+    ],
+    "created": "Nov 16, 2026 8:07 AM ET",
+    "createTimeMs": 1794834447991,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3622ed78-595f-4aad-adf0-c0ac0df341ad",
+        "durationSec": 244.4,
+        "file": "seventies/e70_04_seventeen_at_the_core_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "6f4d39fd-cc67-4a66-b559-fd744cca241d",
+        "durationSec": 244.36,
+        "file": "seventies/e70_04_seventeen_at_the_core_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_04_seventeen_at_the_core_req.json",
+      "seventies/e70_04_seventeen_at_the_core_rec.json"
+    ],
+    "cover": "seventies/covers/e70_04_seventeen_at_the_core.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 101 BPM, 4/4, A major. A stately, gliding disco-pop tempo. Glowing and bittersweet.\n\nVOICE: Two women singing mostly in unison, one voice bright and clear, the other warmer and deeper, so the blend shimmers. They split into harmony at the ends of phrases and climb very high together. Each takes one verse alone, softly. Layered many times in the chorus.\n\nINSTRUMENTS: A grand piano with a sweeping downward glissando and rich, rolling chords. A string section playing high, sustained lines. A steady drum kit with a soft four-on-the-floor kick. A melodic, moving bass. Acoustic and electric rhythm guitars. Tubular bells and a tambourine. A bright synthesiser line doubling the strings.\n\nARRANGEMENT MAP: 0:00 Intro, a piano glissando and strings. 0:10 The chorus first. 0:44 Verse 1. 1:06 Pre-chorus. 1:17 Chorus 2. 1:51 Verse 2. 2:13 Pre-chorus. 2:24 Chorus 3. 2:58 Outro, the chorus tune on piano and strings with the voices in harmony, fading out by 3:45.\n\nPRODUCTION & MIX: Mid-1970s Swedish pop wall of sound: dense, bright and reverberant, with many layers of voices and pianos blended into one glowing mass.\n\nSIGNATURE MOMENT: The piano glissando into the first chorus.\n\nMODERN POINT OF VIEW: The watcher in the original sees a girl and feels time passing. This watcher sees an old woman and sees the girl still in there. Verse 2 gives her a real life, in two lines.\n\nEMOTIONAL ARC: Admiration, tenderness, uplift.",
+    "workbookAtAGlance": "Seventeen at the Core\n\nBackup titles\nLast One Dancing / Silver Hair\n\nAt a glance\n101 BPM, A major\nVoice: Two female voices in unison and harmony\nLength: about 3 minutes 50",
+    "qa": {
+      "title": "Seventeen at the Core",
+      "id": "e70_04",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.4,
+          "measuredBpm": 106.6,
+          "bpmFactor": 1,
+          "targetBpm": 101,
+          "bpmErrPct": 5.5,
+          "lufs": -13.3,
+          "peakDbfs": -1.71,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 242.9,
+          "vocalCoverage": 0.631,
+          "vocalSpanSec": [
+            17.4,
+            228.2
+          ],
+          "vocalF0MedianHz": 312,
+          "vocalF0P25Hz": 278,
+          "lyricLineRecall": 0.938,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.4,
+          "measuredBpm": 105.5,
+          "bpmFactor": 1,
+          "targetBpm": 101,
+          "bpmErrPct": 4.4,
+          "lufs": -13.3,
+          "peakDbfs": -0.74,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.3,
+          "contentEndSec": 242.7,
+          "vocalCoverage": 0.713,
+          "vocalSpanSec": [
+            18.6,
+            238.5
+          ],
+          "vocalF0MedianHz": 292,
+          "vocalF0P25Hz": 263,
+          "lyricLineRecall": 0.969,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_05",
+    "title": "Last Call at the Meridian",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 5,
+    "slug": "e70_05_last_call_at_the_meridian",
+    "inspiredBy": "Hotel California (Eagles, 1976)",
+    "leadVoice": "Male tenor with a dry rasp, singing like a man telling a story across a table. High, smooth harmony voices join for the choruses. No vocal histrionics. The last line is delivered flat and quiet.",
+    "model": "V6",
+    "style": "1976 Los Angeles soft rock epic, dry raspy male tenor storytelling vocal, high smooth harmony voices on the choruses, 74 BPM, B minor, slow hazy sway with reggae-style off-beat guitar chops and a Spanish colour, twelve-string acoustic guitar arpeggio intro, two electric lead guitars answering the vocal, long guitar solo with the two leads trading phrases then playing in harmony, melodic bass, relaxed drums with timbales, long fade-out, dry wide immaculate mix, mysterious, seductive, uneasy",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, fast tempo, trap hi-hats, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 315,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: twelve-string acoustic guitar arpeggio, distant ship's bell]\n\n[Verse 1: raspy, storytelling, slow sway begins]\nI won a ticket in a raffle that I don't recall\nA white ship at the harbour wall, a brass band in the hall\nA steward took my suitcase and he took my name\nSaid \"everybody boards alone and nobody's to blame\"\n\n[Verse 2: bass and drums enter]\nThere were ladies at the railing in their evening best\nThere were gentlemen who'd loosened every button on their vest\nI asked a man beside me how long he'd been at sea\nHe looked up at the mirror ball and didn't answer me\n\n[Chorus: high harmonies, guitars answering]\nWelcome aboard the Meridian\nSuch a beautiful night\nPlenty of room on the Meridian\nAny hour, the buffet's bright\nThey're dancing on the lido deck\nThey've danced there since the war\nIt's last call at the Meridian\nIt's been last call since before\n\n[Verse 3: storytelling, a little uneasy]\nThe captain is a recording and the map's a painted wall\nThe clocks are all on different times and no one minds at all\nI asked the purser \"where's the port?\" and he poured me wine\nSaid \"sir, we have a schedule, and it's working out just fine\"\n\n[Chorus: high harmonies, guitars answering]\nWelcome aboard the Meridian\nSuch a beautiful night\nPlenty of room on the Meridian\nAny hour, the buffet's bright\nThey're dancing on the lido deck\nThey've danced there since the war\nIt's last call at the Meridian\nIt's been last call since before\n\n[Verse 4: quieter, the reveal]\nI went below to find the door I'd come through at the start\nJust a mural of a doorway, very tasteful, very smart\nThe band struck up my favourite and a chair slid out for me\nI thought, one more and then I'll go\nAnd I've been one more since\n\n[Guitar Solo: two lead guitars trading phrases, then in harmony]\n\n[Outro: twin guitars in harmony over the sway, long fade]",
+    "taskId": "53931773ee1541c85e94feb58e070124",
+    "sunoClipIds": [
+      "74125229-1c06-4602-88b8-857b66ba0204",
+      "10097d01-5f89-4c2a-8c2d-e3afbb8c2ef3"
+    ],
+    "created": "Nov 16, 2026 8:07 AM ET",
+    "createTimeMs": 1794834468519,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "74125229-1c06-4602-88b8-857b66ba0204",
+        "durationSec": 314.56,
+        "file": "seventies/e70_05_last_call_at_the_meridian_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "10097d01-5f89-4c2a-8c2d-e3afbb8c2ef3",
+        "durationSec": 314.76,
+        "file": "seventies/e70_05_last_call_at_the_meridian_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_05_last_call_at_the_meridian_req.json",
+      "seventies/e70_05_last_call_at_the_meridian_rec.json"
+    ],
+    "cover": "seventies/covers/e70_05_last_call_at_the_meridian.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 74 BPM, 4/4, B minor. A slow sway with a hint of reggae in the guitar chops and a Spanish colour in the chords. Hazy, seductive and uneasy.\n\nVOICE: Male tenor with a dry rasp, singing like a man telling a story across a table. High, smooth harmony voices join for the choruses. No vocal histrionics. The last line is delivered flat and quiet.\n\nINSTRUMENTS: A twelve-string acoustic guitar playing the opening arpeggios. Two electric lead guitars, one bright and one thicker, which answer the vocal and then share a long harmonised duet. Electric rhythm guitar playing off-beat chops. A melodic bass. A relaxed drum kit with timbales and a soft backbeat. A ship's bell.\n\nARRANGEMENT MAP: 0:00 Intro, twelve-string guitar. 0:26 Verse 1. 0:52 Verse 2, band in. 1:18 Chorus 1. 1:50 Verse 3. 2:16 Chorus 2. 2:48 Verse 4, quieter, ending on the reveal. 3:20 Guitar solo: the two leads trade four-bar phrases. 4:10 They join in harmony over the verse chords and play the tune out, fading by 5:00.\n\nPRODUCTION & MIX: Mid-1970s Los Angeles studio rock: dry, wide and immaculate, acoustic and electric guitars carefully layered, drums soft and close.\n\nSIGNATURE MOMENT: The two guitars locking into harmony at about 4:10.\n\nMODERN POINT OF VIEW: No one forbids him to leave. The ship is pleasant, the chair slides out, and he keeps choosing one more. That is the quieter trap of later life and of endless entertainment.\n\nEMOTIONAL ARC: Curiosity, comfort, unease, contented surrender.",
+    "workbookAtAGlance": "Last Call at the Meridian\n\nBackup titles\nOne More Since / Nobody's to Blame\n\nAt a glance\n74 BPM, B minor\nVoice: Raspy male tenor, high harmonies\nLength: about 5 minutes",
+    "qa": {
+      "title": "Last Call at the Meridian",
+      "id": "e70_05",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.2 dBFS (6 clipped sample, inaudible)"
+          ],
+          "durationSec": 314.6,
+          "measuredBpm": 68.9,
+          "bpmFactor": 1,
+          "targetBpm": 74,
+          "bpmErrPct": 6.9,
+          "lufs": -13.4,
+          "peakDbfs": 0.2,
+          "clipSamples": 6,
+          "midGaps": [],
+          "endFadeSec": 3.0,
+          "contentEndSec": 312.4,
+          "vocalCoverage": 0.553,
+          "vocalSpanSec": [
+            23.8,
+            284.1
+          ],
+          "vocalF0MedianHz": 290,
+          "vocalF0P25Hz": 247,
+          "lyricLineRecall": 0.788,
+          "lyricUnclearSections": [
+            "Verse 4"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 314.8,
+          "measuredBpm": 68.4,
+          "bpmFactor": 1,
+          "targetBpm": 74,
+          "bpmErrPct": 7.5,
+          "lufs": -13.6,
+          "peakDbfs": -0.25,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 312.7,
+          "vocalCoverage": 0.49,
+          "vocalSpanSec": [
+            28.8,
+            292.5
+          ],
+          "vocalF0MedianHz": 221,
+          "vocalF0P25Hz": 165,
+          "lyricLineRecall": 0.879,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_06",
+    "title": "Cold on a Clear Blue Day",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 6,
+    "slug": "e70_06_cold_on_a_clear_blue_day",
+    "inspiredBy": "Have You Ever Seen the Rain (Creedence Clearwater Revival, 1970)",
+    "leadVoice": "Male tenor with a rough, grainy, slightly shouted tone and a Southern colour, though he never sounds angry. The chorus question is sung at the top of his range with a second voice in harmony. No ornament at all.",
+    "model": "V6",
+    "style": "1970 American roots rock, rough grainy warm male tenor vocal with a Southern colour, plain unornamented delivery, a harmony voice on the chorus question, 116 BPM, C major, steady unhurried country-rock shuffle, strummed acoustic guitar, simple thumping electric bass walking down between chords, rolling piano chords, Hammond organ under the choruses, plain drums with firm backbeat, clean electric guitar fills, recorded live in a room, dry warm unfussy mix, wistful, plain-spoken, short",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy distortion, trap hi-hats, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 180,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: acoustic guitar strum, piano, bass walking down]\n\n[Verse 1: rough, warm, plain]\nWhole town's out in their Sunday best\nBand on the green and the kids all dressed\nBiggest day that we ever had\nSo why's a part of me so sad?\n\n[Chorus: full band, organ, harmony on the question]\nTell me, did you ever feel\nCold on a clear blue day?\nTell me, did you ever feel\nSomething slip away\nRight in the middle of the best of times?\n\n[Verse 2: rough, a little quieter]\nYesterday and days before\nWe were laughing on the floor\nNow we're smiling for the crowd\nAnd nobody says it loud\n\n[Chorus: full band, organ, harmony on the question]\nTell me, did you ever feel\nCold on a clear blue day?\nTell me, did you ever feel\nSomething slip away\nRight in the middle of the best of times?\n\n[Instrumental: piano and organ carry the chorus melody]\n\n[Verse 3: rough, steady]\nSo I'll clap along and I'll hold the door\nI'll take the picture, I'll ask for more\nAnd when it's over I'll stay a while\nWith the folding chairs and the half a smile\n\n[Final Chorus: full band, voice pushing]\nTell me, did you ever feel\nCold on a clear blue day?\nTell me, did you ever feel\nSomething slip away\nRight in the middle of the best of times?\n\n[Outro: band slows, one piano chord]\nYeah",
+    "taskId": "2ec6d03151001df3fdc47443fc69f44a",
+    "sunoClipIds": [
+      "80ff54c6-043e-4ccf-9863-7a7ffd28753e",
+      "f56c1c22-7b44-49d9-b824-47cd237f1fa7"
+    ],
+    "created": "Nov 16, 2026 8:07 AM ET",
+    "createTimeMs": 1794834456212,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "80ff54c6-043e-4ccf-9863-7a7ffd28753e",
+        "durationSec": 179.04,
+        "file": "seventies/e70_06_cold_on_a_clear_blue_day_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "f56c1c22-7b44-49d9-b824-47cd237f1fa7",
+        "durationSec": 179.52,
+        "file": "seventies/e70_06_cold_on_a_clear_blue_day_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_06_cold_on_a_clear_blue_day_req.json",
+      "seventies/e70_06_cold_on_a_clear_blue_day_rec.json"
+    ],
+    "cover": "seventies/covers/e70_06_cold_on_a_clear_blue_day.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 116 BPM, 4/4, C major. A steady, unhurried country-rock shuffle. Plain, warm and a little heavy-hearted.\n\nVOICE: Male tenor with a rough, grainy, slightly shouted tone and a Southern colour, though he never sounds angry. The chorus question is sung at the top of his range with a second voice in harmony. No ornament at all.\n\nINSTRUMENTS: Strummed acoustic guitar. A simple, thumping electric bass that walks downward between chords. Piano playing rolling chords. A Hammond-style organ under the choruses. A plain drum kit with a firm backbeat. A clean electric guitar adding small fills.\n\nARRANGEMENT MAP: 0:00 Intro, guitar, piano and the descending bass. 0:10 Verse 1. 0:28 Chorus 1. 0:52 Verse 2. 1:10 Chorus 2. 1:34 Instrumental, piano and organ on the chorus tune. 1:52 Verse 3. 2:10 Final chorus. 2:34 Outro, the band slows to one piano chord at 2:42.\n\nPRODUCTION & MIX: Early-1970s roots rock recorded live in a room: dry, warm, mono-ish and unfussy, with the voice loud and close.\n\nSIGNATURE MOMENT: The bass walking down into the first verse.\n\nMODERN POINT OF VIEW: Verse 3 is the older response: he claps, holds the door, takes the photograph, and stays behind with the folding chairs. He does not need the feeling explained in order to see the day through.\n\nEMOTIONAL ARC: Celebration, unease, quiet acceptance.",
+    "workbookAtAGlance": "Cold on a Clear Blue Day\n\nBackup titles\nBiggest Day We Ever Had / Nobody Says It Loud\n\nAt a glance\n116 BPM, C major\nVoice: Rough warm male tenor\nLength: about 2 minutes 45",
+    "qa": {
+      "title": "Cold on a Clear Blue Day",
+      "id": "e70_06",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 179.1,
+          "measuredBpm": 114.8,
+          "bpmFactor": 1,
+          "targetBpm": 116,
+          "bpmErrPct": 1.0,
+          "lufs": -14.2,
+          "peakDbfs": -1.18,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.4,
+          "contentEndSec": 177.2,
+          "vocalCoverage": 0.498,
+          "vocalSpanSec": [
+            16.7,
+            158.1
+          ],
+          "vocalF0MedianHz": 261,
+          "vocalF0P25Hz": 197,
+          "lyricLineRecall": 0.852,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 179.5,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 116,
+          "bpmErrPct": 1.3,
+          "lufs": -14.2,
+          "peakDbfs": -0.44,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 177.9,
+          "vocalCoverage": 0.446,
+          "vocalSpanSec": [
+            4.0,
+            153.4
+          ],
+          "vocalF0MedianHz": 166,
+          "vocalF0P25Hz": 147,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_07",
+    "title": "Walk Like the Rent's Paid",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 7,
+    "slug": "e70_07_walk_like_the_rents_paid",
+    "inspiredBy": "Stayin' Alive (Bee Gees, 1977)",
+    "leadVoice": "Three men singing in a high, bright, slightly nasal falsetto with a fast vibrato, in tight three-part harmony throughout. The lead line is clipped and rhythmic in the verses. In the bridge they drop into natural, lower voices for three lines.",
+    "model": "V6",
+    "style": "1977 disco, three men singing in high bright slightly nasal falsetto with fast vibrato in tight three-part harmony, clipped rhythmic verses, natural lower voices for a short bridge, 104 BPM, F minor, strutting mid-tempo walking groove, scratchy strutting rhythm guitar riff, drum pattern repeating identically like a loop with steady kick and crisp snare, prowling syncopated bass, string section with rising lines and stabs, electric piano, horn section at the end, tight dry glossy mix, cocky, tense, danceable",
+    "negativeTags": "female lead vocals, distorted rock guitar, rap, slow ballad, trap hi-hats, autotune, dubstep",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: strutting guitar riff, steady drum loop, bass]\n\n[Verse 1: falsetto lead, tight and rhythmic]\nCollar up, chin out, eyes ahead\nGot a coffee I can't afford and a plan instead\nCity's loud and the bus is late\nBut I've got a walk that says it's all going great\n\n[Pre-Chorus: strings rise, three voices]\nAnd it's alright, it's okay\nI've been broke on a better day\n\n[Chorus: three-part falsetto, strings, the riff underneath]\nHead up, shoulders back\nWalk like the rent's paid, walk like the rent's paid\nNobody needs to know what you lack\nWalk like the rent's paid, rent's paid\nOoh, ooh, ooh, ooh\nWalk like the rent's paid\n\n[Verse 2: falsetto lead, a little grit]\nLandlord's knocking and the fridge is bare\nGot one good jacket and I wear it everywhere\nShop window says I look like a king\nThe till says different, but the till can't sing\n\n[Pre-Chorus: strings rise, three voices]\nAnd it's alright, it's okay\nI've been broke on a better day\n\n[Chorus: three-part falsetto, strings, the riff underneath]\nHead up, shoulders back\nWalk like the rent's paid, walk like the rent's paid\nNobody needs to know what you lack\nWalk like the rent's paid, rent's paid\nOoh, ooh, ooh, ooh\nWalk like the rent's paid\n\n[Bridge: beat thins, voices lower, honest]\nI've been down and I'll be down again\nBut not on this block\nNot in front of them\n\n[Final Chorus: everything, horns join, falsetto ad-libs]\nHead up, shoulders back\nWalk like the rent's paid, walk like the rent's paid\nNobody needs to know what you lack\nWalk like the rent's paid, rent's paid\nOoh, ooh, ooh, ooh\nWalk like the rent's paid\n\n[Outro: guitar riff and drum loop, footsteps, fade]",
+    "taskId": "1a6d33c64b739d9c743b389ae64815a6",
+    "sunoClipIds": [
+      "e44a8e8c-2618-4b74-88bf-f6746ff70fd3",
+      "be6e3919-2678-492b-8f30-63f6e292d4d7"
+    ],
+    "created": "Nov 16, 2026 8:07 AM ET",
+    "createTimeMs": 1794834465799,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "e44a8e8c-2618-4b74-88bf-f6746ff70fd3",
+        "durationSec": 244.16,
+        "file": "seventies/e70_07_walk_like_the_rents_paid_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "be6e3919-2678-492b-8f30-63f6e292d4d7",
+        "durationSec": 243.6,
+        "file": "seventies/e70_07_walk_like_the_rents_paid_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_07_walk_like_the_rents_paid_req.json",
+      "seventies/e70_07_walk_like_the_rents_paid_rec.json"
+    ],
+    "cover": "seventies/covers/e70_07_walk_like_the_rents_paid.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, F minor. A strutting, mid-tempo disco groove, exactly the pace of a confident walk. Cocky on top, tense underneath.\n\nVOICE: Three men singing in a high, bright, slightly nasal falsetto with a fast vibrato, in tight three-part harmony throughout. The lead line is clipped and rhythmic in the verses. In the bridge they drop into natural, lower voices for three lines.\n\nINSTRUMENTS: A scratchy, strutting rhythm guitar riff. A drum pattern that repeats identically like a loop, with a steady kick and a crisp snare. A prowling, syncopated bass. A string section with rising lines and stabs. Electric piano. A horn section in the final chorus.\n\nARRANGEMENT MAP: 0:00 Intro, guitar riff, drums and bass. 0:14 Verse 1. 0:32 Pre-chorus. 0:41 Chorus 1. 1:08 Verse 2. 1:26 Pre-chorus. 1:35 Chorus 2. 2:02 Bridge, thinner, lower voices. 2:20 Final chorus with horns. 2:47 The chorus hook repeats with ad-libs. 3:20 Outro, riff and loop with footsteps, fading by 3:45.\n\nPRODUCTION & MIX: Late-1970s disco: tight, dry and glossy, the rhythm section locked like a machine, strings and voices bright on top.\n\nSIGNATURE MOMENT: The guitar riff and the walking beat in the first two seconds.\n\nMODERN POINT OF VIEW: The title says plainly what the original hid: this is about money, and the walk is armour. The bridge, 'not on this block, not in front of them', is a line a proud parent or grandparent might have said.\n\nEMOTIONAL ARC: Bravado, honesty, bravado kept up.",
+    "workbookAtAGlance": "Walk Like the Rent's Paid\n\nBackup titles\nCollar Up, Chin Out / Not on This Block\n\nAt a glance\n104 BPM, F minor\nVoice: Three-part male falsetto\nLength: about 3 minutes 50",
+    "qa": {
+      "title": "Walk Like the Rent's Paid",
+      "id": "e70_07",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.2,
+          "measuredBpm": 105.5,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 1.4,
+          "lufs": -12.6,
+          "peakDbfs": -0.54,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 242.6,
+          "vocalCoverage": 0.526,
+          "vocalSpanSec": [
+            19.5,
+            231.2
+          ],
+          "vocalF0MedianHz": 468,
+          "vocalF0P25Hz": 351,
+          "lyricLineRecall": 0.818,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 243.6,
+          "measuredBpm": 104.4,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 0.4,
+          "lufs": -13.2,
+          "peakDbfs": -0.49,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.2,
+          "contentEndSec": 242.2,
+          "vocalCoverage": 0.545,
+          "vocalSpanSec": [
+            28.3,
+            211.5
+          ],
+          "vocalF0MedianHz": 420,
+          "vocalF0P25Hz": 312,
+          "lyricLineRecall": 0.636,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_08",
+    "title": "Shortcut to Trouble",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 8,
+    "slug": "e70_08_shortcut_to_trouble",
+    "inspiredBy": "Highway to Hell (AC/DC, 1979)",
+    "leadVoice": "Male, a high, raspy, cheeky rock voice with a wink in every line, half sung and half leered, never screamed. A gang of rough male voices shouts the title in the chorus and answers in the bridge.",
+    "model": "V6",
+    "style": "1979 Australian hard rock boogie, high raspy cheeky male rock voice half sung and half leered with a wink, gang of rough male voices shouting the title, 116 BPM, A major, swaggering mid-tempo with space in it, two crunchy lightly overdriven electric guitars playing an open-chord riff with deliberate silences, short biting blues-based guitar solo, simple solid root-note bass, dry heavy drums playing a plain beat, kick-drum-and-shout bridge, dry punchy uncluttered mix, mischievous, rowdy, good-humoured",
+    "negativeTags": "synthesizer, keyboards, piano, drum machine, female vocals, ballad, autotune, EDM, strings",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: open-chord guitar riff with gaps, hi-hat counting]\n\n[Verse 1: cheeky rasp, drums and bass kick in]\nPacked a bag and I kissed the cat\nLeft a note where the fridge is at\nDon't need a map, don't need a plan\nGot a full tank and a bad idea, man\n\n[Pre-Chorus: chords climb, snare builds]\nAsk me where I'm going\nI'm going where it's going\n\n[Chorus: gang vocals, ringing chords]\nI'm on a shortcut to trouble\nShortcut to trouble\nTell my mother I was last seen smiling\nShortcut to trouble\n\n[Verse 2: cheeky rasp, riff underneath]\nSold the mower and I kept the amp\nPhone's on silent in a glovebox camp\nMy doctor said to take it slow\nI said \"sure, Doc,\" and I let it go\n\n[Pre-Chorus: chords climb, snare builds]\nAsk me where I'm going\nI'm going where it's going\n\n[Chorus: gang vocals, ringing chords]\nI'm on a shortcut to trouble\nShortcut to trouble\nTell my mother I was last seen smiling\nShortcut to trouble\n\n[Guitar Solo: bluesy, biting, short]\n\n[Bridge: band drops to kick drum and gang shout]\nAnd I'm going all the way\n(All the way)\nAnd I'm not coming back till Tuesday\n(Tuesday)\n\n[Final Chorus: full band, lead guitar over the top]\nI'm on a shortcut to trouble\nShortcut to trouble\nTell my mother I was last seen smiling\nShortcut to trouble\nShortcut to trouble\n\n[Outro: riff, one last chord, a laugh]",
+    "taskId": "7e39c29c29cbe805135d04fd68847a09",
+    "sunoClipIds": [
+      "fbd93f71-96b3-4bc8-b02b-18b819ca0842",
+      "adf14517-bd83-4660-9d6f-6d2d4962de46"
+    ],
+    "created": "Nov 16, 2026 8:07 AM ET",
+    "createTimeMs": 1794834465274,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "fbd93f71-96b3-4bc8-b02b-18b819ca0842",
+        "durationSec": 223.72,
+        "file": "seventies/e70_08_shortcut_to_trouble_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "adf14517-bd83-4660-9d6f-6d2d4962de46",
+        "durationSec": 224.8,
+        "file": "seventies/e70_08_shortcut_to_trouble_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_08_shortcut_to_trouble_req.json",
+      "seventies/e70_08_shortcut_to_trouble_rec.json"
+    ],
+    "cover": "seventies/covers/e70_08_shortcut_to_trouble.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 116 BPM, 4/4, A major. A swaggering, mid-tempo boogie with space in it. Good-humoured and loud.\n\nVOICE: Male, a high, raspy, cheeky rock voice with a wink in every line, half sung and half leered, never screamed. A gang of rough male voices shouts the title in the chorus and answers in the bridge.\n\nINSTRUMENTS: Two electric guitars with a crunchy, lightly overdriven tone: one plays the open-chord riff with deliberate silences, the other doubles it and takes a short, biting, blues-based solo. A simple, solid bass on the root notes. A dry, heavy drum kit playing the plainest possible beat. No keyboards.\n\nARRANGEMENT MAP: 0:00 Intro, the riff alone with the hi-hat. 0:14 Verse 1, the band in. 0:35 Pre-chorus. 0:44 Chorus 1. 1:02 Verse 2. 1:23 Pre-chorus. 1:32 Chorus 2. 1:50 Guitar solo. 2:12 Bridge, kick drum and shouting. 2:30 Final chorus with lead guitar on top. 3:05 Outro, the riff, a final chord and a laugh at 3:25.\n\nPRODUCTION & MIX: Late-1970s hard rock: dry, punchy and uncluttered, two guitars panned apart, drums natural, plenty of room between the notes.\n\nSIGNATURE MOMENT: The silences in the opening riff.\n\nMODERN POINT OF VIEW: The rebel has sold his lawnmower and ignored his doctor, and intends to be back by Tuesday. It is the same grin on an older face, and a third, different angle from the two other songs in this series inspired by the same band.\n\nEMOTIONAL ARC: Mischief from start to finish.",
+    "workbookAtAGlance": "Shortcut to Trouble\n\nBackup titles\nLast Seen Smiling / Kissed the Cat\n\nAt a glance\n116 BPM, A major\nVoice: Cheeky raspy male rock voice, gang chorus\nLength: about 3 minutes 30",
+    "qa": {
+      "title": "Shortcut to Trouble",
+      "id": "e70_08",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 223.7,
+          "measuredBpm": 113.6,
+          "bpmFactor": 1,
+          "targetBpm": 116,
+          "bpmErrPct": 2.1,
+          "lufs": -13.1,
+          "peakDbfs": -0.06,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.5,
+          "contentEndSec": 221.4,
+          "vocalCoverage": 0.472,
+          "vocalSpanSec": [
+            17.8,
+            219.2
+          ],
+          "vocalF0MedianHz": 387,
+          "vocalF0P25Hz": 331,
+          "lyricLineRecall": 0.857,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.8,
+          "measuredBpm": 116.1,
+          "bpmFactor": 1,
+          "targetBpm": 116,
+          "bpmErrPct": 0.1,
+          "lufs": -13.2,
+          "peakDbfs": -0.36,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 223.1,
+          "vocalCoverage": 0.456,
+          "vocalSpanSec": [
+            17.6,
+            222.6
+          ],
+          "vocalF0MedianHz": 519,
+          "vocalF0P25Hz": 329,
+          "lyricLineRecall": 0.929,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_09",
+    "title": "Sweet Nowhere Special",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 9,
+    "slug": "e70_09_sweet_nowhere_special",
+    "inspiredBy": "Sweet Home Alabama (Lynyrd Skynyrd, 1974)",
+    "leadVoice": "Male, with an easy, slightly nasal Southern drawl and a conversational, unhurried delivery. Three female backing singers with a gospel-soul sound answer his lines in the chorus and improvise in the last one. A spoken count at the top.",
+    "model": "V6",
+    "style": "1974 Southern rock, easy slightly nasal male vocal with a Southern drawl, conversational and unhurried, three female gospel-soul backing singers answering in the chorus, spoken count-in, 98 BPM, G major, loping relaxed groove, bright picked three-chord electric guitar figure with a small fill repeating throughout, country-tinged lead guitar with bent notes, rolling honky-tonk piano and piano solo, bouncing bass, relaxed drums with strong backbeat, warm loose live-sounding mix, proud, sunny, good-natured",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy metal, trap hi-hats, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: spoken count, picked three-chord guitar figure, bass, drums]\nOne, two, three\nLouder\n\n[Verse 1: easy drawl, guitar figure throughout]\nWheels are humming on the two-lane back\nPast the grain elevator and the railroad track\nI've been to cities where they don't say hi\nI'm coming home to the widest sky\n\n[Chorus: female backing singers answer, piano rolling]\nSweet nowhere special\nWhere the map runs out of names\nSweet nowhere special\nIt's exactly where I aim\n\n[Verse 2: easy drawl, a grin in it]\nWell, I heard a fella on the TV say\nNothing ever happens out our way\nI hope that fella takes a drive some time\nA whole lot of nothing suits us fine\n\n[Chorus: female backing singers answer, piano rolling]\nSweet nowhere special\nWhere the map runs out of names\nSweet nowhere special\nIt's exactly where I aim\n\n[Guitar Solo: bright, country-tinged, bending notes]\n\n[Verse 3: easy drawl, band cooking]\nNow the diner's got a house band Thursday nights\nA drummer and a dentist and a set of lights\nThey play it loose and they play it loud\nAnd the whole of the county makes a pretty good crowd\n\n[Chorus: female backing singers answer, piano rolling]\nSweet nowhere special\nWhere the map runs out of names\nSweet nowhere special\nIt's exactly where I aim\n\n[Piano Solo: honky-tonk, rolling]\n\n[Final Chorus: everyone, backing singers ad-libbing]\nSweet nowhere special\n(Ooh, where the sky's that wide)\nSweet nowhere special\nIt's exactly where I aim\n\n[Outro: guitar figure, piano, backing singers, fade]",
+    "taskId": "8cffa1af52fb4492c14fda6ea4a750f2",
+    "sunoClipIds": [
+      "3865ff11-9d13-4d2f-8181-8963846ae056",
+      "a7dc9979-fa94-4aab-9f1c-88598078ca50"
+    ],
+    "created": "Nov 16, 2026 8:07 AM ET",
+    "createTimeMs": 1794834469552,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3865ff11-9d13-4d2f-8181-8963846ae056",
+        "durationSec": 254.08,
+        "file": "seventies/e70_09_sweet_nowhere_special_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "a7dc9979-fa94-4aab-9f1c-88598078ca50",
+        "durationSec": 254.4,
+        "file": "seventies/e70_09_sweet_nowhere_special_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_09_sweet_nowhere_special_req.json",
+      "seventies/e70_09_sweet_nowhere_special_rec.json"
+    ],
+    "cover": "seventies/covers/e70_09_sweet_nowhere_special.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 98 BPM, 4/4, G major. A loping, relaxed Southern rock groove. Sunny and sure of itself.\n\nVOICE: Male, with an easy, slightly nasal Southern drawl and a conversational, unhurried delivery. Three female backing singers with a gospel-soul sound answer his lines in the chorus and improvise in the last one. A spoken count at the top.\n\nINSTRUMENTS: An electric guitar playing a bright, picked three-chord figure with a small fill at the end of each bar, repeating throughout. Two more guitars adding rhythm and a country-tinged lead with bent notes. A honky-tonk piano rolling under everything and taking a solo. A bouncing bass. A relaxed drum kit with a strong backbeat.\n\nARRANGEMENT MAP: 0:00 Intro, a spoken count and the guitar figure. 0:16 Verse 1. 0:36 Chorus 1. 0:56 Verse 2. 1:16 Chorus 2. 1:36 Guitar solo. 2:00 Verse 3. 2:20 Chorus 3. 2:40 Piano solo. 3:04 Final chorus with ad-libs. 3:30 Outro, the figure and piano fading by 3:55.\n\nPRODUCTION & MIX: Mid-1970s Southern rock: warm, loose and live-sounding, three guitars spread across the stereo field, piano and backing voices bright.\n\nSIGNATURE MOMENT: The guitar figure after the spoken 'Louder' at 0:04.\n\nMODERN POINT OF VIEW: The quarrel in the original is with a famous songwriter. Here it is with a voice on television, and the answer is an invitation. The house band with a dentist in it is the detail only someone who went home would know.\n\nEMOTIONAL ARC: Homesickness, a friendly bristle, contentment.",
+    "workbookAtAGlance": "Sweet Nowhere Special\n\nBackup titles\nWhere the Map Runs Out of Names / A Whole Lot of Nothing\n\nAt a glance\n98 BPM, G major\nVoice: Easy Southern male voice, female backing singers\nLength: about 4 minutes",
+    "qa": {
+      "title": "Sweet Nowhere Special",
+      "id": "e70_09",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.1,
+          "measuredBpm": 95.7,
+          "bpmFactor": 1,
+          "targetBpm": 98,
+          "bpmErrPct": 2.3,
+          "lufs": -13.0,
+          "peakDbfs": -0.23,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 253.4,
+          "vocalCoverage": 0.399,
+          "vocalSpanSec": [
+            11.1,
+            253.1
+          ],
+          "vocalF0MedianHz": 237,
+          "vocalF0P25Hz": 220,
+          "lyricLineRecall": 0.897,
+          "lyricUnclearSections": [
+            "Intro"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.4,
+          "measuredBpm": 96.6,
+          "bpmFactor": 1,
+          "targetBpm": 98,
+          "bpmErrPct": 1.4,
+          "lufs": -12.8,
+          "peakDbfs": -0.34,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 253.0,
+          "vocalCoverage": 0.409,
+          "vocalSpanSec": [
+            7.7,
+            239.4
+          ],
+          "vocalF0MedianHz": 221,
+          "vocalF0P25Hz": 197,
+          "lyricLineRecall": 0.828,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_10",
+    "title": "Satellite Dad",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 10,
+    "slug": "e70_10_satellite_dad",
+    "inspiredBy": "Rocket Man (I Think It's Going to Be a Long, Long Time) (Elton John, 1972)",
+    "leadVoice": "Male tenor, warm and conversational in the verses with a slight Southern-English-American drawl. In the chorus his voice is stacked several times and joined by high harmony voices, so it seems to widen. A higher, more exposed sound in the bridge.",
+    "model": "V6",
+    "style": "1972 singer-songwriter piano rock, warm conversational male tenor vocal, voice stacked and joined by high harmonies in a widening chorus, exposed higher bridge, 68 BPM, B-flat major, slow floating and lonely with a chorus that lifts, grand piano with gentle rolling chords, slide guitar playing long rising swoops, early synthesizer making soft sliding space sounds, acoustic guitar strums, melodic electric bass, brushed drums then a soft full kit, warm spacious analogue mix, lonely, tender, wistful",
+    "negativeTags": "drum machine, female lead vocals, rap, heavy distortion, fast tempo, trap hi-hats, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 270,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: solo piano, soft and spacious]\n\n[Verse 1: warm, quiet, piano only]\nTaxi at the kerb at five, the house was still asleep\nGate nineteen, a paper cup, a lanyard and a beep\nThere's a drawing in my pocket of a dog that's mostly green\nI'm thirty thousand feet above the best thing I have seen\n\n[Chorus: band lifts in, slide guitar, stacked harmonies]\nI come around once every night\nA face on a screen in the kitchen light\nSay goodnight, blow a kiss to the glass\nI'm a satellite dad\nGoing over, going past\nLook up, I'm the slow one, I'm the last\n\n[Verse 2: warm, bass and brushed drums]\nThe minibar is humming and the curtains never close\nI've a slide deck and a rental and a town that no one knows\nI tell myself it's for them, and mostly that is true\nBut a year's a lot of bedtimes to be waving at a view\n\n[Chorus: band, slide guitar, stacked harmonies]\nI come around once every night\nA face on a screen in the kitchen light\nSay goodnight, blow a kiss to the glass\nI'm a satellite dad\nGoing over, going past\nLook up, I'm the slow one, I'm the last\n\n[Bridge: synth swoops, acoustic guitar, voice higher]\nAnd nobody tells you\nThat the signal isn't you\nIt's a picture of a person\nComing through\n\n[Final Chorus: full band, voices wide, slide guitar soaring]\nI come around once every night\nA face on a screen in the kitchen light\nSay goodnight, blow a kiss to the glass\nI'm a satellite dad\nGoing over, going past\nLook up, I'm the slow one, I'm the last\n\n[Outro: voices repeating, band fading, a door opening]\nI'm coming down\nI'm coming down\nI'm home",
+    "taskId": "f5316f93ce94327767bd672fc6e4200f",
+    "sunoClipIds": [
+      "bb010c79-faa1-4a96-a75b-a0f76e83a7b1",
+      "55cf0074-c8b5-42a7-957b-cb7e0181a615"
+    ],
+    "created": "Nov 16, 2026 8:08 AM ET",
+    "createTimeMs": 1794834490996,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "bb010c79-faa1-4a96-a75b-a0f76e83a7b1",
+        "durationSec": 269.6,
+        "file": "seventies/e70_10_satellite_dad_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "55cf0074-c8b5-42a7-957b-cb7e0181a615",
+        "durationSec": 269.84,
+        "file": "seventies/e70_10_satellite_dad_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_10_satellite_dad_req.json",
+      "seventies/e70_10_satellite_dad_rec.json"
+    ],
+    "cover": "seventies/covers/e70_10_satellite_dad.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 68 BPM, 4/4, B-flat major. Slow, floating and lonely, with a chorus that rises like a launch.\n\nVOICE: Male tenor, warm and conversational in the verses with a slight Southern-English-American drawl. In the chorus his voice is stacked several times and joined by high harmony voices, so it seems to widen. A higher, more exposed sound in the bridge.\n\nINSTRUMENTS: A grand piano with gentle, rolling chords. A slide guitar playing long, rising swoops in the chorus. An early synthesiser making soft, sliding space sounds. Acoustic guitar strums. A melodic electric bass. Brushed drums in the verses, a soft full kit in the choruses.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:14 Verse 1. 0:49 Chorus 1, the band lifts in. 1:24 Verse 2. 1:59 Chorus 2. 2:34 Bridge with synth swoops. 2:52 Final chorus. 3:27 Outro, the voices repeat a new line as the band fades, then a door opens and one last line is sung plainly at 4:08.\n\nPRODUCTION & MIX: Early-1970s singer-songwriter rock: warm, spacious and analogue, piano and voice in front, the chorus wide with voices and slide guitar.\n\nSIGNATURE MOMENT: The slide guitar's first rising swoop as the chorus begins at 0:49.\n\nMODERN POINT OF VIEW: The original astronaut stays in orbit. This one comes down: the outro is a new line the 1972 song does not have, and a front door. The bridge ('the signal isn't you') could only have been written in the age of video calls.\n\nEMOTIONAL ARC: Loneliness, guilt, realisation, coming home.",
+    "workbookAtAGlance": "Satellite Dad\n\nBackup titles\nA Face on a Screen / The Slow One, the Last\n\nAt a glance\n68 BPM, B-flat major\nVoice: Warm male tenor, stacked harmonies\nLength: about 4 minutes 15",
+    "qa": {
+      "title": "Satellite Dad",
+      "id": "e70_10",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 269.6,
+          "measuredBpm": 68.0,
+          "bpmFactor": 1,
+          "targetBpm": 68,
+          "bpmErrPct": 0.0,
+          "lufs": -14.2,
+          "peakDbfs": -0.06,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.2,
+          "contentEndSec": 267.6,
+          "vocalCoverage": 0.555,
+          "vocalSpanSec": [
+            14.2,
+            242.4
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 261,
+          "lyricLineRecall": 0.903,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.01 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 269.9,
+          "measuredBpm": 67.6,
+          "bpmFactor": 1,
+          "targetBpm": 68,
+          "bpmErrPct": 0.7,
+          "lufs": -14.2,
+          "peakDbfs": 0.01,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 1.3,
+          "contentEndSec": 268.1,
+          "vocalCoverage": 0.602,
+          "vocalSpanSec": [
+            14.1,
+            254.1
+          ],
+          "vocalF0MedianHz": 263,
+          "vocalF0P25Hz": 235,
+          "lyricLineRecall": 0.968,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_11",
+    "title": "The Day the Dial Went Dark",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 11,
+    "slug": "e70_11_the_day_the_dial_went_dark",
+    "inspiredBy": "American Pie (Don McLean, 1971)",
+    "leadVoice": "Male tenor, clear, bright and sincere, in a folk style with every word audible. He sings the slow sections alone. The choruses are sung by a crowd in a room, loosely and happily, as if at closing time.",
+    "model": "V6",
+    "style": "1971 American folk rock story song, clear bright sincere male folk tenor with every word audible, slow free piano-and-voice opening, then a brisk 138 BPM folk-rock body, crowd in a room singing the choruses loosely like a bar at closing time, slow piano-and-voice final verse, G major, simple then rolling barrelhouse piano, strummed acoustic guitar, walking bass, drums entering with the first chorus, handclaps, radio static, natural warm live mix, nostalgic, wistful, communal, singalong",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy distortion, trap hi-hats, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 315,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: solo piano and voice, slow and free]\nI had a radio beside my bed\nA yellow dial, a wire for a thread\nAnd every night a voice I never met\nPlayed me songs I can't forget\nBut one cold morning, turning it on\nThere was a hiss where the voice had gone\nI stood there with my toast gone cold\nEleven years, and feeling old\nThe day the dial went dark\n\n[Chorus: tempo doubles, acoustic guitar, crowd singing]\nSo long, so long, to the Saturday song\nThe needle's off the record and the DJ's gone\nWe sang it in the car park with the windows down\nThe last ones in a one-song town\nWho's going to play it again?\n\n[Verse 1: brisk folk-rock, piano and drums]\nNow the first one that I ever bought\nWas a boy with a quiff and a voice like a shot\nMy mother said \"turn that down\" and danced\nBehind the door when she thought I'd glanced\nThen came the summer of the flowered vans\nThe fuzzy guitars and the tambourine hands\nAnd we thought the world would turn on a tune\nWe were twelve, and it was June\n\n[Chorus: crowd singing, handclaps]\nSo long, so long, to the Saturday song\nThe needle's off the record and the DJ's gone\nWe sang it in the car park with the windows down\nThe last ones in a one-song town\nWho's going to play it again?\n\n[Verse 2: brisk, band fuller]\nThen the mirror balls and the platform shoes\nThe safety pins and the three-chord news\nA robot sang and a drum machine\nTurned every colour into green\nAnd the big hair came and the big hair went\nAnd a kid in flannel said what he meant\nThen a box no bigger than a pack of cards\nHeld every song, and somehow none were ours\n\n[Chorus: crowd singing, handclaps]\nSo long, so long, to the Saturday song\nThe needle's off the record and the DJ's gone\nWe sang it in the car park with the windows down\nThe last ones in a one-song town\nWho's going to play it again?\n\n[Verse 3: slow again, piano and voice only]\nNow I've got it all in a pane of glass\nEvery song there ever was, first to last\nIt knows what I like before I do\nIt never plays me something new\nSo I went to the attic for the yellow dial\nBlew the dust off, sat a while\nAnd through the hiss, so faint and far\nSomebody, somewhere, playing guitar\n\n[Final Chorus: slow, then the crowd joins, building]\nSo hello, hello, to the Saturday song\nThe needle's on the record, it was there all along\nWe'll sing it in the car park with the windows down\nThe first ones in a one-song town\nWe're going to play it again",
+    "taskId": "c351759ea2f36a5aa518f719b4ed2d78",
+    "sunoClipIds": [
+      "a7885691-9540-4d26-b33d-8212bf2eef88",
+      "dac47167-1aaf-40b1-aa5c-c9782f0eabbf"
+    ],
+    "created": "Nov 16, 2026 8:08 AM ET",
+    "createTimeMs": 1794834495685,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "a7885691-9540-4d26-b33d-8212bf2eef88",
+        "durationSec": 314.8,
+        "file": "seventies/e70_11_the_day_the_dial_went_dark_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "dac47167-1aaf-40b1-aa5c-c9782f0eabbf",
+        "durationSec": 314.64,
+        "file": "seventies/e70_11_the_day_the_dial_went_dark_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_11_the_day_the_dial_went_dark_req.json",
+      "seventies/e70_11_the_day_the_dial_went_dark_rec.json"
+    ],
+    "cover": "seventies/covers/e70_11_the_day_the_dial_went_dark.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: A slow, free opening at about 72 BPM, then a brisk folk-rock 138 BPM for the body of the song, and a slow final verse. G major. Storytelling that keeps turning into a singalong.\n\nVOICE: Male tenor, clear, bright and sincere, in a folk style with every word audible. He sings the slow sections alone. The choruses are sung by a crowd in a room, loosely and happily, as if at closing time.\n\nINSTRUMENTS: Piano, played simply at first and then with a rolling, barrelhouse energy. Strummed acoustic guitar. A walking bass. A drum kit that enters with the first chorus. Handclaps. A little electric guitar. Radio static at the start and end.\n\nARRANGEMENT MAP: 0:00 Intro, voice and piano, slow, nine lines. 0:55 Chorus 1, the tempo doubles and the crowd comes in. 1:20 Verse 1. 1:50 Chorus 2. 2:15 Verse 2. 2:45 Chorus 3. 3:10 Verse 3, slow again, piano and voice. 4:05 Final chorus, starting slowly with one voice, the crowd joining and the tempo picking up, ending on a held chord at 4:55.\n\nPRODUCTION & MIX: Early-1970s folk-rock: natural, warm and live, piano and voice close, the crowd roomy and unpolished.\n\nSIGNATURE MOMENT: The jump in tempo into the first chorus at 0:55.\n\nMODERN POINT OF VIEW: The loss is not a plane crash but the end of listening together. The third verse is about an algorithm that never plays anything new, and the ending is hopeful: he finds the old radio and someone is still out there playing.\n\nEMOTIONAL ARC: Loss, a tour of memory, weariness, rediscovery.",
+    "workbookAtAGlance": "The Day the Dial Went Dark\n\nBackup titles\nOne-Song Town / The Yellow Dial\n\nAt a glance\n72 BPM, then 138, G major\nVoice: Clear male folk tenor, crowd chorus\nLength: about 5 minutes",
+    "qa": {
+      "title": "The Day the Dial Went Dark",
+      "id": "e70_11",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 314.8,
+          "measuredBpm": 132.5,
+          "bpmFactor": 1,
+          "targetBpm": 138,
+          "bpmErrPct": 4.0,
+          "lufs": -14.3,
+          "peakDbfs": -0.25,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.4,
+          "contentEndSec": 313.3,
+          "vocalCoverage": 0.651,
+          "vocalSpanSec": [
+            13.7,
+            304.2
+          ],
+          "vocalF0MedianHz": 248,
+          "vocalF0P25Hz": 197,
+          "lyricLineRecall": 0.925,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 314.7,
+          "measuredBpm": 132.5,
+          "bpmFactor": 1,
+          "targetBpm": 138,
+          "bpmErrPct": 4.0,
+          "lufs": -15.0,
+          "peakDbfs": -0.25,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.8,
+          "contentEndSec": 314.1,
+          "vocalCoverage": 0.7,
+          "vocalSpanSec": [
+            13.9,
+            311.0
+          ],
+          "vocalF0MedianHz": 247,
+          "vocalF0P25Hz": 197,
+          "lyricLineRecall": 0.849,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_12",
+    "title": "Hey, Grown-Ups",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 12,
+    "slug": "e70_12_hey_grown_ups",
+    "inspiredBy": "Another Brick in the Wall, Pt. 2 (Pink Floyd, 1979)",
+    "leadVoice": "A male lead with a dry, flat, slightly sneering delivery, close to the microphone. A choir of schoolchildren with unpolished voices and strong local accents sings the second verse and refrain loudly and a little out of tune, as children do. A single child speaks at the end.",
+    "model": "V6",
+    "style": "1979 British art rock with a disco rhythm section, dry flat slightly sneering male lead vocal close to the microphone, a choir of schoolchildren with unpolished voices singing the second verse loudly as a playground chant, 104 BPM, D minor, steady hypnotic pulse, clean tight muted funky guitar chops, four-on-the-floor kick with crisp snare, pulsing repeating bass, church-like organ swells, long warm singing blues-based lead guitar solo, playground sounds at the end, very dry tight controlled mix, dark, accusing, danceable",
+    "negativeTags": "female lead vocals, rap, bright happy pop, drum machine, trap hi-hats, autotune, EDM drop, country",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: muted funk guitar, four-on-the-floor kick, pulsing bass]\n\n[Verse 1: dry male lead, close and flat]\nPut away the glowing window\nPut away the little light\nYou've been nodding at the table\nYou've been somewhere else all night\nHey, grown-ups, look up, we're right here\n\n[Refrain: male lead, organ swells]\nOne more evening\nOne more thumb across a screen\n\n[Verse 2: children's choir, rough and loud, same words]\nPut away the glowing window\nPut away the little light\nYou've been nodding at the table\nYou've been somewhere else all night\nHey, grown-ups, look up, we're right here\n\n[Refrain: children's choir, organ swells]\nOne more evening\nOne more thumb across a screen\n\n[Guitar Solo: long, bluesy, singing bends over the groove]\n\n[Verse 3: male lead and children together]\nWe don't want another picture\nWe would rather have the day\nThere's a story you were telling\nAnd you stopped it halfway\nHey, grown-ups, look up, we're right here\n\n[Refrain: everyone, building]\nOne more evening\nOne more thumb across a screen\n\n[Outro: groove continues, playground noise, a child calling]\nDad\nDad\nDad, watch this",
+    "taskId": "1655d8157018a1402f73b12740c1a440",
+    "sunoClipIds": [
+      "ba1fbe95-b871-4c9d-9b50-f9651f5d8f26",
+      "ab40ca6d-4648-4610-ae22-7e2c5a92c7a3"
+    ],
+    "created": "Nov 16, 2026 8:08 AM ET",
+    "createTimeMs": 1794834494954,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ba1fbe95-b871-4c9d-9b50-f9651f5d8f26",
+        "durationSec": 244.8,
+        "file": "seventies/e70_12_hey_grown_ups_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "ab40ca6d-4648-4610-ae22-7e2c5a92c7a3",
+        "durationSec": 243.72,
+        "file": "seventies/e70_12_hey_grown_ups_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_12_hey_grown_ups_req.json",
+      "seventies/e70_12_hey_grown_ups_rec.json"
+    ],
+    "cover": "seventies/covers/e70_12_hey_grown_ups.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, D minor. A steady, hypnotic disco pulse under a cold, accusing tune. Dry, dark and oddly danceable.\n\nVOICE: A male lead with a dry, flat, slightly sneering delivery, close to the microphone. A choir of schoolchildren with unpolished voices and strong local accents sings the second verse and refrain loudly and a little out of tune, as children do. A single child speaks at the end.\n\nINSTRUMENTS: A clean electric guitar playing tight, muted, funky chops. A four-on-the-floor kick drum with a crisp snare and steady hi-hat. A pulsing, repeating bass. A church-like organ swelling in the refrains. A lead electric guitar with a warm, singing tone for a long, blues-based solo. Playground sounds.\n\nARRANGEMENT MAP: 0:00 Intro, the groove. 0:16 Verse 1, the man. 0:42 Refrain. 0:52 Verse 2, the children. 1:18 Refrain. 1:28 Guitar solo, sixteen bars or more. 2:20 Verse 3, the man and the children together. 2:46 Refrain, building. 3:00 Outro, the groove continues under playground noise and a child calling three times, fading by 3:45.\n\nPRODUCTION & MIX: Late-1970s art rock with a disco rhythm section: very dry, tight and controlled, the children's choir roomy and raw by contrast.\n\nSIGNATURE MOMENT: The children's choir entering at 0:52.\n\nMODERN POINT OF VIEW: In 1979 the children sang against the teachers. Now they are singing to their own parents, and the last three words are a child trying to be seen. Anyone who grew up with the original is the target.\n\nEMOTIONAL ARC: Accusation, recognition, a small plea.",
+    "workbookAtAGlance": "Hey, Grown-Ups\n\nBackup titles\nThe Glowing Window / Dad, Watch This\n\nAt a glance\n104 BPM, D minor\nVoice: Dry male lead, children's choir\nLength: about 3 minutes 50",
+    "qa": {
+      "title": "Hey, Grown-Ups",
+      "id": "e70_12",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending"
+          ],
+          "durationSec": 244.8,
+          "measuredBpm": 105.5,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 1.4,
+          "lufs": -12.6,
+          "peakDbfs": -0.3,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.2,
+          "contentEndSec": 244.1,
+          "vocalCoverage": 0.317,
+          "vocalSpanSec": [
+            19.5,
+            209.7
+          ],
+          "vocalF0MedianHz": 270,
+          "vocalF0P25Hz": 220,
+          "lyricLineRecall": 0.909,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 243.7,
+          "measuredBpm": 107.7,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 3.5,
+          "lufs": -12.1,
+          "peakDbfs": -0.17,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 242.6,
+          "vocalCoverage": 0.284,
+          "vocalSpanSec": [
+            23.6,
+            224.7
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 263,
+          "lyricLineRecall": 0.773,
+          "lyricUnclearSections": [
+            "Outro"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_13",
+    "title": "Lines I Earned",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 13,
+    "slug": "e70_13_lines_i_earned",
+    "inspiredBy": "Dream On (Aerosmith, 1973)",
+    "leadVoice": "Male. He starts in a low, husky, almost spoken register, darker than his natural voice. Each section moves higher and harder. In the build he repeats two words, rising a step each time, until he is screaming them in a piercing, raw upper register that few singers can reach.",
+    "model": "V6",
+    "style": "1973 hard rock power ballad with a classical tint, male vocal starting low husky and almost spoken, rising section by section, repeating two words each time a step higher until screaming in a piercing raw upper register, 80 BPM, F minor, slow grave climbing march, harpsichord-like electric piano playing a baroque arpeggio, wavering tape-style string-machine pad, electric guitars growing from quiet to thick sustained chords, melodic bass, drums soft then pounding, warm murky analogue mix, dark, proud, ferocious",
+    "negativeTags": "drum machine, female lead vocals, rap, upbeat pop, trap hi-hats, autotune, EDM, country, disco",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 270,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: harpsichord-like electric piano arpeggio, soft strings]\n\n[Verse 1: low, dark, almost spoken]\nGot my father's forehead and my mother's frown\nGot a map of every time I let me down\nSomebody's been drawing while I slept\nA ledger of the promises I kept\n\n[Verse 2: bass and soft drums enter]\nThere's a crease for every winter that I worked\nThere's a crease for every answer that I shirked\nAnd the laughing made the ones around my eyes\nI wouldn't sell them back at any price\n\n[Chorus: band rises, guitars enter, voice higher]\nThese are lines I earned\nEvery one a bridge I burned or built\nI'm not smoothing out a single year\nCount them, I'm still here\nGo on, count them\nI'm still here\n\n[Verse 3: fuller, voice with more edge]\nHalf my heroes never got this far\nHalf my friends are pictures in a drawer\nSo I'll take the grey and I'll take the ache\nI'll take every morning I can wake\n\n[Chorus: band rises, guitars louder, voice higher]\nThese are lines I earned\nEvery one a bridge I burned or built\nI'm not smoothing out a single year\nCount them, I'm still here\nGo on, count them\nI'm still here\n\n[Build: one phrase repeated, each time higher, drums pounding]\nStill here\nStill here\nStill here\nStill here\nStill here\nStill here\n\n[Climax: screamed at the top of the range, full band, strings]\nStill here\nStill here\n\n[Outro: arpeggio returns alone, slowing]\nCount them",
+    "taskId": "69cb213f81f5e54f80503ff9995af989",
+    "sunoClipIds": [
+      "f88653d0-60bf-41de-8ed9-8f9bc9a2b4c5",
+      "130edc4d-3e95-4615-92ca-aed2a02812fb"
+    ],
+    "created": "Nov 16, 2026 8:08 AM ET",
+    "createTimeMs": 1794834487523,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "f88653d0-60bf-41de-8ed9-8f9bc9a2b4c5",
+        "durationSec": 269.56,
+        "file": "seventies/e70_13_lines_i_earned_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "130edc4d-3e95-4615-92ca-aed2a02812fb",
+        "durationSec": 269.6,
+        "file": "seventies/e70_13_lines_i_earned_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_13_lines_i_earned_req.json",
+      "seventies/e70_13_lines_i_earned_rec.json"
+    ],
+    "cover": "seventies/covers/e70_13_lines_i_earned.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, F minor. A slow, grave march that keeps climbing. Dark, proud and finally ferocious.\n\nVOICE: Male. He starts in a low, husky, almost spoken register, darker than his natural voice. Each section moves higher and harder. In the build he repeats two words, rising a step each time, until he is screaming them in a piercing, raw upper register that few singers can reach.\n\nINSTRUMENTS: An electric piano with a plucked, harpsichord-like sound playing a baroque arpeggio. A string-machine pad (the wavering, tape-like strings of early 1970s rock). Electric guitars that enter quietly and grow to thick, sustained chords. A melodic bass. A drum kit that begins softly and ends pounding. A short guitar lead before the build.\n\nARRANGEMENT MAP: 0:00 Intro, the arpeggio and strings. 0:24 Verse 1. 0:48 Verse 2, bass and drums. 1:12 Chorus 1. 1:42 Verse 3. 2:06 Chorus 2. 2:36 Build, the two words repeated six times, each a step higher. 3:12 Climax, screamed twice over the full band. 3:36 Outro, the arpeggio alone, slowing, two quiet words at 4:05.\n\nPRODUCTION & MIX: Early-1970s hard rock with a classical tint: warm, slightly murky and analogue, the keyboard and strings wide, the voice dry.\n\nSIGNATURE MOMENT: The first full scream at 3:12.\n\nMODERN POINT OF VIEW: A teenager wrote the original imagining age. This is written from inside it: friends in a drawer, grey hair accepted, and pride in the evidence. The scream is not despair. It is a roll-call answered.\n\nEMOTIONAL ARC: Inventory, defiance, a roar of presence.",
+    "workbookAtAGlance": "Lines I Earned\n\nBackup titles\nCount Them / I'm Still Here\n\nAt a glance\n80 BPM, F minor\nVoice: Male voice, low and dark rising to a scream\nLength: about 4 minutes 15",
+    "qa": {
+      "title": "Lines I Earned",
+      "id": "e70_13",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 69 BPM vs 80 target (~14% off)"
+          ],
+          "durationSec": 269.6,
+          "measuredBpm": 68.7,
+          "bpmFactor": 1,
+          "targetBpm": 80,
+          "bpmErrPct": 14.2,
+          "lufs": -13.1,
+          "peakDbfs": -1.7,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.8,
+          "contentEndSec": 268.2,
+          "vocalCoverage": 0.629,
+          "vocalSpanSec": [
+            15.6,
+            268.0
+          ],
+          "vocalF0MedianHz": 394,
+          "vocalF0P25Hz": 261,
+          "lyricLineRecall": 0.75,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 66 BPM vs 80 target (~17% off)"
+          ],
+          "durationSec": 269.6,
+          "measuredBpm": 66.3,
+          "bpmFactor": 1,
+          "targetBpm": 80,
+          "bpmErrPct": 17.2,
+          "lufs": -13.4,
+          "peakDbfs": -1.97,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 268.2,
+          "vocalCoverage": 0.661,
+          "vocalSpanSec": [
+            25.0,
+            262.3
+          ],
+          "vocalF0MedianHz": 522,
+          "vocalF0P25Hz": 349,
+          "lyricLineRecall": 0.958,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_14",
+    "title": "Leave It Till Morning",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 14,
+    "slug": "e70_14_leave_it_till_morning",
+    "inspiredBy": "Let It Be (The Beatles, 1970)",
+    "leadVoice": "Male tenor, warm and unforced, singing as if to one person. A gospel-style choir of mixed voices enters softly at the first chorus and grows to full strength by the last, with handclaps and improvised lines. A hummed tune at the very end.",
+    "model": "V6",
+    "style": "1970 piano gospel rock hymn, warm unforced male tenor vocal singing as if to one person, mixed gospel choir entering softly and growing to full voice with handclaps and ad-libs, 72 BPM, C major, slow steady and consoling, piano playing simple church-like chords, Hammond organ, electric bass, drums entering gently in the second verse, warm slightly overdriven melodic lead guitar solo, hummed line at the end, band recorded live with a choir, warm simple roomy mix, calm, comforting, hopeful",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy distortion, fast tempo, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: solo piano, plain hymn-like chords]\n\n[Verse 1: warm, close, piano only]\nWhen the night has got its hands on me\nAnd every little thing is wrong\nI can hear my grandmother at the sink\nHumming her one song\n\n[Chorus: soft choir joins, bass enters]\nLeave it till morning, leave it till morning\nThe dark makes it bigger than it is\nLeave it till morning, child\nIt'll keep, it'll keep\n\n[Verse 2: drums enter gently, organ]\nAnd when the worried people of the world agree\nOn nothing but the worry and the fear\nThere's a kettle going somewhere, there's a light\nAnd somebody saying \"here\"\n\n[Chorus: choir fuller, organ]\nLeave it till morning, leave it till morning\nThe dark makes it bigger than it is\nLeave it till morning, child\nIt'll keep, it'll keep\n\n[Guitar Solo: warm, melodic, over the chorus chords]\n\n[Verse 3: full band, voice stronger]\nAnd when the morning comes, if it's still there\nWe'll look at it together in the light\nMost of what was howling at the door\nWas only the night\n\n[Final Chorus: choir at full voice, handclaps, ad-libs]\nLeave it till morning, leave it till morning\nThe dark makes it bigger than it is\nLeave it till morning, child\nIt'll keep, it'll keep\nLeave it till morning\nIt'll keep\n\n[Outro: piano alone, a tap running, a hummed line]",
+    "taskId": "cc623b5fe41387d57b6b0861ea99fda6",
+    "sunoClipIds": [
+      "b180736c-61a2-4b06-b78b-2d793f029292",
+      "ffa96acc-91a7-420d-b53c-e9a63873e181"
+    ],
+    "created": "Nov 16, 2026 8:08 AM ET",
+    "createTimeMs": 1794834495484,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "b180736c-61a2-4b06-b78b-2d793f029292",
+        "durationSec": 244.76,
+        "file": "seventies/e70_14_leave_it_till_morning_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "ffa96acc-91a7-420d-b53c-e9a63873e181",
+        "durationSec": 244.88,
+        "file": "seventies/e70_14_leave_it_till_morning_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_14_leave_it_till_morning_req.json",
+      "seventies/e70_14_leave_it_till_morning_rec.json"
+    ],
+    "cover": "seventies/covers/e70_14_leave_it_till_morning.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 72 BPM, 4/4, C major. A slow, steady hymn. Calm, plain and consoling.\n\nVOICE: Male tenor, warm and unforced, singing as if to one person. A gospel-style choir of mixed voices enters softly at the first chorus and grows to full strength by the last, with handclaps and improvised lines. A hummed tune at the very end.\n\nINSTRUMENTS: A piano playing simple, church-like chords. A Hammond-style organ. Electric bass. A drum kit that enters gently in verse 2. A lead electric guitar with a warm, slightly overdriven tone for a melodic solo. The choir. Small domestic sounds at the close.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:13 Verse 1. 0:40 Chorus 1, choir and bass. 1:07 Verse 2, drums and organ. 1:34 Chorus 2. 2:01 Guitar solo. 2:28 Verse 3. 2:55 Final chorus with the choir at full voice. 3:30 Outro, piano alone, a tap running and a hummed line, ending at 3:48.\n\nPRODUCTION & MIX: Around 1970, a band recorded live with a choir added: warm, simple and roomy, piano and voice central.\n\nSIGNATURE MOMENT: The choir's first entry on the chorus at 0:40.\n\nMODERN POINT OF VIEW: The advice is ordinary and tested: problems look bigger at night. Verse 3 keeps the promise by looking at the trouble in daylight, together, which the original's three words leave open.\n\nEMOTIONAL ARC: Night fear, comfort, daylight.",
+    "workbookAtAGlance": "Leave It Till Morning\n\nBackup titles\nIt'll Keep / A Kettle Going Somewhere\n\nAt a glance\n72 BPM, C major\nVoice: Warm male tenor, gospel choir\nLength: about 3 minutes 50",
+    "qa": {
+      "title": "Leave It Till Morning",
+      "id": "e70_14",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.8,
+          "measuredBpm": 69.8,
+          "bpmFactor": 1,
+          "targetBpm": 72,
+          "bpmErrPct": 3.0,
+          "lufs": -13.3,
+          "peakDbfs": -0.32,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.2,
+          "contentEndSec": 243.0,
+          "vocalCoverage": 0.558,
+          "vocalSpanSec": [
+            14.7,
+            222.9
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 261,
+          "lyricLineRecall": 0.92,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.09 dBFS (2 clipped sample, inaudible)"
+          ],
+          "durationSec": 244.9,
+          "measuredBpm": 69.4,
+          "bpmFactor": 1,
+          "targetBpm": 72,
+          "bpmErrPct": 3.7,
+          "lufs": -14.0,
+          "peakDbfs": 0.09,
+          "clipSamples": 2,
+          "midGaps": [],
+          "endFadeSec": 2.3,
+          "contentEndSec": 243.3,
+          "vocalCoverage": 0.536,
+          "vocalSpanSec": [
+            16.4,
+            225.1
+          ],
+          "vocalF0MedianHz": 263,
+          "vocalF0P25Hz": 220,
+          "lyricLineRecall": 0.88,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_15",
+    "title": "The House Don't Hum",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 15,
+    "slug": "e70_15_the_house_dont_hum",
+    "inspiredBy": "Ain't No Sunshine (Bill Withers, 1971)",
+    "leadVoice": "Male baritone, warm, plain and conversational, with no vibrato to speak of and no vocal runs. He sings as if talking to himself. In the break he repeats two words rapidly in one long breath, evenly, then delivers the last line slowly.",
+    "model": "V6",
+    "style": "1971 acoustic soul blues, warm plain conversational male baritone vocal with no vibrato and no vocal runs, a break where two words are repeated rapidly many times in one breath over only kick drum and bass, 78 BPM, A minor, slow bare and still, fingerpicked acoustic guitar, soft deep electric bass, string section playing low sustained slowly rising lines, very sparse drums with kick and brushed snare, small band recorded dry warm and close with lots of silence, lonely, understated, short",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, distorted guitar, fast tempo, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 165,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: fingerpicked acoustic guitar, soft bass]\n\n[Verse 1: warm, plain, close]\nKettle's cold and the stairs don't creak\nRadio's lost the will to speak\nThe house don't hum\nThe house don't hum\nSince her suitcase hit the street\n\n[Verse 2: strings enter, low and slow]\nI wonder where she's laid her head\nI wonder if she read what I said\nThe house don't hum\nThe house don't hum\nThere's a hollow in the bed\n\n[Break: band stops except kick and bass, one breath]\nAnd I wait, and I wait, and I wait, and I wait\nI wait, I wait, I wait, I wait\nI wait, I wait, I wait, I wait\nI wait, I wait, I wait, I wait\nI ought to go and find her\nBut I wait\n\n[Verse 3: strings fuller, voice the same]\nClock's still ticking but it's lost its nerve\nDog's at the window, staring at the kerb\nThe house don't hum\nThe house don't hum\nIt's more quiet than I deserve\n\n[Outro: guitar and strings, the title twice, stop]\nThe house don't hum\nThe house don't hum",
+    "taskId": "f70a409a7ebddc9bce37eea91441c0fc",
+    "sunoClipIds": [
+      "d779fcda-0255-4100-a8c5-438c9a9924ef",
+      "49a7387c-c1b7-4331-ac58-30607f9218ab"
+    ],
+    "created": "Nov 16, 2026 8:08 AM ET",
+    "createTimeMs": 1794834494790,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "d779fcda-0255-4100-a8c5-438c9a9924ef",
+        "durationSec": 164.8,
+        "file": "seventies/e70_15_the_house_dont_hum_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "49a7387c-c1b7-4331-ac58-30607f9218ab",
+        "durationSec": 164.92,
+        "file": "seventies/e70_15_the_house_dont_hum_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_15_the_house_dont_hum_req.json",
+      "seventies/e70_15_the_house_dont_hum_rec.json"
+    ],
+    "cover": "seventies/covers/e70_15_the_house_dont_hum.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 78 BPM, 4/4, A minor. Slow, bare and still. A blues without any showing off.\n\nVOICE: Male baritone, warm, plain and conversational, with no vibrato to speak of and no vocal runs. He sings as if talking to himself. In the break he repeats two words rapidly in one long breath, evenly, then delivers the last line slowly.\n\nINSTRUMENTS: A fingerpicked acoustic guitar. A soft, deep electric bass. A string section playing low, sustained, slowly rising lines. A drum kit used very sparingly: a kick and a brushed snare. Nothing else.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and bass. 0:10 Verse 1. 0:38 Verse 2, strings enter. 1:06 Break: everything stops except a kick drum and bass while the two words are repeated, then two slower lines. 1:36 Verse 3, with fuller strings. 2:04 Outro, the title sung twice and a clean stop at 2:25.\n\nPRODUCTION & MIX: Early-1970s soul recorded with a small band: dry, warm and close, a great deal of silence around each sound.\n\nSIGNATURE MOMENT: The break at 1:06, sixteen repetitions in one breath.\n\nMODERN POINT OF VIEW: The lines after the break are the difference: he knows he ought to go and find her, and he waits anyway. It is a more self-aware kind of stuck, and 'more quiet than I deserve' admits some fault.\n\nEMOTIONAL ARC: Emptiness, fixation, a flicker of self-knowledge.",
+    "workbookAtAGlance": "The House Don't Hum\n\nBackup titles\nSince Her Suitcase / And I Wait\n\nAt a glance\n78 BPM, A minor\nVoice: Warm plain male baritone\nLength: about 2 minutes 30",
+    "qa": {
+      "title": "The House Don't Hum",
+      "id": "e70_15",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 67 BPM vs 78 target (~14% off)"
+          ],
+          "durationSec": 164.8,
+          "measuredBpm": 67.1,
+          "bpmFactor": 1,
+          "targetBpm": 78,
+          "bpmErrPct": 14.0,
+          "lufs": -14.2,
+          "peakDbfs": -0.25,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.4,
+          "contentEndSec": 164.3,
+          "vocalCoverage": 0.409,
+          "vocalSpanSec": [
+            15.2,
+            154.3
+          ],
+          "vocalF0MedianHz": 159,
+          "vocalF0P25Hz": 145,
+          "lyricLineRecall": 0.957,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 65 BPM vs 78 target (~16% off)"
+          ],
+          "durationSec": 164.9,
+          "measuredBpm": 65.4,
+          "bpmFactor": 1,
+          "targetBpm": 78,
+          "bpmErrPct": 16.1,
+          "lufs": -13.6,
+          "peakDbfs": -0.32,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.3,
+          "contentEndSec": 164.1,
+          "vocalCoverage": 0.385,
+          "vocalSpanSec": [
+            15.8,
+            153.6
+          ],
+          "vocalF0MedianHz": 165,
+          "vocalF0P25Hz": 134,
+          "lyricLineRecall": 0.783,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_16",
+    "title": "Stuck on a Good Thing",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 16,
+    "slug": "e70_16_stuck_on_a_good_thing",
+    "inspiredBy": "Hooked on a Feeling (Blue Swede, 1974)",
+    "leadVoice": "A male tenor with a bright, open, slightly theatrical voice who sounds as if he is smiling. A group of men chant the nonsense syllables in low unison, rhythmic and deadpan, at the start, under the verses and alone in the bridge.",
+    "model": "V6",
+    "style": "1974 brassy European pop stomp, bright open slightly theatrical joyful male tenor who sounds like he is smiling, group of men chanting nonsense syllables in low deadpan unison at the start, under the verses and alone in the bridge, 118 BPM, A-flat major lifting a step for the final chorus, galloping drum beat with tom-toms, big cheerful brass fanfares with trumpets and trombones, bouncing electric bass, electric organ, bright rhythm guitar, handclaps, tambourine, bright compressed mix, joyful, silly, infectious",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, dark mood, slow ballad, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 190,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: male group chanting alone, then drums and bass]\nHubba-loo, hubba-loo-la\nHubba-loo, hubba-loo-la\nHubba-loo, hubba-loo-la\nHubba-loo, hubba-loo-la\n\n[Verse 1: joyful tenor, galloping beat, chant continues underneath]\nI can't sit still, it's in my shoes\nYou're the best kind of terrible news\nLips like cider and a laugh like rain\nI'm in trouble and I can't complain\n\n[Chorus: brass section, full voice, group answering]\nOh, I'm stuck on a good thing\nGlued to a real thing\nNobody come and pull me free\nI'm stuck on a good thing\nTied to the best thing\nThat ever went and happened to me\n\n[Verse 2: joyful tenor, organ joins]\nI had plans, I had a list\nI had a calm that I haven't missed\nYou came along like a marching band\nNow I'm clapping, and I don't understand\n\n[Chorus: brass section, full voice, group answering]\nOh, I'm stuck on a good thing\nGlued to a real thing\nNobody come and pull me free\nI'm stuck on a good thing\nTied to the best thing\nThat ever went and happened to me\n\n[Bridge: band drops to chant and handclaps]\nHubba-loo, hubba-loo-la\n(All day long)\nHubba-loo, hubba-loo-la\n(All night long)\n\n[Final Chorus: key up a step, brass blazing, everyone]\nOh, I'm stuck on a good thing\nGlued to a real thing\nNobody come and pull me free\nI'm stuck on a good thing\nTied to the best thing\nThat ever went and happened to me\n\n[Outro: chant alone, fading]\nHubba-loo, hubba-loo-la",
+    "taskId": "3e4df7018566ec3d3fe9954b9a40e7f0",
+    "sunoClipIds": [
+      "800104fd-fe46-4e85-8d33-6742a9b328a5",
+      "77b42e4f-64cd-408d-861e-c5d971502923"
+    ],
+    "created": "Nov 16, 2026 8:08 AM ET",
+    "createTimeMs": 1794834498555,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "800104fd-fe46-4e85-8d33-6742a9b328a5",
+        "durationSec": 188.64,
+        "file": "seventies/e70_16_stuck_on_a_good_thing_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "77b42e4f-64cd-408d-861e-c5d971502923",
+        "durationSec": 188.76,
+        "file": "seventies/e70_16_stuck_on_a_good_thing_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_16_stuck_on_a_good_thing_req.json",
+      "seventies/e70_16_stuck_on_a_good_thing_rec.json"
+    ],
+    "cover": "seventies/covers/e70_16_stuck_on_a_good_thing.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, A-flat major, lifting a step for the last chorus. A galloping, grinning pop stomp.\n\nVOICE: A male tenor with a bright, open, slightly theatrical voice who sounds as if he is smiling. A group of men chant the nonsense syllables in low unison, rhythmic and deadpan, at the start, under the verses and alone in the bridge.\n\nINSTRUMENTS: A brass section (trumpets and trombones) playing big, cheerful fanfares in the chorus. A galloping drum beat with tom-toms. A bouncing electric bass. Electric organ. A bright rhythm guitar. Handclaps. Tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, the chant alone, then drums and bass join. 0:16 Verse 1. 0:36 Chorus 1 with brass. 1:00 Verse 2. 1:20 Chorus 2. 1:44 Bridge, chant and handclaps. 2:00 The key lifts for the final chorus. 2:28 Outro, the chant alone, fading by 2:50.\n\nPRODUCTION & MIX: Mid-1970s European pop: bright, brassy and compressed, with the chant dry and upfront like a rhythm instrument.\n\nSIGNATURE MOMENT: The chant in the first three seconds.\n\nMODERN POINT OF VIEW: The second verse belongs to someone who had a list and a calm and has cheerfully lost both. It fits a late romance or a grandchild as well as a first love.\n\nEMOTIONAL ARC: Delight, more delight.",
+    "workbookAtAGlance": "Stuck on a Good Thing\n\nBackup titles\nHubba-Loo-La / Best Kind of Terrible News\n\nAt a glance\n118 BPM, A-flat major\nVoice: Joyful male tenor, chanting male group\nLength: about 2 minutes 55",
+    "qa": {
+      "title": "Stuck on a Good Thing",
+      "id": "e70_16",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.01 dBFS (1 clipped sample, inaudible)",
+            "tempo measured 129 BPM vs 118 target (~10% off)"
+          ],
+          "durationSec": 188.7,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 9.5,
+          "lufs": -12.7,
+          "peakDbfs": 0.01,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 187.6,
+          "vocalCoverage": 0.774,
+          "vocalSpanSec": [
+            3.0,
+            187.0
+          ],
+          "vocalF0MedianHz": 351,
+          "vocalF0P25Hz": 312,
+          "lyricLineRecall": 0.743,
+          "lyricUnclearSections": [
+            "Intro",
+            "Bridge",
+            "Outro"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 188.8,
+          "measuredBpm": 126.0,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 6.8,
+          "lufs": -13.7,
+          "peakDbfs": -0.32,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 187.8,
+          "vocalCoverage": 0.731,
+          "vocalSpanSec": [
+            5.1,
+            184.4
+          ],
+          "vocalF0MedianHz": 443,
+          "vocalF0P25Hz": 263,
+          "lyricLineRecall": 0.8,
+          "lyricUnclearSections": [
+            "Intro",
+            "Outro"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_17",
+    "title": "Suppose We Did",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 17,
+    "slug": "e70_17_suppose_we_did",
+    "inspiredBy": "Imagine (John Lennon, 1971)",
+    "leadVoice": "Male tenor, soft, plain and slightly nasal, with a touch of echo on it. He sings quietly and without drama, almost as if thinking aloud. A small lift in the chorus, nothing more. The last line is nearly spoken.",
+    "model": "V6",
+    "style": "1971 piano peace ballad, soft plain slightly nasal male tenor vocal with a touch of echo, sung quietly and without drama as if thinking aloud, last line nearly spoken, 76 BPM, C major, slow simple and still, upright piano playing a gentle rocking chord figure with a small decorative turn, soft distant string section, simple quiet bass, very light drums with a soft backbeat, nothing else, warm soft-edged home-studio mix with short echo, hopeful, gentle, sincere",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, distorted guitar, fast tempo, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 205,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: solo piano, simple rocking figure]\n\n[Verse 1: soft, plain, piano only]\nSuppose there was a table\nAs long as any road\nAnd nobody went hungry\nAnd nobody was owed\n\n[Verse 2: soft strings enter]\nSuppose the maps were pencil\nAnd the borders rubbed away\nSuppose we all woke early\nWith nothing to repay\n\n[Chorus: voice lifts, bass and light drums]\nI know how it sounds, believe me\nI have heard it since I was ten\nBut somebody has to say it\nOr we never start, and then\nSuppose we did\n\n[Verse 3: soft, strings fuller]\nSuppose the news was weather\nAnd the weather wasn't war\nSuppose we knew our neighbours' names\nAnd what they're hoping for\n\n[Chorus: voice lifts, bass and light drums]\nI know how it sounds, believe me\nI have heard it since I was ten\nBut somebody has to say it\nOr we never start, and then\nSuppose we did\n\n[Outro: piano alone, last line nearly spoken]\nPull up a chair\nSuppose we did",
+    "taskId": "63ca726a4d6da842f356fb9a62e484a5",
+    "sunoClipIds": [
+      "b884c3e7-643e-4f6d-9d22-8090fcace2f3",
+      "26ad0b62-de45-4cc8-9ce4-43253ca4d86c"
+    ],
+    "created": "Nov 16, 2026 8:08 AM ET",
+    "createTimeMs": 1794834505957,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "b884c3e7-643e-4f6d-9d22-8090fcace2f3",
+        "durationSec": 204.2,
+        "file": "seventies/e70_17_suppose_we_did_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "26ad0b62-de45-4cc8-9ce4-43253ca4d86c",
+        "durationSec": 205.0,
+        "file": "seventies/e70_17_suppose_we_did_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_17_suppose_we_did_req.json",
+      "seventies/e70_17_suppose_we_did_rec.json"
+    ],
+    "cover": "seventies/covers/e70_17_suppose_we_did.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 76 BPM, 4/4, C major. Slow, simple and still. A lullaby for adults.\n\nVOICE: Male tenor, soft, plain and slightly nasal, with a touch of echo on it. He sings quietly and without drama, almost as if thinking aloud. A small lift in the chorus, nothing more. The last line is nearly spoken.\n\nINSTRUMENTS: An upright-sounding piano playing a gentle, rocking chord figure with a small decorative turn. A soft string section. A simple, quiet bass. Very light drums with a soft backbeat. Nothing else.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:13 Verse 1. 0:38 Verse 2, strings. 1:03 Chorus 1, bass and drums. 1:32 Verse 3. 1:57 Chorus 2. 2:26 Outro, piano alone and two quiet lines, ending at 3:05.\n\nPRODUCTION & MIX: Early-1970s home-studio simplicity: warm, a little soft-edged, piano and voice close with a short echo, strings distant.\n\nSIGNATURE MOMENT: The piano figure in the first four seconds.\n\nMODERN POINT OF VIEW: The original asks us to imagine things gone. This asks us to try things: a table, pencilled maps, knowing a neighbour's name. The last line is an invitation to sit down, which is how change looks to someone who has run a few meetings.\n\nEMOTIONAL ARC: A quiet proposal, a shrug at the doubters, an invitation.",
+    "workbookAtAGlance": "Suppose We Did\n\nBackup titles\nA Table as Long as a Road / I Know How It Sounds\n\nAt a glance\n76 BPM, C major\nVoice: Plain soft male tenor\nLength: about 3 minutes 10",
+    "qa": {
+      "title": "Suppose We Did",
+      "id": "e70_17",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 204.2,
+          "measuredBpm": 71.3,
+          "bpmFactor": 1,
+          "targetBpm": 76,
+          "bpmErrPct": 6.2,
+          "lufs": -14.5,
+          "peakDbfs": -0.13,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.6,
+          "contentEndSec": 202.0,
+          "vocalCoverage": 0.314,
+          "vocalSpanSec": [
+            26.3,
+            179.7
+          ],
+          "vocalF0MedianHz": 190,
+          "vocalF0P25Hz": 147,
+          "lyricLineRecall": 0.875,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 69 BPM vs 76 target (~9% off)"
+          ],
+          "durationSec": 205.0,
+          "measuredBpm": 68.9,
+          "bpmFactor": 1,
+          "targetBpm": 76,
+          "bpmErrPct": 9.3,
+          "lufs": -14.8,
+          "peakDbfs": -0.55,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 204.4,
+          "vocalCoverage": 0.301,
+          "vocalSpanSec": [
+            27.2,
+            179.0
+          ],
+          "vocalF0MedianHz": 166,
+          "vocalF0P25Hz": 147,
+          "lyricLineRecall": 0.75,
+          "lyricUnclearSections": [
+            "Verse 3"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_18",
+    "title": "Look at You, Look at Me",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 18,
+    "slug": "e70_18_look_at_you_look_at_me",
+    "inspiredBy": "You're the One That I Want (John Travolta & Olivia Newton-John, 1978)",
+    "leadVoice": "A man with a light, eager tenor that cracks into falsetto when he is flustered. A woman with a bright, clear soprano and a teasing edge who sounds entirely in control. They trade lines quickly and sing the chorus together, with a wordless three-note 'ooh' hook.",
+    "model": "V6",
+    "style": "1978 film musical pop rock duet, light eager male tenor cracking into falsetto and a bright clear teasing female soprano fully in control, trading lines quickly and singing the chorus together with a wordless three-note ooh hook, 107 BPM, C major, bouncing strutting groove, bouncing repeating electric bass line driving the song, tight drums with strong backbeat, handclaps, rhythm guitar, piano, tenor saxophone in the last chorus, bass-and-claps bridge with spoken asides, bright punchy clean mix, flirtatious, theatrical, joyful",
+    "negativeTags": "rap, slow ballad, heavy distortion, dark mood, drum machine, trap hi-hats, autotune, EDM drop",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 185,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bouncing bass line, handclaps, a drum fill]\n\n[Verse 1: male tenor, flustered and eager]\nI've got a tie I haven't worn since the wedding\nAnd a heart that's doing things it shouldn't do\nYou walked in wearing red like you were betting\nAnd my blood pressure's blaming you\n\n[Verse 2: female soprano, cool and in charge]\nStraighten up that collar, mister, find your nerve\nI didn't do my hair to stand around\nThere's a slow one and a fast one, I'll take both\nSo put that glass of water down\n\n[Chorus: both voices, full band, handclaps]\nLook at you (look at me)\nLook at us, ooh, ooh, ooh\nForty years and I'd still pick you\nOut of any room, ooh, ooh, ooh\nLook at you (look at me)\nStill my kind of trouble\n\n[Verse 3: male then female, trading lines]\nIf my knees give out, you'll have to catch me\n(If your knees give out, I'll leave you where you fall)\nI've been practising my spin out in the garage\n(I know, I saw you from the hall)\n\n[Chorus: both voices, full band, handclaps]\nLook at you (look at me)\nLook at us, ooh, ooh, ooh\nForty years and I'd still pick you\nOut of any room, ooh, ooh, ooh\nLook at you (look at me)\nStill my kind of trouble\n\n[Bridge: band drops to bass and claps, voices close]\nOoh, ooh, ooh\n(Is that the tie?) It's the tie\nOoh, ooh, ooh\n(Come here)\n\n[Final Chorus: everything, saxophone on top, whoops]\nLook at you (look at me)\nLook at us, ooh, ooh, ooh\nForty years and I'd still pick you\nOut of any room, ooh, ooh, ooh\nLook at you (look at me)\nStill my kind of trouble\n\n[Outro: bass line, laughing, last shout]\nLook at us",
+    "taskId": "84e7149cade1b258329ef1c8fc0ce353",
+    "sunoClipIds": [
+      "19ef1b45-82b2-4b2d-a7b8-9699cb2cce9a",
+      "05a6e4cd-8b4e-49d5-8196-d913825ed7b2"
+    ],
+    "created": "Nov 16, 2026 8:08 AM ET",
+    "createTimeMs": 1794834515237,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "19ef1b45-82b2-4b2d-a7b8-9699cb2cce9a",
+        "durationSec": 185.0,
+        "file": "seventies/e70_18_look_at_you_look_at_me_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "05a6e4cd-8b4e-49d5-8196-d913825ed7b2",
+        "durationSec": 184.68,
+        "file": "seventies/e70_18_look_at_you_look_at_me_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_18_look_at_you_look_at_me_req.json",
+      "seventies/e70_18_look_at_you_look_at_me_rec.json"
+    ],
+    "cover": "seventies/covers/e70_18_look_at_you_look_at_me.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 107 BPM, 4/4, C major. A bouncing, strutting pop-rock groove. Flirtatious, bright and theatrical.\n\nVOICE: A man with a light, eager tenor that cracks into falsetto when he is flustered. A woman with a bright, clear soprano and a teasing edge who sounds entirely in control. They trade lines quickly and sing the chorus together, with a wordless three-note 'ooh' hook.\n\nINSTRUMENTS: A bouncing, repeating electric bass line that drives the song. A tight drum kit with a strong backbeat. Handclaps. Rhythm guitar. Piano. A tenor saxophone in the last chorus. A few synthesised string stabs in the chorus.\n\nARRANGEMENT MAP: 0:00 Intro, the bass line, claps and a fill. 0:09 Verse 1, the man. 0:27 Verse 2, the woman. 0:45 Chorus 1. 1:07 Verse 3, traded lines. 1:25 Chorus 2. 1:47 Bridge, bass and claps with spoken asides. 2:05 Final chorus with saxophone. 2:30 Outro, the bass line, laughter and a shout at 2:45.\n\nPRODUCTION & MIX: Late-1970s film-musical pop: bright, punchy and clean, the two voices upfront and dry, the band tight.\n\nSIGNATURE MOMENT: The first shared 'ooh, ooh, ooh' in the chorus at 0:50.\n\nMODERN POINT OF VIEW: The original pair are teenagers who change themselves to match. These two have forty years behind them, bad knees and a garage, and the joke is that they can still surprise each other.\n\nEMOTIONAL ARC: Fluster, teasing, delight.",
+    "workbookAtAGlance": "Look at You, Look at Me\n\nBackup titles\nStill My Kind of Trouble / My Blood Pressure's Blaming You\n\nAt a glance\n107 BPM, C major\nVoice: Duet: eager male tenor, bright female soprano\nLength: about 2 minutes 50",
+    "qa": {
+      "title": "Look at You, Look at Me",
+      "id": "e70_18",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 185.0,
+          "measuredBpm": 107.7,
+          "bpmFactor": 1,
+          "targetBpm": 107,
+          "bpmErrPct": 0.6,
+          "lufs": -13.8,
+          "peakDbfs": -0.33,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.4,
+          "contentEndSec": 184.7,
+          "vocalCoverage": 0.728,
+          "vocalSpanSec": [
+            10.4,
+            183.9
+          ],
+          "vocalF0MedianHz": 396,
+          "vocalF0P25Hz": 293,
+          "lyricLineRecall": 0.794,
+          "lyricUnclearSections": [
+            "Verse 2"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 184.7,
+          "measuredBpm": 104.4,
+          "bpmFactor": 1,
+          "targetBpm": 107,
+          "bpmErrPct": 2.4,
+          "lufs": -14.2,
+          "peakDbfs": -0.44,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 182.9,
+          "vocalCoverage": 0.742,
+          "vocalSpanSec": [
+            4.9,
+            178.1
+          ],
+          "vocalF0MedianHz": 333,
+          "vocalF0P25Hz": 293,
+          "lyricLineRecall": 0.882,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_19",
+    "title": "Last Song at the Bowl-A-Rama",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 19,
+    "slug": "e70_19_last_song_at_the_bowl_a_rama",
+    "inspiredBy": "Piano Man (Billy Joel, 1973)",
+    "leadVoice": "Male, warm and conversational, a storyteller's tenor with clear words and a smile in it. The chorus is sung by a whole bar of people, off-key in places, with clinking glasses and a few shouts, and a wordless 'la-la' tag.",
+    "model": "V6",
+    "style": "1973 singer-songwriter waltz story song, warm conversational male storyteller tenor with clear words, chorus sung by a whole bar of people slightly off-key with clinking glasses and a wordless la-la tag, slow waltz in three beats to the bar, C major, swaying and warm, upright piano playing a rolling waltz figure, harmonica melody between verses, accordion, upright bass, brushed drums, mandolin, bar ambience, last-orders bell, applause, warm live-feeling mix, wistful, affectionate, singalong",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, distorted guitar, trap hi-hats, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 285,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: waltz-time piano, harmonica melody, bar noise]\n\n[Verse 1: warm storyteller, piano and accordion]\nThe leagues have gone home with their trophies\nThe lanes have gone dark for the night\nThere's a man in a bowling shirt signing up twice\nFor a song that he never gets right\n\n[Verse 2: bass and brushed drums join]\nThere's Marge who sells life insurance\nShe sings like a kettle in love\nAnd Darnell from the night shift does opera in Spanish\nWith a dish towel for a glove\n\n[Chorus: whole bar singing, glasses clinking]\nSo sing it for us, it's your turn\nNobody here can sing\nWe came for the chorus, we stay for each other\nAnd nobody's judging a thing\nLa, la-la, di-da-da\nLa-la, di-da-da, da-dum\n\n[Harmonica Break: harmonica and accordion in waltz time]\n\n[Verse 3: storyteller, a little softer]\nThe twins at the back do a duet\nIn keys that have yet to be named\nAnd the widow from Tuesday's has dedicated one\nTo a man she has never once blamed\n\n[Verse 4: storyteller, about himself]\nAnd I run the machine and I hold out the mic\nI was going to be someone, I thought\nBut I've heard every heart in this town through a speaker\nAnd it's better than what I'd have bought\n\n[Chorus: whole bar singing, louder]\nSo sing it for us, it's your turn\nNobody here can sing\nWe came for the chorus, we stay for each other\nAnd nobody's judging a thing\nLa, la-la, di-da-da\nLa-la, di-da-da, da-dum\n\n[Outro: piano and harmonica slow down, last call bell, applause]\nWho's next?",
+    "taskId": "ba7e372177bf077b27ae2b19a1bd3b3e",
+    "sunoClipIds": [
+      "ff6879be-7fbe-44a6-871d-945fed56169e",
+      "54afd190-8010-4f45-aa71-22d9780573f6"
+    ],
+    "created": "Nov 16, 2026 8:08 AM ET",
+    "createTimeMs": 1794834515915,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ff6879be-7fbe-44a6-871d-945fed56169e",
+        "durationSec": 284.72,
+        "file": "seventies/e70_19_last_song_at_the_bowl_a_rama_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "54afd190-8010-4f45-aa71-22d9780573f6",
+        "durationSec": 284.4,
+        "file": "seventies/e70_19_last_song_at_the_bowl_a_rama_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_19_last_song_at_the_bowl_a_rama_req.json",
+      "seventies/e70_19_last_song_at_the_bowl_a_rama_rec.json"
+    ],
+    "cover": "seventies/covers/e70_19_last_song_at_the_bowl_a_rama.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: A slow waltz, three beats to the bar at about 60 bars a minute, in C major. Swaying, warm and a little wistful.\n\nVOICE: Male, warm and conversational, a storyteller's tenor with clear words and a smile in it. The chorus is sung by a whole bar of people, off-key in places, with clinking glasses and a few shouts, and a wordless 'la-la' tag.\n\nINSTRUMENTS: An upright piano playing a rolling waltz figure. A harmonica playing the tune between verses. An accordion. Upright bass. Brushed drums with a soft waltz pattern. A mandolin in the last verse. Bar ambience, a bell and applause.\n\nARRANGEMENT MAP: 0:00 Intro, piano and harmonica over bar noise. 0:20 Verse 1. 0:44 Verse 2. 1:08 Chorus 1, the bar sings. 1:38 Harmonica break. 1:58 Verse 3. 2:22 Verse 4, the host about himself. 2:46 Chorus 2, louder. 3:16 The 'la-la' tag repeats with the crowd. 3:50 Outro, the band slows, a last-orders bell, applause and two spoken words at 4:20.\n\nPRODUCTION & MIX: Early-1970s singer-songwriter recording made to feel live: warm piano, close voice, the crowd recorded as a room.\n\nSIGNATURE MOMENT: The first chorus, when the bar comes in.\n\nMODERN POINT OF VIEW: Verse 4 is the change. The original narrator is passing through and knows he is better than the room. This one stayed, and has decided that hearing every heart in town through a speaker beats the career he imagined.\n\nEMOTIONAL ARC: Fond observation, tenderness, contentment.",
+    "workbookAtAGlance": "Last Song at the Bowl-A-Rama\n\nBackup titles\nNobody Here Can Sing / Put Your Name on the List\n\nAt a glance\n60 BPM (waltz, three beats to the bar), C major\nVoice: Warm male storyteller, crowd chorus\nLength: about 4 minutes 30",
+    "qa": {
+      "title": "Last Song at the Bowl-A-Rama",
+      "id": "e70_19",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.03 dBFS (5 clipped sample, inaudible)",
+            "tempo measured 81 BPM vs 60 target (~10% off)"
+          ],
+          "durationSec": 284.7,
+          "measuredBpm": 81.4,
+          "bpmFactor": 0.67,
+          "targetBpm": 60,
+          "bpmErrPct": 9.6,
+          "lufs": -13.0,
+          "peakDbfs": 0.03,
+          "clipSamples": 5,
+          "midGaps": [],
+          "endFadeSec": 2.6,
+          "contentEndSec": 283.4,
+          "vocalCoverage": 0.565,
+          "vocalSpanSec": [
+            1.8,
+            277.8
+          ],
+          "vocalF0MedianHz": 247,
+          "vocalF0P25Hz": 171,
+          "lyricLineRecall": 0.857,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 81 BPM vs 60 target (~10% off)"
+          ],
+          "durationSec": 284.4,
+          "measuredBpm": 81.4,
+          "bpmFactor": 0.67,
+          "targetBpm": 60,
+          "bpmErrPct": 9.6,
+          "lufs": -13.5,
+          "peakDbfs": -0.2,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.2,
+          "contentEndSec": 283.3,
+          "vocalCoverage": 0.498,
+          "vocalSpanSec": [
+            5.5,
+            282.5
+          ],
+          "vocalF0MedianHz": 264,
+          "vocalF0P25Hz": 196,
+          "lyricLineRecall": 0.893,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70_20",
+    "title": "Nothing Wrong With You",
+    "collection": "seventies",
+    "album": "70s Reimagined",
+    "track": 20,
+    "slug": "e70_20_nothing_wrong_with_you",
+    "inspiredBy": "Come and Get Your Love (Redbone, 1974)",
+    "leadVoice": "Male, relaxed and slightly nasal, with a drawl that sits just behind the beat. He calls out short lines and the rest of the band answers in a loose group. Group vocals on the chorus, and a chant in the bridge.",
+    "model": "V6",
+    "style": "1974 West Coast pop soul groove, relaxed slightly nasal male vocal with a drawl just behind the beat, calling out short lines answered by a loose group of band voices, group vocals on the chorus, 106 BPM, D major, loping rolling unhurried groove, round loping electric bass line carrying the tune, light swinging drums, string section with long gliding lines, twangy sitar-like guitar melody, clean rhythm guitar, congas, handclaps, chant bridge, warm round uncluttered mix, relaxed, reassuring, feel-good",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy distortion, dark mood, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: loping bass line, light drums, gliding strings]\n\n[Verse 1: laid-back lead, the band answers in brackets]\nHey (hey)\nWho told you that you had to change? (yeah)\nHey (hey)\nWho went and made you feel so strange? (ooh)\nYou were fine before they told you\nYou were fine\n\n[Chorus: easy groove, strings, group vocals]\nNothing wrong with you\nNothing wrong with you\nBring what you've got, bring what you've been\nDoor's wide open, come on in\nNothing wrong with you\n\n[Verse 2: laid-back lead, the band answers]\nHey (hey)\nYou don't have to earn a chair (yeah)\nHey (hey)\nThere was always one right there (ooh)\nYou were fine before they told you\nYou were fine\n\n[Chorus: easy groove, strings, group vocals]\nNothing wrong with you\nNothing wrong with you\nBring what you've got, bring what you've been\nDoor's wide open, come on in\nNothing wrong with you\n\n[Instrumental: electric sitar-like guitar melody over the groove]\n\n[Bridge: group chanting, handclaps]\nCome on in, come on in\n(Nothing wrong)\nCome on in, come on in\n(Nothing wrong)\n\n[Final Chorus: everyone, strings soaring, ad-libs]\nNothing wrong with you\nNothing wrong with you\nBring what you've got, bring what you've been\nDoor's wide open, come on in\nNothing wrong with you\n\n[Outro: bass line and strings, voices fading]\nYou were fine\nYou were fine",
+    "taskId": "a5ba43655db3198debbff8f8790d7545",
+    "sunoClipIds": [
+      "0cd045e4-ca0c-477e-9560-ea445973eb87",
+      "ffa5e516-bf41-412a-b453-c1fc4586ab60"
+    ],
+    "created": "Nov 16, 2026 8:08 AM ET",
+    "createTimeMs": 1794834519765,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0cd045e4-ca0c-477e-9560-ea445973eb87",
+        "durationSec": 214.2,
+        "file": "seventies/e70_20_nothing_wrong_with_you_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "ffa5e516-bf41-412a-b453-c1fc4586ab60",
+        "durationSec": 213.76,
+        "file": "seventies/e70_20_nothing_wrong_with_you_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "seventies/e70_20_nothing_wrong_with_you_req.json",
+      "seventies/e70_20_nothing_wrong_with_you_rec.json"
+    ],
+    "cover": "seventies/covers/e70_20_nothing_wrong_with_you.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 106 BPM, 4/4, D major. A loping, rolling, unhurried groove. Warm, loose and completely at ease.\n\nVOICE: Male, relaxed and slightly nasal, with a drawl that sits just behind the beat. He calls out short lines and the rest of the band answers in a loose group. Group vocals on the chorus, and a chant in the bridge.\n\nINSTRUMENTS: A round, loping electric bass line that carries the tune. A light, swinging drum kit. A string section playing long, gliding lines. A guitar with a twangy, sitar-like tone playing the instrumental melody. Clean rhythm guitar. Congas and handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, bass, drums and strings. 0:14 Verse 1. 0:40 Chorus 1. 1:02 Verse 2. 1:28 Chorus 2. 1:50 Instrumental with the sitar-like guitar. 2:12 Bridge, chant and claps. 2:30 Final chorus. 2:52 Outro, the bass and strings with voices fading by 3:15.\n\nPRODUCTION & MIX: Mid-1970s West Coast pop-soul: warm, round and uncluttered, bass and strings forward, everything sitting back in the pocket.\n\nSIGNATURE MOMENT: The first shouted 'Hey' and the band's reply at 0:14.\n\nMODERN POINT OF VIEW: 'You were fine before they told you' is the line of someone who has watched younger people be talked out of themselves. The song is advice from an elder with no lecture in it.\n\nEMOTIONAL ARC: Reassurance, welcome, ease.",
+    "workbookAtAGlance": "Nothing Wrong With You\n\nBackup titles\nBefore They Told You / Door's Wide Open\n\nAt a glance\n106 BPM, D major\nVoice: Laid-back male voice, band answering\nLength: about 3 minutes 20",
+    "qa": {
+      "title": "Nothing Wrong With You",
+      "id": "e70_20",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.3 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 214.2,
+          "measuredBpm": 106.6,
+          "bpmFactor": 1,
+          "targetBpm": 106,
+          "bpmErrPct": 0.5,
+          "lufs": -13.6,
+          "peakDbfs": 0.3,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 212.6,
+          "vocalCoverage": 0.625,
+          "vocalSpanSec": [
+            19.1,
+            201.0
+          ],
+          "vocalF0MedianHz": 295,
+          "vocalF0P25Hz": 245,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 213.8,
+          "measuredBpm": 104.4,
+          "bpmFactor": 1,
+          "targetBpm": 106,
+          "bpmErrPct": 1.5,
+          "lufs": -13.5,
+          "peakDbfs": -0.25,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.2,
+          "contentEndSec": 212.6,
+          "vocalCoverage": 0.573,
+          "vocalSpanSec": [
+            19.3,
+            196.5
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 247,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
   }
 ]

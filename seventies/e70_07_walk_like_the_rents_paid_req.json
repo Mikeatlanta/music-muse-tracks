@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Walk Like the Rent's Paid",
+  "prompt": "[Intro: strutting guitar riff, steady drum loop, bass]\n\n[Verse 1: falsetto lead, tight and rhythmic]\nCollar up, chin out, eyes ahead\nGot a coffee I can't afford and a plan instead\nCity's loud and the bus is late\nBut I've got a walk that says it's all going great\n\n[Pre-Chorus: strings rise, three voices]\nAnd it's alright, it's okay\nI've been broke on a better day\n\n[Chorus: three-part falsetto, strings, the riff underneath]\nHead up, shoulders back\nWalk like the rent's paid, walk like the rent's paid\nNobody needs to know what you lack\nWalk like the rent's paid, rent's paid\nOoh, ooh, ooh, ooh\nWalk like the rent's paid\n\n[Verse 2: falsetto lead, a little grit]\nLandlord's knocking and the fridge is bare\nGot one good jacket and I wear it everywhere\nShop window says I look like a king\nThe till says different, but the till can't sing\n\n[Pre-Chorus: strings rise, three voices]\nAnd it's alright, it's okay\nI've been broke on a better day\n\n[Chorus: three-part falsetto, strings, the riff underneath]\nHead up, shoulders back\nWalk like the rent's paid, walk like the rent's paid\nNobody needs to know what you lack\nWalk like the rent's paid, rent's paid\nOoh, ooh, ooh, ooh\nWalk like the rent's paid\n\n[Bridge: beat thins, voices lower, honest]\nI've been down and I'll be down again\nBut not on this block\nNot in front of them\n\n[Final Chorus: everything, horns join, falsetto ad-libs]\nHead up, shoulders back\nWalk like the rent's paid, walk like the rent's paid\nNobody needs to know what you lack\nWalk like the rent's paid, rent's paid\nOoh, ooh, ooh, ooh\nWalk like the rent's paid\n\n[Outro: guitar riff and drum loop, footsteps, fade]",
+  "style": "1977 disco, three men singing in high bright slightly nasal falsetto with fast vibrato in tight three-part harmony, clipped rhythmic verses, natural lower voices for a short bridge, 104 BPM, F minor, strutting mid-tempo walking groove, scratchy strutting rhythm guitar riff, drum pattern repeating identically like a loop with steady kick and crisp snare, prowling syncopated bass, string section with rising lines and stabs, electric piano, horn section at the end, tight dry glossy mix, cocky, tense, danceable",
+  "negativeTags": "female lead vocals, distorted rock guitar, rap, slow ballad, trap hi-hats, autotune, dubstep",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

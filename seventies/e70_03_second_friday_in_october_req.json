@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Second Friday in October",
+  "prompt": "[Intro: bright horn riff, clean guitar chops, rolling bass]\n\n[Verse 1: smooth tenor, light and happy]\nIt was the second Friday in October\nStreetlights humming, summer almost over\nYour cousin's car, the radio on low\nWe didn't have a single place to go\n\n[Pre-Chorus: falsetto joins, horns climb]\nAnd the whole town smelled like rain and somebody's fire\nOur hearts were ringing like a telephone wire\n\n[Chorus: group vocals, falsetto on top, horns answering]\nSha-da-dee, say you were there\nSha-da-dee, leaves in your hair\nSha-da-dee, nothing went wrong\nOn the second Friday, all night long\n\n[Verse 2: smooth tenor, bass busier]\nNow the calendar has turned a few more pages\nWe've been all kinds of people, all kinds of ages\nBut when the air gets cool and the light gets gold\nI am twenty-one and I'm not getting old\n\n[Pre-Chorus: falsetto joins, horns climb]\nAnd the whole town smells like rain and somebody's fire\nMy heart is ringing like a telephone wire\n\n[Chorus: group vocals, falsetto on top, horns answering]\nSha-da-dee, say you were there\nSha-da-dee, leaves in your hair\nSha-da-dee, nothing went wrong\nOn the second Friday, all night long\n\n[Horn Break: horn section trades with a kalimba, percussion]\n\n[Bridge: falsetto lead, group answering]\nSha-da-dee-ya, dee-ya\n(Was it the ninth? Was it the tenth?)\nSha-da-dee-ya, dee-ya\n(Nobody knows, nobody cares)\n\n[Final Chorus: everyone, horns wide open, falsetto ad-libs]\nSha-da-dee, say you were there\nSha-da-dee, leaves in your hair\nSha-da-dee, nothing went wrong\nOn the second Friday, all night long\nSha-da-dee, sha-da-dee\nAll night long\n\n[Outro: horn riff, falsetto fading]\nSha-da-dee",
+  "style": "1978 polished funk and soul celebration, smooth male tenor lead, a second man singing pure very high falsetto on the choruses, group of men singing nonsense syllables in tight harmony, 126 BPM, A major, rolling buoyant groove, bright tight horn section riff with trumpets, trombones and saxophones answering the vocals, clean choppy rhythm guitar, busy melodic electric bass, crisp drums with lively hi-hat, congas, cowbell, kalimba in the break, electric piano, strings, bright clean punchy mix, joyful, nostalgic, danceable",
+  "negativeTags": "distorted guitar, female lead vocals, slow ballad, dark mood, drum machine, rap, autotune, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

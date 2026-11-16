@@ -1,0 +1,112 @@
+{
+  "id": "e70_02",
+  "title": "You'll Hear It When It's Quiet",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 2,
+  "slug": "e70_02_youll_hear_it_when_its_quiet",
+  "inspiredBy": "Dreams (Fleetwood Mac, 1977)",
+  "leadVoice": "Female alto, husky and slightly nasal with a quick, fluttering vibrato. She sings softly and evenly, never pushing. Two more voices, a higher woman and a man, join in close three-part harmony on the choruses. Dreamy ad-libs over the last chorus.",
+  "model": "V6",
+  "style": "1977 California soft rock, husky slightly nasal female alto vocal with a quick fluttering vibrato, soft even delivery, close three-part harmony choruses with a higher woman and a man, dreamy ad-libs, 120 BPM, A minor, two chords alternating unchanged for the whole song, cool floating and unhurried, very steady soft drums with constant hi-hat, round simple repeating bass line, clean electric guitar volume swells, vibraphone, electric piano, quiet acoustic guitar, light congas, dry close warm balanced mix, calm, knowing, bittersweet",
+  "negativeTags": "distorted guitar, synthesizer, drum machine, male lead vocals, rap, fast tempo, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 275,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft steady drums, round bass, two drifting guitar chords]\n\n[Verse 1: husky, calm, close]\nSo you want the open road\nThe wind and none of the weight\nGo on, then, I won't hold the door\nI won't stand at the gate\n\n[Pre-Chorus: vibraphone, soft harmony]\nOne night the engine's going to cool\nAnd the radio will fade\nAnd you'll be parked with what you chose\nAnd everything it weighed\n\n[Chorus: three-part harmony, the same two chords]\nTides only turn when nobody's looking\nFires only talk when the room goes cold\nYou'll hear it when it's quiet\nWhat the loud was keeping from you\nAnd I'll be fine by then\nOh, I'll be fine\n\n[Verse 2: husky, a little cooler]\nI've seen the way you pack a bag\nLike the bag has all the answers\nYou love the leaving more than the going\nYou're a dance without the dancers\n\n[Pre-Chorus: vibraphone, soft harmony]\nOne day the mirror's going to ask\nAnd you won't know what to say\nAnd you'll remember someone asked you\nKindly, once, to stay\n\n[Chorus: three-part harmony, the same two chords]\nTides only turn when nobody's looking\nFires only talk when the room goes cold\nYou'll hear it when it's quiet\nWhat the loud was keeping from you\nAnd I'll be fine by then\nOh, I'll be fine\n\n[Guitar Solo: volume swells, sparse and sighing]\n\n[Final Chorus: harmonies fuller, ad-libs drifting]\nTides only turn when nobody's looking\nFires only talk when the room goes cold\nYou'll hear it when it's quiet\nYou'll hear it when it's quiet\n\n[Outro: drums and bass alone, fading]\nQuiet",
+  "taskId": "3364acda4428b76abd34190376faeaa0",
+  "sunoClipIds": [
+    "c564333f-2d14-4a93-808e-7e2d4e3508a0",
+    "9f163f1c-880e-463f-b9b5-86f266640952"
+  ],
+  "created": "Nov 16, 2026 8:07 AM ET",
+  "createTimeMs": 1794834455216,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "c564333f-2d14-4a93-808e-7e2d4e3508a0",
+      "durationSec": 274.56,
+      "file": "seventies/e70_02_youll_hear_it_when_its_quiet_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "9f163f1c-880e-463f-b9b5-86f266640952",
+      "durationSec": 274.56,
+      "file": "seventies/e70_02_youll_hear_it_when_its_quiet_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_02_youll_hear_it_when_its_quiet_req.json",
+    "seventies/e70_02_youll_hear_it_when_its_quiet_rec.json"
+  ],
+  "cover": "seventies/covers/e70_02_youll_hear_it_when_its_quiet.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, A minor. Two chords alternating without change for the whole song. Cool, floating and unhurried.\n\nVOICE: Female alto, husky and slightly nasal with a quick, fluttering vibrato. She sings softly and evenly, never pushing. Two more voices, a higher woman and a man, join in close three-part harmony on the choruses. Dreamy ad-libs over the last chorus.\n\nINSTRUMENTS: A very steady, soft drum pattern with a constant hi-hat and a gentle snare. A round, simple, repeating bass line. Clean electric guitar playing swells and small answering phrases with a volume pedal. Vibraphone. Electric piano. Acoustic guitar strummed quietly. Light congas.\n\nARRANGEMENT MAP: 0:00 Intro, drums, bass and guitar. 0:16 Verse 1. 0:48 Pre-chorus. 1:20 Chorus 1. 1:52 Verse 2. 2:24 Pre-chorus. 2:56 Chorus 2. 3:28 Guitar solo of swells. 3:44 Final chorus, with the title line repeated. 4:08 Outro, drums and bass fading by 4:20.\n\nPRODUCTION & MIX: Late-1970s California studio sound: dry, close, warm and perfectly balanced, each instrument small and clear, a lot of air.\n\nSIGNATURE MOMENT: The first chorus, when three voices arrive on the proverb lines.\n\nMODERN POINT OF VIEW: She does not predict that he will be lonely and come back. She says she will be fine by then. The calm of the original is kept, and the dependence is taken out.\n\nEMOTIONAL ARC: Composure, clear sight, release.",
+  "workbookAtAGlance": "You'll Hear It When It's Quiet\n\nBackup titles\nTides Only Turn / Everything It Weighed\n\nAt a glance\n120 BPM, A minor (two chords)\nVoice: Husky female alto, soft harmonies\nLength: about 4 minutes",
+  "qa": {
+    "title": "You'll Hear It When It's Quiet",
+    "id": "e70_02",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 274.6,
+        "measuredBpm": 118.8,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 1.0,
+        "lufs": -13.7,
+        "peakDbfs": -0.31,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.6,
+        "contentEndSec": 272.8,
+        "vocalCoverage": 0.496,
+        "vocalSpanSec": [
+          17.0,
+          255.1
+        ],
+        "vocalF0MedianHz": 264,
+        "vocalF0P25Hz": 249,
+        "lyricLineRecall": 0.938,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 274.6,
+        "measuredBpm": 121.6,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 1.3,
+        "lufs": -14.0,
+        "peakDbfs": -0.23,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.6,
+        "contentEndSec": 272.7,
+        "vocalCoverage": 0.577,
+        "vocalSpanSec": [
+          16.7,
+          258.4
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

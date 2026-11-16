@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Look at You, Look at Me",
+  "prompt": "[Intro: bouncing bass line, handclaps, a drum fill]\n\n[Verse 1: male tenor, flustered and eager]\nI've got a tie I haven't worn since the wedding\nAnd a heart that's doing things it shouldn't do\nYou walked in wearing red like you were betting\nAnd my blood pressure's blaming you\n\n[Verse 2: female soprano, cool and in charge]\nStraighten up that collar, mister, find your nerve\nI didn't do my hair to stand around\nThere's a slow one and a fast one, I'll take both\nSo put that glass of water down\n\n[Chorus: both voices, full band, handclaps]\nLook at you (look at me)\nLook at us, ooh, ooh, ooh\nForty years and I'd still pick you\nOut of any room, ooh, ooh, ooh\nLook at you (look at me)\nStill my kind of trouble\n\n[Verse 3: male then female, trading lines]\nIf my knees give out, you'll have to catch me\n(If your knees give out, I'll leave you where you fall)\nI've been practising my spin out in the garage\n(I know, I saw you from the hall)\n\n[Chorus: both voices, full band, handclaps]\nLook at you (look at me)\nLook at us, ooh, ooh, ooh\nForty years and I'd still pick you\nOut of any room, ooh, ooh, ooh\nLook at you (look at me)\nStill my kind of trouble\n\n[Bridge: band drops to bass and claps, voices close]\nOoh, ooh, ooh\n(Is that the tie?) It's the tie\nOoh, ooh, ooh\n(Come here)\n\n[Final Chorus: everything, saxophone on top, whoops]\nLook at you (look at me)\nLook at us, ooh, ooh, ooh\nForty years and I'd still pick you\nOut of any room, ooh, ooh, ooh\nLook at you (look at me)\nStill my kind of trouble\n\n[Outro: bass line, laughing, last shout]\nLook at us",
+  "style": "1978 film musical pop rock duet, light eager male tenor cracking into falsetto and a bright clear teasing female soprano fully in control, trading lines quickly and singing the chorus together with a wordless three-note ooh hook, 107 BPM, C major, bouncing strutting groove, bouncing repeating electric bass line driving the song, tight drums with strong backbeat, handclaps, rhythm guitar, piano, tenor saxophone in the last chorus, bass-and-claps bridge with spoken asides, bright punchy clean mix, flirtatious, theatrical, joyful",
+  "negativeTags": "rap, slow ballad, heavy distortion, dark mood, drum machine, trap hi-hats, autotune, EDM drop",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "callBackUrl": "https://example.com/cb"
+}

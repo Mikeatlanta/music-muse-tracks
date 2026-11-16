@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Hey, Grown-Ups",
+  "prompt": "[Intro: muted funk guitar, four-on-the-floor kick, pulsing bass]\n\n[Verse 1: dry male lead, close and flat]\nPut away the glowing window\nPut away the little light\nYou've been nodding at the table\nYou've been somewhere else all night\nHey, grown-ups, look up, we're right here\n\n[Refrain: male lead, organ swells]\nOne more evening\nOne more thumb across a screen\n\n[Verse 2: children's choir, rough and loud, same words]\nPut away the glowing window\nPut away the little light\nYou've been nodding at the table\nYou've been somewhere else all night\nHey, grown-ups, look up, we're right here\n\n[Refrain: children's choir, organ swells]\nOne more evening\nOne more thumb across a screen\n\n[Guitar Solo: long, bluesy, singing bends over the groove]\n\n[Verse 3: male lead and children together]\nWe don't want another picture\nWe would rather have the day\nThere's a story you were telling\nAnd you stopped it halfway\nHey, grown-ups, look up, we're right here\n\n[Refrain: everyone, building]\nOne more evening\nOne more thumb across a screen\n\n[Outro: groove continues, playground noise, a child calling]\nDad\nDad\nDad, watch this",
+  "style": "1979 British art rock with a disco rhythm section, dry flat slightly sneering male lead vocal close to the microphone, a choir of schoolchildren with unpolished voices singing the second verse loudly as a playground chant, 104 BPM, D minor, steady hypnotic pulse, clean tight muted funky guitar chops, four-on-the-floor kick with crisp snare, pulsing repeating bass, church-like organ swells, long warm singing blues-based lead guitar solo, playground sounds at the end, very dry tight controlled mix, dark, accusing, danceable",
+  "negativeTags": "female lead vocals, rap, bright happy pop, drum machine, trap hi-hats, autotune, EDM drop, country",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

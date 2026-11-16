@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Seventeen at the Core",
+  "prompt": "[Intro: sweeping piano glissando, strings, straight into the chorus]\n\n[Chorus: two women in unison, lush and bright]\nLook at her go\nSilver hair and seventeen at the core\nEvery beat she ever knew comes back for more\nOh, she's the last one dancing\nAnd the first one on the floor\nLook at her, she's seventeen at the core\n\n[Verse 1: softer, one voice leading, piano and bass]\nThe band's a little out of tune\nIt's someone's wedding, late in June\nShe leaves her handbag with her friend\nAnd walks out on the floor\n\n[Pre-Chorus: harmonies rise, drums build]\nAnd you can see it, anyone can\nThe years step back and give her room\n\n[Chorus: two women in unison, lush and bright]\nLook at her go\nSilver hair and seventeen at the core\nEvery beat she ever knew comes back for more\nOh, she's the last one dancing\nAnd the first one on the floor\nLook at her, she's seventeen at the core\n\n[Verse 2: softer, the other voice leading]\nShe raised three kids and buried one\nShe's done what anyone has done\nBut there's a song, and here it comes\nAnd nobody is tired any more\n\n[Pre-Chorus: harmonies rise, drums build]\nAnd you can see it, anyone can\nThe years step back and give her room\n\n[Chorus: two women in unison, lush and bright]\nLook at her go\nSilver hair and seventeen at the core\nEvery beat she ever knew comes back for more\nOh, she's the last one dancing\nAnd the first one on the floor\nLook at her, she's seventeen at the core\n\n[Outro: chorus melody on piano and strings, voices in harmony, fade]\nLook at her go\nLook at her go",
+  "style": "1976 Swedish disco pop wall of sound, two female voices singing mostly in unison, one bright and clear and one warm and deep, splitting into high harmony at the ends of phrases, layered many times, each taking a soft verse alone, 101 BPM, A major, stately gliding tempo, song opens with the chorus, grand piano with a sweeping glissando and rich rolling chords, high sustained string section, steady drums with soft four-on-the-floor kick, melodic moving bass, tambourine, tubular bells, dense bright reverberant mix, glowing, bittersweet, joyful",
+  "negativeTags": "male lead vocals, distorted guitar, rap, drum machine, dark mood, trap hi-hats, autotune, EDM drop",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

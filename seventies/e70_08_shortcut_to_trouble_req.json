@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Shortcut to Trouble",
+  "prompt": "[Intro: open-chord guitar riff with gaps, hi-hat counting]\n\n[Verse 1: cheeky rasp, drums and bass kick in]\nPacked a bag and I kissed the cat\nLeft a note where the fridge is at\nDon't need a map, don't need a plan\nGot a full tank and a bad idea, man\n\n[Pre-Chorus: chords climb, snare builds]\nAsk me where I'm going\nI'm going where it's going\n\n[Chorus: gang vocals, ringing chords]\nI'm on a shortcut to trouble\nShortcut to trouble\nTell my mother I was last seen smiling\nShortcut to trouble\n\n[Verse 2: cheeky rasp, riff underneath]\nSold the mower and I kept the amp\nPhone's on silent in a glovebox camp\nMy doctor said to take it slow\nI said \"sure, Doc,\" and I let it go\n\n[Pre-Chorus: chords climb, snare builds]\nAsk me where I'm going\nI'm going where it's going\n\n[Chorus: gang vocals, ringing chords]\nI'm on a shortcut to trouble\nShortcut to trouble\nTell my mother I was last seen smiling\nShortcut to trouble\n\n[Guitar Solo: bluesy, biting, short]\n\n[Bridge: band drops to kick drum and gang shout]\nAnd I'm going all the way\n(All the way)\nAnd I'm not coming back till Tuesday\n(Tuesday)\n\n[Final Chorus: full band, lead guitar over the top]\nI'm on a shortcut to trouble\nShortcut to trouble\nTell my mother I was last seen smiling\nShortcut to trouble\nShortcut to trouble\n\n[Outro: riff, one last chord, a laugh]",
+  "style": "1979 Australian hard rock boogie, high raspy cheeky male rock voice half sung and half leered with a wink, gang of rough male voices shouting the title, 116 BPM, A major, swaggering mid-tempo with space in it, two crunchy lightly overdriven electric guitars playing an open-chord riff with deliberate silences, short biting blues-based guitar solo, simple solid root-note bass, dry heavy drums playing a plain beat, kick-drum-and-shout bridge, dry punchy uncluttered mix, mischievous, rowdy, good-humoured",
+  "negativeTags": "synthesizer, keyboards, piano, drum machine, female vocals, ballad, autotune, EDM, strings",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

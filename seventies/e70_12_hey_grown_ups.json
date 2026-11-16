@@ -1,0 +1,116 @@
+{
+  "id": "e70_12",
+  "title": "Hey, Grown-Ups",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 12,
+  "slug": "e70_12_hey_grown_ups",
+  "inspiredBy": "Another Brick in the Wall, Pt. 2 (Pink Floyd, 1979)",
+  "leadVoice": "A male lead with a dry, flat, slightly sneering delivery, close to the microphone. A choir of schoolchildren with unpolished voices and strong local accents sings the second verse and refrain loudly and a little out of tune, as children do. A single child speaks at the end.",
+  "model": "V6",
+  "style": "1979 British art rock with a disco rhythm section, dry flat slightly sneering male lead vocal close to the microphone, a choir of schoolchildren with unpolished voices singing the second verse loudly as a playground chant, 104 BPM, D minor, steady hypnotic pulse, clean tight muted funky guitar chops, four-on-the-floor kick with crisp snare, pulsing repeating bass, church-like organ swells, long warm singing blues-based lead guitar solo, playground sounds at the end, very dry tight controlled mix, dark, accusing, danceable",
+  "negativeTags": "female lead vocals, rap, bright happy pop, drum machine, trap hi-hats, autotune, EDM drop, country",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: muted funk guitar, four-on-the-floor kick, pulsing bass]\n\n[Verse 1: dry male lead, close and flat]\nPut away the glowing window\nPut away the little light\nYou've been nodding at the table\nYou've been somewhere else all night\nHey, grown-ups, look up, we're right here\n\n[Refrain: male lead, organ swells]\nOne more evening\nOne more thumb across a screen\n\n[Verse 2: children's choir, rough and loud, same words]\nPut away the glowing window\nPut away the little light\nYou've been nodding at the table\nYou've been somewhere else all night\nHey, grown-ups, look up, we're right here\n\n[Refrain: children's choir, organ swells]\nOne more evening\nOne more thumb across a screen\n\n[Guitar Solo: long, bluesy, singing bends over the groove]\n\n[Verse 3: male lead and children together]\nWe don't want another picture\nWe would rather have the day\nThere's a story you were telling\nAnd you stopped it halfway\nHey, grown-ups, look up, we're right here\n\n[Refrain: everyone, building]\nOne more evening\nOne more thumb across a screen\n\n[Outro: groove continues, playground noise, a child calling]\nDad\nDad\nDad, watch this",
+  "taskId": "1655d8157018a1402f73b12740c1a440",
+  "sunoClipIds": [
+    "ba1fbe95-b871-4c9d-9b50-f9651f5d8f26",
+    "ab40ca6d-4648-4610-ae22-7e2c5a92c7a3"
+  ],
+  "created": "Nov 16, 2026 8:08 AM ET",
+  "createTimeMs": 1794834494954,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ba1fbe95-b871-4c9d-9b50-f9651f5d8f26",
+      "durationSec": 244.8,
+      "file": "seventies/e70_12_hey_grown_ups_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ab40ca6d-4648-4610-ae22-7e2c5a92c7a3",
+      "durationSec": 243.72,
+      "file": "seventies/e70_12_hey_grown_ups_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_12_hey_grown_ups_req.json",
+    "seventies/e70_12_hey_grown_ups_rec.json"
+  ],
+  "cover": "seventies/covers/e70_12_hey_grown_ups.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, D minor. A steady, hypnotic disco pulse under a cold, accusing tune. Dry, dark and oddly danceable.\n\nVOICE: A male lead with a dry, flat, slightly sneering delivery, close to the microphone. A choir of schoolchildren with unpolished voices and strong local accents sings the second verse and refrain loudly and a little out of tune, as children do. A single child speaks at the end.\n\nINSTRUMENTS: A clean electric guitar playing tight, muted, funky chops. A four-on-the-floor kick drum with a crisp snare and steady hi-hat. A pulsing, repeating bass. A church-like organ swelling in the refrains. A lead electric guitar with a warm, singing tone for a long, blues-based solo. Playground sounds.\n\nARRANGEMENT MAP: 0:00 Intro, the groove. 0:16 Verse 1, the man. 0:42 Refrain. 0:52 Verse 2, the children. 1:18 Refrain. 1:28 Guitar solo, sixteen bars or more. 2:20 Verse 3, the man and the children together. 2:46 Refrain, building. 3:00 Outro, the groove continues under playground noise and a child calling three times, fading by 3:45.\n\nPRODUCTION & MIX: Late-1970s art rock with a disco rhythm section: very dry, tight and controlled, the children's choir roomy and raw by contrast.\n\nSIGNATURE MOMENT: The children's choir entering at 0:52.\n\nMODERN POINT OF VIEW: In 1979 the children sang against the teachers. Now they are singing to their own parents, and the last three words are a child trying to be seen. Anyone who grew up with the original is the target.\n\nEMOTIONAL ARC: Accusation, recognition, a small plea.",
+  "workbookAtAGlance": "Hey, Grown-Ups\n\nBackup titles\nThe Glowing Window / Dad, Watch This\n\nAt a glance\n104 BPM, D minor\nVoice: Dry male lead, children's choir\nLength: about 3 minutes 50",
+  "qa": {
+    "title": "Hey, Grown-Ups",
+    "id": "e70_12",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 244.8,
+        "measuredBpm": 105.5,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 1.4,
+        "lufs": -12.6,
+        "peakDbfs": -0.3,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 244.1,
+        "vocalCoverage": 0.317,
+        "vocalSpanSec": [
+          19.5,
+          209.7
+        ],
+        "vocalF0MedianHz": 270,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.909,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 243.7,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 3.5,
+        "lufs": -12.1,
+        "peakDbfs": -0.17,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 242.6,
+        "vocalCoverage": 0.284,
+        "vocalSpanSec": [
+          23.6,
+          224.7
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.773,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

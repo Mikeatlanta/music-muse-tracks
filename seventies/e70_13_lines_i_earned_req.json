@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Lines I Earned",
+  "prompt": "[Intro: harpsichord-like electric piano arpeggio, soft strings]\n\n[Verse 1: low, dark, almost spoken]\nGot my father's forehead and my mother's frown\nGot a map of every time I let me down\nSomebody's been drawing while I slept\nA ledger of the promises I kept\n\n[Verse 2: bass and soft drums enter]\nThere's a crease for every winter that I worked\nThere's a crease for every answer that I shirked\nAnd the laughing made the ones around my eyes\nI wouldn't sell them back at any price\n\n[Chorus: band rises, guitars enter, voice higher]\nThese are lines I earned\nEvery one a bridge I burned or built\nI'm not smoothing out a single year\nCount them, I'm still here\nGo on, count them\nI'm still here\n\n[Verse 3: fuller, voice with more edge]\nHalf my heroes never got this far\nHalf my friends are pictures in a drawer\nSo I'll take the grey and I'll take the ache\nI'll take every morning I can wake\n\n[Chorus: band rises, guitars louder, voice higher]\nThese are lines I earned\nEvery one a bridge I burned or built\nI'm not smoothing out a single year\nCount them, I'm still here\nGo on, count them\nI'm still here\n\n[Build: one phrase repeated, each time higher, drums pounding]\nStill here\nStill here\nStill here\nStill here\nStill here\nStill here\n\n[Climax: screamed at the top of the range, full band, strings]\nStill here\nStill here\n\n[Outro: arpeggio returns alone, slowing]\nCount them",
+  "style": "1973 hard rock power ballad with a classical tint, male vocal starting low husky and almost spoken, rising section by section, repeating two words each time a step higher until screaming in a piercing raw upper register, 80 BPM, F minor, slow grave climbing march, harpsichord-like electric piano playing a baroque arpeggio, wavering tape-style string-machine pad, electric guitars growing from quiet to thick sustained chords, melodic bass, drums soft then pounding, warm murky analogue mix, dark, proud, ferocious",
+  "negativeTags": "drum machine, female lead vocals, rap, upbeat pop, trap hi-hats, autotune, EDM, country, disco",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 270,
+  "callBackUrl": "https://example.com/cb"
+}

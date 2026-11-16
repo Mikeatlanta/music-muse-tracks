@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Leave It Till Morning",
+  "prompt": "[Intro: solo piano, plain hymn-like chords]\n\n[Verse 1: warm, close, piano only]\nWhen the night has got its hands on me\nAnd every little thing is wrong\nI can hear my grandmother at the sink\nHumming her one song\n\n[Chorus: soft choir joins, bass enters]\nLeave it till morning, leave it till morning\nThe dark makes it bigger than it is\nLeave it till morning, child\nIt'll keep, it'll keep\n\n[Verse 2: drums enter gently, organ]\nAnd when the worried people of the world agree\nOn nothing but the worry and the fear\nThere's a kettle going somewhere, there's a light\nAnd somebody saying \"here\"\n\n[Chorus: choir fuller, organ]\nLeave it till morning, leave it till morning\nThe dark makes it bigger than it is\nLeave it till morning, child\nIt'll keep, it'll keep\n\n[Guitar Solo: warm, melodic, over the chorus chords]\n\n[Verse 3: full band, voice stronger]\nAnd when the morning comes, if it's still there\nWe'll look at it together in the light\nMost of what was howling at the door\nWas only the night\n\n[Final Chorus: choir at full voice, handclaps, ad-libs]\nLeave it till morning, leave it till morning\nThe dark makes it bigger than it is\nLeave it till morning, child\nIt'll keep, it'll keep\nLeave it till morning\nIt'll keep\n\n[Outro: piano alone, a tap running, a hummed line]",
+  "style": "1970 piano gospel rock hymn, warm unforced male tenor vocal singing as if to one person, mixed gospel choir entering softly and growing to full voice with handclaps and ad-libs, 72 BPM, C major, slow steady and consoling, piano playing simple church-like chords, Hammond organ, electric bass, drums entering gently in the second verse, warm slightly overdriven melodic lead guitar solo, hummed line at the end, band recorded live with a choir, warm simple roomy mix, calm, comforting, hopeful",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy distortion, fast tempo, autotune, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

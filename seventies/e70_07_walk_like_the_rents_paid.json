@@ -1,0 +1,112 @@
+{
+  "id": "e70_07",
+  "title": "Walk Like the Rent's Paid",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 7,
+  "slug": "e70_07_walk_like_the_rents_paid",
+  "inspiredBy": "Stayin' Alive (Bee Gees, 1977)",
+  "leadVoice": "Three men singing in a high, bright, slightly nasal falsetto with a fast vibrato, in tight three-part harmony throughout. The lead line is clipped and rhythmic in the verses. In the bridge they drop into natural, lower voices for three lines.",
+  "model": "V6",
+  "style": "1977 disco, three men singing in high bright slightly nasal falsetto with fast vibrato in tight three-part harmony, clipped rhythmic verses, natural lower voices for a short bridge, 104 BPM, F minor, strutting mid-tempo walking groove, scratchy strutting rhythm guitar riff, drum pattern repeating identically like a loop with steady kick and crisp snare, prowling syncopated bass, string section with rising lines and stabs, electric piano, horn section at the end, tight dry glossy mix, cocky, tense, danceable",
+  "negativeTags": "female lead vocals, distorted rock guitar, rap, slow ballad, trap hi-hats, autotune, dubstep",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: strutting guitar riff, steady drum loop, bass]\n\n[Verse 1: falsetto lead, tight and rhythmic]\nCollar up, chin out, eyes ahead\nGot a coffee I can't afford and a plan instead\nCity's loud and the bus is late\nBut I've got a walk that says it's all going great\n\n[Pre-Chorus: strings rise, three voices]\nAnd it's alright, it's okay\nI've been broke on a better day\n\n[Chorus: three-part falsetto, strings, the riff underneath]\nHead up, shoulders back\nWalk like the rent's paid, walk like the rent's paid\nNobody needs to know what you lack\nWalk like the rent's paid, rent's paid\nOoh, ooh, ooh, ooh\nWalk like the rent's paid\n\n[Verse 2: falsetto lead, a little grit]\nLandlord's knocking and the fridge is bare\nGot one good jacket and I wear it everywhere\nShop window says I look like a king\nThe till says different, but the till can't sing\n\n[Pre-Chorus: strings rise, three voices]\nAnd it's alright, it's okay\nI've been broke on a better day\n\n[Chorus: three-part falsetto, strings, the riff underneath]\nHead up, shoulders back\nWalk like the rent's paid, walk like the rent's paid\nNobody needs to know what you lack\nWalk like the rent's paid, rent's paid\nOoh, ooh, ooh, ooh\nWalk like the rent's paid\n\n[Bridge: beat thins, voices lower, honest]\nI've been down and I'll be down again\nBut not on this block\nNot in front of them\n\n[Final Chorus: everything, horns join, falsetto ad-libs]\nHead up, shoulders back\nWalk like the rent's paid, walk like the rent's paid\nNobody needs to know what you lack\nWalk like the rent's paid, rent's paid\nOoh, ooh, ooh, ooh\nWalk like the rent's paid\n\n[Outro: guitar riff and drum loop, footsteps, fade]",
+  "taskId": "1a6d33c64b739d9c743b389ae64815a6",
+  "sunoClipIds": [
+    "e44a8e8c-2618-4b74-88bf-f6746ff70fd3",
+    "be6e3919-2678-492b-8f30-63f6e292d4d7"
+  ],
+  "created": "Nov 16, 2026 8:07 AM ET",
+  "createTimeMs": 1794834465799,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "e44a8e8c-2618-4b74-88bf-f6746ff70fd3",
+      "durationSec": 244.16,
+      "file": "seventies/e70_07_walk_like_the_rents_paid_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "be6e3919-2678-492b-8f30-63f6e292d4d7",
+      "durationSec": 243.6,
+      "file": "seventies/e70_07_walk_like_the_rents_paid_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_07_walk_like_the_rents_paid_req.json",
+    "seventies/e70_07_walk_like_the_rents_paid_rec.json"
+  ],
+  "cover": "seventies/covers/e70_07_walk_like_the_rents_paid.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, F minor. A strutting, mid-tempo disco groove, exactly the pace of a confident walk. Cocky on top, tense underneath.\n\nVOICE: Three men singing in a high, bright, slightly nasal falsetto with a fast vibrato, in tight three-part harmony throughout. The lead line is clipped and rhythmic in the verses. In the bridge they drop into natural, lower voices for three lines.\n\nINSTRUMENTS: A scratchy, strutting rhythm guitar riff. A drum pattern that repeats identically like a loop, with a steady kick and a crisp snare. A prowling, syncopated bass. A string section with rising lines and stabs. Electric piano. A horn section in the final chorus.\n\nARRANGEMENT MAP: 0:00 Intro, guitar riff, drums and bass. 0:14 Verse 1. 0:32 Pre-chorus. 0:41 Chorus 1. 1:08 Verse 2. 1:26 Pre-chorus. 1:35 Chorus 2. 2:02 Bridge, thinner, lower voices. 2:20 Final chorus with horns. 2:47 The chorus hook repeats with ad-libs. 3:20 Outro, riff and loop with footsteps, fading by 3:45.\n\nPRODUCTION & MIX: Late-1970s disco: tight, dry and glossy, the rhythm section locked like a machine, strings and voices bright on top.\n\nSIGNATURE MOMENT: The guitar riff and the walking beat in the first two seconds.\n\nMODERN POINT OF VIEW: The title says plainly what the original hid: this is about money, and the walk is armour. The bridge, 'not on this block, not in front of them', is a line a proud parent or grandparent might have said.\n\nEMOTIONAL ARC: Bravado, honesty, bravado kept up.",
+  "workbookAtAGlance": "Walk Like the Rent's Paid\n\nBackup titles\nCollar Up, Chin Out / Not on This Block\n\nAt a glance\n104 BPM, F minor\nVoice: Three-part male falsetto\nLength: about 3 minutes 50",
+  "qa": {
+    "title": "Walk Like the Rent's Paid",
+    "id": "e70_07",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.2,
+        "measuredBpm": 105.5,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 1.4,
+        "lufs": -12.6,
+        "peakDbfs": -0.54,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 242.6,
+        "vocalCoverage": 0.526,
+        "vocalSpanSec": [
+          19.5,
+          231.2
+        ],
+        "vocalF0MedianHz": 468,
+        "vocalF0P25Hz": 351,
+        "lyricLineRecall": 0.818,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 243.6,
+        "measuredBpm": 104.4,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 0.4,
+        "lufs": -13.2,
+        "peakDbfs": -0.49,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 242.2,
+        "vocalCoverage": 0.545,
+        "vocalSpanSec": [
+          28.3,
+          211.5
+        ],
+        "vocalF0MedianHz": 420,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.636,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

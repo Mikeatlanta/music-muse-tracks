@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Cold on a Clear Blue Day",
+  "prompt": "[Intro: acoustic guitar strum, piano, bass walking down]\n\n[Verse 1: rough, warm, plain]\nWhole town's out in their Sunday best\nBand on the green and the kids all dressed\nBiggest day that we ever had\nSo why's a part of me so sad?\n\n[Chorus: full band, organ, harmony on the question]\nTell me, did you ever feel\nCold on a clear blue day?\nTell me, did you ever feel\nSomething slip away\nRight in the middle of the best of times?\n\n[Verse 2: rough, a little quieter]\nYesterday and days before\nWe were laughing on the floor\nNow we're smiling for the crowd\nAnd nobody says it loud\n\n[Chorus: full band, organ, harmony on the question]\nTell me, did you ever feel\nCold on a clear blue day?\nTell me, did you ever feel\nSomething slip away\nRight in the middle of the best of times?\n\n[Instrumental: piano and organ carry the chorus melody]\n\n[Verse 3: rough, steady]\nSo I'll clap along and I'll hold the door\nI'll take the picture, I'll ask for more\nAnd when it's over I'll stay a while\nWith the folding chairs and the half a smile\n\n[Final Chorus: full band, voice pushing]\nTell me, did you ever feel\nCold on a clear blue day?\nTell me, did you ever feel\nSomething slip away\nRight in the middle of the best of times?\n\n[Outro: band slows, one piano chord]\nYeah",
+  "style": "1970 American roots rock, rough grainy warm male tenor vocal with a Southern colour, plain unornamented delivery, a harmony voice on the chorus question, 116 BPM, C major, steady unhurried country-rock shuffle, strummed acoustic guitar, simple thumping electric bass walking down between chords, rolling piano chords, Hammond organ under the choruses, plain drums with firm backbeat, clean electric guitar fills, recorded live in a room, dry warm unfussy mix, wistful, plain-spoken, short",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy distortion, trap hi-hats, autotune, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 180,
+  "callBackUrl": "https://example.com/cb"
+}

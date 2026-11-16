@@ -1,0 +1,114 @@
+{
+  "id": "e70_09",
+  "title": "Sweet Nowhere Special",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 9,
+  "slug": "e70_09_sweet_nowhere_special",
+  "inspiredBy": "Sweet Home Alabama (Lynyrd Skynyrd, 1974)",
+  "leadVoice": "Male, with an easy, slightly nasal Southern drawl and a conversational, unhurried delivery. Three female backing singers with a gospel-soul sound answer his lines in the chorus and improvise in the last one. A spoken count at the top.",
+  "model": "V6",
+  "style": "1974 Southern rock, easy slightly nasal male vocal with a Southern drawl, conversational and unhurried, three female gospel-soul backing singers answering in the chorus, spoken count-in, 98 BPM, G major, loping relaxed groove, bright picked three-chord electric guitar figure with a small fill repeating throughout, country-tinged lead guitar with bent notes, rolling honky-tonk piano and piano solo, bouncing bass, relaxed drums with strong backbeat, warm loose live-sounding mix, proud, sunny, good-natured",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy metal, trap hi-hats, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: spoken count, picked three-chord guitar figure, bass, drums]\nOne, two, three\nLouder\n\n[Verse 1: easy drawl, guitar figure throughout]\nWheels are humming on the two-lane back\nPast the grain elevator and the railroad track\nI've been to cities where they don't say hi\nI'm coming home to the widest sky\n\n[Chorus: female backing singers answer, piano rolling]\nSweet nowhere special\nWhere the map runs out of names\nSweet nowhere special\nIt's exactly where I aim\n\n[Verse 2: easy drawl, a grin in it]\nWell, I heard a fella on the TV say\nNothing ever happens out our way\nI hope that fella takes a drive some time\nA whole lot of nothing suits us fine\n\n[Chorus: female backing singers answer, piano rolling]\nSweet nowhere special\nWhere the map runs out of names\nSweet nowhere special\nIt's exactly where I aim\n\n[Guitar Solo: bright, country-tinged, bending notes]\n\n[Verse 3: easy drawl, band cooking]\nNow the diner's got a house band Thursday nights\nA drummer and a dentist and a set of lights\nThey play it loose and they play it loud\nAnd the whole of the county makes a pretty good crowd\n\n[Chorus: female backing singers answer, piano rolling]\nSweet nowhere special\nWhere the map runs out of names\nSweet nowhere special\nIt's exactly where I aim\n\n[Piano Solo: honky-tonk, rolling]\n\n[Final Chorus: everyone, backing singers ad-libbing]\nSweet nowhere special\n(Ooh, where the sky's that wide)\nSweet nowhere special\nIt's exactly where I aim\n\n[Outro: guitar figure, piano, backing singers, fade]",
+  "taskId": "8cffa1af52fb4492c14fda6ea4a750f2",
+  "sunoClipIds": [
+    "3865ff11-9d13-4d2f-8181-8963846ae056",
+    "a7dc9979-fa94-4aab-9f1c-88598078ca50"
+  ],
+  "created": "Nov 16, 2026 8:07 AM ET",
+  "createTimeMs": 1794834469552,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "3865ff11-9d13-4d2f-8181-8963846ae056",
+      "durationSec": 254.08,
+      "file": "seventies/e70_09_sweet_nowhere_special_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a7dc9979-fa94-4aab-9f1c-88598078ca50",
+      "durationSec": 254.4,
+      "file": "seventies/e70_09_sweet_nowhere_special_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_09_sweet_nowhere_special_req.json",
+    "seventies/e70_09_sweet_nowhere_special_rec.json"
+  ],
+  "cover": "seventies/covers/e70_09_sweet_nowhere_special.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 98 BPM, 4/4, G major. A loping, relaxed Southern rock groove. Sunny and sure of itself.\n\nVOICE: Male, with an easy, slightly nasal Southern drawl and a conversational, unhurried delivery. Three female backing singers with a gospel-soul sound answer his lines in the chorus and improvise in the last one. A spoken count at the top.\n\nINSTRUMENTS: An electric guitar playing a bright, picked three-chord figure with a small fill at the end of each bar, repeating throughout. Two more guitars adding rhythm and a country-tinged lead with bent notes. A honky-tonk piano rolling under everything and taking a solo. A bouncing bass. A relaxed drum kit with a strong backbeat.\n\nARRANGEMENT MAP: 0:00 Intro, a spoken count and the guitar figure. 0:16 Verse 1. 0:36 Chorus 1. 0:56 Verse 2. 1:16 Chorus 2. 1:36 Guitar solo. 2:00 Verse 3. 2:20 Chorus 3. 2:40 Piano solo. 3:04 Final chorus with ad-libs. 3:30 Outro, the figure and piano fading by 3:55.\n\nPRODUCTION & MIX: Mid-1970s Southern rock: warm, loose and live-sounding, three guitars spread across the stereo field, piano and backing voices bright.\n\nSIGNATURE MOMENT: The guitar figure after the spoken 'Louder' at 0:04.\n\nMODERN POINT OF VIEW: The quarrel in the original is with a famous songwriter. Here it is with a voice on television, and the answer is an invitation. The house band with a dentist in it is the detail only someone who went home would know.\n\nEMOTIONAL ARC: Homesickness, a friendly bristle, contentment.",
+  "workbookAtAGlance": "Sweet Nowhere Special\n\nBackup titles\nWhere the Map Runs Out of Names / A Whole Lot of Nothing\n\nAt a glance\n98 BPM, G major\nVoice: Easy Southern male voice, female backing singers\nLength: about 4 minutes",
+  "qa": {
+    "title": "Sweet Nowhere Special",
+    "id": "e70_09",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.1,
+        "measuredBpm": 95.7,
+        "bpmFactor": 1,
+        "targetBpm": 98,
+        "bpmErrPct": 2.3,
+        "lufs": -13.0,
+        "peakDbfs": -0.23,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 253.4,
+        "vocalCoverage": 0.399,
+        "vocalSpanSec": [
+          11.1,
+          253.1
+        ],
+        "vocalF0MedianHz": 237,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.897,
+        "lyricUnclearSections": [
+          "Intro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.4,
+        "measuredBpm": 96.6,
+        "bpmFactor": 1,
+        "targetBpm": 98,
+        "bpmErrPct": 1.4,
+        "lufs": -12.8,
+        "peakDbfs": -0.34,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 253.0,
+        "vocalCoverage": 0.409,
+        "vocalSpanSec": [
+          7.7,
+          239.4
+        ],
+        "vocalF0MedianHz": 221,
+        "vocalF0P25Hz": 197,
+        "lyricLineRecall": 0.828,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

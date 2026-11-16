@@ -1,0 +1,112 @@
+{
+  "id": "e70_11",
+  "title": "The Day the Dial Went Dark",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 11,
+  "slug": "e70_11_the_day_the_dial_went_dark",
+  "inspiredBy": "American Pie (Don McLean, 1971)",
+  "leadVoice": "Male tenor, clear, bright and sincere, in a folk style with every word audible. He sings the slow sections alone. The choruses are sung by a crowd in a room, loosely and happily, as if at closing time.",
+  "model": "V6",
+  "style": "1971 American folk rock story song, clear bright sincere male folk tenor with every word audible, slow free piano-and-voice opening, then a brisk 138 BPM folk-rock body, crowd in a room singing the choruses loosely like a bar at closing time, slow piano-and-voice final verse, G major, simple then rolling barrelhouse piano, strummed acoustic guitar, walking bass, drums entering with the first chorus, handclaps, radio static, natural warm live mix, nostalgic, wistful, communal, singalong",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy distortion, trap hi-hats, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 315,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: solo piano and voice, slow and free]\nI had a radio beside my bed\nA yellow dial, a wire for a thread\nAnd every night a voice I never met\nPlayed me songs I can't forget\nBut one cold morning, turning it on\nThere was a hiss where the voice had gone\nI stood there with my toast gone cold\nEleven years, and feeling old\nThe day the dial went dark\n\n[Chorus: tempo doubles, acoustic guitar, crowd singing]\nSo long, so long, to the Saturday song\nThe needle's off the record and the DJ's gone\nWe sang it in the car park with the windows down\nThe last ones in a one-song town\nWho's going to play it again?\n\n[Verse 1: brisk folk-rock, piano and drums]\nNow the first one that I ever bought\nWas a boy with a quiff and a voice like a shot\nMy mother said \"turn that down\" and danced\nBehind the door when she thought I'd glanced\nThen came the summer of the flowered vans\nThe fuzzy guitars and the tambourine hands\nAnd we thought the world would turn on a tune\nWe were twelve, and it was June\n\n[Chorus: crowd singing, handclaps]\nSo long, so long, to the Saturday song\nThe needle's off the record and the DJ's gone\nWe sang it in the car park with the windows down\nThe last ones in a one-song town\nWho's going to play it again?\n\n[Verse 2: brisk, band fuller]\nThen the mirror balls and the platform shoes\nThe safety pins and the three-chord news\nA robot sang and a drum machine\nTurned every colour into green\nAnd the big hair came and the big hair went\nAnd a kid in flannel said what he meant\nThen a box no bigger than a pack of cards\nHeld every song, and somehow none were ours\n\n[Chorus: crowd singing, handclaps]\nSo long, so long, to the Saturday song\nThe needle's off the record and the DJ's gone\nWe sang it in the car park with the windows down\nThe last ones in a one-song town\nWho's going to play it again?\n\n[Verse 3: slow again, piano and voice only]\nNow I've got it all in a pane of glass\nEvery song there ever was, first to last\nIt knows what I like before I do\nIt never plays me something new\nSo I went to the attic for the yellow dial\nBlew the dust off, sat a while\nAnd through the hiss, so faint and far\nSomebody, somewhere, playing guitar\n\n[Final Chorus: slow, then the crowd joins, building]\nSo hello, hello, to the Saturday song\nThe needle's on the record, it was there all along\nWe'll sing it in the car park with the windows down\nThe first ones in a one-song town\nWe're going to play it again",
+  "taskId": "c351759ea2f36a5aa518f719b4ed2d78",
+  "sunoClipIds": [
+    "a7885691-9540-4d26-b33d-8212bf2eef88",
+    "dac47167-1aaf-40b1-aa5c-c9782f0eabbf"
+  ],
+  "created": "Nov 16, 2026 8:08 AM ET",
+  "createTimeMs": 1794834495685,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "a7885691-9540-4d26-b33d-8212bf2eef88",
+      "durationSec": 314.8,
+      "file": "seventies/e70_11_the_day_the_dial_went_dark_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "dac47167-1aaf-40b1-aa5c-c9782f0eabbf",
+      "durationSec": 314.64,
+      "file": "seventies/e70_11_the_day_the_dial_went_dark_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_11_the_day_the_dial_went_dark_req.json",
+    "seventies/e70_11_the_day_the_dial_went_dark_rec.json"
+  ],
+  "cover": "seventies/covers/e70_11_the_day_the_dial_went_dark.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: A slow, free opening at about 72 BPM, then a brisk folk-rock 138 BPM for the body of the song, and a slow final verse. G major. Storytelling that keeps turning into a singalong.\n\nVOICE: Male tenor, clear, bright and sincere, in a folk style with every word audible. He sings the slow sections alone. The choruses are sung by a crowd in a room, loosely and happily, as if at closing time.\n\nINSTRUMENTS: Piano, played simply at first and then with a rolling, barrelhouse energy. Strummed acoustic guitar. A walking bass. A drum kit that enters with the first chorus. Handclaps. A little electric guitar. Radio static at the start and end.\n\nARRANGEMENT MAP: 0:00 Intro, voice and piano, slow, nine lines. 0:55 Chorus 1, the tempo doubles and the crowd comes in. 1:20 Verse 1. 1:50 Chorus 2. 2:15 Verse 2. 2:45 Chorus 3. 3:10 Verse 3, slow again, piano and voice. 4:05 Final chorus, starting slowly with one voice, the crowd joining and the tempo picking up, ending on a held chord at 4:55.\n\nPRODUCTION & MIX: Early-1970s folk-rock: natural, warm and live, piano and voice close, the crowd roomy and unpolished.\n\nSIGNATURE MOMENT: The jump in tempo into the first chorus at 0:55.\n\nMODERN POINT OF VIEW: The loss is not a plane crash but the end of listening together. The third verse is about an algorithm that never plays anything new, and the ending is hopeful: he finds the old radio and someone is still out there playing.\n\nEMOTIONAL ARC: Loss, a tour of memory, weariness, rediscovery.",
+  "workbookAtAGlance": "The Day the Dial Went Dark\n\nBackup titles\nOne-Song Town / The Yellow Dial\n\nAt a glance\n72 BPM, then 138, G major\nVoice: Clear male folk tenor, crowd chorus\nLength: about 5 minutes",
+  "qa": {
+    "title": "The Day the Dial Went Dark",
+    "id": "e70_11",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 314.8,
+        "measuredBpm": 132.5,
+        "bpmFactor": 1,
+        "targetBpm": 138,
+        "bpmErrPct": 4.0,
+        "lufs": -14.3,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 313.3,
+        "vocalCoverage": 0.651,
+        "vocalSpanSec": [
+          13.7,
+          304.2
+        ],
+        "vocalF0MedianHz": 248,
+        "vocalF0P25Hz": 197,
+        "lyricLineRecall": 0.925,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 314.7,
+        "measuredBpm": 132.5,
+        "bpmFactor": 1,
+        "targetBpm": 138,
+        "bpmErrPct": 4.0,
+        "lufs": -15.0,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 314.1,
+        "vocalCoverage": 0.7,
+        "vocalSpanSec": [
+          13.9,
+          311.0
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 197,
+        "lyricLineRecall": 0.849,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

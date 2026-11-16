@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "The House Don't Hum",
+  "prompt": "[Intro: fingerpicked acoustic guitar, soft bass]\n\n[Verse 1: warm, plain, close]\nKettle's cold and the stairs don't creak\nRadio's lost the will to speak\nThe house don't hum\nThe house don't hum\nSince her suitcase hit the street\n\n[Verse 2: strings enter, low and slow]\nI wonder where she's laid her head\nI wonder if she read what I said\nThe house don't hum\nThe house don't hum\nThere's a hollow in the bed\n\n[Break: band stops except kick and bass, one breath]\nAnd I wait, and I wait, and I wait, and I wait\nI wait, I wait, I wait, I wait\nI wait, I wait, I wait, I wait\nI wait, I wait, I wait, I wait\nI ought to go and find her\nBut I wait\n\n[Verse 3: strings fuller, voice the same]\nClock's still ticking but it's lost its nerve\nDog's at the window, staring at the kerb\nThe house don't hum\nThe house don't hum\nIt's more quiet than I deserve\n\n[Outro: guitar and strings, the title twice, stop]\nThe house don't hum\nThe house don't hum",
+  "style": "1971 acoustic soul blues, warm plain conversational male baritone vocal with no vibrato and no vocal runs, a break where two words are repeated rapidly many times in one breath over only kick drum and bass, 78 BPM, A minor, slow bare and still, fingerpicked acoustic guitar, soft deep electric bass, string section playing low sustained slowly rising lines, very sparse drums with kick and brushed snare, small band recorded dry warm and close with lots of silence, lonely, understated, short",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, distorted guitar, fast tempo, autotune, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 165,
+  "callBackUrl": "https://example.com/cb"
+}

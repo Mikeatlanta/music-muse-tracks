@@ -1,0 +1,114 @@
+{
+  "id": "e70_10",
+  "title": "Satellite Dad",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 10,
+  "slug": "e70_10_satellite_dad",
+  "inspiredBy": "Rocket Man (I Think It's Going to Be a Long, Long Time) (Elton John, 1972)",
+  "leadVoice": "Male tenor, warm and conversational in the verses with a slight Southern-English-American drawl. In the chorus his voice is stacked several times and joined by high harmony voices, so it seems to widen. A higher, more exposed sound in the bridge.",
+  "model": "V6",
+  "style": "1972 singer-songwriter piano rock, warm conversational male tenor vocal, voice stacked and joined by high harmonies in a widening chorus, exposed higher bridge, 68 BPM, B-flat major, slow floating and lonely with a chorus that lifts, grand piano with gentle rolling chords, slide guitar playing long rising swoops, early synthesizer making soft sliding space sounds, acoustic guitar strums, melodic electric bass, brushed drums then a soft full kit, warm spacious analogue mix, lonely, tender, wistful",
+  "negativeTags": "drum machine, female lead vocals, rap, heavy distortion, fast tempo, trap hi-hats, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 270,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: solo piano, soft and spacious]\n\n[Verse 1: warm, quiet, piano only]\nTaxi at the kerb at five, the house was still asleep\nGate nineteen, a paper cup, a lanyard and a beep\nThere's a drawing in my pocket of a dog that's mostly green\nI'm thirty thousand feet above the best thing I have seen\n\n[Chorus: band lifts in, slide guitar, stacked harmonies]\nI come around once every night\nA face on a screen in the kitchen light\nSay goodnight, blow a kiss to the glass\nI'm a satellite dad\nGoing over, going past\nLook up, I'm the slow one, I'm the last\n\n[Verse 2: warm, bass and brushed drums]\nThe minibar is humming and the curtains never close\nI've a slide deck and a rental and a town that no one knows\nI tell myself it's for them, and mostly that is true\nBut a year's a lot of bedtimes to be waving at a view\n\n[Chorus: band, slide guitar, stacked harmonies]\nI come around once every night\nA face on a screen in the kitchen light\nSay goodnight, blow a kiss to the glass\nI'm a satellite dad\nGoing over, going past\nLook up, I'm the slow one, I'm the last\n\n[Bridge: synth swoops, acoustic guitar, voice higher]\nAnd nobody tells you\nThat the signal isn't you\nIt's a picture of a person\nComing through\n\n[Final Chorus: full band, voices wide, slide guitar soaring]\nI come around once every night\nA face on a screen in the kitchen light\nSay goodnight, blow a kiss to the glass\nI'm a satellite dad\nGoing over, going past\nLook up, I'm the slow one, I'm the last\n\n[Outro: voices repeating, band fading, a door opening]\nI'm coming down\nI'm coming down\nI'm home",
+  "taskId": "f5316f93ce94327767bd672fc6e4200f",
+  "sunoClipIds": [
+    "bb010c79-faa1-4a96-a75b-a0f76e83a7b1",
+    "55cf0074-c8b5-42a7-957b-cb7e0181a615"
+  ],
+  "created": "Nov 16, 2026 8:08 AM ET",
+  "createTimeMs": 1794834490996,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "bb010c79-faa1-4a96-a75b-a0f76e83a7b1",
+      "durationSec": 269.6,
+      "file": "seventies/e70_10_satellite_dad_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "55cf0074-c8b5-42a7-957b-cb7e0181a615",
+      "durationSec": 269.84,
+      "file": "seventies/e70_10_satellite_dad_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_10_satellite_dad_req.json",
+    "seventies/e70_10_satellite_dad_rec.json"
+  ],
+  "cover": "seventies/covers/e70_10_satellite_dad.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 68 BPM, 4/4, B-flat major. Slow, floating and lonely, with a chorus that rises like a launch.\n\nVOICE: Male tenor, warm and conversational in the verses with a slight Southern-English-American drawl. In the chorus his voice is stacked several times and joined by high harmony voices, so it seems to widen. A higher, more exposed sound in the bridge.\n\nINSTRUMENTS: A grand piano with gentle, rolling chords. A slide guitar playing long, rising swoops in the chorus. An early synthesiser making soft, sliding space sounds. Acoustic guitar strums. A melodic electric bass. Brushed drums in the verses, a soft full kit in the choruses.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:14 Verse 1. 0:49 Chorus 1, the band lifts in. 1:24 Verse 2. 1:59 Chorus 2. 2:34 Bridge with synth swoops. 2:52 Final chorus. 3:27 Outro, the voices repeat a new line as the band fades, then a door opens and one last line is sung plainly at 4:08.\n\nPRODUCTION & MIX: Early-1970s singer-songwriter rock: warm, spacious and analogue, piano and voice in front, the chorus wide with voices and slide guitar.\n\nSIGNATURE MOMENT: The slide guitar's first rising swoop as the chorus begins at 0:49.\n\nMODERN POINT OF VIEW: The original astronaut stays in orbit. This one comes down: the outro is a new line the 1972 song does not have, and a front door. The bridge ('the signal isn't you') could only have been written in the age of video calls.\n\nEMOTIONAL ARC: Loneliness, guilt, realisation, coming home.",
+  "workbookAtAGlance": "Satellite Dad\n\nBackup titles\nA Face on a Screen / The Slow One, the Last\n\nAt a glance\n68 BPM, B-flat major\nVoice: Warm male tenor, stacked harmonies\nLength: about 4 minutes 15",
+  "qa": {
+    "title": "Satellite Dad",
+    "id": "e70_10",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 269.6,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1,
+        "targetBpm": 68,
+        "bpmErrPct": 0.0,
+        "lufs": -14.2,
+        "peakDbfs": -0.06,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 267.6,
+        "vocalCoverage": 0.555,
+        "vocalSpanSec": [
+          14.2,
+          242.4
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.903,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.01 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 269.9,
+        "measuredBpm": 67.6,
+        "bpmFactor": 1,
+        "targetBpm": 68,
+        "bpmErrPct": 0.7,
+        "lufs": -14.2,
+        "peakDbfs": 0.01,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 268.1,
+        "vocalCoverage": 0.602,
+        "vocalSpanSec": [
+          14.1,
+          254.1
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 235,
+        "lyricLineRecall": 0.968,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

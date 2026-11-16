@@ -1,0 +1,112 @@
+{
+  "id": "e70_04",
+  "title": "Seventeen at the Core",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 4,
+  "slug": "e70_04_seventeen_at_the_core",
+  "inspiredBy": "Dancing Queen (ABBA, 1976)",
+  "leadVoice": "Two women singing mostly in unison, one voice bright and clear, the other warmer and deeper, so the blend shimmers. They split into harmony at the ends of phrases and climb very high together. Each takes one verse alone, softly. Layered many times in the chorus.",
+  "model": "V6",
+  "style": "1976 Swedish disco pop wall of sound, two female voices singing mostly in unison, one bright and clear and one warm and deep, splitting into high harmony at the ends of phrases, layered many times, each taking a soft verse alone, 101 BPM, A major, stately gliding tempo, song opens with the chorus, grand piano with a sweeping glissando and rich rolling chords, high sustained string section, steady drums with soft four-on-the-floor kick, melodic moving bass, tambourine, tubular bells, dense bright reverberant mix, glowing, bittersweet, joyful",
+  "negativeTags": "male lead vocals, distorted guitar, rap, drum machine, dark mood, trap hi-hats, autotune, EDM drop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: sweeping piano glissando, strings, straight into the chorus]\n\n[Chorus: two women in unison, lush and bright]\nLook at her go\nSilver hair and seventeen at the core\nEvery beat she ever knew comes back for more\nOh, she's the last one dancing\nAnd the first one on the floor\nLook at her, she's seventeen at the core\n\n[Verse 1: softer, one voice leading, piano and bass]\nThe band's a little out of tune\nIt's someone's wedding, late in June\nShe leaves her handbag with her friend\nAnd walks out on the floor\n\n[Pre-Chorus: harmonies rise, drums build]\nAnd you can see it, anyone can\nThe years step back and give her room\n\n[Chorus: two women in unison, lush and bright]\nLook at her go\nSilver hair and seventeen at the core\nEvery beat she ever knew comes back for more\nOh, she's the last one dancing\nAnd the first one on the floor\nLook at her, she's seventeen at the core\n\n[Verse 2: softer, the other voice leading]\nShe raised three kids and buried one\nShe's done what anyone has done\nBut there's a song, and here it comes\nAnd nobody is tired any more\n\n[Pre-Chorus: harmonies rise, drums build]\nAnd you can see it, anyone can\nThe years step back and give her room\n\n[Chorus: two women in unison, lush and bright]\nLook at her go\nSilver hair and seventeen at the core\nEvery beat she ever knew comes back for more\nOh, she's the last one dancing\nAnd the first one on the floor\nLook at her, she's seventeen at the core\n\n[Outro: chorus melody on piano and strings, voices in harmony, fade]\nLook at her go\nLook at her go",
+  "taskId": "0f601dfd5b1c880e59e59cf56846007c",
+  "sunoClipIds": [
+    "3622ed78-595f-4aad-adf0-c0ac0df341ad",
+    "6f4d39fd-cc67-4a66-b559-fd744cca241d"
+  ],
+  "created": "Nov 16, 2026 8:07 AM ET",
+  "createTimeMs": 1794834447991,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "3622ed78-595f-4aad-adf0-c0ac0df341ad",
+      "durationSec": 244.4,
+      "file": "seventies/e70_04_seventeen_at_the_core_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "6f4d39fd-cc67-4a66-b559-fd744cca241d",
+      "durationSec": 244.36,
+      "file": "seventies/e70_04_seventeen_at_the_core_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_04_seventeen_at_the_core_req.json",
+    "seventies/e70_04_seventeen_at_the_core_rec.json"
+  ],
+  "cover": "seventies/covers/e70_04_seventeen_at_the_core.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 101 BPM, 4/4, A major. A stately, gliding disco-pop tempo. Glowing and bittersweet.\n\nVOICE: Two women singing mostly in unison, one voice bright and clear, the other warmer and deeper, so the blend shimmers. They split into harmony at the ends of phrases and climb very high together. Each takes one verse alone, softly. Layered many times in the chorus.\n\nINSTRUMENTS: A grand piano with a sweeping downward glissando and rich, rolling chords. A string section playing high, sustained lines. A steady drum kit with a soft four-on-the-floor kick. A melodic, moving bass. Acoustic and electric rhythm guitars. Tubular bells and a tambourine. A bright synthesiser line doubling the strings.\n\nARRANGEMENT MAP: 0:00 Intro, a piano glissando and strings. 0:10 The chorus first. 0:44 Verse 1. 1:06 Pre-chorus. 1:17 Chorus 2. 1:51 Verse 2. 2:13 Pre-chorus. 2:24 Chorus 3. 2:58 Outro, the chorus tune on piano and strings with the voices in harmony, fading out by 3:45.\n\nPRODUCTION & MIX: Mid-1970s Swedish pop wall of sound: dense, bright and reverberant, with many layers of voices and pianos blended into one glowing mass.\n\nSIGNATURE MOMENT: The piano glissando into the first chorus.\n\nMODERN POINT OF VIEW: The watcher in the original sees a girl and feels time passing. This watcher sees an old woman and sees the girl still in there. Verse 2 gives her a real life, in two lines.\n\nEMOTIONAL ARC: Admiration, tenderness, uplift.",
+  "workbookAtAGlance": "Seventeen at the Core\n\nBackup titles\nLast One Dancing / Silver Hair\n\nAt a glance\n101 BPM, A major\nVoice: Two female voices in unison and harmony\nLength: about 3 minutes 50",
+  "qa": {
+    "title": "Seventeen at the Core",
+    "id": "e70_04",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.4,
+        "measuredBpm": 106.6,
+        "bpmFactor": 1,
+        "targetBpm": 101,
+        "bpmErrPct": 5.5,
+        "lufs": -13.3,
+        "peakDbfs": -1.71,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 242.9,
+        "vocalCoverage": 0.631,
+        "vocalSpanSec": [
+          17.4,
+          228.2
+        ],
+        "vocalF0MedianHz": 312,
+        "vocalF0P25Hz": 278,
+        "lyricLineRecall": 0.938,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.4,
+        "measuredBpm": 105.5,
+        "bpmFactor": 1,
+        "targetBpm": 101,
+        "bpmErrPct": 4.4,
+        "lufs": -13.3,
+        "peakDbfs": -0.74,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 242.7,
+        "vocalCoverage": 0.713,
+        "vocalSpanSec": [
+          18.6,
+          238.5
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.969,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

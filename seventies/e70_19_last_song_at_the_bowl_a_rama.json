@@ -1,0 +1,117 @@
+{
+  "id": "e70_19",
+  "title": "Last Song at the Bowl-A-Rama",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 19,
+  "slug": "e70_19_last_song_at_the_bowl_a_rama",
+  "inspiredBy": "Piano Man (Billy Joel, 1973)",
+  "leadVoice": "Male, warm and conversational, a storyteller's tenor with clear words and a smile in it. The chorus is sung by a whole bar of people, off-key in places, with clinking glasses and a few shouts, and a wordless 'la-la' tag.",
+  "model": "V6",
+  "style": "1973 singer-songwriter waltz story song, warm conversational male storyteller tenor with clear words, chorus sung by a whole bar of people slightly off-key with clinking glasses and a wordless la-la tag, slow waltz in three beats to the bar, C major, swaying and warm, upright piano playing a rolling waltz figure, harmonica melody between verses, accordion, upright bass, brushed drums, mandolin, bar ambience, last-orders bell, applause, warm live-feeling mix, wistful, affectionate, singalong",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, distorted guitar, trap hi-hats, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: waltz-time piano, harmonica melody, bar noise]\n\n[Verse 1: warm storyteller, piano and accordion]\nThe leagues have gone home with their trophies\nThe lanes have gone dark for the night\nThere's a man in a bowling shirt signing up twice\nFor a song that he never gets right\n\n[Verse 2: bass and brushed drums join]\nThere's Marge who sells life insurance\nShe sings like a kettle in love\nAnd Darnell from the night shift does opera in Spanish\nWith a dish towel for a glove\n\n[Chorus: whole bar singing, glasses clinking]\nSo sing it for us, it's your turn\nNobody here can sing\nWe came for the chorus, we stay for each other\nAnd nobody's judging a thing\nLa, la-la, di-da-da\nLa-la, di-da-da, da-dum\n\n[Harmonica Break: harmonica and accordion in waltz time]\n\n[Verse 3: storyteller, a little softer]\nThe twins at the back do a duet\nIn keys that have yet to be named\nAnd the widow from Tuesday's has dedicated one\nTo a man she has never once blamed\n\n[Verse 4: storyteller, about himself]\nAnd I run the machine and I hold out the mic\nI was going to be someone, I thought\nBut I've heard every heart in this town through a speaker\nAnd it's better than what I'd have bought\n\n[Chorus: whole bar singing, louder]\nSo sing it for us, it's your turn\nNobody here can sing\nWe came for the chorus, we stay for each other\nAnd nobody's judging a thing\nLa, la-la, di-da-da\nLa-la, di-da-da, da-dum\n\n[Outro: piano and harmonica slow down, last call bell, applause]\nWho's next?",
+  "taskId": "ba7e372177bf077b27ae2b19a1bd3b3e",
+  "sunoClipIds": [
+    "ff6879be-7fbe-44a6-871d-945fed56169e",
+    "54afd190-8010-4f45-aa71-22d9780573f6"
+  ],
+  "created": "Nov 16, 2026 8:08 AM ET",
+  "createTimeMs": 1794834515915,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ff6879be-7fbe-44a6-871d-945fed56169e",
+      "durationSec": 284.72,
+      "file": "seventies/e70_19_last_song_at_the_bowl_a_rama_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "54afd190-8010-4f45-aa71-22d9780573f6",
+      "durationSec": 284.4,
+      "file": "seventies/e70_19_last_song_at_the_bowl_a_rama_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_19_last_song_at_the_bowl_a_rama_req.json",
+    "seventies/e70_19_last_song_at_the_bowl_a_rama_rec.json"
+  ],
+  "cover": "seventies/covers/e70_19_last_song_at_the_bowl_a_rama.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: A slow waltz, three beats to the bar at about 60 bars a minute, in C major. Swaying, warm and a little wistful.\n\nVOICE: Male, warm and conversational, a storyteller's tenor with clear words and a smile in it. The chorus is sung by a whole bar of people, off-key in places, with clinking glasses and a few shouts, and a wordless 'la-la' tag.\n\nINSTRUMENTS: An upright piano playing a rolling waltz figure. A harmonica playing the tune between verses. An accordion. Upright bass. Brushed drums with a soft waltz pattern. A mandolin in the last verse. Bar ambience, a bell and applause.\n\nARRANGEMENT MAP: 0:00 Intro, piano and harmonica over bar noise. 0:20 Verse 1. 0:44 Verse 2. 1:08 Chorus 1, the bar sings. 1:38 Harmonica break. 1:58 Verse 3. 2:22 Verse 4, the host about himself. 2:46 Chorus 2, louder. 3:16 The 'la-la' tag repeats with the crowd. 3:50 Outro, the band slows, a last-orders bell, applause and two spoken words at 4:20.\n\nPRODUCTION & MIX: Early-1970s singer-songwriter recording made to feel live: warm piano, close voice, the crowd recorded as a room.\n\nSIGNATURE MOMENT: The first chorus, when the bar comes in.\n\nMODERN POINT OF VIEW: Verse 4 is the change. The original narrator is passing through and knows he is better than the room. This one stayed, and has decided that hearing every heart in town through a speaker beats the career he imagined.\n\nEMOTIONAL ARC: Fond observation, tenderness, contentment.",
+  "workbookAtAGlance": "Last Song at the Bowl-A-Rama\n\nBackup titles\nNobody Here Can Sing / Put Your Name on the List\n\nAt a glance\n60 BPM (waltz, three beats to the bar), C major\nVoice: Warm male storyteller, crowd chorus\nLength: about 4 minutes 30",
+  "qa": {
+    "title": "Last Song at the Bowl-A-Rama",
+    "id": "e70_19",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.03 dBFS (5 clipped sample, inaudible)",
+          "tempo measured 81 BPM vs 60 target (~10% off)"
+        ],
+        "durationSec": 284.7,
+        "measuredBpm": 81.4,
+        "bpmFactor": 0.67,
+        "targetBpm": 60,
+        "bpmErrPct": 9.6,
+        "lufs": -13.0,
+        "peakDbfs": 0.03,
+        "clipSamples": 5,
+        "midGaps": [],
+        "endFadeSec": 2.6,
+        "contentEndSec": 283.4,
+        "vocalCoverage": 0.565,
+        "vocalSpanSec": [
+          1.8,
+          277.8
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 171,
+        "lyricLineRecall": 0.857,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 81 BPM vs 60 target (~10% off)"
+        ],
+        "durationSec": 284.4,
+        "measuredBpm": 81.4,
+        "bpmFactor": 0.67,
+        "targetBpm": 60,
+        "bpmErrPct": 9.6,
+        "lufs": -13.5,
+        "peakDbfs": -0.2,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 283.3,
+        "vocalCoverage": 0.498,
+        "vocalSpanSec": [
+          5.5,
+          282.5
+        ],
+        "vocalF0MedianHz": 264,
+        "vocalF0P25Hz": 196,
+        "lyricLineRecall": 0.893,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

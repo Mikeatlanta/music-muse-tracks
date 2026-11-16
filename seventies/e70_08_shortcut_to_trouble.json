@@ -1,0 +1,112 @@
+{
+  "id": "e70_08",
+  "title": "Shortcut to Trouble",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 8,
+  "slug": "e70_08_shortcut_to_trouble",
+  "inspiredBy": "Highway to Hell (AC/DC, 1979)",
+  "leadVoice": "Male, a high, raspy, cheeky rock voice with a wink in every line, half sung and half leered, never screamed. A gang of rough male voices shouts the title in the chorus and answers in the bridge.",
+  "model": "V6",
+  "style": "1979 Australian hard rock boogie, high raspy cheeky male rock voice half sung and half leered with a wink, gang of rough male voices shouting the title, 116 BPM, A major, swaggering mid-tempo with space in it, two crunchy lightly overdriven electric guitars playing an open-chord riff with deliberate silences, short biting blues-based guitar solo, simple solid root-note bass, dry heavy drums playing a plain beat, kick-drum-and-shout bridge, dry punchy uncluttered mix, mischievous, rowdy, good-humoured",
+  "negativeTags": "synthesizer, keyboards, piano, drum machine, female vocals, ballad, autotune, EDM, strings",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: open-chord guitar riff with gaps, hi-hat counting]\n\n[Verse 1: cheeky rasp, drums and bass kick in]\nPacked a bag and I kissed the cat\nLeft a note where the fridge is at\nDon't need a map, don't need a plan\nGot a full tank and a bad idea, man\n\n[Pre-Chorus: chords climb, snare builds]\nAsk me where I'm going\nI'm going where it's going\n\n[Chorus: gang vocals, ringing chords]\nI'm on a shortcut to trouble\nShortcut to trouble\nTell my mother I was last seen smiling\nShortcut to trouble\n\n[Verse 2: cheeky rasp, riff underneath]\nSold the mower and I kept the amp\nPhone's on silent in a glovebox camp\nMy doctor said to take it slow\nI said \"sure, Doc,\" and I let it go\n\n[Pre-Chorus: chords climb, snare builds]\nAsk me where I'm going\nI'm going where it's going\n\n[Chorus: gang vocals, ringing chords]\nI'm on a shortcut to trouble\nShortcut to trouble\nTell my mother I was last seen smiling\nShortcut to trouble\n\n[Guitar Solo: bluesy, biting, short]\n\n[Bridge: band drops to kick drum and gang shout]\nAnd I'm going all the way\n(All the way)\nAnd I'm not coming back till Tuesday\n(Tuesday)\n\n[Final Chorus: full band, lead guitar over the top]\nI'm on a shortcut to trouble\nShortcut to trouble\nTell my mother I was last seen smiling\nShortcut to trouble\nShortcut to trouble\n\n[Outro: riff, one last chord, a laugh]",
+  "taskId": "7e39c29c29cbe805135d04fd68847a09",
+  "sunoClipIds": [
+    "fbd93f71-96b3-4bc8-b02b-18b819ca0842",
+    "adf14517-bd83-4660-9d6f-6d2d4962de46"
+  ],
+  "created": "Nov 16, 2026 8:07 AM ET",
+  "createTimeMs": 1794834465274,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "fbd93f71-96b3-4bc8-b02b-18b819ca0842",
+      "durationSec": 223.72,
+      "file": "seventies/e70_08_shortcut_to_trouble_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "adf14517-bd83-4660-9d6f-6d2d4962de46",
+      "durationSec": 224.8,
+      "file": "seventies/e70_08_shortcut_to_trouble_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_08_shortcut_to_trouble_req.json",
+    "seventies/e70_08_shortcut_to_trouble_rec.json"
+  ],
+  "cover": "seventies/covers/e70_08_shortcut_to_trouble.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 116 BPM, 4/4, A major. A swaggering, mid-tempo boogie with space in it. Good-humoured and loud.\n\nVOICE: Male, a high, raspy, cheeky rock voice with a wink in every line, half sung and half leered, never screamed. A gang of rough male voices shouts the title in the chorus and answers in the bridge.\n\nINSTRUMENTS: Two electric guitars with a crunchy, lightly overdriven tone: one plays the open-chord riff with deliberate silences, the other doubles it and takes a short, biting, blues-based solo. A simple, solid bass on the root notes. A dry, heavy drum kit playing the plainest possible beat. No keyboards.\n\nARRANGEMENT MAP: 0:00 Intro, the riff alone with the hi-hat. 0:14 Verse 1, the band in. 0:35 Pre-chorus. 0:44 Chorus 1. 1:02 Verse 2. 1:23 Pre-chorus. 1:32 Chorus 2. 1:50 Guitar solo. 2:12 Bridge, kick drum and shouting. 2:30 Final chorus with lead guitar on top. 3:05 Outro, the riff, a final chord and a laugh at 3:25.\n\nPRODUCTION & MIX: Late-1970s hard rock: dry, punchy and uncluttered, two guitars panned apart, drums natural, plenty of room between the notes.\n\nSIGNATURE MOMENT: The silences in the opening riff.\n\nMODERN POINT OF VIEW: The rebel has sold his lawnmower and ignored his doctor, and intends to be back by Tuesday. It is the same grin on an older face, and a third, different angle from the two other songs in this series inspired by the same band.\n\nEMOTIONAL ARC: Mischief from start to finish.",
+  "workbookAtAGlance": "Shortcut to Trouble\n\nBackup titles\nLast Seen Smiling / Kissed the Cat\n\nAt a glance\n116 BPM, A major\nVoice: Cheeky raspy male rock voice, gang chorus\nLength: about 3 minutes 30",
+  "qa": {
+    "title": "Shortcut to Trouble",
+    "id": "e70_08",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 223.7,
+        "measuredBpm": 113.6,
+        "bpmFactor": 1,
+        "targetBpm": 116,
+        "bpmErrPct": 2.1,
+        "lufs": -13.1,
+        "peakDbfs": -0.06,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.5,
+        "contentEndSec": 221.4,
+        "vocalCoverage": 0.472,
+        "vocalSpanSec": [
+          17.8,
+          219.2
+        ],
+        "vocalF0MedianHz": 387,
+        "vocalF0P25Hz": 331,
+        "lyricLineRecall": 0.857,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.8,
+        "measuredBpm": 116.1,
+        "bpmFactor": 1,
+        "targetBpm": 116,
+        "bpmErrPct": 0.1,
+        "lufs": -13.2,
+        "peakDbfs": -0.36,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 223.1,
+        "vocalCoverage": 0.456,
+        "vocalSpanSec": [
+          17.6,
+          222.6
+        ],
+        "vocalF0MedianHz": 519,
+        "vocalF0P25Hz": 329,
+        "lyricLineRecall": 0.929,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

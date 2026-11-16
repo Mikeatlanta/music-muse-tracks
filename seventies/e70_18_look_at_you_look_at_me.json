@@ -1,0 +1,114 @@
+{
+  "id": "e70_18",
+  "title": "Look at You, Look at Me",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 18,
+  "slug": "e70_18_look_at_you_look_at_me",
+  "inspiredBy": "You're the One That I Want (John Travolta & Olivia Newton-John, 1978)",
+  "leadVoice": "A man with a light, eager tenor that cracks into falsetto when he is flustered. A woman with a bright, clear soprano and a teasing edge who sounds entirely in control. They trade lines quickly and sing the chorus together, with a wordless three-note 'ooh' hook.",
+  "model": "V6",
+  "style": "1978 film musical pop rock duet, light eager male tenor cracking into falsetto and a bright clear teasing female soprano fully in control, trading lines quickly and singing the chorus together with a wordless three-note ooh hook, 107 BPM, C major, bouncing strutting groove, bouncing repeating electric bass line driving the song, tight drums with strong backbeat, handclaps, rhythm guitar, piano, tenor saxophone in the last chorus, bass-and-claps bridge with spoken asides, bright punchy clean mix, flirtatious, theatrical, joyful",
+  "negativeTags": "rap, slow ballad, heavy distortion, dark mood, drum machine, trap hi-hats, autotune, EDM drop",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bouncing bass line, handclaps, a drum fill]\n\n[Verse 1: male tenor, flustered and eager]\nI've got a tie I haven't worn since the wedding\nAnd a heart that's doing things it shouldn't do\nYou walked in wearing red like you were betting\nAnd my blood pressure's blaming you\n\n[Verse 2: female soprano, cool and in charge]\nStraighten up that collar, mister, find your nerve\nI didn't do my hair to stand around\nThere's a slow one and a fast one, I'll take both\nSo put that glass of water down\n\n[Chorus: both voices, full band, handclaps]\nLook at you (look at me)\nLook at us, ooh, ooh, ooh\nForty years and I'd still pick you\nOut of any room, ooh, ooh, ooh\nLook at you (look at me)\nStill my kind of trouble\n\n[Verse 3: male then female, trading lines]\nIf my knees give out, you'll have to catch me\n(If your knees give out, I'll leave you where you fall)\nI've been practising my spin out in the garage\n(I know, I saw you from the hall)\n\n[Chorus: both voices, full band, handclaps]\nLook at you (look at me)\nLook at us, ooh, ooh, ooh\nForty years and I'd still pick you\nOut of any room, ooh, ooh, ooh\nLook at you (look at me)\nStill my kind of trouble\n\n[Bridge: band drops to bass and claps, voices close]\nOoh, ooh, ooh\n(Is that the tie?) It's the tie\nOoh, ooh, ooh\n(Come here)\n\n[Final Chorus: everything, saxophone on top, whoops]\nLook at you (look at me)\nLook at us, ooh, ooh, ooh\nForty years and I'd still pick you\nOut of any room, ooh, ooh, ooh\nLook at you (look at me)\nStill my kind of trouble\n\n[Outro: bass line, laughing, last shout]\nLook at us",
+  "taskId": "84e7149cade1b258329ef1c8fc0ce353",
+  "sunoClipIds": [
+    "19ef1b45-82b2-4b2d-a7b8-9699cb2cce9a",
+    "05a6e4cd-8b4e-49d5-8196-d913825ed7b2"
+  ],
+  "created": "Nov 16, 2026 8:08 AM ET",
+  "createTimeMs": 1794834515237,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "19ef1b45-82b2-4b2d-a7b8-9699cb2cce9a",
+      "durationSec": 185.0,
+      "file": "seventies/e70_18_look_at_you_look_at_me_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "05a6e4cd-8b4e-49d5-8196-d913825ed7b2",
+      "durationSec": 184.68,
+      "file": "seventies/e70_18_look_at_you_look_at_me_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_18_look_at_you_look_at_me_req.json",
+    "seventies/e70_18_look_at_you_look_at_me_rec.json"
+  ],
+  "cover": "seventies/covers/e70_18_look_at_you_look_at_me.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 107 BPM, 4/4, C major. A bouncing, strutting pop-rock groove. Flirtatious, bright and theatrical.\n\nVOICE: A man with a light, eager tenor that cracks into falsetto when he is flustered. A woman with a bright, clear soprano and a teasing edge who sounds entirely in control. They trade lines quickly and sing the chorus together, with a wordless three-note 'ooh' hook.\n\nINSTRUMENTS: A bouncing, repeating electric bass line that drives the song. A tight drum kit with a strong backbeat. Handclaps. Rhythm guitar. Piano. A tenor saxophone in the last chorus. A few synthesised string stabs in the chorus.\n\nARRANGEMENT MAP: 0:00 Intro, the bass line, claps and a fill. 0:09 Verse 1, the man. 0:27 Verse 2, the woman. 0:45 Chorus 1. 1:07 Verse 3, traded lines. 1:25 Chorus 2. 1:47 Bridge, bass and claps with spoken asides. 2:05 Final chorus with saxophone. 2:30 Outro, the bass line, laughter and a shout at 2:45.\n\nPRODUCTION & MIX: Late-1970s film-musical pop: bright, punchy and clean, the two voices upfront and dry, the band tight.\n\nSIGNATURE MOMENT: The first shared 'ooh, ooh, ooh' in the chorus at 0:50.\n\nMODERN POINT OF VIEW: The original pair are teenagers who change themselves to match. These two have forty years behind them, bad knees and a garage, and the joke is that they can still surprise each other.\n\nEMOTIONAL ARC: Fluster, teasing, delight.",
+  "workbookAtAGlance": "Look at You, Look at Me\n\nBackup titles\nStill My Kind of Trouble / My Blood Pressure's Blaming You\n\nAt a glance\n107 BPM, C major\nVoice: Duet: eager male tenor, bright female soprano\nLength: about 2 minutes 50",
+  "qa": {
+    "title": "Look at You, Look at Me",
+    "id": "e70_18",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 185.0,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 107,
+        "bpmErrPct": 0.6,
+        "lufs": -13.8,
+        "peakDbfs": -0.33,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.4,
+        "contentEndSec": 184.7,
+        "vocalCoverage": 0.728,
+        "vocalSpanSec": [
+          10.4,
+          183.9
+        ],
+        "vocalF0MedianHz": 396,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.794,
+        "lyricUnclearSections": [
+          "Verse 2"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 184.7,
+        "measuredBpm": 104.4,
+        "bpmFactor": 1,
+        "targetBpm": 107,
+        "bpmErrPct": 2.4,
+        "lufs": -14.2,
+        "peakDbfs": -0.44,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 182.9,
+        "vocalCoverage": 0.742,
+        "vocalSpanSec": [
+          4.9,
+          178.1
+        ],
+        "vocalF0MedianHz": 333,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.882,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

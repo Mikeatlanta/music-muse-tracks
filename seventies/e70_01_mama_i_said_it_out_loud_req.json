@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Mama, I Said It Out Loud",
+  "prompt": "[Intro: a cappella four-part harmony, close and soft]\nSomebody tell me whose shoes I am wearing\nWhose name's on the door, whose face in the mirror is staring\nI'm an ordinary man, I need no applause\nBut I swallowed a sentence for years, and it clawed\n\n[Ballad: solo voice and piano, bass enters]\nMama, I said it out loud\nStood in the kitchen and I said it out loud\nForty years of yes, and I told them no\nMama, the words are out and I can't make them go\n\n[Ballad: fuller, drums enter softly]\nMama, ooh\nI know it isn't what you planned\nIf I'm a stranger to you now\nHold on to my hand\n\n[Verse: piano and band, voice breaking]\nGoodbye to the desk and the tie\nThe smile I wore like a borrowed suit\nI'm not sorry, I'm terrified\nI don't know what I'll do\n\n[Guitar Solo: singing, harmonised lead guitar over the ballad chords]\n\n[Opera: staccato piano, stacked choir, high and low voices trading]\n(Who is this man?) A clerk! (A clerk?) A clerk from accounts!\n(Signore, signore, he's making announcements!)\nSound the trombones, the committee's upset\n(Rigatoni!) Rigatoni! (Minestrone!) Not yet!\nHe's only a small man from a small cul-de-sac\n(Leave him his lunch break and send the man back!)\nSend him back? No! We will not send him back!\n(Send him back!) Never! (Send him back!) Never, never, never!\nThe neighbours have a pitchfork with my name on\nMy name on, my name on!\n\n[Hard Rock: heavy guitar riff, full band, shouted]\nYou had me in a drawer with a label and a date\nYou had me saying sorry for arriving, being late\nOh, people, not this time, people\nI'm walking out, I'm walking right out of this gate\n\n[Guitar Break: riff climbs, drums crash, then slows]\n\n[Coda: slow, piano and soft voice, a gong at the end]\nIt was only a sentence\nIt was only the truth\nI said it in the kitchen\nAnd the ceiling stayed a roof\nMorning's coming anyway",
+  "style": "1975 British progressive glam rock mini-opera in several sections, theatrical male tenor with a huge range, his voice stacked into a massive choir from bass to piercing falsetto trading phrases, a cappella harmony intro, tender piano ballad at 72 BPM in B-flat major, singing harmonised lead guitar solo, sudden mock-opera section with staccato piano and call-and-response choir at double speed, heavy hard rock riff section, quiet piano coda ending on a gong, grand piano, melodic bass, big dry drums and timpani, tape-saturated maximal mix, dramatic, operatic, epic",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, trap hi-hats, autotune, EDM, country, disco",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 315,
+  "callBackUrl": "https://example.com/cb"
+}

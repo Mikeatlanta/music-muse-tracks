@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Stuck on a Good Thing",
+  "prompt": "[Intro: male group chanting alone, then drums and bass]\nHubba-loo, hubba-loo-la\nHubba-loo, hubba-loo-la\nHubba-loo, hubba-loo-la\nHubba-loo, hubba-loo-la\n\n[Verse 1: joyful tenor, galloping beat, chant continues underneath]\nI can't sit still, it's in my shoes\nYou're the best kind of terrible news\nLips like cider and a laugh like rain\nI'm in trouble and I can't complain\n\n[Chorus: brass section, full voice, group answering]\nOh, I'm stuck on a good thing\nGlued to a real thing\nNobody come and pull me free\nI'm stuck on a good thing\nTied to the best thing\nThat ever went and happened to me\n\n[Verse 2: joyful tenor, organ joins]\nI had plans, I had a list\nI had a calm that I haven't missed\nYou came along like a marching band\nNow I'm clapping, and I don't understand\n\n[Chorus: brass section, full voice, group answering]\nOh, I'm stuck on a good thing\nGlued to a real thing\nNobody come and pull me free\nI'm stuck on a good thing\nTied to the best thing\nThat ever went and happened to me\n\n[Bridge: band drops to chant and handclaps]\nHubba-loo, hubba-loo-la\n(All day long)\nHubba-loo, hubba-loo-la\n(All night long)\n\n[Final Chorus: key up a step, brass blazing, everyone]\nOh, I'm stuck on a good thing\nGlued to a real thing\nNobody come and pull me free\nI'm stuck on a good thing\nTied to the best thing\nThat ever went and happened to me\n\n[Outro: chant alone, fading]\nHubba-loo, hubba-loo-la",
+  "style": "1974 brassy European pop stomp, bright open slightly theatrical joyful male tenor who sounds like he is smiling, group of men chanting nonsense syllables in low deadpan unison at the start, under the verses and alone in the bridge, 118 BPM, A-flat major lifting a step for the final chorus, galloping drum beat with tom-toms, big cheerful brass fanfares with trumpets and trombones, bouncing electric bass, electric organ, bright rhythm guitar, handclaps, tambourine, bright compressed mix, joyful, silly, infectious",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, dark mood, slow ballad, autotune, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 190,
+  "callBackUrl": "https://example.com/cb"
+}

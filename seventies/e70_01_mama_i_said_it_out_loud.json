@@ -1,0 +1,119 @@
+{
+  "id": "e70_01",
+  "title": "Mama, I Said It Out Loud",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 1,
+  "slug": "e70_01_mama_i_said_it_out_loud",
+  "inspiredBy": "Bohemian Rhapsody (Queen, 1975)",
+  "leadVoice": "A male tenor with an enormous range and a theatrical delivery: tender in the ballad, operatic and exact in the middle, snarling in the rock section, hushed at the end. In the intro and opera his voice is stacked dozens of times into a choir, from a rumbling bass to a piercing falsetto, trading phrases left and right.",
+  "model": "V6",
+  "style": "1975 British progressive glam rock mini-opera in several sections, theatrical male tenor with a huge range, his voice stacked into a massive choir from bass to piercing falsetto trading phrases, a cappella harmony intro, tender piano ballad at 72 BPM in B-flat major, singing harmonised lead guitar solo, sudden mock-opera section with staccato piano and call-and-response choir at double speed, heavy hard rock riff section, quiet piano coda ending on a gong, grand piano, melodic bass, big dry drums and timpani, tape-saturated maximal mix, dramatic, operatic, epic",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, trap hi-hats, autotune, EDM, country, disco",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 315,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: a cappella four-part harmony, close and soft]\nSomebody tell me whose shoes I am wearing\nWhose name's on the door, whose face in the mirror is staring\nI'm an ordinary man, I need no applause\nBut I swallowed a sentence for years, and it clawed\n\n[Ballad: solo voice and piano, bass enters]\nMama, I said it out loud\nStood in the kitchen and I said it out loud\nForty years of yes, and I told them no\nMama, the words are out and I can't make them go\n\n[Ballad: fuller, drums enter softly]\nMama, ooh\nI know it isn't what you planned\nIf I'm a stranger to you now\nHold on to my hand\n\n[Verse: piano and band, voice breaking]\nGoodbye to the desk and the tie\nThe smile I wore like a borrowed suit\nI'm not sorry, I'm terrified\nI don't know what I'll do\n\n[Guitar Solo: singing, harmonised lead guitar over the ballad chords]\n\n[Opera: staccato piano, stacked choir, high and low voices trading]\n(Who is this man?) A clerk! (A clerk?) A clerk from accounts!\n(Signore, signore, he's making announcements!)\nSound the trombones, the committee's upset\n(Rigatoni!) Rigatoni! (Minestrone!) Not yet!\nHe's only a small man from a small cul-de-sac\n(Leave him his lunch break and send the man back!)\nSend him back? No! We will not send him back!\n(Send him back!) Never! (Send him back!) Never, never, never!\nThe neighbours have a pitchfork with my name on\nMy name on, my name on!\n\n[Hard Rock: heavy guitar riff, full band, shouted]\nYou had me in a drawer with a label and a date\nYou had me saying sorry for arriving, being late\nOh, people, not this time, people\nI'm walking out, I'm walking right out of this gate\n\n[Guitar Break: riff climbs, drums crash, then slows]\n\n[Coda: slow, piano and soft voice, a gong at the end]\nIt was only a sentence\nIt was only the truth\nI said it in the kitchen\nAnd the ceiling stayed a roof\nMorning's coming anyway",
+  "taskId": "cdb04f98378b3c8421751b33ac3bff9c",
+  "sunoClipIds": [
+    "40ac7227-0b6f-4ee7-9310-002c929bd9b0",
+    "de25aeb3-2c3b-49f1-9f7c-d2d60a728a3d"
+  ],
+  "created": "Nov 16, 2026 8:07 AM ET",
+  "createTimeMs": 1794834444425,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "40ac7227-0b6f-4ee7-9310-002c929bd9b0",
+      "durationSec": 314.16,
+      "file": "seventies/e70_01_mama_i_said_it_out_loud_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "de25aeb3-2c3b-49f1-9f7c-d2d60a728a3d",
+      "durationSec": 313.96,
+      "file": "seventies/e70_01_mama_i_said_it_out_loud_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_01_mama_i_said_it_out_loud_req.json",
+    "seventies/e70_01_mama_i_said_it_out_loud_rec.json"
+  ],
+  "cover": "seventies/covers/e70_01_mama_i_said_it_out_loud.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: Five sections. Ballad at 72 BPM in B-flat major; opera at a brisk 144 with sudden key changes; hard rock at 144 in E-flat; coda back to 72. Theatrical, shifting, larger than life.\n\nVOICE: A male tenor with an enormous range and a theatrical delivery: tender in the ballad, operatic and exact in the middle, snarling in the rock section, hushed at the end. In the intro and opera his voice is stacked dozens of times into a choir, from a rumbling bass to a piercing falsetto, trading phrases left and right.\n\nINSTRUMENTS: Grand piano. A lead electric guitar with a thick, singing, layered tone, often harmonised with itself. Melodic bass. A big, dry drum kit with timpani. Massed vocal overdubs used as an orchestra. A heavy, crunching guitar riff for the rock section. A single gong at the close.\n\nARRANGEMENT MAP: 0:00 Intro, voices alone. 0:28 Ballad, piano and solo voice. 1:20 Drums enter. 1:55 Verse with the full band. 2:25 Guitar solo. 2:50 Opera: the band cuts to staccato piano and the choir takes over, with sudden stops and key changes. 3:45 Hard rock section. 4:15 Guitar break climbing and then slowing. 4:30 Coda, piano and soft voice, a gong at 4:55.\n\nPRODUCTION & MIX: Mid-1970s maximal studio rock: tape-saturated, with huge walls of overdubbed voices and guitars, dramatic panning and extreme changes of volume.\n\nSIGNATURE MOMENT: The cut from guitar solo to staccato piano and choir at 2:50.\n\nMODERN POINT OF VIEW: The confession is a middle-aged man's, and the terror is ordinary: a job, a role, a kitchen. The coda's discovery is that he told the truth and the ceiling stayed up.\n\nEMOTIONAL ARC: Confession, fear, farce, defiance, calm.",
+  "workbookAtAGlance": "Mama, I Said It Out Loud\n\nBackup titles\nRigatoni, Not Yet / The Ceiling Stayed a Roof\n\nAt a glance\n72 BPM, then 144, then 72, B-flat major, moving through several keys\nVoice: Theatrical male tenor, stacked choir of the same voice\nLength: about 5 minutes",
+  "qa": {
+    "title": "Mama, I Said It Out Loud",
+    "id": "e70_01",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 56% of lines recognised (unclear: Opera, Hard Rock)"
+        ],
+        "durationSec": 314.2,
+        "measuredBpm": 139.7,
+        "bpmFactor": 1,
+        "targetBpm": 144,
+        "bpmErrPct": 3.0,
+        "lufs": -13.8,
+        "peakDbfs": -0.52,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 312.7,
+        "vocalCoverage": 0.592,
+        "vocalSpanSec": [
+          14.9,
+          276.8
+        ],
+        "vocalF0MedianHz": 355,
+        "vocalF0P25Hz": 302,
+        "lyricLineRecall": 0.559,
+        "lyricUnclearSections": [
+          "Opera",
+          "Hard Rock"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 50% of lines recognised"
+        ],
+        "durationSec": 314.0,
+        "measuredBpm": 139.7,
+        "bpmFactor": 1,
+        "targetBpm": 144,
+        "bpmErrPct": 3.0,
+        "lufs": -13.8,
+        "peakDbfs": -0.49,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.6,
+        "contentEndSec": 312.0,
+        "vocalCoverage": 0.599,
+        "vocalSpanSec": [
+          13.0,
+          298.9
+        ],
+        "vocalF0MedianHz": 444,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 0.5,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

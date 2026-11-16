@@ -1,0 +1,116 @@
+{
+  "id": "e70_05",
+  "title": "Last Call at the Meridian",
+  "collection": "seventies",
+  "album": "70s Reimagined",
+  "track": 5,
+  "slug": "e70_05_last_call_at_the_meridian",
+  "inspiredBy": "Hotel California (Eagles, 1976)",
+  "leadVoice": "Male tenor with a dry rasp, singing like a man telling a story across a table. High, smooth harmony voices join for the choruses. No vocal histrionics. The last line is delivered flat and quiet.",
+  "model": "V6",
+  "style": "1976 Los Angeles soft rock epic, dry raspy male tenor storytelling vocal, high smooth harmony voices on the choruses, 74 BPM, B minor, slow hazy sway with reggae-style off-beat guitar chops and a Spanish colour, twelve-string acoustic guitar arpeggio intro, two electric lead guitars answering the vocal, long guitar solo with the two leads trading phrases then playing in harmony, melodic bass, relaxed drums with timbales, long fade-out, dry wide immaculate mix, mysterious, seductive, uneasy",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, fast tempo, trap hi-hats, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 315,
+  "customMode": true,
+  "lyricsSource": "70s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: twelve-string acoustic guitar arpeggio, distant ship's bell]\n\n[Verse 1: raspy, storytelling, slow sway begins]\nI won a ticket in a raffle that I don't recall\nA white ship at the harbour wall, a brass band in the hall\nA steward took my suitcase and he took my name\nSaid \"everybody boards alone and nobody's to blame\"\n\n[Verse 2: bass and drums enter]\nThere were ladies at the railing in their evening best\nThere were gentlemen who'd loosened every button on their vest\nI asked a man beside me how long he'd been at sea\nHe looked up at the mirror ball and didn't answer me\n\n[Chorus: high harmonies, guitars answering]\nWelcome aboard the Meridian\nSuch a beautiful night\nPlenty of room on the Meridian\nAny hour, the buffet's bright\nThey're dancing on the lido deck\nThey've danced there since the war\nIt's last call at the Meridian\nIt's been last call since before\n\n[Verse 3: storytelling, a little uneasy]\nThe captain is a recording and the map's a painted wall\nThe clocks are all on different times and no one minds at all\nI asked the purser \"where's the port?\" and he poured me wine\nSaid \"sir, we have a schedule, and it's working out just fine\"\n\n[Chorus: high harmonies, guitars answering]\nWelcome aboard the Meridian\nSuch a beautiful night\nPlenty of room on the Meridian\nAny hour, the buffet's bright\nThey're dancing on the lido deck\nThey've danced there since the war\nIt's last call at the Meridian\nIt's been last call since before\n\n[Verse 4: quieter, the reveal]\nI went below to find the door I'd come through at the start\nJust a mural of a doorway, very tasteful, very smart\nThe band struck up my favourite and a chair slid out for me\nI thought, one more and then I'll go\nAnd I've been one more since\n\n[Guitar Solo: two lead guitars trading phrases, then in harmony]\n\n[Outro: twin guitars in harmony over the sway, long fade]",
+  "taskId": "53931773ee1541c85e94feb58e070124",
+  "sunoClipIds": [
+    "74125229-1c06-4602-88b8-857b66ba0204",
+    "10097d01-5f89-4c2a-8c2d-e3afbb8c2ef3"
+  ],
+  "created": "Nov 16, 2026 8:07 AM ET",
+  "createTimeMs": 1794834468519,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "74125229-1c06-4602-88b8-857b66ba0204",
+      "durationSec": 314.56,
+      "file": "seventies/e70_05_last_call_at_the_meridian_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "10097d01-5f89-4c2a-8c2d-e3afbb8c2ef3",
+      "durationSec": 314.76,
+      "file": "seventies/e70_05_last_call_at_the_meridian_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "seventies/e70_05_last_call_at_the_meridian_req.json",
+    "seventies/e70_05_last_call_at_the_meridian_rec.json"
+  ],
+  "cover": "seventies/covers/e70_05_last_call_at_the_meridian.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 74 BPM, 4/4, B minor. A slow sway with a hint of reggae in the guitar chops and a Spanish colour in the chords. Hazy, seductive and uneasy.\n\nVOICE: Male tenor with a dry rasp, singing like a man telling a story across a table. High, smooth harmony voices join for the choruses. No vocal histrionics. The last line is delivered flat and quiet.\n\nINSTRUMENTS: A twelve-string acoustic guitar playing the opening arpeggios. Two electric lead guitars, one bright and one thicker, which answer the vocal and then share a long harmonised duet. Electric rhythm guitar playing off-beat chops. A melodic bass. A relaxed drum kit with timbales and a soft backbeat. A ship's bell.\n\nARRANGEMENT MAP: 0:00 Intro, twelve-string guitar. 0:26 Verse 1. 0:52 Verse 2, band in. 1:18 Chorus 1. 1:50 Verse 3. 2:16 Chorus 2. 2:48 Verse 4, quieter, ending on the reveal. 3:20 Guitar solo: the two leads trade four-bar phrases. 4:10 They join in harmony over the verse chords and play the tune out, fading by 5:00.\n\nPRODUCTION & MIX: Mid-1970s Los Angeles studio rock: dry, wide and immaculate, acoustic and electric guitars carefully layered, drums soft and close.\n\nSIGNATURE MOMENT: The two guitars locking into harmony at about 4:10.\n\nMODERN POINT OF VIEW: No one forbids him to leave. The ship is pleasant, the chair slides out, and he keeps choosing one more. That is the quieter trap of later life and of endless entertainment.\n\nEMOTIONAL ARC: Curiosity, comfort, unease, contented surrender.",
+  "workbookAtAGlance": "Last Call at the Meridian\n\nBackup titles\nOne More Since / Nobody's to Blame\n\nAt a glance\n74 BPM, B minor\nVoice: Raspy male tenor, high harmonies\nLength: about 5 minutes",
+  "qa": {
+    "title": "Last Call at the Meridian",
+    "id": "e70_05",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.2 dBFS (6 clipped sample, inaudible)"
+        ],
+        "durationSec": 314.6,
+        "measuredBpm": 68.9,
+        "bpmFactor": 1,
+        "targetBpm": 74,
+        "bpmErrPct": 6.9,
+        "lufs": -13.4,
+        "peakDbfs": 0.2,
+        "clipSamples": 6,
+        "midGaps": [],
+        "endFadeSec": 3.0,
+        "contentEndSec": 312.4,
+        "vocalCoverage": 0.553,
+        "vocalSpanSec": [
+          23.8,
+          284.1
+        ],
+        "vocalF0MedianHz": 290,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.788,
+        "lyricUnclearSections": [
+          "Verse 4"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 314.8,
+        "measuredBpm": 68.4,
+        "bpmFactor": 1,
+        "targetBpm": 74,
+        "bpmErrPct": 7.5,
+        "lufs": -13.6,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 312.7,
+        "vocalCoverage": 0.49,
+        "vocalSpanSec": [
+          28.8,
+          292.5
+        ],
+        "vocalF0MedianHz": 221,
+        "vocalF0P25Hz": 165,
+        "lyricLineRecall": 0.879,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

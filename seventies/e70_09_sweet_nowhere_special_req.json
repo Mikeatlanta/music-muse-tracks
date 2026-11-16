@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Sweet Nowhere Special",
+  "prompt": "[Intro: spoken count, picked three-chord guitar figure, bass, drums]\nOne, two, three\nLouder\n\n[Verse 1: easy drawl, guitar figure throughout]\nWheels are humming on the two-lane back\nPast the grain elevator and the railroad track\nI've been to cities where they don't say hi\nI'm coming home to the widest sky\n\n[Chorus: female backing singers answer, piano rolling]\nSweet nowhere special\nWhere the map runs out of names\nSweet nowhere special\nIt's exactly where I aim\n\n[Verse 2: easy drawl, a grin in it]\nWell, I heard a fella on the TV say\nNothing ever happens out our way\nI hope that fella takes a drive some time\nA whole lot of nothing suits us fine\n\n[Chorus: female backing singers answer, piano rolling]\nSweet nowhere special\nWhere the map runs out of names\nSweet nowhere special\nIt's exactly where I aim\n\n[Guitar Solo: bright, country-tinged, bending notes]\n\n[Verse 3: easy drawl, band cooking]\nNow the diner's got a house band Thursday nights\nA drummer and a dentist and a set of lights\nThey play it loose and they play it loud\nAnd the whole of the county makes a pretty good crowd\n\n[Chorus: female backing singers answer, piano rolling]\nSweet nowhere special\nWhere the map runs out of names\nSweet nowhere special\nIt's exactly where I aim\n\n[Piano Solo: honky-tonk, rolling]\n\n[Final Chorus: everyone, backing singers ad-libbing]\nSweet nowhere special\n(Ooh, where the sky's that wide)\nSweet nowhere special\nIt's exactly where I aim\n\n[Outro: guitar figure, piano, backing singers, fade]",
+  "style": "1974 Southern rock, easy slightly nasal male vocal with a Southern drawl, conversational and unhurried, three female gospel-soul backing singers answering in the chorus, spoken count-in, 98 BPM, G major, loping relaxed groove, bright picked three-chord electric guitar figure with a small fill repeating throughout, country-tinged lead guitar with bent notes, rolling honky-tonk piano and piano solo, bouncing bass, relaxed drums with strong backbeat, warm loose live-sounding mix, proud, sunny, good-natured",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy metal, trap hi-hats, autotune, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}
