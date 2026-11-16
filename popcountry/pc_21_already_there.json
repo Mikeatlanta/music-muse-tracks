@@ -1,0 +1,116 @@
+{
+  "id": "pc_21",
+  "title": "Already There",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 21,
+  "slug": "pc_21_already_there",
+  "inspiredBy": "Die a Happy Man (Thomas Rhett, 2015)",
+  "leadVoice": "Male tenor, soft and sincere, with a light Southern accent and a little falsetto at the ends of chorus lines. Gentle harmonies behind him. Two spoken lines at the end, the first one hers.",
+  "model": "V6",
+  "style": "2015 country with a soul heart, soft sincere male tenor vocal with a light Southern accent and touches of falsetto, gentle harmonies, 82 BPM with a soul sway, D major, slow warm and close, clean warm electric guitar soul chords, brushed drums with rim click, round bass, electric piano, quiet organ, a touch of pedal steel, guitar-and-voice bridge, soft intimate mix, contented, devoted, gentle",
+  "negativeTags": "female lead vocals, banjo, loud drums, distorted guitar, rap, EDM synths, fast tempo, belting",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: warm electric guitar, soft brushed drums]\n\n[Verse 1: tender male tenor]\nThere's a travel show on, some island, some sea\nYou say, \"Don't you want to go?\" and look over at me\nYou got flour on your elbow, one sock on the floor\nHoney, look around. What would I go there for?\n\n[Chorus: smooth, soulful, harmonies behind]\n'Cause I'm already there\nKitchen light, your feet in my chair\nEvery postcard place I ever wanted to see\nIs sitting right here, stealing fries from me\nThey can keep the islands and the mountain air\nHoney, I'm already there\n\n[Verse 2: tenor, band a little fuller]\nI used to keep a list in the back of my head\nThings to do, things to own, before I'm dead\nThen a Tuesday with you and a pizza and rain\nCrossed off every line, and I ain't felt the same\n\n[Chorus: smooth, soulful, harmonies behind]\n'Cause I'm already there\nKitchen light, your feet in my chair\nEvery postcard place I ever wanted to see\nIs sitting right here, stealing fries from me\nThey can keep the islands and the mountain air\nHoney, I'm already there\n\n[Bridge: guitar and voice only]\nIf the good Lord called and said, \"Time's up, son\"\nI'd say, \"That's alright. I already won.\"\n\n[Final Chorus: fullest, organ and harmonies]\n'Cause I'm already there\nKitchen light, your feet in my chair\nEvery postcard place I ever wanted to see\nIs sitting right here, stealing fries from me\nThey can keep the islands and the mountain air\nHoney, I'm already there\n\n[Outro: guitar, a television murmuring, spoken]\nChange it if you want.\nNo. I like watching you watch it.",
+  "taskId": "c7a1d982465695d352888b0a74cbe16e",
+  "sunoClipIds": [
+    "490b103f-5fdc-4f13-bfa6-e6e314eba8c9",
+    "2a17208e-0004-4b92-9329-8bf1207e0ba5"
+  ],
+  "created": "Nov 16, 2026 12:09 PM ET",
+  "createTimeMs": 1794848977745,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "490b103f-5fdc-4f13-bfa6-e6e314eba8c9",
+      "durationSec": 214.6,
+      "file": "popcountry/pc_21_already_there_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "2a17208e-0004-4b92-9329-8bf1207e0ba5",
+      "durationSec": 214.8,
+      "file": "popcountry/pc_21_already_there_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_21_already_there_req.json",
+    "popcountry/pc_21_already_there_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_21_already_there.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 82 BPM, 4/4 with a soul sway, D major. Slow, warm and close, a kitchen slow dance.\n\nVOICE: Male tenor, soft and sincere, with a light Southern accent and a little falsetto at the ends of chorus lines. Gentle harmonies behind him. Two spoken lines at the end, the first one hers.\n\nINSTRUMENTS: A clean, warm electric guitar playing soul chords, brushed drums with a soft rim click, round bass, electric piano, a quiet organ in the last chorus, a touch of pedal steel.\n\nARRANGEMENT MAP: 0:00 Intro guitar. 0:12 Verse 1. 0:40 Chorus 1. 1:10 Verse 2. 1:38 Chorus 2. 2:08 Bridge, guitar and voice. 2:26 Final chorus. 2:56 Outro, the television and two spoken lines, ends 3:16.\n\nPRODUCTION & MIX: 2015 country with a soul heart: soft, round and intimate, no hard edges, voice close.\n\nSIGNATURE MOMENT: 'I like watching you watch it' at 3:10.\n\nMODERN POINT OF VIEW: The original is a young husband's vow. This is the same vow kept: years later, with nothing left to prove and nowhere better to be.\n\nEMOTIONAL ARC: Asked, amused, certain, at rest.",
+  "workbookAtAGlance": "Already There\n\nBackup titles\nStealing Fries from Me / I Already Won\n\nAt a glance\n82 BPM, D major\nVoice: Tender male tenor\nLength: about 3 minutes 20",
+  "genre": "Country",
+  "year": 2015,
+  "qa": {
+    "title": "Already There",
+    "id": "pc_21",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 108 BPM vs 82 target (~12% off)"
+        ],
+        "durationSec": 214.6,
+        "measuredBpm": 107.7,
+        "bpmFactor": 0.67,
+        "targetBpm": 82,
+        "bpmErrPct": 12.5,
+        "lufs": -14.0,
+        "peakDbfs": -0.23,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 212.6,
+        "vocalCoverage": 0.6,
+        "vocalSpanSec": [
+          19.3,
+          187.2
+        ],
+        "vocalF0MedianHz": 187,
+        "vocalF0P25Hz": 166,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 78.3,
+        "bpmFactor": 1,
+        "targetBpm": 82,
+        "bpmErrPct": 4.5,
+        "lufs": -13.4,
+        "peakDbfs": -0.16,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 213.0,
+        "vocalCoverage": 0.659,
+        "vocalSpanSec": [
+          19.8,
+          194.3
+        ],
+        "vocalF0MedianHz": 221,
+        "vocalF0P25Hz": 185,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

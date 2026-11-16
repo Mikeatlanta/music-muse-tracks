@@ -1,0 +1,114 @@
+{
+  "id": "pc_04",
+  "title": "Let the Coffee Talk",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 4,
+  "slug": "pc_04_let_the_coffee_talk",
+  "inspiredBy": "Last Night (Morgan Wallen, 2023)",
+  "leadVoice": "Male, mid-range with a Southern drawl, nearly spoken in the verses and lightly sung in the chorus, doubled an octave up on the hook. No big notes. One spoken line and a short laugh at the end.",
+  "model": "V6",
+  "style": "2023 country-pop with soft trap drums, conversational mid-range male vocal with a Southern drawl, nearly spoken verses and lightly sung chorus doubled an octave up, 102 BPM, F# major, easy circling groove, fingerpicked acoustic guitar loop throughout, soft kick, quiet hi-hats, finger snaps, warm sub bass, distant pedal steel, close dry intimate mix, short song, guitar-only bridge, spoken ending, rueful, affectionate, low-key",
+  "negativeTags": "female lead vocals, belting, electric guitar solo, big live drums, fiddle, EDM synths, slow ballad, choir",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: looping acoustic guitar figure, soft kick]\n\n[Verse 1: conversational male voice, close mic]\nYeah, I slept on the couch with the dog and the game on\nYou slept in the bed with the door shut and the fan on\nI don't even know what it started about\nSomething 'bout your sister, something out of my mouth\n\n[Chorus: melodic, hi-hats in, voice doubled]\nSo this morning let's let the coffee talk\nTwo cups, no phones, back steps, no clock\nYou don't have to start, I don't have to win\nJust pour it and pass it and lean on in\nWe both said plenty when the lights were off\nThis morning let the coffee talk\n\n[Verse 2: same easy delivery]\nTwenty-two years and I still do that thing\nWhere I go real quiet and I twist my ring\nAnd you still do yours, where you clean the whole house\nLoud as you can, till I figure it out\n\n[Chorus: melodic, hi-hats in, voice doubled]\nSo this morning let's let the coffee talk\nTwo cups, no phones, back steps, no clock\nYou don't have to start, I don't have to win\nJust pour it and pass it and lean on in\nWe both said plenty when the lights were off\nThis morning let the coffee talk\n\n[Bridge: beat drops, guitar only]\nSugar for you, black for me\nSorry tastes better at six-fifteen\n\n[Final Chorus: full beat, a harmony above]\nSo this morning let's let the coffee talk\nTwo cups, no phones, back steps, no clock\nYou don't have to start, I don't have to win\nJust pour it and pass it and lean on in\nWe both said plenty when the lights were off\nThis morning let the coffee talk\n\n[Outro: guitar loop, a spoon on a mug, spoken]\nIt was about your sister.",
+  "taskId": "5a50207b56aaa6a9210626c5bc4d0b02",
+  "sunoClipIds": [
+    "696dbdc7-d55b-4f56-9fb6-0ccd8fa42603",
+    "a4cf710c-5052-4a50-9a2e-8fbc84b7cef5"
+  ],
+  "created": "Nov 16, 2026 12:08 PM ET",
+  "createTimeMs": 1794848905841,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "696dbdc7-d55b-4f56-9fb6-0ccd8fa42603",
+      "durationSec": 184.84,
+      "file": "popcountry/pc_04_let_the_coffee_talk_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a4cf710c-5052-4a50-9a2e-8fbc84b7cef5",
+      "durationSec": 184.36,
+      "file": "popcountry/pc_04_let_the_coffee_talk_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_04_let_the_coffee_talk_req.json",
+    "popcountry/pc_04_let_the_coffee_talk_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_04_let_the_coffee_talk.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 102 BPM, 4/4, F# major. Easy, circling and close, like talking with your voice still low from sleep.\n\nVOICE: Male, mid-range with a Southern drawl, nearly spoken in the verses and lightly sung in the chorus, doubled an octave up on the hook. No big notes. One spoken line and a short laugh at the end.\n\nINSTRUMENTS: A fingerpicked acoustic guitar loop that never stops, a soft kick, quiet trap hi-hats and finger snaps from the chorus, a warm sub bass, a little pedal steel far back.\n\nARRANGEMENT MAP: 0:00 Intro, guitar loop. 0:09 Verse 1. 0:33 Chorus 1. 1:02 Verse 2. 1:26 Chorus 2. 1:55 Bridge, guitar only. 2:07 Final chorus. 2:36 Outro, a spoon on a mug, the spoken line at 2:44.\n\nPRODUCTION & MIX: 2023 country-pop: acoustic guitar and voice very close and dry, drums small and modern, nothing loud.\n\nSIGNATURE MOMENT: The spoken last line at 2:44, which reopens the argument as a joke.\n\nMODERN POINT OF VIEW: The original is the fight and the bottle. This is the morning after, decades on, between two people who have a system for mending things.\n\nEMOTIONAL ARC: Sheepish, familiar, offered, forgiven.",
+  "workbookAtAGlance": "Let the Coffee Talk\n\nBackup titles\nBack Steps, No Clock / Six-Fifteen\n\nAt a glance\n102 BPM, F# major\nVoice: Conversational male voice, close mic\nLength: about 2 minutes 50",
+  "genre": "Country Pop",
+  "year": 2023,
+  "qa": {
+    "title": "Let the Coffee Talk",
+    "id": "pc_04",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 184.9,
+        "measuredBpm": 102.3,
+        "bpmFactor": 1,
+        "targetBpm": 102,
+        "bpmErrPct": 0.3,
+        "lufs": -13.9,
+        "peakDbfs": -0.53,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 183.5,
+        "vocalCoverage": 0.715,
+        "vocalSpanSec": [
+          8.6,
+          182.5
+        ],
+        "vocalF0MedianHz": 207,
+        "vocalF0P25Hz": 185,
+        "lyricLineRecall": 0.966,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 184.4,
+        "measuredBpm": 101.3,
+        "bpmFactor": 1,
+        "targetBpm": 102,
+        "bpmErrPct": 0.7,
+        "lufs": -14.1,
+        "peakDbfs": -0.43,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 3.3,
+        "contentEndSec": 182.8,
+        "vocalCoverage": 0.584,
+        "vocalSpanSec": [
+          8.7,
+          146.0
+        ],
+        "vocalF0MedianHz": 184,
+        "vocalF0P25Hz": 138,
+        "lyricLineRecall": 0.966,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

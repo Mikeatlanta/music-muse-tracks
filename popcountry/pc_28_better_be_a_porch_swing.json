@@ -1,0 +1,119 @@
+{
+  "id": "pc_28",
+  "title": "Better Be a Porch Swing",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 28,
+  "slug": "pc_28_better_be_a_porch_swing",
+  "inspiredBy": "Heaven (Kane Brown, 2017)",
+  "leadVoice": "Male baritone, low, velvety and relaxed, with a slight country drawl. He sings softly and a little behind the beat. Stacked harmonies in the choruses, with one high voice on top at the end.",
+  "model": "V6",
+  "style": "2017 country slow jam with R&B warmth, low velvety relaxed male baritone vocal with a slight drawl sung softly behind the beat, stacked harmonies in the choruses with a high voice on top at the end, 78 BPM, G major, deep smooth and close, clean electric guitar with slow sliding phrases, round bass, finger snaps and soft kick, electric piano, quiet church organ, a little pedal steel, soft-edged intimate mix, romantic, wry, devoted",
+  "negativeTags": "female lead vocals, loud drums, banjo, fiddle, fast tempo, distorted guitar, rap, EDM synths",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: slow electric guitar, warm bass, finger snaps]\n\n[Verse 1: smooth male baritone, close]\nPreacher talked about the streets of gold\nMansions and a river, never growing old\nI was looking down the pew at you\nThinking, well, that's a lot to live up to\n\n[Chorus: silky harmonies, slow groove]\nThere better be a porch swing\nAnd you in my old shirt\nA little bit of rain coming, smell of the dirt\nIf it ain't got your feet up in my lap\nI don't know what they're selling in that\nGold's fine, wings are fine, harps and everything\nBut there better be a porch swing\n\n[Verse 2: baritone, organ underneath]\nI ain't saying I know better than the Book\nI'm just saying somebody ought to take a look\nAt a Tuesday evening, quarter to nine\n'Cause I've seen paradise, and it's been mine\n\n[Chorus: silky harmonies, slow groove]\nThere better be a porch swing\nAnd you in my old shirt\nA little bit of rain coming, smell of the dirt\nIf it ain't got your feet up in my lap\nI don't know what they're selling in that\nGold's fine, wings are fine, harps and everything\nBut there better be a porch swing\n\n[Bridge: guitar and voice]\nAnd if I get there first, I'll hang it myself\nTwo chains, one board\nAnd nobody else\n\n[Final Chorus: fullest, a high harmony on top]\nThere better be a porch swing\nAnd you in my old shirt\nA little bit of rain coming, smell of the dirt\nIf it ain't got your feet up in my lap\nI don't know what they're selling in that\nGold's fine, wings are fine, harps and everything\nBut there better be a porch swing\n\n[Outro: a swing chain creaking, crickets, guitar]",
+  "taskId": "4cf8860fbfdb5dd23f0c894de4aa141c",
+  "sunoClipIds": [
+    "56fdc9bc-20ef-4748-9753-900d713a1f10",
+    "5cacf0a1-3f3b-47df-adbe-0f62de1776fd"
+  ],
+  "created": "Nov 16, 2026 12:10 PM ET",
+  "createTimeMs": 1794849007518,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "56fdc9bc-20ef-4748-9753-900d713a1f10",
+      "durationSec": 214.72,
+      "file": "popcountry/pc_28_better_be_a_porch_swing_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5cacf0a1-3f3b-47df-adbe-0f62de1776fd",
+      "durationSec": 214.52,
+      "file": "popcountry/pc_28_better_be_a_porch_swing_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_28_better_be_a_porch_swing_req.json",
+    "popcountry/pc_28_better_be_a_porch_swing_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_28_better_be_a_porch_swing.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 78 BPM, 4/4, G major. A slow jam: deep, smooth and close.\n\nVOICE: Male baritone, low, velvety and relaxed, with a slight country drawl. He sings softly and a little behind the beat. Stacked harmonies in the choruses, with one high voice on top at the end.\n\nINSTRUMENTS: A clean electric guitar playing slow, sliding phrases, round bass, finger snaps and a soft kick, electric piano, a quiet church organ, a little pedal steel, crickets and a creaking chain at the end.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and snaps. 0:12 Verse 1. 0:40 Chorus 1. 1:12 Verse 2. 1:40 Chorus 2. 2:12 Bridge, guitar and voice. 2:28 Final chorus. 3:00 Outro, the swing and crickets, ends 3:18.\n\nPRODUCTION & MIX: 2017 country with R&B warmth: soft-edged, bass-rich and intimate.\n\nSIGNATURE MOMENT: 'Two chains, one board, and nobody else' at 2:18.\n\nMODERN POINT OF VIEW: The original says nothing could be better than tonight. This is an older man in church who has had thirty years of such nights and has a clear idea what eternity should contain.\n\nEMOTIONAL ARC: Amused, sure, devoted, promising.",
+  "workbookAtAGlance": "Better Be a Porch Swing\n\nBackup titles\nTwo Chains, One Board / Quarter to Nine\n\nAt a glance\n78 BPM, G major\nVoice: Smooth male baritone\nLength: about 3 minutes 20",
+  "genre": "Country",
+  "year": 2017,
+  "qa": {
+    "title": "Better Be a Porch Swing",
+    "id": "pc_28",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.35 dBFS (2 clipped sample, inaudible)",
+          "tempo measured 106 BPM vs 78 target (~10% off)"
+        ],
+        "durationSec": 214.7,
+        "measuredBpm": 105.5,
+        "bpmFactor": 0.67,
+        "targetBpm": 78,
+        "bpmErrPct": 9.9,
+        "lufs": -13.4,
+        "peakDbfs": 0.35,
+        "clipSamples": 2,
+        "midGaps": [],
+        "endFadeSec": 3.2,
+        "contentEndSec": 212.8,
+        "vocalCoverage": 0.621,
+        "vocalSpanSec": [
+          16.4,
+          182.9
+        ],
+        "vocalF0MedianHz": 175,
+        "vocalF0P25Hz": 156,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 99 BPM vs 78 target (~15% off)"
+        ],
+        "durationSec": 214.5,
+        "measuredBpm": 99.4,
+        "bpmFactor": 0.67,
+        "targetBpm": 78,
+        "bpmErrPct": 15.1,
+        "lufs": -13.5,
+        "peakDbfs": -0.08,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 212.8,
+        "vocalCoverage": 0.61,
+        "vocalSpanSec": [
+          22.2,
+          188.7
+        ],
+        "vocalF0MedianHz": 175,
+        "vocalF0P25Hz": 156,
+        "lyricLineRecall": 0.844,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

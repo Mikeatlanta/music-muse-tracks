@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Better Be a Porch Swing",
+  "prompt": "[Intro: slow electric guitar, warm bass, finger snaps]\n\n[Verse 1: smooth male baritone, close]\nPreacher talked about the streets of gold\nMansions and a river, never growing old\nI was looking down the pew at you\nThinking, well, that's a lot to live up to\n\n[Chorus: silky harmonies, slow groove]\nThere better be a porch swing\nAnd you in my old shirt\nA little bit of rain coming, smell of the dirt\nIf it ain't got your feet up in my lap\nI don't know what they're selling in that\nGold's fine, wings are fine, harps and everything\nBut there better be a porch swing\n\n[Verse 2: baritone, organ underneath]\nI ain't saying I know better than the Book\nI'm just saying somebody ought to take a look\nAt a Tuesday evening, quarter to nine\n'Cause I've seen paradise, and it's been mine\n\n[Chorus: silky harmonies, slow groove]\nThere better be a porch swing\nAnd you in my old shirt\nA little bit of rain coming, smell of the dirt\nIf it ain't got your feet up in my lap\nI don't know what they're selling in that\nGold's fine, wings are fine, harps and everything\nBut there better be a porch swing\n\n[Bridge: guitar and voice]\nAnd if I get there first, I'll hang it myself\nTwo chains, one board\nAnd nobody else\n\n[Final Chorus: fullest, a high harmony on top]\nThere better be a porch swing\nAnd you in my old shirt\nA little bit of rain coming, smell of the dirt\nIf it ain't got your feet up in my lap\nI don't know what they're selling in that\nGold's fine, wings are fine, harps and everything\nBut there better be a porch swing\n\n[Outro: a swing chain creaking, crickets, guitar]",
+  "style": "2017 country slow jam with R&B warmth, low velvety relaxed male baritone vocal with a slight drawl sung softly behind the beat, stacked harmonies in the choruses with a high voice on top at the end, 78 BPM, G major, deep smooth and close, clean electric guitar with slow sliding phrases, round bass, finger snaps and soft kick, electric piano, quiet church organ, a little pedal steel, soft-edged intimate mix, romantic, wry, devoted",
+  "negativeTags": "female lead vocals, loud drums, banjo, fiddle, fast tempo, distorted guitar, rap, EDM synths",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "pc_16",
+  "title": "Go Fish",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 16,
+  "slug": "pc_16_go_fish",
+  "inspiredBy": "TEXAS HOLD 'EM (Beyonc\u00e9, 2024)",
+  "leadVoice": "Female, agile and teasing, sliding between singing and rhythmic speech, with stacked harmonies. A mixed group shouts the answers. The bridge is close and nearly whispered.",
+  "model": "V6",
+  "style": "2024 country-pop dance stomp, agile teasing female vocal sliding between singing and rhythmic speech with stacked harmonies, mixed group shouting call-and-response answers, nearly whispered bridge, 110 BPM, D major, bright bouncing stomp, plucked banjo riff, foot stomps and handclaps in place of a drum kit, whistled melody, upright bass, fiddle drones, acoustic guitar, deep kick in the choruses, dry percussive mix, playful, flirtatious, confident",
+  "negativeTags": "male lead vocals, pedal steel, rock guitars, slow ballad, trap hi-hats, orchestral strings, sad mood",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: banjo riff, foot stomps, whistled tune]\n\n[Verse 1: playful female voice, rhythmic]\nYou slid up to my table with a grin and a line\nAsking what I'm drinking, asking for my time\nHoney, I've been playing since before you could count\nYou want what I'm holding? Well, let's find out\n\n[Chorus: stomps, claps, group shouts]\nGot any hearts? (Go fish!)\nGot any diamonds? (Go fish!)\nGot any reason I should let you sit?\nHoney, I ain't mean, I'm just holding what I got\nYou can ask all night, I'm gonna tell you what\n(Go fish!)\n\n[Verse 2: playful, band fuller]\nLast one tried to bluff me with a borrowed truck\nOne before that thought he'd try his luck\nI got a full hand, baby, got my friends, got a band\nGot a dance floor waiting and a drink in my hand\n\n[Chorus: stomps, claps, group shouts]\nGot any hearts? (Go fish!)\nGot any diamonds? (Go fish!)\nGot any reason I should let you sit?\nHoney, I ain't mean, I'm just holding what I got\nYou can ask all night, I'm gonna tell you what\n(Go fish!)\n\n[Dance Break: whistle melody, banjo, called steps]\nStomp it out, two, three\nSpin it round, two, three\nHands up if you came with nobody\nAnd you're leaving just as free\n\n[Bridge: beat drops, close voice]\nNow if you want to pull a chair up and just talk\nNo game, no line, no clock\nI might have a card for you\n\n[Final Chorus: whole room, loudest]\nGot any manners? (Maybe!)\nGot any patience? (Maybe!)\nGot any reason I should let you sit?\nHoney, I ain't mean, I'm just holding what I got\nYou asked real nice, so I'll tell you what\n(Okay. One dance.)\n\n[Outro: banjo riff, whistle, stomps stop]",
+  "taskId": "0debef688d41abbb05a351c047019627",
+  "sunoClipIds": [
+    "0df658b4-63ae-4789-9947-d5a93aca3a6a",
+    "8a1f714b-bc49-4dd3-b138-89bc2820117a"
+  ],
+  "created": "Nov 16, 2026 12:09 PM ET",
+  "createTimeMs": 1794848958651,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0df658b4-63ae-4789-9947-d5a93aca3a6a",
+      "durationSec": 194.4,
+      "file": "popcountry/pc_16_go_fish_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "8a1f714b-bc49-4dd3-b138-89bc2820117a",
+      "durationSec": 194.76,
+      "file": "popcountry/pc_16_go_fish_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_16_go_fish_req.json",
+    "popcountry/pc_16_go_fish_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_16_go_fish.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 110 BPM, 4/4, D major. A bright, bouncing stomp, half barn dance and half club.\n\nVOICE: Female, agile and teasing, sliding between singing and rhythmic speech, with stacked harmonies. A mixed group shouts the answers. The bridge is close and nearly whispered.\n\nINSTRUMENTS: Plucked banjo riff, foot stomps and handclaps instead of a drum kit for most of the song, a whistled melody, upright bass, viola or fiddle drones, acoustic guitar, a deep kick only in the choruses.\n\nARRANGEMENT MAP: 0:00 Intro, banjo, stomps, whistle. 0:10 Verse 1. 0:32 Chorus 1. 0:56 Verse 2. 1:18 Chorus 2. 1:42 Dance break, whistle and called steps. 2:02 Bridge, beat out. 2:18 Final chorus with the changed answers. 2:44 Outro, ends on a stomp at 2:56.\n\nPRODUCTION & MIX: 2024 country-pop: acoustic and percussive, very little reverb, the crowd close, the low end modern.\n\nSIGNATURE MOMENT: The answer changing to '(Okay. One dance.)' at 2:40.\n\nMODERN POINT OF VIEW: The original invites everyone to the floor. This one is a woman in no hurry, on a full night out of her own, who can be won only by someone who stops performing.\n\nEMOTIONAL ARC: Amused, unimpressed, dancing, relenting a little.",
+  "workbookAtAGlance": "Go Fish\n\nBackup titles\nGot Any Hearts / One Dance\n\nAt a glance\n110 BPM, D major\nVoice: Playful female voice with group shouts\nLength: about 3 minutes",
+  "genre": "Country Pop",
+  "year": 2024,
+  "qa": {
+    "title": "Go Fish",
+    "id": "pc_16",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.4,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 110,
+        "bpmErrPct": 2.1,
+        "lufs": -13.7,
+        "peakDbfs": -0.15,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 192.5,
+        "vocalCoverage": 0.593,
+        "vocalSpanSec": [
+          2.5,
+          176.9
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 292,
+        "lyricLineRecall": 0.839,
+        "lyricUnclearSections": [
+          "Verse 1"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.8,
+        "measuredBpm": 110.0,
+        "bpmFactor": 1,
+        "targetBpm": 110,
+        "bpmErrPct": 0.0,
+        "lufs": -14.0,
+        "peakDbfs": -0.75,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 193.6,
+        "vocalCoverage": 0.582,
+        "vocalSpanSec": [
+          3.1,
+          193.6
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 248,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

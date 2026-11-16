@@ -1,0 +1,116 @@
+{
+  "id": "pc_03",
+  "title": "Split the Blame",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 3,
+  "slug": "pc_03_split_the_blame",
+  "inspiredBy": "I Had Some Help (Post Malone feat. Morgan Wallen, 2024)",
+  "leadVoice": "A duet. Male voice: easy, slightly nasal, amused. Female voice: clear, dry, quicker than he is. They take a verse each, swap the pre-choruses and sing the choruses together in close harmony. Three spoken lines at the end.",
+  "model": "V6",
+  "style": "2024 pop-country with a 1980s pop-rock shine, male and female duet trading verses and singing choruses in close harmony, easy amused male voice and clear dry female voice, 128 BPM, A major with a key change up for the last chorus, bright and fast, chiming clean electric guitar riff, driving live drums with big snare, picked bass, acoustic guitar, handclaps, pedal steel in the bridge, glossy wide mix, wry, good-humoured, warm",
+  "negativeTags": "rap, trap hi-hats, slow ballad, fiddle solo, heavy distortion, EDM drop, auto-tune, solo male only",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bright electric guitar riff, driving drums]\n\n[Verse 1: male voice, wry]\nYou got the couch and the good set of knives\nI got the dog every other July\nYou kept the friends who could cook, I kept the ones who drink\nWe even split the airline miles, I think\n\n[Pre-Chorus: female voice, wry]\nBut there's one thing left in the back of the van\nNeither one of us wants in our hand\n\n[Chorus: both voices, big guitars, handclaps]\nSo let's split the blame, right down the middle\nI'll take the big half, you take the little\nI wasn't a saint, you weren't a villain\nWe both held the match and we both did the spilling\nHalf's got your name and half's got my name\nCome on, baby, split the blame\n\n[Verse 2: female voice]\nYou shut down like a store on a Sunday\nI picked fights on a perfectly good Monday\nYou never said sorry, I said it too mean\nWe were both pretty awful, somewhere in between\n\n[Pre-Chorus: male voice]\nNow we're two rows back at her graduation\nSharing a program and a parking situation\n\n[Chorus: both voices, big guitars, handclaps]\nSo let's split the blame, right down the middle\nI'll take the big half, you take the little\nI wasn't a saint, you weren't a villain\nWe both held the match and we both did the spilling\nHalf's got your name and half's got my name\nCome on, baby, split the blame\n\n[Bridge: half-time, softer, voices trading]\nYou were a good dad. You were a good mom.\nWe made one good thing\nAnd she's walking across that lawn\n\n[Final Chorus: key up a step, both voices, loudest]\nSo let's split the blame, right down the middle\nI'll take the big half, you take the little\nI wasn't a saint, you weren't a villain\nWe both held the match and we both did the spilling\nHalf's got your name and half's got my name\nCome on, baby, split the blame\n\n[Outro: guitar riff, spoken over it]\nDinner after?\nYou're buying.\nSplit it.",
+  "taskId": "1d4f75d629fd81e01c90f6c10ce7513b",
+  "sunoClipIds": [
+    "63d57cb6-7fcc-4454-860d-efff0f558275",
+    "3d441a09-0474-4656-a254-28a2679f2648"
+  ],
+  "created": "Nov 16, 2026 12:08 PM ET",
+  "createTimeMs": 1794848907386,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "63d57cb6-7fcc-4454-860d-efff0f558275",
+      "durationSec": 208.6,
+      "file": "popcountry/pc_03_split_the_blame_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "3d441a09-0474-4656-a254-28a2679f2648",
+      "durationSec": 209.16,
+      "file": "popcountry/pc_03_split_the_blame_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_03_split_the_blame_req.json",
+    "popcountry/pc_03_split_the_blame_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_03_split_the_blame.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 128 BPM, 4/4, A major, rising to B major for the last chorus. Bright, fast and good-humoured, like an argument both people are enjoying.\n\nVOICE: A duet. Male voice: easy, slightly nasal, amused. Female voice: clear, dry, quicker than he is. They take a verse each, swap the pre-choruses and sing the choruses together in close harmony. Three spoken lines at the end.\n\nINSTRUMENTS: A clean, chiming electric guitar riff, driving live drums with a big snare, picked bass, strummed acoustic guitar, handclaps in the chorus, a bright synth pad low in the mix, pedal steel answering in the bridge.\n\nARRANGEMENT MAP: 0:00 Intro riff. 0:08 Verse 1, him. 0:30 Pre-chorus, her. 0:38 Chorus 1. 1:02 Verse 2, her. 1:24 Pre-chorus, him. 1:32 Chorus 2. 1:56 Bridge, half-time. 2:16 Final chorus, key up. 2:44 Outro riff with three spoken lines, ends 3:12.\n\nPRODUCTION & MIX: 2024 pop-country with a 1980s pop-rock shine: glossy, wide, punchy drums, both voices equally loud.\n\nSIGNATURE MOMENT: The bridge at 1:56, when the joking stops for three lines.\n\nMODERN POINT OF VIEW: The original is two young men sharing out the blame for a fresh break-up. This is years later, between the two people involved, with a grown child in view and nothing left to win.\n\nEMOTIONAL ARC: Sparring, owning up, one sincere moment, easy company.",
+  "workbookAtAGlance": "Split the Blame\n\nBackup titles\nRight Down the Middle / Half's Got My Name\n\nAt a glance\n128 BPM, A major\nVoice: Male and female duet, wry\nLength: about 3 minutes 15",
+  "genre": "Country Pop",
+  "year": 2024,
+  "qa": {
+    "title": "Split the Blame",
+    "id": "pc_03",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 208.6,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 128,
+        "bpmErrPct": 0.9,
+        "lufs": -13.6,
+        "peakDbfs": -0.95,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 206.2,
+        "vocalCoverage": 0.665,
+        "vocalSpanSec": [
+          12.2,
+          187.4
+        ],
+        "vocalF0MedianHz": 221,
+        "vocalF0P25Hz": 186,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.67 dBFS (4 clipped sample, inaudible)"
+        ],
+        "durationSec": 209.2,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 128,
+        "bpmErrPct": 0.9,
+        "lufs": -13.5,
+        "peakDbfs": 0.67,
+        "clipSamples": 4,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 208.0,
+        "vocalCoverage": 0.676,
+        "vocalSpanSec": [
+          7.1,
+          198.7
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

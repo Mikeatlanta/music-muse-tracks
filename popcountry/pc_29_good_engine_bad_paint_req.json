@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Good Engine, Bad Paint",
+  "prompt": "[Intro: muted guitar groove, finger snaps, organ]\n\n[Verse 1: smoky female alto, relaxed]\nThere's a dent from the year that the money ran dry\nThere's rust where we stopped saying good night\nThe radio only gets one station now\nAnd honey, we're still getting around somehow\n\n[Chorus: soulful, full band, stacked harmonies]\nWe got a good engine and bad paint\nWe're a little bit of is and a lot of ain't\nDon't have to shine to make it up the hill\nShe turned over this morning and she always will\nCall us what you want, baby, call us late\nGood engine, bad paint\n\n[Verse 2: alto, bass walking]\nThem shiny ones are stranded on the shoulder half the time\nAll chrome and payments, nothing underneath the shine\nWe got two hundred thousand, got duct tape on the seat\nAnd I'd still pick you to carry me\n\n[Chorus: soulful, full band, stacked harmonies]\nWe got a good engine and bad paint\nWe're a little bit of is and a lot of ain't\nDon't have to shine to make it up the hill\nShe turned over this morning and she always will\nCall us what you want, baby, call us late\nGood engine, bad paint\n\n[Bridge: half-time, organ swell]\nAnybody can love a thing that's new\nTakes a long time to love a thing\nLike I love you\n\n[Final Chorus: biggest, ad-libs over the top]\nWe got a good engine and bad paint\nWe're a little bit of is and a lot of ain't\nDon't have to shine to make it up the hill\nShe turned over this morning and she always will\nCall us what you want, baby, call us late\nGood engine, bad paint\n\n[Outro: groove, an old engine turning over and catching]",
+  "style": "2019 pop-soul country, smoky unhurried female alto vocal with soul phrasing leaning back on the beat, stacked self-harmonies, ad-libs over the last chorus, 77 BPM, G major, slow confident sway with a soul backbeat, muted rhythmic electric guitar figure, finger snaps and deep kick, round bass, Hammond organ, acoustic guitar, restrained slide guitar, handclaps, half-time bridge, tight warm bass-heavy mix, wry, loyal, soulful",
+  "negativeTags": "male lead vocals, banjo, fiddle, fast tempo, rock distortion, trap hi-hats, EDM synths, sad ballad",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "callBackUrl": "https://example.com/cb"
+}

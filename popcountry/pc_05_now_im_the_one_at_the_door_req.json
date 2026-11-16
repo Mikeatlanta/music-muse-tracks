@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Now I'm the One at the Door",
+  "prompt": "[Intro: bright banjo and mandolin figure]\n\n[Verse 1: warm male voice, storytelling]\nI was seventeen, gravel in my shoes\nStanding in her yard with nothing to lose\nHer daddy on the steps with his arms crossed tight\nSaid, \"Son, I don't think so. Not tonight.\"\n\n[Pre-Chorus: drums build]\nI threw rocks at her window, I learned to climb\nI wore that old man down one Sunday at a time\n\n[Chorus: full band, soaring]\nAnd she said yes, on a dirt road, in the rain\nAnd her daddy shook my hand and he called me by my name\nI swore I'd never be the man on that porch\nFunny how the story goes\nNow I'm the one at the door\n\n[Verse 2: voice lower, amused]\nThere's a truck in my drive with a muffler like a drum\nA boy in a clean shirt, chewing on his thumb\nAnd my little girl's upstairs, taking her time\nAnd every word her granddad said is lining up in mine\n\n[Pre-Chorus: drums build]\nI got my arms crossed tight, I got the look down cold\nThen I see my own knees shaking, seventeen years old\n\n[Chorus: full band, soaring]\n'Cause she said yes, on a dirt road, in the rain\nAnd her daddy shook my hand and he called me by my name\nI swore I'd never be the man on that porch\nFunny how the story goes\nNow I'm the one at the door\n\n[Bridge: band drops to banjo, tender]\nSo I walk down the steps and I look him in the eye\nI say, \"Have her home by ten.\"\nHe says, \"Yes, sir.\" I say, \"Nine.\"\n\n[Final Chorus: key change up, full band and strings]\nAnd someday she'll say yes, on some road, in some rain\nAnd I'll shake that boy's hand and I'll call him by his name\nI swore I'd never be the man on that porch\nLord, I love how the story goes\nNow I'm the one at the door\n\n[Outro: banjo figure, a truck pulling away, spoken]\nNine-thirty's fine.",
+  "style": "2008 pop-country story song, warm clear male tenor vocal telling a story with a smile, fuller and higher in the choruses, spoken comic lines in the bridge, 119 BPM, D major with a key change up for the final chorus, bright galloping feel, banjo and mandolin figure, acoustic guitar, fiddle, bright electric guitar, driving live drums, string section in the last chorus, shiny wide mix, nostalgic, proud, tender, funny",
+  "negativeTags": "female lead vocals, rap, trap hi-hats, EDM synths, slow tempo, heavy distortion, dark mood, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

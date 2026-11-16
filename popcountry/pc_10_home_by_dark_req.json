@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Home by Dark",
+  "prompt": "[Intro: fiddle tune over strummed acoustic guitar]\n\n[Verse 1: easy male tenor, storytelling]\nLeft Flagstaff at sunup with a thermos and a prayer\nMama's turning eighty and I swore that I'd be there\nGot a card in the glovebox and a pie I didn't bake\nAnd twelve hundred miles of interstate\n\n[Chorus: group harmonies, banjo rolling, singalong]\nSo get me home by dark\nWhere the gravel meets the yard\nWhere the screen door slaps and the supper's on\nAnd somebody's always playing cards\nRoll on, wheels, roll on, heart\nGet me home by dark\n\n[Verse 2: tenor, band driving]\nGallup for coffee, Tucumcari for gas\nA fella in Shamrock said, \"Son, you're driving fast\"\nI said, \"Sir, I've been gone since I was twenty-two\nYou'd be speeding, too\"\n\n[Chorus: group harmonies, banjo rolling, singalong]\nSo get me home by dark\nWhere the gravel meets the yard\nWhere the screen door slaps and the supper's on\nAnd somebody's always playing cards\nRoll on, wheels, roll on, heart\nGet me home by dark\n\n[Fiddle Solo: fast and joyful, band clapping]\n\n[Verse 3: softer, guitar only at first]\nCrossed the river at sundown, gold from side to side\nPhoned to say I'm an hour out, and Mama nearly cried\nShe said, \"Plate's in the oven and the kettle's on\"\nI said, \"Don't blow the candles out. I won't be long.\"\n\n[Final Chorus: a cappella first, then full band]\nSo get me home by dark\nWhere the gravel meets the yard\nWhere the screen door slaps and the supper's on\nAnd somebody's always playing cards\nRoll on, wheels, roll on, heart\nGet me home by dark\n\n[Outro: fiddle, a screen door slap, spoken]\nThere he is.",
+  "style": "Acoustic string-band country singalong, relaxed open male tenor vocal with a smile, loose three-part group harmonies of men and women on every chorus, a cappella start to the last chorus, 148 BPM felt in two, A major, rolling easy gallop, fiddle tune, rolling five-string banjo, strummed acoustic guitars, upright bass, brushes and kick drum, mandolin chops, handclaps, fast joyful fiddle solo, warm acoustic room sound, homesick, hopeful, communal",
+  "negativeTags": "female lead vocals, electric guitar distortion, synths, drum machine, rap, auto-tune, slow ballad, dark mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

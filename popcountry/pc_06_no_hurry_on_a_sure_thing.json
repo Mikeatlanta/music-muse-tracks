@@ -1,0 +1,114 @@
+{
+  "id": "pc_06",
+  "title": "No Hurry on a Sure Thing",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 6,
+  "slug": "pc_06_no_hurry_on_a_sure_thing",
+  "inspiredBy": "Meant to Be (Bebe Rexha & Florida Georgia Line, 2017)",
+  "leadVoice": "A duet. Female voice leads: warm, slightly husky, conversational. Male voice: soft country tenor with a little drawl. They trade verses and pre-choruses and sing the choruses in harmony. Three spoken words at the end.",
+  "model": "V6",
+  "style": "2017 pop-country crossover, female and male duet, warm slightly husky female lead and soft drawling male tenor trading verses and harmonising on choruses, 77 BPM, B-flat major, relaxed bright head-nod groove, bright piano chords, finger snaps and handclaps, light programmed beat, acoustic guitar, warm bass, slide guitar answers, clean glossy mix, piano-only bridge, spoken ending, reassuring, grown-up, affectionate",
+  "negativeTags": "rap verses, heavy drums, distorted guitar, EDM drop, fast tempo, belting, fiddle solo, dark mood",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bright piano chords, finger snaps]\n\n[Verse 1: female voice, easy and warm]\nFirst time around I ran every light\nRing by the spring, baby by July\nThought love was a train you catch at a run\nMissed a lot of scenery. Wasn't much fun.\n\n[Pre-Chorus: male voice, gentle]\nSo if I'm slow to hold your hand in town\nIt ain't doubt, girl. I'm just looking around.\n\n[Chorus: both voices, claps and a light beat]\nThere's no hurry on a sure thing\nNo clock on a good night\nWe can take the long road, the slow dance, the porch side\nIf it's real today, it's real in the spring\nNo hurry on a sure thing\n\n[Verse 2: male voice]\nYour kids are still deciding if they like my jokes\nMy dog's already yours, he's the easiest of folks\nWe both got a drawer full of used-to-be\nYou don't have to empty yours to make room for me\n\n[Pre-Chorus: female voice]\nSo if I don't say the big word yet\nIt's coming. It's just not out of breath.\n\n[Chorus: both voices, claps and a light beat]\nThere's no hurry on a sure thing\nNo clock on a good night\nWe can take the long road, the slow dance, the porch side\nIf it's real today, it's real in the spring\nNo hurry on a sure thing\n\n[Bridge: piano only, voices trading lines]\nTwenty-five was all gas\nForty-five's got brakes\nAnd a much better view of what it takes\n\n[Final Chorus: fullest, harmonies stacked]\nThere's no hurry on a sure thing\nNo clock on a good night\nWe can take the long road, the slow dance, the porch side\nIf it's real today, it's real in the spring\nNo hurry on a sure thing\n\n[Outro: piano, spoken, smiling]\nNo hurry.\nNone.\nOkay. A little.",
+  "taskId": "b8e9a494f7f4b56c8e92617d3820d9f0",
+  "sunoClipIds": [
+    "0281b541-c623-45fe-809b-a44b198e0a18",
+    "d28c9cdb-9dcd-448f-9c9f-53e385d578b3"
+  ],
+  "created": "Nov 16, 2026 12:08 PM ET",
+  "createTimeMs": 1794848910407,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0281b541-c623-45fe-809b-a44b198e0a18",
+      "durationSec": 209.56,
+      "file": "popcountry/pc_06_no_hurry_on_a_sure_thing_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d28c9cdb-9dcd-448f-9c9f-53e385d578b3",
+      "durationSec": 208.72,
+      "file": "popcountry/pc_06_no_hurry_on_a_sure_thing_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_06_no_hurry_on_a_sure_thing_req.json",
+    "popcountry/pc_06_no_hurry_on_a_sure_thing_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_06_no_hurry_on_a_sure_thing.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 77 BPM, 4/4, B-flat major. Relaxed and bright, a slow head-nod.\n\nVOICE: A duet. Female voice leads: warm, slightly husky, conversational. Male voice: soft country tenor with a little drawl. They trade verses and pre-choruses and sing the choruses in harmony. Three spoken words at the end.\n\nINSTRUMENTS: Bright piano chords, finger snaps and handclaps, a light programmed beat with a soft kick, acoustic guitar, a warm bass, a little slide guitar answering in the choruses.\n\nARRANGEMENT MAP: 0:00 Intro piano. 0:10 Verse 1, her. 0:35 Pre-chorus, him. 0:47 Chorus 1. 1:12 Verse 2, him. 1:37 Pre-chorus, her. 1:49 Chorus 2. 2:14 Bridge, piano only. 2:32 Final chorus. 2:58 Outro, three spoken lines, ends 3:12.\n\nPRODUCTION & MIX: 2017 pop-country crossover: clean, glossy, vocals forward, low end soft and round.\n\nSIGNATURE MOMENT: 'Forty-five's got brakes' in the bridge at 2:20.\n\nMODERN POINT OF VIEW: The original calms a young couple who do not know where it is going. These two know exactly how it can go wrong, and choose slowness as a pleasure.\n\nEMOTIONAL ARC: Wary, reassured, amused, quietly sure.",
+  "workbookAtAGlance": "No Hurry on a Sure Thing\n\nBackup titles\nForty-Five's Got Brakes / A Little Hurry\n\nAt a glance\n77 BPM, B-flat major\nVoice: Female and male duet, easy and warm\nLength: about 3 minutes 15",
+  "genre": "Country Pop",
+  "year": 2017,
+  "qa": {
+    "title": "No Hurry on a Sure Thing",
+    "id": "pc_06",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 209.6,
+        "measuredBpm": 77.1,
+        "bpmFactor": 1,
+        "targetBpm": 77,
+        "bpmErrPct": 0.2,
+        "lufs": -14.9,
+        "peakDbfs": -0.24,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 207.0,
+        "vocalCoverage": 0.59,
+        "vocalSpanSec": [
+          13.1,
+          194.5
+        ],
+        "vocalF0MedianHz": 261,
+        "vocalF0P25Hz": 231,
+        "lyricLineRecall": 0.935,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 208.7,
+        "measuredBpm": 77.4,
+        "bpmFactor": 1,
+        "targetBpm": 77,
+        "bpmErrPct": 0.5,
+        "lufs": -14.7,
+        "peakDbfs": -0.41,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 205.8,
+        "vocalCoverage": 0.606,
+        "vocalSpanSec": [
+          12.9,
+          193.7
+        ],
+        "vocalF0MedianHz": 235,
+        "vocalF0P25Hz": 231,
+        "lyricLineRecall": 0.935,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

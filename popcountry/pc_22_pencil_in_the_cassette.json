@@ -1,0 +1,118 @@
+{
+  "id": "pc_22",
+  "title": "Pencil in the Cassette",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 22,
+  "slug": "pc_22_pencil_in_the_cassette",
+  "inspiredBy": "Springsteen (Eric Church, 2012)",
+  "leadVoice": "Male baritone, a little rough, fond and unhurried. He lifts into a stronger voice for the chorus. A crowd joins the wordless chant after each chorus.",
+  "model": "V6",
+  "style": "Early-2010s country with a 1980s heartland-rock frame, slightly rough fond unhurried male baritone vocal lifting in the chorus, crowd wordless whoa-oh chant after each chorus, 104 BPM, D major, steady open bittersweet drive, chiming delayed electric guitar, Hammond organ, acoustic guitar, four-on-the-floor kick with simple snare, bass, glockenspiel in the chorus, tape hiss, wide warm mix, nostalgic, wistful, kind",
+  "negativeTags": "female lead vocals, trap hi-hats, rap, banjo, fiddle, EDM synths, auto-tune, harsh distortion",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: chiming guitar, organ pad, steady kick]\n\n[Verse 1: nostalgic male baritone]\nFound a shoebox in the attic under thirty years of dust\nYour handwriting on the label, little hearts for dots\nSide A says \"slow ones,\" Side B says \"for driving\"\nI ain't owned a tape deck since the nineties\n\n[Pre-Chorus: drums build]\nBought one at a yard sale for a dollar and a half\nPushed play and the ribbon came out like a laugh\n\n[Chorus: big, open, singalong]\nSo I put a pencil in the cassette\nWound us back to seventeen\nYour bare feet on the dashboard\nMy whole life in a tank of gasoline\nFunny what a little plastic wheel can do\nPencil in the cassette, and I'm back with you\n(Whoa-oh, whoa-oh, back with you)\n\n[Verse 2: baritone, band rolling]\nYou taped it off the radio, the DJ's talking through\nThe first eight seconds of every song. I loved that about you.\nThere's a dog bark in the background, your mama calling \"phone\"\nThree minutes of July that I get to take home\n\n[Chorus: big, open, singalong]\nSo I put a pencil in the cassette\nWound us back to seventeen\nYour bare feet on the dashboard\nMy whole life in a tank of gasoline\nFunny what a little plastic wheel can do\nPencil in the cassette, and I'm back with you\n(Whoa-oh, whoa-oh, back with you)\n\n[Bridge: half-time, organ and voice]\nI don't know where you landed. I hope it's somewhere kind.\nI hope somebody keeps your songs in order, like you'd like.\n\n[Final Chorus: full band, crowd on the chant]\nSo I put a pencil in the cassette\nWound us back to seventeen\nYour bare feet on the dashboard\nMy whole life in a tank of gasoline\nFunny what a little plastic wheel can do\nPencil in the cassette, and I'm back with you\n(Whoa-oh, whoa-oh, back with you)\n\n[Outro: tape hiss, a click, the deck stops]",
+  "taskId": "b19fbefd08c49b1cf24e1ba8de9d75d0",
+  "sunoClipIds": [
+    "dabc8230-492a-4b73-92f5-c25cc23fab19",
+    "c0404b47-2304-4ec5-9b6a-bd0fe60b4b83"
+  ],
+  "created": "Nov 16, 2026 12:09 PM ET",
+  "createTimeMs": 1794848978910,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "dabc8230-492a-4b73-92f5-c25cc23fab19",
+      "durationSec": 233.88,
+      "file": "popcountry/pc_22_pencil_in_the_cassette_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c0404b47-2304-4ec5-9b6a-bd0fe60b4b83",
+      "durationSec": 234.12,
+      "file": "popcountry/pc_22_pencil_in_the_cassette_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_22_pencil_in_the_cassette_req.json",
+    "popcountry/pc_22_pencil_in_the_cassette_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_22_pencil_in_the_cassette.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, D major. Steady, open and bittersweet, like driving at dusk.\n\nVOICE: Male baritone, a little rough, fond and unhurried. He lifts into a stronger voice for the chorus. A crowd joins the wordless chant after each chorus.\n\nINSTRUMENTS: Chiming electric guitar with a little delay, Hammond organ, strummed acoustic guitar, steady four-on-the-floor kick with a simple snare, bass, glockenspiel doubling the guitar in the chorus, tape hiss and a deck click at the end.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and organ. 0:14 Verse 1. 0:42 Pre-chorus. 0:52 Chorus 1 and chant. 1:26 Verse 2. 1:54 Chorus 2 and chant. 2:28 Bridge, half-time. 2:48 Final chorus. 3:22 Outro, tape hiss, the click at 3:36.\n\nPRODUCTION & MIX: Early-2010s country with a 1980s heartland-rock frame: wide, warm, reverb on the snare, organ glowing.\n\nSIGNATURE MOMENT: The first crowd chant at 1:14.\n\nMODERN POINT OF VIEW: The original remembers a summer through a singer. This one holds the actual object: her handwriting, her mother's voice in the background, a ribbon he has to repair by hand.\n\nEMOTIONAL ARC: Finding, rewinding, back there, letting her go kindly.",
+  "workbookAtAGlance": "Pencil in the Cassette\n\nBackup titles\nSide B: For Driving / Three Minutes of July\n\nAt a glance\n104 BPM, D major\nVoice: Nostalgic male baritone\nLength: about 3 minutes 40",
+  "genre": "Country",
+  "year": 2012,
+  "qa": {
+    "title": "Pencil in the Cassette",
+    "id": "pc_22",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.65 dBFS (3 clipped sample, inaudible)"
+        ],
+        "durationSec": 233.9,
+        "measuredBpm": 106.6,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 2.5,
+        "lufs": -13.5,
+        "peakDbfs": 0.65,
+        "clipSamples": 3,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 233.8,
+        "vocalCoverage": 0.764,
+        "vocalSpanSec": [
+          4.3,
+          232.1
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 186,
+        "lyricLineRecall": 0.848,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)"
+        ],
+        "durationSec": 234.1,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 3.5,
+        "lufs": -13.4,
+        "peakDbfs": -0.11,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 234.1,
+        "vocalCoverage": 0.697,
+        "vocalSpanSec": [
+          6.4,
+          234.2
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 186,
+        "lyricLineRecall": 0.97,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

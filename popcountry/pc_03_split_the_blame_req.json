@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Split the Blame",
+  "prompt": "[Intro: bright electric guitar riff, driving drums]\n\n[Verse 1: male voice, wry]\nYou got the couch and the good set of knives\nI got the dog every other July\nYou kept the friends who could cook, I kept the ones who drink\nWe even split the airline miles, I think\n\n[Pre-Chorus: female voice, wry]\nBut there's one thing left in the back of the van\nNeither one of us wants in our hand\n\n[Chorus: both voices, big guitars, handclaps]\nSo let's split the blame, right down the middle\nI'll take the big half, you take the little\nI wasn't a saint, you weren't a villain\nWe both held the match and we both did the spilling\nHalf's got your name and half's got my name\nCome on, baby, split the blame\n\n[Verse 2: female voice]\nYou shut down like a store on a Sunday\nI picked fights on a perfectly good Monday\nYou never said sorry, I said it too mean\nWe were both pretty awful, somewhere in between\n\n[Pre-Chorus: male voice]\nNow we're two rows back at her graduation\nSharing a program and a parking situation\n\n[Chorus: both voices, big guitars, handclaps]\nSo let's split the blame, right down the middle\nI'll take the big half, you take the little\nI wasn't a saint, you weren't a villain\nWe both held the match and we both did the spilling\nHalf's got your name and half's got my name\nCome on, baby, split the blame\n\n[Bridge: half-time, softer, voices trading]\nYou were a good dad. You were a good mom.\nWe made one good thing\nAnd she's walking across that lawn\n\n[Final Chorus: key up a step, both voices, loudest]\nSo let's split the blame, right down the middle\nI'll take the big half, you take the little\nI wasn't a saint, you weren't a villain\nWe both held the match and we both did the spilling\nHalf's got your name and half's got my name\nCome on, baby, split the blame\n\n[Outro: guitar riff, spoken over it]\nDinner after?\nYou're buying.\nSplit it.",
+  "style": "2024 pop-country with a 1980s pop-rock shine, male and female duet trading verses and singing choruses in close harmony, easy amused male voice and clear dry female voice, 128 BPM, A major with a key change up for the last chorus, bright and fast, chiming clean electric guitar riff, driving live drums with big snare, picked bass, acoustic guitar, handclaps, pedal steel in the bridge, glossy wide mix, wry, good-humoured, warm",
+  "negativeTags": "rap, trap hi-hats, slow ballad, fiddle solo, heavy distortion, EDM drop, auto-tune, solo male only",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "callBackUrl": "https://example.com/cb"
+}

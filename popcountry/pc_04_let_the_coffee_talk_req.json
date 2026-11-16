@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Let the Coffee Talk",
+  "prompt": "[Intro: looping acoustic guitar figure, soft kick]\n\n[Verse 1: conversational male voice, close mic]\nYeah, I slept on the couch with the dog and the game on\nYou slept in the bed with the door shut and the fan on\nI don't even know what it started about\nSomething 'bout your sister, something out of my mouth\n\n[Chorus: melodic, hi-hats in, voice doubled]\nSo this morning let's let the coffee talk\nTwo cups, no phones, back steps, no clock\nYou don't have to start, I don't have to win\nJust pour it and pass it and lean on in\nWe both said plenty when the lights were off\nThis morning let the coffee talk\n\n[Verse 2: same easy delivery]\nTwenty-two years and I still do that thing\nWhere I go real quiet and I twist my ring\nAnd you still do yours, where you clean the whole house\nLoud as you can, till I figure it out\n\n[Chorus: melodic, hi-hats in, voice doubled]\nSo this morning let's let the coffee talk\nTwo cups, no phones, back steps, no clock\nYou don't have to start, I don't have to win\nJust pour it and pass it and lean on in\nWe both said plenty when the lights were off\nThis morning let the coffee talk\n\n[Bridge: beat drops, guitar only]\nSugar for you, black for me\nSorry tastes better at six-fifteen\n\n[Final Chorus: full beat, a harmony above]\nSo this morning let's let the coffee talk\nTwo cups, no phones, back steps, no clock\nYou don't have to start, I don't have to win\nJust pour it and pass it and lean on in\nWe both said plenty when the lights were off\nThis morning let the coffee talk\n\n[Outro: guitar loop, a spoon on a mug, spoken]\nIt was about your sister.",
+  "style": "2023 country-pop with soft trap drums, conversational mid-range male vocal with a Southern drawl, nearly spoken verses and lightly sung chorus doubled an octave up, 102 BPM, F# major, easy circling groove, fingerpicked acoustic guitar loop throughout, soft kick, quiet hi-hats, finger snaps, warm sub bass, distant pedal steel, close dry intimate mix, short song, guitar-only bridge, spoken ending, rueful, affectionate, low-key",
+  "negativeTags": "female lead vocals, belting, electric guitar solo, big live drums, fiddle, EDM synths, slow ballad, choir",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "pc_01",
+  "title": "Zero-Turn Cowboy",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 1,
+  "slug": "pc_01_zero_turn_cowboy",
+  "inspiredBy": "Old Town Road (Lil Nas X feat. Billy Ray Cyrus, 2019)",
+  "leadVoice": "Male baritone, deep, flat and deadpan, half-sung and half-rapped. Verse 2 is an older male guest with a gravelly, weathered voice who plays it straight. A woman's voice calls from a distance in the bridge.",
+  "model": "V6",
+  "style": "2019 country trap, deep flat deadpan male baritone vocal half-sung half-rapped, gravelly weathered older male guest on the second verse, 68 BPM with double-time hi-hats, G# minor, slow heavy swagger, plucked banjo loop, booming 808 sub bass, crisp trap hi-hats and snare, whistled answer line, dry close vocal, hook first, very short song, comic, deadpan, proud",
+  "negativeTags": "female lead vocals, pedal steel, fiddle, rock guitars, live drum kit, orchestral strings, fast tempo, belting",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 145,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: banjo loop, a mower engine starts, low hum]\n\n[Chorus: deep deadpan baritone, banjo and 808]\nYeah, I'm gonna ride my zero-turn\nDown to the end of the cul-de-sac\nGot a cupholder full of sweet iced tea\nAnd I ain't never coming back\n(Till lunch)\n\n[Verse 1: half-rapped, trap hi-hats, banjo]\nGot my cargo shorts and my grass-stain shoes\nSunscreen on my neck, I got nothing to lose\nNeighborhood board says my edges ain't straight\nFour miles an hour, they can wait\n\n[Chorus: deep deadpan baritone, banjo and 808]\nYeah, I'm gonna ride my zero-turn\nDown to the end of the cul-de-sac\nGot a cupholder full of sweet iced tea\nAnd I ain't never coming back\n(Till lunch)\n\n[Verse 2: gravelly older guest voice, played straight]\nMortgage paid off, son, that's my kind of flex\nGrill so big it's got its own address\nKids think I'm corny, wife thinks I'm fine\nFella next door's got five horsepower, I got nine\n\n[Bridge: beat drops out, banjo and whistle]\nAin't a soul alive can slow me down\n(Honey! Lunch!)\nOkay. Slowing down.\n\n[Final Chorus: both voices, full beat]\nYeah, I'm gonna ride my zero-turn\nDown to the end of the cul-de-sac\nGot a cupholder full of sweet iced tea\nAnd I ain't never coming back\n(Till lunch)\n\n[Outro: banjo loop, engine sputters and stops, spoken]\nOut of gas.",
+  "taskId": "a48ac615abfca8d1eab28133137e6826",
+  "sunoClipIds": [
+    "39103467-f76d-4cd6-a45b-0c07d432a6c9",
+    "87d359fc-ed5e-4f88-8971-b10e6b0503c9"
+  ],
+  "created": "Nov 16, 2026 12:07 PM ET",
+  "createTimeMs": 1794848879684,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "39103467-f76d-4cd6-a45b-0c07d432a6c9",
+      "durationSec": 145.0,
+      "file": "popcountry/pc_01_zero_turn_cowboy_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "87d359fc-ed5e-4f88-8971-b10e6b0503c9",
+      "durationSec": 144.8,
+      "file": "popcountry/pc_01_zero_turn_cowboy_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_01_zero_turn_cowboy_req.json",
+    "popcountry/pc_01_zero_turn_cowboy_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_01_zero_turn_cowboy.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 68 BPM with double-time hi-hats, 4/4, G# minor. A slow, heavy swagger, completely serious about something small.\n\nVOICE: Male baritone, deep, flat and deadpan, half-sung and half-rapped. Verse 2 is an older male guest with a gravelly, weathered voice who plays it straight. A woman's voice calls from a distance in the bridge.\n\nINSTRUMENTS: A plucked banjo loop, booming 808 bass, crisp trap hi-hats and snare, a whistled answer line, a riding-mower engine at the start and end.\n\nARRANGEMENT MAP: 0:00 Intro, banjo and engine. 0:08 Chorus 1. 0:30 Verse 1. 0:50 Chorus 2. 1:12 Verse 2, guest. 1:32 Bridge, beat out, the call to lunch. 1:44 Final chorus, both voices. 2:04 Outro, engine stops, two spoken words at 2:08.\n\nPRODUCTION & MIX: 2019 country trap: dry banjo up front, huge clean sub bass, voice close and untreated apart from light doubling on the hook.\n\nSIGNATURE MOMENT: The small '(Till lunch)' after the first chorus at 0:27.\n\nMODERN POINT OF VIEW: The original is a young man's fantasy of freedom. This is what the fantasy looks like at fifty: the horse is a mower, the range is a cul-de-sac, and he is glad to be called home.\n\nEMOTIONAL ARC: Swagger, more swagger, called in, content.",
+  "workbookAtAGlance": "Zero-Turn Cowboy\n\nBackup titles\nCul-de-Sac Outlaw / Back by Lunch\n\nAt a glance\n68 BPM, G# minor\nVoice: Deep deadpan male baritone, with a gravelly older guest\nLength: about 2 minutes 10",
+  "genre": "Country Trap",
+  "year": 2019,
+  "qa": {
+    "title": "Zero-Turn Cowboy",
+    "id": "pc_01",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 145.0,
+        "measuredBpm": 66.3,
+        "bpmFactor": 1,
+        "targetBpm": 68,
+        "bpmErrPct": 2.6,
+        "lufs": -12.4,
+        "peakDbfs": -0.3,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 144.5,
+        "vocalCoverage": 0.547,
+        "vocalSpanSec": [
+          6.0,
+          143.9
+        ],
+        "vocalF0MedianHz": 138,
+        "vocalF0P25Hz": 123,
+        "lyricLineRecall": 0.913,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 144.8,
+        "measuredBpm": 67.6,
+        "bpmFactor": 1,
+        "targetBpm": 68,
+        "bpmErrPct": 0.7,
+        "lufs": -14.0,
+        "peakDbfs": -0.21,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.5,
+        "contentEndSec": 144.2,
+        "vocalCoverage": 0.568,
+        "vocalSpanSec": [
+          9.5,
+          143.9
+        ],
+        "vocalF0MedianHz": 138,
+        "vocalF0P25Hz": 123,
+        "lyricLineRecall": 0.957,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "pc_11",
+  "title": "Colorado Got My Girl",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 11,
+  "slug": "pc_11_colorado_got_my_girl",
+  "inspiredBy": "Choosin' Texas (Ella Langley, 2025)",
+  "leadVoice": "Female alto, plain, warm and dry-humoured, with a Southern drawl. She sings like she is talking over a kitchen counter. A close harmony joins in the choruses. She reads a text message aloud at the end.",
+  "model": "V6",
+  "style": "1990s-style traditional country two-step with modern clarity, plain warm dry-humoured female alto vocal with a Southern drawl, conversational delivery, close harmony in the choruses, 120 BPM shuffle, E major, dance-hall sway, pedal steel guitar lead, fiddle, twangy electric guitar, acoustic rhythm guitar, walking bass, brushed shuffle drums, honky-tonk piano, natural band mix, wistful, proud, tender",
+  "negativeTags": "male lead vocals, trap hi-hats, synths, rap, rock distortion, auto-tune, EDM, belting",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: crying steel guitar, two-step shuffle]\n\n[Verse 1: female alto, conversational drawl]\nShe came home from a ski trip with a look I'd seen before\nOn my own face in a mirror, nineteen eighty-four\nKept saying \"the air out there,\" kept saying \"you should see\"\nI knew right then that I'd been beat by geography\n\n[Chorus: full band, steel and fiddle, harmony]\nColorado got my girl\nGot her boots, got her dog, got her whole wide world\nI raised her on red dirt and sweet iced tea\nBut the Rockies sang a little louder than me\nI ain't mad, I'm just short one pearl\nColorado got my girl\n\n[Verse 2: alto, band easy behind her]\nWe loaded up the trailer in a pouring rain\nHer daddy checked the tires three times, then checked again\nShe hugged me in the driveway, said, \"Mama, please don't cry\"\nI said, \"Baby, this is allergies,\" and looked up at the sky\n\n[Chorus: full band, steel and fiddle, harmony]\nColorado got my girl\nGot her boots, got her dog, got her whole wide world\nI raised her on red dirt and sweet iced tea\nBut the Rockies sang a little louder than me\nI ain't mad, I'm just short one pearl\nColorado got my girl\n\n[Bridge: steel guitar and voice, slower]\nMy mama stood right here when I left for Tennessee\nI didn't understand that look\nTill it was on me\n\n[Final Chorus: full band, a second harmony joins]\nColorado got my girl\nGot her boots, got her dog, got her whole wide world\nI raised her on red dirt and sweet iced tea\nBut the Rockies sang a little louder than me\nShe sounds so happy on the phone it hurts\nColorado, be good to my girl\n\n[Outro: steel guitar, a phone buzz, spoken]\n\"Made it. It snowed. I love it.\"",
+  "taskId": "6984041e854bdbd2e6f685e75bf960bc",
+  "sunoClipIds": [
+    "f7cfa838-b34b-44e0-b495-36a35b355d9e",
+    "8738333a-5f9c-43d5-a5b6-244d171d1552"
+  ],
+  "created": "Nov 16, 2026 12:08 PM ET",
+  "createTimeMs": 1794848936574,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f7cfa838-b34b-44e0-b495-36a35b355d9e",
+      "durationSec": 209.2,
+      "file": "popcountry/pc_11_colorado_got_my_girl_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "8738333a-5f9c-43d5-a5b6-244d171d1552",
+      "durationSec": 209.64,
+      "file": "popcountry/pc_11_colorado_got_my_girl_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_11_colorado_got_my_girl_req.json",
+    "popcountry/pc_11_colorado_got_my_girl_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_11_colorado_got_my_girl.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 120 BPM two-step shuffle, 4/4, E major. A dance-hall sway that keeps moving while the words ache.\n\nVOICE: Female alto, plain, warm and dry-humoured, with a Southern drawl. She sings like she is talking over a kitchen counter. A close harmony joins in the choruses. She reads a text message aloud at the end.\n\nINSTRUMENTS: Pedal steel guitar leading, fiddle, a twangy electric guitar, acoustic rhythm guitar, a walking bass, shuffle drums with brushes on the snare, honky-tonk piano.\n\nARRANGEMENT MAP: 0:00 Intro, steel guitar. 0:10 Verse 1. 0:40 Chorus 1. 1:08 Verse 2. 1:38 Chorus 2. 2:06 Bridge, steel and voice. 2:26 Final chorus. 2:56 Outro, a phone buzz and the read-out message at 3:06.\n\nPRODUCTION & MIX: A 1990s-style country band recorded with present-day clarity: steel and fiddle up front, drums soft, voice natural.\n\nSIGNATURE MOMENT: 'Baby, this is allergies' at 1:32.\n\nMODERN POINT OF VIEW: The original loses a man to a place. This one loses a daughter to one, and the singer is old enough to remember doing the same thing to her own mother.\n\nEMOTIONAL ARC: Recognition, brave face, understanding, blessing.",
+  "workbookAtAGlance": "Colorado Got My Girl\n\nBackup titles\nShort One Pearl / This Is Allergies\n\nAt a glance\n120 BPM, E major\nVoice: Female alto with a conversational drawl\nLength: about 3 minutes 15",
+  "genre": "Country",
+  "year": 2025,
+  "qa": {
+    "title": "Colorado Got My Girl",
+    "id": "pc_11",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 209.2,
+        "measuredBpm": 120.2,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 0.2,
+        "lufs": -13.2,
+        "peakDbfs": -0.12,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 207.4,
+        "vocalCoverage": 0.577,
+        "vocalSpanSec": [
+          9.1,
+          196.1
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 184,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.17 dBFS (2 clipped sample, inaudible)"
+        ],
+        "durationSec": 209.7,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 2.1,
+        "lufs": -13.1,
+        "peakDbfs": 0.17,
+        "clipSamples": 2,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 208.4,
+        "vocalCoverage": 0.538,
+        "vocalSpanSec": [
+          10.9,
+          193.5
+        ],
+        "vocalF0MedianHz": 248,
+        "vocalF0P25Hz": 245,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

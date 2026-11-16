@@ -1,0 +1,118 @@
+{
+  "id": "pc_08",
+  "title": "Porch Light Yellow",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 8,
+  "slug": "pc_08_porch_light_yellow",
+  "inspiredBy": "Something in the Orange (Zach Bryan, 2022)",
+  "leadVoice": "Male tenor, rough and unpolished, cracking when he pushes into the chorus. Close and dry, with breaths left in. The bridge is nearly spoken. No harmonies until the last chorus, and then only one, low.",
+  "model": "V6",
+  "style": "2022 raw folk-country waltz, rough unpolished male tenor vocal that cracks when it pushes, close and dry with breaths left in, nearly spoken bridge, 84 BPM, 3/4, E minor, fingerpicked acoustic guitar, harmonica, single fiddle, soft kick and brushed snare, upright bass, live one-room recording with no gloss, bare, aching, patient, tender",
+  "negativeTags": "female lead vocals, electric guitar, synths, drum machine, auto-tune, big harmonies, polished pop production, rap",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: lone harmonica, fingerpicked acoustic guitar]\n\n[Verse 1: raw cracked male voice, close and dry]\nYou left with the truck running, mad as July\nSaid this town was a jar with the lid screwed tight\nI said some things too. I was tired. I was wrong.\nI've been changing that bulb ever since you've been gone\n\n[Chorus: voice lifts and strains, fiddle joins]\nThere's a porch light yellow at the end of this road\nIt don't ask where you've been, don't say I told you so\nThe moths all know it, and the dog does too\nPorch light yellow, burning for you\n\n[Verse 2: guitar and soft kick drum]\nYour mama says give it time, says you're just like me\nStubborn as a fence post, quiet as a tree\nI see your friends at the feed store, they don't know what to say\nI buy bulbs by the dozen. I got plenty. I can wait.\n\n[Chorus: fiddle and harmonica together]\nThere's a porch light yellow at the end of this road\nIt don't ask where you've been, don't say I told you so\nThe moths all know it, and the dog does too\nPorch light yellow, burning for you\n\n[Bridge: voice and harmonica only, almost spoken]\nIf the sun comes up and you ain't in the drive\nI shut it off for the day, to save the light\nAnd I turn it back on when the sky goes gray\nThat ain't hope. It's just what I do. Every day.\n\n[Final Chorus: full band, voice breaking on the last line]\nThere's a porch light yellow at the end of this road\nIt don't ask where you've been, don't say I told you so\nThe moths all know it, and the dog does too\nPorch light yellow\nCome on home, kid. It's on for you.\n\n[Outro: harmonica alone, a screen door, tires on gravel]",
+  "taskId": "12a605121a3b450078561d2c30bbc680",
+  "sunoClipIds": [
+    "38e3d7b3-1174-415b-be06-b23c311ca77a",
+    "1e0726af-734e-41cf-8f18-63699176d8a3"
+  ],
+  "created": "Nov 16, 2026 12:08 PM ET",
+  "createTimeMs": 1794848924123,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "38e3d7b3-1174-415b-be06-b23c311ca77a",
+      "durationSec": 224.16,
+      "file": "popcountry/pc_08_porch_light_yellow_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "1e0726af-734e-41cf-8f18-63699176d8a3",
+      "durationSec": 224.8,
+      "file": "popcountry/pc_08_porch_light_yellow_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_08_porch_light_yellow_req.json",
+    "popcountry/pc_08_porch_light_yellow_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_08_porch_light_yellow.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 84 BPM, 3/4, E minor. A slow waltz with a lot of air in it, like a man talking to a road.\n\nVOICE: Male tenor, rough and unpolished, cracking when he pushes into the chorus. Close and dry, with breaths left in. The bridge is nearly spoken. No harmonies until the last chorus, and then only one, low.\n\nINSTRUMENTS: Fingerpicked acoustic guitar, harmonica, a single fiddle, a soft kick drum and brushed snare from verse 2, upright bass. Screen door and gravel sounds at the end.\n\nARRANGEMENT MAP: 0:00 Intro, harmonica and guitar. 0:16 Verse 1. 0:50 Chorus 1, fiddle in. 1:20 Verse 2. 1:54 Chorus 2. 2:24 Bridge, voice and harmonica. 2:50 Final chorus, full band. 3:16 Outro, harmonica, a door, tires on gravel at 3:26.\n\nPRODUCTION & MIX: Recorded like a live take in a wooden room: no gloss, a little tape noise, the voice louder than anything else.\n\nSIGNATURE MOMENT: The crack in his voice on 'burning for you' at 1:14.\n\nMODERN POINT OF VIEW: The original is a young man begging a lover to come back. This is the older one, the parent, who has stopped arguing with the sky and simply keeps a light on. The tires on gravel at the end are left unexplained.\n\nEMOTIONAL ARC: Regret, stubborn waiting, routine as love, a car in the drive.",
+  "workbookAtAGlance": "Porch Light Yellow\n\nBackup titles\nBulbs by the Dozen / On for You\n\nAt a glance\n84 BPM, E minor\nVoice: Raw, cracked male tenor\nLength: about 3 minutes 30",
+  "genre": "Country",
+  "year": 2022,
+  "qa": {
+    "title": "Porch Light Yellow",
+    "id": "pc_08",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)"
+        ],
+        "durationSec": 224.2,
+        "measuredBpm": 80.7,
+        "bpmFactor": 1,
+        "targetBpm": 84,
+        "bpmErrPct": 3.9,
+        "lufs": -14.0,
+        "peakDbfs": -0.67,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 224.1,
+        "vocalCoverage": 0.524,
+        "vocalSpanSec": [
+          8.4,
+          224.2
+        ],
+        "vocalF0MedianHz": 197,
+        "vocalF0P25Hz": 147,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.16 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 224.8,
+        "measuredBpm": 54.7,
+        "bpmFactor": 1.5,
+        "targetBpm": 84,
+        "bpmErrPct": 2.3,
+        "lufs": -13.8,
+        "peakDbfs": 0.16,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 223.2,
+        "vocalCoverage": 0.452,
+        "vocalSpanSec": [
+          12.4,
+          212.6
+        ],
+        "vocalF0MedianHz": 221,
+        "vocalF0P25Hz": 195,
+        "lyricLineRecall": 0.96,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

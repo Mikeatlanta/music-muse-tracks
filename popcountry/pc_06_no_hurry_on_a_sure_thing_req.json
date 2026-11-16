@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "No Hurry on a Sure Thing",
+  "prompt": "[Intro: bright piano chords, finger snaps]\n\n[Verse 1: female voice, easy and warm]\nFirst time around I ran every light\nRing by the spring, baby by July\nThought love was a train you catch at a run\nMissed a lot of scenery. Wasn't much fun.\n\n[Pre-Chorus: male voice, gentle]\nSo if I'm slow to hold your hand in town\nIt ain't doubt, girl. I'm just looking around.\n\n[Chorus: both voices, claps and a light beat]\nThere's no hurry on a sure thing\nNo clock on a good night\nWe can take the long road, the slow dance, the porch side\nIf it's real today, it's real in the spring\nNo hurry on a sure thing\n\n[Verse 2: male voice]\nYour kids are still deciding if they like my jokes\nMy dog's already yours, he's the easiest of folks\nWe both got a drawer full of used-to-be\nYou don't have to empty yours to make room for me\n\n[Pre-Chorus: female voice]\nSo if I don't say the big word yet\nIt's coming. It's just not out of breath.\n\n[Chorus: both voices, claps and a light beat]\nThere's no hurry on a sure thing\nNo clock on a good night\nWe can take the long road, the slow dance, the porch side\nIf it's real today, it's real in the spring\nNo hurry on a sure thing\n\n[Bridge: piano only, voices trading lines]\nTwenty-five was all gas\nForty-five's got brakes\nAnd a much better view of what it takes\n\n[Final Chorus: fullest, harmonies stacked]\nThere's no hurry on a sure thing\nNo clock on a good night\nWe can take the long road, the slow dance, the porch side\nIf it's real today, it's real in the spring\nNo hurry on a sure thing\n\n[Outro: piano, spoken, smiling]\nNo hurry.\nNone.\nOkay. A little.",
+  "style": "2017 pop-country crossover, female and male duet, warm slightly husky female lead and soft drawling male tenor trading verses and harmonising on choruses, 77 BPM, B-flat major, relaxed bright head-nod groove, bright piano chords, finger snaps and handclaps, light programmed beat, acoustic guitar, warm bass, slide guitar answers, clean glossy mix, piano-only bridge, spoken ending, reassuring, grown-up, affectionate",
+  "negativeTags": "rap verses, heavy drums, distorted guitar, EDM drop, fast tempo, belting, fiddle solo, dark mood",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "callBackUrl": "https://example.com/cb"
+}

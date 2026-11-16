@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Laugh Lines and County Lines",
+  "prompt": "[Intro: finger snaps, lazy guitar lick, low hum]\n\n[Verse 1: talk-sung male voice, half a grin]\nMet her at a red light in nineteen ninety-eight\nHair out the window, Oklahoma plate\nBeen riding shotgun in that laugh ever since\nThirty years of mornings and I ain't bored yet\n\n[Chorus: sung, smooth harmonies, slow groove]\nShe's got laugh lines and county lines\nAnd I know every one by heart\nThat crease right there's the year the twins were born\nThat one's from dancing in the dark\nI take it slow, I know the way\nI could travel it with my eyes closed, blind\nLaugh lines and county lines\n\n[Verse 2: talk-sung, snaps and bass]\nThem magazine girls ain't been anywhere yet\nNo map on their faces, no stories, no debt\nMine's got a road for every joke I ever told\nAnd one or two for the ones that got old\n\n[Chorus: sung, smooth harmonies, slow groove]\nShe's got laugh lines and county lines\nAnd I know every one by heart\nThat crease right there's the year the twins were born\nThat one's from dancing in the dark\nI take it slow, I know the way\nI could travel it with my eyes closed, blind\nLaugh lines and county lines\n\n[Bridge: snaps only, spoken low]\nShe says, \"Quit staring.\" I say, \"I'm reading.\"\nShe says, \"What's it say?\"\nI say, \"Keep going. Speed limit: easy.\"\n\n[Final Chorus: full groove, harmonies stacked]\nShe's got laugh lines and county lines\nAnd I know every one by heart\nThat crease right there's the year the twins were born\nThat one's from dancing in the dark\nI take it slow, I know the way\nI could travel it with my eyes closed, blind\nLaugh lines and county lines\n\n[Outro: snaps, a woman's laugh, guitar lick]",
+  "style": "2017 country with an R&B pocket, low-to-mid male vocal with a soft drawl, verses spoken in rhythm with a smile and choruses sung smoothly with close harmonies, murmured conversational bridge, 99 BPM with a half-time sway, F major, lazy warm unhurried groove, finger snaps on two and four, short clean electric guitar lick, deep round bass, soft kick, acoustic guitar, electric piano, hummed backing voices, sparse dry mix, fond, teasing, settled",
+  "negativeTags": "female lead vocals, loud drums, fiddle, banjo, distorted guitar, fast tempo, belting, EDM synths",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

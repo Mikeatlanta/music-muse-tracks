@@ -1,0 +1,114 @@
+{
+  "id": "pc_23",
+  "title": "Never Was a Talker",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 23,
+  "slug": "pc_23_never_was_a_talker",
+  "inspiredBy": "In Case You Didn't Know (Brett Young, 2017)",
+  "leadVoice": "Male, soft-grained mid-range, sincere and slightly shy. He does not belt. The father's reply in verse 2 is sung almost under his breath. A little harmony in the last chorus only.",
+  "model": "V6",
+  "style": "Soft country ballad, soft-grained sincere slightly shy mid-range male vocal with no belting, a line sung almost under his breath in the second verse, 76 BPM, A major, slow simple and steady, fingerpicked acoustic guitar, piano, upright bass, brushed drums from the first chorus, small string section, pedal steel in the last chorus, piano-and-voice bridge, warm uncluttered mix, tender, humble, moving",
+  "negativeTags": "female lead vocals, electric guitar solo, loud drums, synths, rap, fast tempo, auto-tune, banjo",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft acoustic guitar, piano]\n\n[Verse 1: plain, gentle male voice]\nMy old man could fix a tractor with a butter knife and wire\nCould read the sky for rain, could coax a stubborn fire\nBut he never said the words, not once that I recall\nHis daddy never said 'em either. That's just how it was. That's all.\n\n[Chorus: fuller, strings, sincere]\nI never was a talker, I got that from you\nWe say it with a jump-start, a full tank, a fixed roof\nBut I don't want to leave it to a truck bed and a nod\nI love you, Dad. I said it. That wasn't so hard.\n\n[Verse 2: voice close, guitar and piano]\nHe looked down at the two-by-fours like they might have the reply\nCleared his throat and scratched his neck and wiped at one eye\nSaid, \"These ain't gonna load themselves,\" and picked up his end\nThen real quiet, by the tailgate: \"Well. Me too, son.\"\n\n[Chorus: fuller, strings, sincere]\nI never was a talker, I got that from you\nWe say it with a jump-start, a full tank, a fixed roof\nBut I don't want to leave it to a truck bed and a nod\nI love you, Dad. I said it. That wasn't so hard.\n\n[Bridge: piano and voice]\nMy boy is six and says it twenty times a day\nI say it back, every one\nI'm not waiting till I'm gray\n\n[Final Chorus: full band, warm]\nI never was a talker, but I'm learning how to be\nThere's a little fella teaching what my daddy couldn't teach\nAnd I won't leave it to a truck bed and a nod\nI love you. There. I said it. That wasn't so hard.\n\n[Outro: guitar, a tailgate closing]",
+  "taskId": "49cc33f291eef3194860818518e702f9",
+  "sunoClipIds": [
+    "6082e1b5-926f-4372-8689-bbdcfd77661e",
+    "54a7e7ee-d302-4d1d-8897-6b48a906f245"
+  ],
+  "created": "Nov 16, 2026 12:09 PM ET",
+  "createTimeMs": 1794848992127,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "6082e1b5-926f-4372-8689-bbdcfd77661e",
+      "durationSec": 224.28,
+      "file": "popcountry/pc_23_never_was_a_talker_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "54a7e7ee-d302-4d1d-8897-6b48a906f245",
+      "durationSec": 224.2,
+      "file": "popcountry/pc_23_never_was_a_talker_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_23_never_was_a_talker_req.json",
+    "popcountry/pc_23_never_was_a_talker_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_23_never_was_a_talker.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 76 BPM, 4/4, A major. Slow, simple and steady, with nothing showy.\n\nVOICE: Male, soft-grained mid-range, sincere and slightly shy. He does not belt. The father's reply in verse 2 is sung almost under his breath. A little harmony in the last chorus only.\n\nINSTRUMENTS: Fingerpicked acoustic guitar, piano, upright bass, soft brushed drums from the first chorus, a small string section, pedal steel in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and piano. 0:12 Verse 1. 0:46 Chorus 1. 1:14 Verse 2. 1:48 Chorus 2. 2:16 Bridge, piano and voice. 2:36 Final chorus. 3:08 Outro, guitar and a tailgate at 3:26.\n\nPRODUCTION & MIX: Soft, warm and uncluttered: voice and guitar close, strings low, a room you could sit in.\n\nSIGNATURE MOMENT: The father's 'Well. Me too, son.' at 1:44.\n\nMODERN POINT OF VIEW: The original says it to a wife. The harder sentence for men of that generation is to a father, and the one who taught this narrator to say it is his own small son.\n\nEMOTIONAL ARC: Inherited silence, saying it, hearing it back, changing the pattern.",
+  "workbookAtAGlance": "Never Was a Talker\n\nBackup titles\nMe Too, Son / By the Tailgate\n\nAt a glance\n76 BPM, A major\nVoice: Plain, gentle male voice\nLength: about 3 minutes 30",
+  "genre": "Country",
+  "year": 2017,
+  "qa": {
+    "title": "Never Was a Talker",
+    "id": "pc_23",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.3,
+        "measuredBpm": 70.8,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 6.8,
+        "lufs": -14.6,
+        "peakDbfs": -0.14,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 222.2,
+        "vocalCoverage": 0.49,
+        "vocalSpanSec": [
+          12.4,
+          185.2
+        ],
+        "vocalF0MedianHz": 174,
+        "vocalF0P25Hz": 146,
+        "lyricLineRecall": 0.957,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.2,
+        "measuredBpm": 70.8,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 6.8,
+        "lufs": -14.1,
+        "peakDbfs": -0.14,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 222.6,
+        "vocalCoverage": 0.511,
+        "vocalSpanSec": [
+          12.6,
+          181.1
+        ],
+        "vocalF0MedianHz": 166,
+        "vocalF0P25Hz": 147,
+        "lyricLineRecall": 0.957,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

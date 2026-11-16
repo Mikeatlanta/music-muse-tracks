@@ -1,0 +1,116 @@
+{
+  "id": "pc_20",
+  "title": "Laugh Lines and County Lines",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 20,
+  "slug": "pc_20_laugh_lines_and_county_lines",
+  "inspiredBy": "Body Like a Back Road (Sam Hunt, 2017)",
+  "leadVoice": "Male, low-to-mid range with a soft drawl. Verses are spoken in rhythm with a smile; choruses are sung smoothly with close harmonies behind. The bridge is a murmured conversation. A woman laughs at the end.",
+  "model": "V6",
+  "style": "2017 country with an R&B pocket, low-to-mid male vocal with a soft drawl, verses spoken in rhythm with a smile and choruses sung smoothly with close harmonies, murmured conversational bridge, 99 BPM with a half-time sway, F major, lazy warm unhurried groove, finger snaps on two and four, short clean electric guitar lick, deep round bass, soft kick, acoustic guitar, electric piano, hummed backing voices, sparse dry mix, fond, teasing, settled",
+  "negativeTags": "female lead vocals, loud drums, fiddle, banjo, distorted guitar, fast tempo, belting, EDM synths",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: finger snaps, lazy guitar lick, low hum]\n\n[Verse 1: talk-sung male voice, half a grin]\nMet her at a red light in nineteen ninety-eight\nHair out the window, Oklahoma plate\nBeen riding shotgun in that laugh ever since\nThirty years of mornings and I ain't bored yet\n\n[Chorus: sung, smooth harmonies, slow groove]\nShe's got laugh lines and county lines\nAnd I know every one by heart\nThat crease right there's the year the twins were born\nThat one's from dancing in the dark\nI take it slow, I know the way\nI could travel it with my eyes closed, blind\nLaugh lines and county lines\n\n[Verse 2: talk-sung, snaps and bass]\nThem magazine girls ain't been anywhere yet\nNo map on their faces, no stories, no debt\nMine's got a road for every joke I ever told\nAnd one or two for the ones that got old\n\n[Chorus: sung, smooth harmonies, slow groove]\nShe's got laugh lines and county lines\nAnd I know every one by heart\nThat crease right there's the year the twins were born\nThat one's from dancing in the dark\nI take it slow, I know the way\nI could travel it with my eyes closed, blind\nLaugh lines and county lines\n\n[Bridge: snaps only, spoken low]\nShe says, \"Quit staring.\" I say, \"I'm reading.\"\nShe says, \"What's it say?\"\nI say, \"Keep going. Speed limit: easy.\"\n\n[Final Chorus: full groove, harmonies stacked]\nShe's got laugh lines and county lines\nAnd I know every one by heart\nThat crease right there's the year the twins were born\nThat one's from dancing in the dark\nI take it slow, I know the way\nI could travel it with my eyes closed, blind\nLaugh lines and county lines\n\n[Outro: snaps, a woman's laugh, guitar lick]",
+  "taskId": "ff3f41d4401ddd0599386f2d36448a1c",
+  "sunoClipIds": [
+    "1c071cae-e6aa-4aca-8775-44137622cf3a",
+    "0e53870c-557a-48b8-a98a-8bed50599025"
+  ],
+  "created": "Nov 16, 2026 12:09 PM ET",
+  "createTimeMs": 1794848970554,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "1c071cae-e6aa-4aca-8775-44137622cf3a",
+      "durationSec": 194.12,
+      "file": "popcountry/pc_20_laugh_lines_and_county_lines_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "0e53870c-557a-48b8-a98a-8bed50599025",
+      "durationSec": 194.76,
+      "file": "popcountry/pc_20_laugh_lines_and_county_lines_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_20_laugh_lines_and_county_lines_req.json",
+    "popcountry/pc_20_laugh_lines_and_county_lines_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_20_laugh_lines_and_county_lines.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 99 BPM with a half-time sway, 4/4, F major. Lazy, warm and unhurried.\n\nVOICE: Male, low-to-mid range with a soft drawl. Verses are spoken in rhythm with a smile; choruses are sung smoothly with close harmonies behind. The bridge is a murmured conversation. A woman laughs at the end.\n\nINSTRUMENTS: Finger snaps on two and four, a clean electric guitar playing a short lazy lick, a deep round bass, a soft kick, an acoustic guitar strum, a little electric piano, backing voices humming.\n\nARRANGEMENT MAP: 0:00 Intro, snaps and lick. 0:10 Verse 1. 0:34 Chorus 1. 1:03 Verse 2. 1:27 Chorus 2. 1:56 Bridge, snaps only. 2:14 Final chorus. 2:44 Outro, snaps and a laugh, ends 2:58.\n\nPRODUCTION & MIX: 2017 country with an R&B pocket: sparse, dry, deep bass, the voice close enough to hear him smile.\n\nSIGNATURE MOMENT: 'I'm reading' in the bridge at 2:00.\n\nMODERN POINT OF VIEW: The original admires a young woman's shape. This one admires what thirty years wrote on a face, and says plainly that the magazines have it backwards.\n\nEMOTIONAL ARC: Fond, admiring, teasing, settled.",
+  "workbookAtAGlance": "Laugh Lines and County Lines\n\nBackup titles\nSpeed Limit: Easy / I'm Reading\n\nAt a glance\n99 BPM, F major\nVoice: Talk-sung male voice with a grin\nLength: about 3 minutes",
+  "genre": "Country Pop",
+  "year": 2017,
+  "qa": {
+    "title": "Laugh Lines and County Lines",
+    "id": "pc_20",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.1,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 99,
+        "bpmErrPct": 0.4,
+        "lufs": -14.2,
+        "peakDbfs": -0.35,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 191.8,
+        "vocalCoverage": 0.594,
+        "vocalSpanSec": [
+          10.8,
+          179.4
+        ],
+        "vocalF0MedianHz": 173,
+        "vocalF0P25Hz": 145,
+        "lyricLineRecall": 0.875,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.07 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 194.8,
+        "measuredBpm": 98.4,
+        "bpmFactor": 1,
+        "targetBpm": 99,
+        "bpmErrPct": 0.6,
+        "lufs": -14.5,
+        "peakDbfs": 0.07,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 193.8,
+        "vocalCoverage": 0.596,
+        "vocalSpanSec": [
+          11.3,
+          182.7
+        ],
+        "vocalF0MedianHz": 174,
+        "vocalF0P25Hz": 147,
+        "lyricLineRecall": 0.938,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

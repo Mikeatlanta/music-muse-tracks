@@ -1,0 +1,116 @@
+{
+  "id": "pc_25",
+  "title": "Blacktop Now",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 25,
+  "slug": "pc_25_blacktop_now",
+  "inspiredBy": "Dirt Road Anthem (Jason Aldean, 2011)",
+  "leadVoice": "Male, mid-range with a Georgia-style drawl. Verses are spoken in an easy rhythm, closer to storytelling than to rap. The chorus is sung softly with a harmony above it. A boy answers him in the outro.",
+  "model": "V6",
+  "style": "Early-2010s country with a hip-hop rhythm section, mid-range male vocal with a Southern drawl, verses spoken in an easy storytelling rhythm and chorus sung softly with a harmony above, 64 BPM with double-time hi-hats, E major, slow wide relaxed groove, slow strummed acoustic guitar, deep kick and snap snare, warm sub bass, slide guitar swells, long electric guitar notes in the chorus, vinyl crackle, roomy dry mix, nostalgic, fair-minded, peaceful",
+  "negativeTags": "female lead vocals, fast tempo, fiddle, banjo, heavy distortion, EDM synths, belting, aggressive rap",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: slow acoustic guitar, vinyl crackle, deep kick]\n\n[Chorus: sung, laid-back, nostalgic]\nIt's blacktop now where the dust used to rise\nStreetlights shining where we counted fireflies\nThere's a cul-de-sac sitting on our fishing hole\nThey smoothed it all over, painted on the lines\nBut I still feel the washboard every time\nIt's blacktop now\n\n[Verse 1: spoken-rap, easy flow]\nYeah, I learned to drive right here at eleven\nGranddad's lap, three on the tree, felt like heaven\nFirst beer, first kiss, first fight, first wreck\nFirst time I cried and didn't hide it yet\nNow there's a coffee drive-through where the feed store stood\nA yoga place, and honestly, the coffee's pretty good\nI ain't mad at the new folks, they just wanted what we had\nQuiet and a sky and some room for their dad\n\n[Chorus: sung, laid-back, nostalgic]\nIt's blacktop now where the dust used to rise\nStreetlights shining where we counted fireflies\nThere's a cul-de-sac sitting on our fishing hole\nThey smoothed it all over, painted on the lines\nBut I still feel the washboard every time\nIt's blacktop now\n\n[Verse 2: spoken-rap, warmer]\nGot a kid on a scooter where I rode my bike\nSame ditch, same hill, different kind of night\nHe waves, I wave, that's the same as it was\nSome things don't need gravel to do what they does\nMy buddy sold his forty for a number with commas\nBought his mama a house, and I can't argue with mamas\nSo I roll through slow with the window on down\nNew road, old boy, same town\n\n[Bridge: sung, band drops out]\nEverything you love gets paved or grows over\nYou can cuss it or wave\nI'm getting older. I wave.\n\n[Final Chorus: sung, harmony above, full beat]\nIt's blacktop now where the dust used to rise\nStreetlights shining where we counted fireflies\nThere's a cul-de-sac sitting on our fishing hole\nThey smoothed it all over, painted on the lines\nBut I still feel the washboard every time\nIt's blacktop now\n\n[Outro: guitar, a scooter rolling past, spoken]\nEvening.\nEvening, sir.",
+  "taskId": "ae86e7e015833b8b49dfc8c0f3e5992b",
+  "sunoClipIds": [
+    "b609a624-9648-4c0a-b25f-d6f2cb0a35ca",
+    "ade65613-bbff-4d7a-84ed-47c30240cccb"
+  ],
+  "created": "Nov 16, 2026 12:09 PM ET",
+  "createTimeMs": 1794848992989,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "b609a624-9648-4c0a-b25f-d6f2cb0a35ca",
+      "durationSec": 214.8,
+      "file": "popcountry/pc_25_blacktop_now_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ade65613-bbff-4d7a-84ed-47c30240cccb",
+      "durationSec": 214.36,
+      "file": "popcountry/pc_25_blacktop_now_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_25_blacktop_now_req.json",
+    "popcountry/pc_25_blacktop_now_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_25_blacktop_now.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 64 BPM with double-time hi-hats, 4/4, E major. Slow, wide and relaxed, a drive with one hand on the wheel.\n\nVOICE: Male, mid-range with a Georgia-style drawl. Verses are spoken in an easy rhythm, closer to storytelling than to rap. The chorus is sung softly with a harmony above it. A boy answers him in the outro.\n\nINSTRUMENTS: A slow strummed acoustic guitar, deep kick and a snap-like snare, quiet hi-hats, a warm sub bass, slide guitar swells, an electric guitar playing long notes in the chorus, vinyl crackle.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and crackle. 0:12 Chorus 1. 0:42 Verse 1. 1:12 Chorus 2. 1:42 Verse 2. 2:12 Bridge, band out. 2:30 Final chorus. 3:00 Outro, a scooter and two spoken words, ends 3:18.\n\nPRODUCTION & MIX: Early-2010s country with a hip-hop rhythm section: roomy guitars, big soft low end, voice dry.\n\nSIGNATURE MOMENT: 'I'm getting older. I wave.' at 2:24.\n\nMODERN POINT OF VIEW: The original celebrates the dirt road as it is. This one comes back to find it gone, and chooses not to resent the people living there now.\n\nEMOTIONAL ARC: Loss, remembering, fairness, peace.",
+  "workbookAtAGlance": "Blacktop Now\n\nBackup titles\nI Still Feel the Washboard / I Wave\n\nAt a glance\n64 BPM, E major\nVoice: Male voice: spoken-rap verses, sung chorus\nLength: about 3 minutes 20",
+  "genre": "Country",
+  "year": 2011,
+  "qa": {
+    "title": "Blacktop Now",
+    "id": "pc_25",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 64.2,
+        "bpmFactor": 1,
+        "targetBpm": 64,
+        "bpmErrPct": 0.3,
+        "lufs": -13.1,
+        "peakDbfs": -0.05,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 213.7,
+        "vocalCoverage": 0.627,
+        "vocalSpanSec": [
+          15.8,
+          194.6
+        ],
+        "vocalF0MedianHz": 165,
+        "vocalF0P25Hz": 138,
+        "lyricLineRecall": 0.784,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.4,
+        "measuredBpm": 65.0,
+        "bpmFactor": 1,
+        "targetBpm": 64,
+        "bpmErrPct": 1.6,
+        "lufs": -13.7,
+        "peakDbfs": -0.05,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 212.9,
+        "vocalCoverage": 0.654,
+        "vocalSpanSec": [
+          15.4,
+          189.3
+        ],
+        "vocalF0MedianHz": 166,
+        "vocalF0P25Hz": 165,
+        "lyricLineRecall": 0.865,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

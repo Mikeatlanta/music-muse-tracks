@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Go Fish",
+  "prompt": "[Intro: banjo riff, foot stomps, whistled tune]\n\n[Verse 1: playful female voice, rhythmic]\nYou slid up to my table with a grin and a line\nAsking what I'm drinking, asking for my time\nHoney, I've been playing since before you could count\nYou want what I'm holding? Well, let's find out\n\n[Chorus: stomps, claps, group shouts]\nGot any hearts? (Go fish!)\nGot any diamonds? (Go fish!)\nGot any reason I should let you sit?\nHoney, I ain't mean, I'm just holding what I got\nYou can ask all night, I'm gonna tell you what\n(Go fish!)\n\n[Verse 2: playful, band fuller]\nLast one tried to bluff me with a borrowed truck\nOne before that thought he'd try his luck\nI got a full hand, baby, got my friends, got a band\nGot a dance floor waiting and a drink in my hand\n\n[Chorus: stomps, claps, group shouts]\nGot any hearts? (Go fish!)\nGot any diamonds? (Go fish!)\nGot any reason I should let you sit?\nHoney, I ain't mean, I'm just holding what I got\nYou can ask all night, I'm gonna tell you what\n(Go fish!)\n\n[Dance Break: whistle melody, banjo, called steps]\nStomp it out, two, three\nSpin it round, two, three\nHands up if you came with nobody\nAnd you're leaving just as free\n\n[Bridge: beat drops, close voice]\nNow if you want to pull a chair up and just talk\nNo game, no line, no clock\nI might have a card for you\n\n[Final Chorus: whole room, loudest]\nGot any manners? (Maybe!)\nGot any patience? (Maybe!)\nGot any reason I should let you sit?\nHoney, I ain't mean, I'm just holding what I got\nYou asked real nice, so I'll tell you what\n(Okay. One dance.)\n\n[Outro: banjo riff, whistle, stomps stop]",
+  "style": "2024 country-pop dance stomp, agile teasing female vocal sliding between singing and rhythmic speech with stacked harmonies, mixed group shouting call-and-response answers, nearly whispered bridge, 110 BPM, D major, bright bouncing stomp, plucked banjo riff, foot stomps and handclaps in place of a drum kit, whistled melody, upright bass, fiddle drones, acoustic guitar, deep kick in the choruses, dry percussive mix, playful, flirtatious, confident",
+  "negativeTags": "male lead vocals, pedal steel, rock guitars, slow ballad, trap hi-hats, orchestral strings, sad mood",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

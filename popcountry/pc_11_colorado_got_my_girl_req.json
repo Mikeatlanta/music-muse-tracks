@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Colorado Got My Girl",
+  "prompt": "[Intro: crying steel guitar, two-step shuffle]\n\n[Verse 1: female alto, conversational drawl]\nShe came home from a ski trip with a look I'd seen before\nOn my own face in a mirror, nineteen eighty-four\nKept saying \"the air out there,\" kept saying \"you should see\"\nI knew right then that I'd been beat by geography\n\n[Chorus: full band, steel and fiddle, harmony]\nColorado got my girl\nGot her boots, got her dog, got her whole wide world\nI raised her on red dirt and sweet iced tea\nBut the Rockies sang a little louder than me\nI ain't mad, I'm just short one pearl\nColorado got my girl\n\n[Verse 2: alto, band easy behind her]\nWe loaded up the trailer in a pouring rain\nHer daddy checked the tires three times, then checked again\nShe hugged me in the driveway, said, \"Mama, please don't cry\"\nI said, \"Baby, this is allergies,\" and looked up at the sky\n\n[Chorus: full band, steel and fiddle, harmony]\nColorado got my girl\nGot her boots, got her dog, got her whole wide world\nI raised her on red dirt and sweet iced tea\nBut the Rockies sang a little louder than me\nI ain't mad, I'm just short one pearl\nColorado got my girl\n\n[Bridge: steel guitar and voice, slower]\nMy mama stood right here when I left for Tennessee\nI didn't understand that look\nTill it was on me\n\n[Final Chorus: full band, a second harmony joins]\nColorado got my girl\nGot her boots, got her dog, got her whole wide world\nI raised her on red dirt and sweet iced tea\nBut the Rockies sang a little louder than me\nShe sounds so happy on the phone it hurts\nColorado, be good to my girl\n\n[Outro: steel guitar, a phone buzz, spoken]\n\"Made it. It snowed. I love it.\"",
+  "style": "1990s-style traditional country two-step with modern clarity, plain warm dry-humoured female alto vocal with a Southern drawl, conversational delivery, close harmony in the choruses, 120 BPM shuffle, E major, dance-hall sway, pedal steel guitar lead, fiddle, twangy electric guitar, acoustic rhythm guitar, walking bass, brushed shuffle drums, honky-tonk piano, natural band mix, wistful, proud, tender",
+  "negativeTags": "male lead vocals, trap hi-hats, synths, rap, rock distortion, auto-tune, EDM, belting",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "callBackUrl": "https://example.com/cb"
+}

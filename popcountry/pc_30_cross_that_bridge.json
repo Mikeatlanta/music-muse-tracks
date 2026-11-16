@@ -1,0 +1,114 @@
+{
+  "id": "pc_30",
+  "title": "Cross That Bridge",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 30,
+  "slug": "pc_30_cross_that_bridge",
+  "inspiredBy": "Rock and a Hard Place (Bailey Zimmerman, 2022)",
+  "leadVoice": "Male, young-sounding but hoarse, with gravel on every held note. Quiet and close in the verses, pushed to the edge of cracking in the choruses. The final line is whispered.",
+  "model": "V6",
+  "style": "2022 country power ballad, hoarse gravelly young male vocal quiet and close in the verses and pushed to cracking in the choruses, whispered final line, 70 BPM, E minor, hushed verses and a chorus that breaks open, clean reverbed electric guitar, piano, overdriven guitar in the choruses, heavy slow drums, pedal steel, strings in the last chorus, slow crying guitar solo, piano-only bridge, wide dramatic mix, tense, honest, brave",
+  "negativeTags": "female lead vocals, banjo, upbeat tempo, trap hi-hats, rap, synth pop, auto-tune, cheerful mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: lonely electric guitar, sparse piano]\n\n[Verse 1: gritty male voice, low]\nEvery time it got hard we said the same old thing\n\"We'll cross that bridge when we come to it,\" and kept driving\nMoney, your mother, the job out of state\nWe kicked it down the road, and the road ran out today\n\n[Chorus: full band, raw and high]\nSo here's the bridge\nRusted rail, river running underneath\nYour hand on the door, my foot on the brake\nOne of us has got to speak\nWe can turn around and lose what we had\nOr cross that bridge and see what's on the other bank\nI'm scared too. Take my hand.\nLet's cross that bridge\n\n[Verse 2: voice lower, guitar and piano]\nIt's the real one out on Miller Road, you know the one\nWhere I asked you, where you said yes, where we watched the sun\nI drove us here on purpose. I don't have a speech.\nI just couldn't do this in the kitchen, in the heat\n\n[Chorus: full band, raw and high]\nSo here's the bridge\nRusted rail, river running underneath\nYour hand on the door, my foot on the brake\nOne of us has got to speak\nWe can turn around and lose what we had\nOr cross that bridge and see what's on the other bank\nI'm scared too. Take my hand.\nLet's cross that bridge\n\n[Guitar Solo: slow, crying bends]\n\n[Bridge: piano only, quiet]\nMy folks never crossed one. They just parked and stayed.\nForty years in the same front seat, looking the other way.\n\n[Final Chorus: biggest, then a whisper on the last line]\nSo here's the bridge\nRusted rail, river running underneath\nYour hand on the door, my foot on the brake\nOne of us has got to speak\nWe can turn around and lose what we had\nOr cross that bridge and see what's on the other bank\nI'm scared too. Take my hand.\nLet's cross that bridge\n\n[Outro: river sound, an engine shifts into drive]",
+  "taskId": "58de2643f8671dbaa1ec8e424a89a9cf",
+  "sunoClipIds": [
+    "7e6676a8-f889-4003-9d3a-4adfe15afb77",
+    "71f91b54-7873-48b1-9deb-8008b1724428"
+  ],
+  "created": "Nov 16, 2026 12:10 PM ET",
+  "createTimeMs": 1794849011131,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "7e6676a8-f889-4003-9d3a-4adfe15afb77",
+      "durationSec": 234.96,
+      "file": "popcountry/pc_30_cross_that_bridge_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "71f91b54-7873-48b1-9deb-8008b1724428",
+      "durationSec": 234.0,
+      "file": "popcountry/pc_30_cross_that_bridge_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_30_cross_that_bridge_req.json",
+    "popcountry/pc_30_cross_that_bridge_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_30_cross_that_bridge.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 70 BPM, 4/4, E minor. A slow power ballad: hushed verses and a chorus that breaks open.\n\nVOICE: Male, young-sounding but hoarse, with gravel on every held note. Quiet and close in the verses, pushed to the edge of cracking in the choruses. The final line is whispered.\n\nINSTRUMENTS: A clean electric guitar with reverb, piano, a second overdriven guitar in the choruses, bass, heavy slow drums, a pedal steel behind the choruses, strings in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and piano. 0:14 Verse 1. 0:48 Chorus 1. 1:22 Verse 2. 1:56 Chorus 2. 2:30 Guitar solo. 2:46 Bridge, piano only. 3:04 Final chorus, ends on a whisper. 3:32 Outro, river and an engine in gear at 3:38.\n\nPRODUCTION & MIX: 2022 country power ballad: wide and dramatic, big reverb on the drums, the voice raw and loud.\n\nSIGNATURE MOMENT: The whispered last 'Let's cross that bridge' at 3:28, followed by the engine going into drive.\n\nMODERN POINT OF VIEW: The original leaves a young couple stuck. This one makes a decision: an older man who watched his parents avoid the talk for forty years puts the car in gear.\n\nEMOTIONAL ARC: Avoidance, facing it, fear said aloud, forward.",
+  "workbookAtAGlance": "Cross That Bridge\n\nBackup titles\nMiller Road / I Don't Have a Speech\n\nAt a glance\n70 BPM, E minor\nVoice: Gritty male voice, raw in the chorus\nLength: about 3 minutes 40",
+  "genre": "Country",
+  "year": 2022,
+  "qa": {
+    "title": "Cross That Bridge",
+    "id": "pc_30",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 235.0,
+        "measuredBpm": 67.1,
+        "bpmFactor": 1,
+        "targetBpm": 70,
+        "bpmErrPct": 4.1,
+        "lufs": -14.2,
+        "peakDbfs": -1.45,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.6,
+        "contentEndSec": 232.2,
+        "vocalCoverage": 0.535,
+        "vocalSpanSec": [
+          13.8,
+          210.7
+        ],
+        "vocalF0MedianHz": 221,
+        "vocalF0P25Hz": 196,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.0,
+        "measuredBpm": 67.1,
+        "bpmFactor": 1,
+        "targetBpm": 70,
+        "bpmErrPct": 4.1,
+        "lufs": -14.5,
+        "peakDbfs": -1.75,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 3.1,
+        "contentEndSec": 232.4,
+        "vocalCoverage": 0.53,
+        "vocalSpanSec": [
+          13.7,
+          189.3
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 221,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Write It on the Back",
+  "prompt": "[Intro: fingerpicked acoustic guitar, soft dobro]\n\n[Verse 1: warm male voice, storytelling]\nGranny had a shoebox and a ballpoint pen\nEvery picture that we took, she'd turn it over and then\nShe'd lick her thumb and squint and say who and where and when\nI asked her why. She didn't look up. She said\n\n[Chorus: harmony joins, gentle full band]\n\"Write it on the back\nWho's that baby, whose front porch, what year\n'Cause one day you'll be holding this\nAnd nobody who knows will still be here\nSay the names while there's somebody to ask\nAnd write it on the back\"\n\n[Verse 2: voice and band, easy]\nShe said, \"Call your brother, even when you're sore\nLearn one good pie and how to fix a door\nSit with the old ones, let 'em tell it twice\nThe second time through is where they hide the good advice\"\n\n[Chorus: harmony joins, gentle full band]\n\"Write it on the back\nWho's that baby, whose front porch, what year\n'Cause one day you'll be holding this\nAnd nobody who knows will still be here\nSay the names while there's somebody to ask\nAnd write it on the back\"\n\n[Bridge: dobro and voice, hushed]\nWe buried her in April with her reading glasses on\nI got the shoebox. Every face has got a name.\nShe's not gone.\n\n[Final Chorus: full band, harmony close]\nSo I write it on the back\n\"That's your granny, that's her porch, that's you, age three\"\n'Cause one day you'll be holding this\nAnd you won't have to guess, like me\nI say the names to my kids, just like she asked\nAnd I write it on the back\n\n[Outro: guitar, a pen clicking]",
+  "style": "Acoustic country advice song, warm plain mid-range male vocal telling a story without drama, older-sounding harmony voice on the choruses, nearly spoken bridge, 88 BPM, C major, gentle and steady, fingerpicked acoustic guitar, dobro, mandolin, upright bass, brushed drums from the first chorus, soft fiddle in the last chorus, warm close acoustic mix, wise, tender, bittersweet",
+  "negativeTags": "female lead vocals, electric guitar, drum machine, synths, rap, loud drums, auto-tune, fast tempo",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

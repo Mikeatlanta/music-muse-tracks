@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Three Dots",
+  "prompt": "[Intro: lonely piano figure, soft pedal steel]\n\n[Verse 1: female voice, hushed]\nYour name's still at the top, I never moved it down\nHalf a glass of red, quiet house, quiet town\nI typed out \"you awake?\" and I watched it sit\nThen I held down the arrow and deleted it\n\n[Chorus: both voices, full band swells]\nAnd I see three dots, then nothing\nThree dots, then gone\nYou're over there typing something\nAnd I'm over here holding on\nSay it or don't, I can't take the in-between\nThree little dots on a screen\n\n[Verse 2: male voice, low]\nI wrote \"I'm sorry\" and I wrote \"I'm fine\"\nI wrote a whole long paragraph and cut it to a line\nI can see you see me, I can see you start\nThat bubble's got a hold of every piece of my heart\n\n[Chorus: both voices, full band swells]\nAnd I see three dots, then nothing\nThree dots, then gone\nYou're over there typing something\nAnd I'm over here holding on\nSay it or don't, I can't take the in-between\nThree little dots on a screen\n\n[Bridge: piano only, voices trading]\nIf you send it, I'll answer\nIf you answer, I'll drive\nEleven miles of two-lane, and I'm wide awake tonight\n\n[Final Chorus: full band, both voices, then piano alone]\nAnd I see three dots, then nothing\nThree dots, then gone\nYou're over there typing something\nAnd I'm over here holding on\nSay it or don't, I can't take the in-between\nThree little dots...\n\n[Outro: piano, a message chime, spoken softly]\n\"Hey.\"",
+  "style": "Late-2000s country-pop ballad duet, soft breathy close female voice on the first verse and low warm male voice on the second, harmonised choruses growing louder, 108 BPM, E major, restless held-back mid-tempo with a ticking pulse, repeating piano figure, pedal steel, clean electric guitar, live drums from the first chorus, strings in the last chorus, piano-only bridge, polished wide mix, lonely, yearning, hopeful",
+  "negativeTags": "rap, trap hi-hats, banjo, fast tempo, distorted guitar, EDM synths, cheerful mood, auto-tune",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

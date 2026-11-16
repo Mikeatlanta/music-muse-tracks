@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Zero-Turn Cowboy",
+  "prompt": "[Intro: banjo loop, a mower engine starts, low hum]\n\n[Chorus: deep deadpan baritone, banjo and 808]\nYeah, I'm gonna ride my zero-turn\nDown to the end of the cul-de-sac\nGot a cupholder full of sweet iced tea\nAnd I ain't never coming back\n(Till lunch)\n\n[Verse 1: half-rapped, trap hi-hats, banjo]\nGot my cargo shorts and my grass-stain shoes\nSunscreen on my neck, I got nothing to lose\nNeighborhood board says my edges ain't straight\nFour miles an hour, they can wait\n\n[Chorus: deep deadpan baritone, banjo and 808]\nYeah, I'm gonna ride my zero-turn\nDown to the end of the cul-de-sac\nGot a cupholder full of sweet iced tea\nAnd I ain't never coming back\n(Till lunch)\n\n[Verse 2: gravelly older guest voice, played straight]\nMortgage paid off, son, that's my kind of flex\nGrill so big it's got its own address\nKids think I'm corny, wife thinks I'm fine\nFella next door's got five horsepower, I got nine\n\n[Bridge: beat drops out, banjo and whistle]\nAin't a soul alive can slow me down\n(Honey! Lunch!)\nOkay. Slowing down.\n\n[Final Chorus: both voices, full beat]\nYeah, I'm gonna ride my zero-turn\nDown to the end of the cul-de-sac\nGot a cupholder full of sweet iced tea\nAnd I ain't never coming back\n(Till lunch)\n\n[Outro: banjo loop, engine sputters and stops, spoken]\nOut of gas.",
+  "style": "2019 country trap, deep flat deadpan male baritone vocal half-sung half-rapped, gravelly weathered older male guest on the second verse, 68 BPM with double-time hi-hats, G# minor, slow heavy swagger, plucked banjo loop, booming 808 sub bass, crisp trap hi-hats and snare, whistled answer line, dry close vocal, hook first, very short song, comic, deadpan, proud",
+  "negativeTags": "female lead vocals, pedal steel, fiddle, rock guitars, live drum kit, orchestral strings, fast tempo, belting",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 145,
+  "callBackUrl": "https://example.com/cb"
+}

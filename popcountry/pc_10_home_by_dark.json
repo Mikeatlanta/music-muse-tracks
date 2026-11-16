@@ -1,0 +1,114 @@
+{
+  "id": "pc_10",
+  "title": "Home by Dark",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 10,
+  "slug": "pc_10_home_by_dark",
+  "inspiredBy": "Wagon Wheel (Darius Rucker, 2013)",
+  "leadVoice": "Male tenor, relaxed and open, with a smile. A group of men and women sing every chorus in loose three-part harmony, like friends round a fire. The first half of the last chorus is voices and claps only. An old woman speaks the last line.",
+  "model": "V6",
+  "style": "Acoustic string-band country singalong, relaxed open male tenor vocal with a smile, loose three-part group harmonies of men and women on every chorus, a cappella start to the last chorus, 148 BPM felt in two, A major, rolling easy gallop, fiddle tune, rolling five-string banjo, strummed acoustic guitars, upright bass, brushes and kick drum, mandolin chops, handclaps, fast joyful fiddle solo, warm acoustic room sound, homesick, hopeful, communal",
+  "negativeTags": "female lead vocals, electric guitar distortion, synths, drum machine, rap, auto-tune, slow ballad, dark mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: fiddle tune over strummed acoustic guitar]\n\n[Verse 1: easy male tenor, storytelling]\nLeft Flagstaff at sunup with a thermos and a prayer\nMama's turning eighty and I swore that I'd be there\nGot a card in the glovebox and a pie I didn't bake\nAnd twelve hundred miles of interstate\n\n[Chorus: group harmonies, banjo rolling, singalong]\nSo get me home by dark\nWhere the gravel meets the yard\nWhere the screen door slaps and the supper's on\nAnd somebody's always playing cards\nRoll on, wheels, roll on, heart\nGet me home by dark\n\n[Verse 2: tenor, band driving]\nGallup for coffee, Tucumcari for gas\nA fella in Shamrock said, \"Son, you're driving fast\"\nI said, \"Sir, I've been gone since I was twenty-two\nYou'd be speeding, too\"\n\n[Chorus: group harmonies, banjo rolling, singalong]\nSo get me home by dark\nWhere the gravel meets the yard\nWhere the screen door slaps and the supper's on\nAnd somebody's always playing cards\nRoll on, wheels, roll on, heart\nGet me home by dark\n\n[Fiddle Solo: fast and joyful, band clapping]\n\n[Verse 3: softer, guitar only at first]\nCrossed the river at sundown, gold from side to side\nPhoned to say I'm an hour out, and Mama nearly cried\nShe said, \"Plate's in the oven and the kettle's on\"\nI said, \"Don't blow the candles out. I won't be long.\"\n\n[Final Chorus: a cappella first, then full band]\nSo get me home by dark\nWhere the gravel meets the yard\nWhere the screen door slaps and the supper's on\nAnd somebody's always playing cards\nRoll on, wheels, roll on, heart\nGet me home by dark\n\n[Outro: fiddle, a screen door slap, spoken]\nThere he is.",
+  "taskId": "2051e5e93c4bf479ef08e38f4b5d5649",
+  "sunoClipIds": [
+    "62068241-a2d2-44af-b291-8b92611e1a4a",
+    "36a78362-0e5d-4690-b002-98f1ffdbbf57"
+  ],
+  "created": "Nov 16, 2026 12:08 PM ET",
+  "createTimeMs": 1794848930912,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "62068241-a2d2-44af-b291-8b92611e1a4a",
+      "durationSec": 234.4,
+      "file": "popcountry/pc_10_home_by_dark_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "36a78362-0e5d-4690-b002-98f1ffdbbf57",
+      "durationSec": 233.6,
+      "file": "popcountry/pc_10_home_by_dark_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_10_home_by_dark_req.json",
+    "popcountry/pc_10_home_by_dark_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_10_home_by_dark.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 148 BPM felt in two, 4/4, A major. A rolling, easy gallop that sways as much as it drives.\n\nVOICE: Male tenor, relaxed and open, with a smile. A group of men and women sing every chorus in loose three-part harmony, like friends round a fire. The first half of the last chorus is voices and claps only. An old woman speaks the last line.\n\nINSTRUMENTS: Fiddle playing the tune, rolling five-string banjo, strummed acoustic guitars, upright bass, brushes and a kick drum, mandolin chops, handclaps.\n\nARRANGEMENT MAP: 0:00 Intro fiddle. 0:12 Verse 1. 0:38 Chorus 1. 1:04 Verse 2. 1:26 Chorus 2. 1:52 Fiddle solo. 2:14 Verse 3, quieter. 2:42 Final chorus, a cappella then full band. 3:16 Outro, fiddle, a door, the spoken line at 3:34.\n\nPRODUCTION & MIX: Warm and acoustic, close to a string band in a room, with modern clarity and a full low end.\n\nSIGNATURE MOMENT: The a cappella start of the last chorus at 2:42.\n\nMODERN POINT OF VIEW: The original is a young man thumbing a ride to a girl. This is a man in his fifties driving himself home to his mother while he still can.\n\nEMOTIONAL ARC: Setting off, hurrying, the river at sunset, arriving.",
+  "workbookAtAGlance": "Home by Dark\n\nBackup titles\nRoll On, Wheels / Twelve Hundred Miles of Interstate\n\nAt a glance\n148 BPM, A major\nVoice: Easy male tenor with group harmonies\nLength: about 3 minutes 40",
+  "genre": "Country",
+  "year": 2013,
+  "qa": {
+    "title": "Home by Dark",
+    "id": "pc_10",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.4,
+        "measuredBpm": 145.6,
+        "bpmFactor": 1,
+        "targetBpm": 148,
+        "bpmErrPct": 1.6,
+        "lufs": -13.9,
+        "peakDbfs": -0.05,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 233.6,
+        "vocalCoverage": 0.504,
+        "vocalSpanSec": [
+          6.7,
+          233.3
+        ],
+        "vocalF0MedianHz": 220,
+        "vocalF0P25Hz": 206,
+        "lyricLineRecall": 0.839,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 233.6,
+        "measuredBpm": 145.6,
+        "bpmFactor": 1,
+        "targetBpm": 148,
+        "bpmErrPct": 1.6,
+        "lufs": -13.5,
+        "peakDbfs": -0.36,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 232.4,
+        "vocalCoverage": 0.535,
+        "vocalSpanSec": [
+          5.5,
+          228.5
+        ],
+        "vocalF0MedianHz": 248,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.935,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "pc_02",
+  "title": "Phone in the Tip Jar",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 2,
+  "slug": "pc_02_phone_in_the_tip_jar",
+  "inspiredBy": "A Bar Song (Tipsy) (Shaboozey, 2024)",
+  "leadVoice": "Male baritone, warm, unhurried and a little tired, nearly talking in the verses. A room of mixed voices shouts 'hey!' and sings the chorus and bridge with him. Two spoken lines at the end, one of them an older woman.",
+  "model": "V6",
+  "style": "2024 country crossover with a hip-hop low end, warm unhurried male baritone vocal, mixed crowd gang vocals shouting hey and singing the chorus, 81 BPM, A major, slow swinging stomp, strummed acoustic guitar, whistled tune, boot stomps and handclaps, fiddle hook, deep 808 kick in the chorus, tambourine, roomy bar-room mix, half-time singalong bridge, spoken lines at the end, good-humoured, communal, singalong",
+  "negativeTags": "female lead vocals, electric guitar solo, EDM synths, auto-tune, rap verses, orchestral strings, fast tempo",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: acoustic guitar, whistled tune, boot stomps]\n\n[Verse 1: laid-back male baritone, guitar and stomps]\nBoss sent an email at a quarter to five\nMarked it \"urgent,\" like the building's on fire\nTruck needs a belt and my back needs a break\nAnd my thumb's got a blister from the scrolling it takes\n\n[Pre-Chorus: fiddle slides in, drums pick up]\nSo I walked in the door and Darlene said, \"Hon,\nYou know the house rule. Hand it over. Go on.\"\n\n[Chorus: gang vocals, low 808 thump, fiddle hook]\nPut your phone in the tip jar (hey!)\nLet it buzz with the quarters and ones\nWhoever's looking, let 'em look\nWe'll call 'em back when the night is done\nGot a jukebox, got a stool, got a long old bar\nSo put your phone in the tip jar\n\n[Verse 2: baritone, band grooving]\nThere's a plumber, a teacher, a nurse off a twelve\nA kid with a ring he ain't shown to the girl\nAn old man toasting to a chair that's bare\nWe don't ask a thing, we just pull up a chair\n\n[Pre-Chorus: fiddle climbing]\nAnd the jar fills up like a church plate does\nDarlene says, \"Y'all, that's what I call love\"\n\n[Chorus: gang vocals, low 808 thump, fiddle hook]\nPut your phone in the tip jar (hey!)\nLet it buzz with the quarters and ones\nWhoever's looking, let 'em look\nWe'll call 'em back when the night is done\nGot a jukebox, got a stool, got a long old bar\nSo put your phone in the tip jar\n\n[Bridge: half-time, whole room singing]\nIt can wait (it can wait)\nIt can wait (it can wait)\nEvery little red dot, every \"running late\"\nIt can wait\n\n[Final Chorus: loudest, stomps and claps, fiddle on top]\nPut your phone in the tip jar (hey!)\nLet it buzz with the quarters and ones\nWhoever's looking, let 'em look\nWe'll call 'em back when the night is done\nGot a jukebox, got a stool, got a long old bar\nSo put your phone in the tip jar\n\n[Outro: guitar and whistle, one phone ringing, spoken]\nDarlene, whose is that?\nYours, hon. It's your wife. Go home.",
+  "taskId": "a7f035f6a8b3e0a16fc165f7b3ffb00e",
+  "sunoClipIds": [
+    "c0291696-2bfa-4a57-bae2-5e7121972011",
+    "7a845b8f-0625-434c-824f-4bfd6f807561"
+  ],
+  "created": "Nov 16, 2026 12:08 PM ET",
+  "createTimeMs": 1794848895572,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "c0291696-2bfa-4a57-bae2-5e7121972011",
+      "durationSec": 204.76,
+      "file": "popcountry/pc_02_phone_in_the_tip_jar_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "7a845b8f-0625-434c-824f-4bfd6f807561",
+      "durationSec": 204.36,
+      "file": "popcountry/pc_02_phone_in_the_tip_jar_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_02_phone_in_the_tip_jar_req.json",
+    "popcountry/pc_02_phone_in_the_tip_jar_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_02_phone_in_the_tip_jar.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 81 BPM, 4/4 with a lazy swing, A major. A slow, heavy stomp you can sway a full glass to.\n\nVOICE: Male baritone, warm, unhurried and a little tired, nearly talking in the verses. A room of mixed voices shouts 'hey!' and sings the chorus and bridge with him. Two spoken lines at the end, one of them an older woman.\n\nINSTRUMENTS: Strummed acoustic guitar, a whistled tune, boot stomps and handclaps, a fiddle playing the hook, a deep 808 kick under the chorus, upright-sounding bass, light snare, a tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, guitar, whistle, stomps. 0:10 Verse 1. 0:34 Pre-chorus, fiddle in. 0:46 Chorus 1 with the crowd. 1:10 Verse 2. 1:34 Pre-chorus. 1:46 Chorus 2. 2:10 Bridge, half-time, the whole room. 2:28 Final chorus. 2:54 Outro, a phone rings, two spoken lines, ends on a laugh at 3:08.\n\nPRODUCTION & MIX: 2024 country crossover: roomy acoustic instruments with a modern low end. The crowd is recorded close, like a real bar, not a stadium.\n\nSIGNATURE MOMENT: The first shouted 'hey!' after the title line at 0:49.\n\nMODERN POINT OF VIEW: The original drowns the week. This one unplugs from it: the thing everyone hands over at the door is the phone, and the song ends by sending him home.\n\nEMOTIONAL ARC: Worn out, relieved, belonging, sent home smiling.",
+  "workbookAtAGlance": "Phone in the Tip Jar\n\nBackup titles\nIt Can Wait / Darlene's House Rule\n\nAt a glance\n81 BPM, A major\nVoice: Warm male baritone with gang vocals\nLength: about 3 minutes 10",
+  "genre": "Country",
+  "year": 2024,
+  "qa": {
+    "title": "Phone in the Tip Jar",
+    "id": "pc_02",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.23 dBFS (3 clipped sample, inaudible)"
+        ],
+        "durationSec": 204.8,
+        "measuredBpm": 80.1,
+        "bpmFactor": 1,
+        "targetBpm": 81,
+        "bpmErrPct": 1.1,
+        "lufs": -13.5,
+        "peakDbfs": 0.23,
+        "clipSamples": 3,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 204.3,
+        "vocalCoverage": 0.739,
+        "vocalSpanSec": [
+          2.5,
+          204.2
+        ],
+        "vocalF0MedianHz": 185,
+        "vocalF0P25Hz": 147,
+        "lyricLineRecall": 0.972,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.35 dBFS (7 clipped sample, inaudible)"
+        ],
+        "durationSec": 204.4,
+        "measuredBpm": 81.4,
+        "bpmFactor": 1,
+        "targetBpm": 81,
+        "bpmErrPct": 0.5,
+        "lufs": -13.4,
+        "peakDbfs": 0.35,
+        "clipSamples": 7,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 203.7,
+        "vocalCoverage": 0.764,
+        "vocalSpanSec": [
+          2.0,
+          199.4
+        ],
+        "vocalF0MedianHz": 220,
+        "vocalF0P25Hz": 166,
+        "lyricLineRecall": 0.917,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

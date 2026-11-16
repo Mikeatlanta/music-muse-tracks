@@ -1,0 +1,114 @@
+{
+  "id": "pc_12",
+  "title": "Recalculating",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 12,
+  "slug": "pc_12_recalculating",
+  "inspiredBy": "Austin (Boots Stop Workin') (Dasha, 2023)",
+  "leadVoice": "Female, mid-range, dry and sarcastic, half-spoken in the verses with words landing on the beat, sung with an edge in the chorus. A crowd shouts the title. A flat robotic navigation voice speaks at the start and end.",
+  "model": "V6",
+  "style": "2024 dance-floor country line-dance song, dry sarcastic mid-range female vocal half-spoken on the beat in verses and sung with an edge in the chorus, crowd shouting the title, flat robotic navigation voice at the start and end, 110 BPM, A minor, hard stomp-clap strut, stomps and handclaps, plucked banjo riff, fiddle solo dance break, thumping kick, electric bass, twangy guitar answers, dry punchy mix, sassy, funny, defiant",
+  "negativeTags": "male lead vocals, slow ballad, pedal steel weeping, EDM synths, trap hi-hats, orchestral strings, auto-tune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: stomp-clap beat, banjo riff, robotic voice: Recalculating]\n\n[Verse 1: sassy female voice, half-spoken]\nI had the whole route planned, six years, turn by turn\nRing, house, baby, in that order, I was sure\nThen you missed the exit with a girl named Jade\nAnd the little voice inside my dashboard said\n\n[Chorus: full band, stomp-clap, crowd shouts]\n(Recalculating!) Make a U-turn, honey\n(Recalculating!) Keep the ring, keep the money\nIn a quarter mile I'm gonna be just fine\nLeft at the heartache, right at the wine\nDon't need your directions, I got mine\n(Recalculating!)\n\n[Verse 2: sassy, rhythm tighter]\nNow I'm two states over with the windows down\nSinging with the trucker in the next lane out\nYou're calling, you're calling, well, look at that\nNo signal in the canyon. Imagine that.\n\n[Chorus: full band, stomp-clap, crowd shouts]\n(Recalculating!) Make a U-turn, honey\n(Recalculating!) Keep the ring, keep the money\nIn a quarter mile I'm gonna be just fine\nLeft at the heartache, right at the wine\nDon't need your directions, I got mine\n(Recalculating!)\n\n[Dance Break: fiddle solo, steps called over the beat]\nStep to the left (your old address)\nStep to the right (my brand-new place)\nTurn it around (legal where you can)\nClap for the girl with a better plan\n\n[Final Chorus: loudest, whole floor shouting]\n(Recalculating!) Make a U-turn, honey\n(Recalculating!) Keep the ring, keep the money\nIn a quarter mile I'm gonna be just fine\nLeft at the heartache, right at the wine\nDon't need your directions, I got mine\n(Recalculating!)\n\n[Outro: banjo riff, robotic voice: You have arrived]",
+  "taskId": "6e45a2351f06dbeb970549dba609eb1f",
+  "sunoClipIds": [
+    "8251dc17-dfa7-4f7f-a8b4-5f817accac80",
+    "90da24d6-7b17-4362-be7f-85e006fd6082"
+  ],
+  "created": "Nov 16, 2026 12:08 PM ET",
+  "createTimeMs": 1794848934352,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "8251dc17-dfa7-4f7f-a8b4-5f817accac80",
+      "durationSec": 183.6,
+      "file": "popcountry/pc_12_recalculating_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "90da24d6-7b17-4362-be7f-85e006fd6082",
+      "durationSec": 183.72,
+      "file": "popcountry/pc_12_recalculating_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_12_recalculating_req.json",
+    "popcountry/pc_12_recalculating_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_12_recalculating.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 110 BPM, 4/4, A minor. A hard stomp-clap strut, built for a row of boots.\n\nVOICE: Female, mid-range, dry and sarcastic, half-spoken in the verses with words landing on the beat, sung with an edge in the chorus. A crowd shouts the title. A flat robotic navigation voice speaks at the start and end.\n\nINSTRUMENTS: Stomps and handclaps as the main beat, a plucked banjo riff, fiddle, a thumping kick, electric bass, acoustic guitar, a twangy electric guitar answering the vocal.\n\nARRANGEMENT MAP: 0:00 Intro, stomps, banjo, the robot voice. 0:09 Verse 1. 0:31 Chorus 1. 0:55 Verse 2. 1:17 Chorus 2. 1:41 Dance break, fiddle and called steps. 2:03 Final chorus. 2:30 Outro, 'You have arrived' at 2:44.\n\nPRODUCTION & MIX: 2024 dance-floor country: dry, punchy, stomps and claps as loud as the voice, plenty of space for a crowd.\n\nSIGNATURE MOMENT: The first crowd shout of the title at 0:31.\n\nMODERN POINT OF VIEW: The original asks him why. This one does not need an answer: the comic chorus is a machine calmly finding another way, which is how grown people get over things.\n\nEMOTIONAL ARC: Stung, sarcastic, moving, arrived.",
+  "workbookAtAGlance": "Recalculating\n\nBackup titles\nMake a U-Turn, Honey / You Have Arrived\n\nAt a glance\n110 BPM, A minor\nVoice: Sassy female voice, half-spoken\nLength: about 2 minutes 50",
+  "genre": "Country",
+  "year": 2023,
+  "qa": {
+    "title": "Recalculating",
+    "id": "pc_12",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 183.6,
+        "measuredBpm": 111.1,
+        "bpmFactor": 1,
+        "targetBpm": 110,
+        "bpmErrPct": 1.0,
+        "lufs": -13.3,
+        "peakDbfs": -0.06,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 180.6,
+        "vocalCoverage": 0.572,
+        "vocalSpanSec": [
+          4.1,
+          160.7
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 221,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 183.7,
+        "measuredBpm": 108.8,
+        "bpmFactor": 1,
+        "targetBpm": 110,
+        "bpmErrPct": 1.1,
+        "lufs": -13.6,
+        "peakDbfs": -0.2,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.4,
+        "contentEndSec": 183.0,
+        "vocalCoverage": 0.54,
+        "vocalSpanSec": [
+          4.4,
+          179.6
+        ],
+        "vocalF0MedianHz": 222,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

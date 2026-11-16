@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Sweet Tea Sober",
+  "prompt": "[Intro: slow electric guitar lick, organ swell]\n\n[Verse 1: gritty soul baritone, unhurried]\nTen years dry come the fifth of June\nUsed to chase the bottom of a bottle like the moon\nThought the only warm there was came out of a glass\nThen you sat down beside me and you didn't even ask\n\n[Chorus: full band, voice soars, long runs]\nNow I'm sweet tea sober\nDrunk on nothing but the way you say my name\nYou're the slow kind of burning\nFront porch, sundown, summer rain\nI don't miss it, I don't need it, it's over\nYou got me sweet tea sober\n\n[Verse 2: baritone, organ underneath]\nI still know every bar from here to Baton Rouge\nI just drive on past 'em now, I got nothing to prove\nThere's a chip in my pocket and a ring on my hand\nOne says who I was, one says who I am\n\n[Chorus: full band, voice soars, long runs]\nNow I'm sweet tea sober\nDrunk on nothing but the way you say my name\nYou're the slow kind of burning\nFront porch, sundown, summer rain\nI don't miss it, I don't need it, it's over\nYou got me sweet tea sober\n\n[Guitar Solo: slow, bluesy, bending notes]\n\n[Bridge: band drops low, voice nearly a whisper]\nAnd on the bad nights, 'cause there's still bad nights\nYou don't hide the keys\nYou just leave on the light\n\n[Final Chorus: biggest vocal, held note on the last word]\nNow I'm sweet tea sober\nDrunk on nothing but the way you say my name\nYou're the slow kind of burning\nFront porch, sundown, summer rain\nI don't miss it, I don't need it, it's over\nYou got me sweet tea sober\n\n[Outro: guitar and organ fade, ice settling in a glass]",
+  "style": "Slow country soul ballad in 6/8, gritty powerful male baritone vocal singing behind the beat with long bluesy runs, whispered bridge, one huge held note at the end, 49 BPM, A major, very slow and swaying, clean electric guitar blues licks, Hammond organ, round electric bass, lazy backbeat drums, soft female backing voices, slow blues guitar solo, warm live analogue 1960s Southern soul sound, grateful, steady, tender",
+  "negativeTags": "female lead vocals, banjo, fiddle, drum machine, synths, rap, fast tempo, auto-tune, pop gloss",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

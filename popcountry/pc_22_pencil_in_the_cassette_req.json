@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Pencil in the Cassette",
+  "prompt": "[Intro: chiming guitar, organ pad, steady kick]\n\n[Verse 1: nostalgic male baritone]\nFound a shoebox in the attic under thirty years of dust\nYour handwriting on the label, little hearts for dots\nSide A says \"slow ones,\" Side B says \"for driving\"\nI ain't owned a tape deck since the nineties\n\n[Pre-Chorus: drums build]\nBought one at a yard sale for a dollar and a half\nPushed play and the ribbon came out like a laugh\n\n[Chorus: big, open, singalong]\nSo I put a pencil in the cassette\nWound us back to seventeen\nYour bare feet on the dashboard\nMy whole life in a tank of gasoline\nFunny what a little plastic wheel can do\nPencil in the cassette, and I'm back with you\n(Whoa-oh, whoa-oh, back with you)\n\n[Verse 2: baritone, band rolling]\nYou taped it off the radio, the DJ's talking through\nThe first eight seconds of every song. I loved that about you.\nThere's a dog bark in the background, your mama calling \"phone\"\nThree minutes of July that I get to take home\n\n[Chorus: big, open, singalong]\nSo I put a pencil in the cassette\nWound us back to seventeen\nYour bare feet on the dashboard\nMy whole life in a tank of gasoline\nFunny what a little plastic wheel can do\nPencil in the cassette, and I'm back with you\n(Whoa-oh, whoa-oh, back with you)\n\n[Bridge: half-time, organ and voice]\nI don't know where you landed. I hope it's somewhere kind.\nI hope somebody keeps your songs in order, like you'd like.\n\n[Final Chorus: full band, crowd on the chant]\nSo I put a pencil in the cassette\nWound us back to seventeen\nYour bare feet on the dashboard\nMy whole life in a tank of gasoline\nFunny what a little plastic wheel can do\nPencil in the cassette, and I'm back with you\n(Whoa-oh, whoa-oh, back with you)\n\n[Outro: tape hiss, a click, the deck stops]",
+  "style": "Early-2010s country with a 1980s heartland-rock frame, slightly rough fond unhurried male baritone vocal lifting in the chorus, crowd wordless whoa-oh chant after each chorus, 104 BPM, D major, steady open bittersweet drive, chiming delayed electric guitar, Hammond organ, acoustic guitar, four-on-the-floor kick with simple snare, bass, glockenspiel in the chorus, tape hiss, wide warm mix, nostalgic, wistful, kind",
+  "negativeTags": "female lead vocals, trap hi-hats, rap, banjo, fiddle, EDM synths, auto-tune, harsh distortion",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

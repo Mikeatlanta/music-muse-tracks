@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Got Fired on a Friday",
+  "prompt": "[Intro: twangy electric guitar lick, shuffle drums]\n\n[Verse 1: grinning male baritone]\nFriday at four they handed me a box\nTwenty-one years, one plant, one clock\nI sat in the truck thinking, well, I'm through\nThen I noticed the sky was a real nice blue\n\n[Chorus: full band, fiddle and steel, singalong]\nGot fired on a Friday, went fishing on Saturday\nCaught my limit by ten\nSaw my boy play shortstop Sunday\nFirst time since I don't know when\nSlept in Monday, wife rolled over, said, \"Who's this guy?\"\nBest thing that ever happened to me\nWas getting fired on a Friday\n\n[Verse 2: baritone, band swinging]\nNow the neighbor needs a deck and his brother needs a shed\nTurns out I'm pretty handy with what's left in my head\nNo badge, no meeting, no \"circle back\"\nJust a pencil on my ear and a dog in the back\n\n[Chorus: full band, fiddle and steel, singalong]\nGot fired on a Friday, went fishing on Saturday\nCaught my limit by ten\nSaw my boy play shortstop Sunday\nFirst time since I don't know when\nSlept in Monday, wife rolled over, said, \"Who's this guy?\"\nBest thing that ever happened to me\nWas getting fired on a Friday\n\n[Bridge: band stops, spoken-sung over a single guitar]\nOld boss called, said, \"We made a mistake.\"\nI said, \"Buddy, so did I. For twenty-one years.\nI'm at the lake.\"\n\n[Final Chorus: band crashes back in, crowd voices]\nGot fired on a Friday, went fishing on Saturday\nCaught my limit by ten\nSaw my boy play shortstop Sunday\nFirst time since I don't know when\nSlept in Monday, wife rolled over, said, \"Who's this guy?\"\nBest thing that ever happened to me\nWas getting fired on a Friday\n\n[Outro: guitar lick, a fishing reel spinning]",
+  "style": "Modern country with a 1990s honky-tonk heart, big friendly slightly rough male baritone vocal with a laugh in it, belted singalong chorus, spoken-sung comic bridge, 115 BPM shuffle, G major, bouncy and broad, twangy lead electric guitar, pedal steel, fiddle, acoustic guitar, walking bass, shuffle drums with bright snare, honky-tonk piano fills, crowd voices in the last chorus, live band mix, cheerful, funny, free",
+  "negativeTags": "female lead vocals, trap hi-hats, synths, rap, slow ballad, auto-tune, minor key, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

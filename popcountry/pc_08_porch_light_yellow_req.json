@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Porch Light Yellow",
+  "prompt": "[Intro: lone harmonica, fingerpicked acoustic guitar]\n\n[Verse 1: raw cracked male voice, close and dry]\nYou left with the truck running, mad as July\nSaid this town was a jar with the lid screwed tight\nI said some things too. I was tired. I was wrong.\nI've been changing that bulb ever since you've been gone\n\n[Chorus: voice lifts and strains, fiddle joins]\nThere's a porch light yellow at the end of this road\nIt don't ask where you've been, don't say I told you so\nThe moths all know it, and the dog does too\nPorch light yellow, burning for you\n\n[Verse 2: guitar and soft kick drum]\nYour mama says give it time, says you're just like me\nStubborn as a fence post, quiet as a tree\nI see your friends at the feed store, they don't know what to say\nI buy bulbs by the dozen. I got plenty. I can wait.\n\n[Chorus: fiddle and harmonica together]\nThere's a porch light yellow at the end of this road\nIt don't ask where you've been, don't say I told you so\nThe moths all know it, and the dog does too\nPorch light yellow, burning for you\n\n[Bridge: voice and harmonica only, almost spoken]\nIf the sun comes up and you ain't in the drive\nI shut it off for the day, to save the light\nAnd I turn it back on when the sky goes gray\nThat ain't hope. It's just what I do. Every day.\n\n[Final Chorus: full band, voice breaking on the last line]\nThere's a porch light yellow at the end of this road\nIt don't ask where you've been, don't say I told you so\nThe moths all know it, and the dog does too\nPorch light yellow\nCome on home, kid. It's on for you.\n\n[Outro: harmonica alone, a screen door, tires on gravel]",
+  "style": "2022 raw folk-country waltz, rough unpolished male tenor vocal that cracks when it pushes, close and dry with breaths left in, nearly spoken bridge, 84 BPM, 3/4, E minor, fingerpicked acoustic guitar, harmonica, single fiddle, soft kick and brushed snare, upright bass, live one-room recording with no gloss, bare, aching, patient, tender",
+  "negativeTags": "female lead vocals, electric guitar, synths, drum machine, auto-tune, big harmonies, polished pop production, rap",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

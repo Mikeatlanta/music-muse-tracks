@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Phone in the Tip Jar",
+  "prompt": "[Intro: acoustic guitar, whistled tune, boot stomps]\n\n[Verse 1: laid-back male baritone, guitar and stomps]\nBoss sent an email at a quarter to five\nMarked it \"urgent,\" like the building's on fire\nTruck needs a belt and my back needs a break\nAnd my thumb's got a blister from the scrolling it takes\n\n[Pre-Chorus: fiddle slides in, drums pick up]\nSo I walked in the door and Darlene said, \"Hon,\nYou know the house rule. Hand it over. Go on.\"\n\n[Chorus: gang vocals, low 808 thump, fiddle hook]\nPut your phone in the tip jar (hey!)\nLet it buzz with the quarters and ones\nWhoever's looking, let 'em look\nWe'll call 'em back when the night is done\nGot a jukebox, got a stool, got a long old bar\nSo put your phone in the tip jar\n\n[Verse 2: baritone, band grooving]\nThere's a plumber, a teacher, a nurse off a twelve\nA kid with a ring he ain't shown to the girl\nAn old man toasting to a chair that's bare\nWe don't ask a thing, we just pull up a chair\n\n[Pre-Chorus: fiddle climbing]\nAnd the jar fills up like a church plate does\nDarlene says, \"Y'all, that's what I call love\"\n\n[Chorus: gang vocals, low 808 thump, fiddle hook]\nPut your phone in the tip jar (hey!)\nLet it buzz with the quarters and ones\nWhoever's looking, let 'em look\nWe'll call 'em back when the night is done\nGot a jukebox, got a stool, got a long old bar\nSo put your phone in the tip jar\n\n[Bridge: half-time, whole room singing]\nIt can wait (it can wait)\nIt can wait (it can wait)\nEvery little red dot, every \"running late\"\nIt can wait\n\n[Final Chorus: loudest, stomps and claps, fiddle on top]\nPut your phone in the tip jar (hey!)\nLet it buzz with the quarters and ones\nWhoever's looking, let 'em look\nWe'll call 'em back when the night is done\nGot a jukebox, got a stool, got a long old bar\nSo put your phone in the tip jar\n\n[Outro: guitar and whistle, one phone ringing, spoken]\nDarlene, whose is that?\nYours, hon. It's your wife. Go home.",
+  "style": "2024 country crossover with a hip-hop low end, warm unhurried male baritone vocal, mixed crowd gang vocals shouting hey and singing the chorus, 81 BPM, A major, slow swinging stomp, strummed acoustic guitar, whistled tune, boot stomps and handclaps, fiddle hook, deep 808 kick in the chorus, tambourine, roomy bar-room mix, half-time singalong bridge, spoken lines at the end, good-humoured, communal, singalong",
+  "negativeTags": "female lead vocals, electric guitar solo, EDM synths, auto-tune, rap verses, orchestral strings, fast tempo",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

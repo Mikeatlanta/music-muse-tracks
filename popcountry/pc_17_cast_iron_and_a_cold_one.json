@@ -1,0 +1,120 @@
+{
+  "id": "pc_17",
+  "title": "Cast Iron and a Cold One",
+  "collection": "popcountry",
+  "album": "Pop-Country Reimagined",
+  "track": 17,
+  "slug": "pc_17_cast_iron_and_a_cold_one",
+  "inspiredBy": "Chicken Fried (Zac Brown Band, 2008)",
+  "leadVoice": "Male lead, warm, slightly grainy, relaxed. Four voices in tight harmony sing the opening line alone and every chorus. He sings the bridge quietly and seriously.",
+  "model": "V6",
+  "style": "Late-2000s acoustic country with tight four-part harmony, warm slightly grainy relaxed male lead vocal, a cappella harmony opening line, group singalong choruses, quiet serious bridge, 86 BPM, G major, easy back-porch lope, nylon and steel acoustic guitars, fiddle, upright bass, brushed drums with soft backbeat, mandolin, low Hammond organ, warm woody live sound, grateful, contented, communal",
+  "negativeTags": "female lead vocals, trap hi-hats, synths, rap, distorted guitar, auto-tune, fast tempo, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Pop-Country Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: a cappella four-part harmony, no instruments]\nCast iron and a cold one, kids out in the yard\n\n[Verse 1: warm male voice, acoustic guitar]\nI've had the kind of money where you don't check the price\nHad the kind of trouble where you don't sleep nights\nNeither one of them taught me a thing\nLike a Saturday with nothing to bring but\n\n[Chorus: full band, fiddle, group singalong]\nCast iron and a cold one, kids out in the yard\nRadio on the windowsill, a ballgame from afar\nSun going down like it's got no place to be\nA paid-off truck, a porch, and my people around me\nIt ain't much, and it's all I need\n\n[Verse 2: voice and band, relaxed]\nGranddad's skillet, black as a crow\nFed four generations, never touched soap\nHe'd say, \"Rich is a table where nobody's missing\"\nI didn't get it then. Granddad, I'm listening.\n\n[Chorus: full band, fiddle, group singalong]\nCast iron and a cold one, kids out in the yard\nRadio on the windowsill, a ballgame from afar\nSun going down like it's got no place to be\nA paid-off truck, a porch, and my people around me\nIt ain't much, and it's all I need\n\n[Bridge: band drops, fiddle and voice, slower]\nHere's to the nurse on the night shift, the lineman in the storm\nThe teacher buying pencils, keeping thirty kids warm\nThe ones who keep it running so the rest of us can sit\nWe'll save you a plate. You've earned it.\n\n[Final Chorus: a cappella first line, then full band]\nCast iron and a cold one, kids out in the yard\nRadio on the windowsill, a ballgame from afar\nSun going down like it's got no place to be\nA paid-off truck, a porch, and my people around me\nIt ain't much, and it's all I need\n\n[Outro: fiddle tune, a screen door, children laughing]",
+  "taskId": "16f0f86dc419bb80ed77d8e3432eec59",
+  "sunoClipIds": [
+    "aedb0e78-1158-4e62-9316-e7b23321cfac",
+    "ad1de117-6192-4f56-80bf-c53edda78745"
+  ],
+  "created": "Nov 16, 2026 12:09 PM ET",
+  "createTimeMs": 1794848957195,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "aedb0e78-1158-4e62-9316-e7b23321cfac",
+      "durationSec": 224.68,
+      "file": "popcountry/pc_17_cast_iron_and_a_cold_one_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ad1de117-6192-4f56-80bf-c53edda78745",
+      "durationSec": 223.56,
+      "file": "popcountry/pc_17_cast_iron_and_a_cold_one_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "popcountry/pc_17_cast_iron_and_a_cold_one_req.json",
+    "popcountry/pc_17_cast_iron_and_a_cold_one_rec.json"
+  ],
+  "cover": "popcountry/covers/pc_17_cast_iron_and_a_cold_one.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 86 BPM, 4/4, G major. An easy back-porch lope; the bridge slows a little and the last chorus picks back up.\n\nVOICE: Male lead, warm, slightly grainy, relaxed. Four voices in tight harmony sing the opening line alone and every chorus. He sings the bridge quietly and seriously.\n\nINSTRUMENTS: Nylon and steel acoustic guitars, fiddle, upright bass, light drums with brushes and a soft backbeat, mandolin, Hammond organ low in the mix. No electric guitar until a short slide part in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, voices alone. 0:10 Verse 1. 0:38 Chorus 1. 1:08 Verse 2. 1:36 Chorus 2. 2:06 Bridge, slower. 2:36 Final chorus, voices alone for one line and then the band. 3:10 Outro, fiddle, door and children, ends 3:28.\n\nPRODUCTION & MIX: Warm, woody and live, like a band on a porch: harmonies wide, fiddle sweet, plenty of air.\n\nSIGNATURE MOMENT: The unaccompanied harmony on the title line at 0:00.\n\nMODERN POINT OF VIEW: The original's thanks go to soldiers. This one keeps the gratitude and widens it to the people who keep an ordinary town running, and it is sung by someone who has tried having more.\n\nEMOTIONAL ARC: Looking back, content, thankful, full.",
+  "workbookAtAGlance": "Cast Iron and a Cold One\n\nBackup titles\nGranddad's Skillet / A Table Where Nobody's Missing\n\nAt a glance\n86 BPM, G major\nVoice: Warm male lead with four-part harmony\nLength: about 3 minutes 30",
+  "genre": "Country",
+  "year": 2008,
+  "qa": {
+    "title": "Cast Iron and a Cold One",
+    "id": "pc_17",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 118 BPM vs 86 target (~9% off)"
+        ],
+        "durationSec": 224.7,
+        "measuredBpm": 117.5,
+        "bpmFactor": 0.67,
+        "targetBpm": 86,
+        "bpmErrPct": 9.0,
+        "lufs": -13.7,
+        "peakDbfs": -0.07,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 223.5,
+        "vocalCoverage": 0.637,
+        "vocalSpanSec": [
+          6.1,
+          208.6
+        ],
+        "vocalF0MedianHz": 199,
+        "vocalF0P25Hz": 196,
+        "lyricLineRecall": 0.964,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)",
+          "peak 0.06 dBFS (1 clipped sample, inaudible)",
+          "tempo measured 63 BPM vs 86 target (~9% off)"
+        ],
+        "durationSec": 223.6,
+        "measuredBpm": 62.6,
+        "bpmFactor": 1.5,
+        "targetBpm": 86,
+        "bpmErrPct": 9.3,
+        "lufs": -13.6,
+        "peakDbfs": 0.06,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 223.6,
+        "vocalCoverage": 0.679,
+        "vocalSpanSec": [
+          3.7,
+          223.6
+        ],
+        "vocalF0MedianHz": 198,
+        "vocalF0P25Hz": 196,
+        "lyricLineRecall": 0.964,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Already There",
+  "prompt": "[Intro: warm electric guitar, soft brushed drums]\n\n[Verse 1: tender male tenor]\nThere's a travel show on, some island, some sea\nYou say, \"Don't you want to go?\" and look over at me\nYou got flour on your elbow, one sock on the floor\nHoney, look around. What would I go there for?\n\n[Chorus: smooth, soulful, harmonies behind]\n'Cause I'm already there\nKitchen light, your feet in my chair\nEvery postcard place I ever wanted to see\nIs sitting right here, stealing fries from me\nThey can keep the islands and the mountain air\nHoney, I'm already there\n\n[Verse 2: tenor, band a little fuller]\nI used to keep a list in the back of my head\nThings to do, things to own, before I'm dead\nThen a Tuesday with you and a pizza and rain\nCrossed off every line, and I ain't felt the same\n\n[Chorus: smooth, soulful, harmonies behind]\n'Cause I'm already there\nKitchen light, your feet in my chair\nEvery postcard place I ever wanted to see\nIs sitting right here, stealing fries from me\nThey can keep the islands and the mountain air\nHoney, I'm already there\n\n[Bridge: guitar and voice only]\nIf the good Lord called and said, \"Time's up, son\"\nI'd say, \"That's alright. I already won.\"\n\n[Final Chorus: fullest, organ and harmonies]\n'Cause I'm already there\nKitchen light, your feet in my chair\nEvery postcard place I ever wanted to see\nIs sitting right here, stealing fries from me\nThey can keep the islands and the mountain air\nHoney, I'm already there\n\n[Outro: guitar, a television murmuring, spoken]\nChange it if you want.\nNo. I like watching you watch it.",
+  "style": "2015 country with a soul heart, soft sincere male tenor vocal with a light Southern accent and touches of falsetto, gentle harmonies, 82 BPM with a soul sway, D major, slow warm and close, clean warm electric guitar soul chords, brushed drums with rim click, round bass, electric piano, quiet organ, a touch of pedal steel, guitar-and-voice bridge, soft intimate mix, contented, devoted, gentle",
+  "negativeTags": "female lead vocals, banjo, loud drums, distorted guitar, rap, EDM synths, fast tempo, belting",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}
