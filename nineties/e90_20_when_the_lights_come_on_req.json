@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "When the Lights Come On",
+ "prompt": "[Intro: bouncing synth organ riff, four-on-the-floor kick, oohs]\n(Ooh, ooh-ooh)\nWhere do we go?\n\n[Chorus: soulful male lead, female voices answer]\nWhere do we go when the lights come on?\n(Tell me, tell me)\nWhere do we go when the song is gone?\n(Not yet, not yet)\n\n[Verse 1: male lead, beat thins to bass and hi-hat]\nThe floor is full and I am counting hours\nThe mirror ball is running out of stars\nI've held this feeling like a glass of water\nDon't make me spill it in the dark\n\n[Chorus: full beat, synth riff, female voices answer]\nWhere do we go when the lights come on?\n(Tell me, tell me)\nWhere do we go when the song is gone?\n(Not yet, not yet)\n\n[Verse 2: male lead, strings pad underneath]\nSomebody's sweeping round the edges\nSomebody's stacking up the chairs\nIf this is all, then say it's all\nIf there is more, then tell me where\n\n[Chorus: full beat, synth riff, female voices answer]\nWhere do we go when the lights come on?\n(Tell me, tell me)\nWhere do we go when the song is gone?\n(Not yet, not yet)\n\n[Breakdown: kick drops out, piano chords and voices]\n(Ooh, ooh-ooh)\nOne more\n(Ooh, ooh-ooh)\nJust one more\n\n[Build: snare roll, riff filters back in]\nWhere do we go?\nWhere do we go?\nWhere do we go?\n\n[Final Chorus: everything, ad-libs, extra percussion]\nWhere do we go when the lights come on?\n(Tell me, tell me)\nWhere do we go when the song is gone?\n(Not yet, not yet)\nWhere do we go when the lights come on?\n(Tell me, tell me)\nWhere do we go?\n\n[Outro: riff alone, kick stops, room noise]\n(Not yet)",
+ "style": "1993 Eurodance, soulful warm male baritone vocal with gospel weight, two airy high female backing voices singing wordless oohs and short answers, 124 BPM, G minor, bright bouncing club pulse under a minor-key melody, bouncing percussive synth organ riff doubling as the bass line, hard four-on-the-floor kick, off-beat open hi-hats, claps, string-synth pad, house piano breakdown, snare-roll build, punchy bright uncomplicated mix, melancholy, danceable, hypnotic",
+ "negativeTags": "distorted guitar, rock drums, acoustic ballad, rap verse, trap hi-hats, dubstep, autotune, saxophone",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 240,
+ "callBackUrl": "https://example.com/cb"
+}

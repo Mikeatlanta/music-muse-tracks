@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Every Ocean After",
+ "prompt": "[Intro: solo low whistle, soft synth pad, distant chimes]\n\n[Verse 1: whispered, close, pad and acoustic guitar]\nEvery morning there's a second\nJust before I know you're gone\nWhen the kettle's on for two cups\nAnd the radio plays on\n\n[Verse 2: a little fuller, bass and light percussion]\nI have been to other harbours\nI have learned another shore\nBut the water has a memory\nAnd it knows what it is for\n\n[Chorus: strings enter, voice opens]\nYou are every ocean after\nEvery coast I'll ever see\nThere's a tide that keeps on turning\nAnd it turns you back to me\nEvery ocean after\n\n[Whistle Interlude: low whistle plays the chorus melody]\n\n[Verse 3: steady, drums enter softly]\nLove was once, and once was plenty\nIt was all I'd ever need\nI have kept you like a lighthouse\nKeeps a light for ships at sea\n\n[Chorus: fuller, strings and drums]\nYou are every ocean after\nEvery coast I'll ever see\nThere's a tide that keeps on turning\nAnd it turns you back to me\nEvery ocean after\n\n[Bridge: band drops, voice and piano, rising]\nYou're here\nIn the salt and in the weather\nYou're here\nIn the names we chose together\n\n[Final Chorus: key change up, full orchestra, belted]\nYou are every ocean after\nEvery coast I'll ever see\nThere's a tide that keeps on turning\nAnd it turns you back to me\nEvery ocean after\nEvery ocean after\n\n[Outro: solo low whistle, last line whispered]\nAnd it turns you back to me",
+ "style": "1997 film theme pop ballad, clear pure female soprano vocal, whispered verses building to a full-power belt with long held notes, 96 BPM, E major with a dramatic key change up for the final chorus, solo low Irish whistle intro and interludes, soft synth pads and chimes, fingerpicked acoustic guitar, full string orchestra, gentle bass, slow big backbeat drums arriving late, piano bridge, swelling electric guitar under the last chorus, glossy wide deep mix, wistful, devoted, sweeping",
+ "negativeTags": "male lead vocals, rap, fast tempo, distorted riffs, drum machine, trap hi-hats, autotune, EDM",
+ "vocalGender": "f",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 270,
+ "callBackUrl": "https://example.com/cb"
+}

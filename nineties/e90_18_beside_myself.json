@@ -1,0 +1,114 @@
+{
+  "id": "e90_18",
+  "title": "Beside Myself",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 18,
+  "slug": "e90_18_beside_myself",
+  "inspiredBy": "Losing My Religion (R.E.M., 1991)",
+  "leadVoice": "Male, reedy and slightly nasal, between baritone and tenor, with clear consonants and a worried edge. Urgent but never shouted. A second male voice sings a high harmony on the refrains.",
+  "model": "V6",
+  "style": "1991 American college rock, jangle folk-rock, reedy slightly nasal male vocal, urgent and worried, high male harmony on the refrains, 125 BPM, A minor, brisk and circling, lead mandolin playing a quick circling riff throughout, briskly strummed acoustic guitar, busy melodic bass, dry simple drums with handclaps on the snare, cellos and violins entering at the bridge, no chorus only a returning refrain, dry natural uncluttered mix, restless, anxious, introspective",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, distorted guitar, guitar solo, rap, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: circling mandolin riff, acoustic guitar strum, bass]\n\n[Verse 1: urgent, close, drums enter]\nI had a speech, I had it clean\nI had it folded in my sleeve\nI watched me walk across the floor\nI watched me turn around and leave\n\n[Refrain: handclaps on the backbeat, harmony joins]\nI'm beside myself\nI'm standing right there\nWatching what I do\nLike it's somebody else's dare\nI meant to whisper\nAnd I heard me shout\nI'm beside myself\nIn the hall\n\n[Verse 2: mandolin answers each line]\nEvery hint I ever dropped\nCame back addressed to me\nI count the times you looked this way\nOn fingers that I don't have free\n\n[Refrain: handclaps on the backbeat, harmony joins]\nI'm beside myself\nI'm standing right there\nWatching what I do\nLike it's somebody else's dare\nI meant to whisper\nAnd I heard me shout\nI'm beside myself\nIn the hall\n\n[Bridge: strings enter, chords darken, voice lower]\nAnd none of it was out loud\nNone of it was out loud\nThe whole conversation\nWas only in the crowd\nInside my head\n\n[Instrumental: mandolin riff with string section, building]\n\n[Verse 3: full band, strings sustained]\nSo here's the thing I didn't send\nHere's the line I threw away\nI'll stand a little closer next time\nI'll have a little less to say\n\n[Final Refrain: fullest, two voices in harmony]\nI'm beside myself\nI'm standing right there\nWatching what I do\nLike it's somebody else's dare\nI meant to whisper\nAnd I heard me shout\nI'm beside myself\nI'm beside myself\n\n[Outro: mandolin riff alone, slowing, stops mid-phrase]",
+  "taskId": "ae68f0246f2d92f4d07d77e04fb59c35",
+  "sunoClipIds": [
+    "5c2df2ea-1865-4bb8-9580-1b9d87548166",
+    "758658f3-bc46-47d9-82eb-0e665b861598"
+  ],
+  "created": "Nov 15, 2026 9:21 PM ET",
+  "createTimeMs": 1794795677840,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "5c2df2ea-1865-4bb8-9580-1b9d87548166",
+      "durationSec": 254.04,
+      "file": "nineties/e90_18_beside_myself_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "758658f3-bc46-47d9-82eb-0e665b861598",
+      "durationSec": 254.36,
+      "file": "nineties/e90_18_beside_myself_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_18_beside_myself_req.json",
+    "nineties/e90_18_beside_myself_rec.json"
+  ],
+  "cover": "nineties/covers/e90_18_beside_myself.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 125 BPM, 4/4, A minor. Brisk and circling, restless more than sad. It moves fast and goes nowhere, on purpose.\n\nVOICE: Male, reedy and slightly nasal, between baritone and tenor, with clear consonants and a worried edge. Urgent but never shouted. A second male voice sings a high harmony on the refrains.\n\nINSTRUMENTS: A mandolin playing a quick, circling riff that leads the whole song. Briskly strummed acoustic guitar. A melodic bass line that moves a lot. Dry, simple drums with handclaps doubling the snare. A small string section (cellos and violins) entering at the bridge. No electric guitar solo.\n\nARRANGEMENT MAP: 0:00 Intro, mandolin riff with guitar and bass. 0:15 Verse 1, drums enter. 0:46 Refrain 1. 1:17 Verse 2. 1:48 Refrain 2. 2:19 Bridge, strings arrive and the harmony darkens. 2:42 Instrumental, mandolin and strings. 2:58 Verse 3. 3:29 Final refrain, with the title line sung twice at the end. 3:58 Outro, the mandolin plays alone, slows, and stops in the middle of the phrase at 4:08.\n\nPRODUCTION & MIX: Early-90s American college rock: dry, natural and uncluttered, acoustic instruments close and bright, vocal plain and central.\n\nSIGNATURE MOMENT: The mandolin riff, heard alone in the first four seconds and again at the very end, where it does not finish.\n\nMODERN POINT OF VIEW: Verse 3 is something the original's narrator could not manage: a small, practical plan for next time. The idiom is updated to one that still sounds odd to younger ears.\n\nEMOTIONAL ARC: Embarrassment, obsessive replay, clarity, and a modest resolution.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1991 American college rock, jangle folk-rock, reedy slightly nasal male vocal, urgent and worried, high male harmony on the refrains, 125 BPM, A minor, brisk and circling, lead mandolin playing a quick circling riff throughout, briskly strummed acoustic guitar, busy melodic bass, dry simple drums with handclaps on the snare, cellos and violins entering at the bridge, no chorus only a returning refrain, dry natural uncluttered mix, restless, anxious, introspective\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, drum machine, female lead vocals, distorted guitar, guitar solo, rap, autotune, EDM\n\nWHAT IT IS ABOUT\n\nSomeone rehearsed what to say to a person they cannot stop thinking about, then watched themselves fail to say it, as if from a few feet away.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a crush; social anxiety at a party; grief, where you watch yourself go through the motions; or, taken literally, a man who meets his own double. The idiom means overwrought, and the lyric keeps slipping into the literal picture.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an everyday idiom that is heard as something stranger, fragments of second-guessing, a refrain instead of a chorus, and a circling mandolin. Designed mishearing: 'I'm beside myself' is taken literally, and 'in the hall' is heard as 'in the fall'.",
+  "workbookAtAGlance": "Beside Myself\n\nBackup titles\nSomebody Else's Dare / None of It Out Loud\n\nAt a glance\n125 BPM, A minor\nVoice: Reedy male baritone-tenor, urgent\nLength: about 4 minutes",
+  "qa": {
+    "title": "Beside Myself",
+    "id": "e90_18",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.32 dBFS (5 clipped sample, inaudible)"
+        ],
+        "durationSec": 254.1,
+        "measuredBpm": 127.6,
+        "bpmFactor": 1,
+        "targetBpm": 125,
+        "bpmErrPct": 2.1,
+        "lufs": -12.1,
+        "peakDbfs": 0.32,
+        "clipSamples": 5,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 253.0,
+        "vocalCoverage": 0.386,
+        "vocalSpanSec": [
+          19.0,
+          223.0
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 221,
+        "lyricLineRecall": 0.951,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.4,
+        "measuredBpm": 124.5,
+        "bpmFactor": 1,
+        "targetBpm": 125,
+        "bpmErrPct": 0.4,
+        "lufs": -12.9,
+        "peakDbfs": -0.12,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.9,
+        "contentEndSec": 253.0,
+        "vocalCoverage": 0.442,
+        "vocalSpanSec": [
+          17.9,
+          210.4
+        ],
+        "vocalF0MedianHz": 221,
+        "vocalF0P25Hz": 197,
+        "lyricLineRecall": 0.927,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

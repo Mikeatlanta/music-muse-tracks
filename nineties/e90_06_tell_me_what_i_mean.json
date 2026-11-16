@@ -1,0 +1,114 @@
+{
+  "id": "e90_06",
+  "title": "Tell Me What I Mean",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 6,
+  "slug": "e90_06_tell_me_what_i_mean",
+  "inspiredBy": "I Want It That Way (Backstreet Boys, 1999)",
+  "leadVoice": "Five male voices. Two tenors trade the verses, one breathy and one fuller. Choruses are tight five-part harmony with a high tenor on top and a bass voice underneath, and the answers in brackets are sung by the group behind the lead. Ad-libbed runs over the final chorus.",
+  "model": "V6",
+  "style": "1999 boy band pop ballad, five-part male vocal harmony with two tenor lead singers trading lines, 99 BPM, A major with a key change up for the final chorus, glossy and earnest, picked steel-string acoustic guitar figure, warm synth pad, clean chorus electric guitar, punchy pop drums with deep snare, fat synth bass, soft string synth, call-and-response backing vocals, a cappella breakdown before the key change, clean bright stacked-vocal mix, sincere, yearning, singalong",
+  "negativeTags": "distorted guitar, female lead vocals, rap, dark mood, trap hi-hats, EDM drop, autotune, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: picked acoustic guitar, soft synth pad, one voice humming]\n\n[Verse 1: solo tenor, breathy, guitar and pad]\nYou're my always, you're my never-mind\nThe only word I can't define\nBelieve me when I say it's true\nI don't mean a thing I say to you\n\n[Chorus: five-part harmony, drums enter, backing answers]\nTell me what I mean\n(Is it yes or is it maybe?)\nTell me what I mean\n(Am I going, am I staying?)\nDon't ever tell me what I asked\nJust tell me what I mean\n\n[Verse 2: second singer, lower, full beat]\nWe're two worlds and we're one street\nYou're everything I shouldn't keep\nIt's way too late, it's way too soon\nI'm over it, I'm over the moon\n\n[Chorus: five-part harmony, backing answers]\nTell me what I mean\n(Is it yes or is it maybe?)\nTell me what I mean\n(Am I going, am I staying?)\nDon't ever tell me what I asked\nJust tell me what I mean\n\n[Bridge: beat drops to claps, voices trade lines]\nNow I can see we've come undone\nFrom something we had not begun\nWhatever's far, whatever's near\nI hope you know I wish you weren't\nI wish you were here\n\n[Breakdown Chorus: a cappella, five voices only]\nTell me what I mean\n(Is it yes or is it maybe?)\nTell me what I mean\n\n[Final Chorus: key change up, full band, ad-libs on top]\nTell me what I mean\n(Is it yes or is it maybe?)\nTell me what I mean\n(Am I going, am I staying?)\nDon't ever tell me what I asked\nJust tell me what I mean\n(Tell me, tell me)\nTell me what I mean\n\n[Outro: voices only, last chord held]\n'Cause I mean it\nWhatever it is",
+  "taskId": "bfb46b2bc0565158bdcaba388e84885b",
+  "sunoClipIds": [
+    "0d8c9c1d-ce09-4447-8cf9-7bc1f7a6a562",
+    "3b6301ca-db19-43fe-84a5-4be5c5954456"
+  ],
+  "created": "Nov 15, 2026 9:20 PM ET",
+  "createTimeMs": 1794795628023,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0d8c9c1d-ce09-4447-8cf9-7bc1f7a6a562",
+      "durationSec": 239.56,
+      "file": "nineties/e90_06_tell_me_what_i_mean_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "3b6301ca-db19-43fe-84a5-4be5c5954456",
+      "durationSec": 239.0,
+      "file": "nineties/e90_06_tell_me_what_i_mean_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_06_tell_me_what_i_mean_req.json",
+    "nineties/e90_06_tell_me_what_i_mean_rec.json"
+  ],
+  "cover": "nineties/covers/e90_06_tell_me_what_i_mean.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 99 BPM, 4/4, A major rising to B major for the last chorus. Mid-tempo, glossy, earnest.\n\nVOICE: Five male voices. Two tenors trade the verses, one breathy and one fuller. Choruses are tight five-part harmony with a high tenor on top and a bass voice underneath, and the answers in brackets are sung by the group behind the lead. Ad-libbed runs over the final chorus.\n\nINSTRUMENTS: A picked steel-string acoustic guitar figure that opens the song and never leaves. Warm synth pad. Clean electric guitar with light chorus effect. A punchy, simple pop drum kit with a deep snare. Fat synth bass. Soft string synth in the choruses. Finger clicks and handclaps in the bridge.\n\nARRANGEMENT MAP: 0:00 Intro, acoustic figure and a hummed line. 0:12 Verse 1, no drums. 0:36 Chorus 1, the beat arrives. 1:01 Verse 2. 1:25 Chorus 2. 1:50 Bridge, beat reduced to claps, voices trading. 2:19 Breakdown chorus, five voices a cappella. 2:34 A drum fill and the key change into the final chorus with ad-libs. 3:18 Outro, voices alone on the last two lines, held chord to 3:40.\n\nPRODUCTION & MIX: Late-90s Swedish pop production: every part clean and separate, vocals stacked and very forward, bright top end, tight low end.\n\nSIGNATURE MOMENT: The a cappella breakdown at 2:19 followed by the key change.\n\nMODERN POINT OF VIEW: The original's accidental nonsense is done on purpose here and is the subject. The singer is a grown man who knows he communicates badly and asks for help.\n\nEMOTIONAL ARC: Confusion played straight, then tenderness in the last two lines.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1999 boy band pop ballad, five-part male vocal harmony with two tenor lead singers trading lines, 99 BPM, A major with a key change up for the final chorus, glossy and earnest, picked steel-string acoustic guitar figure, warm synth pad, clean chorus electric guitar, punchy pop drums with deep snare, fat synth bass, soft string synth, call-and-response backing vocals, a cappella breakdown before the key change, clean bright stacked-vocal mix, sincere, yearning, singalong\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, female lead vocals, rap, dark mood, trap hi-hats, EDM drop, autotune, saxophone\n\nWHAT IT IS ABOUT\n\nSomeone who cannot say what he feels asks the person he loves to translate him. Every line cancels the one before it, and every line is sincere.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a couple who are terrible at texting and good at each other; a commitment-phobe arguing with himself; a loving send-up of pop lyrics; or anyone whose words come out wrong.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: deliberate contradiction, traded lead lines, a call-and-response question, stacked harmonies and a final key change. Designed mishearing: 'Tell me what I mean' is heard as 'Tell me, what am I?', which makes it an identity song.",
+  "workbookAtAGlance": "Tell Me What I Mean\n\nBackup titles\nYes or Maybe / Wish You Weren't Here\n\nAt a glance\n99 BPM, A major, key change to B\nVoice: Five-part male harmony, tenor leads\nLength: about 3 minutes 45",
+  "qa": {
+    "title": "Tell Me What I Mean",
+    "id": "e90_06",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.23 dBFS (2 clipped sample, inaudible)"
+        ],
+        "durationSec": 239.6,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 99,
+        "bpmErrPct": 0.4,
+        "lufs": -13.4,
+        "peakDbfs": 0.23,
+        "clipSamples": 2,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 236.9,
+        "vocalCoverage": 0.804,
+        "vocalSpanSec": [
+          7.5,
+          220.5
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 260,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 239.0,
+        "measuredBpm": 101.3,
+        "bpmFactor": 1,
+        "targetBpm": 99,
+        "bpmErrPct": 2.4,
+        "lufs": -13.3,
+        "peakDbfs": -0.03,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 237.1,
+        "vocalCoverage": 0.804,
+        "vocalSpanSec": [
+          3.4,
+          217.4
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 209,
+        "lyricLineRecall": 0.921,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Rather Be Tired",
+ "prompt": "[Intro: soft orchestral strings, solo piano, a held oboe note]\n\n[Verse 1: raspy, hushed, piano and strings]\nFour a.m., the house has gone to ground\nThe clock is loud and you don't make a sound\nThere's a morning coming I'll be useless for\nAnd nothing in it's worth a minute more\n\n[Pre-Chorus: drums enter softly, strings rise]\nLet the dark go on as long as it likes\nI've got nowhere better on any of these nights\n\n[Chorus: full band and orchestra, big drums]\nI'd rather be tired\nThan sleep through a second of this\nRather be wrecked and wired\nThan wake to a moment I missed\nLet the whole world dream without me\nI'll be right here, eyes wide\nI'd rather be tired\n\n[Verse 2: quieter, acoustic guitar joins]\nYour hand keeps closing on the nothing in the air\nLike you're catching something only you see there\nI've been counting every freckle like a sailor counts the stars\nI keep losing count and starting from the start\n\n[Pre-Chorus: drums build, strings rise]\nLet the dark go on as long as it likes\nI've got nowhere better on any of these nights\n\n[Chorus: full band and orchestra, big drums]\nI'd rather be tired\nThan sleep through a second of this\nRather be wrecked and wired\nThan wake to a moment I missed\nLet the whole world dream without me\nI'll be right here, eyes wide\nI'd rather be tired\n\n[Bridge: half-time, guitar and strings swell, voice climbs]\nAnd they tell me it goes fast\nThey all say that\nI'm not letting one get past\nNot one, not one\n\n[Guitar Solo: short, singing, over full orchestra]\n\n[Final Chorus: key change up, screamed high notes, everything]\nI'd rather be tired\nThan sleep through a second of this\nRather be wrecked and wired\nThan wake to a moment I missed\nLet the whole world dream without me\nI'll be right here, eyes wide\nI'd rather be tired\nOh, I'd rather be tired\n\n[Outro: orchestra fades to piano, whispered]\nGo on, sleep\nI've got this",
+ "style": "1998 orchestral rock power ballad, raspy male rock tenor vocal, hushed murmured verses, gritty full-voice choruses and screamed sustained high notes at the end, 60 BPM with a slow triplet sway, D major with a key change up for the final chorus, full orchestra with strings, brass and timpani, solo piano, acoustic guitar, big sustained electric guitar chords, short melodic guitar solo, slow heavy rock drums, blockbuster film ballad mix with long reverbs, tender, devoted, epic",
+ "negativeTags": "synth-pop, drum machine, female lead vocals, rap, fast tempo, trap hi-hats, autotune, EDM",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 270,
+ "callBackUrl": "https://example.com/cb"
+}

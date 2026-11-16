@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Beside Myself",
+ "prompt": "[Intro: circling mandolin riff, acoustic guitar strum, bass]\n\n[Verse 1: urgent, close, drums enter]\nI had a speech, I had it clean\nI had it folded in my sleeve\nI watched me walk across the floor\nI watched me turn around and leave\n\n[Refrain: handclaps on the backbeat, harmony joins]\nI'm beside myself\nI'm standing right there\nWatching what I do\nLike it's somebody else's dare\nI meant to whisper\nAnd I heard me shout\nI'm beside myself\nIn the hall\n\n[Verse 2: mandolin answers each line]\nEvery hint I ever dropped\nCame back addressed to me\nI count the times you looked this way\nOn fingers that I don't have free\n\n[Refrain: handclaps on the backbeat, harmony joins]\nI'm beside myself\nI'm standing right there\nWatching what I do\nLike it's somebody else's dare\nI meant to whisper\nAnd I heard me shout\nI'm beside myself\nIn the hall\n\n[Bridge: strings enter, chords darken, voice lower]\nAnd none of it was out loud\nNone of it was out loud\nThe whole conversation\nWas only in the crowd\nInside my head\n\n[Instrumental: mandolin riff with string section, building]\n\n[Verse 3: full band, strings sustained]\nSo here's the thing I didn't send\nHere's the line I threw away\nI'll stand a little closer next time\nI'll have a little less to say\n\n[Final Refrain: fullest, two voices in harmony]\nI'm beside myself\nI'm standing right there\nWatching what I do\nLike it's somebody else's dare\nI meant to whisper\nAnd I heard me shout\nI'm beside myself\nI'm beside myself\n\n[Outro: mandolin riff alone, slowing, stops mid-phrase]",
+ "style": "1991 American college rock, jangle folk-rock, reedy slightly nasal male vocal, urgent and worried, high male harmony on the refrains, 125 BPM, A minor, brisk and circling, lead mandolin playing a quick circling riff throughout, briskly strummed acoustic guitar, busy melodic bass, dry simple drums with handclaps on the snare, cellos and violins entering at the bridge, no chorus only a returning refrain, dry natural uncluttered mix, restless, anxious, introspective",
+ "negativeTags": "synthesizer, drum machine, female lead vocals, distorted guitar, guitar solo, rap, autotune, EDM",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 255,
+ "callBackUrl": "https://example.com/cb"
+}

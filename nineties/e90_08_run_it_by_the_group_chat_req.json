@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Run It By the Group Chat",
+ "prompt": "[Intro: laughter, running footsteps, piano slide, stomping beat]\nAlright, listen up\n\n[Verse 1: chanted lead, the group shouts the answers]\nBefore you get a yes, there's a panel, there's a test\n(Who's on it?) Five of my best\n(What's the question?) Can you hang, can you laugh\nCan you handle all the screenshots in the group chat?\n\n[Chorus: all five in unison, handclaps]\nYou like me? Cute. Run it by the group chat\nLove's a team sport, baby, that's a fact\nIf they say \"who's this?\" then you won't last\nGotta run it, run it, run it by the group chat\nGive me that shoobie-zap, shoobie-zap-zoo\n\n[Verse 2: second chanted lead, the group answers]\nYou can bring the flowers, you can bring the car\n(Does he listen?) That's the bar\n(Does she show up?) Rain or shine\nIf you're good to my people then you're good to mine\n\n[Chorus: all five in unison, handclaps]\nYou like me? Cute. Run it by the group chat\nLove's a team sport, baby, that's a fact\nIf they say \"who's this?\" then you won't last\nGotta run it, run it, run it by the group chat\nGive me that shoobie-zap, shoobie-zap-zoo\n\n[Bridge: roll call rap, each voice takes a line]\nWe got Priya with receipts, we got Jo who never sleeps\nWe got Dee who reads your stars, Kay who checks your car\nAnd Nan's eighty-three and she's meaner than me\nSo mind your manners when you come for tea\n\n[Breakdown: sung softly, piano and finger snaps]\nLovers come and lovers go\nThese five were here before hello\n\n[Final Chorus: everyone shouting, key hits, whistles]\nYou like me? Cute. Run it by the group chat\nLove's a team sport, baby, that's a fact\nIf they say \"who's this?\" then you won't last\nGotta run it, run it, run it by the group chat\nGive me that shoobie-zap, shoobie-zap-zoo\nShoobie-zap, shoobie-zap-zoo\n\n[Outro: laughter, one voice, door slam]\nApproved. For now.",
+ "style": "1996 British girl group dance-pop, five distinct female voices, chanted half-rapped lead lines with the group shouting answers, unison gang-shout choruses, 110 BPM, B major, stomping bouncing strut, kick and handclap stomp, bright pub piano chords and slides, rubbery funky bass, scratchy wah guitar, synth horn stabs, roll-call rap bridge, soft finger-snap breakdown, laughter and ad-libs left in, dry bright busy mix, cheeky, loud, joyful, playful",
+ "negativeTags": "male lead vocals, slow ballad, distorted guitar, dark mood, trap hi-hats, autotune, EDM drop",
+ "vocalGender": "f",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 210,
+ "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "e90_01",
+  "title": "If You Looked Up",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 1,
+  "slug": "e90_01_if_you_looked_up",
+  "inspiredBy": "Iris (Goo Goo Dolls, 1998)",
+  "leadVoice": "Male tenor with sand in it. Verses nearly spoken, close to the mic. Choruses pushed to the top of the chest voice with a crack on the highest note. No harmony until the final chorus, then one octave double.",
+  "model": "V6",
+  "style": "1998 alternative rock power ballad, raspy male tenor vocal, quiet intimate verses and a huge full-voice chorus, 72 BPM in 6/8 waltz time, D major, droning open-tuned acoustic guitar, mandolin tremolo, sweeping orchestral string section as loud as the guitars, melodic bass, big roomy rock drums with wide crash cymbals, clean electric guitar, late-arriving strings, one stumbling odd bar in the instrumental, warm wide radio-rock mix, dry forward vocal, yearning, aching, cathartic",
+  "negativeTags": "synth-pop, drum machine, female lead vocals, rap, EDM, trap hi-hats, autotune, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: droning open-tuned acoustic guitar, mandolin tremolo]\n\n[Verse 1: raspy, close, quiet]\nI've been standing at the edge of every frame\nThe blur behind the smile, without a name\nAnd I would trade the whole unbroken sky\nTo be the thing that finally caught your eye\n\n[Pre-Chorus: strings creep in]\n'Cause nobody gets the real thing anymore\nWe send the better version to the door\n\n[Chorus: full band, crashing drums, wide strings]\nAnd if you looked up, you would see me\nI'm right here where I've always been\nI don't need the world to believe me\nI just need one person to let me in\nIf you looked up\nIf you looked up\n\n[Verse 2: quieter again, mandolin answers]\nI can taste the words I never got to say\nThey sit behind my teeth like yesterday\nYou're so close I can hear you breathing slow\nAnd still a thousand miles of glass to go\n\n[Pre-Chorus: strings rise]\nAnd everything I built to keep me safe\nIs everything that's standing in the way\n\n[Chorus: full band, crashing drums, wide strings]\nAnd if you looked up, you would see me\nI'm right here where I've always been\nI don't need the world to believe me\nI just need one person to let me in\nIf you looked up\nIf you looked up\n\n[Instrumental: mandolin and strings, one stumbling odd bar, building]\n\n[Bridge: voice strains, drums pound]\nI don't want to be a light across the bay\nA voice inside a wire, a name you save\nI want to be the weight beside your hand\nThe one thing in this life you understand\n\n[Breakdown: guitar and voice only]\nIf you looked up, you would see me\nI've been waving all this time\n\n[Final Chorus: biggest, strings soaring, full cry]\nAnd if you looked up, you would see me\nI'm right here where I've always been\nLet the whole world never believe me\nI just need you to let me in\nIf you looked up\nIf you looked up\n\n[Outro: band falls away, mandolin fades]\nLook up\nI'm right here",
+  "taskId": "e2e92d5baa4cd15c6133916c1120176a",
+  "sunoClipIds": [
+    "8d84bf90-7459-4ef1-ba8a-5f2196bbd74c",
+    "413c6a75-50a0-4cd1-9c51-a412db649bc6"
+  ],
+  "created": "Nov 15, 2026 9:20 PM ET",
+  "createTimeMs": 1794795610036,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "8d84bf90-7459-4ef1-ba8a-5f2196bbd74c",
+      "durationSec": 254.24,
+      "file": "nineties/e90_01_if_you_looked_up_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "413c6a75-50a0-4cd1-9c51-a412db649bc6",
+      "durationSec": 254.48,
+      "file": "nineties/e90_01_if_you_looked_up_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_01_if_you_looked_up_req.json",
+    "nineties/e90_01_if_you_looked_up_rec.json"
+  ],
+  "cover": "nineties/covers/e90_01_if_you_looked_up.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 72 BPM felt in 6/8, D major, a swaying waltz that lurches forward. Tender, then enormous.\n\nVOICE: Male tenor with sand in it. Verses nearly spoken, close to the mic. Choruses pushed to the top of the chest voice with a crack on the highest note. No harmony until the final chorus, then one octave double.\n\nINSTRUMENTS: Acoustic guitar in an open tuning where several strings ring the same note, giving a constant drone. Mandolin tremolo answering the vocal. A full string section that arrives late and takes over. Fretless-sounding melodic bass. Big, roomy rock drums with wide crash cymbals. Clean electric guitar doubling the drone.\n\nARRANGEMENT MAP: 0:00 Intro, droning guitar and mandolin. 0:14 Verse 1, voice and guitar. 0:40 Pre-chorus, strings creep in. 0:53 Chorus 1, the band crashes in. 1:22 Verse 2, pulled back with mandolin answers. 1:48 Pre-chorus. 2:01 Chorus 2. 2:30 Instrumental, mandolin and strings trade the tune and the bar stumbles once, as if the song loses its footing. 2:52 Bridge, the hardest singing. 3:14 Breakdown, two lines with guitar only. 3:26 Final chorus at full size. 3:56 Outro, the band drops away and the mandolin fades by 4:10.\n\nPRODUCTION & MIX: Late-90s radio rock: warm, wide and slightly compressed, strings mixed as loud as the guitars, vocal dry and forward.\n\nSIGNATURE MOMENT: The stumbling bar in the instrumental at about 2:40, followed by the whole orchestra lifting into the bridge.\n\nMODERN POINT OF VIEW: The lyric moves the invisibility from a film angel to an ordinary room with a lit screen in it. A soft sub-bass sits under the choruses for modern speakers.\n\nEMOTIONAL ARC: Longing, frustration, a plea, and at the end a quiet hand held out.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1998 alternative rock power ballad, raspy male tenor vocal, quiet intimate verses and a huge full-voice chorus, 72 BPM in 6/8 waltz time, D major, droning open-tuned acoustic guitar, mandolin tremolo, sweeping orchestral string section as loud as the guitars, melodic bass, big roomy rock drums with wide crash cymbals, clean electric guitar, late-arriving strings, one stumbling odd bar in the instrumental, warm wide radio-rock mix, dry forward vocal, yearning, aching, cathartic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynth-pop, drum machine, female lead vocals, rap, EDM, trap hi-hats, autotune, saxophone\n\nWHAT IT IS ABOUT\n\nSomeone has become invisible to the one person who matters, and is standing right there. All it would take is for that person to look up.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a partner across the sofa from a phone; a parent of a teenager; a ghost or angel in the room; an older person the world has stopped noticing. Each fits every line.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: one plain sentence as the whole chorus, a narrator who cannot be seen, the lurching waltz and droning guitar, and a stumbling instrumental bar. Designed mishearing: 'If you looked up' is easily heard as 'If you looked, love', which turns a complaint into an endearment.",
+  "workbookAtAGlance": "If You Looked Up\n\nBackup titles\nRight Here All Along / Glass to Go\n\nAt a glance\n72 BPM (6/8), D major\nVoice: Raspy male tenor, quiet to full cry\nLength: about 4 minutes",
+  "qa": {
+    "title": "If You Looked Up",
+    "id": "e90_01",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.3,
+        "measuredBpm": 48.4,
+        "bpmFactor": 1.5,
+        "targetBpm": 72,
+        "bpmErrPct": 0.9,
+        "lufs": -13.1,
+        "peakDbfs": -0.85,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.9,
+        "contentEndSec": 252.6,
+        "vocalCoverage": 0.671,
+        "vocalSpanSec": [
+          21.1,
+          233.6
+        ],
+        "vocalF0MedianHz": 333,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.973,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.5,
+        "measuredBpm": 72.3,
+        "bpmFactor": 1,
+        "targetBpm": 72,
+        "bpmErrPct": 0.4,
+        "lufs": -13.3,
+        "peakDbfs": -0.62,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 253.7,
+        "vocalCoverage": 0.716,
+        "vocalSpanSec": [
+          19.4,
+          238.5
+        ],
+        "vocalF0MedianHz": 369,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.919,
+        "lyricUnclearSections": [
+          "Pre-Chorus"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

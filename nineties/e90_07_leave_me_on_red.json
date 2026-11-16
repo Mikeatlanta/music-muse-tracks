@@ -1,0 +1,116 @@
+{
+  "id": "e90_07",
+  "title": "Leave Me on Red",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 7,
+  "slug": "e90_07_leave_me_on_red",
+  "inspiredBy": "...Baby One More Time (Britney Spears, 1998)",
+  "leadVoice": "Young female pop voice, breathy with a deliberate creak at the start of phrases and little sighs at the end. Verses close and conspiratorial. Choruses stacked many times over with a harder, nasal belt, and bracketed echoes sung by backing voices.",
+  "model": "V6",
+  "style": "1998 teen pop, young female pop vocal, breathy with a creaky vocal fry and sighs, stacked nasal belted chorus, 93 BPM, C minor, tight strutting groove with a dark edge, three low percussive piano stabs as a signature motif, wah-wah rhythm guitar, funky sliding electric bass, dry punchy programmed drums with huge snare, swelling synth strings, handclaps, echoed backing vocals, half-spoken bridge, dry loud bright Swedish pop mix, lonely, impatient, catchy",
+  "negativeTags": "male lead vocals, distorted guitar, guitar solo, slow ballad, trap hi-hats, EDM drop, saxophone",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: three low piano stabs, wah guitar, creaky ad-lib]\nOh, honestly\nHonestly\n\n[Verse 1: breathy, close, funk bass and tight drums]\nI should have known the quiet wasn't fine\nI should have read the space between the lines\nNow every little light that isn't you\nIs telling me what I already knew\n\n[Pre-Chorus: strings rise, backing voices join]\nSay a word, say anything\nMy phone's a stone, it doesn't ring\n\n[Chorus: big stacked vocals, piano stabs return]\nThe waiting's got a hold on me\nI check, I check, there's nothing to see\nI'd rather hear the worst instead\nGo on, then, leave me on red\nOne more night with the light gone dead\nGo on, leave me on red\n\n[Verse 2: breathy, wah guitar answers]\nThe engine's running and the street is bare\nI'm counting seconds like they're going somewhere\nThe sign says stop but everything in me\nIs rolling forward to where you used to be\n\n[Pre-Chorus: strings rise, backing voices join]\nSay a word, say anything\nMy phone's a stone, it doesn't ring\n\n[Chorus: big stacked vocals, piano stabs return]\nThe waiting's got a hold on me\nI check, I check, there's nothing to see\nI'd rather hear the worst instead\nGo on, then, leave me on red\nOne more night with the light gone dead\nGo on, leave me on red\n\n[Bridge: beat drops out, half-spoken over piano stabs]\nGreen means go, I know, I know\nYellow's just a slower no\nRed is where you left me, so\nOh, honestly\n\n[Breakdown: voice and handclaps only]\nThe waiting's got a hold on me\nI check, I check, there's nothing to see\n\n[Final Chorus: full band, ad-libs and high harmonies]\nI'd rather hear the worst instead\nGo on, then, leave me on red\nOne more night with the light gone dead\nGo on, leave me on red\n(Say a word, say anything)\nGo on, leave me on red\n\n[Outro: three piano stabs, last word alone]\nHonestly",
+  "taskId": "16b532373f208ded59aa30bd0db2430a",
+  "sunoClipIds": [
+    "e7ed33be-a049-4d3c-aadf-829160855121",
+    "966f1404-afd2-4c20-831f-8b38d29d7507"
+  ],
+  "created": "Nov 15, 2026 9:20 PM ET",
+  "createTimeMs": 1794795631737,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "e7ed33be-a049-4d3c-aadf-829160855121",
+      "durationSec": 233.8,
+      "file": "nineties/e90_07_leave_me_on_red_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "966f1404-afd2-4c20-831f-8b38d29d7507",
+      "durationSec": 233.8,
+      "file": "nineties/e90_07_leave_me_on_red_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_07_leave_me_on_red_req.json",
+    "nineties/e90_07_leave_me_on_red_rec.json"
+  ],
+  "cover": "nineties/covers/e90_07_leave_me_on_red.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 93 BPM, 4/4, C minor. A tight, strutting mid-tempo groove with a dark edge.\n\nVOICE: Young female pop voice, breathy with a deliberate creak at the start of phrases and little sighs at the end. Verses close and conspiratorial. Choruses stacked many times over with a harder, nasal belt, and bracketed echoes sung by backing voices.\n\nINSTRUMENTS: Three low, percussive piano notes used as a signature and as punctuation. Wah-wah rhythm guitar. A funky, sliding electric bass. Tight, dry drum programming with a huge snare. Synth strings that swell into each chorus. Handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, the three piano stabs, wah guitar, creaky ad-lib. 0:10 Verse 1. 0:31 Pre-chorus. 0:41 Chorus 1. 1:07 Verse 2. 1:28 Pre-chorus. 1:38 Chorus 2. 2:04 Bridge, the beat drops away and the lines are half spoken over piano stabs. 2:25 Breakdown, voice and claps. 2:35 Final chorus with ad-libs and a counter-line from the pre-chorus. 3:12 Outro, three stabs and one word at 3:25.\n\nPRODUCTION & MIX: Late-90s Swedish pop: dry, punchy and loud, every hit quantised, vocal layered thickly and bright.\n\nSIGNATURE MOMENT: The three piano stabs. They open the song, mark every chorus and end it.\n\nMODERN POINT OF VIEW: The phone that does not ring is now a message marked as seen. The traffic-light bridge gives listeners who have never heard 'left on read' a second, complete meaning.\n\nEMOTIONAL ARC: Suspicion, impatience, bravado, and one honest sigh.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1998 teen pop, young female pop vocal, breathy with a creaky vocal fry and sighs, stacked nasal belted chorus, 93 BPM, C minor, tight strutting groove with a dark edge, three low percussive piano stabs as a signature motif, wah-wah rhythm guitar, funky sliding electric bass, dry punchy programmed drums with huge snare, swelling synth strings, handclaps, echoed backing vocals, half-spoken bridge, dry loud bright Swedish pop mix, lonely, impatient, catchy\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, distorted guitar, guitar solo, slow ballad, trap hi-hats, EDM drop, saxophone\n\nWHAT IT IS ABOUT\n\nShe is waiting for an answer that is not coming and would rather be told the worst. The phrase she uses means two things at once.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a message left unanswered ('on read'); a driver stuck at a red light replaying a phone call; anyone kept waiting by a job, a doctor or a parent. Younger and older listeners hear different words in the title and both are right.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a three-note piano signature, a creaky intimate vocal, a confessional chorus with echoes, and a key phrase that is misread. Designed mishearing: 'leave me on red' and 'leave me on read' are the same sound; the bridge about traffic lights makes both true.",
+  "workbookAtAGlance": "Leave Me on Red\n\nBackup titles\nThe Light Gone Dead / A Slower No\n\nAt a glance\n93 BPM, C minor\nVoice: Young female pop voice, creaky and breathy\nLength: about 3 minutes 40",
+  "qa": {
+    "title": "Leave Me on Red",
+    "id": "e90_07",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 233.8,
+        "measuredBpm": 94.8,
+        "bpmFactor": 1,
+        "targetBpm": 93,
+        "bpmErrPct": 2.0,
+        "lufs": -13.8,
+        "peakDbfs": -1.06,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 233.2,
+        "vocalCoverage": 0.774,
+        "vocalSpanSec": [
+          3.7,
+          222.7
+        ],
+        "vocalF0MedianHz": 314,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 0.829,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 233.8,
+        "measuredBpm": 95.7,
+        "bpmFactor": 1,
+        "targetBpm": 93,
+        "bpmErrPct": 2.9,
+        "lufs": -14.0,
+        "peakDbfs": -0.41,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 232.5,
+        "vocalCoverage": 0.787,
+        "vocalSpanSec": [
+          3.1,
+          232.2
+        ],
+        "vocalF0MedianHz": 415,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.943,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

@@ -5579,5 +5579,2294 @@
         }
       ]
     }
+  },
+  {
+    "id": "e90_01",
+    "title": "If You Looked Up",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 1,
+    "slug": "e90_01_if_you_looked_up",
+    "inspiredBy": "Iris (Goo Goo Dolls, 1998)",
+    "leadVoice": "Male tenor with sand in it. Verses nearly spoken, close to the mic. Choruses pushed to the top of the chest voice with a crack on the highest note. No harmony until the final chorus, then one octave double.",
+    "model": "V6",
+    "style": "1998 alternative rock power ballad, raspy male tenor vocal, quiet intimate verses and a huge full-voice chorus, 72 BPM in 6/8 waltz time, D major, droning open-tuned acoustic guitar, mandolin tremolo, sweeping orchestral string section as loud as the guitars, melodic bass, big roomy rock drums with wide crash cymbals, clean electric guitar, late-arriving strings, one stumbling odd bar in the instrumental, warm wide radio-rock mix, dry forward vocal, yearning, aching, cathartic",
+    "negativeTags": "synth-pop, drum machine, female lead vocals, rap, EDM, trap hi-hats, autotune, saxophone",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: droning open-tuned acoustic guitar, mandolin tremolo]\n\n[Verse 1: raspy, close, quiet]\nI've been standing at the edge of every frame\nThe blur behind the smile, without a name\nAnd I would trade the whole unbroken sky\nTo be the thing that finally caught your eye\n\n[Pre-Chorus: strings creep in]\n'Cause nobody gets the real thing anymore\nWe send the better version to the door\n\n[Chorus: full band, crashing drums, wide strings]\nAnd if you looked up, you would see me\nI'm right here where I've always been\nI don't need the world to believe me\nI just need one person to let me in\nIf you looked up\nIf you looked up\n\n[Verse 2: quieter again, mandolin answers]\nI can taste the words I never got to say\nThey sit behind my teeth like yesterday\nYou're so close I can hear you breathing slow\nAnd still a thousand miles of glass to go\n\n[Pre-Chorus: strings rise]\nAnd everything I built to keep me safe\nIs everything that's standing in the way\n\n[Chorus: full band, crashing drums, wide strings]\nAnd if you looked up, you would see me\nI'm right here where I've always been\nI don't need the world to believe me\nI just need one person to let me in\nIf you looked up\nIf you looked up\n\n[Instrumental: mandolin and strings, one stumbling odd bar, building]\n\n[Bridge: voice strains, drums pound]\nI don't want to be a light across the bay\nA voice inside a wire, a name you save\nI want to be the weight beside your hand\nThe one thing in this life you understand\n\n[Breakdown: guitar and voice only]\nIf you looked up, you would see me\nI've been waving all this time\n\n[Final Chorus: biggest, strings soaring, full cry]\nAnd if you looked up, you would see me\nI'm right here where I've always been\nLet the whole world never believe me\nI just need you to let me in\nIf you looked up\nIf you looked up\n\n[Outro: band falls away, mandolin fades]\nLook up\nI'm right here",
+    "taskId": "e2e92d5baa4cd15c6133916c1120176a",
+    "sunoClipIds": [
+      "8d84bf90-7459-4ef1-ba8a-5f2196bbd74c",
+      "413c6a75-50a0-4cd1-9c51-a412db649bc6"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795610036,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "8d84bf90-7459-4ef1-ba8a-5f2196bbd74c",
+        "durationSec": 254.24,
+        "file": "nineties/e90_01_if_you_looked_up_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "413c6a75-50a0-4cd1-9c51-a412db649bc6",
+        "durationSec": 254.48,
+        "file": "nineties/e90_01_if_you_looked_up_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_01_if_you_looked_up_req.json",
+      "nineties/e90_01_if_you_looked_up_rec.json"
+    ],
+    "cover": "nineties/covers/e90_01_if_you_looked_up.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 72 BPM felt in 6/8, D major, a swaying waltz that lurches forward. Tender, then enormous.\n\nVOICE: Male tenor with sand in it. Verses nearly spoken, close to the mic. Choruses pushed to the top of the chest voice with a crack on the highest note. No harmony until the final chorus, then one octave double.\n\nINSTRUMENTS: Acoustic guitar in an open tuning where several strings ring the same note, giving a constant drone. Mandolin tremolo answering the vocal. A full string section that arrives late and takes over. Fretless-sounding melodic bass. Big, roomy rock drums with wide crash cymbals. Clean electric guitar doubling the drone.\n\nARRANGEMENT MAP: 0:00 Intro, droning guitar and mandolin. 0:14 Verse 1, voice and guitar. 0:40 Pre-chorus, strings creep in. 0:53 Chorus 1, the band crashes in. 1:22 Verse 2, pulled back with mandolin answers. 1:48 Pre-chorus. 2:01 Chorus 2. 2:30 Instrumental, mandolin and strings trade the tune and the bar stumbles once, as if the song loses its footing. 2:52 Bridge, the hardest singing. 3:14 Breakdown, two lines with guitar only. 3:26 Final chorus at full size. 3:56 Outro, the band drops away and the mandolin fades by 4:10.\n\nPRODUCTION & MIX: Late-90s radio rock: warm, wide and slightly compressed, strings mixed as loud as the guitars, vocal dry and forward.\n\nSIGNATURE MOMENT: The stumbling bar in the instrumental at about 2:40, followed by the whole orchestra lifting into the bridge.\n\nMODERN POINT OF VIEW: The lyric moves the invisibility from a film angel to an ordinary room with a lit screen in it. A soft sub-bass sits under the choruses for modern speakers.\n\nEMOTIONAL ARC: Longing, frustration, a plea, and at the end a quiet hand held out.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1998 alternative rock power ballad, raspy male tenor vocal, quiet intimate verses and a huge full-voice chorus, 72 BPM in 6/8 waltz time, D major, droning open-tuned acoustic guitar, mandolin tremolo, sweeping orchestral string section as loud as the guitars, melodic bass, big roomy rock drums with wide crash cymbals, clean electric guitar, late-arriving strings, one stumbling odd bar in the instrumental, warm wide radio-rock mix, dry forward vocal, yearning, aching, cathartic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynth-pop, drum machine, female lead vocals, rap, EDM, trap hi-hats, autotune, saxophone\n\nWHAT IT IS ABOUT\n\nSomeone has become invisible to the one person who matters, and is standing right there. All it would take is for that person to look up.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a partner across the sofa from a phone; a parent of a teenager; a ghost or angel in the room; an older person the world has stopped noticing. Each fits every line.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: one plain sentence as the whole chorus, a narrator who cannot be seen, the lurching waltz and droning guitar, and a stumbling instrumental bar. Designed mishearing: 'If you looked up' is easily heard as 'If you looked, love', which turns a complaint into an endearment.",
+    "workbookAtAGlance": "If You Looked Up\n\nBackup titles\nRight Here All Along / Glass to Go\n\nAt a glance\n72 BPM (6/8), D major\nVoice: Raspy male tenor, quiet to full cry\nLength: about 4 minutes",
+    "qa": {
+      "title": "If You Looked Up",
+      "id": "e90_01",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.3,
+          "measuredBpm": 48.4,
+          "bpmFactor": 1.5,
+          "targetBpm": 72,
+          "bpmErrPct": 0.9,
+          "lufs": -13.1,
+          "peakDbfs": -0.85,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.9,
+          "contentEndSec": 252.6,
+          "vocalCoverage": 0.671,
+          "vocalSpanSec": [
+            21.1,
+            233.6
+          ],
+          "vocalF0MedianHz": 333,
+          "vocalF0P25Hz": 293,
+          "lyricLineRecall": 0.973,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.5,
+          "measuredBpm": 72.3,
+          "bpmFactor": 1,
+          "targetBpm": 72,
+          "bpmErrPct": 0.4,
+          "lufs": -13.3,
+          "peakDbfs": -0.62,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 253.7,
+          "vocalCoverage": 0.716,
+          "vocalSpanSec": [
+            19.4,
+            238.5
+          ],
+          "vocalF0MedianHz": 369,
+          "vocalF0P25Hz": 293,
+          "lyricLineRecall": 0.919,
+          "lyricUnclearSections": [
+            "Pre-Chorus"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_02",
+    "title": "Somedaylight",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 2,
+    "slug": "e90_02_somedaylight",
+    "inspiredBy": "Wonderwall (Oasis, 1995)",
+    "leadVoice": "Nasal male tenor with a sneering drawl that stretches vowels at the end of lines. Single-tracked and dry in the verses, doubled in the chorus. Sung as if leaning on a wall.",
+    "model": "V6",
+    "style": "1995 Britpop acoustic rock anthem, nasal male tenor vocal with a sneering drawl, 87 BPM, F-sharp minor, loping and slightly behind the beat, busy strummed capoed acoustic guitar with the same two high drone notes ringing over every chord, mournful cello line, lazy shuffling live drums, loud tambourine, walking electric bass, upright piano doubling the chorus melody, loud dense slightly overdriven mix, dry drums, weary, hopeful, singalong, pub chorus",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, EDM, trap hi-hats, autotune, guitar solo",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: capoed acoustic guitar strum, same two high notes ringing]\n\n[Verse 1: nasal drawl, guitar only]\nToday was meant to be the day it turned around\nBy noon I'd lost the plot and half the town\nI don't think there's anybody keeping score\nBut you're still standing in my door\n\n[Verse 2: cello enters, lazy drum shuffle begins]\nThe word is out that I'm a fire going cold\nI've heard it all before, it's getting old\nI don't think anybody's told you yet\nYou're the only promise that I've kept\n\n[Pre-Chorus: bass walks up, tambourine]\nAnd all the maps I folded wrong\nAnd all the songs I only half belong to\nThere's so much I keep meaning to say\nBut I trip on the words halfway\n\n[Chorus: full band, piano doubles the tune]\nSo call it someday, call it soon\nYou're the window in a locked-up room\nAnd after all the dark I put you through\nYou're my somedaylight\n\n[Verse 3: full band, relaxed]\nTomorrow's got a way of running late\nI've carried all this hope like extra weight\nI don't think anybody stays the same\nBut you still answer to my name\n\n[Pre-Chorus: bass walks up, tambourine]\nAnd all the roads that bend away\nAnd all the lights that lead us there are fading\nThere's so much I keep meaning to say\nBut I trip on the words halfway\n\n[Chorus: full band, piano doubles the tune]\nSo call it someday, call it soon\nYou're the window in a locked-up room\nAnd after all the dark I put you through\nYou're my somedaylight\n\n[Instrumental: cello carries the melody, piano answers]\n\n[Final Chorus: everyone, tambourine on every beat]\nSo call it someday, call it soon\nYou're the window in a locked-up room\nAnd after all the dark I put you through\nYou're my somedaylight\nI said you're my somedaylight\n\n[Outro: band drops out, guitar and cello fade]\nMy somedaylight\nSome day, light\nSomeday, right?",
+    "taskId": "0a1de903667047945c3d963d95d2af46",
+    "sunoClipIds": [
+      "9688dd89-4153-4916-99a4-e519322b06a2",
+      "85067e53-7cc8-444d-8fa7-81db0e79b3d1"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795611676,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "9688dd89-4153-4916-99a4-e519322b06a2",
+        "durationSec": 254.4,
+        "file": "nineties/e90_02_somedaylight_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "85067e53-7cc8-444d-8fa7-81db0e79b3d1",
+        "durationSec": 254.36,
+        "file": "nineties/e90_02_somedaylight_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_02_somedaylight_req.json",
+      "nineties/e90_02_somedaylight_rec.json"
+    ],
+    "cover": "nineties/covers/e90_02_somedaylight.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 87 BPM, 4/4, F-sharp minor played with a capo so open strings ring. A loping, slightly behind-the-beat strum. Weary but hopeful.\n\nVOICE: Nasal male tenor with a sneering drawl that stretches vowels at the end of lines. Single-tracked and dry in the verses, doubled in the chorus. Sung as if leaning on a wall.\n\nINSTRUMENTS: Strummed acoustic guitar with a busy sixteenth-note right hand, the same two high notes ringing over every chord. A mournful cello line. Simple live drums with a lazy shuffle and lots of tambourine. Round electric bass that walks between sections. Upright piano doubling the chorus melody in octaves. Clean electric guitar adding the drone notes.\n\nARRANGEMENT MAP: 0:00 Intro, guitar alone, 4 bars. 0:11 Verse 1, voice and guitar. 0:33 Verse 2, cello and drums arrive together. 0:55 Pre-chorus. 1:17 Chorus 1, piano joins. 1:39 Verse 3. 2:01 Pre-chorus. 2:23 Chorus 2. 2:45 Instrumental, the cello sings the chorus tune. 3:07 Final chorus, with the last line repeated. 3:36 Outro, the band stops and guitar and cello fade out by 4:00.\n\nPRODUCTION & MIX: Mid-90s British rock: loud, dense and slightly overdriven on the mix bus, acoustic guitar pushed to the front, drums dry.\n\nSIGNATURE MOMENT: The first chorus landing on the invented word, with the piano doubling it.\n\nMODERN POINT OF VIEW: The narrator is no longer a young man waiting to be saved. He is older, has let people down, and is thanking the one who stayed. The three alternate hearings of the title are sung outright in the outro.\n\nEMOTIONAL ARC: Shrugging defeat, gratitude admitted sideways, then said plainly.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1995 Britpop acoustic rock anthem, nasal male tenor vocal with a sneering drawl, 87 BPM, F-sharp minor, loping and slightly behind the beat, busy strummed capoed acoustic guitar with the same two high drone notes ringing over every chord, mournful cello line, lazy shuffling live drums, loud tambourine, walking electric bass, upright piano doubling the chorus melody, loud dense slightly overdriven mix, dry drums, weary, hopeful, singalong, pub chorus\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, drum machine, female lead vocals, rap, EDM, trap hi-hats, autotune, guitar solo\n\nWHAT IT IS ABOUT\n\nA man who keeps getting it wrong tells the one person still standing in his doorway what they are to him, using a word he had to invent.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a partner who stayed; a child who makes a parent try again; sobriety; faith; or the home town you keep going back to. The invented word means whatever kept you going.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an invented compound word as the title, vague time-words, a drawled second-person address, and four chords with ringing drone notes. Designed mishearing: 'somedaylight' splits into 'some daylight', 'Sunday light' and 'someday, right?', and all three work in the chorus.",
+    "workbookAtAGlance": "Somedaylight\n\nBackup titles\nWindow in a Locked Room / Call It Someday\n\nAt a glance\n87 BPM, F-sharp minor (capo 2)\nVoice: Nasal male tenor, drawled\nLength: about 4 minutes",
+    "qa": {
+      "title": "Somedaylight",
+      "id": "e90_02",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.4,
+          "measuredBpm": 86.9,
+          "bpmFactor": 1,
+          "targetBpm": 87,
+          "bpmErrPct": 0.2,
+          "lufs": -12.2,
+          "peakDbfs": -0.21,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 252.7,
+          "vocalCoverage": 0.687,
+          "vocalSpanSec": [
+            13.8,
+            247.6
+          ],
+          "vocalF0MedianHz": 221,
+          "vocalF0P25Hz": 186,
+          "lyricLineRecall": 0.765,
+          "lyricUnclearSections": [
+            "Outro"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.4,
+          "measuredBpm": 88.3,
+          "bpmFactor": 1,
+          "targetBpm": 87,
+          "bpmErrPct": 1.5,
+          "lufs": -13.5,
+          "peakDbfs": -0.09,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 252.3,
+          "vocalCoverage": 0.689,
+          "vocalSpanSec": [
+            11.6,
+            239.3
+          ],
+          "vocalF0MedianHz": 248,
+          "vocalF0P25Hz": 221,
+          "lyricLineRecall": 0.912,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_03",
+    "title": "Lukewarm Riot",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 3,
+    "slug": "e90_03_lukewarm_riot",
+    "inspiredBy": "Smells Like Teen Spirit (Nirvana, 1991)",
+    "leadVoice": "Male, hoarse and sandpapery. Verses mumbled and slurred on purpose, low in the mix. Choruses screamed at the top of the range until the voice breaks. Doubled in the chorus only.",
+    "model": "V6",
+    "style": "1991 Seattle grunge alternative rock, hoarse raspy male vocal, mumbled slurred quiet verses and screamed loud choruses, 117 BPM, F minor, four power chords, quiet-loud-quiet dynamics, scratchy muted-string guitar riff, clean two-note verse guitar through a watery chorus pedal, wall of fuzz distortion in the chorus, driving melodic bass, hard-hit live drums with snare flams, simple guitar solo that plays the vocal melody, dry punchy loud mix, sullen, bored, furious, cathartic",
+    "negativeTags": "synthesizer, keyboards, piano, drum machine, female vocals, pop production, autotune, strings",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: scratchy four-chord guitar riff alone, then drums crash in]\n\n[Verse 1: quiet, mumbled, two-note guitar, bass and drums]\nBring the snacks and bring the blame\nEverybody's got the same new name\nI was cool for half a week\nNow I'm famous in my sleep\n\n[Pre-Chorus: building, one word over and over]\nWhatever, whatever, whatever, wait\nWhatever, whatever, is it too late?\n\n[Chorus: loud, screamed, wall of distorted guitar]\nTurn the lights down, we're on fire\nRead the room, the room's a liar\nI feel stupid, I feel fine\nStand in line for a lukewarm riot\nA little bored, a little wired\nOh well, as you were\n\n[Verse 2: quiet, mumbled, two-note guitar]\nI'm the best at being worst\nRaised my hand and still got cursed\nAll my heroes sell me shoes\nI forget which side I choose\n\n[Pre-Chorus: building, one word over and over]\nWhatever, whatever, whatever, wait\nWhatever, whatever, is it too late?\n\n[Chorus: loud, screamed, wall of distorted guitar]\nTurn the lights down, we're on fire\nRead the room, the room's a liar\nI feel stupid, I feel fine\nStand in line for a lukewarm riot\nA little bored, a little wired\nOh well, as you were\n\n[Guitar Solo: plays the verse melody, simple, watery chorus effect]\n\n[Verse 3: quiet, mumbled, voice cracking]\nFound a cause and lost the thread\nSigned a wall that someone read\nIt's a joke until it's not\nTell my mother what I bought\n\n[Pre-Chorus: building, one word over and over]\nWhatever, whatever, whatever, wait\nWhatever, whatever, is it too late?\n\n[Final Chorus: loudest, voice shredding]\nTurn the lights down, we're on fire\nRead the room, the room's a liar\nI feel stupid, I feel fine\nStand in line for a lukewarm riot\nA little bored, a little wired\nOh well, as you were\n\n[Outro: screamed over the riff, feedback, sudden stop]\nAs you were\nAs you were\nAs you were\nAs you were",
+    "taskId": "da8704c16f97a24e1f652c0a729a7270",
+    "sunoClipIds": [
+      "2c2fa0f5-2829-45d5-b884-19cc767e3dc0",
+      "c9ad3061-7f67-4350-ba12-31bcea0c2bcc"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795616316,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "2c2fa0f5-2829-45d5-b884-19cc767e3dc0",
+        "durationSec": 253.8,
+        "file": "nineties/e90_03_lukewarm_riot_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "c9ad3061-7f67-4350-ba12-31bcea0c2bcc",
+        "durationSec": 253.68,
+        "file": "nineties/e90_03_lukewarm_riot_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_03_lukewarm_riot_req.json",
+      "nineties/e90_03_lukewarm_riot_rec.json"
+    ],
+    "cover": "nineties/covers/e90_03_lukewarm_riot.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 117 BPM, 4/4, F minor. Four power chords the whole way through. Sullen verses, explosive choruses.\n\nVOICE: Male, hoarse and sandpapery. Verses mumbled and slurred on purpose, low in the mix. Choruses screamed at the top of the range until the voice breaks. Doubled in the chorus only.\n\nINSTRUMENTS: One electric guitar: a scratchy, percussive strum of muted strings between chords in the intro, a clean two-note figure through a watery chorus pedal in the verses, then full fuzz distortion. Driving, melodic bass that carries the verses. Hard-hit live drums with a flam on the snare and wide open hi-hats in the chorus. Nothing else.\n\nARRANGEMENT MAP: 0:00 Intro, riff alone for 4 bars, then a drum fill and the full band. 0:25 Verse 1, drops to bass, drums and the two-note guitar. 0:50 Pre-chorus, building. 1:06 Chorus 1, everything loud. 1:31 Verse 2. 1:56 Pre-chorus. 2:12 Chorus 2. 2:37 Guitar solo that simply plays the verse tune. 2:53 Verse 3. 3:10 Pre-chorus. 3:26 Final chorus. 3:51 Outro, the last line screamed four times, feedback, hard stop at 4:05.\n\nPRODUCTION & MIX: Punchy early-90s rock production: dry, loud, drums huge and natural, guitars doubled left and right, almost no reverb.\n\nSIGNATURE MOMENT: The drum fill at 0:08 that throws the whole band onto the riff.\n\nMODERN POINT OF VIEW: The targets are current (attention, outrage, heroes who sell things) and the last verse lets a parent in. The joke is that the anger is real and the riot is only room temperature.\n\nEMOTIONAL ARC: Boredom, contempt, release, and a shrug.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1991 Seattle grunge alternative rock, hoarse raspy male vocal, mumbled slurred quiet verses and screamed loud choruses, 117 BPM, F minor, four power chords, quiet-loud-quiet dynamics, scratchy muted-string guitar riff, clean two-note verse guitar through a watery chorus pedal, wall of fuzz distortion in the chorus, driving melodic bass, hard-hit live drums with snare flams, simple guitar solo that plays the vocal melody, dry punchy loud mix, sullen, bored, furious, cathartic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, keyboards, piano, drum machine, female vocals, pop production, autotune, strings\n\nWHAT IT IS ABOUT\n\nA crowd that is angry and bored in equal measure queues up for a protest that is only mildly warm. Nobody is sure what it is about, including the singer.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: teenagers today, outraged and scrolling; their parents, who were the originals and now have mortgages; a satire of online fury; or a sincere anthem. It supports all four.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: quiet-loud-quiet, four heavy chords, self-cancelling couplets, a one-word pre-chorus and a title that is a joke. Designed mishearing: the verses are meant to be slurred, and 'a lukewarm riot' comes out as 'a new one, right?', which is exactly what each generation says about its anger.",
+    "workbookAtAGlance": "Lukewarm Riot\n\nBackup titles\nAs You Were / Read the Room\n\nAt a glance\n117 BPM, F minor\nVoice: Raspy male, mumble to scream\nLength: about 4 minutes",
+    "qa": {
+      "title": "Lukewarm Riot",
+      "id": "e90_03",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 253.8,
+          "measuredBpm": 114.8,
+          "bpmFactor": 1,
+          "targetBpm": 117,
+          "bpmErrPct": 1.8,
+          "lufs": -14.0,
+          "peakDbfs": -1.37,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.9,
+          "contentEndSec": 251.4,
+          "vocalCoverage": 0.59,
+          "vocalSpanSec": [
+            17.8,
+            246.0
+          ],
+          "vocalF0MedianHz": 244,
+          "vocalF0P25Hz": 233,
+          "lyricLineRecall": 0.925,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 253.7,
+          "measuredBpm": 116.1,
+          "bpmFactor": 1,
+          "targetBpm": 117,
+          "bpmErrPct": 0.7,
+          "lufs": -13.7,
+          "peakDbfs": -1.78,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.8,
+          "contentEndSec": 251.9,
+          "vocalCoverage": 0.56,
+          "vocalSpanSec": [
+            20.0,
+            237.2
+          ],
+          "vocalF0MedianHz": 260,
+          "vocalF0P25Hz": 235,
+          "lyricLineRecall": 0.875,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_04",
+    "title": "Kingdom of the Grind",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 4,
+    "slug": "e90_04_kingdom_of_the_grind",
+    "inspiredBy": "Gangsta's Paradise (Coolio feat. L.V., 1995)",
+    "leadVoice": "Male rapper, baritone, clear diction, steady and unhurried, more weary than angry. The hook is sung by a male soul tenor with gospel vibrato, answered by a full mixed choir.",
+    "model": "V6",
+    "style": "1995 West Coast conscious hip-hop with gospel choir, male rap baritone vocal, clear weary and steady, sung hook by a male soul tenor with gospel vibrato answered by a full mixed choir, 80 BPM, C minor, slow heavy ceremonial, wordless choir chords, tense staccato orchestral strings, deep round synth bass, slow boom-bap drums with heavy kick and cracking snare, low piano octaves, beatless third verse over choir and strings, deep polished mix, church-like reverb, solemn, confessional, redemptive",
+    "negativeTags": "distorted guitar, female lead vocals, fast tempo, trap hi-hats, autotune, EDM, comedy, party rap",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: dark choir aahs, staccato strings, slow heavy drums]\n\n[Verse 1: male rap, low and steady]\nI clock in before the sun can find my street\nCount my blessings, then I count what's on the sheet\nMama said the meek inherit, I ain't seen the will\nForty-something summers and I'm paying on it still\nI was raised to keep my head down, keep my hands fast\nStack a little, lose a little, make the last last\nGot a ladder made of paper leaning on a cloud\nEvery rung another reason not to say it loud\nI look in the mirror, see my father's tired eyes\nSame uniform, different logo, same size\nThey sold us on a finish line that moves when we run\nTell me, when's the part where somebody says we won?\n\n[Chorus: soul tenor sings, full choir answers]\nBeen so long in the kingdom of the grind\nCan't tell the sunrise from the sign\nKeep on running, running out of time\nIn the kingdom of the grind\nWho's gonna tell the children why\nWe traded all the daylight for the dime?\nBeen so long, been so long\nIn the kingdom of the grind\n\n[Verse 2: male rap, more urgent]\nNotifications like a choir in my pocket\nEvery buzz another promise, every promise got a docket\nI got friends I only see inside a square\nSending prayers with a thumb like a thumb is a prayer\nMy boy is at the table and he's looking at my screen\nLearning what a man is from the gaps in between\nI said I'd make the game, I said I'd make the play\nBut the meeting ran long, like it does every day\nRent is due on Friday, hope is due on Sunday\nBody's due for resting but it's booked until Monday\nI keep telling myself that it's only for a season\nTwenty seasons later, still looking for the reason\n\n[Chorus: soul tenor sings, full choir answers]\nBeen so long in the kingdom of the grind\nCan't tell the sunrise from the sign\nKeep on running, running out of time\nIn the kingdom of the grind\nWho's gonna tell the children why\nWe traded all the daylight for the dime?\nBeen so long, been so long\nIn the kingdom of the grind\n\n[Verse 3: drums drop out, rap over choir and strings]\nTell me why we're so quick to price a soul\nGot the whole world in a cart and still a hole\nIf I laid it all down, would the ground still hold?\nWould my name still echo if it wasn't in gold?\nMaybe heaven was a porch step and a ball\nBefore I learned to measure, before I learned to fall\nSo I'm clocking out early, gonna walk my son home\nLet the kingdom keep the crown, I'm taking back my own\n\n[Final Chorus: drums return, choir at full voice, ad-libs]\nBeen so long in the kingdom of the grind\nCan't tell the sunrise from the sign\nKeep on running, running out of time\nIn the kingdom of the grind\n\n[Outro: choir hums, strings fade, one last bass note]\nBeen so long\nBeen so long",
+    "taskId": "65ad92e5b8ab51f65e92b8d4d5e8c2e0",
+    "sunoClipIds": [
+      "6e4adb83-2a96-4a6d-96a6-2eace6020397",
+      "0922c505-cf98-4098-93c4-b2e6c6820db9"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795621984,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "6e4adb83-2a96-4a6d-96a6-2eace6020397",
+        "durationSec": 254.8,
+        "file": "nineties/e90_04_kingdom_of_the_grind_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "0922c505-cf98-4098-93c4-b2e6c6820db9",
+        "durationSec": 254.72,
+        "file": "nineties/e90_04_kingdom_of_the_grind_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_04_kingdom_of_the_grind_req.json",
+      "nineties/e90_04_kingdom_of_the_grind_rec.json"
+    ],
+    "cover": "nineties/covers/e90_04_kingdom_of_the_grind.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, C minor. Slow, heavy, ceremonial. A sermon over a head-nod beat.\n\nVOICE: Male rapper, baritone, clear diction, steady and unhurried, more weary than angry. The hook is sung by a male soul tenor with gospel vibrato, answered by a full mixed choir.\n\nINSTRUMENTS: A mixed choir singing wordless 'aah' chords that open and close the phrases. Staccato orchestral strings playing a tense repeating figure. Deep, round synth bass on long notes. A slow boom-bap drum loop with a heavy kick and a cracking snare. Low piano octaves. A high string line that enters in the last verse.\n\nARRANGEMENT MAP: 0:00 Intro, choir and strings, then the drums. 0:18 Verse 1, twelve lines. 0:54 Chorus 1, tenor and choir. 1:18 Verse 2, slightly more urgent delivery. 1:54 Chorus 2. 2:18 Verse 3, the drums drop out completely and the rap sits on choir and strings alone. 2:54 Drums slam back for the final chorus with tenor ad-libs. 3:24 Outro, choir hums the hook, strings fade, final bass note at 3:50.\n\nPRODUCTION & MIX: Mid-90s West Coast studio polish: deep low end, crisp snare, choir wide and reverberant like a church, lead vocal dry and centred.\n\nSIGNATURE MOMENT: Verse 3, when the beat disappears and the confession turns into a decision.\n\nMODERN POINT OF VIEW: The trap is no longer the street. It is the schedule, the phone and the moving finish line. Unlike the original, the narrator gets out, by choosing an afternoon with his son.\n\nEMOTIONAL ARC: Weariness, self-indictment, then resolve.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1995 West Coast conscious hip-hop with gospel choir, male rap baritone vocal, clear weary and steady, sung hook by a male soul tenor with gospel vibrato answered by a full mixed choir, 80 BPM, C minor, slow heavy ceremonial, wordless choir chords, tense staccato orchestral strings, deep round synth bass, slow boom-bap drums with heavy kick and cracking snare, low piano octaves, beatless third verse over choir and strings, deep polished mix, church-like reverb, solemn, confessional, redemptive\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, female lead vocals, fast tempo, trap hi-hats, autotune, EDM, comedy, party rap\n\nWHAT IT IS ABOUT\n\nA working father takes stock of a life spent chasing a finish line that keeps moving, and decides to walk his son home instead.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: hustle culture; a gig worker's week; an executive's confession; or the original street reading, where the grind is something darker. The third verse works as a resignation letter or a prayer.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: confession not boast, a choir and string bed with church weight, a sung hook made of questions, and clean language. Designed mishearing: 'kingdom of the grind' is heard as 'kingdom of the blind', which the lyric invites.",
+    "workbookAtAGlance": "Kingdom of the Grind\n\nBackup titles\nClocking Out Early / Daylight for the Dime\n\nAt a glance\n80 BPM, C minor\nVoice: Male rap baritone, soul tenor hook, choir\nLength: about 4 minutes",
+    "qa": {
+      "title": "Kingdom of the Grind",
+      "id": "e90_04",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.04 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 254.8,
+          "measuredBpm": 74.9,
+          "bpmFactor": 1,
+          "targetBpm": 80,
+          "bpmErrPct": 6.4,
+          "lufs": -12.7,
+          "peakDbfs": 0.04,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 1.0,
+          "contentEndSec": 253.1,
+          "vocalCoverage": 0.747,
+          "vocalSpanSec": [
+            13.2,
+            217.0
+          ],
+          "vocalF0MedianHz": 349,
+          "vocalF0P25Hz": 312,
+          "lyricLineRecall": 0.926,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.7,
+          "measuredBpm": 77.1,
+          "bpmFactor": 1,
+          "targetBpm": 80,
+          "bpmErrPct": 3.6,
+          "lufs": -13.1,
+          "peakDbfs": -0.46,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.3,
+          "contentEndSec": 252.9,
+          "vocalCoverage": 0.792,
+          "vocalSpanSec": [
+            20.1,
+            245.5
+          ],
+          "vocalF0MedianHz": 391,
+          "vocalF0P25Hz": 312,
+          "lyricLineRecall": 0.778,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_05",
+    "title": "Wrong Room",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 5,
+    "slug": "e90_05_wrong_room",
+    "inspiredBy": "Creep (Radiohead, 1992)",
+    "leadVoice": "Male tenor, fragile and slightly choirboy in the verses, opening into a full, cracked chest voice in the chorus. The bridge is long held notes in a pure, high falsetto. Unprocessed and close.",
+    "model": "V6",
+    "style": "1992 British alternative rock ballad, fragile male tenor vocal, whispered verses, cracked full-voice chorus and a soaring pure falsetto bridge, 92 BPM, A major, hushed then violent, clean slow arpeggiated electric guitar, two brutal dead-string muted guitar scrapes before each chorus, thick distorted guitar chords in the chorus, soft simple bass, restrained drums that crash in, single-note piano in the quiet final chorus, dry raw room mix, awestruck, ashamed, anguished, tender",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, upbeat, EDM, trap hi-hats, autotune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: clean arpeggiated guitar, soft bass and brushed drums]\n\n[Verse 1: fragile, almost whispered]\nWhen you came in, the whole place learned to breathe\nI held a paper cup like a reprieve\nYou talk like water running over stone\nI'm standing here rehearsing my hello\n\n[Pre-Chorus: two harsh muted guitar scrapes]\n\n[Chorus: loud, distorted guitars, voice breaks open]\nBut I think I'm in the wrong room\nI think I read the sign wrong\nEverybody here knows the words\nI don't even know the song\nI'm in the wrong room\n\n[Verse 2: fragile again, guitar arpeggio]\nI'd give a year to be the way you laugh\nTo take up space and never do the math\nYou look like you were asked and said okay\nI look like someone holding up the way\n\n[Pre-Chorus: two harsh muted guitar scrapes]\n\n[Chorus: loud, distorted guitars, voice breaks open]\nBut I think I'm in the wrong room\nI think I read the sign wrong\nEverybody here knows the words\nI don't even know the song\nI'm in the wrong room\n\n[Bridge: soaring falsetto over full distortion]\nThere you go\nThrough the door I never found\nGo, go, go\nGo\n\n[Verse 3: suddenly quiet, voice and one guitar]\nWhatever keeps you bright\nWhatever makes you stay\nI would have said it right\nIf I had found the way\n\n[Final Chorus: soft, piano enters, no distortion]\nBut I think I'm in the wrong room\nI think I read the sign wrong\nMaybe everybody here\nIs humming the wrong song\nIn the wrong room\n\n[Outro: single piano notes, guitar arpeggio slows and stops]\nThe wrong room",
+    "taskId": "9cd313d3158dfff64d6e7c14afeace50",
+    "sunoClipIds": [
+      "bc1b7c1e-4a08-4502-bfa6-1e4cc0c51d0b",
+      "cab3af97-3ea7-4737-b9c8-6550979924f9"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795622321,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "bc1b7c1e-4a08-4502-bfa6-1e4cc0c51d0b",
+        "durationSec": 254.36,
+        "file": "nineties/e90_05_wrong_room_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "cab3af97-3ea7-4737-b9c8-6550979924f9",
+        "durationSec": 254.4,
+        "file": "nineties/e90_05_wrong_room_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_05_wrong_room_req.json",
+      "nineties/e90_05_wrong_room_rec.json"
+    ],
+    "cover": "nineties/covers/e90_05_wrong_room.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 92 BPM, 4/4, A major with a last chord that will not resolve. Hushed, then violent, then hushed.\n\nVOICE: Male tenor, fragile and slightly choirboy in the verses, opening into a full, cracked chest voice in the chorus. The bridge is long held notes in a pure, high falsetto. Unprocessed and close.\n\nINSTRUMENTS: Clean electric guitar playing slow arpeggios. A second electric guitar that stays silent until it makes two brutal, dead-string scrapes, then plays thick distorted chords. Soft, simple bass. Drums played with restraint, then crashing. A piano that appears only in the last chorus, single notes.\n\nARRANGEMENT MAP: 0:00 Intro, arpeggio with bass and brushed drums. 0:21 Verse 1. 0:52 Two guitar scrapes, a bar apart. 0:57 Chorus 1, loud. 1:23 Verse 2, quiet again. 1:54 Scrapes. 1:59 Chorus 2. 2:25 Bridge, falsetto over the loudest playing in the song. 2:56 Verse 3, everything drops to one guitar and voice. 3:22 Final chorus, soft, with piano instead of distortion. 3:50 Outro, piano notes thin out, final word at 4:05.\n\nPRODUCTION & MIX: Early-90s alternative: dry verse, wide and noisy chorus, almost no studio polish, real room sound on the drums.\n\nSIGNATURE MOMENT: The two guitar scrapes at 0:52. They sound like a mistake and are the hook.\n\nMODERN POINT OF VIEW: The final chorus turns the song outward. The narrator suspects that everyone at the party, on the call or at the reunion feels like the one who does not belong.\n\nEMOTIONAL ARC: Awe, shame, anguish, and a small, generous realisation.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1992 British alternative rock ballad, fragile male tenor vocal, whispered verses, cracked full-voice chorus and a soaring pure falsetto bridge, 92 BPM, A major, hushed then violent, clean slow arpeggiated electric guitar, two brutal dead-string muted guitar scrapes before each chorus, thick distorted guitar chords in the chorus, soft simple bass, restrained drums that crash in, single-note piano in the quiet final chorus, dry raw room mix, awestruck, ashamed, anguished, tender\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, drum machine, female lead vocals, rap, upbeat, EDM, trap hi-hats, autotune\n\nWHAT IT IS ABOUT\n\nAt a gathering full of people who seem to belong, someone watches the one person who belongs most, and becomes certain they walked into the wrong room.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a crush at a party; impostor syndrome in a meeting; a school reunion; feeling like a guest in your own family; or the afterlife. The last line suggests everyone in the room feels the same.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: adoration beside self-doubt, plain short words, two harsh guitar scrapes before the loud chorus, and a falsetto bridge as the other person leaves. Designed mishearing: 'the wrong room' is easily heard as 'the wrong womb', a darker reading about being born out of place.",
+    "workbookAtAGlance": "Wrong Room\n\nBackup titles\nI Read the Sign Wrong / Holding Up the Way\n\nAt a glance\n92 BPM, A major\nVoice: Fragile male tenor, falsetto bridge\nLength: about 4 minutes",
+    "qa": {
+      "title": "Wrong Room",
+      "id": "e90_05",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 71 BPM vs 92 target (~16% off)"
+          ],
+          "durationSec": 254.4,
+          "measuredBpm": 71.3,
+          "bpmFactor": 1.5,
+          "targetBpm": 92,
+          "bpmErrPct": 16.2,
+          "lufs": -13.5,
+          "peakDbfs": -0.47,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 253.1,
+          "vocalCoverage": 0.708,
+          "vocalSpanSec": [
+            14.9,
+            237.9
+          ],
+          "vocalF0MedianHz": 333,
+          "vocalF0P25Hz": 282,
+          "lyricLineRecall": 0.806,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 71 BPM vs 92 target (~16% off)"
+          ],
+          "durationSec": 254.4,
+          "measuredBpm": 71.3,
+          "bpmFactor": 1.5,
+          "targetBpm": 92,
+          "bpmErrPct": 16.2,
+          "lufs": -14.0,
+          "peakDbfs": -2.22,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 252.3,
+          "vocalCoverage": 0.732,
+          "vocalSpanSec": [
+            1.8,
+            241.1
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 277,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_06",
+    "title": "Tell Me What I Mean",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 6,
+    "slug": "e90_06_tell_me_what_i_mean",
+    "inspiredBy": "I Want It That Way (Backstreet Boys, 1999)",
+    "leadVoice": "Five male voices. Two tenors trade the verses, one breathy and one fuller. Choruses are tight five-part harmony with a high tenor on top and a bass voice underneath, and the answers in brackets are sung by the group behind the lead. Ad-libbed runs over the final chorus.",
+    "model": "V6",
+    "style": "1999 boy band pop ballad, five-part male vocal harmony with two tenor lead singers trading lines, 99 BPM, A major with a key change up for the final chorus, glossy and earnest, picked steel-string acoustic guitar figure, warm synth pad, clean chorus electric guitar, punchy pop drums with deep snare, fat synth bass, soft string synth, call-and-response backing vocals, a cappella breakdown before the key change, clean bright stacked-vocal mix, sincere, yearning, singalong",
+    "negativeTags": "distorted guitar, female lead vocals, rap, dark mood, trap hi-hats, EDM drop, autotune, saxophone",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: picked acoustic guitar, soft synth pad, one voice humming]\n\n[Verse 1: solo tenor, breathy, guitar and pad]\nYou're my always, you're my never-mind\nThe only word I can't define\nBelieve me when I say it's true\nI don't mean a thing I say to you\n\n[Chorus: five-part harmony, drums enter, backing answers]\nTell me what I mean\n(Is it yes or is it maybe?)\nTell me what I mean\n(Am I going, am I staying?)\nDon't ever tell me what I asked\nJust tell me what I mean\n\n[Verse 2: second singer, lower, full beat]\nWe're two worlds and we're one street\nYou're everything I shouldn't keep\nIt's way too late, it's way too soon\nI'm over it, I'm over the moon\n\n[Chorus: five-part harmony, backing answers]\nTell me what I mean\n(Is it yes or is it maybe?)\nTell me what I mean\n(Am I going, am I staying?)\nDon't ever tell me what I asked\nJust tell me what I mean\n\n[Bridge: beat drops to claps, voices trade lines]\nNow I can see we've come undone\nFrom something we had not begun\nWhatever's far, whatever's near\nI hope you know I wish you weren't\nI wish you were here\n\n[Breakdown Chorus: a cappella, five voices only]\nTell me what I mean\n(Is it yes or is it maybe?)\nTell me what I mean\n\n[Final Chorus: key change up, full band, ad-libs on top]\nTell me what I mean\n(Is it yes or is it maybe?)\nTell me what I mean\n(Am I going, am I staying?)\nDon't ever tell me what I asked\nJust tell me what I mean\n(Tell me, tell me)\nTell me what I mean\n\n[Outro: voices only, last chord held]\n'Cause I mean it\nWhatever it is",
+    "taskId": "bfb46b2bc0565158bdcaba388e84885b",
+    "sunoClipIds": [
+      "0d8c9c1d-ce09-4447-8cf9-7bc1f7a6a562",
+      "3b6301ca-db19-43fe-84a5-4be5c5954456"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795628023,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0d8c9c1d-ce09-4447-8cf9-7bc1f7a6a562",
+        "durationSec": 239.56,
+        "file": "nineties/e90_06_tell_me_what_i_mean_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "3b6301ca-db19-43fe-84a5-4be5c5954456",
+        "durationSec": 239.0,
+        "file": "nineties/e90_06_tell_me_what_i_mean_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_06_tell_me_what_i_mean_req.json",
+      "nineties/e90_06_tell_me_what_i_mean_rec.json"
+    ],
+    "cover": "nineties/covers/e90_06_tell_me_what_i_mean.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 99 BPM, 4/4, A major rising to B major for the last chorus. Mid-tempo, glossy, earnest.\n\nVOICE: Five male voices. Two tenors trade the verses, one breathy and one fuller. Choruses are tight five-part harmony with a high tenor on top and a bass voice underneath, and the answers in brackets are sung by the group behind the lead. Ad-libbed runs over the final chorus.\n\nINSTRUMENTS: A picked steel-string acoustic guitar figure that opens the song and never leaves. Warm synth pad. Clean electric guitar with light chorus effect. A punchy, simple pop drum kit with a deep snare. Fat synth bass. Soft string synth in the choruses. Finger clicks and handclaps in the bridge.\n\nARRANGEMENT MAP: 0:00 Intro, acoustic figure and a hummed line. 0:12 Verse 1, no drums. 0:36 Chorus 1, the beat arrives. 1:01 Verse 2. 1:25 Chorus 2. 1:50 Bridge, beat reduced to claps, voices trading. 2:19 Breakdown chorus, five voices a cappella. 2:34 A drum fill and the key change into the final chorus with ad-libs. 3:18 Outro, voices alone on the last two lines, held chord to 3:40.\n\nPRODUCTION & MIX: Late-90s Swedish pop production: every part clean and separate, vocals stacked and very forward, bright top end, tight low end.\n\nSIGNATURE MOMENT: The a cappella breakdown at 2:19 followed by the key change.\n\nMODERN POINT OF VIEW: The original's accidental nonsense is done on purpose here and is the subject. The singer is a grown man who knows he communicates badly and asks for help.\n\nEMOTIONAL ARC: Confusion played straight, then tenderness in the last two lines.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1999 boy band pop ballad, five-part male vocal harmony with two tenor lead singers trading lines, 99 BPM, A major with a key change up for the final chorus, glossy and earnest, picked steel-string acoustic guitar figure, warm synth pad, clean chorus electric guitar, punchy pop drums with deep snare, fat synth bass, soft string synth, call-and-response backing vocals, a cappella breakdown before the key change, clean bright stacked-vocal mix, sincere, yearning, singalong\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, female lead vocals, rap, dark mood, trap hi-hats, EDM drop, autotune, saxophone\n\nWHAT IT IS ABOUT\n\nSomeone who cannot say what he feels asks the person he loves to translate him. Every line cancels the one before it, and every line is sincere.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a couple who are terrible at texting and good at each other; a commitment-phobe arguing with himself; a loving send-up of pop lyrics; or anyone whose words come out wrong.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: deliberate contradiction, traded lead lines, a call-and-response question, stacked harmonies and a final key change. Designed mishearing: 'Tell me what I mean' is heard as 'Tell me, what am I?', which makes it an identity song.",
+    "workbookAtAGlance": "Tell Me What I Mean\n\nBackup titles\nYes or Maybe / Wish You Weren't Here\n\nAt a glance\n99 BPM, A major, key change to B\nVoice: Five-part male harmony, tenor leads\nLength: about 3 minutes 45",
+    "qa": {
+      "title": "Tell Me What I Mean",
+      "id": "e90_06",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.23 dBFS (2 clipped sample, inaudible)"
+          ],
+          "durationSec": 239.6,
+          "measuredBpm": 99.4,
+          "bpmFactor": 1,
+          "targetBpm": 99,
+          "bpmErrPct": 0.4,
+          "lufs": -13.4,
+          "peakDbfs": 0.23,
+          "clipSamples": 2,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 236.9,
+          "vocalCoverage": 0.804,
+          "vocalSpanSec": [
+            7.5,
+            220.5
+          ],
+          "vocalF0MedianHz": 263,
+          "vocalF0P25Hz": 260,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 239.0,
+          "measuredBpm": 101.3,
+          "bpmFactor": 1,
+          "targetBpm": 99,
+          "bpmErrPct": 2.4,
+          "lufs": -13.3,
+          "peakDbfs": -0.03,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.3,
+          "contentEndSec": 237.1,
+          "vocalCoverage": 0.804,
+          "vocalSpanSec": [
+            3.4,
+            217.4
+          ],
+          "vocalF0MedianHz": 263,
+          "vocalF0P25Hz": 209,
+          "lyricLineRecall": 0.921,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_07",
+    "title": "Leave Me on Red",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 7,
+    "slug": "e90_07_leave_me_on_red",
+    "inspiredBy": "...Baby One More Time (Britney Spears, 1998)",
+    "leadVoice": "Young female pop voice, breathy with a deliberate creak at the start of phrases and little sighs at the end. Verses close and conspiratorial. Choruses stacked many times over with a harder, nasal belt, and bracketed echoes sung by backing voices.",
+    "model": "V6",
+    "style": "1998 teen pop, young female pop vocal, breathy with a creaky vocal fry and sighs, stacked nasal belted chorus, 93 BPM, C minor, tight strutting groove with a dark edge, three low percussive piano stabs as a signature motif, wah-wah rhythm guitar, funky sliding electric bass, dry punchy programmed drums with huge snare, swelling synth strings, handclaps, echoed backing vocals, half-spoken bridge, dry loud bright Swedish pop mix, lonely, impatient, catchy",
+    "negativeTags": "male lead vocals, distorted guitar, guitar solo, slow ballad, trap hi-hats, EDM drop, saxophone",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: three low piano stabs, wah guitar, creaky ad-lib]\nOh, honestly\nHonestly\n\n[Verse 1: breathy, close, funk bass and tight drums]\nI should have known the quiet wasn't fine\nI should have read the space between the lines\nNow every little light that isn't you\nIs telling me what I already knew\n\n[Pre-Chorus: strings rise, backing voices join]\nSay a word, say anything\nMy phone's a stone, it doesn't ring\n\n[Chorus: big stacked vocals, piano stabs return]\nThe waiting's got a hold on me\nI check, I check, there's nothing to see\nI'd rather hear the worst instead\nGo on, then, leave me on red\nOne more night with the light gone dead\nGo on, leave me on red\n\n[Verse 2: breathy, wah guitar answers]\nThe engine's running and the street is bare\nI'm counting seconds like they're going somewhere\nThe sign says stop but everything in me\nIs rolling forward to where you used to be\n\n[Pre-Chorus: strings rise, backing voices join]\nSay a word, say anything\nMy phone's a stone, it doesn't ring\n\n[Chorus: big stacked vocals, piano stabs return]\nThe waiting's got a hold on me\nI check, I check, there's nothing to see\nI'd rather hear the worst instead\nGo on, then, leave me on red\nOne more night with the light gone dead\nGo on, leave me on red\n\n[Bridge: beat drops out, half-spoken over piano stabs]\nGreen means go, I know, I know\nYellow's just a slower no\nRed is where you left me, so\nOh, honestly\n\n[Breakdown: voice and handclaps only]\nThe waiting's got a hold on me\nI check, I check, there's nothing to see\n\n[Final Chorus: full band, ad-libs and high harmonies]\nI'd rather hear the worst instead\nGo on, then, leave me on red\nOne more night with the light gone dead\nGo on, leave me on red\n(Say a word, say anything)\nGo on, leave me on red\n\n[Outro: three piano stabs, last word alone]\nHonestly",
+    "taskId": "16b532373f208ded59aa30bd0db2430a",
+    "sunoClipIds": [
+      "e7ed33be-a049-4d3c-aadf-829160855121",
+      "966f1404-afd2-4c20-831f-8b38d29d7507"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795631737,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "e7ed33be-a049-4d3c-aadf-829160855121",
+        "durationSec": 233.8,
+        "file": "nineties/e90_07_leave_me_on_red_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "966f1404-afd2-4c20-831f-8b38d29d7507",
+        "durationSec": 233.8,
+        "file": "nineties/e90_07_leave_me_on_red_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_07_leave_me_on_red_req.json",
+      "nineties/e90_07_leave_me_on_red_rec.json"
+    ],
+    "cover": "nineties/covers/e90_07_leave_me_on_red.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 93 BPM, 4/4, C minor. A tight, strutting mid-tempo groove with a dark edge.\n\nVOICE: Young female pop voice, breathy with a deliberate creak at the start of phrases and little sighs at the end. Verses close and conspiratorial. Choruses stacked many times over with a harder, nasal belt, and bracketed echoes sung by backing voices.\n\nINSTRUMENTS: Three low, percussive piano notes used as a signature and as punctuation. Wah-wah rhythm guitar. A funky, sliding electric bass. Tight, dry drum programming with a huge snare. Synth strings that swell into each chorus. Handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, the three piano stabs, wah guitar, creaky ad-lib. 0:10 Verse 1. 0:31 Pre-chorus. 0:41 Chorus 1. 1:07 Verse 2. 1:28 Pre-chorus. 1:38 Chorus 2. 2:04 Bridge, the beat drops away and the lines are half spoken over piano stabs. 2:25 Breakdown, voice and claps. 2:35 Final chorus with ad-libs and a counter-line from the pre-chorus. 3:12 Outro, three stabs and one word at 3:25.\n\nPRODUCTION & MIX: Late-90s Swedish pop: dry, punchy and loud, every hit quantised, vocal layered thickly and bright.\n\nSIGNATURE MOMENT: The three piano stabs. They open the song, mark every chorus and end it.\n\nMODERN POINT OF VIEW: The phone that does not ring is now a message marked as seen. The traffic-light bridge gives listeners who have never heard 'left on read' a second, complete meaning.\n\nEMOTIONAL ARC: Suspicion, impatience, bravado, and one honest sigh.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1998 teen pop, young female pop vocal, breathy with a creaky vocal fry and sighs, stacked nasal belted chorus, 93 BPM, C minor, tight strutting groove with a dark edge, three low percussive piano stabs as a signature motif, wah-wah rhythm guitar, funky sliding electric bass, dry punchy programmed drums with huge snare, swelling synth strings, handclaps, echoed backing vocals, half-spoken bridge, dry loud bright Swedish pop mix, lonely, impatient, catchy\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, distorted guitar, guitar solo, slow ballad, trap hi-hats, EDM drop, saxophone\n\nWHAT IT IS ABOUT\n\nShe is waiting for an answer that is not coming and would rather be told the worst. The phrase she uses means two things at once.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a message left unanswered ('on read'); a driver stuck at a red light replaying a phone call; anyone kept waiting by a job, a doctor or a parent. Younger and older listeners hear different words in the title and both are right.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a three-note piano signature, a creaky intimate vocal, a confessional chorus with echoes, and a key phrase that is misread. Designed mishearing: 'leave me on red' and 'leave me on read' are the same sound; the bridge about traffic lights makes both true.",
+    "workbookAtAGlance": "Leave Me on Red\n\nBackup titles\nThe Light Gone Dead / A Slower No\n\nAt a glance\n93 BPM, C minor\nVoice: Young female pop voice, creaky and breathy\nLength: about 3 minutes 40",
+    "qa": {
+      "title": "Leave Me on Red",
+      "id": "e90_07",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 233.8,
+          "measuredBpm": 94.8,
+          "bpmFactor": 1,
+          "targetBpm": 93,
+          "bpmErrPct": 2.0,
+          "lufs": -13.8,
+          "peakDbfs": -1.06,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 233.2,
+          "vocalCoverage": 0.774,
+          "vocalSpanSec": [
+            3.7,
+            222.7
+          ],
+          "vocalF0MedianHz": 314,
+          "vocalF0P25Hz": 295,
+          "lyricLineRecall": 0.829,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending"
+          ],
+          "durationSec": 233.8,
+          "measuredBpm": 95.7,
+          "bpmFactor": 1,
+          "targetBpm": 93,
+          "bpmErrPct": 2.9,
+          "lufs": -14.0,
+          "peakDbfs": -0.41,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.2,
+          "contentEndSec": 232.5,
+          "vocalCoverage": 0.787,
+          "vocalSpanSec": [
+            3.1,
+            232.2
+          ],
+          "vocalF0MedianHz": 415,
+          "vocalF0P25Hz": 293,
+          "lyricLineRecall": 0.943,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_08",
+    "title": "Run It By the Group Chat",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 8,
+    "slug": "e90_08_run_it_by_the_group_chat",
+    "inspiredBy": "Wannabe (Spice Girls, 1996)",
+    "leadVoice": "Five distinct female voices: one husky, one sweet, one loud and brash, one cool, one soulful. Verses are chanted, half rapped, with the others shouting replies. Choruses are unison shouts, not polished harmony. Laughter and ad-libs are left in.",
+    "model": "V6",
+    "style": "1996 British girl group dance-pop, five distinct female voices, chanted half-rapped lead lines with the group shouting answers, unison gang-shout choruses, 110 BPM, B major, stomping bouncing strut, kick and handclap stomp, bright pub piano chords and slides, rubbery funky bass, scratchy wah guitar, synth horn stabs, roll-call rap bridge, soft finger-snap breakdown, laughter and ad-libs left in, dry bright busy mix, cheeky, loud, joyful, playful",
+    "negativeTags": "male lead vocals, slow ballad, distorted guitar, dark mood, trap hi-hats, autotune, EDM drop",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 210,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: laughter, running footsteps, piano slide, stomping beat]\nAlright, listen up\n\n[Verse 1: chanted lead, the group shouts the answers]\nBefore you get a yes, there's a panel, there's a test\n(Who's on it?) Five of my best\n(What's the question?) Can you hang, can you laugh\nCan you handle all the screenshots in the group chat?\n\n[Chorus: all five in unison, handclaps]\nYou like me? Cute. Run it by the group chat\nLove's a team sport, baby, that's a fact\nIf they say \"who's this?\" then you won't last\nGotta run it, run it, run it by the group chat\nGive me that shoobie-zap, shoobie-zap-zoo\n\n[Verse 2: second chanted lead, the group answers]\nYou can bring the flowers, you can bring the car\n(Does he listen?) That's the bar\n(Does she show up?) Rain or shine\nIf you're good to my people then you're good to mine\n\n[Chorus: all five in unison, handclaps]\nYou like me? Cute. Run it by the group chat\nLove's a team sport, baby, that's a fact\nIf they say \"who's this?\" then you won't last\nGotta run it, run it, run it by the group chat\nGive me that shoobie-zap, shoobie-zap-zoo\n\n[Bridge: roll call rap, each voice takes a line]\nWe got Priya with receipts, we got Jo who never sleeps\nWe got Dee who reads your stars, Kay who checks your car\nAnd Nan's eighty-three and she's meaner than me\nSo mind your manners when you come for tea\n\n[Breakdown: sung softly, piano and finger snaps]\nLovers come and lovers go\nThese five were here before hello\n\n[Final Chorus: everyone shouting, key hits, whistles]\nYou like me? Cute. Run it by the group chat\nLove's a team sport, baby, that's a fact\nIf they say \"who's this?\" then you won't last\nGotta run it, run it, run it by the group chat\nGive me that shoobie-zap, shoobie-zap-zoo\nShoobie-zap, shoobie-zap-zoo\n\n[Outro: laughter, one voice, door slam]\nApproved. For now.",
+    "taskId": "b0b019034c77d3f760042373b815f571",
+    "sunoClipIds": [
+      "094782b1-8b1b-4ed3-81a4-9e8ba44a029c",
+      "478406fb-529b-4c50-8b90-822ae0b37937"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795635571,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "094782b1-8b1b-4ed3-81a4-9e8ba44a029c",
+        "durationSec": 208.56,
+        "file": "nineties/e90_08_run_it_by_the_group_chat_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "478406fb-529b-4c50-8b90-822ae0b37937",
+        "durationSec": 208.8,
+        "file": "nineties/e90_08_run_it_by_the_group_chat_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_08_run_it_by_the_group_chat_req.json",
+      "nineties/e90_08_run_it_by_the_group_chat_rec.json"
+    ],
+    "cover": "nineties/covers/e90_08_run_it_by_the_group_chat.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 110 BPM, 4/4, B major. A stomping, bouncing pop-rap strut. Loud, cheeky and fast-moving.\n\nVOICE: Five distinct female voices: one husky, one sweet, one loud and brash, one cool, one soulful. Verses are chanted, half rapped, with the others shouting replies. Choruses are unison shouts, not polished harmony. Laughter and ad-libs are left in.\n\nINSTRUMENTS: A stomping kick and clap pattern. Bright pub-style piano chords and slides. A rubbery, funky bass line. Scratchy wah guitar. Synth horn stabs. Finger snaps and a soft electric piano in the breakdown. Sound effects: footsteps, laughter, a door.\n\nARRANGEMENT MAP: 0:00 Intro, laughter and footsteps, a piano slide, the beat. 0:10 Verse 1. 0:28 Chorus 1. 0:50 Verse 2. 1:08 Chorus 2. 1:30 Bridge, a roll-call with each voice taking a line. 1:48 Breakdown, two soft sung lines over piano and snaps. 2:02 Final chorus, everyone shouting, last line doubled. 2:36 Outro, a laugh, one spoken line, a door slam at 2:50.\n\nPRODUCTION & MIX: Mid-90s British pop: dry, bright and busy, voices loud and slightly rough, nothing over-tuned.\n\nSIGNATURE MOMENT: The nonsense line at the end of each chorus, shouted by all five.\n\nMODERN POINT OF VIEW: The friends have a group chat and one of them is eighty-three. The song works for a girl gang at twenty and for the same women decades later.\n\nEMOTIONAL ARC: Mischief throughout, with two lines of real loyalty in the breakdown.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1996 British girl group dance-pop, five distinct female voices, chanted half-rapped lead lines with the group shouting answers, unison gang-shout choruses, 110 BPM, B major, stomping bouncing strut, kick and handclap stomp, bright pub piano chords and slides, rubbery funky bass, scratchy wah guitar, synth horn stabs, roll-call rap bridge, soft finger-snap breakdown, laughter and ad-libs left in, dry bright busy mix, cheeky, loud, joyful, playful\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, slow ballad, distorted guitar, dark mood, trap hi-hats, autotune, EDM drop\n\nWHAT IT IS ABOUT\n\nBefore anyone gets a yes, they have to get past her friends, who are already discussing it.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: friends in their twenties, or the same friends at forty-five vetting second marriages; a family with opinions; a band; or your own conscience, which also has a group chat.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: friendship as the rule, chanted call-and-response verses, a roll-call, and a nonsense phrase in the hook. Designed mishearing: 'shoobie-zap' has no meaning on purpose, and 'run it by the group chat' is heard as 'run it by the cool cat'.",
+    "workbookAtAGlance": "Run It By the Group Chat\n\nBackup titles\nThere's a Panel / Shoobie-Zap\n\nAt a glance\n110 BPM, B major\nVoice: Five women, chanted leads and gang shouts\nLength: about 3 minutes",
+    "qa": {
+      "title": "Run It By the Group Chat",
+      "id": "e90_08",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 208.6,
+          "measuredBpm": 110.0,
+          "bpmFactor": 1,
+          "targetBpm": 110,
+          "bpmErrPct": 0.0,
+          "lufs": -14.2,
+          "peakDbfs": -0.23,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.4,
+          "contentEndSec": 206.3,
+          "vocalCoverage": 0.718,
+          "vocalSpanSec": [
+            0.3,
+            204.8
+          ],
+          "vocalF0MedianHz": 496,
+          "vocalF0P25Hz": 333,
+          "lyricLineRecall": 0.719,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 208.8,
+          "measuredBpm": 110.0,
+          "bpmFactor": 1,
+          "targetBpm": 110,
+          "bpmErrPct": 0.0,
+          "lufs": -13.8,
+          "peakDbfs": -0.37,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.4,
+          "contentEndSec": 207.2,
+          "vocalCoverage": 0.729,
+          "vocalSpanSec": [
+            0.3,
+            187.9
+          ],
+          "vocalF0MedianHz": 394,
+          "vocalF0P25Hz": 312,
+          "lyricLineRecall": 0.812,
+          "lyricUnclearSections": [
+            "Intro"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_09",
+    "title": "Buffering",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 9,
+    "slug": "e90_09_buffering",
+    "inspiredBy": "No Scrubs (TLC, 1999)",
+    "leadVoice": "Three women. A cool, low alto leads verse 1 with almost no vibrato. A lighter soprano takes verse 2. A third voice raps the middle section quickly and playfully. Choruses are close three-part harmony, soft and precise, with whispered ad-libs.",
+    "model": "V6",
+    "style": "1999 Atlanta R&B, female vocal trio, cool low alto lead with almost no vibrato, sweet soprano second verse, quick playful female rap verse, close soft three-part chorus harmony, 93 BPM, G-sharp minor, sleek and unhurried, picked nylon-string guitar riff throughout, harpsichord-like synth doubling the riff, deep sliding synth bass, crisp programmed drums with stuttering hi-hats, finger snaps, subtle scratches, glossy spacious precise mix, confident, witty, cool",
+    "negativeTags": "male lead vocals, distorted guitar, rock drums, fast tempo, EDM drop, autotune, saxophone",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: picked acoustic guitar riff, harpsichord synth, finger snaps]\n\n[Verse 1: cool low lead, sparse beat]\nA buffer is a guy who's always almost there\nSpinning like a wheel and going nowhere\nSays he's on his way, he's five away\nHe's been five away since yesterday\n\n[Pre-Chorus: harmonies stack, bass slides up]\nAnd I've been patient, I've been kind\nBut I can't love a loading sign\n\n[Chorus: three-part harmony, full beat]\nYou're buffering, buffering\nI'm not gonna wait on a wheel that spins\nBuffering, buffering\nHanging on a \"soon\" that never begins\nI don't need a maybe on my line\nLoad it up or lose my time\nYou're buffering\n\n[Verse 2: second voice, higher and sweeter]\nHe's got a pitch, he's got a deck\nA million-dollar dream and a bounced check\nWants my number, wants my time\nCan't commit to a dinner at nine\n\n[Pre-Chorus: harmonies stack, bass slides up]\nAnd I've been patient, I've been kind\nBut I can't love a loading sign\n\n[Chorus: three-part harmony, full beat]\nYou're buffering, buffering\nI'm not gonna wait on a wheel that spins\nBuffering, buffering\nHanging on a \"soon\" that never begins\nI don't need a maybe on my line\nLoad it up or lose my time\nYou're buffering\n\n[Rap Verse: third voice, quick and playful]\nSee, if you can't hold a date, can't hold a thought\nCan't hold a door, then hold on, you're caught\nI got bandwidth for joy, got bandwidth for peace\nNone for a man on a thirty-day lease\nI'm not asking for the moon or the keys to a jet\nJust a yes that's a yes and a text I can get\n\n[Bridge: beat thins, lead alone, honest]\nAnd if I'm fair, I've done it too\nKept somebody waiting on a \"soon\"\nSo this one's for the both of us\nShow up, or give it up\n\n[Final Chorus: three-part harmony, ad-libs, guitar riff on top]\nYou're buffering, buffering\nI'm not gonna wait on a wheel that spins\nBuffering, buffering\nHanging on a \"soon\" that never begins\nI don't need a maybe on my line\nLoad it up or lose my time\n\n[Outro: guitar riff alone, snaps, whispered]\nStill loading",
+    "taskId": "fd81074c9f9d4a9e75c0420948f0a2a3",
+    "sunoClipIds": [
+      "3a03f230-b89d-4fd5-bbd6-dc726eb0f05c",
+      "a560aadf-7653-454a-9541-5818a5ef11c2"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795639697,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3a03f230-b89d-4fd5-bbd6-dc726eb0f05c",
+        "durationSec": 234.8,
+        "file": "nineties/e90_09_buffering_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "a560aadf-7653-454a-9541-5818a5ef11c2",
+        "durationSec": 234.56,
+        "file": "nineties/e90_09_buffering_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_09_buffering_req.json",
+      "nineties/e90_09_buffering_rec.json"
+    ],
+    "cover": "nineties/covers/e90_09_buffering.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 93 BPM, 4/4, G-sharp minor. Sleek, unhurried, clipped. Head-nod R&B with a raised eyebrow.\n\nVOICE: Three women. A cool, low alto leads verse 1 with almost no vibrato. A lighter soprano takes verse 2. A third voice raps the middle section quickly and playfully. Choruses are close three-part harmony, soft and precise, with whispered ad-libs.\n\nINSTRUMENTS: A picked nylon-string guitar riff that repeats throughout. A harpsichord-like synth doubling it an octave up. Deep, sliding synth bass. Crisp drum programming with rapid hi-hat stutters and a tight snare. Finger snaps. Subtle scratch effects. A soft string pad in the bridge.\n\nARRANGEMENT MAP: 0:00 Intro, guitar riff, harpsichord synth and snaps. 0:11 Verse 1. 0:32 Pre-chorus. 0:42 Chorus 1. 1:08 Verse 2. 1:29 Pre-chorus. 1:39 Chorus 2. 2:05 Rap verse, six lines. 2:21 Bridge, the beat thins and the lead admits her own part. 2:42 Final chorus with ad-libs and the guitar riff lifted in the mix. 3:13 Outro, riff and snaps, a whispered last line at 3:30.\n\nPRODUCTION & MIX: Late-90s Atlanta R&B: glossy, spacious and precise, heavy low end, bright stuttering hi-hats, vocals soft but right at the front.\n\nSIGNATURE MOMENT: The opening line, delivered like a dictionary definition over the bare guitar riff.\n\nMODERN POINT OF VIEW: The slang is from the streaming age, and the bridge does what the original did not: the singer includes herself. It is a standard to hold, not only a put-down.\n\nEMOTIONAL ARC: Cool dismissal, wit, then a fair-minded admission.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1999 Atlanta R&B, female vocal trio, cool low alto lead with almost no vibrato, sweet soprano second verse, quick playful female rap verse, close soft three-part chorus harmony, 93 BPM, G-sharp minor, sleek and unhurried, picked nylon-string guitar riff throughout, harpsichord-like synth doubling the riff, deep sliding synth bass, crisp programmed drums with stuttering hi-hats, finger snaps, subtle scratches, glossy spacious precise mix, confident, witty, cool\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, distorted guitar, rock drums, fast tempo, EDM drop, autotune, saxophone\n\nWHAT IT IS ABOUT\n\nA new word for an old type: the person who is always almost there. The last verse admits the singer has been one too.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: dating in any decade; a friend who never commits to plans; an employer who keeps saying 'soon'; or a note to yourself about the life you keep postponing.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a slang term defined in line one, a cool delivery, a picked guitar riff with a harpsichord-like synth, and a rap verse. Designed mishearing: 'buffering' is heard as 'suffering', which fits every chorus line.",
+    "workbookAtAGlance": "Buffering\n\nBackup titles\nFive Away Since Yesterday / Load It Up\n\nAt a glance\n93 BPM, G-sharp minor\nVoice: Female R&B trio, cool lead, rap verse\nLength: about 3 minutes 40",
+    "qa": {
+      "title": "Buffering",
+      "id": "e90_09",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.41 dBFS (8 clipped sample, inaudible)"
+          ],
+          "durationSec": 234.8,
+          "measuredBpm": 95.7,
+          "bpmFactor": 1,
+          "targetBpm": 93,
+          "bpmErrPct": 2.9,
+          "lufs": -13.1,
+          "peakDbfs": 0.41,
+          "clipSamples": 8,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 234.0,
+          "vocalCoverage": 0.687,
+          "vocalSpanSec": [
+            3.0,
+            221.9
+          ],
+          "vocalF0MedianHz": 283,
+          "vocalF0P25Hz": 248,
+          "lyricLineRecall": 0.865,
+          "lyricUnclearSections": [
+            "Verse 2"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.24 dBFS (2 clipped sample, inaudible)",
+            "tempo measured 114 BPM vs 93 target (~19% off)"
+          ],
+          "durationSec": 234.6,
+          "measuredBpm": 113.6,
+          "bpmFactor": 0.67,
+          "targetBpm": 93,
+          "bpmErrPct": 18.6,
+          "lufs": -13.6,
+          "peakDbfs": 0.24,
+          "clipSamples": 2,
+          "midGaps": [],
+          "endFadeSec": 2.7,
+          "contentEndSec": 232.4,
+          "vocalCoverage": 0.806,
+          "vocalSpanSec": [
+            3.6,
+            212.2
+          ],
+          "vocalF0MedianHz": 278,
+          "vocalF0P25Hz": 248,
+          "lyricLineRecall": 0.919,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_10",
+    "title": "Leaving You the Light",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 10,
+    "slug": "e90_10_leaving_you_the_light",
+    "inspiredBy": "I Will Always Love You (Whitney Houston, 1992)",
+    "leadVoice": "Female soprano with enormous range and control. The first verse and chorus are sung with no accompaniment, soft and breathy with small gospel turns. Each chorus is fuller than the last. After the key change she sings at full power with long held notes and melismatic runs, then returns to a whisper.",
+    "model": "V6",
+    "style": "1992 soul pop power ballad, powerhouse female soprano vocal with gospel melisma and long held notes, opening verse and chorus sung completely a cappella with no instruments, 66 BPM, A major with a dramatic key change up after a full stop and one huge drum hit, soft electric piano, fretless bass, brushed drums, growing orchestral strings, tender tenor saxophone solo, quiet blessing verse, final chorus at full power, lush wide reverberant mix, voice far in front, graceful, aching, overwhelming",
+    "negativeTags": "male lead vocals, distorted guitar, fast tempo, rap, drum machine, EDM, trap hi-hats, autotune",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 270,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Verse 1: a cappella, solo female voice, no instruments at all]\nThere's a bag beside the doorway\nThere's a note beside the bed\nI have loved you past the saying\nSo I'll leave the rest unsaid\n\n[Chorus: still a cappella, soft, a single held note]\nI'm leaving you the light on\nI'm leaving you the key\nI'm leaving you the best years\nThat you ever gave to me\nI'm leaving you the light\n\n[Verse 2: soft electric piano, bass and brushes enter]\nTake the laughing, take the summers\nTake the kitchen and the songs\nI am taking only this much:\nThat I loved you all along\n\n[Chorus: fuller, strings join, voice opens up]\nI'm leaving you the light on\nI'm leaving you the key\nI'm leaving you the best years\nThat you ever gave to me\nI'm leaving you the light\n\n[Saxophone Solo: tenor sax plays the chorus melody, tender]\n\n[Verse 3: quiet, almost spoken, a blessing]\nMay the mornings treat you gently\nMay your table stay full\nMay somebody learn to hold you\nIn the way I never could\n\n[Break: everything stops, silence, one huge drum hit]\n\n[Final Chorus: key change up, full power, long held notes]\nI'm leaving you the light on\nI'm leaving you the key\nI'm leaving you the best years\nThat you ever gave to me\nI'm leaving you the light\nOh, I'm leaving you the light\n\n[Outro: band fades, voice alone again, very soft]\nThe light\nI'm leaving you\nTonight",
+    "taskId": "f8d2ba232120cc6674d4a14bc49cc5d4",
+    "sunoClipIds": [
+      "6b770df2-3f33-439f-a1c7-a8ee3ff3e6c2",
+      "68e7b2fb-d6a2-4009-9c47-573384533391"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795648905,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "6b770df2-3f33-439f-a1c7-a8ee3ff3e6c2",
+        "durationSec": 269.56,
+        "file": "nineties/e90_10_leaving_you_the_light_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "68e7b2fb-d6a2-4009-9c47-573384533391",
+        "durationSec": 269.56,
+        "file": "nineties/e90_10_leaving_you_the_light_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_10_leaving_you_the_light_req.json",
+      "nineties/e90_10_leaving_you_the_light_rec.json"
+    ],
+    "cover": "nineties/covers/e90_10_leaving_you_the_light.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 66 BPM, 4/4, A major, rising to B major after the break. Very slow and still, then overwhelming.\n\nVOICE: Female soprano with enormous range and control. The first verse and chorus are sung with no accompaniment, soft and breathy with small gospel turns. Each chorus is fuller than the last. After the key change she sings at full power with long held notes and melismatic runs, then returns to a whisper.\n\nINSTRUMENTS: Nothing for the first 50 seconds. Then soft electric piano, fretless bass and brushed drums. A string section that grows from one line to a full orchestra. A tenor saxophone for one solo. A single, very large tom and bass-drum hit that marks the key change. Acoustic guitar picking under verse 3.\n\nARRANGEMENT MAP: 0:00 Verse 1 and chorus, voice entirely alone. 0:52 Verse 2, the band enters gently. 1:18 Chorus 2, strings. 1:50 Saxophone solo on the chorus tune. 2:16 Verse 3, quiet, a blessing. 2:44 Break: everything stops for a full bar of silence, then one drum hit. 2:48 Final chorus in the new key, at full power, with the last line repeated. 3:36 Outro, the band fades and the voice ends alone at 4:10.\n\nPRODUCTION & MIX: Early-90s adult-pop ballad production: lush, wide and reverberant, with the voice far in front of everything and plenty of dynamic range.\n\nSIGNATURE MOMENT: The silence and single drum hit at 2:44, and the first held note after it.\n\nMODERN POINT OF VIEW: The lyric is written so that the leaving need not be a break-up. It is equally a parent, a mentor or someone at the end of a life, which is how older listeners will hear it.\n\nEMOTIONAL ARC: Stillness, grace, grief held in check, then released.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1992 soul pop power ballad, powerhouse female soprano vocal with gospel melisma and long held notes, opening verse and chorus sung completely a cappella with no instruments, 66 BPM, A major with a dramatic key change up after a full stop and one huge drum hit, soft electric piano, fretless bass, brushed drums, growing orchestral strings, tender tenor saxophone solo, quiet blessing verse, final chorus at full power, lush wide reverberant mix, voice far in front, graceful, aching, overwhelming\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, distorted guitar, fast tempo, rap, drum machine, EDM, trap hi-hats, autotune\n\nWHAT IT IS ABOUT\n\nSomeone is leaving in the night, out of love, and leaves a light on behind her.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: the end of a marriage with no villain; a mother seeing a child off to a new life; a dying parent; a mentor retiring. The key line is heard two ways and the outro confirms both.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an unaccompanied opening, a blameless goodbye, a blessing verse, a full stop with one drum hit, then a key change and a long held note. Designed mishearing: 'I'm leaving you the light on' is heard as 'I'm leaving you tonight', which is also true.",
+    "workbookAtAGlance": "Leaving You the Light\n\nBackup titles\nThe Rest Unsaid / Only This Much\n\nAt a glance\n66 BPM, A major, key change to B\nVoice: Powerhouse female soprano\nLength: about 4 minutes 15",
+    "qa": {
+      "title": "Leaving You the Light",
+      "id": "e90_10",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 269.6,
+          "measuredBpm": 64.2,
+          "bpmFactor": 1,
+          "targetBpm": 66,
+          "bpmErrPct": 2.7,
+          "lufs": -14.1,
+          "peakDbfs": -0.83,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 268.2,
+          "vocalCoverage": 0.667,
+          "vocalSpanSec": [
+            4.3,
+            251.1
+          ],
+          "vocalF0MedianHz": 353,
+          "vocalF0P25Hz": 287,
+          "lyricLineRecall": 0.966,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 269.6,
+          "measuredBpm": 63.8,
+          "bpmFactor": 1,
+          "targetBpm": 66,
+          "bpmErrPct": 3.3,
+          "lufs": -14.2,
+          "peakDbfs": -0.38,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 268.1,
+          "vocalCoverage": 0.629,
+          "vocalSpanSec": [
+            0.9,
+            264.4
+          ],
+          "vocalF0MedianHz": 331,
+          "vocalF0P25Hz": 288,
+          "lyricLineRecall": 0.966,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_11",
+    "title": "Still Got the Voltage",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 11,
+    "slug": "e90_11_still_got_the_voltage",
+    "inspiredBy": "Thunderstruck (AC/DC, 1990)",
+    "leadVoice": "Male, very high and rasping, a controlled shriek that sits above the guitars. Verses are rhythmic and clipped. A gang of low male voices chants the wordless line and shouts the title word and the answers.",
+    "model": "V6",
+    "style": "1990 hard rock stadium anthem, very high rasping male rock scream vocal, low male gang chant, 134 BPM, key of B, blues-based, relentless and driving, fast even hammered single-string lead guitar riff that starts alone, crunchy open-chord rhythm guitar, thick simple bass, dry enormous drums entering in stages, one-word shouted chant over the intro, blues-rock guitar solo, drums-and-chant call-and-response bridge, dry loud wide mix, swaggering, electric, defiant, crowd-ready",
+    "negativeTags": "synthesizer, keyboards, piano, drum machine, female vocals, ballad, autotune, EDM, strings",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 270,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: fast hammered single-string guitar riff alone, hi-hat ticking]\n\n[Chant: low gang voices over the riff, kick drum joins]\n(Whoa-oh, oh-oh) Voltage!\n(Whoa-oh, oh-oh) Voltage!\n(Whoa-oh, oh-oh) Voltage!\n(Whoa-oh, oh-oh) Voltage!\n\n[Verse 1: rasping high vocal, rhythm guitar and full drums crash in]\nI was parked out in the driveway with the engine cold\nSomebody on the radio said I was getting old\nFelt it in my knuckles, felt it in my knees\nThen a spark came crawling up the back of me\n\n[Pre-Chorus: stabs, snare builds]\nAnd the garage door shook\nAnd the neighbours came to look\n\n[Chorus: open ringing chords, gang answers]\nI still got the voltage (yeah, yeah, yeah)\nStill got the voltage (yeah, yeah, yeah)\nRan a line down from the sky into my bones\nI still got the voltage\n\n[Verse 2: rasping high vocal over the riff]\nDug my boots out from the bottom of the stairs\nFound a jacket that remembers when I didn't care\nMy kid said \"who are you?\" and I said \"wait and see\"\nKicked the amp awake and it remembered me\n\n[Pre-Chorus: stabs, snare builds]\nAnd the windows shook\nAnd the whole street came to look\n\n[Chorus: open ringing chords, gang answers]\nI still got the voltage (yeah, yeah, yeah)\nStill got the voltage (yeah, yeah, yeah)\nRan a line down from the sky into my bones\nI still got the voltage\n\n[Guitar Solo: blues-rock, fast runs, wide vibrato]\n\n[Bridge: drums and chant only, call and response]\nPlug it in (plug it in)\nTurn it up (turn it up)\nPlug it in (plug it in)\nBurn it up (burn it up)\n\n[Final Chorus: full band, lead guitar wailing over the top]\nI still got the voltage (yeah, yeah, yeah)\nStill got the voltage (yeah, yeah, yeah)\nRan a line down from the sky into my bones\nI still got the voltage\nStill got the voltage\n\n[Outro: hammered riff returns, chant, final crash]\n(Whoa-oh, oh-oh) Voltage!\n(Whoa-oh, oh-oh) Voltage!",
+    "taskId": "d748e576d8a6095489e915cc219e0d32",
+    "sunoClipIds": [
+      "d4d8de0c-2344-4c0b-86bf-4fa215e00b02",
+      "b07ec201-84ab-4308-bdfd-e45a8c8ce260"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795652967,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "d4d8de0c-2344-4c0b-86bf-4fa215e00b02",
+        "durationSec": 269.48,
+        "file": "nineties/e90_11_still_got_the_voltage_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "b07ec201-84ab-4308-bdfd-e45a8c8ce260",
+        "durationSec": 270.0,
+        "file": "nineties/e90_11_still_got_the_voltage_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_11_still_got_the_voltage_req.json",
+      "nineties/e90_11_still_got_the_voltage_rec.json"
+    ],
+    "cover": "nineties/covers/e90_11_still_got_the_voltage.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 134 BPM, 4/4, in B with a blues-rock flavour. Relentless, driving, built for a crowd.\n\nVOICE: Male, very high and rasping, a controlled shriek that sits above the guitars. Verses are rhythmic and clipped. A gang of low male voices chants the wordless line and shouts the title word and the answers.\n\nINSTRUMENTS: Lead electric guitar playing a rapid, even figure of hammered notes on one string, clean but biting. Second electric guitar with a crunchy, open-chord rhythm sound. Thick, simple bass on root notes. A dry, enormous drum kit: hi-hat first, then kick, then the full kit. No keyboards.\n\nARRANGEMENT MAP: 0:00 Intro, the hammered riff alone with a ticking hi-hat. 0:14 The chant enters with a kick drum on every beat. 0:43 Rhythm guitar, bass and full drums crash in for verse 1. 1:11 Pre-chorus. 1:20 Chorus 1. 1:41 Verse 2. 2:09 Pre-chorus. 2:18 Chorus 2. 2:39 Guitar solo over the verse riff. 3:07 Bridge, everything drops to drums and call-and-response shouting. 3:25 Final chorus, with the lead guitar soloing over it. 3:53 Outro, the riff and the chant, last crash at 4:10.\n\nPRODUCTION & MIX: Dry, loud, wide and uncluttered. Two guitars panned apart, drums natural and huge, very little reverb.\n\nSIGNATURE MOMENT: The first shout of the title word at 0:14, when the kick drum joins the riff.\n\nMODERN POINT OF VIEW: The tall tale is now about a middle-aged man in a driveway. The boast is not that he is young, it is that the current still runs. A sub layer under the kick gives it modern weight.\n\nEMOTIONAL ARC: Doubt for two lines, then pure swagger.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1990 hard rock stadium anthem, very high rasping male rock scream vocal, low male gang chant, 134 BPM, key of B, blues-based, relentless and driving, fast even hammered single-string lead guitar riff that starts alone, crunchy open-chord rhythm guitar, thick simple bass, dry enormous drums entering in stages, one-word shouted chant over the intro, blues-rock guitar solo, drums-and-chant call-and-response bridge, dry loud wide mix, swaggering, electric, defiant, crowd-ready\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, keyboards, piano, drum machine, female vocals, ballad, autotune, EDM, strings\n\nWHAT IT IS ABOUT\n\nA man who has been told he is past it sits in his driveway, feels a spark climb his spine, and goes to find his boots.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a mid-life comeback; an athlete returning from injury; an old band reforming; a heart restarted in an ambulance; or a pre-game chant that needs no story at all.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a fast hammered guitar figure that starts alone, a one-word chant, drums that enter in stages, and a tall tale told as a boast. Designed mishearing: 'still got the voltage' is heard as 'still got the old age', which is the joke the song is answering.",
+    "workbookAtAGlance": "Still Got the Voltage\n\nBackup titles\nLine From the Sky / Wait and See\n\nAt a glance\n134 BPM, B (rock, blues-based)\nVoice: High rasping rock scream, gang chant\nLength: about 4 minutes 15",
+    "qa": {
+      "title": "Still Got the Voltage",
+      "id": "e90_11",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 269.5,
+          "measuredBpm": 134.2,
+          "bpmFactor": 1,
+          "targetBpm": 134,
+          "bpmErrPct": 0.2,
+          "lufs": -12.5,
+          "peakDbfs": -0.27,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.3,
+          "contentEndSec": 268.7,
+          "vocalCoverage": 0.499,
+          "vocalSpanSec": [
+            1.6,
+            268.0
+          ],
+          "vocalF0MedianHz": 662,
+          "vocalF0P25Hz": 415,
+          "lyricLineRecall": 0.886,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 270.0,
+          "measuredBpm": 134.2,
+          "bpmFactor": 1,
+          "targetBpm": 134,
+          "bpmErrPct": 0.2,
+          "lufs": -12.8,
+          "peakDbfs": -0.54,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.3,
+          "contentEndSec": 268.6,
+          "vocalCoverage": 0.601,
+          "vocalSpanSec": [
+            2.8,
+            267.7
+          ],
+          "vocalF0MedianHz": 621,
+          "vocalF0P25Hz": 618,
+          "lyricLineRecall": 0.657,
+          "lyricUnclearSections": [
+            "Chant",
+            "Bridge",
+            "Outro"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_12",
+    "title": "Late Bloomer",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 12,
+    "slug": "e90_12_late_bloomer",
+    "inspiredBy": "All Star (Smash Mouth, 1999)",
+    "leadVoice": "Male, raspy and nasal, a friendly bark. Verses are sung-spoken in fast, tumbling rhythm. Choruses are shouted by the whole band in unison. The bridge is spoken, dry and deadpan.",
+    "model": "V6",
+    "style": "1999 California pop-rock with ska upstrokes, raspy nasal male vocal, fast sung-spoken verses, shouted gang-vocal choruses, deadpan spoken bridge, 104 BPM, F-sharp major, bouncy and sunny, whistled hook, reedy fairground combo organ, clean off-beat guitar upstrokes, loud crunchy chorus guitars, bouncing bass, bright snappy drums, turntable record scratches, handclaps, tambourine, bright compressed colourful mix, goofy, self-mocking, encouraging, feel-good",
+    "negativeTags": "female lead vocals, dark mood, slow ballad, heavy metal, trap hi-hats, autotune, EDM drop, strings",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: record scratch, whistled hook, fairground organ]\n\n[Verse 1: sung-spoken, quick, bass and off-beat guitar]\nMy report card said \"could try a little more\"\nI was voted most likely to be found on the floor\nWore my shirt inside out for half of ninth grade\nNow look at this beautiful mess that I made\n\n[Pre-Chorus: drums build, organ swells]\nWell, the clocks keep spinning and they don't slow down\nEverybody's winning in another town\nDidn't make sense to hurry it, though\nGood things come to the gloriously slow\n\n[Chorus: gang vocals, big guitars, whistle answers]\nHey-ho, late bloomer, look at you grow\nSlow mover, last one in stole the show\nAll the early birds flew\nAnd the worm's still here for you\nYou're only late if you never go\n\n[Verse 2: sung-spoken, quieter, the serious one]\nThe summers come early and the snow's gone shy\nThere's a hole in the forecast as big as the sky\nBut a seed doesn't panic, a seed doesn't quit\nIt waits in the dark till it's time to commit\n\n[Pre-Chorus: drums build, organ swells]\nWell, the clocks keep spinning and they don't slow down\nEverybody's winning in another town\nDidn't make sense to hurry it, though\nGood things come to the gloriously slow\n\n[Chorus: gang vocals, big guitars, whistle answers]\nHey-ho, late bloomer, look at you grow\nSlow mover, last one in stole the show\nAll the early birds flew\nAnd the worm's still here for you\nYou're only late if you never go\n\n[Whistle Solo: whistled melody, record scratches, organ]\n\n[Bridge: half-time, spoken over bass and handclaps]\nSomebody's cousin made a million at nineteen\nGood for him. I was learning to clean\nTook the long way, took the stairs\nGot here anyway. Pull up a chair\n\n[Final Chorus: everyone, key hits, scratches]\nHey-ho, late bloomer, look at you grow\nSlow mover, last one in stole the show\nAll the early birds flew\nAnd the worm's still here for you\nYou're only late if you never go\nYou're only late if you never go\n\n[Outro: whistle, scratch, one organ chord]",
+    "taskId": "18b95a4edc436bd19ae9a589b1d4cd97",
+    "sunoClipIds": [
+      "98996c7a-c9f1-4292-967b-19f3bf7ed69a",
+      "23d1a52e-77ae-4c80-b4c1-b2ebd5cd5160"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795651702,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "98996c7a-c9f1-4292-967b-19f3bf7ed69a",
+        "durationSec": 213.56,
+        "file": "nineties/e90_12_late_bloomer_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "23d1a52e-77ae-4c80-b4c1-b2ebd5cd5160",
+        "durationSec": 214.76,
+        "file": "nineties/e90_12_late_bloomer_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_12_late_bloomer_req.json",
+      "nineties/e90_12_late_bloomer_rec.json"
+    ],
+    "cover": "nineties/covers/e90_12_late_bloomer.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, F-sharp major. Bouncy, sunny, slightly goofy. A ska-pop skip under a rock chorus.\n\nVOICE: Male, raspy and nasal, a friendly bark. Verses are sung-spoken in fast, tumbling rhythm. Choruses are shouted by the whole band in unison. The bridge is spoken, dry and deadpan.\n\nINSTRUMENTS: A whistled hook. A reedy fairground-style combo organ. Clean electric guitar on off-beat upstrokes in the verses, loud crunchy chords in the choruses. Bouncing bass. Bright, snappy drums. Turntable scratches used as punctuation. Handclaps and a tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, a scratch, the whistle and the organ. 0:09 Verse 1. 0:28 Pre-chorus. 0:46 Chorus 1. 1:05 Verse 2, a little quieter. 1:24 Pre-chorus. 1:42 Chorus 2. 2:01 Whistle solo with scratches. 2:19 Bridge, half time, spoken. 2:38 Final chorus with the last line repeated. 3:02 Outro, whistle, a scratch and one organ chord at 3:15.\n\nPRODUCTION & MIX: Late-90s California pop-rock: bright, compressed and colourful, vocals loud, every sound effect audible.\n\nSIGNATURE MOMENT: The record scratch into the whistle at the very start.\n\nMODERN POINT OF VIEW: The underdog is now an adult who took decades, and says so without bitterness. The hidden second verse does the same job as the original's, updated and a little more hopeful.\n\nEMOTIONAL ARC: Self-mockery, a shrug, then genuine encouragement.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1999 California pop-rock with ska upstrokes, raspy nasal male vocal, fast sung-spoken verses, shouted gang-vocal choruses, deadpan spoken bridge, 104 BPM, F-sharp major, bouncy and sunny, whistled hook, reedy fairground combo organ, clean off-beat guitar upstrokes, loud crunchy chorus guitars, bouncing bass, bright snappy drums, turntable record scratches, handclaps, tambourine, bright compressed colourful mix, goofy, self-mocking, encouraging, feel-good\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale lead vocals, dark mood, slow ballad, heavy metal, trap hi-hats, autotune, EDM drop, strings\n\nWHAT IT IS ABOUT\n\nSomeone who was written off early reports back, cheerfully, that slow turned out to be fine.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a pep talk for a child who is behind; a second-career anthem at fifty; a sports underdog song; or a joke. The second verse is about patience with a warming planet, for anyone who listens that far.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an opening that insults the singer, rapid internal rhymes, a sincere gang chorus, a hidden serious verse, and a whistle and scratch hook. Designed mishearing: 'late bloomer' is heard as 'light bloomer' and 'late boomer', and the second is funnier.",
+    "workbookAtAGlance": "Late Bloomer\n\nBackup titles\nGloriously Slow / The Worm's Still Here\n\nAt a glance\n104 BPM, F-sharp major\nVoice: Raspy male, sung-spoken, gang chorus\nLength: about 3 minutes 20",
+    "qa": {
+      "title": "Late Bloomer",
+      "id": "e90_12",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 213.6,
+          "measuredBpm": 103.4,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 0.6,
+          "lufs": -13.9,
+          "peakDbfs": -0.3,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.2,
+          "contentEndSec": 213.0,
+          "vocalCoverage": 0.722,
+          "vocalSpanSec": [
+            0.7,
+            211.8
+          ],
+          "vocalF0MedianHz": 508,
+          "vocalF0P25Hz": 247,
+          "lyricLineRecall": 0.861,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.8,
+          "measuredBpm": 104.4,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 0.4,
+          "lufs": -13.7,
+          "peakDbfs": -0.13,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.4,
+          "contentEndSec": 212.1,
+          "vocalCoverage": 0.619,
+          "vocalSpanSec": [
+            4.7,
+            195.6
+          ],
+          "vocalF0MedianHz": 263,
+          "vocalF0P25Hz": 199,
+          "lyricLineRecall": 0.972,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_13",
+    "title": "Count the Wolves",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 13,
+    "slug": "e90_13_count_the_wolves",
+    "inspiredBy": "Enter Sandman (Metallica, 1991)",
+    "leadVoice": "Male baritone, gruff and percussive, barking the ends of lines with a growl. Low and almost crooned in the bridge. A whispered adult voice and a clear, calm child's voice in the spoken section. Gang shouts on the first two words of each chorus.",
+    "model": "V6",
+    "style": "1991 mainstream heavy metal, gruff male baritone vocal, barked and growled, gang shouts on the chorus, 123 BPM, E minor, heavy mid-tempo stomp, clean eerie guitar intro that builds layer by layer into a thick palm-muted distorted riff, deep clanking bass locked to the kick, powerful drums with dry cracking snare and booming toms, fast wah-pedal guitar solo, whispered spoken section over clean guitar with a child's voice answering, thick dry wide mix, menacing, controlled, ominous",
+    "negativeTags": "synthesizer, keyboards, piano, drum machine, female lead vocals, pop production, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 270,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: clean eerie guitar figure, toms build, distorted riff arrives]\n\n[Verse 1: gruff, barked, heavy palm-muted riff]\nLock the door and check it twice\nLeave the phone to charge its light\nClose your eyes, it's getting late\nEvery worry learns to wait\n\n[Pre-Chorus: half-time, menacing]\nKeep the blanket to your chin\nDon't ask what the dark lets in\n\n[Chorus: huge, gang shout on the first words]\nLights out\nCount the wolves\nOne for the money, two for the years\nThree for the things you can't undo\nLights out\nThey're counting you\n\n[Verse 2: gruff, barked, riff heavier]\nSomething's ticking in the pipes\nSomething's due you didn't write\nThree a.m. is at the door\nIt's been here many times before\n\n[Pre-Chorus: half-time, menacing]\nKeep the blanket to your chin\nDon't ask what the dark lets in\n\n[Chorus: huge, gang shout on the first words]\nLights out\nCount the wolves\nOne for the money, two for the years\nThree for the things you can't undo\nLights out\nThey're counting you\n\n[Guitar Solo: wah pedal, fast, wailing]\n\n[Spoken: clean guitar only, tired man whispers, a child answers]\nOne: did I lock it?\n(Go to sleep, Dad)\nTwo: did I say it?\n(Go to sleep, Dad)\nThree: will they be alright?\n(We're alright. Go to sleep.)\n\n[Bridge: riff returns, building, sung low]\nHush now, grown-up, close your eyes\nMorning always tells the night it lies\n\n[Final Chorus: heaviest, double-time drums at the end]\nLights out\nCount the wolves\nOne for the money, two for the years\nThree for the things you can't undo\nLights out\nThey're counting you\n\n[Outro: riff strips back layer by layer to the clean guitar, fade]\nLights out\nLights out",
+    "taskId": "4555b178173d25818015ef5ace320f6f",
+    "sunoClipIds": [
+      "319b7f76-e36f-4bd4-bf7d-c646f73e4667",
+      "ad62f8f7-efcd-4362-9483-21e7d6b5bc91"
+    ],
+    "created": "Nov 15, 2026 9:20 PM ET",
+    "createTimeMs": 1794795657047,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "319b7f76-e36f-4bd4-bf7d-c646f73e4667",
+        "durationSec": 269.16,
+        "file": "nineties/e90_13_count_the_wolves_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "ad62f8f7-efcd-4362-9483-21e7d6b5bc91",
+        "durationSec": 269.6,
+        "file": "nineties/e90_13_count_the_wolves_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_13_count_the_wolves_req.json",
+      "nineties/e90_13_count_the_wolves_rec.json"
+    ],
+    "cover": "nineties/covers/e90_13_count_the_wolves.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 123 BPM, 4/4, E minor. A heavy, mid-tempo stomp with a swing in the riff. Menacing and controlled.\n\nVOICE: Male baritone, gruff and percussive, barking the ends of lines with a growl. Low and almost crooned in the bridge. A whispered adult voice and a clear, calm child's voice in the spoken section. Gang shouts on the first two words of each chorus.\n\nINSTRUMENTS: A clean electric guitar playing a slow, uneasy figure. Layers of tightly palm-muted, heavily distorted rhythm guitars. Deep, clanking bass locked to the kick. A powerful drum kit with a dry, cracking snare and booming toms. A lead guitar with a wah pedal for the solo. No keyboards.\n\nARRANGEMENT MAP: 0:00 Intro, clean guitar alone, toms and bass join, the distortion fades in and the full riff lands at 0:38. 0:55 Verse 1. 1:14 Pre-chorus in half time. 1:24 Chorus 1. 1:47 Verse 2. 2:06 Pre-chorus. 2:16 Chorus 2. 2:39 Guitar solo with wah. 3:02 Spoken section over the clean guitar. 3:22 Bridge, the riff returns under two sung lines. 3:34 Final chorus. 3:57 Outro, the layers peel away in reverse until the clean guitar is alone, fading by 4:20.\n\nPRODUCTION & MIX: Early-90s big-budget metal: thick, dry and very wide, guitars quadruple-tracked, the kick and snare up front, vocals doubled.\n\nSIGNATURE MOMENT: The spoken count at 3:02 and the child's voice answering.\n\nMODERN POINT OF VIEW: The roles are reversed. The fears are an adult's list and it is the child who says everything is fine. That makes the heaviest song in the pack one of the gentlest.\n\nEMOTIONAL ARC: Dread, menace, then reassurance from an unexpected direction.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1991 mainstream heavy metal, gruff male baritone vocal, barked and growled, gang shouts on the chorus, 123 BPM, E minor, heavy mid-tempo stomp, clean eerie guitar intro that builds layer by layer into a thick palm-muted distorted riff, deep clanking bass locked to the kick, powerful drums with dry cracking snare and booming toms, fast wah-pedal guitar solo, whispered spoken section over clean guitar with a child's voice answering, thick dry wide mix, menacing, controlled, ominous\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, keyboards, piano, drum machine, female lead vocals, pop production, autotune, EDM\n\nWHAT IT IS ABOUT\n\nThe monster under the bed grew up with us. Now it is the three o'clock list of worries, and the one lying awake is the parent.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: adult insomnia; a child's nightmare, exactly as before; debt; a soldier's night watch; or a menacing entrance theme. In the spoken section the child comforts the adult.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: comfort turned to threat, a clean riff that builds by layers, a two-syllable chorus shout, and a spoken call-and-response with a child. Designed mishearing: 'count the wolves' is heard as 'count the walls', which is what the sleepless do.",
+    "workbookAtAGlance": "Count the Wolves\n\nBackup titles\nThree A.M. Is at the Door / Go to Sleep, Dad\n\nAt a glance\n123 BPM, E minor\nVoice: Gruff male baritone, bark and growl\nLength: about 4 minutes 15",
+    "qa": {
+      "title": "Count the Wolves",
+      "id": "e90_13",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 269.2,
+          "measuredBpm": 126.0,
+          "bpmFactor": 1,
+          "targetBpm": 123,
+          "bpmErrPct": 2.5,
+          "lufs": -12.8,
+          "peakDbfs": -0.28,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.6,
+          "contentEndSec": 267.3,
+          "vocalCoverage": 0.459,
+          "vocalSpanSec": [
+            27.8,
+            250.0
+          ],
+          "vocalF0MedianHz": 529,
+          "vocalF0P25Hz": 281,
+          "lyricLineRecall": 0.812,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 269.6,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 123,
+          "bpmErrPct": 0.0,
+          "lufs": -13.2,
+          "peakDbfs": -1.4,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.4,
+          "contentEndSec": 268.0,
+          "vocalCoverage": 0.449,
+          "vocalSpanSec": [
+            30.0,
+            254.3
+          ],
+          "vocalF0MedianHz": 314,
+          "vocalF0P25Hz": 288,
+          "lyricLineRecall": 0.812,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_14",
+    "title": "Area Code Love",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 14,
+    "slug": "e90_14_area_code_love",
+    "inspiredBy": "California Love (2Pac feat. Dr. Dre, 1995)",
+    "leadVoice": "Two male rappers with different tones: the first deep, booming and relaxed, the second higher, quicker and more excitable. The hook is sung through a talk-box, a guitar-effect tube that makes a synthesiser 'speak', so it sounds robotic and soulful at once. A crowd shouts the bracketed answers.",
+    "model": "V6",
+    "style": "1995 West Coast G-funk party hip-hop, two male rappers, one deep booming and relaxed, one higher and quicker, hook sung through a talk-box so the synthesizer sounds like a robotic soulful voice, crowd shouting answers, 92 BPM, G minor, rolling bouncing party groove, pounding repeating acoustic piano riff, punchy horn section stabs, fat sliding synth bass, high whining sine synth lead, heavy drums with hard claps, wah guitar scratches, huge clean low end, bright wide mix, celebratory, sunlit, homecoming",
+    "negativeTags": "female lead vocals, distorted rock guitar, slow ballad, dark mood, trap hi-hats, autotune, EDM drop",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: pounding piano riff, horn stabs, talk-box voice]\nArea code love\n(Where you from? Throw it up)\n\n[Verse 1: first rapper, booming and relaxed]\nTouchdown, wheels on the ground, back in the place\nWhere the corner store man still remembers my face\nSame cracks in the court, same bend in the rim\nSame old-timer on the stoop, and I wave at him\nBeen around the world on a ticket and a dream\nAte in rooms where the forks come in teams\nBut nothing hits like a plate from the truck\nPaper napkin, hot sauce, and a dollar for luck\nRoll the windows down, let the summer in\nEvery block's got a story and a next of kin\n\n[Chorus: talk-box sings, crowd shouts the answers]\nArea code love\n(Where you from? Throw it up)\nArea code love\n(Three little numbers, say them loud)\nWe keep it rocking\nFrom the block to the back yard\nArea code love\n\n[Verse 2: second rapper, faster and brighter]\nNow my auntie's on the porch with a pitcher and a fan\nCousin on the grill with a spatula in hand\nKids on the bikes doing circles in the street\nDJ in the driveway with the trunk for a seat\nI left with a bag and a busted phone\nCame back with a kid and a little bit of chrome\nThey put a coffee shop where the barber used to be\nBut the bass from that Chevy still belongs to me\nSo lift your cup if you ever had to roam\nAnd you still know the way that the streetlights take you home\n\n[Chorus: talk-box sings, crowd shouts the answers]\nArea code love\n(Where you from? Throw it up)\nArea code love\n(Three little numbers, say them loud)\nWe keep it rocking\nFrom the block to the back yard\nArea code love\n\n[Bridge: roll call, both rappers trading, claps on every beat]\nFrom the two-oh-six to the three-oh-five\nThree-one-two, keep the party alive\nSeven-one-three and the four-oh-four\nTwo-one-three kicking in the door\nNine-oh-seven and the eight-oh-eight\nIf I missed your code, go ahead and celebrate\n\n[Final Chorus: talk-box and full crowd, horns on top]\nArea code love\n(Where you from? Throw it up)\nArea code love\n(Three little numbers, say them loud)\nWe keep it rocking\nFrom the block to the back yard\nArea code love\n\n[Outro: talk-box alone, piano riff fades]\nHome, home, home\nArea code love",
+    "taskId": "20ed7d3d1eff7e5f70e80bcb47caec5e",
+    "sunoClipIds": [
+      "31fd719d-8725-4090-b212-7110f91910cc",
+      "dc3e2bb6-2547-4723-b8fb-1498c131b33c"
+    ],
+    "created": "Nov 15, 2026 9:21 PM ET",
+    "createTimeMs": 1794795667817,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "31fd719d-8725-4090-b212-7110f91910cc",
+        "durationSec": 254.4,
+        "file": "nineties/e90_14_area_code_love_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "dc3e2bb6-2547-4723-b8fb-1498c131b33c",
+        "durationSec": 253.96,
+        "file": "nineties/e90_14_area_code_love_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_14_area_code_love_req.json",
+      "nineties/e90_14_area_code_love_rec.json"
+    ],
+    "cover": "nineties/covers/e90_14_area_code_love.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 92 BPM, 4/4, G minor. A rolling, bouncing West Coast party groove. Loud, generous, sunlit.\n\nVOICE: Two male rappers with different tones: the first deep, booming and relaxed, the second higher, quicker and more excitable. The hook is sung through a talk-box, a guitar-effect tube that makes a synthesiser 'speak', so it sounds robotic and soulful at once. A crowd shouts the bracketed answers.\n\nINSTRUMENTS: A pounding, two-handed acoustic piano figure that repeats all the way through. Punchy horn section stabs. Fat, sliding synth bass. A high, whining sine-wave synth lead. Heavy drums with a hard clap on the backbeat. Wah guitar scratches. Party crowd noise.\n\nARRANGEMENT MAP: 0:00 Intro, the piano riff, horn stabs and the talk-box hook once. 0:16 Verse 1, ten lines. 0:58 Chorus 1. 1:19 Verse 2. 2:01 Chorus 2. 2:22 Bridge, the area-code roll-call over claps and piano, both rappers trading lines. 2:47 Final chorus with horns and the whole crowd. 3:18 Outro, the talk-box sings alone over the piano riff, fading by 3:50.\n\nPRODUCTION & MIX: Mid-90s G-funk: huge clean low end, bright piano, vocals dry and upfront, everything wide.\n\nSIGNATURE MOMENT: The first talk-box line over the piano at 0:05.\n\nMODERN POINT OF VIEW: The narrator has been gone for twenty years and notices what changed (a coffee shop where the barber was) and what did not. The hook never names a place, so the anthem belongs to any town.\n\nEMOTIONAL ARC: Arrival, celebration, a moment of noticing, then the roll-call.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1995 West Coast G-funk party hip-hop, two male rappers, one deep booming and relaxed, one higher and quicker, hook sung through a talk-box so the synthesizer sounds like a robotic soulful voice, crowd shouting answers, 92 BPM, G minor, rolling bouncing party groove, pounding repeating acoustic piano riff, punchy horn section stabs, fat sliding synth bass, high whining sine synth lead, heavy drums with hard claps, wah guitar scratches, huge clean low end, bright wide mix, celebratory, sunlit, homecoming\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nfemale lead vocals, distorted rock guitar, slow ballad, dark mood, trap hi-hats, autotune, EDM drop\n\nWHAT IT IS ABOUT\n\nSomebody lands back in the place that made them, after a long time away, and the whole neighbourhood comes out. Then the roll-call starts.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: any home town at all, since the hook never names one; a reunion; a road-trip song; or a team anthem. Listeners wait for their own three digits.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: the place as the star, a talk-box hook, a pounding piano figure with horn stabs, and a roll-call that makes people wait for theirs. Designed mishearing: through the talk-box 'area code love' is heard as 'are you cold, love?' and 'every code, love'.",
+    "workbookAtAGlance": "Area Code Love\n\nBackup titles\nWheels on the Ground / Throw Your Numbers Up\n\nAt a glance\n92 BPM, G minor\nVoice: Two male rappers, talk-box sung hook\nLength: about 4 minutes",
+    "qa": {
+      "title": "Area Code Love",
+      "id": "e90_14",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.34 dBFS (3 clipped sample, inaudible)"
+          ],
+          "durationSec": 254.4,
+          "measuredBpm": 92.3,
+          "bpmFactor": 1,
+          "targetBpm": 92,
+          "bpmErrPct": 0.3,
+          "lufs": -13.9,
+          "peakDbfs": 0.34,
+          "clipSamples": 3,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 252.7,
+          "vocalCoverage": 0.653,
+          "vocalSpanSec": [
+            2.8,
+            212.5
+          ],
+          "vocalF0MedianHz": 261,
+          "vocalF0P25Hz": 147,
+          "lyricLineRecall": 0.686,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.0,
+          "measuredBpm": 91.5,
+          "bpmFactor": 1,
+          "targetBpm": 92,
+          "bpmErrPct": 0.6,
+          "lufs": -14.0,
+          "peakDbfs": -0.53,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.9,
+          "contentEndSec": 252.3,
+          "vocalCoverage": 0.622,
+          "vocalSpanSec": [
+            5.2,
+            242.5
+          ],
+          "vocalF0MedianHz": 195,
+          "vocalF0P25Hz": 131,
+          "lyricLineRecall": 0.765,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_15",
+    "title": "Night Bus Choir",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 15,
+    "slug": "e90_15_night_bus_choir",
+    "inspiredBy": "Under the Bridge (Red Hot Chili Peppers, 1992)",
+    "leadVoice": "Male tenor with a plain, unpolished, conversational tone and a slight catch. No showing off. Low and private in the bridge. In the outro he sings short lines between the phrases of a mixed choir with a gospel feel.",
+    "model": "V6",
+    "style": "1992 alternative rock ballad, plain conversational male tenor vocal, mixed gospel-feel choir in the outro, 84 BPM, E major, gentle and unhurried, solo clean electric guitar chord-melody intro with slides and hammer-ons, warm melodic counterpoint bass, drums growing from a hi-hat to a relaxed full groove, melodic lightly overdriven guitar solo, quiet rim-click bridge, choir repeating one line while the lead answers, soft organ, natural warm big-room mix, lonely, tender, redemptive",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy metal, trap hi-hats, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 270,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: solo clean electric guitar, delicate chord melody]\n\n[Verse 1: plain, close, guitar only]\nThe number nine pulls out at half past one\nI know every stop, I know every sun-\nburned seat and every flickering sign\nThis town and I keep the same hours, most nights\n\n[Verse 2: bass and soft hi-hat enter]\nShe's seen the things I've done and where\nShe's seen me worse and didn't stare\nThe river keeps what the river's told\nThe streetlights hum and the night is old\n\n[Chorus: full band, warm, voice lifts]\nRide on, ride on\nPast the stop where I came undone\nKeep the doors closed, keep it slow\nThere's a corner I don't need to know\nRide on\n\n[Verse 3: full band, steady]\nThere's a woman with her shoes inside her bag\nA kid asleep against a paper flag\nNobody talks and everybody stays\nWe're all going home in different ways\n\n[Chorus: full band, warm, voice lifts]\nRide on, ride on\nPast the stop where I came undone\nKeep the doors closed, keep it slow\nThere's a corner I don't need to know\nRide on\n\n[Guitar Solo: melodic, clean with a little grit]\n\n[Bridge: drums drop to rim clicks, voice lower]\nThat's the place, the place I left it\nUnder the sign, the winter I lost\nI don't go looking, I don't forget it\nI just don't pay what it cost\n\n[Outro: choir enters, lead ad-libs over it, building]\n(Carry me, carry me home)\nNot alone, not alone\n(Carry me, carry me home)\nI'm not going back there\n(Carry me, carry me home)\nNot alone, not alone\n(Carry me, carry me home)\nRide on",
+    "taskId": "8491d96d203a0968c6f59a112fcd955f",
+    "sunoClipIds": [
+      "ed87ac3a-3e27-4eb0-b748-cdc0070af6dc",
+      "f155b972-9519-4704-bfbd-58b89ea89def"
+    ],
+    "created": "Nov 15, 2026 9:21 PM ET",
+    "createTimeMs": 1794795664763,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ed87ac3a-3e27-4eb0-b748-cdc0070af6dc",
+        "durationSec": 269.8,
+        "file": "nineties/e90_15_night_bus_choir_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "f155b972-9519-4704-bfbd-58b89ea89def",
+        "durationSec": 269.6,
+        "file": "nineties/e90_15_night_bus_choir_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_15_night_bus_choir_req.json",
+      "nineties/e90_15_night_bus_choir_rec.json"
+    ],
+    "cover": "nineties/covers/e90_15_night_bus_choir.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 84 BPM, 4/4, E major. Gentle, unhurried, a late-night walking pace that widens into a hymn.\n\nVOICE: Male tenor with a plain, unpolished, conversational tone and a slight catch. No showing off. Low and private in the bridge. In the outro he sings short lines between the phrases of a mixed choir with a gospel feel.\n\nINSTRUMENTS: A clean electric guitar playing a chord-melody in the style of late-60s soul-rock, with little slides and hammer-ons. Warm, melodic bass that plays counter-lines. Drums that start as a hi-hat and grow to a full, relaxed groove. A second guitar with light overdrive for the solo. A mixed choir. Soft organ under the outro.\n\nARRANGEMENT MAP: 0:00 Intro, solo guitar. 0:20 Verse 1, voice and guitar. 0:46 Verse 2, bass and hi-hat. 1:12 Chorus 1, full band. 1:36 Verse 3. 2:02 Chorus 2. 2:26 Guitar solo. 2:48 Bridge, drums down to rim clicks, the hard memory. 3:14 Outro, the choir enters and repeats one line while the lead answers and the band builds. The band drops away and the choir ends alone at 4:15.\n\nPRODUCTION & MIX: Early-90s rock recorded in a big room: natural, warm and open, guitar very present, choir wide and reverberant.\n\nSIGNATURE MOMENT: The choir's entrance at 3:14.\n\nMODERN POINT OF VIEW: The narrator is years past the worst of it. He is not confessing, he is riding by. Verse 3 looks at the other passengers, which the original, written from inside the loneliness, could not.\n\nEMOTIONAL ARC: Solitude, companionship, a hard memory passed, then being carried.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1992 alternative rock ballad, plain conversational male tenor vocal, mixed gospel-feel choir in the outro, 84 BPM, E major, gentle and unhurried, solo clean electric guitar chord-melody intro with slides and hammer-ons, warm melodic counterpoint bass, drums growing from a hi-hat to a relaxed full groove, melodic lightly overdriven guitar solo, quiet rim-click bridge, choir repeating one line while the lead answers, soft organ, natural warm big-room mix, lonely, tender, redemptive\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, drum machine, female lead vocals, rap, heavy metal, trap hi-hats, autotune, EDM\n\nWHAT IT IS ABOUT\n\nA man rides the last bus through a city that knows him well, past a stop he does not get off at any more.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: recovery, with the stop as the place it went wrong; grief; a night-shift worker's commute; someone new in a city with nobody to call. The choir at the end can be the other passengers or something larger.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a place as the companion, a gentle surface over a hard memory, a solo guitar opening and a choir ending. Designed mishearing: 'ride on' is heard as 'right on' and 'write home', and the outro's 'not alone' as 'not at home'.",
+    "workbookAtAGlance": "Night Bus Choir\n\nBackup titles\nThe Number Nine / Ride On\n\nAt a glance\n84 BPM, E major\nVoice: Plain male tenor, choir outro\nLength: about 4 minutes 15",
+    "qa": {
+      "title": "Night Bus Choir",
+      "id": "e90_15",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.02 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 269.8,
+          "measuredBpm": 84.0,
+          "bpmFactor": 1,
+          "targetBpm": 84,
+          "bpmErrPct": 0.0,
+          "lufs": -13.1,
+          "peakDbfs": 0.02,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 268.3,
+          "vocalCoverage": 0.587,
+          "vocalSpanSec": [
+            12.1,
+            265.4
+          ],
+          "vocalF0MedianHz": 247,
+          "vocalF0P25Hz": 189,
+          "lyricLineRecall": 0.839,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.06 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 269.6,
+          "measuredBpm": 84.0,
+          "bpmFactor": 1,
+          "targetBpm": 84,
+          "bpmErrPct": 0.0,
+          "lufs": -13.5,
+          "peakDbfs": 0.06,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 2.4,
+          "contentEndSec": 268.0,
+          "vocalCoverage": 0.573,
+          "vocalSpanSec": [
+            15.0,
+            262.0
+          ],
+          "vocalF0MedianHz": 220,
+          "vocalF0P25Hz": 186,
+          "lyricLineRecall": 0.903,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_16",
+    "title": "Rather Be Tired",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 16,
+    "slug": "e90_16_rather_be_tired",
+    "inspiredBy": "I Don't Want to Miss a Thing (Aerosmith, 1998)",
+    "leadVoice": "Male rock tenor with a deep rasp. Verses hushed and close, almost a murmur. Choruses in full, gritty chest voice. After the key change he screams sustained high notes over the top of the band, then drops to a whisper for the last two lines.",
+    "model": "V6",
+    "style": "1998 orchestral rock power ballad, raspy male rock tenor vocal, hushed murmured verses, gritty full-voice choruses and screamed sustained high notes at the end, 60 BPM with a slow triplet sway, D major with a key change up for the final chorus, full orchestra with strings, brass and timpani, solo piano, acoustic guitar, big sustained electric guitar chords, short melodic guitar solo, slow heavy rock drums, blockbuster film ballad mix with long reverbs, tender, devoted, epic",
+    "negativeTags": "synth-pop, drum machine, female lead vocals, rap, fast tempo, trap hi-hats, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 270,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: soft orchestral strings, solo piano, a held oboe note]\n\n[Verse 1: raspy, hushed, piano and strings]\nFour a.m., the house has gone to ground\nThe clock is loud and you don't make a sound\nThere's a morning coming I'll be useless for\nAnd nothing in it's worth a minute more\n\n[Pre-Chorus: drums enter softly, strings rise]\nLet the dark go on as long as it likes\nI've got nowhere better on any of these nights\n\n[Chorus: full band and orchestra, big drums]\nI'd rather be tired\nThan sleep through a second of this\nRather be wrecked and wired\nThan wake to a moment I missed\nLet the whole world dream without me\nI'll be right here, eyes wide\nI'd rather be tired\n\n[Verse 2: quieter, acoustic guitar joins]\nYour hand keeps closing on the nothing in the air\nLike you're catching something only you see there\nI've been counting every freckle like a sailor counts the stars\nI keep losing count and starting from the start\n\n[Pre-Chorus: drums build, strings rise]\nLet the dark go on as long as it likes\nI've got nowhere better on any of these nights\n\n[Chorus: full band and orchestra, big drums]\nI'd rather be tired\nThan sleep through a second of this\nRather be wrecked and wired\nThan wake to a moment I missed\nLet the whole world dream without me\nI'll be right here, eyes wide\nI'd rather be tired\n\n[Bridge: half-time, guitar and strings swell, voice climbs]\nAnd they tell me it goes fast\nThey all say that\nI'm not letting one get past\nNot one, not one\n\n[Guitar Solo: short, singing, over full orchestra]\n\n[Final Chorus: key change up, screamed high notes, everything]\nI'd rather be tired\nThan sleep through a second of this\nRather be wrecked and wired\nThan wake to a moment I missed\nLet the whole world dream without me\nI'll be right here, eyes wide\nI'd rather be tired\nOh, I'd rather be tired\n\n[Outro: orchestra fades to piano, whispered]\nGo on, sleep\nI've got this",
+    "taskId": "327be71b96b2671d62b4d663236b0946",
+    "sunoClipIds": [
+      "0a05c23d-12bb-4b61-90f7-894baf07668c",
+      "9c7dba2e-dc60-48eb-a6ba-5e075ed2794a"
+    ],
+    "created": "Nov 15, 2026 9:21 PM ET",
+    "createTimeMs": 1794795675890,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0a05c23d-12bb-4b61-90f7-894baf07668c",
+        "durationSec": 269.84,
+        "file": "nineties/e90_16_rather_be_tired_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "9c7dba2e-dc60-48eb-a6ba-5e075ed2794a",
+        "durationSec": 269.68,
+        "file": "nineties/e90_16_rather_be_tired_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_16_rather_be_tired_req.json",
+      "nineties/e90_16_rather_be_tired_rec.json"
+    ],
+    "cover": "nineties/covers/e90_16_rather_be_tired.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 60 BPM, 4/4 with a slow triplet sway, D major rising to E major for the last chorus. A lullaby that becomes a stadium ballad.\n\nVOICE: Male rock tenor with a deep rasp. Verses hushed and close, almost a murmur. Choruses in full, gritty chest voice. After the key change he screams sustained high notes over the top of the band, then drops to a whisper for the last two lines.\n\nINSTRUMENTS: A full orchestra: strings first, then brass and timpani. Solo piano. An oboe on a single held note in the intro. Acoustic guitar from verse 2. Electric guitars held back until the choruses, then big sustained chords and a short, melodic solo. Slow, heavy rock drums. Bass guitar doubling the cellos.\n\nARRANGEMENT MAP: 0:00 Intro, strings, piano and oboe. 0:20 Verse 1. 0:52 Pre-chorus, drums enter softly. 1:08 Chorus 1, full band and orchestra. 1:40 Verse 2, pulled back with acoustic guitar. 2:12 Pre-chorus. 2:28 Chorus 2. 3:00 Bridge in half time. 3:16 Short guitar solo. 3:28 Key change and final chorus, with screams and the last line repeated. 4:04 Outro, the orchestra falls away to piano and two whispered lines, ending at 4:20.\n\nPRODUCTION & MIX: Late-90s blockbuster ballad: orchestra and band both at full size, long reverbs, the lead voice dry enough to hear the grain.\n\nSIGNATURE MOMENT: The first scream after the key change at about 3:30.\n\nMODERN POINT OF VIEW: The film-sized romance is moved into an ordinary house at four in the morning, with a meeting the next day. 'They tell me it goes fast' is something only a parent, or someone running out of time, is told.\n\nEMOTIONAL ARC: Wonder, stubbornness, a flash of fear, then calm.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1998 orchestral rock power ballad, raspy male rock tenor vocal, hushed murmured verses, gritty full-voice choruses and screamed sustained high notes at the end, 60 BPM with a slow triplet sway, D major with a key change up for the final chorus, full orchestra with strings, brass and timpani, solo piano, acoustic guitar, big sustained electric guitar chords, short melodic guitar solo, slow heavy rock drums, blockbuster film ballad mix with long reverbs, tender, devoted, epic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynth-pop, drum machine, female lead vocals, rap, fast tempo, trap hi-hats, autotune, EDM\n\nWHAT IT IS ABOUT\n\nAt four in the morning someone chooses to stay awake watching another person sleep, knowing exactly what it will cost tomorrow.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a new parent with a newborn; a partner on the last ordinary night before a diagnosis or a deployment; a hospital vigil; or new love. No line settles which.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: sleeplessness as proof of love, small physical details, a rock voice over an orchestra, and a late key change with screams. Designed mishearing: 'I'd rather be tired' is heard as 'I'd rather be tied', which makes it a commitment song.",
+    "workbookAtAGlance": "Rather Be Tired\n\nBackup titles\nEyes Wide / Starting From the Start\n\nAt a glance\n60 BPM, D major, key change to E\nVoice: Raspy male rock tenor, screams at the end\nLength: about 4 minutes 15",
+    "qa": {
+      "title": "Rather Be Tired",
+      "id": "e90_16",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 269.9,
+          "measuredBpm": 64.2,
+          "bpmFactor": 1,
+          "targetBpm": 60,
+          "bpmErrPct": 7.0,
+          "lufs": -13.5,
+          "peakDbfs": -1.82,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 268.7,
+          "vocalCoverage": 0.709,
+          "vocalSpanSec": [
+            16.5,
+            262.5
+          ],
+          "vocalF0MedianHz": 468,
+          "vocalF0P25Hz": 312,
+          "lyricLineRecall": 0.9,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 269.7,
+          "measuredBpm": 61.9,
+          "bpmFactor": 1,
+          "targetBpm": 60,
+          "bpmErrPct": 3.2,
+          "lufs": -13.8,
+          "peakDbfs": -1.14,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 269.0,
+          "vocalCoverage": 0.664,
+          "vocalSpanSec": [
+            18.6,
+            258.8
+          ],
+          "vocalF0MedianHz": 263,
+          "vocalF0P25Hz": 199,
+          "lyricLineRecall": 0.85,
+          "lyricUnclearSections": [
+            "Outro"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_17",
+    "title": "Every Ocean After",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 17,
+    "slug": "e90_17_every_ocean_after",
+    "inspiredBy": "My Heart Will Go On (C\u00e9line Dion, 1997)",
+    "leadVoice": "Female soprano with a pure, clear tone and perfect diction. The first two verses are whispered, with breath audible. Each chorus opens a little more. After the key change she belts at full power with a fast, narrow vibrato and long held notes, then whispers the last line.",
+    "model": "V6",
+    "style": "1997 film theme pop ballad, clear pure female soprano vocal, whispered verses building to a full-power belt with long held notes, 96 BPM, E major with a dramatic key change up for the final chorus, solo low Irish whistle intro and interludes, soft synth pads and chimes, fingerpicked acoustic guitar, full string orchestra, gentle bass, slow big backbeat drums arriving late, piano bridge, swelling electric guitar under the last chorus, glossy wide deep mix, wistful, devoted, sweeping",
+    "negativeTags": "male lead vocals, rap, fast tempo, distorted riffs, drum machine, trap hi-hats, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 270,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: solo low whistle, soft synth pad, distant chimes]\n\n[Verse 1: whispered, close, pad and acoustic guitar]\nEvery morning there's a second\nJust before I know you're gone\nWhen the kettle's on for two cups\nAnd the radio plays on\n\n[Verse 2: a little fuller, bass and light percussion]\nI have been to other harbours\nI have learned another shore\nBut the water has a memory\nAnd it knows what it is for\n\n[Chorus: strings enter, voice opens]\nYou are every ocean after\nEvery coast I'll ever see\nThere's a tide that keeps on turning\nAnd it turns you back to me\nEvery ocean after\n\n[Whistle Interlude: low whistle plays the chorus melody]\n\n[Verse 3: steady, drums enter softly]\nLove was once, and once was plenty\nIt was all I'd ever need\nI have kept you like a lighthouse\nKeeps a light for ships at sea\n\n[Chorus: fuller, strings and drums]\nYou are every ocean after\nEvery coast I'll ever see\nThere's a tide that keeps on turning\nAnd it turns you back to me\nEvery ocean after\n\n[Bridge: band drops, voice and piano, rising]\nYou're here\nIn the salt and in the weather\nYou're here\nIn the names we chose together\n\n[Final Chorus: key change up, full orchestra, belted]\nYou are every ocean after\nEvery coast I'll ever see\nThere's a tide that keeps on turning\nAnd it turns you back to me\nEvery ocean after\nEvery ocean after\n\n[Outro: solo low whistle, last line whispered]\nAnd it turns you back to me",
+    "taskId": "09ab7ad9f4f0ba53637debde8c336e59",
+    "sunoClipIds": [
+      "28868d82-2432-46b0-bb8f-1b1d1ebb2d21",
+      "3a14cc07-1440-4bad-a2d2-100c8f4bb760"
+    ],
+    "created": "Nov 15, 2026 9:21 PM ET",
+    "createTimeMs": 1794795673084,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "28868d82-2432-46b0-bb8f-1b1d1ebb2d21",
+        "durationSec": 269.92,
+        "file": "nineties/e90_17_every_ocean_after_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "3a14cc07-1440-4bad-a2d2-100c8f4bb760",
+        "durationSec": 269.36,
+        "file": "nineties/e90_17_every_ocean_after_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_17_every_ocean_after_req.json",
+      "nineties/e90_17_every_ocean_after_rec.json"
+    ],
+    "cover": "nineties/covers/e90_17_every_ocean_after.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4, E major, rising a whole step and a half to G-flat for the final chorus. Calm and floating, then vast.\n\nVOICE: Female soprano with a pure, clear tone and perfect diction. The first two verses are whispered, with breath audible. Each chorus opens a little more. After the key change she belts at full power with a fast, narrow vibrato and long held notes, then whispers the last line.\n\nINSTRUMENTS: A low wooden whistle (Irish-style) that plays the opening alone and returns between sections. Soft synth pads and chimes. Fingerpicked acoustic guitar. A full string orchestra. Gentle bass and light hand percussion at first, then drums with a big, slow backbeat. Piano in the bridge. A distorted electric guitar swelling under the final chorus.\n\nARRANGEMENT MAP: 0:00 Intro, whistle alone over a pad. 0:20 Verse 1, whispered. 0:40 Verse 2. 1:00 Chorus 1, strings. 1:25 Whistle interlude. 1:40 Verse 3, soft drums. 2:00 Chorus 2. 2:25 Bridge, voice and piano. 2:45 A drum fill and the key change into the final chorus at full size. 3:35 Outro, the whistle alone and one whispered line, ending at 4:10.\n\nPRODUCTION & MIX: Late-90s film ballad: glossy, wide and deep, lots of reverb on the whistle, the voice very present and clean.\n\nSIGNATURE MOMENT: The key change at 2:45, with the drum fill that announces it.\n\nMODERN POINT OF VIEW: The singer is not at the moment of loss. She is decades past it, with a kettle, a radio and grandchildren's names, which is how people who loved the original in 1998 hear it now.\n\nEMOTIONAL ARC: Quiet habit, acceptance, presence, then a wave.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1997 film theme pop ballad, clear pure female soprano vocal, whispered verses building to a full-power belt with long held notes, 96 BPM, E major with a dramatic key change up for the final chorus, solo low Irish whistle intro and interludes, soft synth pads and chimes, fingerpicked acoustic guitar, full string orchestra, gentle bass, slow big backbeat drums arriving late, piano bridge, swelling electric guitar under the last chorus, glossy wide deep mix, wistful, devoted, sweeping\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, rap, fast tempo, distorted riffs, drum machine, trap hi-hats, autotune, EDM\n\nWHAT IT IS ABOUT\n\nSomeone has lived a long life since a great love ended, and finds that every place they have been since still leads back to it.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a widow or widower; a long-distance love; an emigrant thinking of home; a parent after a child has grown and gone. Water is in every chorus, and no ship is ever mentioned.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a solo whistle opening, a whispered first verse, plain words about love outlasting loss, and a late key change. Designed mishearing: 'every ocean after' is heard as 'every notion after' and 'ever ocean-daughter', both of which sound like old folk songs.",
+    "workbookAtAGlance": "Every Ocean After\n\nBackup titles\nThe Kettle's On for Two / A Light for Ships\n\nAt a glance\n96 BPM, E major, key change to G-flat\nVoice: Clear female soprano, whisper to belt\nLength: about 4 minutes 15",
+    "qa": {
+      "title": "Every Ocean After",
+      "id": "e90_17",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 269.9,
+          "measuredBpm": 97.5,
+          "bpmFactor": 1,
+          "targetBpm": 96,
+          "bpmErrPct": 1.6,
+          "lufs": -13.6,
+          "peakDbfs": -0.78,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 268.2,
+          "vocalCoverage": 0.574,
+          "vocalSpanSec": [
+            22.1,
+            246.0
+          ],
+          "vocalF0MedianHz": 369,
+          "vocalF0P25Hz": 329,
+          "lyricLineRecall": 0.774,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 269.4,
+          "measuredBpm": 97.5,
+          "bpmFactor": 1,
+          "targetBpm": 96,
+          "bpmErrPct": 1.6,
+          "lufs": -13.8,
+          "peakDbfs": -0.04,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.2,
+          "contentEndSec": 268.2,
+          "vocalCoverage": 0.575,
+          "vocalSpanSec": [
+            18.6,
+            245.6
+          ],
+          "vocalF0MedianHz": 331,
+          "vocalF0P25Hz": 298,
+          "lyricLineRecall": 0.903,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_18",
+    "title": "Beside Myself",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 18,
+    "slug": "e90_18_beside_myself",
+    "inspiredBy": "Losing My Religion (R.E.M., 1991)",
+    "leadVoice": "Male, reedy and slightly nasal, between baritone and tenor, with clear consonants and a worried edge. Urgent but never shouted. A second male voice sings a high harmony on the refrains.",
+    "model": "V6",
+    "style": "1991 American college rock, jangle folk-rock, reedy slightly nasal male vocal, urgent and worried, high male harmony on the refrains, 125 BPM, A minor, brisk and circling, lead mandolin playing a quick circling riff throughout, briskly strummed acoustic guitar, busy melodic bass, dry simple drums with handclaps on the snare, cellos and violins entering at the bridge, no chorus only a returning refrain, dry natural uncluttered mix, restless, anxious, introspective",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, distorted guitar, guitar solo, rap, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: circling mandolin riff, acoustic guitar strum, bass]\n\n[Verse 1: urgent, close, drums enter]\nI had a speech, I had it clean\nI had it folded in my sleeve\nI watched me walk across the floor\nI watched me turn around and leave\n\n[Refrain: handclaps on the backbeat, harmony joins]\nI'm beside myself\nI'm standing right there\nWatching what I do\nLike it's somebody else's dare\nI meant to whisper\nAnd I heard me shout\nI'm beside myself\nIn the hall\n\n[Verse 2: mandolin answers each line]\nEvery hint I ever dropped\nCame back addressed to me\nI count the times you looked this way\nOn fingers that I don't have free\n\n[Refrain: handclaps on the backbeat, harmony joins]\nI'm beside myself\nI'm standing right there\nWatching what I do\nLike it's somebody else's dare\nI meant to whisper\nAnd I heard me shout\nI'm beside myself\nIn the hall\n\n[Bridge: strings enter, chords darken, voice lower]\nAnd none of it was out loud\nNone of it was out loud\nThe whole conversation\nWas only in the crowd\nInside my head\n\n[Instrumental: mandolin riff with string section, building]\n\n[Verse 3: full band, strings sustained]\nSo here's the thing I didn't send\nHere's the line I threw away\nI'll stand a little closer next time\nI'll have a little less to say\n\n[Final Refrain: fullest, two voices in harmony]\nI'm beside myself\nI'm standing right there\nWatching what I do\nLike it's somebody else's dare\nI meant to whisper\nAnd I heard me shout\nI'm beside myself\nI'm beside myself\n\n[Outro: mandolin riff alone, slowing, stops mid-phrase]",
+    "taskId": "ae68f0246f2d92f4d07d77e04fb59c35",
+    "sunoClipIds": [
+      "5c2df2ea-1865-4bb8-9580-1b9d87548166",
+      "758658f3-bc46-47d9-82eb-0e665b861598"
+    ],
+    "created": "Nov 15, 2026 9:21 PM ET",
+    "createTimeMs": 1794795677840,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "5c2df2ea-1865-4bb8-9580-1b9d87548166",
+        "durationSec": 254.04,
+        "file": "nineties/e90_18_beside_myself_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "758658f3-bc46-47d9-82eb-0e665b861598",
+        "durationSec": 254.36,
+        "file": "nineties/e90_18_beside_myself_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_18_beside_myself_req.json",
+      "nineties/e90_18_beside_myself_rec.json"
+    ],
+    "cover": "nineties/covers/e90_18_beside_myself.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 125 BPM, 4/4, A minor. Brisk and circling, restless more than sad. It moves fast and goes nowhere, on purpose.\n\nVOICE: Male, reedy and slightly nasal, between baritone and tenor, with clear consonants and a worried edge. Urgent but never shouted. A second male voice sings a high harmony on the refrains.\n\nINSTRUMENTS: A mandolin playing a quick, circling riff that leads the whole song. Briskly strummed acoustic guitar. A melodic bass line that moves a lot. Dry, simple drums with handclaps doubling the snare. A small string section (cellos and violins) entering at the bridge. No electric guitar solo.\n\nARRANGEMENT MAP: 0:00 Intro, mandolin riff with guitar and bass. 0:15 Verse 1, drums enter. 0:46 Refrain 1. 1:17 Verse 2. 1:48 Refrain 2. 2:19 Bridge, strings arrive and the harmony darkens. 2:42 Instrumental, mandolin and strings. 2:58 Verse 3. 3:29 Final refrain, with the title line sung twice at the end. 3:58 Outro, the mandolin plays alone, slows, and stops in the middle of the phrase at 4:08.\n\nPRODUCTION & MIX: Early-90s American college rock: dry, natural and uncluttered, acoustic instruments close and bright, vocal plain and central.\n\nSIGNATURE MOMENT: The mandolin riff, heard alone in the first four seconds and again at the very end, where it does not finish.\n\nMODERN POINT OF VIEW: Verse 3 is something the original's narrator could not manage: a small, practical plan for next time. The idiom is updated to one that still sounds odd to younger ears.\n\nEMOTIONAL ARC: Embarrassment, obsessive replay, clarity, and a modest resolution.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1991 American college rock, jangle folk-rock, reedy slightly nasal male vocal, urgent and worried, high male harmony on the refrains, 125 BPM, A minor, brisk and circling, lead mandolin playing a quick circling riff throughout, briskly strummed acoustic guitar, busy melodic bass, dry simple drums with handclaps on the snare, cellos and violins entering at the bridge, no chorus only a returning refrain, dry natural uncluttered mix, restless, anxious, introspective\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, drum machine, female lead vocals, distorted guitar, guitar solo, rap, autotune, EDM\n\nWHAT IT IS ABOUT\n\nSomeone rehearsed what to say to a person they cannot stop thinking about, then watched themselves fail to say it, as if from a few feet away.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a crush; social anxiety at a party; grief, where you watch yourself go through the motions; or, taken literally, a man who meets his own double. The idiom means overwrought, and the lyric keeps slipping into the literal picture.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an everyday idiom that is heard as something stranger, fragments of second-guessing, a refrain instead of a chorus, and a circling mandolin. Designed mishearing: 'I'm beside myself' is taken literally, and 'in the hall' is heard as 'in the fall'.",
+    "workbookAtAGlance": "Beside Myself\n\nBackup titles\nSomebody Else's Dare / None of It Out Loud\n\nAt a glance\n125 BPM, A minor\nVoice: Reedy male baritone-tenor, urgent\nLength: about 4 minutes",
+    "qa": {
+      "title": "Beside Myself",
+      "id": "e90_18",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.32 dBFS (5 clipped sample, inaudible)"
+          ],
+          "durationSec": 254.1,
+          "measuredBpm": 127.6,
+          "bpmFactor": 1,
+          "targetBpm": 125,
+          "bpmErrPct": 2.1,
+          "lufs": -12.1,
+          "peakDbfs": 0.32,
+          "clipSamples": 5,
+          "midGaps": [],
+          "endFadeSec": 2.4,
+          "contentEndSec": 253.0,
+          "vocalCoverage": 0.386,
+          "vocalSpanSec": [
+            19.0,
+            223.0
+          ],
+          "vocalF0MedianHz": 247,
+          "vocalF0P25Hz": 221,
+          "lyricLineRecall": 0.951,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.4,
+          "measuredBpm": 124.5,
+          "bpmFactor": 1,
+          "targetBpm": 125,
+          "bpmErrPct": 0.4,
+          "lufs": -12.9,
+          "peakDbfs": -0.12,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.9,
+          "contentEndSec": 253.0,
+          "vocalCoverage": 0.442,
+          "vocalSpanSec": [
+            17.9,
+            210.4
+          ],
+          "vocalF0MedianHz": 221,
+          "vocalF0P25Hz": 197,
+          "lyricLineRecall": 0.927,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_19",
+    "title": "Walk It Off",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 19,
+    "slug": "e90_19_walk_it_off",
+    "inspiredBy": "Bitter Sweet Symphony (The Verve, 1997)",
+    "leadVoice": "Male baritone with a nasal northern English edge. Verses are half sung and half declaimed, like someone talking to himself in the street. Choruses are fuller and more melodic. Long, loose ad-libs over the fade.",
+    "model": "V6",
+    "style": "1997 Britpop orchestral rock, nasal male baritone vocal, half sung and half declaimed verses, melodic chorus, loose ad-libs over the fade, 86 BPM, A major with a modal unresolved colour, steady walking pace, one short stately orchestral string figure looping unchanged for the whole song, shuffling loose drum beat with strong backbeat, deep simple bass, chiming delayed electric guitar, tambourine, drumless strings-and-voice breakdown, long slow fade, wide strings, dry punchy drums, hypnotic, proud, weary, defiant",
+    "negativeTags": "synth-pop, female lead vocals, rap, heavy metal, guitar solo, trap hi-hats, autotune, EDM drop",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 285,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: looping orchestral string figure alone, then shuffling drums]\n\n[Verse 1: half sung, half declaimed, over the loop]\nSame grey pavement, same front door\nSame face on the bus as the day before\nThey say you are the sum of what you've done\nI've added it up and I'm still only one\n\n[Pre-Chorus: bass enters, strings double]\nAnd I do change\nI do change\nJust slow, like a coastline\nJust slow, like a name\n\n[Chorus: full band, chiming guitar, the loop continues]\nSo I'm gonna walk it off\nWhatever it was\nThe year, the weight, the word I said\nI'm gonna walk it off\nOne foot, then the other one\nTill the street runs out or the feeling does\n\n[Verse 2: over the loop, more forceful]\nI talk to the kettle, I talk to the cat\nI asked a pigeon once and it left it at that\nThere's a man in the window who looks like my dad\nI nod and he nods and it isn't so bad\n\n[Pre-Chorus: bass and strings]\nAnd I do change\nI do change\nJust slow, like a coastline\nJust slow, like a name\n\n[Chorus: full band, chiming guitar, the loop continues]\nSo I'm gonna walk it off\nWhatever it was\nThe year, the weight, the word I said\nI'm gonna walk it off\nOne foot, then the other one\nTill the street runs out or the feeling does\n\n[Breakdown: drums drop out, strings and voice only]\nNobody's coming to carry me\nNobody's coming, and that's alright\nI've got two good legs and an afternoon\nI've got two good legs and the light\n\n[Final Chorus: drums return, extra strings, ad-libs]\nSo I'm gonna walk it off\nWhatever it was\nThe year, the weight, the word I said\nI'm gonna walk it off\nOne foot, then the other one\nTill the street runs out or the feeling does\n\n[Outro: loop continues, vocal ad-libs, long fade]\nLeft, right\nLeft, right\nWalk it, love\nWalk it off\nLeft, right\nWalk it, love",
+    "taskId": "07cfe497744863407ef9e916ed93dfe1",
+    "sunoClipIds": [
+      "011b5924-5e8e-440a-b8f8-e1f11906904f",
+      "27c608df-8cf5-44dd-bfec-12c73b1f9da7"
+    ],
+    "created": "Nov 15, 2026 9:21 PM ET",
+    "createTimeMs": 1794795685633,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "011b5924-5e8e-440a-b8f8-e1f11906904f",
+        "durationSec": 284.4,
+        "file": "nineties/e90_19_walk_it_off_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "27c608df-8cf5-44dd-bfec-12c73b1f9da7",
+        "durationSec": 284.52,
+        "file": "nineties/e90_19_walk_it_off_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_19_walk_it_off_req.json",
+      "nineties/e90_19_walk_it_off_rec.json"
+    ],
+    "cover": "nineties/covers/e90_19_walk_it_off.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 86 BPM, 4/4, in A with a modal, unresolved colour. A steady walking pace. Hypnotic, proud, a little weary.\n\nVOICE: Male baritone with a nasal northern English edge. Verses are half sung and half declaimed, like someone talking to himself in the street. Choruses are fuller and more melodic. Long, loose ad-libs over the fade.\n\nINSTRUMENTS: An orchestral string section playing one short, stately figure that repeats, unchanged, from the first bar to the last. A shuffling, loose drum beat with a strong backbeat. Deep, simple bass. Chiming electric guitar with delay in the choruses. Extra high strings and a distant bell in the final chorus. Tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, the string loop alone for four bars, then the drums. 0:22 Verse 1. 0:45 Pre-chorus, bass enters. 1:07 Chorus 1. 1:35 Verse 2. 1:57 Pre-chorus. 2:19 Chorus 2. 2:47 Breakdown, drums out, strings and voice. 3:09 Drums return for the final chorus with extra strings. 3:37 Outro, the loop continues under ad-libs and fades out very slowly by 4:30.\n\nPRODUCTION & MIX: Late-90s British rock with a hip-hop sense of loop and beat: wide strings, dry punchy drums, vocal slightly distant, a long fade.\n\nSIGNATURE MOMENT: The four bars of strings alone at the start. The song is recognisable before the drums arrive.\n\nMODERN POINT OF VIEW: The original insists nothing changes. This narrator is older and has noticed that he does change, at the speed of a coastline. The self-reliance in the breakdown is offered as good news.\n\nEMOTIONAL ARC: Monotony, wry humour, self-acceptance, and forward motion.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1997 Britpop orchestral rock, nasal male baritone vocal, half sung and half declaimed verses, melodic chorus, loose ad-libs over the fade, 86 BPM, A major with a modal unresolved colour, steady walking pace, one short stately orchestral string figure looping unchanged for the whole song, shuffling loose drum beat with strong backbeat, deep simple bass, chiming delayed electric guitar, tambourine, drumless strings-and-voice breakdown, long slow fade, wide strings, dry punchy drums, hypnotic, proud, weary, defiant\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynth-pop, female lead vocals, rap, heavy metal, guitar solo, trap hi-hats, autotune, EDM drop\n\nWHAT IT IS ABOUT\n\nA man walks the same street he has always walked and decides that walking is the cure, for whatever it was.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: grief; anger; getting sober; getting fit at fifty; or leaving a job. 'It' is never named. Where the original says a person cannot change, this one says change is real and very slow.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an unchanging string loop, a walking pulse, blunt lines about ordinary life, and no resolution. Designed mishearing: 'walk it off' is heard as 'walk it, love', and the outro sings exactly that.",
+    "workbookAtAGlance": "Walk It Off\n\nBackup titles\nSlow Like a Coastline / One Foot, Then the Other\n\nAt a glance\n86 BPM, A major (modal)\nVoice: Nasal male baritone, half sung, half declaimed\nLength: about 4 minutes 30",
+    "qa": {
+      "title": "Walk It Off",
+      "id": "e90_19",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 284.4,
+          "measuredBpm": 88.3,
+          "bpmFactor": 1,
+          "targetBpm": 86,
+          "bpmErrPct": 2.7,
+          "lufs": -12.2,
+          "peakDbfs": -0.69,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.4,
+          "contentEndSec": 282.5,
+          "vocalCoverage": 0.623,
+          "vocalSpanSec": [
+            23.3,
+            267.4
+          ],
+          "vocalF0MedianHz": 263,
+          "vocalF0P25Hz": 224,
+          "lyricLineRecall": 0.854,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 284.5,
+          "measuredBpm": 86.9,
+          "bpmFactor": 1,
+          "targetBpm": 86,
+          "bpmErrPct": 1.0,
+          "lufs": -12.3,
+          "peakDbfs": -1.58,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.6,
+          "contentEndSec": 282.5,
+          "vocalCoverage": 0.662,
+          "vocalSpanSec": [
+            21.9,
+            254.2
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 274,
+          "lyricLineRecall": 0.878,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e90_20",
+    "title": "When the Lights Come On",
+    "collection": "nineties",
+    "album": "90s Reimagined",
+    "track": 20,
+    "slug": "e90_20_when_the_lights_come_on",
+    "inspiredBy": "What Is Love (Haddaway, 1993)",
+    "leadVoice": "Male baritone with a warm, soulful, slightly smoky tone and real gospel weight on the long notes. He sings the question as if he means it. Two female voices sing wordless 'ooh' lines and the short bracketed answers, airy and high.",
+    "model": "V6",
+    "style": "1993 Eurodance, soulful warm male baritone vocal with gospel weight, two airy high female backing voices singing wordless oohs and short answers, 124 BPM, G minor, bright bouncing club pulse under a minor-key melody, bouncing percussive synth organ riff doubling as the bass line, hard four-on-the-floor kick, off-beat open hi-hats, claps, string-synth pad, house piano breakdown, snare-roll build, punchy bright uncomplicated mix, melancholy, danceable, hypnotic",
+    "negativeTags": "distorted guitar, rock drums, acoustic ballad, rap verse, trap hi-hats, dubstep, autotune, saxophone",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bouncing synth organ riff, four-on-the-floor kick, oohs]\n(Ooh, ooh-ooh)\nWhere do we go?\n\n[Chorus: soulful male lead, female voices answer]\nWhere do we go when the lights come on?\n(Tell me, tell me)\nWhere do we go when the song is gone?\n(Not yet, not yet)\n\n[Verse 1: male lead, beat thins to bass and hi-hat]\nThe floor is full and I am counting hours\nThe mirror ball is running out of stars\nI've held this feeling like a glass of water\nDon't make me spill it in the dark\n\n[Chorus: full beat, synth riff, female voices answer]\nWhere do we go when the lights come on?\n(Tell me, tell me)\nWhere do we go when the song is gone?\n(Not yet, not yet)\n\n[Verse 2: male lead, strings pad underneath]\nSomebody's sweeping round the edges\nSomebody's stacking up the chairs\nIf this is all, then say it's all\nIf there is more, then tell me where\n\n[Chorus: full beat, synth riff, female voices answer]\nWhere do we go when the lights come on?\n(Tell me, tell me)\nWhere do we go when the song is gone?\n(Not yet, not yet)\n\n[Breakdown: kick drops out, piano chords and voices]\n(Ooh, ooh-ooh)\nOne more\n(Ooh, ooh-ooh)\nJust one more\n\n[Build: snare roll, riff filters back in]\nWhere do we go?\nWhere do we go?\nWhere do we go?\n\n[Final Chorus: everything, ad-libs, extra percussion]\nWhere do we go when the lights come on?\n(Tell me, tell me)\nWhere do we go when the song is gone?\n(Not yet, not yet)\nWhere do we go when the lights come on?\n(Tell me, tell me)\nWhere do we go?\n\n[Outro: riff alone, kick stops, room noise]\n(Not yet)",
+    "taskId": "189e2829e57c41ee666ac22a9fd90211",
+    "sunoClipIds": [
+      "bc66455c-c829-445a-8ff5-08e50320fa44",
+      "de3adaec-b7d9-4da5-af4c-b4b2c025acaf"
+    ],
+    "created": "Nov 15, 2026 9:21 PM ET",
+    "createTimeMs": 1794795685977,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "bc66455c-c829-445a-8ff5-08e50320fa44",
+        "durationSec": 239.88,
+        "file": "nineties/e90_20_when_the_lights_come_on_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "de3adaec-b7d9-4da5-af4c-b4b2c025acaf",
+        "durationSec": 239.6,
+        "file": "nineties/e90_20_when_the_lights_come_on_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "nineties/e90_20_when_the_lights_come_on_req.json",
+      "nineties/e90_20_when_the_lights_come_on_rec.json"
+    ],
+    "cover": "nineties/covers/e90_20_when_the_lights_come_on.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, G minor. A bright, bouncing club pulse under a minor-key melody. Dance-floor melancholy.\n\nVOICE: Male baritone with a warm, soulful, slightly smoky tone and real gospel weight on the long notes. He sings the question as if he means it. Two female voices sing wordless 'ooh' lines and the short bracketed answers, airy and high.\n\nINSTRUMENTS: A bouncing, percussive synth organ riff that doubles as the bass line. A hard four-on-the-floor kick with off-beat open hi-hats and a clap. A string-synth pad. House piano chords in the breakdown. A snare roll and filter sweep for the build. Shaker and tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, the riff, the kick and the female oohs, with the question sung once. 0:16 Chorus 1. 0:32 Verse 1, the beat thins. 0:47 Chorus 2. 1:03 Verse 2. 1:18 Chorus 3. 1:34 Instrumental, the riff with a counter-melody. 1:49 Breakdown, the kick drops out for piano and voices. 2:20 Build, the question repeated over a snare roll. 2:36 Final chorus, twice through, with ad-libs. 3:22 Outro, the riff alone, the kick stops, a little room noise and one last answer at 3:40.\n\nPRODUCTION & MIX: Early-90s Eurodance: punchy, bright and uncomplicated, kick and riff at the front, vocal with a short bright reverb.\n\nSIGNATURE MOMENT: The synth riff with the kick in the first two bars. It is built so that heads start nodding before anyone decides to.\n\nMODERN POINT OF VIEW: The singer is at the end of the night and knows it, which reads as a much bigger subject to anyone old enough to remember the original. The room noise at the end is the lights actually coming on.\n\nEMOTIONAL ARC: Elation with a shadow, bargaining for one more song, then acceptance.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1993 Eurodance, soulful warm male baritone vocal with gospel weight, two airy high female backing voices singing wordless oohs and short answers, 124 BPM, G minor, bright bouncing club pulse under a minor-key melody, bouncing percussive synth organ riff doubling as the bass line, hard four-on-the-floor kick, off-beat open hi-hats, claps, string-synth pad, house piano breakdown, snare-roll build, punchy bright uncomplicated mix, melancholy, danceable, hypnotic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\ndistorted guitar, rock drums, acoustic ballad, rap verse, trap hi-hats, dubstep, autotune, saxophone\n\nWHAT IT IS ABOUT\n\nThe night is nearly over, the staff are stacking chairs, and someone on the dance floor asks the only question that matters.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: closing time; the end of a relationship's good years; the end of youth; or the largest version of the question, about what follows a life. The beat never stops to answer.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an unanswerable question as the hook, a sad soulful voice over a bright dance beat, a wordless female line, and a riff built for nodding along. Designed mishearing: 'when the lights come on' is heard as 'when the life's gone wrong'.",
+    "workbookAtAGlance": "When the Lights Come On\n\nBackup titles\nStacking Up the Chairs / Not Yet\n\nAt a glance\n124 BPM, G minor\nVoice: Soulful male baritone, female backing voices\nLength: about 3 minutes 45",
+    "qa": {
+      "title": "When the Lights Come On",
+      "id": "e90_20",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 239.9,
+          "measuredBpm": 127.6,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 2.9,
+          "lufs": -12.8,
+          "peakDbfs": -0.59,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.6,
+          "contentEndSec": 237.6,
+          "vocalCoverage": 0.631,
+          "vocalSpanSec": [
+            7.6,
+            236.3
+          ],
+          "vocalF0MedianHz": 597,
+          "vocalF0P25Hz": 442,
+          "lyricLineRecall": 0.857,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 239.6,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -12.8,
+          "peakDbfs": -0.88,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.5,
+          "contentEndSec": 238.7,
+          "vocalCoverage": 0.674,
+          "vocalSpanSec": [
+            10.5,
+            238.2
+          ],
+          "vocalF0MedianHz": 522,
+          "vocalF0P25Hz": 391,
+          "lyricLineRecall": 0.857,
+          "lyricUnclearSections": [
+            "Breakdown"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    }
   }
 ]

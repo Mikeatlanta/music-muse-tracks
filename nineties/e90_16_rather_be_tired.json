@@ -1,0 +1,114 @@
+{
+  "id": "e90_16",
+  "title": "Rather Be Tired",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 16,
+  "slug": "e90_16_rather_be_tired",
+  "inspiredBy": "I Don't Want to Miss a Thing (Aerosmith, 1998)",
+  "leadVoice": "Male rock tenor with a deep rasp. Verses hushed and close, almost a murmur. Choruses in full, gritty chest voice. After the key change he screams sustained high notes over the top of the band, then drops to a whisper for the last two lines.",
+  "model": "V6",
+  "style": "1998 orchestral rock power ballad, raspy male rock tenor vocal, hushed murmured verses, gritty full-voice choruses and screamed sustained high notes at the end, 60 BPM with a slow triplet sway, D major with a key change up for the final chorus, full orchestra with strings, brass and timpani, solo piano, acoustic guitar, big sustained electric guitar chords, short melodic guitar solo, slow heavy rock drums, blockbuster film ballad mix with long reverbs, tender, devoted, epic",
+  "negativeTags": "synth-pop, drum machine, female lead vocals, rap, fast tempo, trap hi-hats, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 270,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft orchestral strings, solo piano, a held oboe note]\n\n[Verse 1: raspy, hushed, piano and strings]\nFour a.m., the house has gone to ground\nThe clock is loud and you don't make a sound\nThere's a morning coming I'll be useless for\nAnd nothing in it's worth a minute more\n\n[Pre-Chorus: drums enter softly, strings rise]\nLet the dark go on as long as it likes\nI've got nowhere better on any of these nights\n\n[Chorus: full band and orchestra, big drums]\nI'd rather be tired\nThan sleep through a second of this\nRather be wrecked and wired\nThan wake to a moment I missed\nLet the whole world dream without me\nI'll be right here, eyes wide\nI'd rather be tired\n\n[Verse 2: quieter, acoustic guitar joins]\nYour hand keeps closing on the nothing in the air\nLike you're catching something only you see there\nI've been counting every freckle like a sailor counts the stars\nI keep losing count and starting from the start\n\n[Pre-Chorus: drums build, strings rise]\nLet the dark go on as long as it likes\nI've got nowhere better on any of these nights\n\n[Chorus: full band and orchestra, big drums]\nI'd rather be tired\nThan sleep through a second of this\nRather be wrecked and wired\nThan wake to a moment I missed\nLet the whole world dream without me\nI'll be right here, eyes wide\nI'd rather be tired\n\n[Bridge: half-time, guitar and strings swell, voice climbs]\nAnd they tell me it goes fast\nThey all say that\nI'm not letting one get past\nNot one, not one\n\n[Guitar Solo: short, singing, over full orchestra]\n\n[Final Chorus: key change up, screamed high notes, everything]\nI'd rather be tired\nThan sleep through a second of this\nRather be wrecked and wired\nThan wake to a moment I missed\nLet the whole world dream without me\nI'll be right here, eyes wide\nI'd rather be tired\nOh, I'd rather be tired\n\n[Outro: orchestra fades to piano, whispered]\nGo on, sleep\nI've got this",
+  "taskId": "327be71b96b2671d62b4d663236b0946",
+  "sunoClipIds": [
+    "0a05c23d-12bb-4b61-90f7-894baf07668c",
+    "9c7dba2e-dc60-48eb-a6ba-5e075ed2794a"
+  ],
+  "created": "Nov 15, 2026 9:21 PM ET",
+  "createTimeMs": 1794795675890,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0a05c23d-12bb-4b61-90f7-894baf07668c",
+      "durationSec": 269.84,
+      "file": "nineties/e90_16_rather_be_tired_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "9c7dba2e-dc60-48eb-a6ba-5e075ed2794a",
+      "durationSec": 269.68,
+      "file": "nineties/e90_16_rather_be_tired_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_16_rather_be_tired_req.json",
+    "nineties/e90_16_rather_be_tired_rec.json"
+  ],
+  "cover": "nineties/covers/e90_16_rather_be_tired.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 60 BPM, 4/4 with a slow triplet sway, D major rising to E major for the last chorus. A lullaby that becomes a stadium ballad.\n\nVOICE: Male rock tenor with a deep rasp. Verses hushed and close, almost a murmur. Choruses in full, gritty chest voice. After the key change he screams sustained high notes over the top of the band, then drops to a whisper for the last two lines.\n\nINSTRUMENTS: A full orchestra: strings first, then brass and timpani. Solo piano. An oboe on a single held note in the intro. Acoustic guitar from verse 2. Electric guitars held back until the choruses, then big sustained chords and a short, melodic solo. Slow, heavy rock drums. Bass guitar doubling the cellos.\n\nARRANGEMENT MAP: 0:00 Intro, strings, piano and oboe. 0:20 Verse 1. 0:52 Pre-chorus, drums enter softly. 1:08 Chorus 1, full band and orchestra. 1:40 Verse 2, pulled back with acoustic guitar. 2:12 Pre-chorus. 2:28 Chorus 2. 3:00 Bridge in half time. 3:16 Short guitar solo. 3:28 Key change and final chorus, with screams and the last line repeated. 4:04 Outro, the orchestra falls away to piano and two whispered lines, ending at 4:20.\n\nPRODUCTION & MIX: Late-90s blockbuster ballad: orchestra and band both at full size, long reverbs, the lead voice dry enough to hear the grain.\n\nSIGNATURE MOMENT: The first scream after the key change at about 3:30.\n\nMODERN POINT OF VIEW: The film-sized romance is moved into an ordinary house at four in the morning, with a meeting the next day. 'They tell me it goes fast' is something only a parent, or someone running out of time, is told.\n\nEMOTIONAL ARC: Wonder, stubbornness, a flash of fear, then calm.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1998 orchestral rock power ballad, raspy male rock tenor vocal, hushed murmured verses, gritty full-voice choruses and screamed sustained high notes at the end, 60 BPM with a slow triplet sway, D major with a key change up for the final chorus, full orchestra with strings, brass and timpani, solo piano, acoustic guitar, big sustained electric guitar chords, short melodic guitar solo, slow heavy rock drums, blockbuster film ballad mix with long reverbs, tender, devoted, epic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynth-pop, drum machine, female lead vocals, rap, fast tempo, trap hi-hats, autotune, EDM\n\nWHAT IT IS ABOUT\n\nAt four in the morning someone chooses to stay awake watching another person sleep, knowing exactly what it will cost tomorrow.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a new parent with a newborn; a partner on the last ordinary night before a diagnosis or a deployment; a hospital vigil; or new love. No line settles which.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: sleeplessness as proof of love, small physical details, a rock voice over an orchestra, and a late key change with screams. Designed mishearing: 'I'd rather be tired' is heard as 'I'd rather be tied', which makes it a commitment song.",
+  "workbookAtAGlance": "Rather Be Tired\n\nBackup titles\nEyes Wide / Starting From the Start\n\nAt a glance\n60 BPM, D major, key change to E\nVoice: Raspy male rock tenor, screams at the end\nLength: about 4 minutes 15",
+  "qa": {
+    "title": "Rather Be Tired",
+    "id": "e90_16",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 269.9,
+        "measuredBpm": 64.2,
+        "bpmFactor": 1,
+        "targetBpm": 60,
+        "bpmErrPct": 7.0,
+        "lufs": -13.5,
+        "peakDbfs": -1.82,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 268.7,
+        "vocalCoverage": 0.709,
+        "vocalSpanSec": [
+          16.5,
+          262.5
+        ],
+        "vocalF0MedianHz": 468,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.9,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 269.7,
+        "measuredBpm": 61.9,
+        "bpmFactor": 1,
+        "targetBpm": 60,
+        "bpmErrPct": 3.2,
+        "lufs": -13.8,
+        "peakDbfs": -1.14,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 269.0,
+        "vocalCoverage": 0.664,
+        "vocalSpanSec": [
+          18.6,
+          258.8
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 199,
+        "lyricLineRecall": 0.85,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "If You Looked Up",
+ "prompt": "[Intro: droning open-tuned acoustic guitar, mandolin tremolo]\n\n[Verse 1: raspy, close, quiet]\nI've been standing at the edge of every frame\nThe blur behind the smile, without a name\nAnd I would trade the whole unbroken sky\nTo be the thing that finally caught your eye\n\n[Pre-Chorus: strings creep in]\n'Cause nobody gets the real thing anymore\nWe send the better version to the door\n\n[Chorus: full band, crashing drums, wide strings]\nAnd if you looked up, you would see me\nI'm right here where I've always been\nI don't need the world to believe me\nI just need one person to let me in\nIf you looked up\nIf you looked up\n\n[Verse 2: quieter again, mandolin answers]\nI can taste the words I never got to say\nThey sit behind my teeth like yesterday\nYou're so close I can hear you breathing slow\nAnd still a thousand miles of glass to go\n\n[Pre-Chorus: strings rise]\nAnd everything I built to keep me safe\nIs everything that's standing in the way\n\n[Chorus: full band, crashing drums, wide strings]\nAnd if you looked up, you would see me\nI'm right here where I've always been\nI don't need the world to believe me\nI just need one person to let me in\nIf you looked up\nIf you looked up\n\n[Instrumental: mandolin and strings, one stumbling odd bar, building]\n\n[Bridge: voice strains, drums pound]\nI don't want to be a light across the bay\nA voice inside a wire, a name you save\nI want to be the weight beside your hand\nThe one thing in this life you understand\n\n[Breakdown: guitar and voice only]\nIf you looked up, you would see me\nI've been waving all this time\n\n[Final Chorus: biggest, strings soaring, full cry]\nAnd if you looked up, you would see me\nI'm right here where I've always been\nLet the whole world never believe me\nI just need you to let me in\nIf you looked up\nIf you looked up\n\n[Outro: band falls away, mandolin fades]\nLook up\nI'm right here",
+ "style": "1998 alternative rock power ballad, raspy male tenor vocal, quiet intimate verses and a huge full-voice chorus, 72 BPM in 6/8 waltz time, D major, droning open-tuned acoustic guitar, mandolin tremolo, sweeping orchestral string section as loud as the guitars, melodic bass, big roomy rock drums with wide crash cymbals, clean electric guitar, late-arriving strings, one stumbling odd bar in the instrumental, warm wide radio-rock mix, dry forward vocal, yearning, aching, cathartic",
+ "negativeTags": "synth-pop, drum machine, female lead vocals, rap, EDM, trap hi-hats, autotune, saxophone",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 255,
+ "callBackUrl": "https://example.com/cb"
+}

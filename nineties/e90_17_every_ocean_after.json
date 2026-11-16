@@ -1,0 +1,114 @@
+{
+  "id": "e90_17",
+  "title": "Every Ocean After",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 17,
+  "slug": "e90_17_every_ocean_after",
+  "inspiredBy": "My Heart Will Go On (C\u00e9line Dion, 1997)",
+  "leadVoice": "Female soprano with a pure, clear tone and perfect diction. The first two verses are whispered, with breath audible. Each chorus opens a little more. After the key change she belts at full power with a fast, narrow vibrato and long held notes, then whispers the last line.",
+  "model": "V6",
+  "style": "1997 film theme pop ballad, clear pure female soprano vocal, whispered verses building to a full-power belt with long held notes, 96 BPM, E major with a dramatic key change up for the final chorus, solo low Irish whistle intro and interludes, soft synth pads and chimes, fingerpicked acoustic guitar, full string orchestra, gentle bass, slow big backbeat drums arriving late, piano bridge, swelling electric guitar under the last chorus, glossy wide deep mix, wistful, devoted, sweeping",
+  "negativeTags": "male lead vocals, rap, fast tempo, distorted riffs, drum machine, trap hi-hats, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 270,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: solo low whistle, soft synth pad, distant chimes]\n\n[Verse 1: whispered, close, pad and acoustic guitar]\nEvery morning there's a second\nJust before I know you're gone\nWhen the kettle's on for two cups\nAnd the radio plays on\n\n[Verse 2: a little fuller, bass and light percussion]\nI have been to other harbours\nI have learned another shore\nBut the water has a memory\nAnd it knows what it is for\n\n[Chorus: strings enter, voice opens]\nYou are every ocean after\nEvery coast I'll ever see\nThere's a tide that keeps on turning\nAnd it turns you back to me\nEvery ocean after\n\n[Whistle Interlude: low whistle plays the chorus melody]\n\n[Verse 3: steady, drums enter softly]\nLove was once, and once was plenty\nIt was all I'd ever need\nI have kept you like a lighthouse\nKeeps a light for ships at sea\n\n[Chorus: fuller, strings and drums]\nYou are every ocean after\nEvery coast I'll ever see\nThere's a tide that keeps on turning\nAnd it turns you back to me\nEvery ocean after\n\n[Bridge: band drops, voice and piano, rising]\nYou're here\nIn the salt and in the weather\nYou're here\nIn the names we chose together\n\n[Final Chorus: key change up, full orchestra, belted]\nYou are every ocean after\nEvery coast I'll ever see\nThere's a tide that keeps on turning\nAnd it turns you back to me\nEvery ocean after\nEvery ocean after\n\n[Outro: solo low whistle, last line whispered]\nAnd it turns you back to me",
+  "taskId": "09ab7ad9f4f0ba53637debde8c336e59",
+  "sunoClipIds": [
+    "28868d82-2432-46b0-bb8f-1b1d1ebb2d21",
+    "3a14cc07-1440-4bad-a2d2-100c8f4bb760"
+  ],
+  "created": "Nov 15, 2026 9:21 PM ET",
+  "createTimeMs": 1794795673084,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "28868d82-2432-46b0-bb8f-1b1d1ebb2d21",
+      "durationSec": 269.92,
+      "file": "nineties/e90_17_every_ocean_after_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "3a14cc07-1440-4bad-a2d2-100c8f4bb760",
+      "durationSec": 269.36,
+      "file": "nineties/e90_17_every_ocean_after_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_17_every_ocean_after_req.json",
+    "nineties/e90_17_every_ocean_after_rec.json"
+  ],
+  "cover": "nineties/covers/e90_17_every_ocean_after.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4, E major, rising a whole step and a half to G-flat for the final chorus. Calm and floating, then vast.\n\nVOICE: Female soprano with a pure, clear tone and perfect diction. The first two verses are whispered, with breath audible. Each chorus opens a little more. After the key change she belts at full power with a fast, narrow vibrato and long held notes, then whispers the last line.\n\nINSTRUMENTS: A low wooden whistle (Irish-style) that plays the opening alone and returns between sections. Soft synth pads and chimes. Fingerpicked acoustic guitar. A full string orchestra. Gentle bass and light hand percussion at first, then drums with a big, slow backbeat. Piano in the bridge. A distorted electric guitar swelling under the final chorus.\n\nARRANGEMENT MAP: 0:00 Intro, whistle alone over a pad. 0:20 Verse 1, whispered. 0:40 Verse 2. 1:00 Chorus 1, strings. 1:25 Whistle interlude. 1:40 Verse 3, soft drums. 2:00 Chorus 2. 2:25 Bridge, voice and piano. 2:45 A drum fill and the key change into the final chorus at full size. 3:35 Outro, the whistle alone and one whispered line, ending at 4:10.\n\nPRODUCTION & MIX: Late-90s film ballad: glossy, wide and deep, lots of reverb on the whistle, the voice very present and clean.\n\nSIGNATURE MOMENT: The key change at 2:45, with the drum fill that announces it.\n\nMODERN POINT OF VIEW: The singer is not at the moment of loss. She is decades past it, with a kettle, a radio and grandchildren's names, which is how people who loved the original in 1998 hear it now.\n\nEMOTIONAL ARC: Quiet habit, acceptance, presence, then a wave.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1997 film theme pop ballad, clear pure female soprano vocal, whispered verses building to a full-power belt with long held notes, 96 BPM, E major with a dramatic key change up for the final chorus, solo low Irish whistle intro and interludes, soft synth pads and chimes, fingerpicked acoustic guitar, full string orchestra, gentle bass, slow big backbeat drums arriving late, piano bridge, swelling electric guitar under the last chorus, glossy wide deep mix, wistful, devoted, sweeping\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, rap, fast tempo, distorted riffs, drum machine, trap hi-hats, autotune, EDM\n\nWHAT IT IS ABOUT\n\nSomeone has lived a long life since a great love ended, and finds that every place they have been since still leads back to it.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a widow or widower; a long-distance love; an emigrant thinking of home; a parent after a child has grown and gone. Water is in every chorus, and no ship is ever mentioned.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a solo whistle opening, a whispered first verse, plain words about love outlasting loss, and a late key change. Designed mishearing: 'every ocean after' is heard as 'every notion after' and 'ever ocean-daughter', both of which sound like old folk songs.",
+  "workbookAtAGlance": "Every Ocean After\n\nBackup titles\nThe Kettle's On for Two / A Light for Ships\n\nAt a glance\n96 BPM, E major, key change to G-flat\nVoice: Clear female soprano, whisper to belt\nLength: about 4 minutes 15",
+  "qa": {
+    "title": "Every Ocean After",
+    "id": "e90_17",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 269.9,
+        "measuredBpm": 97.5,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 1.6,
+        "lufs": -13.6,
+        "peakDbfs": -0.78,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 268.2,
+        "vocalCoverage": 0.574,
+        "vocalSpanSec": [
+          22.1,
+          246.0
+        ],
+        "vocalF0MedianHz": 369,
+        "vocalF0P25Hz": 329,
+        "lyricLineRecall": 0.774,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 269.4,
+        "measuredBpm": 97.5,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 1.6,
+        "lufs": -13.8,
+        "peakDbfs": -0.04,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 268.2,
+        "vocalCoverage": 0.575,
+        "vocalSpanSec": [
+          18.6,
+          245.6
+        ],
+        "vocalF0MedianHz": 331,
+        "vocalF0P25Hz": 298,
+        "lyricLineRecall": 0.903,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

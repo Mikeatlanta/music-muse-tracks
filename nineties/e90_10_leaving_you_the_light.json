@@ -1,0 +1,112 @@
+{
+  "id": "e90_10",
+  "title": "Leaving You the Light",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 10,
+  "slug": "e90_10_leaving_you_the_light",
+  "inspiredBy": "I Will Always Love You (Whitney Houston, 1992)",
+  "leadVoice": "Female soprano with enormous range and control. The first verse and chorus are sung with no accompaniment, soft and breathy with small gospel turns. Each chorus is fuller than the last. After the key change she sings at full power with long held notes and melismatic runs, then returns to a whisper.",
+  "model": "V6",
+  "style": "1992 soul pop power ballad, powerhouse female soprano vocal with gospel melisma and long held notes, opening verse and chorus sung completely a cappella with no instruments, 66 BPM, A major with a dramatic key change up after a full stop and one huge drum hit, soft electric piano, fretless bass, brushed drums, growing orchestral strings, tender tenor saxophone solo, quiet blessing verse, final chorus at full power, lush wide reverberant mix, voice far in front, graceful, aching, overwhelming",
+  "negativeTags": "male lead vocals, distorted guitar, fast tempo, rap, drum machine, EDM, trap hi-hats, autotune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 270,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Verse 1: a cappella, solo female voice, no instruments at all]\nThere's a bag beside the doorway\nThere's a note beside the bed\nI have loved you past the saying\nSo I'll leave the rest unsaid\n\n[Chorus: still a cappella, soft, a single held note]\nI'm leaving you the light on\nI'm leaving you the key\nI'm leaving you the best years\nThat you ever gave to me\nI'm leaving you the light\n\n[Verse 2: soft electric piano, bass and brushes enter]\nTake the laughing, take the summers\nTake the kitchen and the songs\nI am taking only this much:\nThat I loved you all along\n\n[Chorus: fuller, strings join, voice opens up]\nI'm leaving you the light on\nI'm leaving you the key\nI'm leaving you the best years\nThat you ever gave to me\nI'm leaving you the light\n\n[Saxophone Solo: tenor sax plays the chorus melody, tender]\n\n[Verse 3: quiet, almost spoken, a blessing]\nMay the mornings treat you gently\nMay your table stay full\nMay somebody learn to hold you\nIn the way I never could\n\n[Break: everything stops, silence, one huge drum hit]\n\n[Final Chorus: key change up, full power, long held notes]\nI'm leaving you the light on\nI'm leaving you the key\nI'm leaving you the best years\nThat you ever gave to me\nI'm leaving you the light\nOh, I'm leaving you the light\n\n[Outro: band fades, voice alone again, very soft]\nThe light\nI'm leaving you\nTonight",
+  "taskId": "f8d2ba232120cc6674d4a14bc49cc5d4",
+  "sunoClipIds": [
+    "6b770df2-3f33-439f-a1c7-a8ee3ff3e6c2",
+    "68e7b2fb-d6a2-4009-9c47-573384533391"
+  ],
+  "created": "Nov 15, 2026 9:20 PM ET",
+  "createTimeMs": 1794795648905,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "6b770df2-3f33-439f-a1c7-a8ee3ff3e6c2",
+      "durationSec": 269.56,
+      "file": "nineties/e90_10_leaving_you_the_light_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "68e7b2fb-d6a2-4009-9c47-573384533391",
+      "durationSec": 269.56,
+      "file": "nineties/e90_10_leaving_you_the_light_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_10_leaving_you_the_light_req.json",
+    "nineties/e90_10_leaving_you_the_light_rec.json"
+  ],
+  "cover": "nineties/covers/e90_10_leaving_you_the_light.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 66 BPM, 4/4, A major, rising to B major after the break. Very slow and still, then overwhelming.\n\nVOICE: Female soprano with enormous range and control. The first verse and chorus are sung with no accompaniment, soft and breathy with small gospel turns. Each chorus is fuller than the last. After the key change she sings at full power with long held notes and melismatic runs, then returns to a whisper.\n\nINSTRUMENTS: Nothing for the first 50 seconds. Then soft electric piano, fretless bass and brushed drums. A string section that grows from one line to a full orchestra. A tenor saxophone for one solo. A single, very large tom and bass-drum hit that marks the key change. Acoustic guitar picking under verse 3.\n\nARRANGEMENT MAP: 0:00 Verse 1 and chorus, voice entirely alone. 0:52 Verse 2, the band enters gently. 1:18 Chorus 2, strings. 1:50 Saxophone solo on the chorus tune. 2:16 Verse 3, quiet, a blessing. 2:44 Break: everything stops for a full bar of silence, then one drum hit. 2:48 Final chorus in the new key, at full power, with the last line repeated. 3:36 Outro, the band fades and the voice ends alone at 4:10.\n\nPRODUCTION & MIX: Early-90s adult-pop ballad production: lush, wide and reverberant, with the voice far in front of everything and plenty of dynamic range.\n\nSIGNATURE MOMENT: The silence and single drum hit at 2:44, and the first held note after it.\n\nMODERN POINT OF VIEW: The lyric is written so that the leaving need not be a break-up. It is equally a parent, a mentor or someone at the end of a life, which is how older listeners will hear it.\n\nEMOTIONAL ARC: Stillness, grace, grief held in check, then released.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1992 soul pop power ballad, powerhouse female soprano vocal with gospel melisma and long held notes, opening verse and chorus sung completely a cappella with no instruments, 66 BPM, A major with a dramatic key change up after a full stop and one huge drum hit, soft electric piano, fretless bass, brushed drums, growing orchestral strings, tender tenor saxophone solo, quiet blessing verse, final chorus at full power, lush wide reverberant mix, voice far in front, graceful, aching, overwhelming\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, distorted guitar, fast tempo, rap, drum machine, EDM, trap hi-hats, autotune\n\nWHAT IT IS ABOUT\n\nSomeone is leaving in the night, out of love, and leaves a light on behind her.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: the end of a marriage with no villain; a mother seeing a child off to a new life; a dying parent; a mentor retiring. The key line is heard two ways and the outro confirms both.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an unaccompanied opening, a blameless goodbye, a blessing verse, a full stop with one drum hit, then a key change and a long held note. Designed mishearing: 'I'm leaving you the light on' is heard as 'I'm leaving you tonight', which is also true.",
+  "workbookAtAGlance": "Leaving You the Light\n\nBackup titles\nThe Rest Unsaid / Only This Much\n\nAt a glance\n66 BPM, A major, key change to B\nVoice: Powerhouse female soprano\nLength: about 4 minutes 15",
+  "qa": {
+    "title": "Leaving You the Light",
+    "id": "e90_10",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 269.6,
+        "measuredBpm": 64.2,
+        "bpmFactor": 1,
+        "targetBpm": 66,
+        "bpmErrPct": 2.7,
+        "lufs": -14.1,
+        "peakDbfs": -0.83,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 268.2,
+        "vocalCoverage": 0.667,
+        "vocalSpanSec": [
+          4.3,
+          251.1
+        ],
+        "vocalF0MedianHz": 353,
+        "vocalF0P25Hz": 287,
+        "lyricLineRecall": 0.966,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 269.6,
+        "measuredBpm": 63.8,
+        "bpmFactor": 1,
+        "targetBpm": 66,
+        "bpmErrPct": 3.3,
+        "lufs": -14.2,
+        "peakDbfs": -0.38,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 268.1,
+        "vocalCoverage": 0.629,
+        "vocalSpanSec": [
+          0.9,
+          264.4
+        ],
+        "vocalF0MedianHz": 331,
+        "vocalF0P25Hz": 288,
+        "lyricLineRecall": 0.966,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

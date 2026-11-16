@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Still Got the Voltage",
+ "prompt": "[Intro: fast hammered single-string guitar riff alone, hi-hat ticking]\n\n[Chant: low gang voices over the riff, kick drum joins]\n(Whoa-oh, oh-oh) Voltage!\n(Whoa-oh, oh-oh) Voltage!\n(Whoa-oh, oh-oh) Voltage!\n(Whoa-oh, oh-oh) Voltage!\n\n[Verse 1: rasping high vocal, rhythm guitar and full drums crash in]\nI was parked out in the driveway with the engine cold\nSomebody on the radio said I was getting old\nFelt it in my knuckles, felt it in my knees\nThen a spark came crawling up the back of me\n\n[Pre-Chorus: stabs, snare builds]\nAnd the garage door shook\nAnd the neighbours came to look\n\n[Chorus: open ringing chords, gang answers]\nI still got the voltage (yeah, yeah, yeah)\nStill got the voltage (yeah, yeah, yeah)\nRan a line down from the sky into my bones\nI still got the voltage\n\n[Verse 2: rasping high vocal over the riff]\nDug my boots out from the bottom of the stairs\nFound a jacket that remembers when I didn't care\nMy kid said \"who are you?\" and I said \"wait and see\"\nKicked the amp awake and it remembered me\n\n[Pre-Chorus: stabs, snare builds]\nAnd the windows shook\nAnd the whole street came to look\n\n[Chorus: open ringing chords, gang answers]\nI still got the voltage (yeah, yeah, yeah)\nStill got the voltage (yeah, yeah, yeah)\nRan a line down from the sky into my bones\nI still got the voltage\n\n[Guitar Solo: blues-rock, fast runs, wide vibrato]\n\n[Bridge: drums and chant only, call and response]\nPlug it in (plug it in)\nTurn it up (turn it up)\nPlug it in (plug it in)\nBurn it up (burn it up)\n\n[Final Chorus: full band, lead guitar wailing over the top]\nI still got the voltage (yeah, yeah, yeah)\nStill got the voltage (yeah, yeah, yeah)\nRan a line down from the sky into my bones\nI still got the voltage\nStill got the voltage\n\n[Outro: hammered riff returns, chant, final crash]\n(Whoa-oh, oh-oh) Voltage!\n(Whoa-oh, oh-oh) Voltage!",
+ "style": "1990 hard rock stadium anthem, very high rasping male rock scream vocal, low male gang chant, 134 BPM, key of B, blues-based, relentless and driving, fast even hammered single-string lead guitar riff that starts alone, crunchy open-chord rhythm guitar, thick simple bass, dry enormous drums entering in stages, one-word shouted chant over the intro, blues-rock guitar solo, drums-and-chant call-and-response bridge, dry loud wide mix, swaggering, electric, defiant, crowd-ready",
+ "negativeTags": "synthesizer, keyboards, piano, drum machine, female vocals, ballad, autotune, EDM, strings",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 270,
+ "callBackUrl": "https://example.com/cb"
+}

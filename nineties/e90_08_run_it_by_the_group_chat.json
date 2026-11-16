@@ -1,0 +1,116 @@
+{
+  "id": "e90_08",
+  "title": "Run It By the Group Chat",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 8,
+  "slug": "e90_08_run_it_by_the_group_chat",
+  "inspiredBy": "Wannabe (Spice Girls, 1996)",
+  "leadVoice": "Five distinct female voices: one husky, one sweet, one loud and brash, one cool, one soulful. Verses are chanted, half rapped, with the others shouting replies. Choruses are unison shouts, not polished harmony. Laughter and ad-libs are left in.",
+  "model": "V6",
+  "style": "1996 British girl group dance-pop, five distinct female voices, chanted half-rapped lead lines with the group shouting answers, unison gang-shout choruses, 110 BPM, B major, stomping bouncing strut, kick and handclap stomp, bright pub piano chords and slides, rubbery funky bass, scratchy wah guitar, synth horn stabs, roll-call rap bridge, soft finger-snap breakdown, laughter and ad-libs left in, dry bright busy mix, cheeky, loud, joyful, playful",
+  "negativeTags": "male lead vocals, slow ballad, distorted guitar, dark mood, trap hi-hats, autotune, EDM drop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: laughter, running footsteps, piano slide, stomping beat]\nAlright, listen up\n\n[Verse 1: chanted lead, the group shouts the answers]\nBefore you get a yes, there's a panel, there's a test\n(Who's on it?) Five of my best\n(What's the question?) Can you hang, can you laugh\nCan you handle all the screenshots in the group chat?\n\n[Chorus: all five in unison, handclaps]\nYou like me? Cute. Run it by the group chat\nLove's a team sport, baby, that's a fact\nIf they say \"who's this?\" then you won't last\nGotta run it, run it, run it by the group chat\nGive me that shoobie-zap, shoobie-zap-zoo\n\n[Verse 2: second chanted lead, the group answers]\nYou can bring the flowers, you can bring the car\n(Does he listen?) That's the bar\n(Does she show up?) Rain or shine\nIf you're good to my people then you're good to mine\n\n[Chorus: all five in unison, handclaps]\nYou like me? Cute. Run it by the group chat\nLove's a team sport, baby, that's a fact\nIf they say \"who's this?\" then you won't last\nGotta run it, run it, run it by the group chat\nGive me that shoobie-zap, shoobie-zap-zoo\n\n[Bridge: roll call rap, each voice takes a line]\nWe got Priya with receipts, we got Jo who never sleeps\nWe got Dee who reads your stars, Kay who checks your car\nAnd Nan's eighty-three and she's meaner than me\nSo mind your manners when you come for tea\n\n[Breakdown: sung softly, piano and finger snaps]\nLovers come and lovers go\nThese five were here before hello\n\n[Final Chorus: everyone shouting, key hits, whistles]\nYou like me? Cute. Run it by the group chat\nLove's a team sport, baby, that's a fact\nIf they say \"who's this?\" then you won't last\nGotta run it, run it, run it by the group chat\nGive me that shoobie-zap, shoobie-zap-zoo\nShoobie-zap, shoobie-zap-zoo\n\n[Outro: laughter, one voice, door slam]\nApproved. For now.",
+  "taskId": "b0b019034c77d3f760042373b815f571",
+  "sunoClipIds": [
+    "094782b1-8b1b-4ed3-81a4-9e8ba44a029c",
+    "478406fb-529b-4c50-8b90-822ae0b37937"
+  ],
+  "created": "Nov 15, 2026 9:20 PM ET",
+  "createTimeMs": 1794795635571,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "094782b1-8b1b-4ed3-81a4-9e8ba44a029c",
+      "durationSec": 208.56,
+      "file": "nineties/e90_08_run_it_by_the_group_chat_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "478406fb-529b-4c50-8b90-822ae0b37937",
+      "durationSec": 208.8,
+      "file": "nineties/e90_08_run_it_by_the_group_chat_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_08_run_it_by_the_group_chat_req.json",
+    "nineties/e90_08_run_it_by_the_group_chat_rec.json"
+  ],
+  "cover": "nineties/covers/e90_08_run_it_by_the_group_chat.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 110 BPM, 4/4, B major. A stomping, bouncing pop-rap strut. Loud, cheeky and fast-moving.\n\nVOICE: Five distinct female voices: one husky, one sweet, one loud and brash, one cool, one soulful. Verses are chanted, half rapped, with the others shouting replies. Choruses are unison shouts, not polished harmony. Laughter and ad-libs are left in.\n\nINSTRUMENTS: A stomping kick and clap pattern. Bright pub-style piano chords and slides. A rubbery, funky bass line. Scratchy wah guitar. Synth horn stabs. Finger snaps and a soft electric piano in the breakdown. Sound effects: footsteps, laughter, a door.\n\nARRANGEMENT MAP: 0:00 Intro, laughter and footsteps, a piano slide, the beat. 0:10 Verse 1. 0:28 Chorus 1. 0:50 Verse 2. 1:08 Chorus 2. 1:30 Bridge, a roll-call with each voice taking a line. 1:48 Breakdown, two soft sung lines over piano and snaps. 2:02 Final chorus, everyone shouting, last line doubled. 2:36 Outro, a laugh, one spoken line, a door slam at 2:50.\n\nPRODUCTION & MIX: Mid-90s British pop: dry, bright and busy, voices loud and slightly rough, nothing over-tuned.\n\nSIGNATURE MOMENT: The nonsense line at the end of each chorus, shouted by all five.\n\nMODERN POINT OF VIEW: The friends have a group chat and one of them is eighty-three. The song works for a girl gang at twenty and for the same women decades later.\n\nEMOTIONAL ARC: Mischief throughout, with two lines of real loyalty in the breakdown.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1996 British girl group dance-pop, five distinct female voices, chanted half-rapped lead lines with the group shouting answers, unison gang-shout choruses, 110 BPM, B major, stomping bouncing strut, kick and handclap stomp, bright pub piano chords and slides, rubbery funky bass, scratchy wah guitar, synth horn stabs, roll-call rap bridge, soft finger-snap breakdown, laughter and ad-libs left in, dry bright busy mix, cheeky, loud, joyful, playful\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nmale lead vocals, slow ballad, distorted guitar, dark mood, trap hi-hats, autotune, EDM drop\n\nWHAT IT IS ABOUT\n\nBefore anyone gets a yes, they have to get past her friends, who are already discussing it.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: friends in their twenties, or the same friends at forty-five vetting second marriages; a family with opinions; a band; or your own conscience, which also has a group chat.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: friendship as the rule, chanted call-and-response verses, a roll-call, and a nonsense phrase in the hook. Designed mishearing: 'shoobie-zap' has no meaning on purpose, and 'run it by the group chat' is heard as 'run it by the cool cat'.",
+  "workbookAtAGlance": "Run It By the Group Chat\n\nBackup titles\nThere's a Panel / Shoobie-Zap\n\nAt a glance\n110 BPM, B major\nVoice: Five women, chanted leads and gang shouts\nLength: about 3 minutes",
+  "qa": {
+    "title": "Run It By the Group Chat",
+    "id": "e90_08",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 208.6,
+        "measuredBpm": 110.0,
+        "bpmFactor": 1,
+        "targetBpm": 110,
+        "bpmErrPct": 0.0,
+        "lufs": -14.2,
+        "peakDbfs": -0.23,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.4,
+        "contentEndSec": 206.3,
+        "vocalCoverage": 0.718,
+        "vocalSpanSec": [
+          0.3,
+          204.8
+        ],
+        "vocalF0MedianHz": 496,
+        "vocalF0P25Hz": 333,
+        "lyricLineRecall": 0.719,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 208.8,
+        "measuredBpm": 110.0,
+        "bpmFactor": 1,
+        "targetBpm": 110,
+        "bpmErrPct": 0.0,
+        "lufs": -13.8,
+        "peakDbfs": -0.37,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.4,
+        "contentEndSec": 207.2,
+        "vocalCoverage": 0.729,
+        "vocalSpanSec": [
+          0.3,
+          187.9
+        ],
+        "vocalF0MedianHz": 394,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.812,
+        "lyricUnclearSections": [
+          "Intro"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

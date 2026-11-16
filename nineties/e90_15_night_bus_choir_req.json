@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Night Bus Choir",
+ "prompt": "[Intro: solo clean electric guitar, delicate chord melody]\n\n[Verse 1: plain, close, guitar only]\nThe number nine pulls out at half past one\nI know every stop, I know every sun-\nburned seat and every flickering sign\nThis town and I keep the same hours, most nights\n\n[Verse 2: bass and soft hi-hat enter]\nShe's seen the things I've done and where\nShe's seen me worse and didn't stare\nThe river keeps what the river's told\nThe streetlights hum and the night is old\n\n[Chorus: full band, warm, voice lifts]\nRide on, ride on\nPast the stop where I came undone\nKeep the doors closed, keep it slow\nThere's a corner I don't need to know\nRide on\n\n[Verse 3: full band, steady]\nThere's a woman with her shoes inside her bag\nA kid asleep against a paper flag\nNobody talks and everybody stays\nWe're all going home in different ways\n\n[Chorus: full band, warm, voice lifts]\nRide on, ride on\nPast the stop where I came undone\nKeep the doors closed, keep it slow\nThere's a corner I don't need to know\nRide on\n\n[Guitar Solo: melodic, clean with a little grit]\n\n[Bridge: drums drop to rim clicks, voice lower]\nThat's the place, the place I left it\nUnder the sign, the winter I lost\nI don't go looking, I don't forget it\nI just don't pay what it cost\n\n[Outro: choir enters, lead ad-libs over it, building]\n(Carry me, carry me home)\nNot alone, not alone\n(Carry me, carry me home)\nI'm not going back there\n(Carry me, carry me home)\nNot alone, not alone\n(Carry me, carry me home)\nRide on",
+ "style": "1992 alternative rock ballad, plain conversational male tenor vocal, mixed gospel-feel choir in the outro, 84 BPM, E major, gentle and unhurried, solo clean electric guitar chord-melody intro with slides and hammer-ons, warm melodic counterpoint bass, drums growing from a hi-hat to a relaxed full groove, melodic lightly overdriven guitar solo, quiet rim-click bridge, choir repeating one line while the lead answers, soft organ, natural warm big-room mix, lonely, tender, redemptive",
+ "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy metal, trap hi-hats, autotune, EDM",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 270,
+ "callBackUrl": "https://example.com/cb"
+}

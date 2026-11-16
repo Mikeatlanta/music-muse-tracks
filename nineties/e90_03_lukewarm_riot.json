@@ -1,0 +1,112 @@
+{
+  "id": "e90_03",
+  "title": "Lukewarm Riot",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 3,
+  "slug": "e90_03_lukewarm_riot",
+  "inspiredBy": "Smells Like Teen Spirit (Nirvana, 1991)",
+  "leadVoice": "Male, hoarse and sandpapery. Verses mumbled and slurred on purpose, low in the mix. Choruses screamed at the top of the range until the voice breaks. Doubled in the chorus only.",
+  "model": "V6",
+  "style": "1991 Seattle grunge alternative rock, hoarse raspy male vocal, mumbled slurred quiet verses and screamed loud choruses, 117 BPM, F minor, four power chords, quiet-loud-quiet dynamics, scratchy muted-string guitar riff, clean two-note verse guitar through a watery chorus pedal, wall of fuzz distortion in the chorus, driving melodic bass, hard-hit live drums with snare flams, simple guitar solo that plays the vocal melody, dry punchy loud mix, sullen, bored, furious, cathartic",
+  "negativeTags": "synthesizer, keyboards, piano, drum machine, female vocals, pop production, autotune, strings",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: scratchy four-chord guitar riff alone, then drums crash in]\n\n[Verse 1: quiet, mumbled, two-note guitar, bass and drums]\nBring the snacks and bring the blame\nEverybody's got the same new name\nI was cool for half a week\nNow I'm famous in my sleep\n\n[Pre-Chorus: building, one word over and over]\nWhatever, whatever, whatever, wait\nWhatever, whatever, is it too late?\n\n[Chorus: loud, screamed, wall of distorted guitar]\nTurn the lights down, we're on fire\nRead the room, the room's a liar\nI feel stupid, I feel fine\nStand in line for a lukewarm riot\nA little bored, a little wired\nOh well, as you were\n\n[Verse 2: quiet, mumbled, two-note guitar]\nI'm the best at being worst\nRaised my hand and still got cursed\nAll my heroes sell me shoes\nI forget which side I choose\n\n[Pre-Chorus: building, one word over and over]\nWhatever, whatever, whatever, wait\nWhatever, whatever, is it too late?\n\n[Chorus: loud, screamed, wall of distorted guitar]\nTurn the lights down, we're on fire\nRead the room, the room's a liar\nI feel stupid, I feel fine\nStand in line for a lukewarm riot\nA little bored, a little wired\nOh well, as you were\n\n[Guitar Solo: plays the verse melody, simple, watery chorus effect]\n\n[Verse 3: quiet, mumbled, voice cracking]\nFound a cause and lost the thread\nSigned a wall that someone read\nIt's a joke until it's not\nTell my mother what I bought\n\n[Pre-Chorus: building, one word over and over]\nWhatever, whatever, whatever, wait\nWhatever, whatever, is it too late?\n\n[Final Chorus: loudest, voice shredding]\nTurn the lights down, we're on fire\nRead the room, the room's a liar\nI feel stupid, I feel fine\nStand in line for a lukewarm riot\nA little bored, a little wired\nOh well, as you were\n\n[Outro: screamed over the riff, feedback, sudden stop]\nAs you were\nAs you were\nAs you were\nAs you were",
+  "taskId": "da8704c16f97a24e1f652c0a729a7270",
+  "sunoClipIds": [
+    "2c2fa0f5-2829-45d5-b884-19cc767e3dc0",
+    "c9ad3061-7f67-4350-ba12-31bcea0c2bcc"
+  ],
+  "created": "Nov 15, 2026 9:20 PM ET",
+  "createTimeMs": 1794795616316,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "2c2fa0f5-2829-45d5-b884-19cc767e3dc0",
+      "durationSec": 253.8,
+      "file": "nineties/e90_03_lukewarm_riot_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c9ad3061-7f67-4350-ba12-31bcea0c2bcc",
+      "durationSec": 253.68,
+      "file": "nineties/e90_03_lukewarm_riot_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_03_lukewarm_riot_req.json",
+    "nineties/e90_03_lukewarm_riot_rec.json"
+  ],
+  "cover": "nineties/covers/e90_03_lukewarm_riot.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 117 BPM, 4/4, F minor. Four power chords the whole way through. Sullen verses, explosive choruses.\n\nVOICE: Male, hoarse and sandpapery. Verses mumbled and slurred on purpose, low in the mix. Choruses screamed at the top of the range until the voice breaks. Doubled in the chorus only.\n\nINSTRUMENTS: One electric guitar: a scratchy, percussive strum of muted strings between chords in the intro, a clean two-note figure through a watery chorus pedal in the verses, then full fuzz distortion. Driving, melodic bass that carries the verses. Hard-hit live drums with a flam on the snare and wide open hi-hats in the chorus. Nothing else.\n\nARRANGEMENT MAP: 0:00 Intro, riff alone for 4 bars, then a drum fill and the full band. 0:25 Verse 1, drops to bass, drums and the two-note guitar. 0:50 Pre-chorus, building. 1:06 Chorus 1, everything loud. 1:31 Verse 2. 1:56 Pre-chorus. 2:12 Chorus 2. 2:37 Guitar solo that simply plays the verse tune. 2:53 Verse 3. 3:10 Pre-chorus. 3:26 Final chorus. 3:51 Outro, the last line screamed four times, feedback, hard stop at 4:05.\n\nPRODUCTION & MIX: Punchy early-90s rock production: dry, loud, drums huge and natural, guitars doubled left and right, almost no reverb.\n\nSIGNATURE MOMENT: The drum fill at 0:08 that throws the whole band onto the riff.\n\nMODERN POINT OF VIEW: The targets are current (attention, outrage, heroes who sell things) and the last verse lets a parent in. The joke is that the anger is real and the riot is only room temperature.\n\nEMOTIONAL ARC: Boredom, contempt, release, and a shrug.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1991 Seattle grunge alternative rock, hoarse raspy male vocal, mumbled slurred quiet verses and screamed loud choruses, 117 BPM, F minor, four power chords, quiet-loud-quiet dynamics, scratchy muted-string guitar riff, clean two-note verse guitar through a watery chorus pedal, wall of fuzz distortion in the chorus, driving melodic bass, hard-hit live drums with snare flams, simple guitar solo that plays the vocal melody, dry punchy loud mix, sullen, bored, furious, cathartic\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, keyboards, piano, drum machine, female vocals, pop production, autotune, strings\n\nWHAT IT IS ABOUT\n\nA crowd that is angry and bored in equal measure queues up for a protest that is only mildly warm. Nobody is sure what it is about, including the singer.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: teenagers today, outraged and scrolling; their parents, who were the originals and now have mortgages; a satire of online fury; or a sincere anthem. It supports all four.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: quiet-loud-quiet, four heavy chords, self-cancelling couplets, a one-word pre-chorus and a title that is a joke. Designed mishearing: the verses are meant to be slurred, and 'a lukewarm riot' comes out as 'a new one, right?', which is exactly what each generation says about its anger.",
+  "workbookAtAGlance": "Lukewarm Riot\n\nBackup titles\nAs You Were / Read the Room\n\nAt a glance\n117 BPM, F minor\nVoice: Raspy male, mumble to scream\nLength: about 4 minutes",
+  "qa": {
+    "title": "Lukewarm Riot",
+    "id": "e90_03",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 253.8,
+        "measuredBpm": 114.8,
+        "bpmFactor": 1,
+        "targetBpm": 117,
+        "bpmErrPct": 1.8,
+        "lufs": -14.0,
+        "peakDbfs": -1.37,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 251.4,
+        "vocalCoverage": 0.59,
+        "vocalSpanSec": [
+          17.8,
+          246.0
+        ],
+        "vocalF0MedianHz": 244,
+        "vocalF0P25Hz": 233,
+        "lyricLineRecall": 0.925,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 253.7,
+        "measuredBpm": 116.1,
+        "bpmFactor": 1,
+        "targetBpm": 117,
+        "bpmErrPct": 0.7,
+        "lufs": -13.7,
+        "peakDbfs": -1.78,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 251.9,
+        "vocalCoverage": 0.56,
+        "vocalSpanSec": [
+          20.0,
+          237.2
+        ],
+        "vocalF0MedianHz": 260,
+        "vocalF0P25Hz": 235,
+        "lyricLineRecall": 0.875,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

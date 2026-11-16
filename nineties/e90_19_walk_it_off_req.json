@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Walk It Off",
+ "prompt": "[Intro: looping orchestral string figure alone, then shuffling drums]\n\n[Verse 1: half sung, half declaimed, over the loop]\nSame grey pavement, same front door\nSame face on the bus as the day before\nThey say you are the sum of what you've done\nI've added it up and I'm still only one\n\n[Pre-Chorus: bass enters, strings double]\nAnd I do change\nI do change\nJust slow, like a coastline\nJust slow, like a name\n\n[Chorus: full band, chiming guitar, the loop continues]\nSo I'm gonna walk it off\nWhatever it was\nThe year, the weight, the word I said\nI'm gonna walk it off\nOne foot, then the other one\nTill the street runs out or the feeling does\n\n[Verse 2: over the loop, more forceful]\nI talk to the kettle, I talk to the cat\nI asked a pigeon once and it left it at that\nThere's a man in the window who looks like my dad\nI nod and he nods and it isn't so bad\n\n[Pre-Chorus: bass and strings]\nAnd I do change\nI do change\nJust slow, like a coastline\nJust slow, like a name\n\n[Chorus: full band, chiming guitar, the loop continues]\nSo I'm gonna walk it off\nWhatever it was\nThe year, the weight, the word I said\nI'm gonna walk it off\nOne foot, then the other one\nTill the street runs out or the feeling does\n\n[Breakdown: drums drop out, strings and voice only]\nNobody's coming to carry me\nNobody's coming, and that's alright\nI've got two good legs and an afternoon\nI've got two good legs and the light\n\n[Final Chorus: drums return, extra strings, ad-libs]\nSo I'm gonna walk it off\nWhatever it was\nThe year, the weight, the word I said\nI'm gonna walk it off\nOne foot, then the other one\nTill the street runs out or the feeling does\n\n[Outro: loop continues, vocal ad-libs, long fade]\nLeft, right\nLeft, right\nWalk it, love\nWalk it off\nLeft, right\nWalk it, love",
+ "style": "1997 Britpop orchestral rock, nasal male baritone vocal, half sung and half declaimed verses, melodic chorus, loose ad-libs over the fade, 86 BPM, A major with a modal unresolved colour, steady walking pace, one short stately orchestral string figure looping unchanged for the whole song, shuffling loose drum beat with strong backbeat, deep simple bass, chiming delayed electric guitar, tambourine, drumless strings-and-voice breakdown, long slow fade, wide strings, dry punchy drums, hypnotic, proud, weary, defiant",
+ "negativeTags": "synth-pop, female lead vocals, rap, heavy metal, guitar solo, trap hi-hats, autotune, EDM drop",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 285,
+ "callBackUrl": "https://example.com/cb"
+}

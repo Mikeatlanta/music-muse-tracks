@@ -1,0 +1,118 @@
+{
+  "id": "e90_11",
+  "title": "Still Got the Voltage",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 11,
+  "slug": "e90_11_still_got_the_voltage",
+  "inspiredBy": "Thunderstruck (AC/DC, 1990)",
+  "leadVoice": "Male, very high and rasping, a controlled shriek that sits above the guitars. Verses are rhythmic and clipped. A gang of low male voices chants the wordless line and shouts the title word and the answers.",
+  "model": "V6",
+  "style": "1990 hard rock stadium anthem, very high rasping male rock scream vocal, low male gang chant, 134 BPM, key of B, blues-based, relentless and driving, fast even hammered single-string lead guitar riff that starts alone, crunchy open-chord rhythm guitar, thick simple bass, dry enormous drums entering in stages, one-word shouted chant over the intro, blues-rock guitar solo, drums-and-chant call-and-response bridge, dry loud wide mix, swaggering, electric, defiant, crowd-ready",
+  "negativeTags": "synthesizer, keyboards, piano, drum machine, female vocals, ballad, autotune, EDM, strings",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 270,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: fast hammered single-string guitar riff alone, hi-hat ticking]\n\n[Chant: low gang voices over the riff, kick drum joins]\n(Whoa-oh, oh-oh) Voltage!\n(Whoa-oh, oh-oh) Voltage!\n(Whoa-oh, oh-oh) Voltage!\n(Whoa-oh, oh-oh) Voltage!\n\n[Verse 1: rasping high vocal, rhythm guitar and full drums crash in]\nI was parked out in the driveway with the engine cold\nSomebody on the radio said I was getting old\nFelt it in my knuckles, felt it in my knees\nThen a spark came crawling up the back of me\n\n[Pre-Chorus: stabs, snare builds]\nAnd the garage door shook\nAnd the neighbours came to look\n\n[Chorus: open ringing chords, gang answers]\nI still got the voltage (yeah, yeah, yeah)\nStill got the voltage (yeah, yeah, yeah)\nRan a line down from the sky into my bones\nI still got the voltage\n\n[Verse 2: rasping high vocal over the riff]\nDug my boots out from the bottom of the stairs\nFound a jacket that remembers when I didn't care\nMy kid said \"who are you?\" and I said \"wait and see\"\nKicked the amp awake and it remembered me\n\n[Pre-Chorus: stabs, snare builds]\nAnd the windows shook\nAnd the whole street came to look\n\n[Chorus: open ringing chords, gang answers]\nI still got the voltage (yeah, yeah, yeah)\nStill got the voltage (yeah, yeah, yeah)\nRan a line down from the sky into my bones\nI still got the voltage\n\n[Guitar Solo: blues-rock, fast runs, wide vibrato]\n\n[Bridge: drums and chant only, call and response]\nPlug it in (plug it in)\nTurn it up (turn it up)\nPlug it in (plug it in)\nBurn it up (burn it up)\n\n[Final Chorus: full band, lead guitar wailing over the top]\nI still got the voltage (yeah, yeah, yeah)\nStill got the voltage (yeah, yeah, yeah)\nRan a line down from the sky into my bones\nI still got the voltage\nStill got the voltage\n\n[Outro: hammered riff returns, chant, final crash]\n(Whoa-oh, oh-oh) Voltage!\n(Whoa-oh, oh-oh) Voltage!",
+  "taskId": "d748e576d8a6095489e915cc219e0d32",
+  "sunoClipIds": [
+    "d4d8de0c-2344-4c0b-86bf-4fa215e00b02",
+    "b07ec201-84ab-4308-bdfd-e45a8c8ce260"
+  ],
+  "created": "Nov 15, 2026 9:20 PM ET",
+  "createTimeMs": 1794795652967,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "d4d8de0c-2344-4c0b-86bf-4fa215e00b02",
+      "durationSec": 269.48,
+      "file": "nineties/e90_11_still_got_the_voltage_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "b07ec201-84ab-4308-bdfd-e45a8c8ce260",
+      "durationSec": 270.0,
+      "file": "nineties/e90_11_still_got_the_voltage_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_11_still_got_the_voltage_req.json",
+    "nineties/e90_11_still_got_the_voltage_rec.json"
+  ],
+  "cover": "nineties/covers/e90_11_still_got_the_voltage.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 134 BPM, 4/4, in B with a blues-rock flavour. Relentless, driving, built for a crowd.\n\nVOICE: Male, very high and rasping, a controlled shriek that sits above the guitars. Verses are rhythmic and clipped. A gang of low male voices chants the wordless line and shouts the title word and the answers.\n\nINSTRUMENTS: Lead electric guitar playing a rapid, even figure of hammered notes on one string, clean but biting. Second electric guitar with a crunchy, open-chord rhythm sound. Thick, simple bass on root notes. A dry, enormous drum kit: hi-hat first, then kick, then the full kit. No keyboards.\n\nARRANGEMENT MAP: 0:00 Intro, the hammered riff alone with a ticking hi-hat. 0:14 The chant enters with a kick drum on every beat. 0:43 Rhythm guitar, bass and full drums crash in for verse 1. 1:11 Pre-chorus. 1:20 Chorus 1. 1:41 Verse 2. 2:09 Pre-chorus. 2:18 Chorus 2. 2:39 Guitar solo over the verse riff. 3:07 Bridge, everything drops to drums and call-and-response shouting. 3:25 Final chorus, with the lead guitar soloing over it. 3:53 Outro, the riff and the chant, last crash at 4:10.\n\nPRODUCTION & MIX: Dry, loud, wide and uncluttered. Two guitars panned apart, drums natural and huge, very little reverb.\n\nSIGNATURE MOMENT: The first shout of the title word at 0:14, when the kick drum joins the riff.\n\nMODERN POINT OF VIEW: The tall tale is now about a middle-aged man in a driveway. The boast is not that he is young, it is that the current still runs. A sub layer under the kick gives it modern weight.\n\nEMOTIONAL ARC: Doubt for two lines, then pure swagger.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1990 hard rock stadium anthem, very high rasping male rock scream vocal, low male gang chant, 134 BPM, key of B, blues-based, relentless and driving, fast even hammered single-string lead guitar riff that starts alone, crunchy open-chord rhythm guitar, thick simple bass, dry enormous drums entering in stages, one-word shouted chant over the intro, blues-rock guitar solo, drums-and-chant call-and-response bridge, dry loud wide mix, swaggering, electric, defiant, crowd-ready\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, keyboards, piano, drum machine, female vocals, ballad, autotune, EDM, strings\n\nWHAT IT IS ABOUT\n\nA man who has been told he is past it sits in his driveway, feels a spark climb his spine, and goes to find his boots.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a mid-life comeback; an athlete returning from injury; an old band reforming; a heart restarted in an ambulance; or a pre-game chant that needs no story at all.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a fast hammered guitar figure that starts alone, a one-word chant, drums that enter in stages, and a tall tale told as a boast. Designed mishearing: 'still got the voltage' is heard as 'still got the old age', which is the joke the song is answering.",
+  "workbookAtAGlance": "Still Got the Voltage\n\nBackup titles\nLine From the Sky / Wait and See\n\nAt a glance\n134 BPM, B (rock, blues-based)\nVoice: High rasping rock scream, gang chant\nLength: about 4 minutes 15",
+  "qa": {
+    "title": "Still Got the Voltage",
+    "id": "e90_11",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 269.5,
+        "measuredBpm": 134.2,
+        "bpmFactor": 1,
+        "targetBpm": 134,
+        "bpmErrPct": 0.2,
+        "lufs": -12.5,
+        "peakDbfs": -0.27,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 268.7,
+        "vocalCoverage": 0.499,
+        "vocalSpanSec": [
+          1.6,
+          268.0
+        ],
+        "vocalF0MedianHz": 662,
+        "vocalF0P25Hz": 415,
+        "lyricLineRecall": 0.886,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 270.0,
+        "measuredBpm": 134.2,
+        "bpmFactor": 1,
+        "targetBpm": 134,
+        "bpmErrPct": 0.2,
+        "lufs": -12.8,
+        "peakDbfs": -0.54,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 268.6,
+        "vocalCoverage": 0.601,
+        "vocalSpanSec": [
+          2.8,
+          267.7
+        ],
+        "vocalF0MedianHz": 621,
+        "vocalF0P25Hz": 618,
+        "lyricLineRecall": 0.657,
+        "lyricUnclearSections": [
+          "Chant",
+          "Bridge",
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

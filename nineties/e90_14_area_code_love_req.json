@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Area Code Love",
+ "prompt": "[Intro: pounding piano riff, horn stabs, talk-box voice]\nArea code love\n(Where you from? Throw it up)\n\n[Verse 1: first rapper, booming and relaxed]\nTouchdown, wheels on the ground, back in the place\nWhere the corner store man still remembers my face\nSame cracks in the court, same bend in the rim\nSame old-timer on the stoop, and I wave at him\nBeen around the world on a ticket and a dream\nAte in rooms where the forks come in teams\nBut nothing hits like a plate from the truck\nPaper napkin, hot sauce, and a dollar for luck\nRoll the windows down, let the summer in\nEvery block's got a story and a next of kin\n\n[Chorus: talk-box sings, crowd shouts the answers]\nArea code love\n(Where you from? Throw it up)\nArea code love\n(Three little numbers, say them loud)\nWe keep it rocking\nFrom the block to the back yard\nArea code love\n\n[Verse 2: second rapper, faster and brighter]\nNow my auntie's on the porch with a pitcher and a fan\nCousin on the grill with a spatula in hand\nKids on the bikes doing circles in the street\nDJ in the driveway with the trunk for a seat\nI left with a bag and a busted phone\nCame back with a kid and a little bit of chrome\nThey put a coffee shop where the barber used to be\nBut the bass from that Chevy still belongs to me\nSo lift your cup if you ever had to roam\nAnd you still know the way that the streetlights take you home\n\n[Chorus: talk-box sings, crowd shouts the answers]\nArea code love\n(Where you from? Throw it up)\nArea code love\n(Three little numbers, say them loud)\nWe keep it rocking\nFrom the block to the back yard\nArea code love\n\n[Bridge: roll call, both rappers trading, claps on every beat]\nFrom the two-oh-six to the three-oh-five\nThree-one-two, keep the party alive\nSeven-one-three and the four-oh-four\nTwo-one-three kicking in the door\nNine-oh-seven and the eight-oh-eight\nIf I missed your code, go ahead and celebrate\n\n[Final Chorus: talk-box and full crowd, horns on top]\nArea code love\n(Where you from? Throw it up)\nArea code love\n(Three little numbers, say them loud)\nWe keep it rocking\nFrom the block to the back yard\nArea code love\n\n[Outro: talk-box alone, piano riff fades]\nHome, home, home\nArea code love",
+ "style": "1995 West Coast G-funk party hip-hop, two male rappers, one deep booming and relaxed, one higher and quicker, hook sung through a talk-box so the synthesizer sounds like a robotic soulful voice, crowd shouting answers, 92 BPM, G minor, rolling bouncing party groove, pounding repeating acoustic piano riff, punchy horn section stabs, fat sliding synth bass, high whining sine synth lead, heavy drums with hard claps, wah guitar scratches, huge clean low end, bright wide mix, celebratory, sunlit, homecoming",
+ "negativeTags": "female lead vocals, distorted rock guitar, slow ballad, dark mood, trap hi-hats, autotune, EDM drop",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 255,
+ "callBackUrl": "https://example.com/cb"
+}

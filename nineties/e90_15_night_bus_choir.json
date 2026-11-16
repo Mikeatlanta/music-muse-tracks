@@ -1,0 +1,116 @@
+{
+  "id": "e90_15",
+  "title": "Night Bus Choir",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 15,
+  "slug": "e90_15_night_bus_choir",
+  "inspiredBy": "Under the Bridge (Red Hot Chili Peppers, 1992)",
+  "leadVoice": "Male tenor with a plain, unpolished, conversational tone and a slight catch. No showing off. Low and private in the bridge. In the outro he sings short lines between the phrases of a mixed choir with a gospel feel.",
+  "model": "V6",
+  "style": "1992 alternative rock ballad, plain conversational male tenor vocal, mixed gospel-feel choir in the outro, 84 BPM, E major, gentle and unhurried, solo clean electric guitar chord-melody intro with slides and hammer-ons, warm melodic counterpoint bass, drums growing from a hi-hat to a relaxed full groove, melodic lightly overdriven guitar solo, quiet rim-click bridge, choir repeating one line while the lead answers, soft organ, natural warm big-room mix, lonely, tender, redemptive",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, heavy metal, trap hi-hats, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 270,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: solo clean electric guitar, delicate chord melody]\n\n[Verse 1: plain, close, guitar only]\nThe number nine pulls out at half past one\nI know every stop, I know every sun-\nburned seat and every flickering sign\nThis town and I keep the same hours, most nights\n\n[Verse 2: bass and soft hi-hat enter]\nShe's seen the things I've done and where\nShe's seen me worse and didn't stare\nThe river keeps what the river's told\nThe streetlights hum and the night is old\n\n[Chorus: full band, warm, voice lifts]\nRide on, ride on\nPast the stop where I came undone\nKeep the doors closed, keep it slow\nThere's a corner I don't need to know\nRide on\n\n[Verse 3: full band, steady]\nThere's a woman with her shoes inside her bag\nA kid asleep against a paper flag\nNobody talks and everybody stays\nWe're all going home in different ways\n\n[Chorus: full band, warm, voice lifts]\nRide on, ride on\nPast the stop where I came undone\nKeep the doors closed, keep it slow\nThere's a corner I don't need to know\nRide on\n\n[Guitar Solo: melodic, clean with a little grit]\n\n[Bridge: drums drop to rim clicks, voice lower]\nThat's the place, the place I left it\nUnder the sign, the winter I lost\nI don't go looking, I don't forget it\nI just don't pay what it cost\n\n[Outro: choir enters, lead ad-libs over it, building]\n(Carry me, carry me home)\nNot alone, not alone\n(Carry me, carry me home)\nI'm not going back there\n(Carry me, carry me home)\nNot alone, not alone\n(Carry me, carry me home)\nRide on",
+  "taskId": "8491d96d203a0968c6f59a112fcd955f",
+  "sunoClipIds": [
+    "ed87ac3a-3e27-4eb0-b748-cdc0070af6dc",
+    "f155b972-9519-4704-bfbd-58b89ea89def"
+  ],
+  "created": "Nov 15, 2026 9:21 PM ET",
+  "createTimeMs": 1794795664763,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ed87ac3a-3e27-4eb0-b748-cdc0070af6dc",
+      "durationSec": 269.8,
+      "file": "nineties/e90_15_night_bus_choir_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "f155b972-9519-4704-bfbd-58b89ea89def",
+      "durationSec": 269.6,
+      "file": "nineties/e90_15_night_bus_choir_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_15_night_bus_choir_req.json",
+    "nineties/e90_15_night_bus_choir_rec.json"
+  ],
+  "cover": "nineties/covers/e90_15_night_bus_choir.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 84 BPM, 4/4, E major. Gentle, unhurried, a late-night walking pace that widens into a hymn.\n\nVOICE: Male tenor with a plain, unpolished, conversational tone and a slight catch. No showing off. Low and private in the bridge. In the outro he sings short lines between the phrases of a mixed choir with a gospel feel.\n\nINSTRUMENTS: A clean electric guitar playing a chord-melody in the style of late-60s soul-rock, with little slides and hammer-ons. Warm, melodic bass that plays counter-lines. Drums that start as a hi-hat and grow to a full, relaxed groove. A second guitar with light overdrive for the solo. A mixed choir. Soft organ under the outro.\n\nARRANGEMENT MAP: 0:00 Intro, solo guitar. 0:20 Verse 1, voice and guitar. 0:46 Verse 2, bass and hi-hat. 1:12 Chorus 1, full band. 1:36 Verse 3. 2:02 Chorus 2. 2:26 Guitar solo. 2:48 Bridge, drums down to rim clicks, the hard memory. 3:14 Outro, the choir enters and repeats one line while the lead answers and the band builds. The band drops away and the choir ends alone at 4:15.\n\nPRODUCTION & MIX: Early-90s rock recorded in a big room: natural, warm and open, guitar very present, choir wide and reverberant.\n\nSIGNATURE MOMENT: The choir's entrance at 3:14.\n\nMODERN POINT OF VIEW: The narrator is years past the worst of it. He is not confessing, he is riding by. Verse 3 looks at the other passengers, which the original, written from inside the loneliness, could not.\n\nEMOTIONAL ARC: Solitude, companionship, a hard memory passed, then being carried.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1992 alternative rock ballad, plain conversational male tenor vocal, mixed gospel-feel choir in the outro, 84 BPM, E major, gentle and unhurried, solo clean electric guitar chord-melody intro with slides and hammer-ons, warm melodic counterpoint bass, drums growing from a hi-hat to a relaxed full groove, melodic lightly overdriven guitar solo, quiet rim-click bridge, choir repeating one line while the lead answers, soft organ, natural warm big-room mix, lonely, tender, redemptive\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, drum machine, female lead vocals, rap, heavy metal, trap hi-hats, autotune, EDM\n\nWHAT IT IS ABOUT\n\nA man rides the last bus through a city that knows him well, past a stop he does not get off at any more.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: recovery, with the stop as the place it went wrong; grief; a night-shift worker's commute; someone new in a city with nobody to call. The choir at the end can be the other passengers or something larger.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: a place as the companion, a gentle surface over a hard memory, a solo guitar opening and a choir ending. Designed mishearing: 'ride on' is heard as 'right on' and 'write home', and the outro's 'not alone' as 'not at home'.",
+  "workbookAtAGlance": "Night Bus Choir\n\nBackup titles\nThe Number Nine / Ride On\n\nAt a glance\n84 BPM, E major\nVoice: Plain male tenor, choir outro\nLength: about 4 minutes 15",
+  "qa": {
+    "title": "Night Bus Choir",
+    "id": "e90_15",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.02 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 269.8,
+        "measuredBpm": 84.0,
+        "bpmFactor": 1,
+        "targetBpm": 84,
+        "bpmErrPct": 0.0,
+        "lufs": -13.1,
+        "peakDbfs": 0.02,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 268.3,
+        "vocalCoverage": 0.587,
+        "vocalSpanSec": [
+          12.1,
+          265.4
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 189,
+        "lyricLineRecall": 0.839,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.06 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 269.6,
+        "measuredBpm": 84.0,
+        "bpmFactor": 1,
+        "targetBpm": 84,
+        "bpmErrPct": 0.0,
+        "lufs": -13.5,
+        "peakDbfs": 0.06,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 268.0,
+        "vocalCoverage": 0.573,
+        "vocalSpanSec": [
+          15.0,
+          262.0
+        ],
+        "vocalF0MedianHz": 220,
+        "vocalF0P25Hz": 186,
+        "lyricLineRecall": 0.903,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

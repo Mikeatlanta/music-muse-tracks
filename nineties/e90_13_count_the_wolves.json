@@ -1,0 +1,112 @@
+{
+  "id": "e90_13",
+  "title": "Count the Wolves",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 13,
+  "slug": "e90_13_count_the_wolves",
+  "inspiredBy": "Enter Sandman (Metallica, 1991)",
+  "leadVoice": "Male baritone, gruff and percussive, barking the ends of lines with a growl. Low and almost crooned in the bridge. A whispered adult voice and a clear, calm child's voice in the spoken section. Gang shouts on the first two words of each chorus.",
+  "model": "V6",
+  "style": "1991 mainstream heavy metal, gruff male baritone vocal, barked and growled, gang shouts on the chorus, 123 BPM, E minor, heavy mid-tempo stomp, clean eerie guitar intro that builds layer by layer into a thick palm-muted distorted riff, deep clanking bass locked to the kick, powerful drums with dry cracking snare and booming toms, fast wah-pedal guitar solo, whispered spoken section over clean guitar with a child's voice answering, thick dry wide mix, menacing, controlled, ominous",
+  "negativeTags": "synthesizer, keyboards, piano, drum machine, female lead vocals, pop production, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 270,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: clean eerie guitar figure, toms build, distorted riff arrives]\n\n[Verse 1: gruff, barked, heavy palm-muted riff]\nLock the door and check it twice\nLeave the phone to charge its light\nClose your eyes, it's getting late\nEvery worry learns to wait\n\n[Pre-Chorus: half-time, menacing]\nKeep the blanket to your chin\nDon't ask what the dark lets in\n\n[Chorus: huge, gang shout on the first words]\nLights out\nCount the wolves\nOne for the money, two for the years\nThree for the things you can't undo\nLights out\nThey're counting you\n\n[Verse 2: gruff, barked, riff heavier]\nSomething's ticking in the pipes\nSomething's due you didn't write\nThree a.m. is at the door\nIt's been here many times before\n\n[Pre-Chorus: half-time, menacing]\nKeep the blanket to your chin\nDon't ask what the dark lets in\n\n[Chorus: huge, gang shout on the first words]\nLights out\nCount the wolves\nOne for the money, two for the years\nThree for the things you can't undo\nLights out\nThey're counting you\n\n[Guitar Solo: wah pedal, fast, wailing]\n\n[Spoken: clean guitar only, tired man whispers, a child answers]\nOne: did I lock it?\n(Go to sleep, Dad)\nTwo: did I say it?\n(Go to sleep, Dad)\nThree: will they be alright?\n(We're alright. Go to sleep.)\n\n[Bridge: riff returns, building, sung low]\nHush now, grown-up, close your eyes\nMorning always tells the night it lies\n\n[Final Chorus: heaviest, double-time drums at the end]\nLights out\nCount the wolves\nOne for the money, two for the years\nThree for the things you can't undo\nLights out\nThey're counting you\n\n[Outro: riff strips back layer by layer to the clean guitar, fade]\nLights out\nLights out",
+  "taskId": "4555b178173d25818015ef5ace320f6f",
+  "sunoClipIds": [
+    "319b7f76-e36f-4bd4-bf7d-c646f73e4667",
+    "ad62f8f7-efcd-4362-9483-21e7d6b5bc91"
+  ],
+  "created": "Nov 15, 2026 9:20 PM ET",
+  "createTimeMs": 1794795657047,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "319b7f76-e36f-4bd4-bf7d-c646f73e4667",
+      "durationSec": 269.16,
+      "file": "nineties/e90_13_count_the_wolves_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ad62f8f7-efcd-4362-9483-21e7d6b5bc91",
+      "durationSec": 269.6,
+      "file": "nineties/e90_13_count_the_wolves_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_13_count_the_wolves_req.json",
+    "nineties/e90_13_count_the_wolves_rec.json"
+  ],
+  "cover": "nineties/covers/e90_13_count_the_wolves.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 123 BPM, 4/4, E minor. A heavy, mid-tempo stomp with a swing in the riff. Menacing and controlled.\n\nVOICE: Male baritone, gruff and percussive, barking the ends of lines with a growl. Low and almost crooned in the bridge. A whispered adult voice and a clear, calm child's voice in the spoken section. Gang shouts on the first two words of each chorus.\n\nINSTRUMENTS: A clean electric guitar playing a slow, uneasy figure. Layers of tightly palm-muted, heavily distorted rhythm guitars. Deep, clanking bass locked to the kick. A powerful drum kit with a dry, cracking snare and booming toms. A lead guitar with a wah pedal for the solo. No keyboards.\n\nARRANGEMENT MAP: 0:00 Intro, clean guitar alone, toms and bass join, the distortion fades in and the full riff lands at 0:38. 0:55 Verse 1. 1:14 Pre-chorus in half time. 1:24 Chorus 1. 1:47 Verse 2. 2:06 Pre-chorus. 2:16 Chorus 2. 2:39 Guitar solo with wah. 3:02 Spoken section over the clean guitar. 3:22 Bridge, the riff returns under two sung lines. 3:34 Final chorus. 3:57 Outro, the layers peel away in reverse until the clean guitar is alone, fading by 4:20.\n\nPRODUCTION & MIX: Early-90s big-budget metal: thick, dry and very wide, guitars quadruple-tracked, the kick and snare up front, vocals doubled.\n\nSIGNATURE MOMENT: The spoken count at 3:02 and the child's voice answering.\n\nMODERN POINT OF VIEW: The roles are reversed. The fears are an adult's list and it is the child who says everything is fine. That makes the heaviest song in the pack one of the gentlest.\n\nEMOTIONAL ARC: Dread, menace, then reassurance from an unexpected direction.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1991 mainstream heavy metal, gruff male baritone vocal, barked and growled, gang shouts on the chorus, 123 BPM, E minor, heavy mid-tempo stomp, clean eerie guitar intro that builds layer by layer into a thick palm-muted distorted riff, deep clanking bass locked to the kick, powerful drums with dry cracking snare and booming toms, fast wah-pedal guitar solo, whispered spoken section over clean guitar with a child's voice answering, thick dry wide mix, menacing, controlled, ominous\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, keyboards, piano, drum machine, female lead vocals, pop production, autotune, EDM\n\nWHAT IT IS ABOUT\n\nThe monster under the bed grew up with us. Now it is the three o'clock list of worries, and the one lying awake is the parent.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: adult insomnia; a child's nightmare, exactly as before; debt; a soldier's night watch; or a menacing entrance theme. In the spoken section the child comforts the adult.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: comfort turned to threat, a clean riff that builds by layers, a two-syllable chorus shout, and a spoken call-and-response with a child. Designed mishearing: 'count the wolves' is heard as 'count the walls', which is what the sleepless do.",
+  "workbookAtAGlance": "Count the Wolves\n\nBackup titles\nThree A.M. Is at the Door / Go to Sleep, Dad\n\nAt a glance\n123 BPM, E minor\nVoice: Gruff male baritone, bark and growl\nLength: about 4 minutes 15",
+  "qa": {
+    "title": "Count the Wolves",
+    "id": "e90_13",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 269.2,
+        "measuredBpm": 126.0,
+        "bpmFactor": 1,
+        "targetBpm": 123,
+        "bpmErrPct": 2.5,
+        "lufs": -12.8,
+        "peakDbfs": -0.28,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 267.3,
+        "vocalCoverage": 0.459,
+        "vocalSpanSec": [
+          27.8,
+          250.0
+        ],
+        "vocalF0MedianHz": 529,
+        "vocalF0P25Hz": 281,
+        "lyricLineRecall": 0.812,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 269.6,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 123,
+        "bpmErrPct": 0.0,
+        "lufs": -13.2,
+        "peakDbfs": -1.4,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.4,
+        "contentEndSec": 268.0,
+        "vocalCoverage": 0.449,
+        "vocalSpanSec": [
+          30.0,
+          254.3
+        ],
+        "vocalF0MedianHz": 314,
+        "vocalF0P25Hz": 288,
+        "lyricLineRecall": 0.812,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "e90_19",
+  "title": "Walk It Off",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 19,
+  "slug": "e90_19_walk_it_off",
+  "inspiredBy": "Bitter Sweet Symphony (The Verve, 1997)",
+  "leadVoice": "Male baritone with a nasal northern English edge. Verses are half sung and half declaimed, like someone talking to himself in the street. Choruses are fuller and more melodic. Long, loose ad-libs over the fade.",
+  "model": "V6",
+  "style": "1997 Britpop orchestral rock, nasal male baritone vocal, half sung and half declaimed verses, melodic chorus, loose ad-libs over the fade, 86 BPM, A major with a modal unresolved colour, steady walking pace, one short stately orchestral string figure looping unchanged for the whole song, shuffling loose drum beat with strong backbeat, deep simple bass, chiming delayed electric guitar, tambourine, drumless strings-and-voice breakdown, long slow fade, wide strings, dry punchy drums, hypnotic, proud, weary, defiant",
+  "negativeTags": "synth-pop, female lead vocals, rap, heavy metal, guitar solo, trap hi-hats, autotune, EDM drop",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: looping orchestral string figure alone, then shuffling drums]\n\n[Verse 1: half sung, half declaimed, over the loop]\nSame grey pavement, same front door\nSame face on the bus as the day before\nThey say you are the sum of what you've done\nI've added it up and I'm still only one\n\n[Pre-Chorus: bass enters, strings double]\nAnd I do change\nI do change\nJust slow, like a coastline\nJust slow, like a name\n\n[Chorus: full band, chiming guitar, the loop continues]\nSo I'm gonna walk it off\nWhatever it was\nThe year, the weight, the word I said\nI'm gonna walk it off\nOne foot, then the other one\nTill the street runs out or the feeling does\n\n[Verse 2: over the loop, more forceful]\nI talk to the kettle, I talk to the cat\nI asked a pigeon once and it left it at that\nThere's a man in the window who looks like my dad\nI nod and he nods and it isn't so bad\n\n[Pre-Chorus: bass and strings]\nAnd I do change\nI do change\nJust slow, like a coastline\nJust slow, like a name\n\n[Chorus: full band, chiming guitar, the loop continues]\nSo I'm gonna walk it off\nWhatever it was\nThe year, the weight, the word I said\nI'm gonna walk it off\nOne foot, then the other one\nTill the street runs out or the feeling does\n\n[Breakdown: drums drop out, strings and voice only]\nNobody's coming to carry me\nNobody's coming, and that's alright\nI've got two good legs and an afternoon\nI've got two good legs and the light\n\n[Final Chorus: drums return, extra strings, ad-libs]\nSo I'm gonna walk it off\nWhatever it was\nThe year, the weight, the word I said\nI'm gonna walk it off\nOne foot, then the other one\nTill the street runs out or the feeling does\n\n[Outro: loop continues, vocal ad-libs, long fade]\nLeft, right\nLeft, right\nWalk it, love\nWalk it off\nLeft, right\nWalk it, love",
+  "taskId": "07cfe497744863407ef9e916ed93dfe1",
+  "sunoClipIds": [
+    "011b5924-5e8e-440a-b8f8-e1f11906904f",
+    "27c608df-8cf5-44dd-bfec-12c73b1f9da7"
+  ],
+  "created": "Nov 15, 2026 9:21 PM ET",
+  "createTimeMs": 1794795685633,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "011b5924-5e8e-440a-b8f8-e1f11906904f",
+      "durationSec": 284.4,
+      "file": "nineties/e90_19_walk_it_off_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "27c608df-8cf5-44dd-bfec-12c73b1f9da7",
+      "durationSec": 284.52,
+      "file": "nineties/e90_19_walk_it_off_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_19_walk_it_off_req.json",
+    "nineties/e90_19_walk_it_off_rec.json"
+  ],
+  "cover": "nineties/covers/e90_19_walk_it_off.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 86 BPM, 4/4, in A with a modal, unresolved colour. A steady walking pace. Hypnotic, proud, a little weary.\n\nVOICE: Male baritone with a nasal northern English edge. Verses are half sung and half declaimed, like someone talking to himself in the street. Choruses are fuller and more melodic. Long, loose ad-libs over the fade.\n\nINSTRUMENTS: An orchestral string section playing one short, stately figure that repeats, unchanged, from the first bar to the last. A shuffling, loose drum beat with a strong backbeat. Deep, simple bass. Chiming electric guitar with delay in the choruses. Extra high strings and a distant bell in the final chorus. Tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, the string loop alone for four bars, then the drums. 0:22 Verse 1. 0:45 Pre-chorus, bass enters. 1:07 Chorus 1. 1:35 Verse 2. 1:57 Pre-chorus. 2:19 Chorus 2. 2:47 Breakdown, drums out, strings and voice. 3:09 Drums return for the final chorus with extra strings. 3:37 Outro, the loop continues under ad-libs and fades out very slowly by 4:30.\n\nPRODUCTION & MIX: Late-90s British rock with a hip-hop sense of loop and beat: wide strings, dry punchy drums, vocal slightly distant, a long fade.\n\nSIGNATURE MOMENT: The four bars of strings alone at the start. The song is recognisable before the drums arrive.\n\nMODERN POINT OF VIEW: The original insists nothing changes. This narrator is older and has noticed that he does change, at the speed of a coastline. The self-reliance in the breakdown is offered as good news.\n\nEMOTIONAL ARC: Monotony, wry humour, self-acceptance, and forward motion.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1997 Britpop orchestral rock, nasal male baritone vocal, half sung and half declaimed verses, melodic chorus, loose ad-libs over the fade, 86 BPM, A major with a modal unresolved colour, steady walking pace, one short stately orchestral string figure looping unchanged for the whole song, shuffling loose drum beat with strong backbeat, deep simple bass, chiming delayed electric guitar, tambourine, drumless strings-and-voice breakdown, long slow fade, wide strings, dry punchy drums, hypnotic, proud, weary, defiant\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynth-pop, female lead vocals, rap, heavy metal, guitar solo, trap hi-hats, autotune, EDM drop\n\nWHAT IT IS ABOUT\n\nA man walks the same street he has always walked and decides that walking is the cure, for whatever it was.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: grief; anger; getting sober; getting fit at fifty; or leaving a job. 'It' is never named. Where the original says a person cannot change, this one says change is real and very slow.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: an unchanging string loop, a walking pulse, blunt lines about ordinary life, and no resolution. Designed mishearing: 'walk it off' is heard as 'walk it, love', and the outro sings exactly that.",
+  "workbookAtAGlance": "Walk It Off\n\nBackup titles\nSlow Like a Coastline / One Foot, Then the Other\n\nAt a glance\n86 BPM, A major (modal)\nVoice: Nasal male baritone, half sung, half declaimed\nLength: about 4 minutes 30",
+  "qa": {
+    "title": "Walk It Off",
+    "id": "e90_19",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.4,
+        "measuredBpm": 88.3,
+        "bpmFactor": 1,
+        "targetBpm": 86,
+        "bpmErrPct": 2.7,
+        "lufs": -12.2,
+        "peakDbfs": -0.69,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 282.5,
+        "vocalCoverage": 0.623,
+        "vocalSpanSec": [
+          23.3,
+          267.4
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 224,
+        "lyricLineRecall": 0.854,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.5,
+        "measuredBpm": 86.9,
+        "bpmFactor": 1,
+        "targetBpm": 86,
+        "bpmErrPct": 1.0,
+        "lufs": -12.3,
+        "peakDbfs": -1.58,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.6,
+        "contentEndSec": 282.5,
+        "vocalCoverage": 0.662,
+        "vocalSpanSec": [
+          21.9,
+          254.2
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 274,
+        "lyricLineRecall": 0.878,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}

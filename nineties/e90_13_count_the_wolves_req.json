@@ -1,0 +1,16 @@
+{
+ "model": "V6",
+ "customMode": true,
+ "instrumental": false,
+ "title": "Count the Wolves",
+ "prompt": "[Intro: clean eerie guitar figure, toms build, distorted riff arrives]\n\n[Verse 1: gruff, barked, heavy palm-muted riff]\nLock the door and check it twice\nLeave the phone to charge its light\nClose your eyes, it's getting late\nEvery worry learns to wait\n\n[Pre-Chorus: half-time, menacing]\nKeep the blanket to your chin\nDon't ask what the dark lets in\n\n[Chorus: huge, gang shout on the first words]\nLights out\nCount the wolves\nOne for the money, two for the years\nThree for the things you can't undo\nLights out\nThey're counting you\n\n[Verse 2: gruff, barked, riff heavier]\nSomething's ticking in the pipes\nSomething's due you didn't write\nThree a.m. is at the door\nIt's been here many times before\n\n[Pre-Chorus: half-time, menacing]\nKeep the blanket to your chin\nDon't ask what the dark lets in\n\n[Chorus: huge, gang shout on the first words]\nLights out\nCount the wolves\nOne for the money, two for the years\nThree for the things you can't undo\nLights out\nThey're counting you\n\n[Guitar Solo: wah pedal, fast, wailing]\n\n[Spoken: clean guitar only, tired man whispers, a child answers]\nOne: did I lock it?\n(Go to sleep, Dad)\nTwo: did I say it?\n(Go to sleep, Dad)\nThree: will they be alright?\n(We're alright. Go to sleep.)\n\n[Bridge: riff returns, building, sung low]\nHush now, grown-up, close your eyes\nMorning always tells the night it lies\n\n[Final Chorus: heaviest, double-time drums at the end]\nLights out\nCount the wolves\nOne for the money, two for the years\nThree for the things you can't undo\nLights out\nThey're counting you\n\n[Outro: riff strips back layer by layer to the clean guitar, fade]\nLights out\nLights out",
+ "style": "1991 mainstream heavy metal, gruff male baritone vocal, barked and growled, gang shouts on the chorus, 123 BPM, E minor, heavy mid-tempo stomp, clean eerie guitar intro that builds layer by layer into a thick palm-muted distorted riff, deep clanking bass locked to the kick, powerful drums with dry cracking snare and booming toms, fast wah-pedal guitar solo, whispered spoken section over clean guitar with a child's voice answering, thick dry wide mix, menacing, controlled, ominous",
+ "negativeTags": "synthesizer, keyboards, piano, drum machine, female lead vocals, pop production, autotune, EDM",
+ "vocalGender": "m",
+ "styleWeight": 0.65,
+ "weirdnessConstraint": 0.5,
+ "audioWeight": 0.65,
+ "variety": 0,
+ "duration": 270,
+ "callBackUrl": "https://example.com/cb"
+}

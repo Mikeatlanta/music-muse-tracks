@@ -1,0 +1,116 @@
+{
+  "id": "e90_05",
+  "title": "Wrong Room",
+  "collection": "nineties",
+  "album": "90s Reimagined",
+  "track": 5,
+  "slug": "e90_05_wrong_room",
+  "inspiredBy": "Creep (Radiohead, 1992)",
+  "leadVoice": "Male tenor, fragile and slightly choirboy in the verses, opening into a full, cracked chest voice in the chorus. The bridge is long held notes in a pure, high falsetto. Unprocessed and close.",
+  "model": "V6",
+  "style": "1992 British alternative rock ballad, fragile male tenor vocal, whispered verses, cracked full-voice chorus and a soaring pure falsetto bridge, 92 BPM, A major, hushed then violent, clean slow arpeggiated electric guitar, two brutal dead-string muted guitar scrapes before each chorus, thick distorted guitar chords in the chorus, soft simple bass, restrained drums that crash in, single-note piano in the quiet final chorus, dry raw room mix, awestruck, ashamed, anguished, tender",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, upbeat, EDM, trap hi-hats, autotune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "90s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: clean arpeggiated guitar, soft bass and brushed drums]\n\n[Verse 1: fragile, almost whispered]\nWhen you came in, the whole place learned to breathe\nI held a paper cup like a reprieve\nYou talk like water running over stone\nI'm standing here rehearsing my hello\n\n[Pre-Chorus: two harsh muted guitar scrapes]\n\n[Chorus: loud, distorted guitars, voice breaks open]\nBut I think I'm in the wrong room\nI think I read the sign wrong\nEverybody here knows the words\nI don't even know the song\nI'm in the wrong room\n\n[Verse 2: fragile again, guitar arpeggio]\nI'd give a year to be the way you laugh\nTo take up space and never do the math\nYou look like you were asked and said okay\nI look like someone holding up the way\n\n[Pre-Chorus: two harsh muted guitar scrapes]\n\n[Chorus: loud, distorted guitars, voice breaks open]\nBut I think I'm in the wrong room\nI think I read the sign wrong\nEverybody here knows the words\nI don't even know the song\nI'm in the wrong room\n\n[Bridge: soaring falsetto over full distortion]\nThere you go\nThrough the door I never found\nGo, go, go\nGo\n\n[Verse 3: suddenly quiet, voice and one guitar]\nWhatever keeps you bright\nWhatever makes you stay\nI would have said it right\nIf I had found the way\n\n[Final Chorus: soft, piano enters, no distortion]\nBut I think I'm in the wrong room\nI think I read the sign wrong\nMaybe everybody here\nIs humming the wrong song\nIn the wrong room\n\n[Outro: single piano notes, guitar arpeggio slows and stops]\nThe wrong room",
+  "taskId": "9cd313d3158dfff64d6e7c14afeace50",
+  "sunoClipIds": [
+    "bc1b7c1e-4a08-4502-bfa6-1e4cc0c51d0b",
+    "cab3af97-3ea7-4737-b9c8-6550979924f9"
+  ],
+  "created": "Nov 15, 2026 9:20 PM ET",
+  "createTimeMs": 1794795622321,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "bc1b7c1e-4a08-4502-bfa6-1e4cc0c51d0b",
+      "durationSec": 254.36,
+      "file": "nineties/e90_05_wrong_room_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "cab3af97-3ea7-4737-b9c8-6550979924f9",
+      "durationSec": 254.4,
+      "file": "nineties/e90_05_wrong_room_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "nineties/e90_05_wrong_room_req.json",
+    "nineties/e90_05_wrong_room_rec.json"
+  ],
+  "cover": "nineties/covers/e90_05_wrong_room.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 92 BPM, 4/4, A major with a last chord that will not resolve. Hushed, then violent, then hushed.\n\nVOICE: Male tenor, fragile and slightly choirboy in the verses, opening into a full, cracked chest voice in the chorus. The bridge is long held notes in a pure, high falsetto. Unprocessed and close.\n\nINSTRUMENTS: Clean electric guitar playing slow arpeggios. A second electric guitar that stays silent until it makes two brutal, dead-string scrapes, then plays thick distorted chords. Soft, simple bass. Drums played with restraint, then crashing. A piano that appears only in the last chorus, single notes.\n\nARRANGEMENT MAP: 0:00 Intro, arpeggio with bass and brushed drums. 0:21 Verse 1. 0:52 Two guitar scrapes, a bar apart. 0:57 Chorus 1, loud. 1:23 Verse 2, quiet again. 1:54 Scrapes. 1:59 Chorus 2. 2:25 Bridge, falsetto over the loudest playing in the song. 2:56 Verse 3, everything drops to one guitar and voice. 3:22 Final chorus, soft, with piano instead of distortion. 3:50 Outro, piano notes thin out, final word at 4:05.\n\nPRODUCTION & MIX: Early-90s alternative: dry verse, wide and noisy chorus, almost no studio polish, real room sound on the drums.\n\nSIGNATURE MOMENT: The two guitar scrapes at 0:52. They sound like a mistake and are the hook.\n\nMODERN POINT OF VIEW: The final chorus turns the song outward. The narrator suspects that everyone at the party, on the call or at the reunion feels like the one who does not belong.\n\nEMOTIONAL ARC: Awe, shame, anguish, and a small, generous realisation.\n\nSUNO: STYLES FIELD (copy the cell below as it is; set Variety to 0)\n\n1992 British alternative rock ballad, fragile male tenor vocal, whispered verses, cracked full-voice chorus and a soaring pure falsetto bridge, 92 BPM, A major, hushed then violent, clean slow arpeggiated electric guitar, two brutal dead-string muted guitar scrapes before each chorus, thick distorted guitar chords in the chorus, soft simple bass, restrained drums that crash in, single-note piano in the quiet final chorus, dry raw room mix, awestruck, ashamed, anguished, tender\n\nSUNO: EXCLUDE STYLES FIELD (under Advanced Options)\n\nsynthesizer, drum machine, female lead vocals, rap, upbeat, EDM, trap hi-hats, autotune\n\nWHAT IT IS ABOUT\n\nAt a gathering full of people who seem to belong, someone watches the one person who belongs most, and becomes certain they walked into the wrong room.\n\nTHE OTHER WAYS TO HEAR IT\n\nHear it as: a crush at a party; impostor syndrome in a meeting; a school reunion; feeling like a guest in your own family; or the afterlife. The last line suggests everyone in the room feels the same.\n\nENGINEERED HOOKS AND THE DESIGNED MISHEARING\n\nBorrowed mechanics: adoration beside self-doubt, plain short words, two harsh guitar scrapes before the loud chorus, and a falsetto bridge as the other person leaves. Designed mishearing: 'the wrong room' is easily heard as 'the wrong womb', a darker reading about being born out of place.",
+  "workbookAtAGlance": "Wrong Room\n\nBackup titles\nI Read the Sign Wrong / Holding Up the Way\n\nAt a glance\n92 BPM, A major\nVoice: Fragile male tenor, falsetto bridge\nLength: about 4 minutes",
+  "qa": {
+    "title": "Wrong Room",
+    "id": "e90_05",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 71 BPM vs 92 target (~16% off)"
+        ],
+        "durationSec": 254.4,
+        "measuredBpm": 71.3,
+        "bpmFactor": 1.5,
+        "targetBpm": 92,
+        "bpmErrPct": 16.2,
+        "lufs": -13.5,
+        "peakDbfs": -0.47,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 253.1,
+        "vocalCoverage": 0.708,
+        "vocalSpanSec": [
+          14.9,
+          237.9
+        ],
+        "vocalF0MedianHz": 333,
+        "vocalF0P25Hz": 282,
+        "lyricLineRecall": 0.806,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 71 BPM vs 92 target (~16% off)"
+        ],
+        "durationSec": 254.4,
+        "measuredBpm": 71.3,
+        "bpmFactor": 1.5,
+        "targetBpm": 92,
+        "bpmErrPct": 16.2,
+        "lufs": -14.0,
+        "peakDbfs": -2.22,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 252.3,
+        "vocalCoverage": 0.732,
+        "vocalSpanSec": [
+          1.8,
+          241.1
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 277,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  }
+}
