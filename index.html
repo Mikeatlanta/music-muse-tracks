@@ -8424,7 +8424,7 @@ $("favimp").onclick=()=>{try{importPayload(ft.value)}catch(e){alert("Paste a JSO
 window.MMPlays={get data(){return plays},get filter(){return filter},set filter(v){filter=v;bar.querySelectorAll(".pcf").forEach(x=>x.classList.toggle("act",x.dataset.p===filter))},count(id){return (plays[id]||{}).count||0},score,last:lastPlayed,record,paint,refresh(){paint();top10();if(window.MMLatest&&MMLatest.apply)MMLatest.apply()},clearFilter(){filter="all";bar.querySelectorAll(".pcf").forEach(x=>x.classList.toggle("act",x.dataset.p==="all"));if(window.MMLatest&&MMLatest.apply)MMLatest.apply()},pack};
 paint();top10()})()</script><!--/mmp--><!--mms--><div id="mmtoast" role="status" aria-live="polite"></div><!--/mms--><!--mms--><script>(()=>{const SITE="https://mikeatlanta.github.io/music-muse-tracks/";
 const $=i=>document.getElementById(i);
-function link(id){return SITE+"#"+id}
+function link(id){return SITE+"s/"+id+".html"}
 function titleOf(id){const c=$(id);const h=c&&c.querySelector(".body h2,h2");return (h&&h.textContent||id).trim()}
 function sectionOf(id){if(window.MMLatest&&MMLatest.info&&MMLatest.info[id]&&MMLatest.info[id].col)return String(MMLatest.info[id].col).trim();const c=$(id),col=c&&c.closest(".col"),h=col&&col.querySelector(".h2");return h?h.textContent.trim():""}
 function payload(id){const t=titleOf(id),s=sectionOf(id);return {title:t+" · Machine Sessions",text:s?t+" · "+s:t,url:link(id)}}
