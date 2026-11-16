@@ -44,5 +44,7 @@
     "halloween/hw_04_graveyard_gate_req.json",
     "halloween/hw_04_graveyard_gate_rec.json"
   ],
-  "cover": "halloween/covers/hw_04_graveyard_gate.jpg"
+  "cover": "halloween/covers/hw_04_graveyard_gate.jpg",
+  "genre": "Sound Effects",
+  "year": 2026
 }

@@ -39,7 +39,9 @@
     "sourceFiles": [
       "faith/req.json",
       "faith/rec.json"
-    ]
+    ],
+    "genre": "Christian Pop",
+    "year": 2026
   },
   {
     "title": "Still Holding Me",
@@ -81,7 +83,9 @@
     "sourceFiles": [
       "faith/shm_req.json",
       "faith/shm_rec.json"
-    ]
+    ],
+    "genre": "Contemporary Gospel",
+    "year": 2026
   },
   {
     "title": "Over in Glory",
@@ -123,7 +127,9 @@
     "sourceFiles": [
       "faith/oig_req.json",
       "faith/oig_rec.json"
-    ]
+    ],
+    "genre": "Southern Gospel",
+    "year": 2026
   },
   {
     "title": "Green Hollow Hymn",
@@ -165,7 +171,9 @@
     "sourceFiles": [
       "sacred/req_6.json",
       "sacred/rec_6.json"
-    ]
+    ],
+    "genre": "New Age",
+    "year": 2026
   },
   {
     "title": "Isla de Luz",
@@ -207,7 +215,9 @@
     "sourceFiles": [
       "sacred/req_2.json",
       "sacred/rec_2.json"
-    ]
+    ],
+    "genre": "Trance",
+    "year": 1995
   },
   {
     "title": "Drums of the Red Earth",
@@ -249,7 +259,9 @@
     "sourceFiles": [
       "sacred/req_3.json",
       "sacred/rec_3.json"
-    ]
+    ],
+    "genre": "Trance",
+    "year": 2026
   },
   {
     "title": "Cantus of Stars",
@@ -291,7 +303,9 @@
     "sourceFiles": [
       "sacred/req_4.json",
       "sacred/rec_4.json"
-    ]
+    ],
+    "genre": "Trance",
+    "year": 2026
   },
   {
     "title": "Stillwater Mind",
@@ -333,7 +347,9 @@
     "sourceFiles": [
       "sacred/req_8.json",
       "sacred/rec_8.json"
-    ]
+    ],
+    "genre": "Ambient House",
+    "year": 2026
   },
   {
     "title": "Veil of Sanctum",
@@ -375,7 +391,9 @@
     "sourceFiles": [
       "sacred/req_0.json",
       "sacred/rec_0.json"
-    ]
+    ],
+    "genre": "New Age",
+    "year": 1992
   },
   {
     "title": "Wings of Eternity",
@@ -417,7 +435,9 @@
     "sourceFiles": [
       "sacred/req_9.json",
       "sacred/rec_9.json"
-    ]
+    ],
+    "genre": "Trance",
+    "year": 1995
   },
   {
     "title": "Sands of the Ney",
@@ -459,7 +479,9 @@
     "sourceFiles": [
       "sacred/req_7.json",
       "sacred/rec_7.json"
-    ]
+    ],
+    "genre": "Trance",
+    "year": 2026
   },
   {
     "title": "Temple Smoke",
@@ -501,7 +523,9 @@
     "sourceFiles": [
       "sacred/req_5.json",
       "sacred/rec_5.json"
-    ]
+    ],
+    "genre": "Dub",
+    "year": 2026
   },
   {
     "title": "Whisper of Aurora",
@@ -543,7 +567,9 @@
     "sourceFiles": [
       "sacred/req_1.json",
       "sacred/rec_1.json"
-    ]
+    ],
+    "genre": "New Age",
+    "year": 2026
   },
   {
     "title": "Midnight Interceptor",
@@ -585,7 +611,9 @@
     "sourceFiles": [
       "dark/req_5.json",
       "dark/rec_5.json"
-    ]
+    ],
+    "genre": "Synthwave",
+    "year": 1985
   },
   {
     "title": "Voltage Choir",
@@ -627,7 +655,9 @@
     "sourceFiles": [
       "dark/req_4.json",
       "dark/rec_4.json"
-    ]
+    ],
+    "genre": "EBM",
+    "year": 1992
   },
   {
     "title": "Cold Protocol",
@@ -669,7 +699,9 @@
     "sourceFiles": [
       "dark/req_3.json",
       "dark/rec_3.json"
-    ]
+    ],
+    "genre": "EBM",
+    "year": 1988
   },
   {
     "title": "Red Glass Highway",
@@ -711,7 +743,9 @@
     "sourceFiles": [
       "dark/req_6.json",
       "dark/rec_6.json"
-    ]
+    ],
+    "genre": "Synthwave",
+    "year": 1985
   },
   {
     "title": "Static Cathedral",
@@ -753,7 +787,9 @@
     "sourceFiles": [
       "dark/req_2.json",
       "dark/rec_2.json"
-    ]
+    ],
+    "genre": "Dark Electro",
+    "year": 2026
   },
   {
     "title": "Blackout Boulevard",
@@ -795,7 +831,9 @@
     "sourceFiles": [
       "dark/req_0.json",
       "dark/rec_0.json"
-    ]
+    ],
+    "genre": "Dark Electro",
+    "year": 2026
   },
   {
     "title": "Robot Romance",
@@ -837,7 +875,9 @@
     "sourceFiles": [
       "dark/req_7.json",
       "dark/rec_7.json"
-    ]
+    ],
+    "genre": "French House",
+    "year": 2026
   },
   {
     "title": "Chrome Funk Machine",
@@ -879,7 +919,9 @@
     "sourceFiles": [
       "dark/req_8.json",
       "dark/rec_8.json"
-    ]
+    ],
+    "genre": "Funk",
+    "year": 2026
   },
   {
     "title": "Nightshift Paris",
@@ -921,7 +963,9 @@
     "sourceFiles": [
       "dark/req_9.json",
       "dark/rec_9.json"
-    ]
+    ],
+    "genre": "Dark Electro",
+    "year": 2026
   },
   {
     "title": "Iron Curtain Call",
@@ -963,7 +1007,9 @@
     "sourceFiles": [
       "dark/req_1.json",
       "dark/rec_1.json"
-    ]
+    ],
+    "genre": "Dark Electro",
+    "year": 2026
   },
   {
     "title": "Velvet Telephone",
@@ -1005,7 +1051,9 @@
     "sourceFiles": [
       "playlist/req_3.json",
       "playlist/rec_3.json"
-    ]
+    ],
+    "genre": "Italo Disco",
+    "year": 1985
   },
   {
     "title": "Amber Caravan",
@@ -1047,7 +1095,9 @@
     "sourceFiles": [
       "playlist/req_2.json",
       "playlist/rec_2.json"
-    ]
+    ],
+    "genre": "Afro House",
+    "year": 2026
   },
   {
     "title": "Chrome Horizon",
@@ -1089,7 +1139,9 @@
     "sourceFiles": [
       "playlist/req_4.json",
       "playlist/rec_4.json"
-    ]
+    ],
+    "genre": "Synthwave",
+    "year": 2026
   },
   {
     "title": "After the Rain",
@@ -1131,7 +1183,9 @@
     "sourceFiles": [
       "playlist/req_6.json",
       "playlist/rec_6.json"
-    ]
+    ],
+    "genre": "Darkwave",
+    "year": 2026
   },
   {
     "title": "Seedling Strings",
@@ -1173,10 +1227,12 @@
     "sourceFiles": [
       "playlist/req_9.json",
       "playlist/rec_9.json"
-    ]
+    ],
+    "genre": "Melodic House",
+    "year": 2026
   },
   {
-    "title": "Machine Lumi\u00e8re",
+    "title": "Machine Lumière",
     "collection": "playlist",
     "slug": "playlist_08_machine_lumiere",
     "model": "V6",
@@ -1190,7 +1246,7 @@
     "duration": 240,
     "customMode": true,
     "lyricsSource": "saved request",
-    "lyrics": "[Intro]\n(Spoken) Lumi\u00e8re... in the machine\n\n[Verse]\nConcrete pulse beneath the floor\nSteel and shadow, wanting more\nLights cut through the smoking air\nBodies moving, no one cares\n\n[Chorus]\nMachine lumi\u00e8re, burn it bright\nMachine lumi\u00e8re, own the night\n\n[Bridge]\n(Spoken) Plus fort. Plus fort.\nLouder. Louder.",
+    "lyrics": "[Intro]\n(Spoken) Lumière... in the machine\n\n[Verse]\nConcrete pulse beneath the floor\nSteel and shadow, wanting more\nLights cut through the smoking air\nBodies moving, no one cares\n\n[Chorus]\nMachine lumière, burn it bright\nMachine lumière, own the night\n\n[Bridge]\n(Spoken) Plus fort. Plus fort.\nLouder. Louder.",
     "taskId": "f9e80f9d402bce0fb988388af14985dc",
     "sunoClipIds": [
       "4070641f-f13e-499c-921e-8bb00779d443",
@@ -1215,7 +1271,9 @@
     "sourceFiles": [
       "playlist/req_7.json",
       "playlist/rec_7.json"
-    ]
+    ],
+    "genre": "Techno",
+    "year": 2026
   },
   {
     "title": "Paper Moons",
@@ -1257,7 +1315,9 @@
     "sourceFiles": [
       "playlist/req_8.json",
       "playlist/rec_8.json"
-    ]
+    ],
+    "genre": "Melodic House",
+    "year": 2026
   },
   {
     "title": "Smoke and Bandoneon",
@@ -1299,7 +1359,9 @@
     "sourceFiles": [
       "playlist/req_1.json",
       "playlist/rec_1.json"
-    ]
+    ],
+    "genre": "Electro-Tango",
+    "year": 2026
   },
   {
     "title": "Static Velvet",
@@ -1341,7 +1403,9 @@
     "sourceFiles": [
       "playlist/req_5.json",
       "playlist/rec_5.json"
-    ]
+    ],
+    "genre": "R&B",
+    "year": 2026
   },
   {
     "title": "Brighter Than Gold",
@@ -1383,7 +1447,9 @@
     "sourceFiles": [
       "playlist/req_0.json",
       "playlist/rec_0.json"
-    ]
+    ],
+    "genre": "Progressive House",
+    "year": 2026
   },
   {
     "title": "Mad at the Machine",
@@ -1425,7 +1491,9 @@
     "sourceFiles": [
       "req.json",
       "rec.json"
-    ]
+    ],
+    "genre": "EDM",
+    "year": 2026
   },
   {
     "title": "Red and Blue",
@@ -1467,7 +1535,9 @@
     "sourceFiles": [
       "rb_req.json",
       "red_and_blue_rec.json"
-    ]
+    ],
+    "genre": "EDM",
+    "year": 2026
   },
   {
     "title": "Red and Blue (Synthwave)",
@@ -1509,7 +1579,9 @@
     "sourceFiles": [
       "rbs_req.json",
       "red_and_blue_synth_rec.json"
-    ]
+    ],
+    "genre": "Synthwave",
+    "year": 1985
   },
   {
     "title": "Iron Directive",
@@ -1551,7 +1623,9 @@
     "sourceFiles": [
       "id_req.json",
       "iron_directive_rec.json"
-    ]
+    ],
+    "genre": "EBM",
+    "year": 1990
   },
   {
     "title": "Lumen Silentii",
@@ -1593,7 +1667,9 @@
     "sourceFiles": [
       "ls_req.json",
       "lumen_silentii_rec.json"
-    ]
+    ],
+    "genre": "New Age",
+    "year": 1992
   },
   {
     "title": "Dead Signal",
@@ -1635,7 +1711,9 @@
     "sourceFiles": [
       "ds_req.json",
       "dead_signal_rec.json"
-    ]
+    ],
+    "genre": "EBM",
+    "year": 1990
   },
   {
     "title": "Salt and Sunlight",
@@ -1677,7 +1755,9 @@
     "sourceFiles": [
       "ss_req.json",
       "salt_and_sunlight_rec.json"
-    ]
+    ],
+    "genre": "Chill House",
+    "year": 2026
   },
   {
     "title": "Iron Psalm",
@@ -1719,7 +1799,9 @@
     "sourceFiles": [
       "dark/dark_11_iron_psalm_req.json",
       "dark/dark_11_iron_psalm_rec.json"
-    ]
+    ],
+    "genre": "EBM",
+    "year": 1992
   },
   {
     "title": "Signal Cathedral",
@@ -1761,7 +1843,9 @@
     "sourceFiles": [
       "dark/dark_12_signal_cathedral_req.json",
       "dark/dark_12_signal_cathedral_rec.json"
-    ]
+    ],
+    "genre": "EBM",
+    "year": 1992
   },
   {
     "title": "Morning Will Come",
@@ -1803,7 +1887,9 @@
     "sourceFiles": [
       "faith/morning_will_come_req.json",
       "faith/morning_will_come_rec.json"
-    ]
+    ],
+    "genre": "Contemporary Gospel",
+    "year": 2026
   },
   {
     "title": "Grace Found My Name",
@@ -1845,7 +1931,9 @@
     "sourceFiles": [
       "faith/grace_found_my_name_req.json",
       "faith/grace_found_my_name_rec.json"
-    ]
+    ],
+    "genre": "Contemporary Gospel",
+    "year": 2026
   },
   {
     "title": "Checkmate at Calvary",
@@ -1888,7 +1976,9 @@
       "faith/checkmate_at_calvary_req.json",
       "faith/checkmate_at_calvary_rec.json"
     ],
-    "basedOn": "dark/dark_12_signal_cathedral"
+    "basedOn": "dark/dark_12_signal_cathedral",
+    "genre": "EBM",
+    "year": 1992
   },
   {
     "title": "It Is Written",
@@ -1932,7 +2022,9 @@
       "faith/it_is_written_rec.json",
       "faith/drafts/it_is_written.md"
     ],
-    "basedOn": "faith/checkmate_at_calvary"
+    "basedOn": "faith/checkmate_at_calvary",
+    "genre": "EBM",
+    "year": 1992
   },
   {
     "title": "Blessed Be the Name",
@@ -1976,7 +2068,9 @@
       "faith/blessed_be_the_name_rec.json",
       "faith/drafts/blessed_be_the_name.md"
     ],
-    "basedOn": "faith/checkmate_at_calvary"
+    "basedOn": "faith/checkmate_at_calvary",
+    "genre": "EBM",
+    "year": 1992
   },
   {
     "title": "Fourth Man in the Fire",
@@ -2020,7 +2114,9 @@
       "faith/fourth_man_in_the_fire_rec.json",
       "faith/drafts/fourth_man_in_the_fire.md"
     ],
-    "basedOn": "faith/checkmate_at_calvary"
+    "basedOn": "faith/checkmate_at_calvary",
+    "genre": "EBM",
+    "year": 1992
   },
   {
     "title": "Perjury Machine",
@@ -2062,7 +2158,9 @@
     "sourceFiles": [
       "dark/dark_13_perjury_machine_req.json",
       "dark/dark_13_perjury_machine_rec.json"
-    ]
+    ],
+    "genre": "EBM",
+    "year": 1992
   },
   {
     "title": "Perjury Machine (Overlay Edit)",
@@ -2105,7 +2203,9 @@
       "dark/dark_14_perjury_machine_overlay_req.json",
       "dark/dark_14_perjury_machine_overlay_rec.json"
     ],
-    "versionOf": "dark_13_perjury_machine"
+    "versionOf": "dark_13_perjury_machine",
+    "genre": "EBM",
+    "year": 1992
   },
   {
     "title": "Refuse the Machine",
@@ -2147,7 +2247,9 @@
     "sourceFiles": [
       "dark/dark_15_refuse_the_machine_req.json",
       "dark/dark_15_refuse_the_machine_rec.json"
-    ]
+    ],
+    "genre": "EBM",
+    "year": 2026
   },
   {
     "title": "Minimum Payment",
@@ -2191,7 +2293,9 @@
       "debt/debt_01_minimum_payment_rec.json"
     ],
     "album": "Minimum Payment",
-    "track": 1
+    "track": 1,
+    "genre": "Industrial Techno",
+    "year": 2026
   },
   {
     "title": "Priced Out",
@@ -2235,7 +2339,9 @@
       "debt/debt_02_priced_out_rec.json"
     ],
     "album": "Minimum Payment",
-    "track": 2
+    "track": 2,
+    "genre": "Industrial Techno",
+    "year": 2026
   },
   {
     "title": "Never Retire",
@@ -2279,7 +2385,9 @@
       "debt/debt_03_never_retire_rec.json"
     ],
     "album": "Minimum Payment",
-    "track": 3
+    "track": 3,
+    "genre": "Industrial Techno",
+    "year": 2026
   },
   {
     "title": "Replaced",
@@ -2323,7 +2431,9 @@
       "debt/debt_04_replaced_rec.json"
     ],
     "album": "Minimum Payment",
-    "track": 4
+    "track": 4,
+    "genre": "Industrial Techno",
+    "year": 2026
   },
   {
     "title": "Side Hustle",
@@ -2367,7 +2477,9 @@
       "debt/debt_05_side_hustle_rec.json"
     ],
     "album": "Minimum Payment",
-    "track": 5
+    "track": 5,
+    "genre": "Industrial Techno",
+    "year": 2026
   },
   {
     "title": "Burnout",
@@ -2411,7 +2523,9 @@
       "debt/debt_06_burnout_rec.json"
     ],
     "album": "Minimum Payment",
-    "track": 6
+    "track": 6,
+    "genre": "Industrial Techno",
+    "year": 2026
   },
   {
     "title": "Feed Control",
@@ -2455,7 +2569,9 @@
       "debt/debt_07_feed_control_rec.json"
     ],
     "album": "Minimum Payment",
-    "track": 7
+    "track": 7,
+    "genre": "Industrial Techno",
+    "year": 2026
   },
   {
     "title": "Static Horizon",
@@ -2499,7 +2615,9 @@
       "debt/debt_08_static_horizon_rec.json"
     ],
     "album": "Minimum Payment",
-    "track": 8
+    "track": 8,
+    "genre": "Industrial Techno",
+    "year": 2026
   },
   {
     "title": "Quiet Riot",
@@ -2543,7 +2661,9 @@
       "debt/debt_09_quiet_riot_rec.json"
     ],
     "album": "Minimum Payment",
-    "track": 9
+    "track": 9,
+    "genre": "Industrial Techno",
+    "year": 2026
   },
   {
     "title": "Not Yet Written",
@@ -2587,7 +2707,9 @@
       "debt/debt_10_not_yet_written_rec.json"
     ],
     "album": "Minimum Payment",
-    "track": 10
+    "track": 10,
+    "genre": "Industrial Techno",
+    "year": 2026
   },
   {
     "title": "Ledger of Bone",
@@ -2629,7 +2751,9 @@
     "sourceFiles": [
       "dark/dark_16_ledger_of_bone_req.json",
       "dark/dark_16_ledger_of_bone_rec.json"
-    ]
+    ],
+    "genre": "EBM",
+    "year": 2026
   },
   {
     "title": "Iron Sabbath",
@@ -2671,7 +2795,9 @@
     "sourceFiles": [
       "dark/dark_17_iron_sabbath_req.json",
       "dark/dark_17_iron_sabbath_rec.json"
-    ]
+    ],
+    "genre": "EBM",
+    "year": 2026
   },
   {
     "title": "Flesh Firmware",
@@ -2713,7 +2839,9 @@
     "sourceFiles": [
       "dark/dark_18_flesh_firmware_req.json",
       "dark/dark_18_flesh_firmware_rec.json"
-    ]
+    ],
+    "genre": "Aggrotech",
+    "year": 2026
   },
   {
     "title": "Counterfeit Saviors",
@@ -2755,7 +2883,9 @@
     "sourceFiles": [
       "dark/dark_19_counterfeit_saviors_req.json",
       "dark/dark_19_counterfeit_saviors_rec.json"
-    ]
+    ],
+    "genre": "Aggrotech",
+    "year": 2026
   },
   {
     "title": "Winter in the Wires",
@@ -2797,7 +2927,9 @@
     "sourceFiles": [
       "dark/dark_20_winter_in_the_wires_req.json",
       "dark/dark_20_winter_in_the_wires_rec.json"
-    ]
+    ],
+    "genre": "Darkwave",
+    "year": 2026
   },
   {
     "title": "Lantern Under Concrete",
@@ -2839,7 +2971,9 @@
     "sourceFiles": [
       "dark/dark_21_lantern_under_concrete_req.json",
       "dark/dark_21_lantern_under_concrete_rec.json"
-    ]
+    ],
+    "genre": "Darkwave",
+    "year": 2026
   },
   {
     "title": "Neon Tribunal",
@@ -2881,7 +3015,9 @@
     "sourceFiles": [
       "dark/dark_22_neon_tribunal_req.json",
       "dark/dark_22_neon_tribunal_rec.json"
-    ]
+    ],
+    "genre": "Cyberpunk",
+    "year": 2026
   },
   {
     "title": "Ghost Protocol Zero",
@@ -2923,7 +3059,9 @@
     "sourceFiles": [
       "dark/dark_23_ghost_protocol_zero_req.json",
       "dark/dark_23_ghost_protocol_zero_rec.json"
-    ]
+    ],
+    "genre": "Cyberpunk",
+    "year": 2026
   },
   {
     "title": "The Creepy Crawl",
@@ -2941,7 +3079,7 @@
     "audioWeight": 0.65,
     "customMode": true,
     "lyricsSource": "saved request",
-    "lyrics": "[Intro: spooky organ, theremin swoop]\n[Spoken, campy baritone] Good evening, boils and ghouls... the crypt is open, the bass is loud, and tonight... the dead want to dance.\n\n[Verse 1]\nDown at the manor where the candles drip\nA skeleton DJ cut a brand-new clip\nThe werewolf howled, the mummy came unwound\nEvery coffin lid went bumpin' to the sound\n\n[Pre-Chorus]\nKnees go knockin', teeth go clack\nOnce you start it, there's no goin' back\n\n[Chorus]\nDo the Creepy Crawl! (Creepy Crawl!)\nSlide your bones along the wall! (Along the wall!)\nShake it like you're three days dead\nSpin your eyeballs, nod your head\nEverybody \u2014 do the Creepy Crawl! (Ooh-ooh, Creepy Crawl!)\n\n[Verse 2]\nVampire countess in her velvet cape\nMoonwalked backward out the fire escape\nThe witches stirred a groove into the stew\nAnd the zombie at the door said \"Brains? ...Nah, shoes!\"\n\n[Bridge: call-and-response]\nWhen I say \"Creepy\" \u2014 you say \"Crawl!\" (Crawl!)\nCreepy! (Crawl!) Creepy! (Crawl!)\nNow drag your left foot... now drag your right...\n[Spoken] Not like that. You're too alive.\n\n[Instrumental Break: surf guitar, theremin solo, crunchy bass]\n\n[Chorus]\nDo the Creepy Crawl! (Creepy Crawl!)\nSlide your bones along the wall! (Along the wall!)\nShake it like you're three days dead\nSpin your eyeballs, nod your head\nEverybody \u2014 do the Creepy Crawl! (Ooh-ooh, Creepy Crawl!)\n\n[Outro: ghoulish choir fades, evil cackle]\n[Spoken] Same time next year... if you survive the dance floor.\n[End]",
+    "lyrics": "[Intro: spooky organ, theremin swoop]\n[Spoken, campy baritone] Good evening, boils and ghouls... the crypt is open, the bass is loud, and tonight... the dead want to dance.\n\n[Verse 1]\nDown at the manor where the candles drip\nA skeleton DJ cut a brand-new clip\nThe werewolf howled, the mummy came unwound\nEvery coffin lid went bumpin' to the sound\n\n[Pre-Chorus]\nKnees go knockin', teeth go clack\nOnce you start it, there's no goin' back\n\n[Chorus]\nDo the Creepy Crawl! (Creepy Crawl!)\nSlide your bones along the wall! (Along the wall!)\nShake it like you're three days dead\nSpin your eyeballs, nod your head\nEverybody — do the Creepy Crawl! (Ooh-ooh, Creepy Crawl!)\n\n[Verse 2]\nVampire countess in her velvet cape\nMoonwalked backward out the fire escape\nThe witches stirred a groove into the stew\nAnd the zombie at the door said \"Brains? ...Nah, shoes!\"\n\n[Bridge: call-and-response]\nWhen I say \"Creepy\" — you say \"Crawl!\" (Crawl!)\nCreepy! (Crawl!) Creepy! (Crawl!)\nNow drag your left foot... now drag your right...\n[Spoken] Not like that. You're too alive.\n\n[Instrumental Break: surf guitar, theremin solo, crunchy bass]\n\n[Chorus]\nDo the Creepy Crawl! (Creepy Crawl!)\nSlide your bones along the wall! (Along the wall!)\nShake it like you're three days dead\nSpin your eyeballs, nod your head\nEverybody — do the Creepy Crawl! (Ooh-ooh, Creepy Crawl!)\n\n[Outro: ghoulish choir fades, evil cackle]\n[Spoken] Same time next year... if you survive the dance floor.\n[End]",
     "taskId": "44eb3805b54137cc82d0574f1a866539",
     "sunoClipIds": [
       "1f1492cc-cf4a-4466-b80c-52718a87ebcb",
@@ -2967,7 +3105,9 @@
       "halloween/hw_01_creepy_crawl_req.json",
       "halloween/hw_01_creepy_crawl_rec.json"
     ],
-    "cover": "halloween/covers/hw_01_creepy_crawl.jpg"
+    "cover": "halloween/covers/hw_01_creepy_crawl.jpg",
+    "genre": "Halloween Novelty",
+    "year": 2026
   },
   {
     "title": "Music Box Manor",
@@ -3012,7 +3152,9 @@
       "halloween/hw_02_music_box_manor_req.json",
       "halloween/hw_02_music_box_manor_rec.json"
     ],
-    "cover": "halloween/covers/hw_02_music_box_manor.jpg"
+    "cover": "halloween/covers/hw_02_music_box_manor.jpg",
+    "genre": "Halloween Ambient",
+    "year": 2026
   },
   {
     "title": "Cauldron Hollow",
@@ -3057,7 +3199,9 @@
       "halloween/hw_03_cauldron_hollow_req.json",
       "halloween/hw_03_cauldron_hollow_rec.json"
     ],
-    "cover": "halloween/covers/hw_03_cauldron_hollow.jpg"
+    "cover": "halloween/covers/hw_03_cauldron_hollow.jpg",
+    "genre": "Halloween Ambient",
+    "year": 2026
   },
   {
     "title": "Graveyard Gate",
@@ -3105,7 +3249,9 @@
       "halloween/hw_04_graveyard_gate_req.json",
       "halloween/hw_04_graveyard_gate_rec.json"
     ],
-    "cover": "halloween/covers/hw_04_graveyard_gate.jpg"
+    "cover": "halloween/covers/hw_04_graveyard_gate.jpg",
+    "genre": "Sound Effects",
+    "year": 2026
   },
   {
     "title": "Ghoul Crypt",
@@ -3153,7 +3299,9 @@
       "halloween/hw_05_ghoul_crypt_req.json",
       "halloween/hw_05_ghoul_crypt_rec.json"
     ],
-    "cover": "halloween/covers/hw_05_ghoul_crypt.jpg"
+    "cover": "halloween/covers/hw_05_ghoul_crypt.jpg",
+    "genre": "Sound Effects",
+    "year": 2026
   },
   {
     "title": "Hollow Playground",
@@ -3201,7 +3349,9 @@
       "halloween/hw_06_hollow_playground_req.json",
       "halloween/hw_06_hollow_playground_rec.json"
     ],
-    "cover": "halloween/covers/hw_06_hollow_playground.jpg"
+    "cover": "halloween/covers/hw_06_hollow_playground.jpg",
+    "genre": "Sound Effects",
+    "year": 2026
   },
   {
     "id": "e80_01",
@@ -3313,7 +3463,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "New Wave",
+    "year": 1983
   },
   {
     "id": "e80_02",
@@ -3427,7 +3579,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Funk",
+    "year": 1983
   },
   {
     "id": "e80_03",
@@ -3543,7 +3697,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Synth-Pop",
+    "year": 1985
   },
   {
     "id": "e80_04",
@@ -3661,7 +3817,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Yacht Rock",
+    "year": 1982
   },
   {
     "id": "e80_05",
@@ -3785,7 +3943,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Hard Rock",
+    "year": 1987
   },
   {
     "id": "e80_06",
@@ -3904,7 +4064,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Arena Rock",
+    "year": 1981
   },
   {
     "id": "e80_07",
@@ -4016,7 +4178,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Synth-Pop",
+    "year": 1985
   },
   {
     "id": "e80_08",
@@ -4134,7 +4298,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Arena Rock",
+    "year": 1982
   },
   {
     "id": "e80_09",
@@ -4254,7 +4420,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Synth-Pop",
+    "year": 1983
   },
   {
     "id": "e80_10",
@@ -4384,7 +4552,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Hair Metal",
+    "year": 1986
   },
   {
     "id": "e80_11",
@@ -4501,7 +4671,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Art Pop",
+    "year": 1985
   },
   {
     "id": "e80_12",
@@ -4613,7 +4785,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Sophisti-Pop",
+    "year": 1984
   },
   {
     "id": "e80_13",
@@ -4743,7 +4917,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Art Rock",
+    "year": 1981
   },
   {
     "id": "e80_14",
@@ -4866,7 +5042,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "New Wave",
+    "year": 1985
   },
   {
     "id": "e80_15",
@@ -4986,7 +5164,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "New Wave",
+    "year": 1983
   },
   {
     "id": "e80_16",
@@ -5101,7 +5281,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Dance-Pop",
+    "year": 1987
   },
   {
     "id": "e80_17",
@@ -5221,7 +5403,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Dance-Pop",
+    "year": 1987
   },
   {
     "id": "e80_18",
@@ -5342,7 +5526,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Hard Rock",
+    "year": 1980
   },
   {
     "id": "e80_19",
@@ -5464,7 +5650,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Arena Rock",
+    "year": 1987
   },
   {
     "id": "e80_20",
@@ -5578,7 +5766,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Art Pop",
+    "year": 1981
   },
   {
     "id": "e90_01",
@@ -5692,7 +5882,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Alternative Rock",
+    "year": 1998
   },
   {
     "id": "e90_02",
@@ -5806,7 +5998,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Britpop",
+    "year": 1995
   },
   {
     "id": "e90_03",
@@ -5918,7 +6112,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Grunge",
+    "year": 1991
   },
   {
     "id": "e90_04",
@@ -6032,7 +6228,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Hip-Hop",
+    "year": 1995
   },
   {
     "id": "e90_05",
@@ -6148,7 +6346,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Alternative Rock",
+    "year": 1992
   },
   {
     "id": "e90_06",
@@ -6262,7 +6462,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Dance-Pop",
+    "year": 1999
   },
   {
     "id": "e90_07",
@@ -6378,7 +6580,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Dance-Pop",
+    "year": 1998
   },
   {
     "id": "e90_08",
@@ -6494,7 +6698,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Dance-Pop",
+    "year": 1996
   },
   {
     "id": "e90_09",
@@ -6613,7 +6819,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "R&B",
+    "year": 1999
   },
   {
     "id": "e90_10",
@@ -6725,7 +6933,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Soul Pop",
+    "year": 1992
   },
   {
     "id": "e90_11",
@@ -6843,7 +7053,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Hard Rock",
+    "year": 1990
   },
   {
     "id": "e90_12",
@@ -6955,7 +7167,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Pop Rock",
+    "year": 1999
   },
   {
     "id": "e90_13",
@@ -7067,7 +7281,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Heavy Metal",
+    "year": 1991
   },
   {
     "id": "e90_14",
@@ -7183,7 +7399,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Hip-Hop",
+    "year": 1995
   },
   {
     "id": "e90_15",
@@ -7299,7 +7517,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Alternative Rock",
+    "year": 1992
   },
   {
     "id": "e90_16",
@@ -7413,7 +7633,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Rock",
+    "year": 1998
   },
   {
     "id": "e90_17",
@@ -7422,7 +7644,7 @@
     "album": "90s Reimagined",
     "track": 17,
     "slug": "e90_17_every_ocean_after",
-    "inspiredBy": "My Heart Will Go On (C\u00e9line Dion, 1997)",
+    "inspiredBy": "My Heart Will Go On (Céline Dion, 1997)",
     "leadVoice": "Female soprano with a pure, clear tone and perfect diction. The first two verses are whispered, with breath audible. Each chorus opens a little more. After the key change she belts at full power with a fast, narrow vibrato and long held notes, then whispers the last line.",
     "model": "V6",
     "style": "1997 film theme pop ballad, clear pure female soprano vocal, whispered verses building to a full-power belt with long held notes, 96 BPM, E major with a dramatic key change up for the final chorus, solo low Irish whistle intro and interludes, soft synth pads and chimes, fingerpicked acoustic guitar, full string orchestra, gentle bass, slow big backbeat drums arriving late, piano bridge, swelling electric guitar under the last chorus, glossy wide deep mix, wistful, devoted, sweeping",
@@ -7527,7 +7749,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Pop",
+    "year": 1997
   },
   {
     "id": "e90_18",
@@ -7641,7 +7865,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "College Rock",
+    "year": 1991
   },
   {
     "id": "e90_19",
@@ -7753,7 +7979,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Britpop",
+    "year": 1997
   },
   {
     "id": "e90_20",
@@ -7867,7 +8095,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Eurodance",
+    "year": 1993
   },
   {
     "id": "e70_01",
@@ -7986,7 +8216,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Glam Rock",
+    "year": 1975
   },
   {
     "id": "e70_02",
@@ -8098,7 +8330,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Soft Rock",
+    "year": 1977
   },
   {
     "id": "e70_03",
@@ -8213,7 +8447,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Funk",
+    "year": 1978
   },
   {
     "id": "e70_04",
@@ -8325,7 +8561,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Disco",
+    "year": 1976
   },
   {
     "id": "e70_05",
@@ -8441,7 +8679,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Soft Rock",
+    "year": 1976
   },
   {
     "id": "e70_06",
@@ -8553,7 +8793,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Roots Rock",
+    "year": 1970
   },
   {
     "id": "e70_07",
@@ -8665,7 +8907,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Disco",
+    "year": 1977
   },
   {
     "id": "e70_08",
@@ -8777,7 +9021,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Hard Rock",
+    "year": 1979
   },
   {
     "id": "e70_09",
@@ -8891,7 +9137,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Southern Rock",
+    "year": 1974
   },
   {
     "id": "e70_10",
@@ -9005,7 +9253,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Singer-Songwriter",
+    "year": 1972
   },
   {
     "id": "e70_11",
@@ -9117,7 +9367,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Folk Rock",
+    "year": 1971
   },
   {
     "id": "e70_12",
@@ -9233,7 +9485,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Art Rock",
+    "year": 1979
   },
   {
     "id": "e70_13",
@@ -9349,7 +9603,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Hard Rock",
+    "year": 1973
   },
   {
     "id": "e70_14",
@@ -9463,7 +9719,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Gospel",
+    "year": 1970
   },
   {
     "id": "e70_15",
@@ -9579,7 +9837,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Soul",
+    "year": 1971
   },
   {
     "id": "e70_16",
@@ -9701,7 +9961,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Pop",
+    "year": 1974
   },
   {
     "id": "e70_17",
@@ -9817,7 +10079,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Piano Ballad",
+    "year": 1971
   },
   {
     "id": "e70_18",
@@ -9931,7 +10195,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Pop Rock",
+    "year": 1978
   },
   {
     "id": "e70_19",
@@ -10048,7 +10314,9 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Singer-Songwriter",
+    "year": 1973
   },
   {
     "id": "e70_20",
@@ -10162,6 +10430,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "genre": "Soul",
+    "year": 1974
   }
 ]

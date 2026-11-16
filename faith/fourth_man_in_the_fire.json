@@ -40,5 +40,7 @@
     "faith/fourth_man_in_the_fire_rec.json",
     "faith/drafts/fourth_man_in_the_fire.md"
   ],
-  "basedOn": "faith/checkmate_at_calvary"
+  "basedOn": "faith/checkmate_at_calvary",
+  "genre": "EBM",
+  "year": 1992
 }

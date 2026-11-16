@@ -14,7 +14,7 @@
   "audioWeight": 0.65,
   "customMode": true,
   "lyricsSource": "saved request",
-  "lyrics": "[Intro: spooky organ, theremin swoop]\n[Spoken, campy baritone] Good evening, boils and ghouls... the crypt is open, the bass is loud, and tonight... the dead want to dance.\n\n[Verse 1]\nDown at the manor where the candles drip\nA skeleton DJ cut a brand-new clip\nThe werewolf howled, the mummy came unwound\nEvery coffin lid went bumpin' to the sound\n\n[Pre-Chorus]\nKnees go knockin', teeth go clack\nOnce you start it, there's no goin' back\n\n[Chorus]\nDo the Creepy Crawl! (Creepy Crawl!)\nSlide your bones along the wall! (Along the wall!)\nShake it like you're three days dead\nSpin your eyeballs, nod your head\nEverybody \u2014 do the Creepy Crawl! (Ooh-ooh, Creepy Crawl!)\n\n[Verse 2]\nVampire countess in her velvet cape\nMoonwalked backward out the fire escape\nThe witches stirred a groove into the stew\nAnd the zombie at the door said \"Brains? ...Nah, shoes!\"\n\n[Bridge: call-and-response]\nWhen I say \"Creepy\" \u2014 you say \"Crawl!\" (Crawl!)\nCreepy! (Crawl!) Creepy! (Crawl!)\nNow drag your left foot... now drag your right...\n[Spoken] Not like that. You're too alive.\n\n[Instrumental Break: surf guitar, theremin solo, crunchy bass]\n\n[Chorus]\nDo the Creepy Crawl! (Creepy Crawl!)\nSlide your bones along the wall! (Along the wall!)\nShake it like you're three days dead\nSpin your eyeballs, nod your head\nEverybody \u2014 do the Creepy Crawl! (Ooh-ooh, Creepy Crawl!)\n\n[Outro: ghoulish choir fades, evil cackle]\n[Spoken] Same time next year... if you survive the dance floor.\n[End]",
+  "lyrics": "[Intro: spooky organ, theremin swoop]\n[Spoken, campy baritone] Good evening, boils and ghouls... the crypt is open, the bass is loud, and tonight... the dead want to dance.\n\n[Verse 1]\nDown at the manor where the candles drip\nA skeleton DJ cut a brand-new clip\nThe werewolf howled, the mummy came unwound\nEvery coffin lid went bumpin' to the sound\n\n[Pre-Chorus]\nKnees go knockin', teeth go clack\nOnce you start it, there's no goin' back\n\n[Chorus]\nDo the Creepy Crawl! (Creepy Crawl!)\nSlide your bones along the wall! (Along the wall!)\nShake it like you're three days dead\nSpin your eyeballs, nod your head\nEverybody — do the Creepy Crawl! (Ooh-ooh, Creepy Crawl!)\n\n[Verse 2]\nVampire countess in her velvet cape\nMoonwalked backward out the fire escape\nThe witches stirred a groove into the stew\nAnd the zombie at the door said \"Brains? ...Nah, shoes!\"\n\n[Bridge: call-and-response]\nWhen I say \"Creepy\" — you say \"Crawl!\" (Crawl!)\nCreepy! (Crawl!) Creepy! (Crawl!)\nNow drag your left foot... now drag your right...\n[Spoken] Not like that. You're too alive.\n\n[Instrumental Break: surf guitar, theremin solo, crunchy bass]\n\n[Chorus]\nDo the Creepy Crawl! (Creepy Crawl!)\nSlide your bones along the wall! (Along the wall!)\nShake it like you're three days dead\nSpin your eyeballs, nod your head\nEverybody — do the Creepy Crawl! (Ooh-ooh, Creepy Crawl!)\n\n[Outro: ghoulish choir fades, evil cackle]\n[Spoken] Same time next year... if you survive the dance floor.\n[End]",
   "taskId": "44eb3805b54137cc82d0574f1a866539",
   "sunoClipIds": [
     "1f1492cc-cf4a-4466-b80c-52718a87ebcb",
@@ -40,5 +40,7 @@
     "halloween/hw_01_creepy_crawl_req.json",
     "halloween/hw_01_creepy_crawl_rec.json"
   ],
-  "cover": "halloween/covers/hw_01_creepy_crawl.jpg"
+  "cover": "halloween/covers/hw_01_creepy_crawl.jpg",
+  "genre": "Halloween Novelty",
+  "year": 2026
 }

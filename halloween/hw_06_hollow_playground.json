@@ -44,5 +44,7 @@
     "halloween/hw_06_hollow_playground_req.json",
     "halloween/hw_06_hollow_playground_rec.json"
   ],
-  "cover": "halloween/covers/hw_06_hollow_playground.jpg"
+  "cover": "halloween/covers/hw_06_hollow_playground.jpg",
+  "genre": "Sound Effects",
+  "year": 2026
 }

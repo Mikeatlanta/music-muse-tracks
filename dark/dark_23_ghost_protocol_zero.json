@@ -38,5 +38,7 @@
   "sourceFiles": [
     "dark/dark_23_ghost_protocol_zero_req.json",
     "dark/dark_23_ghost_protocol_zero_rec.json"
-  ]
+  ],
+  "genre": "Cyberpunk",
+  "year": 2026
 }

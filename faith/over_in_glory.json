@@ -38,5 +38,7 @@
   "sourceFiles": [
     "faith/oig_req.json",
     "faith/oig_rec.json"
-  ]
+  ],
+  "genre": "Southern Gospel",
+  "year": 2026
 }

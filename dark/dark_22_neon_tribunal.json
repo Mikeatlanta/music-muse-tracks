@@ -38,5 +38,7 @@
   "sourceFiles": [
     "dark/dark_22_neon_tribunal_req.json",
     "dark/dark_22_neon_tribunal_rec.json"
-  ]
+  ],
+  "genre": "Cyberpunk",
+  "year": 2026
 }

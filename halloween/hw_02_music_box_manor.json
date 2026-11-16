@@ -41,5 +41,7 @@
     "halloween/hw_02_music_box_manor_req.json",
     "halloween/hw_02_music_box_manor_rec.json"
   ],
-  "cover": "halloween/covers/hw_02_music_box_manor.jpg"
+  "cover": "halloween/covers/hw_02_music_box_manor.jpg",
+  "genre": "Halloween Ambient",
+  "year": 2026
 }

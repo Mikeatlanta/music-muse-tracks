@@ -39,5 +39,7 @@
     "faith/checkmate_at_calvary_req.json",
     "faith/checkmate_at_calvary_rec.json"
   ],
-  "basedOn": "dark/dark_12_signal_cathedral"
+  "basedOn": "dark/dark_12_signal_cathedral",
+  "genre": "EBM",
+  "year": 1992
 }

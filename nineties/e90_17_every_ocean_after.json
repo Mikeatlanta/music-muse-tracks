@@ -5,7 +5,7 @@
   "album": "90s Reimagined",
   "track": 17,
   "slug": "e90_17_every_ocean_after",
-  "inspiredBy": "My Heart Will Go On (C\u00e9line Dion, 1997)",
+  "inspiredBy": "My Heart Will Go On (Céline Dion, 1997)",
   "leadVoice": "Female soprano with a pure, clear tone and perfect diction. The first two verses are whispered, with breath audible. Each chorus opens a little more. After the key change she belts at full power with a fast, narrow vibrato and long held notes, then whispers the last line.",
   "model": "V6",
   "style": "1997 film theme pop ballad, clear pure female soprano vocal, whispered verses building to a full-power belt with long held notes, 96 BPM, E major with a dramatic key change up for the final chorus, solo low Irish whistle intro and interludes, soft synth pads and chimes, fingerpicked acoustic guitar, full string orchestra, gentle bass, slow big backbeat drums arriving late, piano bridge, swelling electric guitar under the last chorus, glossy wide deep mix, wistful, devoted, sweeping",
@@ -110,5 +110,7 @@
         "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
       }
     ]
-  }
+  },
+  "genre": "Pop",
+  "year": 1997
 }

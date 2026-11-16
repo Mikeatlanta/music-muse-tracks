@@ -40,5 +40,7 @@
     "faith/blessed_be_the_name_rec.json",
     "faith/drafts/blessed_be_the_name.md"
   ],
-  "basedOn": "faith/checkmate_at_calvary"
+  "basedOn": "faith/checkmate_at_calvary",
+  "genre": "EBM",
+  "year": 1992
 }

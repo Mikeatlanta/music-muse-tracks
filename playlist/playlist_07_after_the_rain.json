@@ -38,5 +38,7 @@
   "sourceFiles": [
     "playlist/req_6.json",
     "playlist/rec_6.json"
-  ]
+  ],
+  "genre": "Darkwave",
+  "year": 2026
 }

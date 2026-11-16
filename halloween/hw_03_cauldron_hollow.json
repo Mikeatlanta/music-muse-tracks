@@ -41,5 +41,7 @@
     "halloween/hw_03_cauldron_hollow_req.json",
     "halloween/hw_03_cauldron_hollow_rec.json"
   ],
-  "cover": "halloween/covers/hw_03_cauldron_hollow.jpg"
+  "cover": "halloween/covers/hw_03_cauldron_hollow.jpg",
+  "genre": "Halloween Ambient",
+  "year": 2026
 }

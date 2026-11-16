@@ -38,5 +38,7 @@
   "sourceFiles": [
     "sacred/req_1.json",
     "sacred/rec_1.json"
-  ]
+  ],
+  "genre": "New Age",
+  "year": 2026
 }

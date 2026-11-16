@@ -39,5 +39,7 @@
     "dark/dark_14_perjury_machine_overlay_req.json",
     "dark/dark_14_perjury_machine_overlay_rec.json"
   ],
-  "versionOf": "dark_13_perjury_machine"
+  "versionOf": "dark_13_perjury_machine",
+  "genre": "EBM",
+  "year": 1992
 }

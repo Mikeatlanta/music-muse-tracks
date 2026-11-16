@@ -38,5 +38,7 @@
   "sourceFiles": [
     "faith/req.json",
     "faith/rec.json"
-  ]
+  ],
+  "genre": "Christian Pop",
+  "year": 2026
 }

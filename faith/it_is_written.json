@@ -40,5 +40,7 @@
     "faith/it_is_written_rec.json",
     "faith/drafts/it_is_written.md"
   ],
-  "basedOn": "faith/checkmate_at_calvary"
+  "basedOn": "faith/checkmate_at_calvary",
+  "genre": "EBM",
+  "year": 1992
 }
