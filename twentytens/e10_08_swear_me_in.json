@@ -1,0 +1,122 @@
+{
+  "id": "e10_08",
+  "title": "Swear Me In",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 8,
+  "slug": "e10_08_swear_me_in",
+  "inspiredBy": "Take Me to Church (Hozier, 2013)",
+  "leadVoice": "Male, a warm baritone with a tenor's top, soulful and slightly rough, with an Irish colour to the vowels. Low and intimate in the verses, full-throated in the chorus. The phrase 'I do' is stretched across a long run of notes. A mixed gospel choir sings behind him and alone at the end.",
+  "model": "V6",
+  "style": "2013 gospel blues indie soul, warm soulful slightly rough male vocal with a baritone body and tenor top, intimate low verses and a full-throated chorus, a short phrase stretched into a long melisma, mixed gospel choir behind and alone at the end, 64 BPM, E minor, slow heavy sway, dark simple piano, church organ, heavy slow drums with deep kick and cracking snare, electric bass, handclaps, tambourine, gritty blues guitar fills, low strings, drumless handclap bridge, raw roomy stone-hall mix, solemn, devoted, powerful",
+  "negativeTags": "synth-pop, female lead vocals, rap, fast tempo, trap hi-hats, autotune, EDM drop, dance beat",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: low piano chords, a hummed choir note]\n\n[Verse 1: soulful, low, piano and voice]\nShe laughs like a gavel coming down\nShe rules against my sorrow and she throws my worries out\nI was guilty of the usual, the hiding and the doubt\nShe read me like a sentence and she let me out\n\n[Pre-Chorus: organ enters, choir hums]\nI've stood in rooms where they told me who to be\nHand on a book that was never about me\n\n[Chorus: full choir, heavy drums, voice soars]\nSwear me in\nI'll tell the whole truth with my hands up\nSwear me in\nI'll take the stand and I'll stand up\nRaise my right hand to your left\nI do, I do, I do\nSwear me in\n\n[Verse 2: soulful, fuller, bass and tambourine]\nIf I'm a witness, let me testify at night\nThe only law I answer to is whether we're alright\nThey can keep their robes and benches and their Sunday best\nI have seen the evidence, and I can rest\n\n[Pre-Chorus: organ and choir rising]\nI've stood in rooms where they told me who to be\nHand on a book that was never about me\n\n[Chorus: full choir, heavy drums, voice soars]\nSwear me in\nI'll tell the whole truth with my hands up\nSwear me in\nI'll take the stand and I'll stand up\nRaise my right hand to your left\nI do, I do, I do\nSwear me in\n\n[Bridge: drums drop out, voice and handclaps, choir answers]\nWhen the door is closed there's nobody to rule\n(Nobody, nobody)\nOnly what we promised, only me and you\n(Only me and you)\nSo help me\n\n[Final Chorus: loudest, choir at full voice, melisma on the last line]\nSwear me in\nI'll tell the whole truth with my hands up\nSwear me in\nI'll take the stand and I'll stand up\nRaise my right hand to your left\nI do, I do, I do\nSwear me in\n\n[Outro: choir alone, one piano chord]\nI do",
+  "taskId": "1bf0808e48cc7b7983ac0c6d9bc15ee1",
+  "sunoClipIds": [
+    "25884410-7284-4db3-876e-75dcd54646d2",
+    "ed0b65f6-7f86-430a-b7fe-491c39a023db"
+  ],
+  "created": "Nov 17, 2026 10:20 AM ET",
+  "createTimeMs": 1794928817238,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "25884410-7284-4db3-876e-75dcd54646d2",
+      "durationSec": 243.4,
+      "file": "twentytens/e10_08_swear_me_in_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ed0b65f6-7f86-430a-b7fe-491c39a023db",
+      "durationSec": 246.48,
+      "file": "twentytens/e10_08_swear_me_in_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_08_swear_me_in_req.json",
+    "twentytens/e10_08_swear_me_in_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_08_swear_me_in.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_08_swear_me_in.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 64 BPM, a slow, heavy sway in 4/4 with a dragging triplet lilt. E minor. Solemn, bluesy and enormous.\n\nVOICE: Male, a warm baritone with a tenor's top, soulful and slightly rough, with an Irish colour to the vowels. Low and intimate in the verses, full-throated in the chorus. The phrase 'I do' is stretched across a long run of notes. A mixed gospel choir sings behind him and alone at the end.\n\nINSTRUMENTS: A dark, simple piano. Church organ. A gospel choir. Heavy, slow drums with a deep kick and a cracking snare. Electric bass. Handclaps and tambourine. A gritty electric guitar playing blues fills. Low strings.\n\nARRANGEMENT MAP: 0:00 Intro, piano and a hummed note. 0:15 Verse 1. 0:45 Pre-chorus, organ and choir. 1:00 Chorus 1, drums and full choir. 1:30 Verse 2. 2:00 Pre-chorus. 2:15 Chorus 2. 2:45 Bridge, drums out, voice with handclaps and choir answers. 3:07 Final chorus at full strength. 3:37 Outro, the choir alone on two words and a last piano chord at 3:48.\n\nPRODUCTION & MIX: Mid-2010s indie soul: raw and roomy, as if recorded in a stone hall, the voice close and the choir far and wide.\n\nSIGNATURE MOMENT: The run of notes on 'I do' at the end of the first chorus.\n\nMODERN POINT OF VIEW: The original is a young man's argument with an institution. This is a settled love speaking, and the oath is one he chooses. It can be sung at a wedding without irony.\n\nEMOTIONAL ARC: Relief, defiance, a vow.",
+  "workbookAtAGlance": "Swear Me In\n\nBackup titles\nThe Whole Truth / Raise My Right Hand\n\nAt a glance\n64 BPM, E minor\nVoice: Soulful male baritone-tenor, gospel choir\nLength: about 3 minutes 50",
+  "year": 2013,
+  "qa": {
+    "title": "Swear Me In",
+    "id": "e10_08",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.29 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 243.4,
+        "measuredBpm": 63.0,
+        "bpmFactor": 1,
+        "targetBpm": 64,
+        "bpmErrPct": 1.5,
+        "lufs": -14.6,
+        "peakDbfs": 0.29,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 241.9,
+        "vocalCoverage": 0.737,
+        "vocalSpanSec": [
+          11.0,
+          241.1
+        ],
+        "vocalF0MedianHz": 314,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "fail",
+        "reasons": [
+          "silence gap >2s at [227.0]s",
+          "abrupt ending"
+        ],
+        "durationSec": 246.5,
+        "measuredBpm": 61.5,
+        "bpmFactor": 1,
+        "targetBpm": 64,
+        "bpmErrPct": 3.9,
+        "lufs": -15.4,
+        "peakDbfs": -0.2,
+        "clipSamples": 0,
+        "midGaps": [
+          227.0
+        ],
+        "endFadeSec": 0.0,
+        "contentEndSec": 246.2,
+        "vocalCoverage": 0.651,
+        "vocalSpanSec": [
+          14.3,
+          238.7
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 270,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Soul"
+}

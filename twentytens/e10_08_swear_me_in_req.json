@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Swear Me In",
+  "prompt": "[Intro: low piano chords, a hummed choir note]\n\n[Verse 1: soulful, low, piano and voice]\nShe laughs like a gavel coming down\nShe rules against my sorrow and she throws my worries out\nI was guilty of the usual, the hiding and the doubt\nShe read me like a sentence and she let me out\n\n[Pre-Chorus: organ enters, choir hums]\nI've stood in rooms where they told me who to be\nHand on a book that was never about me\n\n[Chorus: full choir, heavy drums, voice soars]\nSwear me in\nI'll tell the whole truth with my hands up\nSwear me in\nI'll take the stand and I'll stand up\nRaise my right hand to your left\nI do, I do, I do\nSwear me in\n\n[Verse 2: soulful, fuller, bass and tambourine]\nIf I'm a witness, let me testify at night\nThe only law I answer to is whether we're alright\nThey can keep their robes and benches and their Sunday best\nI have seen the evidence, and I can rest\n\n[Pre-Chorus: organ and choir rising]\nI've stood in rooms where they told me who to be\nHand on a book that was never about me\n\n[Chorus: full choir, heavy drums, voice soars]\nSwear me in\nI'll tell the whole truth with my hands up\nSwear me in\nI'll take the stand and I'll stand up\nRaise my right hand to your left\nI do, I do, I do\nSwear me in\n\n[Bridge: drums drop out, voice and handclaps, choir answers]\nWhen the door is closed there's nobody to rule\n(Nobody, nobody)\nOnly what we promised, only me and you\n(Only me and you)\nSo help me\n\n[Final Chorus: loudest, choir at full voice, melisma on the last line]\nSwear me in\nI'll tell the whole truth with my hands up\nSwear me in\nI'll take the stand and I'll stand up\nRaise my right hand to your left\nI do, I do, I do\nSwear me in\n\n[Outro: choir alone, one piano chord]\nI do",
+  "style": "2013 gospel blues indie soul, warm soulful slightly rough male vocal with a baritone body and tenor top, intimate low verses and a full-throated chorus, a short phrase stretched into a long melisma, mixed gospel choir behind and alone at the end, 64 BPM, E minor, slow heavy sway, dark simple piano, church organ, heavy slow drums with deep kick and cracking snare, electric bass, handclaps, tambourine, gritty blues guitar fills, low strings, drumless handclap bridge, raw roomy stone-hall mix, solemn, devoted, powerful",
+  "negativeTags": "synth-pop, female lead vocals, rap, fast tempo, trap hi-hats, autotune, EDM drop, dance beat",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

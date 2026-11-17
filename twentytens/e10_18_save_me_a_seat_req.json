@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Save Me a Seat",
+  "prompt": "[Intro: solo piano hook, soft pad]\n\n[Chorus: high male tenor, piano only]\nSave me a seat\nWherever you've gone\nI've been keeping notes\nIt won't be long\nThere's so much to go over\nSince you got up to leave\nSo save me a seat\n\n[Verse 1: male rap, warm and steady, soft beat enters]\nYour number's in my phone and I haven't got the nerve\nStill pass your exit, still slow down on the curve\nYour laugh's in every room I ever shared with you\nI keep on turning round to tell you something new\nWe were kids with one bike and a single pair of skates\nShared a locker, shared a lunch, shared a couple bad mistakes\nYou stood up at my wedding, I stood up at your door\nI didn't know that standing was the thing we'd both be for\n\n[Chorus: high male tenor, drums and strings]\nSave me a seat\nWherever you've gone\nI've been keeping notes\nIt won't be long\nThere's so much to go over\nSince you got up to leave\nSo save me a seat\n\n[Verse 2: male rap, lighter, a smile in it]\nThe team is still terrible, your mother's doing fine\nYour kid has got your stubbornness and I have given mine\nThe keys to your old pickup, he's driving it too fast\nI told him all the stories and I told him they were facts\nI'm not big on praying but I'm talking to the sky\nMostly it's the scores and what I should have said, and why\nEvery road we ever took, I'm taking it for two\nAnd every time I'm laughing there's a part of it that's you\n\n[Bridge: sung, wordless, choir and piano, building]\nOh, oh-oh\nOh, oh-oh\nHold it for me\nHold it for me\n\n[Final Chorus: tenor and choir, full band, held high note]\nSave me a seat\nWherever you've gone\nI've been keeping notes\nIt won't be long\nThere's so much to go over\nSince you got up to leave\nSo save me a seat\n\n[Outro: piano hook alone, last note held]\nSave me a seat",
+  "style": "2015 film soundtrack pop rap ballad, clean high boyish male tenor singing a soft hymn-like chorus almost in falsetto with a held high note, relaxed warm slightly raspy male rapper delivering conversational verses, small choir on the bridge and final chorus, 80 BPM, B-flat major, slow open and warm, simple memorable piano figure opening the song and under every chorus, soft steady hip-hop beat with deep kick and finger snaps, warm bass, string section, wordless building bridge, clean wide emotional mix, grieving, grateful, uplifting",
+  "negativeTags": "female lead vocals, distorted guitar, fast tempo, aggressive rap, trap hi-hats, EDM drop, dubstep",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 240,
+  "callBackUrl": "https://example.com/cb"
+}

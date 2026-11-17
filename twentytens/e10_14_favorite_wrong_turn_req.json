@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Favorite Wrong Turn",
+  "prompt": "[Intro: solo piano, slow warm chords]\n\n[Verse 1: smooth, conversational, piano only]\nYou navigate by feeling and you've never once been right\nYou sing the wrong words loudly and you leave on every light\nYou're early when I'm late and you are late when I'm on time\nAnd I wouldn't change a minute of this mismanaged life of mine\n\n[Pre-Chorus: piano builds, voice lifts]\nMy head keeps the map\nMy heart threw it out\n\n[Chorus: full voice into falsetto, piano broad]\nYou're my favorite wrong turn\nMy best mistake\nMy lost and found, my give and take\nYou're the long way home I would choose again\nMy favorite wrong turn\nYou're where I meant to end\n\n[Verse 2: smooth, smiling]\nYou argue with the weather and you bargain with the cat\nYou said we'd stay an hour, and it's been years since that\nThe plans I had were tidy and they wouldn't have been true\nEvery road I didn't mean to take was leading me to you\n\n[Pre-Chorus: piano builds, voice lifts]\nMy head keeps the map\nMy heart threw it out\n\n[Chorus: full voice into falsetto, soft strings]\nYou're my favorite wrong turn\nMy best mistake\nMy lost and found, my give and take\nYou're the long way home I would choose again\nMy favorite wrong turn\nYou're where I meant to end\n\n[Bridge: quiet, almost spoken, single piano notes]\nSo get us lost\nI'll hold the bags\nGet us lost\nI'm glad\n\n[Final Chorus: biggest, held falsetto note, strings]\nYou're my favorite wrong turn\nMy best mistake\nMy lost and found, my give and take\nYou're the long way home I would choose again\nMy favorite wrong turn\nYou're where I meant to end\n\n[Outro: piano alone, last chord held]\nWhere I meant to end",
+  "style": "2013 piano soul ballad, smooth warm male tenor vocal with a gospel background, nearly spoken smiling verses and a chorus climbing into clear sweet falsetto, one long held falsetto note in the final chorus, no backing vocals, 63 BPM, A-flat major, slow and unhurried, grand piano playing broad slow chords with small gospel turns, soft string section entering in the second chorus and growing, no drums, quiet almost spoken bridge, warm close clean classic ballad mix, romantic, tender, grateful",
+  "negativeTags": "drums, drum machine, electric guitar, female lead vocals, rap, synth-pop, dance beat, autotune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

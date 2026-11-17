@@ -1,0 +1,115 @@
+{
+  "id": "e10_15",
+  "title": "No Pressure, But",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 15,
+  "slug": "e10_15_no_pressure_but",
+  "inspiredBy": "Call Me Maybe (Carly Rae Jepsen, 2011)",
+  "leadVoice": "Female soprano, sweet, light and a little breathy, with a girlish brightness that suits the joke. Quick and chatty in the verses. The chorus is clear and punchy, with a group of friends joining on the repeated title phrase in the last chorus.",
+  "model": "V6",
+  "style": "2012 bubblegum pop, sweet light slightly breathy female soprano vocal, quick chatty verses and a clear punchy chorus, friends joining on the repeated title phrase at the end, 120 BPM, G major, bright bouncing four-on-the-floor pulse, synthesized string section playing short bright stabs after each chorus line, plucked strings in the verses, steady kick with handclaps, clean chiming electric guitar, bouncing synth bass, sparkling synth arpeggios, tambourine, clap-only bridge, bright clean compressed mix, flirty, funny, joyful",
+  "negativeTags": "male lead vocals, dark mood, slow ballad, distorted guitar, trap hi-hats, dubstep, saxophone, rap",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: plucked strings, soft kick, a little synth sparkle]\n\n[Verse 1: bright, breathy, light beat]\nI had a list for today\nMilk and stamps and a key\nThen you held the door at the bank\nNow I can't remember three\n\n[Pre-Chorus: beat builds, voice quickens]\nI don't do this, I plan things\nI've got a calendar with tabs\nBut something about a Tuesday\nHas me skipping all the steps\n\n[Chorus: full beat, string stabs after every line]\nNo pressure, but\nI've already named the dog\nNo pressure, but\nI told my mother and my blog\nIt's only been an hour\nI know it's early days\nNo pressure, but\nI've cleared my Saturdays\n\n[Verse 2: bright, laughing]\nYou said your name, I think\nI was looking at your hands\nYou asked me for the time\nAnd I gave you all my plans\n\n[Pre-Chorus: beat builds, voice quickens]\nI don't do this, I plan things\nI colour-code my shoes\nBut something about your raincoat\nHas me giving up the rules\n\n[Chorus: full beat, string stabs after every line]\nNo pressure, but\nI've already named the dog\nNo pressure, but\nI told my mother and my blog\nIt's only been an hour\nI know it's early days\nNo pressure, but\nI've cleared my Saturdays\n\n[Bridge: beat drops to claps, voice close]\nI didn't know that I was waiting\nUntil the waiting stopped\nI didn't know that I was waiting\nAnd now I can't find the clock\n\n[Final Chorus: everything, extra strings, gang vocals on the hedge]\nNo pressure, but\nI've already named the dog\nNo pressure, but\nI told my mother and my blog\nIt's only been an hour\nI know it's early days\nNo pressure, but\nI've cleared my Saturdays\n\n[Outro: string stab, spoken, a giggle]\nNo pressure",
+  "taskId": "b3a97f6517038f7f3c2c2d4354118f6f",
+  "sunoClipIds": [
+    "72f0c709-f749-406e-90ce-fc599e4fa431",
+    "8aaef740-c746-48c7-a7ae-385facbf682f"
+  ],
+  "created": "Nov 17, 2026 10:20 AM ET",
+  "createTimeMs": 1794928832729,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "72f0c709-f749-406e-90ce-fc599e4fa431",
+      "durationSec": 208.8,
+      "file": "twentytens/e10_15_no_pressure_but_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "8aaef740-c746-48c7-a7ae-385facbf682f",
+      "durationSec": 209.08,
+      "file": "twentytens/e10_15_no_pressure_but_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_15_no_pressure_but_req.json",
+    "twentytens/e10_15_no_pressure_but_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_15_no_pressure_but.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_15_no_pressure_but.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, G major. A bright, bouncing, four-on-the-floor pop pulse. Sunny and slightly out of breath.\n\nVOICE: Female soprano, sweet, light and a little breathy, with a girlish brightness that suits the joke. Quick and chatty in the verses. The chorus is clear and punchy, with a group of friends joining on the repeated title phrase in the last chorus.\n\nINSTRUMENTS: A synthesised string section playing short, bright stabs after each chorus line, plus plucked strings in the verses. A steady kick on every beat with handclaps. Clean, chiming electric guitar. A bouncing synth bass. Sparkling synth arpeggios. Tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, plucked strings. 0:08 Verse 1. 0:24 Pre-chorus. 0:40 Chorus 1 with string stabs. 1:12 Verse 2. 1:28 Pre-chorus. 1:44 Chorus 2. 2:16 Bridge, the beat drops to claps. 2:32 Final chorus with extra strings and gang vocals. 3:04 Outro, one last stab, two spoken words and a giggle at 3:12.\n\nPRODUCTION & MIX: Early-2010s bubblegum pop: bright, clean and compressed, strings and vocal very forward, a tight punchy low end.\n\nSIGNATURE MOMENT: The first string stab after the first chorus line at 0:42.\n\nMODERN POINT OF VIEW: She is a grown woman with a tabbed calendar, and the joke is that she skips the coy stage entirely. The bridge's impossible line is about someone who did not know she was lonely until it stopped.\n\nEMOTIONAL ARC: Fluster, comic overreach, one sincere moment, delight.",
+  "workbookAtAGlance": "No Pressure, But\n\nBackup titles\nI've Named the Dog / Cleared My Saturdays\n\nAt a glance\n120 BPM, G major\nVoice: Bright sweet female soprano\nLength: about 3 minutes 15",
+  "year": 2011,
+  "qa": {
+    "title": "No Pressure, But",
+    "id": "e10_15",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 208.8,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 2.5,
+        "lufs": -13.6,
+        "peakDbfs": -0.35,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 207.3,
+        "vocalCoverage": 0.732,
+        "vocalSpanSec": [
+          8.8,
+          206.6
+        ],
+        "vocalF0MedianHz": 391,
+        "vocalF0P25Hz": 330,
+        "lyricLineRecall": 0.977,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 209.1,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 7.7,
+        "lufs": -13.7,
+        "peakDbfs": -0.64,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 207.4,
+        "vocalCoverage": 0.755,
+        "vocalSpanSec": [
+          7.6,
+          203.8
+        ],
+        "vocalF0MedianHz": 389,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 0.977,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

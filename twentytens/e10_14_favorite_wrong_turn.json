@@ -1,0 +1,119 @@
+{
+  "id": "e10_14",
+  "title": "Favorite Wrong Turn",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 14,
+  "slug": "e10_14_favorite_wrong_turn",
+  "inspiredBy": "All of Me (John Legend, 2013)",
+  "leadVoice": "Male tenor, smooth and warm with a soul and gospel background. Verses nearly spoken, with a smile in them. The chorus climbs into a clear, sweet falsetto on the top lines. One long held falsetto note in the last chorus. No backing vocals.",
+  "model": "V6",
+  "style": "2013 piano soul ballad, smooth warm male tenor vocal with a gospel background, nearly spoken smiling verses and a chorus climbing into clear sweet falsetto, one long held falsetto note in the final chorus, no backing vocals, 63 BPM, A-flat major, slow and unhurried, grand piano playing broad slow chords with small gospel turns, soft string section entering in the second chorus and growing, no drums, quiet almost spoken bridge, warm close clean classic ballad mix, romantic, tender, grateful",
+  "negativeTags": "drums, drum machine, electric guitar, female lead vocals, rap, synth-pop, dance beat, autotune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: solo piano, slow warm chords]\n\n[Verse 1: smooth, conversational, piano only]\nYou navigate by feeling and you've never once been right\nYou sing the wrong words loudly and you leave on every light\nYou're early when I'm late and you are late when I'm on time\nAnd I wouldn't change a minute of this mismanaged life of mine\n\n[Pre-Chorus: piano builds, voice lifts]\nMy head keeps the map\nMy heart threw it out\n\n[Chorus: full voice into falsetto, piano broad]\nYou're my favorite wrong turn\nMy best mistake\nMy lost and found, my give and take\nYou're the long way home I would choose again\nMy favorite wrong turn\nYou're where I meant to end\n\n[Verse 2: smooth, smiling]\nYou argue with the weather and you bargain with the cat\nYou said we'd stay an hour, and it's been years since that\nThe plans I had were tidy and they wouldn't have been true\nEvery road I didn't mean to take was leading me to you\n\n[Pre-Chorus: piano builds, voice lifts]\nMy head keeps the map\nMy heart threw it out\n\n[Chorus: full voice into falsetto, soft strings]\nYou're my favorite wrong turn\nMy best mistake\nMy lost and found, my give and take\nYou're the long way home I would choose again\nMy favorite wrong turn\nYou're where I meant to end\n\n[Bridge: quiet, almost spoken, single piano notes]\nSo get us lost\nI'll hold the bags\nGet us lost\nI'm glad\n\n[Final Chorus: biggest, held falsetto note, strings]\nYou're my favorite wrong turn\nMy best mistake\nMy lost and found, my give and take\nYou're the long way home I would choose again\nMy favorite wrong turn\nYou're where I meant to end\n\n[Outro: piano alone, last chord held]\nWhere I meant to end",
+  "taskId": "c757aba0987bf3a95e6544d2a156b3ae",
+  "sunoClipIds": [
+    "d44f2049-58d2-4648-b679-58369e8e08b2",
+    "6f5a9302-eb68-4c2a-8974-53e9885a8d98"
+  ],
+  "created": "Nov 17, 2026 10:20 AM ET",
+  "createTimeMs": 1794928827541,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "d44f2049-58d2-4648-b679-58369e8e08b2",
+      "durationSec": 244.68,
+      "file": "twentytens/e10_14_favorite_wrong_turn_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "6f5a9302-eb68-4c2a-8974-53e9885a8d98",
+      "durationSec": 244.96,
+      "file": "twentytens/e10_14_favorite_wrong_turn_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_14_favorite_wrong_turn_req.json",
+    "twentytens/e10_14_favorite_wrong_turn_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_14_favorite_wrong_turn.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_14_favorite_wrong_turn.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 63 BPM, 4/4, A-flat major. Slow, warm and unhurried. A private song in a quiet room.\n\nVOICE: Male tenor, smooth and warm with a soul and gospel background. Verses nearly spoken, with a smile in them. The chorus climbs into a clear, sweet falsetto on the top lines. One long held falsetto note in the last chorus. No backing vocals.\n\nINSTRUMENTS: A grand piano playing broad, slow chords with small gospel turns. A soft string section that enters in the second chorus and grows in the last. Nothing else. No drums.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:15 Verse 1. 0:53 Pre-chorus. 1:04 Chorus 1. 1:34 Verse 2. 2:12 Pre-chorus. 2:23 Chorus 2, strings. 2:53 Bridge, single piano notes, almost spoken. 3:08 Final chorus with the held falsetto note. 3:38 Outro, piano alone, the last chord held to 3:50.\n\nPRODUCTION & MIX: A classic piano ballad recording: warm, close and clean, the piano wide, the voice in the centre with a little plate reverb.\n\nSIGNATURE MOMENT: The step up into falsetto on the first line of the chorus.\n\nMODERN POINT OF VIEW: This is a song from the far side of the wedding. The evidence is years of wrong directions and left-on lights, and 'where I meant to end' is said by someone who has seen where the tidy plan would have led.\n\nEMOTIONAL ARC: Affectionate complaint, gratitude, a vow renewed.",
+  "workbookAtAGlance": "Favorite Wrong Turn\n\nBackup titles\nWhere I Meant to End / Mismanaged Life of Mine\n\nAt a glance\n63 BPM, A-flat major\nVoice: Smooth male tenor with falsetto\nLength: about 3 minutes 50",
+  "year": 2013,
+  "qa": {
+    "title": "Favorite Wrong Turn",
+    "id": "e10_14",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 78 BPM vs 63 target (~17% off)"
+        ],
+        "durationSec": 244.7,
+        "measuredBpm": 78.3,
+        "bpmFactor": 0.67,
+        "targetBpm": 63,
+        "bpmErrPct": 17.1,
+        "lufs": -14.7,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.6,
+        "contentEndSec": 243.3,
+        "vocalCoverage": 0.661,
+        "vocalSpanSec": [
+          16.5,
+          231.0
+        ],
+        "vocalF0MedianHz": 261,
+        "vocalF0P25Hz": 233,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 78 BPM vs 63 target (~17% off)"
+        ],
+        "durationSec": 245.0,
+        "measuredBpm": 78.3,
+        "bpmFactor": 0.67,
+        "targetBpm": 63,
+        "bpmErrPct": 17.1,
+        "lufs": -15.1,
+        "peakDbfs": -0.48,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 244.9,
+        "vocalCoverage": 0.632,
+        "vocalSpanSec": [
+          18.4,
+          235.0
+        ],
+        "vocalF0MedianHz": 277,
+        "vocalF0P25Hz": 231,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Soul"
+}

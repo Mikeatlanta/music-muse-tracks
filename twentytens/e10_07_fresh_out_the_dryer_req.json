@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Fresh Out the Dryer",
+  "prompt": "[Intro: male voices sing the bass line, finger snaps, guitar scratch]\nDoh, doh-doh-doh, doh-doh\nDoh, doh-doh-doh, doh-doh\n\n[Verse 1: swaggering talk-sung lead, tight drums and bass]\nThis shirt? Ironed. These shoes? Orthopaedic, shined\nThis playlist? Vinyl, alphabetised\nGot a coupon in my pocket and a spring in my stride\nMy knees went \"crack,\" I said \"that's just applause\"\n\n[Pre-Chorus: band hits, group answers]\nFeel that? (Still warm)\nSmell that? (Lemon breeze)\nWho's that? (That's him)\nOoh\n\n[Chorus: horn riff, gang shouts, stop-start hits]\nFresh out the dryer (ooh)\nWarm to the touch\nFresh out the dryer (ooh)\nAnd it's all too much\nSomebody open a window\nThe man is fluffed\n\n[Verse 2: swaggering talk-sung lead, synth stabs]\nI parallel park on the first attempt\nI know a guy who knows a guy, and both of them are bent\nOn getting me a table, any night, any town\nI tip twenty per cent, then I boogie on down\n\n[Pre-Chorus: band hits, group answers]\nFeel that? (Still warm)\nSmell that? (Lemon breeze)\nWho's that? (That's him)\nOoh\n\n[Chorus: horn riff, gang shouts, stop-start hits]\nFresh out the dryer (ooh)\nWarm to the touch\nFresh out the dryer (ooh)\nAnd it's all too much\nSomebody open a window\nThe man is fluffed\n\n[Breakdown: band stops dead, spoken commands, drums only]\nStop\nLint trap\nWait for it\nShake it out, shake it out\nHang it up\n\n[Bridge: build, voices stacking, horns climbing]\nBefore I leave, let me fold you something\nBefore I leave, let me fold you something\nTumble, tumble, tumble, tumble\nDry\n\n[Final Chorus: full band, horn riff on top, ad-libs]\nFresh out the dryer (ooh)\nWarm to the touch\nFresh out the dryer (ooh)\nAnd it's all too much\nSomebody open a window\nThe man is fluffed\n\n[Outro: vocal bass line and snaps, one horn stab]\nDoh, doh-doh-doh, doh-doh\nFluffed",
+  "style": "2014 retro funk pop in an early-1980s Minneapolis style, bright flexible show-off male tenor talk-singing the verses with comic timing and shouting the hooks, group of men singing the bass line on nonsense syllables and answering, 115 BPM, D minor, tight strutting stop-start groove, punchy horn section riff, slap electric bass, scratchy clean rhythm guitar, tight drums with dry snare, bright synth stabs, squealing synth lead, finger snaps, handclaps, dead-stop breakdown with spoken commands, dry punchy bright mix, swaggering, funny, joyful",
+  "negativeTags": "female lead vocals, slow ballad, distorted rock guitar, dark mood, trap hi-hats, autotune, dubstep",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

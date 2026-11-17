@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Houseplant",
+  "prompt": "[Intro: dreamy guitar chords, soft synth, wordless hum]\nOoh, ooh\n\n[Verse 1: light high tenor, melodic, half mumbled]\nYou get by on a glass of water and a window\nI forget you for a week, you only lean in closer\nEvery time I'm leaving, every time I'm gone\nYou put out a new leaf like nothing's wrong\n\n[Chorus: both voices, soft beat, wide and warm]\nYou're a houseplant\nGrowing toward me\nI don't deserve the way you stay\nYou're a houseplant\nStill in the morning\nI left you in the dark\nAnd you grew anyway\n\n[Verse 2: warbling baritone, slower phrasing]\nI'm bad at this, I lose the things I hold\nToo much or not enough is all I know\nBut you keep on, you keep on\nGreen in a grey apartment\nGreen in a grey apartment\n\n[Chorus: both voices, soft beat, wide and warm]\nYou're a houseplant\nGrowing toward me\nI don't deserve the way you stay\nYou're a houseplant\nStill in the morning\nI left you in the dark\nAnd you grew anyway\n\n[Bridge: beat drops, high voice alone with guitar]\nI'll move you to the window\nI'll learn your name\nI'll be here in the morning\nI'll try to be the rain\n\n[Final Chorus: both voices, fuller, harmony on top]\nYou're a houseplant\nGrowing toward me\nI don't deserve the way you stay\nYou're a houseplant\nStill in the morning\nI left you in the dark\nAnd you grew anyway\n\n[Outro: hum, guitar chord left ringing]\nOoh, you grew anyway",
+  "style": "2018 dreamy melodic hip-hop pop, two male voices, a light high sweet tenor with a slurred melodic delivery and slight pitch-correction shimmer, and a deeper voice with a fast wavering vibrato, singing the chorus together, 90 BPM, D major, slow floating and sunlit, clean chorus-effected electric guitar chords that ring and blur, soft round 808 bass, gentle sparse beat with muted kick, warm synth pads, glassy synth melody, soft reverb on everything, hazy warm wide mix, tender, wistful, short",
+  "negativeTags": "distorted guitar, rock drums, female lead vocals, fast tempo, aggressive rap, EDM drop, saxophone",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 180,
+  "callBackUrl": "https://example.com/cb"
+}

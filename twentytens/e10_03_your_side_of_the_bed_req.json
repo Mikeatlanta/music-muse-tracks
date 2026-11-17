@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Your Side of the Bed",
+  "prompt": "[Intro: plucked marimba-like loop, guitar body taps, finger snaps]\n\n[Verse 1: half rapped, close, loop and taps only]\nMonday night and the dishes waiting\nYour hair's still wet and the kettle's shaking\nYou're reading something, your foot's on mine\nSix years here and I still lose time\n\n[Pre-Chorus: bass enters, backing voices loop]\nSay hey, come here, put the book down now\nThe plates can soak, I'll show you how\n\n[Chorus: full groove, stacked voices]\nI've got a thing for your side of the bed\nThe dent you leave, the things you said\nThe cold feet and the stolen sheet\nThe way you talk right through your sleep\nI've got a thing for your side\nMm-hm, mm-hm\nYour side of the bed\n\n[Verse 2: half rapped, playful, kick drum added]\nYou leave a glass on every surface\nYou hum off-key and you do it on purpose\nYou take the left, you take the middle too\nI'm on the edge and I'm fine with the view\n\n[Pre-Chorus: bass and backing voices]\nSay hey, come here, put the phone down now\nThe world can wait, I'll show you how\n\n[Chorus: full groove, stacked voices]\nI've got a thing for your side of the bed\nThe dent you leave, the things you said\nThe cold feet and the stolen sheet\nThe way you talk right through your sleep\nI've got a thing for your side\nMm-hm, mm-hm\nYour side of the bed\n\n[Bridge: groove drops to voices and claps, round building]\nCome on, be my morning\nCome on, be my night\nCome on, be the reason\nI never get the light\n\n[Final Chorus: everything, extra harmonies, ad-libs]\nI've got a thing for your side of the bed\nThe dent you leave, the things you said\nThe cold feet and the stolen sheet\nThe way you talk right through your sleep\nI've got a thing for your side\nMm-hm, mm-hm\nYour side of the bed\n\n[Outro: loop alone, a lamp clicking off]",
+  "style": "2017 minimal tropical-tinged pop, male tenor vocal with a soft English accent, rhythmic half-rapped close delivery, his own voice looped and stacked as backing hums and percussive breaths, 96 BPM, C-sharp minor, light syncopated sway, short plucked marimba-like synth loop throughout, percussive taps on an acoustic guitar body, finger snaps, claps, deep simple bass, soft kick, voices-and-claps bridge built as a round, very few sounds, dry close clean mix with deep sub-bass, warm, playful, intimate",
+  "negativeTags": "distorted guitar, rock drums, female lead vocals, big reverb, heavy synths, dubstep, saxophone",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

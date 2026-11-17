@@ -1,0 +1,115 @@
+{
+  "id": "e10_17",
+  "title": "Mutual Friends",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 17,
+  "slug": "e10_17_mutual_friends",
+  "inspiredBy": "Somebody That I Used to Know (Gotye feat. Kimbra, 2011)",
+  "leadVoice": "A man with a soft, slightly reedy tenor who sings the verse quietly and evenly, then jumps a full octave into a strained, wounded shout for the chorus. A woman with a cool, clear, slightly smoky voice who delivers her verse calmly and with an edge, then answers him in the chorus.",
+  "model": "V6",
+  "style": "2011 art-pop breakup duet, soft slightly reedy male tenor singing a quiet even verse then leaping an octave into a strained wounded shout for the chorus, cool clear slightly smoky female voice singing a calm cutting second verse and answering in the chorus, 129 BPM, D minor, small precise and tense, two-bar plucked nylon-string guitar loop, simple nursery-like xylophone melody, shaker and hand percussion, deep plain bass, sparse kick and snare, wavering flute-like synth, strings at the end, dry close hand-made mix, wounded, wry, tense",
+  "negativeTags": "distorted guitar, EDM drop, rap, big synths, trap hi-hats, autotune, saxophone, dance beat",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: plucked nylon guitar loop, soft xylophone, shaker]\n\n[Verse 1: male, quiet, almost reasonable]\nWe still like the same six photos\nWe still know the same nine friends\nYou wave to me at weddings\nLike the edge of something ends\nI said we'd keep it civil\nAnd I meant it, and I do\nI only want to know the rules\nFor rooms with me and you\n\n[Chorus: male voice leaps an octave, full band]\nSo who gets the Hendersons?\nWho gets Sam and Jo?\nWho gets New Year's at the lake house?\nAnd who's supposed to know?\nI could stand to lose a lover\nI could learn to sleep alone\nBut you took the mutual friends\n\n[Verse 2: female, cool, the loop and bass only]\nFunny how you want them now\nYou never knew their kids\nI sent the cards, I made the calls\nI showed up when you hid\nYou stayed home with your records\nWhile I drove to every do\nThey were never mutual, love\nThey put up with you\n\n[Chorus: both voices, his high, hers answering]\nSo who gets the Hendersons?\n(They were mine)\nWho gets Sam and Jo?\n(They were mine)\nWho gets New Year's at the lake house?\nAnd who's supposed to know?\nI could stand to lose a lover\nI could learn to sleep alone\nBut you took the mutual friends\n\n[Bridge: band drops to xylophone and voices]\nMutual\n(Were they?)\nMutual\n(Were they?)\n\n[Final Chorus: both voices at full strength, strings]\nI could stand to lose a lover\nI could learn to sleep alone\nBut you took the mutual friends\n(I only took my own)\n\n[Outro: plucked loop alone, slowing]\nThe mutual friends",
+  "taskId": "52c17dcfcd2e6897de0afeccaefc513d",
+  "sunoClipIds": [
+    "0c5ca68a-9fe4-4760-938a-3cb23b6f6031",
+    "5f53f561-7318-41a6-98ad-e7bcca70decd"
+  ],
+  "created": "Nov 17, 2026 10:20 AM ET",
+  "createTimeMs": 1794928830347,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0c5ca68a-9fe4-4760-938a-3cb23b6f6031",
+      "durationSec": 244.8,
+      "file": "twentytens/e10_17_mutual_friends_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5f53f561-7318-41a6-98ad-e7bcca70decd",
+      "durationSec": 244.16,
+      "file": "twentytens/e10_17_mutual_friends_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_17_mutual_friends_req.json",
+    "twentytens/e10_17_mutual_friends_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_17_mutual_friends.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_17_mutual_friends.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 129 BPM, 4/4, D minor. Small, precise and tense, then suddenly loud.\n\nVOICE: A man with a soft, slightly reedy tenor who sings the verse quietly and evenly, then jumps a full octave into a strained, wounded shout for the chorus. A woman with a cool, clear, slightly smoky voice who delivers her verse calmly and with an edge, then answers him in the chorus.\n\nINSTRUMENTS: A two-bar loop of plucked nylon-string guitar. A simple xylophone melody that sounds like a nursery tune. Shaker and soft hand percussion. A deep, plain bass. A sparse kick and snare in the choruses. A wavering flute-like synth. Strings in the final chorus.\n\nARRANGEMENT MAP: 0:00 Intro, the guitar loop and xylophone. 0:15 Verse 1, the man, quiet. 0:59 Chorus 1, he leaps up and the band enters. 1:29 Verse 2, the woman, over loop and bass. 2:13 Chorus 2, both voices. 2:50 Bridge, xylophone and two words traded. 3:05 Final chorus, short, both at full strength. 3:27 Outro, the loop alone, slowing to a stop at 3:45.\n\nPRODUCTION & MIX: Early-2010s art-pop: dry, close and hand-made, with very few elements and a lot of dynamic range.\n\nSIGNATURE MOMENT: The octave leap on the first line of the chorus at 0:59.\n\nMODERN POINT OF VIEW: The fight is over who keeps the friends, the lake house weekends and the pews at weddings. That is how separations go in middle age, and her verse lands harder because it is so practical.\n\nEMOTIONAL ARC: Politeness, grievance, a calm correction, doubt.",
+  "workbookAtAGlance": "Mutual Friends\n\nBackup titles\nWho Gets the Hendersons / I Sent the Cards\n\nAt a glance\n129 BPM, D minor\nVoice: Quiet male tenor that leaps to a shout; female reply\nLength: about 3 minutes 50",
+  "year": 2011,
+  "qa": {
+    "title": "Mutual Friends",
+    "id": "e10_17",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 129,
+        "bpmErrPct": 0.2,
+        "lufs": -13.0,
+        "peakDbfs": -0.02,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 243.9,
+        "vocalCoverage": 0.553,
+        "vocalSpanSec": [
+          18.7,
+          242.4
+        ],
+        "vocalF0MedianHz": 261,
+        "vocalF0P25Hz": 197,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.2,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 129,
+        "bpmErrPct": 0.2,
+        "lufs": -13.3,
+        "peakDbfs": -0.17,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 241.3,
+        "vocalCoverage": 0.57,
+        "vocalSpanSec": [
+          16.0,
+          235.1
+        ],
+        "vocalF0MedianHz": 297,
+        "vocalF0P25Hz": 227,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Art Pop"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Running Every Red",
+  "prompt": "[Intro: bright analog synth riff, racing drum machine, gated snare]\n\n[Verse 1: smooth, urgent, pulsing synth bass]\nCalled you once and I hung up twice\nDrove a circle round the same advice\nEvery sign says slow it down\nI'm the only car in town\n\n[Pre-Chorus: drums thin, pad swells]\nAnd the radio's all static and regret\nI can't stand the quiet yet\n\n[Chorus: full beat, synth riff answers every line]\nI'm running every red\nTo get to where you are\nThe whole town's gone to bed\nI'm a comet in a car\nI can't see, I can't see past the glow\nTell me stop or tell me go\nI'm running every red\n\n[Verse 2: smooth, a little rueful]\nI'm too old for a midnight drive\nGot a knee that knows when the rain arrives\nBut you said \"come,\" one little word\nFastest thing I ever heard\n\n[Pre-Chorus: drums thin, pad swells]\nAnd the radio's all static and regret\nI can't stand the quiet yet\n\n[Chorus: full beat, synth riff answers every line]\nI'm running every red\nTo get to where you are\nThe whole town's gone to bed\nI'm a comet in a car\nI can't see, I can't see past the glow\nTell me stop or tell me go\nI'm running every red\n\n[Bridge: half-time, falsetto, drums drop to kick]\nI'm only coming back to say I'm sorry\nI ran out of yellow lights to hurry\nLeave the door, leave the door\n\n[Synth Solo: the riff an octave up, drums return]\n\n[Final Chorus: everything, falsetto ad-libs]\nI'm running every red\nTo get to where you are\nThe whole town's gone to bed\nI'm a comet in a car\nI can't see, I can't see past the glow\nTell me stop or tell me go\nI'm running every red\n\n[Outro: synth riff alone, engine ticking, stop]",
+  "style": "2019 synthwave pop with a 1980s sound, smooth light male tenor vocal with easy falsetto, doubled wide chorus, falsetto bridge, 171 BPM, F minor, racing nocturnal pulse, bright brassy analog synth riff answering the vocal lines, fast straight drum machine with big gated-reverb snare, pulsing eighth-note synth bass, wide glassy synth pads, shimmering arpeggio, half-time bridge, synth solo, no guitars, retro synths with modern sub-bass and width, euphoric, anxious, night drive",
+  "negativeTags": "electric guitar, acoustic guitar, female lead vocals, rap, slow ballad, trap hi-hats, country, piano",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "e10_01",
+  "title": "Running Every Red",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 1,
+  "slug": "e10_01_running_every_red",
+  "inspiredBy": "Blinding Lights (The Weeknd, 2019)",
+  "leadVoice": "Male tenor, smooth and light, with an easy falsetto. Verses sung close and slightly breathless. Chorus doubled and wide. The bridge is in falsetto with long reverb. Wordless falsetto ad-libs over the last chorus.",
+  "model": "V6",
+  "style": "2019 synthwave pop with a 1980s sound, smooth light male tenor vocal with easy falsetto, doubled wide chorus, falsetto bridge, 171 BPM, F minor, racing nocturnal pulse, bright brassy analog synth riff answering the vocal lines, fast straight drum machine with big gated-reverb snare, pulsing eighth-note synth bass, wide glassy synth pads, shimmering arpeggio, half-time bridge, synth solo, no guitars, retro synths with modern sub-bass and width, euphoric, anxious, night drive",
+  "negativeTags": "electric guitar, acoustic guitar, female lead vocals, rap, slow ballad, trap hi-hats, country, piano",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bright analog synth riff, racing drum machine, gated snare]\n\n[Verse 1: smooth, urgent, pulsing synth bass]\nCalled you once and I hung up twice\nDrove a circle round the same advice\nEvery sign says slow it down\nI'm the only car in town\n\n[Pre-Chorus: drums thin, pad swells]\nAnd the radio's all static and regret\nI can't stand the quiet yet\n\n[Chorus: full beat, synth riff answers every line]\nI'm running every red\nTo get to where you are\nThe whole town's gone to bed\nI'm a comet in a car\nI can't see, I can't see past the glow\nTell me stop or tell me go\nI'm running every red\n\n[Verse 2: smooth, a little rueful]\nI'm too old for a midnight drive\nGot a knee that knows when the rain arrives\nBut you said \"come,\" one little word\nFastest thing I ever heard\n\n[Pre-Chorus: drums thin, pad swells]\nAnd the radio's all static and regret\nI can't stand the quiet yet\n\n[Chorus: full beat, synth riff answers every line]\nI'm running every red\nTo get to where you are\nThe whole town's gone to bed\nI'm a comet in a car\nI can't see, I can't see past the glow\nTell me stop or tell me go\nI'm running every red\n\n[Bridge: half-time, falsetto, drums drop to kick]\nI'm only coming back to say I'm sorry\nI ran out of yellow lights to hurry\nLeave the door, leave the door\n\n[Synth Solo: the riff an octave up, drums return]\n\n[Final Chorus: everything, falsetto ad-libs]\nI'm running every red\nTo get to where you are\nThe whole town's gone to bed\nI'm a comet in a car\nI can't see, I can't see past the glow\nTell me stop or tell me go\nI'm running every red\n\n[Outro: synth riff alone, engine ticking, stop]",
+  "taskId": "32254cdb704d8e16338666826c11f763",
+  "sunoClipIds": [
+    "77923255-607a-44c6-8b1f-04081c4a7173",
+    "0195b8c7-f7b4-4002-a004-c10d2ddaa536"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928755892,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "77923255-607a-44c6-8b1f-04081c4a7173",
+      "durationSec": 213.6,
+      "file": "twentytens/e10_01_running_every_red_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "0195b8c7-f7b4-4002-a004-c10d2ddaa536",
+      "durationSec": 214.0,
+      "file": "twentytens/e10_01_running_every_red_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_01_running_every_red_req.json",
+    "twentytens/e10_01_running_every_red_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_01_running_every_red.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_01_running_every_red.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 171 BPM, 4/4, F minor. A racing, nocturnal pulse. Euphoric on the surface, anxious underneath.\n\nVOICE: Male tenor, smooth and light, with an easy falsetto. Verses sung close and slightly breathless. Chorus doubled and wide. The bridge is in falsetto with long reverb. Wordless falsetto ad-libs over the last chorus.\n\nINSTRUMENTS: A bright, brassy analog synthesiser playing a short, catchy riff that returns between vocal lines. A drum machine with a fast, straight beat and a big gated-reverb snare. Pulsing eighth-note synth bass. Wide, glassy synth pads. A shimmering arpeggio in the chorus. No guitars.\n\nARRANGEMENT MAP: 0:00 Intro, the synth riff over the drum machine. 0:11 Verse 1. 0:28 Pre-chorus. 0:39 Chorus 1. 1:07 Verse 2. 1:24 Pre-chorus. 1:35 Chorus 2. 2:03 Bridge in half time. 2:20 Synth solo, the riff an octave higher. 2:31 Final chorus with ad-libs. 2:59 Outro, the riff alone, the sound of an engine ticking as it cools, ending at 3:15.\n\nPRODUCTION & MIX: A modern recording dressed as 1985: analog-style synths and gated drums with present-day sub-bass, loudness and stereo width.\n\nSIGNATURE MOMENT: The synth riff in the first three seconds.\n\nMODERN POINT OF VIEW: The driver has a bad knee and knows better. The need is the same one, felt by someone with more to lose, which makes the bridge's apology land.\n\nEMOTIONAL ARC: Restlessness, pursuit, remorse, arrival.",
+  "workbookAtAGlance": "Running Every Red\n\nBackup titles\nComet in a Car / One Little Word\n\nAt a glance\n171 BPM, F minor\nVoice: Smooth male tenor with falsetto\nLength: about 3 minutes 20",
+  "year": 2019,
+  "qa": {
+    "title": "Running Every Red",
+    "id": "e10_01",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 213.6,
+        "measuredBpm": 172.3,
+        "bpmFactor": 1,
+        "targetBpm": 171,
+        "bpmErrPct": 0.7,
+        "lufs": -13.7,
+        "peakDbfs": -0.96,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 213.0,
+        "vocalCoverage": 0.651,
+        "vocalSpanSec": [
+          6.7,
+          202.8
+        ],
+        "vocalF0MedianHz": 465,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.694,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 129 BPM vs 171 target (~13% off)"
+        ],
+        "durationSec": 214.0,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1.5,
+        "targetBpm": 171,
+        "bpmErrPct": 13.3,
+        "lufs": -13.6,
+        "peakDbfs": -0.88,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 212.2,
+        "vocalCoverage": 0.638,
+        "vocalSpanSec": [
+          22.3,
+          196.8
+        ],
+        "vocalF0MedianHz": 417,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.806,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Synthwave"
+}

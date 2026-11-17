@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Reckless October",
+  "prompt": "[Intro: pulsing distorted synth bass, vocoder harmony, snaps]\n\n[Verse 1: clipped, tense, low in the range]\nPorch light off, engine low\nYou and me and no one's supposed to know\nYour jacket's on my chair again\nTell them we were only ever friends\n\n[Pre-Chorus: drums build, backing voices answer]\nAnd I know better (I know)\nI've read the weather (I know)\nThe leaves are turning and so are we\n\n[Chorus: wide synths, stacked vocals]\nIt's a reckless October\nGot me running stop signs sober\nSaying \"this is the last time\"\nWith your hands in my coat\nOh, whoa\nIt's a reckless October\nAnd I don't want it over\n\n[Verse 2: clipped, tense, a little faster]\nKitchen clock, quarter to\nEvery lie I tell is one for you\nI'm too grown for hiding in a car\nDoing it anyway, and here we are\n\n[Pre-Chorus: drums build, backing voices answer]\nAnd I know better (I know)\nI've read the weather (I know)\nThe leaves are turning and so are we\n\n[Chorus: wide synths, stacked vocals]\nIt's a reckless October\nGot me running stop signs sober\nSaying \"this is the last time\"\nWith your hands in my coat\nOh, whoa\nIt's a reckless October\nAnd I don't want it over\n\n[Bridge: shouted, breathless, drums pounding, no pause for breath]\nI'm barefoot in your drive at three, I laughed till I couldn't breathe\nSaid \"I'm fine,\" I wasn't fine, meant every word, crossed every line\nAnd I shouted from the kerb\n\"I think I'm in this for real,\" and the whole street heard\nYou looked back laughing like you already knew\nOf course you did, you do\n\n[Final Chorus: biggest, vocoder on top, crowd shouting]\nIt's a reckless October\nGot me running stop signs sober\nSaying \"this is the last time\"\nWith your hands in my coat\nOh, whoa\nIt's a reckless October\nAnd I don't want it over\n\n[Outro: synth bass alone, one vocoder note]\nI don't want it over",
+  "style": "2019 synth-pop, bright conversational female soprano vocal, clipped low tense verses, wide stacked chorus with high harmonies, a shouted breathless story bridge with laughter in it, vocoder doubling some lines, crowd shouting in the final chorus, 170 BPM felt at 85, A major, pulsing distorted synth bass, bright wide synthesizer chords, tight drum machine with big snare, finger snaps, glittering high arpeggio, pounding drums under the bridge, glossy wide mix with a dirty bass, secretive, giddy, euphoric",
+  "negativeTags": "male lead vocals, acoustic guitar, slow ballad, heavy metal, trap hi-hats, dubstep, saxophone",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

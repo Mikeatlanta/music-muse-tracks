@@ -1,0 +1,115 @@
+{
+  "id": "e10_10",
+  "title": "Borrowed Flannel",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 10,
+  "slug": "e10_10_borrowed_flannel",
+  "inspiredBy": "Sweater Weather (The Neighbourhood, 2012)",
+  "leadVoice": "Male, low and murmured, delivering the verses fast and rhythmically, half rapped, as if not to be overheard. The chorus is slow, with a clear, light falsetto on the top line and a doubled low voice underneath. Lower and slower still in the bridge.",
+  "model": "V6",
+  "style": "2013 moody indie pop with a hip-hop rhythm section, low murmured male vocal delivering fast half-rapped verses, slow chorus with a clear light falsetto top line doubled by a low voice, 124 BPM with half-time choruses, E minor, final section slowing to a heavy slower tempo, clean heavily reverbed electric guitar playing a short descending riff, tight dry drums, deep simple bass, tremolo guitar, dark synth pads, finger snaps, dark clean reverberant mix, wide guitars, cool, intimate, autumnal",
+  "negativeTags": "female lead vocals, bright upbeat pop, distorted metal guitar, EDM drop, trap hi-hats, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: clean reverb guitar riff, tight dry drums, low bass]\n\n[Verse 1: low, quick, half rapped murmur]\nWindows down in a cold parked car\nTalking like we know who we are\nYour breath on the glass, you draw a house\nI add a door, you rub it out\nRadio's playing something our parents knew\nYou know the words and I look at you\n\n[Pre-Chorus: drums thin, guitar rings]\nIt's colder than they said it'd be\nYou're shaking and you're laughing at me\n\n[Chorus: half-time feel, clear falsetto, wide guitars]\nTake the flannel, it's not mine\nI borrowed it from somebody kind\nIt's been around, it'll go around\nWear it till the leaves come down\nIt's borrowed, borrowed, borrowed\nAnd so are we, for now\n\n[Verse 2: low, quick, half rapped murmur]\nSleeves too long and the collar's frayed\nIt smells like smoke and lemonade\nYou can wear it how you like out here\nNobody's looking, nobody's near\nOne button's wrong and it suits you fine\nYou do it up crooked, just like mine\n\n[Pre-Chorus: drums thin, guitar rings]\nIt's colder than they said it'd be\nYou're shaking and you're laughing at me\n\n[Chorus: half-time feel, clear falsetto, wide guitars]\nTake the flannel, it's not mine\nI borrowed it from somebody kind\nIt's been around, it'll go around\nWear it till the leaves come down\nIt's borrowed, borrowed, borrowed\nAnd so are we, for now\n\n[Bridge: tempo drops, slow and heavy, voice lower]\nSomebody wore it before me\nSomebody will after you\nPass it on, pass it on\nWhen it's warmed you through\n\n[Outro: slow tempo, guitar and voice, fading]\nBorrowed, borrowed, borrowed\nPass it on",
+  "taskId": "9725a843f0872e0f400769bf2e0fbe9c",
+  "sunoClipIds": [
+    "5eb84fea-d197-4831-bbf0-f61fbcf0b92c",
+    "22e4cfa3-77c7-47d0-b2d5-5d25a1c8c321"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928796285,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "5eb84fea-d197-4831-bbf0-f61fbcf0b92c",
+      "durationSec": 239.68,
+      "file": "twentytens/e10_10_borrowed_flannel_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "22e4cfa3-77c7-47d0-b2d5-5d25a1c8c321",
+      "durationSec": 238.6,
+      "file": "twentytens/e10_10_borrowed_flannel_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_10_borrowed_flannel_req.json",
+    "twentytens/e10_10_borrowed_flannel_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_10_borrowed_flannel.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_10_borrowed_flannel.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, E minor, with the choruses felt at half speed and the last section slowed to about 92 BPM. Cool, moody and close.\n\nVOICE: Male, low and murmured, delivering the verses fast and rhythmically, half rapped, as if not to be overheard. The chorus is slow, with a clear, light falsetto on the top line and a doubled low voice underneath. Lower and slower still in the bridge.\n\nINSTRUMENTS: A clean electric guitar with heavy reverb playing a short, descending riff. A tight, dry, hip-hop-influenced drum kit. Deep, simple bass. A second guitar with tremolo. Dark synth pads. Finger snaps in the pre-chorus. The whole track is treated to sound slightly monochrome.\n\nARRANGEMENT MAP: 0:00 Intro, guitar riff, drums and bass. 0:15 Verse 1. 0:38 Pre-chorus. 0:50 Chorus 1 in half time. 1:21 Verse 2. 1:44 Pre-chorus. 1:56 Chorus 2. 2:27 A drum fill and the tempo drops for the bridge, slow and heavy. 3:00 Outro at the slow tempo, guitar and voice fading out by 3:40.\n\nPRODUCTION & MIX: Early-2010s moody indie pop with a hip-hop rhythm section: dark, clean and reverberant, guitars wide, vocal low in pitch but forward.\n\nSIGNATURE MOMENT: The tempo change at 2:27, where the song becomes a different, slower one.\n\nMODERN POINT OF VIEW: The radio is playing something their parents knew, and the bridge says the shirt was worn before and will be worn after. It is the same autumn night with a longer sense of time around it.\n\nEMOTIONAL ARC: Shy closeness, warmth, a wider view, letting go.",
+  "workbookAtAGlance": "Borrowed Flannel\n\nBackup titles\nTill the Leaves Come Down / You Rub It Out\n\nAt a glance\n124 BPM, E minor\nVoice: Low murmured male voice, falsetto hook\nLength: about 3 minutes 45",
+  "year": 2012,
+  "qa": {
+    "title": "Borrowed Flannel",
+    "id": "e10_10",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 239.7,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 0.8,
+        "lufs": -13.9,
+        "peakDbfs": -1.42,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 237.8,
+        "vocalCoverage": 0.52,
+        "vocalSpanSec": [
+          17.2,
+          222.8
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.824,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 238.6,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 4.2,
+        "lufs": -13.8,
+        "peakDbfs": -1.28,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 237.1,
+        "vocalCoverage": 0.525,
+        "vocalSpanSec": [
+          16.6,
+          220.3
+        ],
+        "vocalF0MedianHz": 220,
+        "vocalF0P25Hz": 166,
+        "lyricLineRecall": 0.824,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop"
+}

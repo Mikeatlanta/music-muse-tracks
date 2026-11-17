@@ -1,0 +1,117 @@
+{
+  "id": "e10_19",
+  "title": "New Number, Who's This",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 19,
+  "slug": "e10_19_new_number_whos_this",
+  "inspiredBy": "Don't Start Now (Dua Lipa, 2019)",
+  "leadVoice": "Female alto, low and cool with a little smoke in it, sung almost without vibrato and with a British crispness on the consonants. Verses understated. The chorus is doubled and punchy, with a group answering on the short lines. Half whispered in the bridge.",
+  "model": "V6",
+  "style": "2019 nu-disco pop, cool low slightly smoky female alto vocal with almost no vibrato and crisp British consonants, understated verses, doubled punchy chorus with a group answering, half whispered bridge, 124 BPM, B minor, strutting four-on-the-floor disco groove, busy melodic electric bass guitar line as the lead instrument, open hi-hats, handclaps, cowbell, string section runs and stabs, clean rhythm guitar chops, bright piano, synth pads, tight glossy punchy mix, confident, sharp, danceable",
+  "negativeTags": "male lead vocals, slow ballad, distorted rock guitar, sad mood, trap hi-hats, dubstep, country",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 200,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: melodic disco bass line alone, handclaps, a cowbell]\n\n[Verse 1: cool, low, bass and drums]\nTook a class, took a trip\nTook your photo off the fridge\nLearned to cook for only one\nTurns out I'm good, turns out it's fun\n\n[Pre-Chorus: strings rise, kick drops out]\nSo if you're scrolling\nIf you're thinking of a text\nLet me save you the regret\n\n[Chorus: four-on-the-floor, strings, gang answers]\nNew number, who's this?\nDon't know you, don't miss\nThe way you used to keep me small\nWalk on, don't call\nIf you see me out, I'm dancing\nIf you see me, keep on passing\nNew number, who's this?\n\n[Verse 2: cool, a little amused]\nHeard you asked about my name\nHeard you're sorry, heard you changed\nThat's so great, that's so sweet\nTell it to somebody else's feet\n\n[Pre-Chorus: strings rise, kick drops out]\nSo if you're outside\nIf you're idling in the car\nStay exactly where you are\n\n[Chorus: four-on-the-floor, strings, gang answers]\nNew number, who's this?\nDon't know you, don't miss\nThe way you used to keep me small\nWalk on, don't call\nIf you see me out, I'm dancing\nIf you see me, keep on passing\nNew number, who's this?\n\n[Bridge: bass and claps only, half whispered]\nUp, up\nOut, out\nOver, over\nDone\n\n[Final Chorus: everything, cowbell, string runs, ad-libs]\nNew number, who's this?\nDon't know you, don't miss\nThe way you used to keep me small\nWalk on, don't call\nIf you see me out, I'm dancing\nIf you see me, keep on passing\nNew number, who's this?\n\n[Outro: bass line alone, a phone buzzing, ignored]\nWho's this?",
+  "taskId": "42cf246220d7c65d559a7cf04446fa03",
+  "sunoClipIds": [
+    "8606a575-759f-4a14-bef7-72193fb141d3",
+    "a96217b3-36c4-47e1-8d9f-bdc7f65ab064"
+  ],
+  "created": "Nov 17, 2026 10:20 AM ET",
+  "createTimeMs": 1794928833397,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "8606a575-759f-4a14-bef7-72193fb141d3",
+      "durationSec": 199.16,
+      "file": "twentytens/e10_19_new_number_whos_this_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a96217b3-36c4-47e1-8d9f-bdc7f65ab064",
+      "durationSec": 200.0,
+      "file": "twentytens/e10_19_new_number_whos_this_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_19_new_number_whos_this_req.json",
+    "twentytens/e10_19_new_number_whos_this_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_19_new_number_whos_this.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_19_new_number_whos_this.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, B minor. A strutting, four-on-the-floor disco groove. Cool, sharp and unbothered.\n\nVOICE: Female alto, low and cool with a little smoke in it, sung almost without vibrato and with a British crispness on the consonants. Verses understated. The chorus is doubled and punchy, with a group answering on the short lines. Half whispered in the bridge.\n\nINSTRUMENTS: An electric bass guitar playing a busy, melodic disco line, the lead instrument. A four-on-the-floor kick with open hi-hats. Handclaps. A cowbell. A string section playing rising runs and stabs. Clean rhythm guitar chops. A bright piano in the chorus. Synth pads.\n\nARRANGEMENT MAP: 0:00 Intro, the bass line alone with claps and cowbell. 0:10 Verse 1. 0:26 Pre-chorus, the kick drops out. 0:38 Chorus 1. 1:02 Verse 2. 1:18 Pre-chorus. 1:30 Chorus 2. 1:54 Bridge, bass and claps, half whispered. 2:10 Final chorus with string runs and ad-libs. 2:42 Outro, the bass alone, a phone buzzing on a table, one spoken line at 3:00.\n\nPRODUCTION & MIX: Late-2010s nu-disco: tight, glossy and punchy, bass and kick locked at the centre, strings wide, vocal dry and close.\n\nSIGNATURE MOMENT: The bass line alone in the first four seconds.\n\nMODERN POINT OF VIEW: The proof of recovery is ordinary: a class, a trip, cooking for one and liking it. It is a break-up song for someone who has rebuilt an actual life.\n\nEMOTIONAL ARC: Composure, amusement, dismissal, a dance.",
+  "workbookAtAGlance": "New Number, Who's This\n\nBackup titles\nCook for Only One / Keep On Passing\n\nAt a glance\n124 BPM, B minor\nVoice: Cool low female alto\nLength: about 3 minutes 5",
+  "year": 2019,
+  "qa": {
+    "title": "New Number, Who's This",
+    "id": "e10_19",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 199.2,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 4.2,
+        "lufs": -13.4,
+        "peakDbfs": -1.07,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 197.7,
+        "vocalCoverage": 0.628,
+        "vocalSpanSec": [
+          15.9,
+          195.0
+        ],
+        "vocalF0MedianHz": 372,
+        "vocalF0P25Hz": 249,
+        "lyricLineRecall": 0.971,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 200.0,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 4.2,
+        "lufs": -13.4,
+        "peakDbfs": -0.71,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 198.4,
+        "vocalCoverage": 0.629,
+        "vocalSpanSec": [
+          15.8,
+          198.3
+        ],
+        "vocalF0MedianHz": 369,
+        "vocalF0P25Hz": 277,
+        "lyricLineRecall": 0.971,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Nu-Disco"
+}

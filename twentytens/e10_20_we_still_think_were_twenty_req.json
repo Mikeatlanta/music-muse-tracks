@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "We Still Think We're Twenty",
+  "prompt": "[Intro: soft synth chords, muted kick, finger snaps]\n\n[Verse 1: male, plain, conversational]\nClass of something, name tag on my jacket\nTold myself an hour, then I'd pack it\nThen you walked in with that laugh I'd know anywhere\nFifteen years, and you sat down in the same chair\n\n[Pre-Chorus: synths rise, beat builds]\nSo order what we used to\nThe cheap one and the fries\nDon't tell me what you do now\nTell me lies\n\n[Chorus: both voices, full beat]\nSo here we are in the car park\nWith the heater that never worked\nYour sister's Honda, the scratched CD\nAnd the song that always skipped\nSay nothing's changed\nSay we're exempt\nWe still think we're twenty\nWe still think we're twenty\n\n[Drop: wordless pitched synth melody, claps, bass]\n\n[Verse 2: female, husky, amused]\nFour years gone and a kid called Sunday\nMoved away and came back on a Monday\nYou still wear that awful shirt\nI still know the awful words\n\n[Pre-Chorus: synths rise, beat builds]\nSo order what we used to\nThe cheap one and the fries\nDon't ask me if I'm happy\nTell me lies\n\n[Chorus: both voices, full beat]\nSo here we are in the car park\nWith the heater that never worked\nYour sister's Honda, the scratched CD\nAnd the song that always skipped\nSay nothing's changed\nSay we're exempt\nWe still think we're twenty\nWe still think we're twenty\n\n[Drop: wordless pitched synth melody, claps, bass]\n\n[Bridge: beat drops out, both voices, quiet]\nMy knees hurt\nYour eyes are tired\nIt's ten o'clock\nWe're wired\n\n[Final Chorus: both voices, biggest, synth melody on top]\nSay nothing's changed\nSay we're exempt\nWe still think we're twenty\nWe still think we're twenty\n\n[Outro: synth melody alone, a CD skipping, stop]",
+  "style": "2016 pop EDM duet, plain untrained slightly flat conversational male voice and husky textured female voice with a catch in it, a verse each and unison choruses, 95 BPM, A-flat major, relaxed mid-tempo electronic pulse, soft warm synthesizer chords, simple pitched synth lead playing a wordless melody after each chorus as the main hook, muted kick and finger snaps in the verses, fuller beat with claps in the chorus, deep round sub-bass, gentle piano, soft drop, beatless quiet bridge, soft rounded clean mix, nostalgic, wistful, warm",
+  "negativeTags": "distorted guitar, rock drums, hard dubstep drop, belting, rap, acoustic folk, saxophone, country",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

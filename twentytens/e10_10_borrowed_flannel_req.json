@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Borrowed Flannel",
+  "prompt": "[Intro: clean reverb guitar riff, tight dry drums, low bass]\n\n[Verse 1: low, quick, half rapped murmur]\nWindows down in a cold parked car\nTalking like we know who we are\nYour breath on the glass, you draw a house\nI add a door, you rub it out\nRadio's playing something our parents knew\nYou know the words and I look at you\n\n[Pre-Chorus: drums thin, guitar rings]\nIt's colder than they said it'd be\nYou're shaking and you're laughing at me\n\n[Chorus: half-time feel, clear falsetto, wide guitars]\nTake the flannel, it's not mine\nI borrowed it from somebody kind\nIt's been around, it'll go around\nWear it till the leaves come down\nIt's borrowed, borrowed, borrowed\nAnd so are we, for now\n\n[Verse 2: low, quick, half rapped murmur]\nSleeves too long and the collar's frayed\nIt smells like smoke and lemonade\nYou can wear it how you like out here\nNobody's looking, nobody's near\nOne button's wrong and it suits you fine\nYou do it up crooked, just like mine\n\n[Pre-Chorus: drums thin, guitar rings]\nIt's colder than they said it'd be\nYou're shaking and you're laughing at me\n\n[Chorus: half-time feel, clear falsetto, wide guitars]\nTake the flannel, it's not mine\nI borrowed it from somebody kind\nIt's been around, it'll go around\nWear it till the leaves come down\nIt's borrowed, borrowed, borrowed\nAnd so are we, for now\n\n[Bridge: tempo drops, slow and heavy, voice lower]\nSomebody wore it before me\nSomebody will after you\nPass it on, pass it on\nWhen it's warmed you through\n\n[Outro: slow tempo, guitar and voice, fading]\nBorrowed, borrowed, borrowed\nPass it on",
+  "style": "2013 moody indie pop with a hip-hop rhythm section, low murmured male vocal delivering fast half-rapped verses, slow chorus with a clear light falsetto top line doubled by a low voice, 124 BPM with half-time choruses, E minor, final section slowing to a heavy slower tempo, clean heavily reverbed electric guitar playing a short descending riff, tight dry drums, deep simple bass, tremolo guitar, dark synth pads, finger snaps, dark clean reverberant mix, wide guitars, cool, intimate, autumnal",
+  "negativeTags": "female lead vocals, bright upbeat pop, distorted metal guitar, EDM drop, trap hi-hats, saxophone",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 240,
+  "callBackUrl": "https://example.com/cb"
+}

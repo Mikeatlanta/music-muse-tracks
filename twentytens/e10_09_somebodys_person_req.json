@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Somebody's Person",
+  "prompt": "[Intro: solo piano, four simple chords]\n\n[Verse 1: raw, quiet, piano only]\nI keep setting out two plates\nI keep saving you the news\nEvery funny thing that happens\nStill gets halfway to you\n\n[Pre-Chorus: voice rises, left hand of the piano deepens]\nAnd the phone lights up and it isn't your name\nAnd I put it back down again\n\n[Chorus: full voice, strained, piano louder]\nI was somebody's person\nSomebody's \"call me when you land\"\nNow there's no one I report to\nAnd I don't know where to put my hands\nI was somebody's person\nNow I'm just someone\n\n[Verse 2: quiet again, a single cello joins]\nThere's a coat I haven't moved\nThere's a mug I haven't cleaned\nI've got all the room I wanted\nAnd I don't know what it means\n\n[Pre-Chorus: voice rises, cello swells]\nAnd the door goes click and it's only the wind\nAnd I say your name again\n\n[Chorus: full voice, strings, piano pounding]\nI was somebody's person\nSomebody's \"call me when you land\"\nNow there's no one I report to\nAnd I don't know where to put my hands\nI was somebody's person\nNow I'm just someone\n\n[Bridge: almost shouted, voice cracking]\nAnd I'd give anything\nTo be asked if I got home\nTo be told to wear a jacket\nTo be told\n\n[Final Chorus: quietest, piano and voice, then one swell]\nI was somebody's person\nSomebody's \"call me when you land\"\nNow there's no one I report to\nAnd I don't know where to put my hands\nI was somebody's person\nI was somebody's\n\n[Outro: piano alone, last chord unresolved]",
+  "style": "2018 piano ballad, raw raspy male tenor vocal with a Scottish accent, quiet conversational verses and a strained cracking full-voice chorus, almost shouted bridge, no harmonies, 110 BPM, D-flat major, four chords repeating, steady acoustic piano as the main instrument, a single cello joining in the second verse, small string section, very soft bass, no drums at all, quiet final chorus with one swell, close warm plain dry mix with audible breaths, heartbroken, honest, tender",
+  "negativeTags": "drums, drum machine, electric guitar, female lead vocals, rap, synth-pop, dance beat, autotune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "callBackUrl": "https://example.com/cb"
+}

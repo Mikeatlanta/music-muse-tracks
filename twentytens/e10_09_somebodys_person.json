@@ -1,0 +1,115 @@
+{
+  "id": "e10_09",
+  "title": "Somebody's Person",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 9,
+  "slug": "e10_09_somebodys_person",
+  "inspiredBy": "Someone You Loved (Lewis Capaldi, 2018)",
+  "leadVoice": "Male tenor, raw and raspy, with a Scottish colour to the vowels. Quiet and conversational in the verses. In the chorus he pushes to the top of his chest voice until it strains and cracks, and he does not hide it. Almost shouted in the bridge, then barely there in the final chorus. No harmonies.",
+  "model": "V6",
+  "style": "2018 piano ballad, raw raspy male tenor vocal with a Scottish accent, quiet conversational verses and a strained cracking full-voice chorus, almost shouted bridge, no harmonies, 110 BPM, D-flat major, four chords repeating, steady acoustic piano as the main instrument, a single cello joining in the second verse, small string section, very soft bass, no drums at all, quiet final chorus with one swell, close warm plain dry mix with audible breaths, heartbroken, honest, tender",
+  "negativeTags": "drums, drum machine, electric guitar, female lead vocals, rap, synth-pop, dance beat, autotune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: solo piano, four simple chords]\n\n[Verse 1: raw, quiet, piano only]\nI keep setting out two plates\nI keep saving you the news\nEvery funny thing that happens\nStill gets halfway to you\n\n[Pre-Chorus: voice rises, left hand of the piano deepens]\nAnd the phone lights up and it isn't your name\nAnd I put it back down again\n\n[Chorus: full voice, strained, piano louder]\nI was somebody's person\nSomebody's \"call me when you land\"\nNow there's no one I report to\nAnd I don't know where to put my hands\nI was somebody's person\nNow I'm just someone\n\n[Verse 2: quiet again, a single cello joins]\nThere's a coat I haven't moved\nThere's a mug I haven't cleaned\nI've got all the room I wanted\nAnd I don't know what it means\n\n[Pre-Chorus: voice rises, cello swells]\nAnd the door goes click and it's only the wind\nAnd I say your name again\n\n[Chorus: full voice, strings, piano pounding]\nI was somebody's person\nSomebody's \"call me when you land\"\nNow there's no one I report to\nAnd I don't know where to put my hands\nI was somebody's person\nNow I'm just someone\n\n[Bridge: almost shouted, voice cracking]\nAnd I'd give anything\nTo be asked if I got home\nTo be told to wear a jacket\nTo be told\n\n[Final Chorus: quietest, piano and voice, then one swell]\nI was somebody's person\nSomebody's \"call me when you land\"\nNow there's no one I report to\nAnd I don't know where to put my hands\nI was somebody's person\nI was somebody's\n\n[Outro: piano alone, last chord unresolved]",
+  "taskId": "f2f42702d020bf10910838efcbea3661",
+  "sunoClipIds": [
+    "641b5ae4-362d-4759-93e2-5342fb812a4e",
+    "1e6d13c7-7b71-4db0-bed0-f67a517dd132"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928797363,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "641b5ae4-362d-4759-93e2-5342fb812a4e",
+      "durationSec": 208.76,
+      "file": "twentytens/e10_09_somebodys_person_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "1e6d13c7-7b71-4db0-bed0-f67a517dd132",
+      "durationSec": 209.16,
+      "file": "twentytens/e10_09_somebodys_person_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_09_somebodys_person_req.json",
+    "twentytens/e10_09_somebodys_person_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_09_somebodys_person.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_09_somebodys_person.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 110 BPM, 4/4, D-flat major. Four chords, repeating. Steady and simple, with nowhere to hide.\n\nVOICE: Male tenor, raw and raspy, with a Scottish colour to the vowels. Quiet and conversational in the verses. In the chorus he pushes to the top of his chest voice until it strains and cracks, and he does not hide it. Almost shouted in the bridge, then barely there in the final chorus. No harmonies.\n\nINSTRUMENTS: An acoustic piano playing steady, repeated chords, the only instrument for the first verse. A single cello from verse 2. A small string section in the second chorus. Very soft bass notes. No drums at any point.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:09 Verse 1. 0:31 Pre-chorus. 0:44 Chorus 1. 1:10 Verse 2, with cello. 1:32 Pre-chorus. 1:45 Chorus 2, with strings. 2:11 Bridge, the loudest and rawest singing. 2:28 Final chorus, suddenly quiet, with one swell on the fourth line. 2:58 Outro, piano alone, ending on an unresolved chord at 3:10.\n\nPRODUCTION & MIX: Late-2010s piano ballad: close, warm and plain. The voice is dry enough to hear the breaths and the grain.\n\nSIGNATURE MOMENT: The crack in the voice on 'hands' in the first chorus.\n\nMODERN POINT OF VIEW: The bridge is about being fussed over: told to wear a jacket, asked if you got home. People notice that kind of love once it stops, and it applies to a partner, a parent or a grandparent.\n\nEMOTIONAL ARC: Habit, disorientation, longing, an unfinished sentence.",
+  "workbookAtAGlance": "Somebody's Person\n\nBackup titles\nCall Me When You Land / Where to Put My Hands\n\nAt a glance\n110 BPM, D-flat major\nVoice: Raw raspy male tenor\nLength: about 3 minutes 15",
+  "year": 2018,
+  "qa": {
+    "title": "Somebody's Person",
+    "id": "e10_09",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 208.8,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 110,
+        "bpmErrPct": 2.1,
+        "lufs": -13.7,
+        "peakDbfs": -0.38,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 206.5,
+        "vocalCoverage": 0.556,
+        "vocalSpanSec": [
+          16.8,
+          190.7
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 264,
+        "lyricLineRecall": 0.971,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 209.2,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 110,
+        "bpmErrPct": 2.1,
+        "lufs": -14.2,
+        "peakDbfs": -0.6,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 205.8,
+        "vocalCoverage": 0.503,
+        "vocalSpanSec": [
+          7.6,
+          184.4
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.971,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Piano Ballad"
+}

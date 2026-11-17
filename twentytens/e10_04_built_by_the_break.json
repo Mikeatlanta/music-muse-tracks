@@ -1,0 +1,117 @@
+{
+  "id": "e10_04",
+  "title": "Built by the Break",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 4,
+  "slug": "e10_04_built_by_the_break",
+  "inspiredBy": "Believer (Imagine Dragons, 2017)",
+  "leadVoice": "Male, gritty, between baritone and tenor. Verses are delivered in fast, tumbling triplets, half rapped, low and tense. He shouts the single hook word, then sings the chorus at full strength with a rough edge. Quiet and plain in the bridge. Gang vocals on the last chorus.",
+  "model": "V6",
+  "style": "2017 arena pop rock built for film trailers, gritty male vocal between baritone and tenor, fast tumbling half-rapped triplet verses, a single shouted hook word then a full-strength rough chorus, gang vocals at the end, 125 BPM with a rolling triplet feel, B-flat minor, heavy swinging stomp, foot stomps and handclaps, percussive muted acoustic guitar, enormous distorted booming drums, growling synth bass, low male hums, quiet voice-and-guitar bridge, huge compressed mix with silences before the hits, defiant, cathartic",
+  "negativeTags": "female lead vocals, soft ballad throughout, jazz, country, trap hi-hats, autotune, saxophone, disco",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: stomps and claps, percussive acoustic guitar, low hum]\n\n[Verse 1: tumbling triplet rhythm, gritty and low]\nI was a quiet kid with thunder in my chest\nWrote it on the inside, never handed in the test\nLearned to smile at everything that hollowed me out\nCarried other people's weather till I couldn't do without\n\n[Pre-Chorus: drums build, voice rising]\nI was cracked, I was cornered, I was coming apart\nEvery hit was a hammer on the wall of my heart\n\n[Chorus: one shouted word, then huge distorted drums]\nBreak!\nI was nothing till I shattered\nBreak!\nEvery crack is where the light got in\nI was built by the break\nThe fall, the ache\nOh, let the hard days come\nI was built by the break\n\n[Verse 2: tumbling triplet rhythm, more force]\nI was choking in the middle of a room that knew my name\nPulling splinters out of trophies, never happy that I came\nHad a mirror I avoided, had a number I'd not call\nHad a ceiling I was holding, and I let the ceiling fall\n\n[Pre-Chorus: drums build, voice rising]\nI was cracked, I was cornered, I was coming apart\nEvery hit was a hammer on the wall of my heart\n\n[Chorus: one shouted word, then huge distorted drums]\nBreak!\nI was nothing till I shattered\nBreak!\nEvery crack is where the light got in\nI was built by the break\nThe fall, the ache\nOh, let the hard days come\nI was built by the break\n\n[Bridge: everything drops, quiet voice and one guitar]\nAnd if you're in the middle of it\nI won't say it's fine\nI'll only say I've been there\nAnd I came out mine\n\n[Final Chorus: loudest, gang vocals, stomps on every beat]\nBreak!\nI was nothing till I shattered\nBreak!\nEvery crack is where the light got in\nI was built by the break\nThe fall, the ache\nOh, let the hard days come\nI was built by the break\n\n[Outro: stomps and claps alone, one last shout]\nBreak!",
+  "taskId": "87cf4bf08a8cc565e84ba33c236cf905",
+  "sunoClipIds": [
+    "b1be7026-9f1e-411d-8f4b-9631c9814eda",
+    "a5e91912-bb45-45e7-9d86-29c3949a028b"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928782878,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "b1be7026-9f1e-411d-8f4b-9631c9814eda",
+      "durationSec": 213.92,
+      "file": "twentytens/e10_04_built_by_the_break_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a5e91912-bb45-45e7-9d86-29c3949a028b",
+      "durationSec": 213.96,
+      "file": "twentytens/e10_04_built_by_the_break_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_04_built_by_the_break_req.json",
+    "twentytens/e10_04_built_by_the_break_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_04_built_by_the_break.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_04_built_by_the_break.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 125 BPM, a rolling triplet feel (felt in twelve), B-flat minor. A heavy, swinging stomp. Defiant.\n\nVOICE: Male, gritty, between baritone and tenor. Verses are delivered in fast, tumbling triplets, half rapped, low and tense. He shouts the single hook word, then sings the chorus at full strength with a rough edge. Quiet and plain in the bridge. Gang vocals on the last chorus.\n\nINSTRUMENTS: Foot stomps and handclaps. A percussive acoustic guitar played with hard, muted strokes. An enormous, distorted, booming drum kit in the choruses. A growling synth bass. Low male hums. A distorted electric guitar doubling the chorus melody. Sub-bass drops.\n\nARRANGEMENT MAP: 0:00 Intro, stomps, claps and guitar. 0:12 Verse 1. 0:35 Pre-chorus. 0:47 Chorus 1: the shout, then the drums. 1:15 Verse 2. 1:38 Pre-chorus. 1:50 Chorus 2. 2:18 Bridge, everything drops to a quiet voice and one guitar. 2:37 Final chorus with gang vocals. 3:05 Outro, stomps and claps alone, a last shout at 3:15.\n\nPRODUCTION & MIX: Late-2010s arena pop-rock built for trailers: huge, distorted, compressed drums, a dry close vocal, big silences before the hits.\n\nSIGNATURE MOMENT: The first shout at 0:47 with the half-beat of silence before the drums land.\n\nMODERN POINT OF VIEW: The bridge speaks to someone still in the middle of it and refuses to tell them it is fine. That restraint comes with age, and it makes the chorus more honest.\n\nEMOTIONAL ARC: Suppression, collapse, defiance, a hand held out.",
+  "workbookAtAGlance": "Built by the Break\n\nBackup titles\nWhere the Light Got In / Other People's Weather\n\nAt a glance\n125 BPM (triplet feel), B-flat minor\nVoice: Gritty male baritone-tenor, shouted hook\nLength: about 3 minutes 20",
+  "year": 2017,
+  "qa": {
+    "title": "Built by the Break",
+    "id": "e10_04",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.07 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 213.9,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 125,
+        "bpmErrPct": 3.4,
+        "lufs": -13.2,
+        "peakDbfs": 0.07,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 211.1,
+        "vocalCoverage": 0.725,
+        "vocalSpanSec": [
+          14.3,
+          200.1
+        ],
+        "vocalF0MedianHz": 349,
+        "vocalF0P25Hz": 266,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.0,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 125,
+        "bpmErrPct": 3.4,
+        "lufs": -13.0,
+        "peakDbfs": -0.67,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.5,
+        "contentEndSec": 211.2,
+        "vocalCoverage": 0.718,
+        "vocalSpanSec": [
+          16.1,
+          198.8
+        ],
+        "vocalF0MedianHz": 312,
+        "vocalF0P25Hz": 234,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop Rock"
+}

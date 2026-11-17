@@ -1,0 +1,115 @@
+{
+  "id": "e10_03",
+  "title": "Your Side of the Bed",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 3,
+  "slug": "e10_03_your_side_of_the_bed",
+  "inspiredBy": "Shape of You (Ed Sheeran, 2017)",
+  "leadVoice": "Male tenor with a soft English accent, singing in a rhythmic, half-rapped style close to the microphone. His own voice is looped and stacked for the backing parts: hums, a low 'mm-hm', and percussive breaths.",
+  "model": "V6",
+  "style": "2017 minimal tropical-tinged pop, male tenor vocal with a soft English accent, rhythmic half-rapped close delivery, his own voice looped and stacked as backing hums and percussive breaths, 96 BPM, C-sharp minor, light syncopated sway, short plucked marimba-like synth loop throughout, percussive taps on an acoustic guitar body, finger snaps, claps, deep simple bass, soft kick, voices-and-claps bridge built as a round, very few sounds, dry close clean mix with deep sub-bass, warm, playful, intimate",
+  "negativeTags": "distorted guitar, rock drums, female lead vocals, big reverb, heavy synths, dubstep, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: plucked marimba-like loop, guitar body taps, finger snaps]\n\n[Verse 1: half rapped, close, loop and taps only]\nMonday night and the dishes waiting\nYour hair's still wet and the kettle's shaking\nYou're reading something, your foot's on mine\nSix years here and I still lose time\n\n[Pre-Chorus: bass enters, backing voices loop]\nSay hey, come here, put the book down now\nThe plates can soak, I'll show you how\n\n[Chorus: full groove, stacked voices]\nI've got a thing for your side of the bed\nThe dent you leave, the things you said\nThe cold feet and the stolen sheet\nThe way you talk right through your sleep\nI've got a thing for your side\nMm-hm, mm-hm\nYour side of the bed\n\n[Verse 2: half rapped, playful, kick drum added]\nYou leave a glass on every surface\nYou hum off-key and you do it on purpose\nYou take the left, you take the middle too\nI'm on the edge and I'm fine with the view\n\n[Pre-Chorus: bass and backing voices]\nSay hey, come here, put the phone down now\nThe world can wait, I'll show you how\n\n[Chorus: full groove, stacked voices]\nI've got a thing for your side of the bed\nThe dent you leave, the things you said\nThe cold feet and the stolen sheet\nThe way you talk right through your sleep\nI've got a thing for your side\nMm-hm, mm-hm\nYour side of the bed\n\n[Bridge: groove drops to voices and claps, round building]\nCome on, be my morning\nCome on, be my night\nCome on, be the reason\nI never get the light\n\n[Final Chorus: everything, extra harmonies, ad-libs]\nI've got a thing for your side of the bed\nThe dent you leave, the things you said\nThe cold feet and the stolen sheet\nThe way you talk right through your sleep\nI've got a thing for your side\nMm-hm, mm-hm\nYour side of the bed\n\n[Outro: loop alone, a lamp clicking off]",
+  "taskId": "a4dff2418516cabffe2a87b68c898a9c",
+  "sunoClipIds": [
+    "f1e5383a-d3a8-4f89-bd39-a15f9b8e5c0e",
+    "047ee28c-46ee-469b-9a67-5c208cc83c0b"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928766397,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f1e5383a-d3a8-4f89-bd39-a15f9b8e5c0e",
+      "durationSec": 224.0,
+      "file": "twentytens/e10_03_your_side_of_the_bed_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "047ee28c-46ee-469b-9a67-5c208cc83c0b",
+      "durationSec": 224.8,
+      "file": "twentytens/e10_03_your_side_of_the_bed_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_03_your_side_of_the_bed_req.json",
+    "twentytens/e10_03_your_side_of_the_bed_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_03_your_side_of_the_bed.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_03_your_side_of_the_bed.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4, C-sharp minor. A light, syncopated, tropical-tinged sway. Warm and easy.\n\nVOICE: Male tenor with a soft English accent, singing in a rhythmic, half-rapped style close to the microphone. His own voice is looped and stacked for the backing parts: hums, a low 'mm-hm', and percussive breaths.\n\nINSTRUMENTS: A short plucked pattern on a marimba-like synth, looping throughout. Percussive taps and slaps on the body of an acoustic guitar. Finger snaps and claps. A deep, simple bass. A soft kick drum. Layered vocal loops used as instruments. Occasional acoustic guitar strums.\n\nARRANGEMENT MAP: 0:00 Intro, the plucked loop with taps and snaps. 0:10 Verse 1. 0:30 Pre-chorus, bass enters. 0:40 Chorus 1. 1:05 Verse 2, kick added. 1:25 Pre-chorus. 1:35 Chorus 2. 2:00 Bridge, the groove drops to stacked voices and claps, building as a round. 2:25 Final chorus with extra harmonies. 2:55 The hook repeats. 3:15 Outro, the loop alone and a lamp switching off at 3:25.\n\nPRODUCTION & MIX: Late-2010s minimal pop: very few sounds, each one close, dry and clean, with deep sub-bass and lots of space.\n\nSIGNATURE MOMENT: The plucked loop alone in the first five seconds.\n\nMODERN POINT OF VIEW: The original is the first night. This is year six: dishes, a wet towel, a book. Desire is found in habit, which is a later and less often sung kind.\n\nEMOTIONAL ARC: Affectionate teasing, wanting, contentment.",
+  "workbookAtAGlance": "Your Side of the Bed\n\nBackup titles\nThe Stolen Sheet / Six Years and I Still Lose Time\n\nAt a glance\n96 BPM, C-sharp minor\nVoice: Rhythmic male tenor, looped backing voices\nLength: about 3 minutes 30",
+  "year": 2017,
+  "qa": {
+    "title": "Your Side of the Bed",
+    "id": "e10_03",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.0,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 3.5,
+        "lufs": -13.7,
+        "peakDbfs": -0.02,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 221.2,
+        "vocalCoverage": 0.566,
+        "vocalSpanSec": [
+          9.6,
+          207.8
+        ],
+        "vocalF0MedianHz": 155,
+        "vocalF0P25Hz": 138,
+        "lyricLineRecall": 0.919,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.8,
+        "measuredBpm": 95.7,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 0.3,
+        "lufs": -13.7,
+        "peakDbfs": -0.24,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 223.1,
+        "vocalCoverage": 0.542,
+        "vocalSpanSec": [
+          10.4,
+          190.8
+        ],
+        "vocalF0MedianHz": 166,
+        "vocalF0P25Hz": 142,
+        "lyricLineRecall": 0.919,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

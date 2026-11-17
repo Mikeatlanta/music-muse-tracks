@@ -2,6 +2,37 @@
  "note": "Site layout for build_fast.py. sections: order = nav/page order; songs whose collection matches a section are added to it (new ones after the listed order). cards: per-song display overrides; new songs can omit them.",
  "sections": [
   {
+   "id": "twentytens",
+   "nav": "📼 2010s Reimagined",
+   "title": "📼 2010s Reimagined",
+   "blurb": "Twenty brand-new originals, each built on the hook mechanics of one of the most enduring songs of the 2010s and written from today's point of view. Pop, indie, dance, hip-hop and ballad sounds, all original lyrics.",
+   "collections": [
+    "twentytens"
+   ],
+   "order": [
+    "e10_01_running_every_red",
+    "e10_02_houseplant",
+    "e10_03_your_side_of_the_bed",
+    "e10_04_built_by_the_break",
+    "e10_05_ceilings_just_a_floor",
+    "e10_06_past_the_sandbar",
+    "e10_07_fresh_out_the_dryer",
+    "e10_08_swear_me_in",
+    "e10_09_somebodys_person",
+    "e10_10_borrowed_flannel",
+    "e10_11_stay_for_the_slow_one",
+    "e10_12_im_the_plot_twist",
+    "e10_13_i_heard_you_painted_the_kitchen",
+    "e10_14_favorite_wrong_turn",
+    "e10_15_no_pressure_but",
+    "e10_16_reckless_october",
+    "e10_17_mutual_friends",
+    "e10_18_save_me_a_seat",
+    "e10_19_new_number_whos_this",
+    "e10_20_we_still_think_were_twenty"
+   ]
+  },
+  {
    "id": "twothousands",
    "nav": "📼 2000s Reimagined",
    "title": "📼 2000s Reimagined",

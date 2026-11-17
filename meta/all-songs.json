@@ -38894,5 +38894,2362 @@
       ]
     },
     "genre": "Other"
+  },
+  {
+    "id": "e10_01",
+    "title": "Running Every Red",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 1,
+    "slug": "e10_01_running_every_red",
+    "inspiredBy": "Blinding Lights (The Weeknd, 2019)",
+    "leadVoice": "Male tenor, smooth and light, with an easy falsetto. Verses sung close and slightly breathless. Chorus doubled and wide. The bridge is in falsetto with long reverb. Wordless falsetto ad-libs over the last chorus.",
+    "model": "V6",
+    "style": "2019 synthwave pop with a 1980s sound, smooth light male tenor vocal with easy falsetto, doubled wide chorus, falsetto bridge, 171 BPM, F minor, racing nocturnal pulse, bright brassy analog synth riff answering the vocal lines, fast straight drum machine with big gated-reverb snare, pulsing eighth-note synth bass, wide glassy synth pads, shimmering arpeggio, half-time bridge, synth solo, no guitars, retro synths with modern sub-bass and width, euphoric, anxious, night drive",
+    "negativeTags": "electric guitar, acoustic guitar, female lead vocals, rap, slow ballad, trap hi-hats, country, piano",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bright analog synth riff, racing drum machine, gated snare]\n\n[Verse 1: smooth, urgent, pulsing synth bass]\nCalled you once and I hung up twice\nDrove a circle round the same advice\nEvery sign says slow it down\nI'm the only car in town\n\n[Pre-Chorus: drums thin, pad swells]\nAnd the radio's all static and regret\nI can't stand the quiet yet\n\n[Chorus: full beat, synth riff answers every line]\nI'm running every red\nTo get to where you are\nThe whole town's gone to bed\nI'm a comet in a car\nI can't see, I can't see past the glow\nTell me stop or tell me go\nI'm running every red\n\n[Verse 2: smooth, a little rueful]\nI'm too old for a midnight drive\nGot a knee that knows when the rain arrives\nBut you said \"come,\" one little word\nFastest thing I ever heard\n\n[Pre-Chorus: drums thin, pad swells]\nAnd the radio's all static and regret\nI can't stand the quiet yet\n\n[Chorus: full beat, synth riff answers every line]\nI'm running every red\nTo get to where you are\nThe whole town's gone to bed\nI'm a comet in a car\nI can't see, I can't see past the glow\nTell me stop or tell me go\nI'm running every red\n\n[Bridge: half-time, falsetto, drums drop to kick]\nI'm only coming back to say I'm sorry\nI ran out of yellow lights to hurry\nLeave the door, leave the door\n\n[Synth Solo: the riff an octave up, drums return]\n\n[Final Chorus: everything, falsetto ad-libs]\nI'm running every red\nTo get to where you are\nThe whole town's gone to bed\nI'm a comet in a car\nI can't see, I can't see past the glow\nTell me stop or tell me go\nI'm running every red\n\n[Outro: synth riff alone, engine ticking, stop]",
+    "taskId": "32254cdb704d8e16338666826c11f763",
+    "sunoClipIds": [
+      "77923255-607a-44c6-8b1f-04081c4a7173",
+      "0195b8c7-f7b4-4002-a004-c10d2ddaa536"
+    ],
+    "created": "Nov 17, 2026 10:19 AM ET",
+    "createTimeMs": 1794928755892,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "77923255-607a-44c6-8b1f-04081c4a7173",
+        "durationSec": 213.6,
+        "file": "twentytens/e10_01_running_every_red_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "0195b8c7-f7b4-4002-a004-c10d2ddaa536",
+        "durationSec": 214.0,
+        "file": "twentytens/e10_01_running_every_red_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_01_running_every_red_req.json",
+      "twentytens/e10_01_running_every_red_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_01_running_every_red.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_01_running_every_red.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 171 BPM, 4/4, F minor. A racing, nocturnal pulse. Euphoric on the surface, anxious underneath.\n\nVOICE: Male tenor, smooth and light, with an easy falsetto. Verses sung close and slightly breathless. Chorus doubled and wide. The bridge is in falsetto with long reverb. Wordless falsetto ad-libs over the last chorus.\n\nINSTRUMENTS: A bright, brassy analog synthesiser playing a short, catchy riff that returns between vocal lines. A drum machine with a fast, straight beat and a big gated-reverb snare. Pulsing eighth-note synth bass. Wide, glassy synth pads. A shimmering arpeggio in the chorus. No guitars.\n\nARRANGEMENT MAP: 0:00 Intro, the synth riff over the drum machine. 0:11 Verse 1. 0:28 Pre-chorus. 0:39 Chorus 1. 1:07 Verse 2. 1:24 Pre-chorus. 1:35 Chorus 2. 2:03 Bridge in half time. 2:20 Synth solo, the riff an octave higher. 2:31 Final chorus with ad-libs. 2:59 Outro, the riff alone, the sound of an engine ticking as it cools, ending at 3:15.\n\nPRODUCTION & MIX: A modern recording dressed as 1985: analog-style synths and gated drums with present-day sub-bass, loudness and stereo width.\n\nSIGNATURE MOMENT: The synth riff in the first three seconds.\n\nMODERN POINT OF VIEW: The driver has a bad knee and knows better. The need is the same one, felt by someone with more to lose, which makes the bridge's apology land.\n\nEMOTIONAL ARC: Restlessness, pursuit, remorse, arrival.",
+    "workbookAtAGlance": "Running Every Red\n\nBackup titles\nComet in a Car / One Little Word\n\nAt a glance\n171 BPM, F minor\nVoice: Smooth male tenor with falsetto\nLength: about 3 minutes 20",
+    "year": 2019,
+    "qa": {
+      "title": "Running Every Red",
+      "id": "e10_01",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 213.6,
+          "measuredBpm": 172.3,
+          "bpmFactor": 1,
+          "targetBpm": 171,
+          "bpmErrPct": 0.7,
+          "lufs": -13.7,
+          "peakDbfs": -0.96,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 213.0,
+          "vocalCoverage": 0.651,
+          "vocalSpanSec": [
+            6.7,
+            202.8
+          ],
+          "vocalF0MedianHz": 465,
+          "vocalF0P25Hz": 312,
+          "lyricLineRecall": 0.694,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 129 BPM vs 171 target (~13% off)"
+          ],
+          "durationSec": 214.0,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1.5,
+          "targetBpm": 171,
+          "bpmErrPct": 13.3,
+          "lufs": -13.6,
+          "peakDbfs": -0.88,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 212.2,
+          "vocalCoverage": 0.638,
+          "vocalSpanSec": [
+            22.3,
+            196.8
+          ],
+          "vocalF0MedianHz": 417,
+          "vocalF0P25Hz": 312,
+          "lyricLineRecall": 0.806,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Synthwave"
+  },
+  {
+    "id": "e10_02",
+    "title": "Houseplant",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 2,
+    "slug": "e10_02_houseplant",
+    "inspiredBy": "Sunflower (Post Malone & Swae Lee, 2018)",
+    "leadVoice": "Two men. The first has a light, high, sweet tenor with a little pitch-correction shimmer and a melodic, slurred delivery. The second has a deeper voice with a fast, wavering vibrato and a lazy, behind-the-beat feel. They sing the chorus together, the high voice on top.",
+    "model": "V6",
+    "style": "2018 dreamy melodic hip-hop pop, two male voices, a light high sweet tenor with a slurred melodic delivery and slight pitch-correction shimmer, and a deeper voice with a fast wavering vibrato, singing the chorus together, 90 BPM, D major, slow floating and sunlit, clean chorus-effected electric guitar chords that ring and blur, soft round 808 bass, gentle sparse beat with muted kick, warm synth pads, glassy synth melody, soft reverb on everything, hazy warm wide mix, tender, wistful, short",
+    "negativeTags": "distorted guitar, rock drums, female lead vocals, fast tempo, aggressive rap, EDM drop, saxophone",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 180,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: dreamy guitar chords, soft synth, wordless hum]\nOoh, ooh\n\n[Verse 1: light high tenor, melodic, half mumbled]\nYou get by on a glass of water and a window\nI forget you for a week, you only lean in closer\nEvery time I'm leaving, every time I'm gone\nYou put out a new leaf like nothing's wrong\n\n[Chorus: both voices, soft beat, wide and warm]\nYou're a houseplant\nGrowing toward me\nI don't deserve the way you stay\nYou're a houseplant\nStill in the morning\nI left you in the dark\nAnd you grew anyway\n\n[Verse 2: warbling baritone, slower phrasing]\nI'm bad at this, I lose the things I hold\nToo much or not enough is all I know\nBut you keep on, you keep on\nGreen in a grey apartment\nGreen in a grey apartment\n\n[Chorus: both voices, soft beat, wide and warm]\nYou're a houseplant\nGrowing toward me\nI don't deserve the way you stay\nYou're a houseplant\nStill in the morning\nI left you in the dark\nAnd you grew anyway\n\n[Bridge: beat drops, high voice alone with guitar]\nI'll move you to the window\nI'll learn your name\nI'll be here in the morning\nI'll try to be the rain\n\n[Final Chorus: both voices, fuller, harmony on top]\nYou're a houseplant\nGrowing toward me\nI don't deserve the way you stay\nYou're a houseplant\nStill in the morning\nI left you in the dark\nAnd you grew anyway\n\n[Outro: hum, guitar chord left ringing]\nOoh, you grew anyway",
+    "taskId": "2d2f077715d5456823ee759f3b517a36",
+    "sunoClipIds": [
+      "62fff4f7-d525-432a-b6ea-59f09d70a837",
+      "d7ab2b2f-14a7-46a4-a4b7-a015e573ea88"
+    ],
+    "created": "Nov 17, 2026 10:19 AM ET",
+    "createTimeMs": 1794928771136,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "62fff4f7-d525-432a-b6ea-59f09d70a837",
+        "durationSec": 179.4,
+        "file": "twentytens/e10_02_houseplant_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "d7ab2b2f-14a7-46a4-a4b7-a015e573ea88",
+        "durationSec": 178.8,
+        "file": "twentytens/e10_02_houseplant_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_02_houseplant_req.json",
+      "twentytens/e10_02_houseplant_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_02_houseplant.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_02_houseplant.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 90 BPM, 4/4, D major. Slow, floating and sunlit. No sharp edges anywhere.\n\nVOICE: Two men. The first has a light, high, sweet tenor with a little pitch-correction shimmer and a melodic, slurred delivery. The second has a deeper voice with a fast, wavering vibrato and a lazy, behind-the-beat feel. They sing the chorus together, the high voice on top.\n\nINSTRUMENTS: Clean, chorus-effected electric guitar chords that ring and blur together. A soft, round 808 bass. A gentle, sparse beat with a muted kick and light hi-hats. Warm synth pads. A high, glassy synth melody in the chorus. Everything soaked in a soft reverb.\n\nARRANGEMENT MAP: 0:00 Intro, guitar chords and a hum. 0:11 Verse 1, the high voice. 0:32 Chorus 1, the beat enters. 0:59 Verse 2, the baritone. 1:23 Chorus 2. 1:50 Bridge, the beat drops out for the high voice and guitar. 2:09 Final chorus with a harmony on top. 2:36 Outro, a hum and one ringing chord, over by 2:45.\n\nPRODUCTION & MIX: Late-2010s melodic hip-hop pop: hazy, warm and wide, vocals soft and tuned, low end deep but gentle.\n\nSIGNATURE MOMENT: The first chorus, when the two voices join and the beat arrives at 0:32.\n\nMODERN POINT OF VIEW: The bridge is the new part. In the original the singers only admit their failings. Here one of them makes four small promises, which is what admitting it is for.\n\nEMOTIONAL ARC: Fond guilt, admission, a small resolution.",
+    "workbookAtAGlance": "Houseplant\n\nBackup titles\nYou Grew Anyway / Green in a Grey Apartment\n\nAt a glance\n90 BPM, D major\nVoice: Two male voices: light high tenor and warbling baritone\nLength: about 2 minutes 45",
+    "year": 2018,
+    "qa": {
+      "title": "Houseplant",
+      "id": "e10_02",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 72 BPM vs 90 target (~20% off)"
+          ],
+          "durationSec": 179.4,
+          "measuredBpm": 71.8,
+          "bpmFactor": 1.5,
+          "targetBpm": 90,
+          "bpmErrPct": 19.6,
+          "lufs": -12.4,
+          "peakDbfs": -0.01,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 177.7,
+          "vocalCoverage": 0.665,
+          "vocalSpanSec": [
+            16.2,
+            166.1
+          ],
+          "vocalF0MedianHz": 166,
+          "vocalF0P25Hz": 148,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 178.8,
+          "measuredBpm": 92.3,
+          "bpmFactor": 1,
+          "targetBpm": 90,
+          "bpmErrPct": 2.5,
+          "lufs": -14.0,
+          "peakDbfs": -1.04,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.2,
+          "contentEndSec": 177.0,
+          "vocalCoverage": 0.613,
+          "vocalSpanSec": [
+            13.9,
+            157.4
+          ],
+          "vocalF0MedianHz": 166,
+          "vocalF0P25Hz": 147,
+          "lyricLineRecall": 0.943,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop"
+  },
+  {
+    "id": "e10_03",
+    "title": "Your Side of the Bed",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 3,
+    "slug": "e10_03_your_side_of_the_bed",
+    "inspiredBy": "Shape of You (Ed Sheeran, 2017)",
+    "leadVoice": "Male tenor with a soft English accent, singing in a rhythmic, half-rapped style close to the microphone. His own voice is looped and stacked for the backing parts: hums, a low 'mm-hm', and percussive breaths.",
+    "model": "V6",
+    "style": "2017 minimal tropical-tinged pop, male tenor vocal with a soft English accent, rhythmic half-rapped close delivery, his own voice looped and stacked as backing hums and percussive breaths, 96 BPM, C-sharp minor, light syncopated sway, short plucked marimba-like synth loop throughout, percussive taps on an acoustic guitar body, finger snaps, claps, deep simple bass, soft kick, voices-and-claps bridge built as a round, very few sounds, dry close clean mix with deep sub-bass, warm, playful, intimate",
+    "negativeTags": "distorted guitar, rock drums, female lead vocals, big reverb, heavy synths, dubstep, saxophone",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: plucked marimba-like loop, guitar body taps, finger snaps]\n\n[Verse 1: half rapped, close, loop and taps only]\nMonday night and the dishes waiting\nYour hair's still wet and the kettle's shaking\nYou're reading something, your foot's on mine\nSix years here and I still lose time\n\n[Pre-Chorus: bass enters, backing voices loop]\nSay hey, come here, put the book down now\nThe plates can soak, I'll show you how\n\n[Chorus: full groove, stacked voices]\nI've got a thing for your side of the bed\nThe dent you leave, the things you said\nThe cold feet and the stolen sheet\nThe way you talk right through your sleep\nI've got a thing for your side\nMm-hm, mm-hm\nYour side of the bed\n\n[Verse 2: half rapped, playful, kick drum added]\nYou leave a glass on every surface\nYou hum off-key and you do it on purpose\nYou take the left, you take the middle too\nI'm on the edge and I'm fine with the view\n\n[Pre-Chorus: bass and backing voices]\nSay hey, come here, put the phone down now\nThe world can wait, I'll show you how\n\n[Chorus: full groove, stacked voices]\nI've got a thing for your side of the bed\nThe dent you leave, the things you said\nThe cold feet and the stolen sheet\nThe way you talk right through your sleep\nI've got a thing for your side\nMm-hm, mm-hm\nYour side of the bed\n\n[Bridge: groove drops to voices and claps, round building]\nCome on, be my morning\nCome on, be my night\nCome on, be the reason\nI never get the light\n\n[Final Chorus: everything, extra harmonies, ad-libs]\nI've got a thing for your side of the bed\nThe dent you leave, the things you said\nThe cold feet and the stolen sheet\nThe way you talk right through your sleep\nI've got a thing for your side\nMm-hm, mm-hm\nYour side of the bed\n\n[Outro: loop alone, a lamp clicking off]",
+    "taskId": "a4dff2418516cabffe2a87b68c898a9c",
+    "sunoClipIds": [
+      "f1e5383a-d3a8-4f89-bd39-a15f9b8e5c0e",
+      "047ee28c-46ee-469b-9a67-5c208cc83c0b"
+    ],
+    "created": "Nov 17, 2026 10:19 AM ET",
+    "createTimeMs": 1794928766397,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "f1e5383a-d3a8-4f89-bd39-a15f9b8e5c0e",
+        "durationSec": 224.0,
+        "file": "twentytens/e10_03_your_side_of_the_bed_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "047ee28c-46ee-469b-9a67-5c208cc83c0b",
+        "durationSec": 224.8,
+        "file": "twentytens/e10_03_your_side_of_the_bed_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_03_your_side_of_the_bed_req.json",
+      "twentytens/e10_03_your_side_of_the_bed_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_03_your_side_of_the_bed.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_03_your_side_of_the_bed.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4, C-sharp minor. A light, syncopated, tropical-tinged sway. Warm and easy.\n\nVOICE: Male tenor with a soft English accent, singing in a rhythmic, half-rapped style close to the microphone. His own voice is looped and stacked for the backing parts: hums, a low 'mm-hm', and percussive breaths.\n\nINSTRUMENTS: A short plucked pattern on a marimba-like synth, looping throughout. Percussive taps and slaps on the body of an acoustic guitar. Finger snaps and claps. A deep, simple bass. A soft kick drum. Layered vocal loops used as instruments. Occasional acoustic guitar strums.\n\nARRANGEMENT MAP: 0:00 Intro, the plucked loop with taps and snaps. 0:10 Verse 1. 0:30 Pre-chorus, bass enters. 0:40 Chorus 1. 1:05 Verse 2, kick added. 1:25 Pre-chorus. 1:35 Chorus 2. 2:00 Bridge, the groove drops to stacked voices and claps, building as a round. 2:25 Final chorus with extra harmonies. 2:55 The hook repeats. 3:15 Outro, the loop alone and a lamp switching off at 3:25.\n\nPRODUCTION & MIX: Late-2010s minimal pop: very few sounds, each one close, dry and clean, with deep sub-bass and lots of space.\n\nSIGNATURE MOMENT: The plucked loop alone in the first five seconds.\n\nMODERN POINT OF VIEW: The original is the first night. This is year six: dishes, a wet towel, a book. Desire is found in habit, which is a later and less often sung kind.\n\nEMOTIONAL ARC: Affectionate teasing, wanting, contentment.",
+    "workbookAtAGlance": "Your Side of the Bed\n\nBackup titles\nThe Stolen Sheet / Six Years and I Still Lose Time\n\nAt a glance\n96 BPM, C-sharp minor\nVoice: Rhythmic male tenor, looped backing voices\nLength: about 3 minutes 30",
+    "year": 2017,
+    "qa": {
+      "title": "Your Side of the Bed",
+      "id": "e10_03",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.0,
+          "measuredBpm": 99.4,
+          "bpmFactor": 1,
+          "targetBpm": 96,
+          "bpmErrPct": 3.5,
+          "lufs": -13.7,
+          "peakDbfs": -0.02,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.6,
+          "contentEndSec": 221.2,
+          "vocalCoverage": 0.566,
+          "vocalSpanSec": [
+            9.6,
+            207.8
+          ],
+          "vocalF0MedianHz": 155,
+          "vocalF0P25Hz": 138,
+          "lyricLineRecall": 0.919,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.8,
+          "measuredBpm": 95.7,
+          "bpmFactor": 1,
+          "targetBpm": 96,
+          "bpmErrPct": 0.3,
+          "lufs": -13.7,
+          "peakDbfs": -0.24,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.6,
+          "contentEndSec": 223.1,
+          "vocalCoverage": 0.542,
+          "vocalSpanSec": [
+            10.4,
+            190.8
+          ],
+          "vocalF0MedianHz": 166,
+          "vocalF0P25Hz": 142,
+          "lyricLineRecall": 0.919,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Pop"
+  },
+  {
+    "id": "e10_04",
+    "title": "Built by the Break",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 4,
+    "slug": "e10_04_built_by_the_break",
+    "inspiredBy": "Believer (Imagine Dragons, 2017)",
+    "leadVoice": "Male, gritty, between baritone and tenor. Verses are delivered in fast, tumbling triplets, half rapped, low and tense. He shouts the single hook word, then sings the chorus at full strength with a rough edge. Quiet and plain in the bridge. Gang vocals on the last chorus.",
+    "model": "V6",
+    "style": "2017 arena pop rock built for film trailers, gritty male vocal between baritone and tenor, fast tumbling half-rapped triplet verses, a single shouted hook word then a full-strength rough chorus, gang vocals at the end, 125 BPM with a rolling triplet feel, B-flat minor, heavy swinging stomp, foot stomps and handclaps, percussive muted acoustic guitar, enormous distorted booming drums, growling synth bass, low male hums, quiet voice-and-guitar bridge, huge compressed mix with silences before the hits, defiant, cathartic",
+    "negativeTags": "female lead vocals, soft ballad throughout, jazz, country, trap hi-hats, autotune, saxophone, disco",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: stomps and claps, percussive acoustic guitar, low hum]\n\n[Verse 1: tumbling triplet rhythm, gritty and low]\nI was a quiet kid with thunder in my chest\nWrote it on the inside, never handed in the test\nLearned to smile at everything that hollowed me out\nCarried other people's weather till I couldn't do without\n\n[Pre-Chorus: drums build, voice rising]\nI was cracked, I was cornered, I was coming apart\nEvery hit was a hammer on the wall of my heart\n\n[Chorus: one shouted word, then huge distorted drums]\nBreak!\nI was nothing till I shattered\nBreak!\nEvery crack is where the light got in\nI was built by the break\nThe fall, the ache\nOh, let the hard days come\nI was built by the break\n\n[Verse 2: tumbling triplet rhythm, more force]\nI was choking in the middle of a room that knew my name\nPulling splinters out of trophies, never happy that I came\nHad a mirror I avoided, had a number I'd not call\nHad a ceiling I was holding, and I let the ceiling fall\n\n[Pre-Chorus: drums build, voice rising]\nI was cracked, I was cornered, I was coming apart\nEvery hit was a hammer on the wall of my heart\n\n[Chorus: one shouted word, then huge distorted drums]\nBreak!\nI was nothing till I shattered\nBreak!\nEvery crack is where the light got in\nI was built by the break\nThe fall, the ache\nOh, let the hard days come\nI was built by the break\n\n[Bridge: everything drops, quiet voice and one guitar]\nAnd if you're in the middle of it\nI won't say it's fine\nI'll only say I've been there\nAnd I came out mine\n\n[Final Chorus: loudest, gang vocals, stomps on every beat]\nBreak!\nI was nothing till I shattered\nBreak!\nEvery crack is where the light got in\nI was built by the break\nThe fall, the ache\nOh, let the hard days come\nI was built by the break\n\n[Outro: stomps and claps alone, one last shout]\nBreak!",
+    "taskId": "87cf4bf08a8cc565e84ba33c236cf905",
+    "sunoClipIds": [
+      "b1be7026-9f1e-411d-8f4b-9631c9814eda",
+      "a5e91912-bb45-45e7-9d86-29c3949a028b"
+    ],
+    "created": "Nov 17, 2026 10:19 AM ET",
+    "createTimeMs": 1794928782878,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "b1be7026-9f1e-411d-8f4b-9631c9814eda",
+        "durationSec": 213.92,
+        "file": "twentytens/e10_04_built_by_the_break_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "a5e91912-bb45-45e7-9d86-29c3949a028b",
+        "durationSec": 213.96,
+        "file": "twentytens/e10_04_built_by_the_break_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_04_built_by_the_break_req.json",
+      "twentytens/e10_04_built_by_the_break_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_04_built_by_the_break.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_04_built_by_the_break.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 125 BPM, a rolling triplet feel (felt in twelve), B-flat minor. A heavy, swinging stomp. Defiant.\n\nVOICE: Male, gritty, between baritone and tenor. Verses are delivered in fast, tumbling triplets, half rapped, low and tense. He shouts the single hook word, then sings the chorus at full strength with a rough edge. Quiet and plain in the bridge. Gang vocals on the last chorus.\n\nINSTRUMENTS: Foot stomps and handclaps. A percussive acoustic guitar played with hard, muted strokes. An enormous, distorted, booming drum kit in the choruses. A growling synth bass. Low male hums. A distorted electric guitar doubling the chorus melody. Sub-bass drops.\n\nARRANGEMENT MAP: 0:00 Intro, stomps, claps and guitar. 0:12 Verse 1. 0:35 Pre-chorus. 0:47 Chorus 1: the shout, then the drums. 1:15 Verse 2. 1:38 Pre-chorus. 1:50 Chorus 2. 2:18 Bridge, everything drops to a quiet voice and one guitar. 2:37 Final chorus with gang vocals. 3:05 Outro, stomps and claps alone, a last shout at 3:15.\n\nPRODUCTION & MIX: Late-2010s arena pop-rock built for trailers: huge, distorted, compressed drums, a dry close vocal, big silences before the hits.\n\nSIGNATURE MOMENT: The first shout at 0:47 with the half-beat of silence before the drums land.\n\nMODERN POINT OF VIEW: The bridge speaks to someone still in the middle of it and refuses to tell them it is fine. That restraint comes with age, and it makes the chorus more honest.\n\nEMOTIONAL ARC: Suppression, collapse, defiance, a hand held out.",
+    "workbookAtAGlance": "Built by the Break\n\nBackup titles\nWhere the Light Got In / Other People's Weather\n\nAt a glance\n125 BPM (triplet feel), B-flat minor\nVoice: Gritty male baritone-tenor, shouted hook\nLength: about 3 minutes 20",
+    "year": 2017,
+    "qa": {
+      "title": "Built by the Break",
+      "id": "e10_04",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.07 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 213.9,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 125,
+          "bpmErrPct": 3.4,
+          "lufs": -13.2,
+          "peakDbfs": 0.07,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 1.9,
+          "contentEndSec": 211.1,
+          "vocalCoverage": 0.725,
+          "vocalSpanSec": [
+            14.3,
+            200.1
+          ],
+          "vocalF0MedianHz": 349,
+          "vocalF0P25Hz": 266,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.0,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 125,
+          "bpmErrPct": 3.4,
+          "lufs": -13.0,
+          "peakDbfs": -0.67,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.5,
+          "contentEndSec": 211.2,
+          "vocalCoverage": 0.718,
+          "vocalSpanSec": [
+            16.1,
+            198.8
+          ],
+          "vocalF0MedianHz": 312,
+          "vocalF0P25Hz": 234,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Pop Rock"
+  },
+  {
+    "id": "e10_05",
+    "title": "Ceiling's Just a Floor",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 5,
+    "slug": "e10_05_ceilings_just_a_floor",
+    "inspiredBy": "Can't Hold Us (Macklemore & Ryan Lewis feat. Ray Dalton, 2011)",
+    "leadVoice": "A male rapper with a clear, bright voice delivering dense verses at high speed without slurring. A male soul tenor with a big, churchy voice who sings the chorus in long notes across the fast beat. A crowd chanting a wordless line. A choir in the bridge and final chorus.",
+    "model": "V6",
+    "style": "2012 independent hip-hop anthem with a live hand-made sound, clear bright male rapper delivering dense verses at high speed, big churchy male soul tenor singing long-note choruses across the fast beat, crowd chanting a wordless line, choir at the end, 146 BPM, E minor, sprinting stomping drive, upright piano hammering chords, off-beat handclaps, stomping kick and marching snare, bright solo trumpet fanfare, deep bass, strings, half-time bridge, real room sound, bright forward vocals, joyful, breathless, uplifting",
+    "negativeTags": "female lead vocals, slow ballad, distorted guitar, dark mood, trap hi-hats, autotune, dubstep",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: pounding piano chords, handclaps, crowd chant]\nLa, la-la-la, la\nLa, la-la-la, la\n\n[Verse 1: male rap, very fast, stomping kick]\nAlright, alright, coffee in the cup and my boots laced up\nTwenty years of \"almost\" and I'm done with giving up\nHad a dream in a shoebox, had a plan in a drawer\nHad a landlord and a doubt and both were knocking at the door\nI was good, never great, I was close, never there\nI was polishing a résumé for jobs I didn't care for\nThen my kid said \"Dad, why don't you do the thing you do?\"\nAnd I didn't have an answer, so I'm answering it now\n\n[Chorus: soul tenor, slow and huge over the fast beat]\nTonight the ceiling's just a floor\nFor somebody who wanted more\nSo climb, so climb\nOn every shoulder in the room\nWe're going through\nTonight the ceiling's just a floor\n\n[Verse 2: male rap, even faster, trumpet stabs]\nUsed to count up everybody who was younger and ahead\nUsed to lie awake rehearsing all the clever things they said\nNow I'm counting up the people in the kitchen when I'm home\nGot a table full of reasons and I didn't build alone\nShout out to the neighbour with the ladder and the van\nTo the teacher who said \"maybe\" when the others said \"you can't\"\nTo the late ones, the stubborn ones, the second-time-arounds\nPut your hands on someone's shoulders, get your feet up off the ground\n\n[Chorus: soul tenor, slow and huge over the fast beat]\nTonight the ceiling's just a floor\nFor somebody who wanted more\nSo climb, so climb\nOn every shoulder in the room\nWe're going through\nTonight the ceiling's just a floor\n\n[Chant: crowd alone with claps and kick, trumpet melody]\nLa, la-la-la, la\nLa, la-la-la, la\nLa, la-la-la, la\nLa, la-la-la, la\n\n[Bridge: half-time, tenor ad-libs, choir builds]\nLift me, I'll lift you\nLift me, I'll lift you\nAll the way through\n\n[Final Chorus: full choir, trumpet, piano hammering]\nTonight the ceiling's just a floor\nFor somebody who wanted more\nSo climb, so climb\nOn every shoulder in the room\nWe're going through\nTonight the ceiling's just a floor\n\n[Outro: chant and claps, one piano chord]\nLa, la-la-la, la",
+    "taskId": "8635c149c9b9abeeb6c90bb83407e2b1",
+    "sunoClipIds": [
+      "ec27c609-6c7c-45c1-b9f5-450ebf126af1",
+      "8af7b9b9-689b-4ed7-88f6-3d052d789139"
+    ],
+    "created": "Nov 17, 2026 10:19 AM ET",
+    "createTimeMs": 1794928778425,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ec27c609-6c7c-45c1-b9f5-450ebf126af1",
+        "durationSec": 233.68,
+        "file": "twentytens/e10_05_ceilings_just_a_floor_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "8af7b9b9-689b-4ed7-88f6-3d052d789139",
+        "durationSec": 234.0,
+        "file": "twentytens/e10_05_ceilings_just_a_floor_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_05_ceilings_just_a_floor_req.json",
+      "twentytens/e10_05_ceilings_just_a_floor_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_05_ceilings_just_a_floor.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_05_ceilings_just_a_floor.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 146 BPM, 4/4, E minor. A sprinting, stomping, hand-clapping drive. Breathless and joyful.\n\nVOICE: A male rapper with a clear, bright voice delivering dense verses at high speed without slurring. A male soul tenor with a big, churchy voice who sings the chorus in long notes across the fast beat. A crowd chanting a wordless line. A choir in the bridge and final chorus.\n\nINSTRUMENTS: An upright-sounding piano hammering chords on the beat. Handclaps on the off-beats. A stomping kick drum and a marching snare. A solo trumpet playing a bright fanfare. Deep bass. Strings in the chorus. A whistling synth line.\n\nARRANGEMENT MAP: 0:00 Intro, piano, claps and the chant. 0:13 Verse 1, eight fast lines. 0:39 Chorus 1. 1:05 Verse 2, with trumpet stabs. 1:31 Chorus 2. 1:57 Chant, the crowd with claps, kick and trumpet. 2:23 Bridge, half time, building with the choir. 2:49 Final chorus with everything. 3:15 Outro, chant and claps, a last piano chord at 3:35.\n\nPRODUCTION & MIX: Early-2010s independent hip-hop with a live, hand-made sound: real piano, real claps, a big room, vocals bright and forward.\n\nSIGNATURE MOMENT: The tenor's first long note at 0:39, slowing the song down while the beat keeps running.\n\nMODERN POINT OF VIEW: The rapper is not a young man on the way up. He is twenty years in, and verse 2 is a list of the people who lifted him. The title turns personal ambition into a relay.\n\nEMOTIONAL ARC: Frustration, a child's question, gratitude, lift-off.",
+    "workbookAtAGlance": "Ceiling's Just a Floor\n\nBackup titles\nTwenty Years of Almost / Every Shoulder in the Room\n\nAt a glance\n146 BPM, E minor\nVoice: Fast male rapper, soul tenor hook, crowd chant\nLength: about 3 minutes 40",
+    "year": 2011,
+    "qa": {
+      "title": "Ceiling's Just a Floor",
+      "id": "e10_05",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "ending cut at the length limit (last chord clipped)"
+          ],
+          "durationSec": 233.7,
+          "measuredBpm": 143.6,
+          "bpmFactor": 1,
+          "targetBpm": 146,
+          "bpmErrPct": 1.7,
+          "lufs": -13.7,
+          "peakDbfs": -0.34,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 233.6,
+          "vocalCoverage": 0.837,
+          "vocalSpanSec": [
+            2.9,
+            233.8
+          ],
+          "vocalF0MedianHz": 312,
+          "vocalF0P25Hz": 263,
+          "lyricLineRecall": 0.977,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 234.0,
+          "measuredBpm": 143.6,
+          "bpmFactor": 1,
+          "targetBpm": 146,
+          "bpmErrPct": 1.7,
+          "lufs": -13.3,
+          "peakDbfs": -0.62,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 233.0,
+          "vocalCoverage": 0.855,
+          "vocalSpanSec": [
+            10.4,
+            232.9
+          ],
+          "vocalF0MedianHz": 496,
+          "vocalF0P25Hz": 330,
+          "lyricLineRecall": 0.864,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop"
+  },
+  {
+    "id": "e10_06",
+    "title": "Past the Sandbar",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 6,
+    "slug": "e10_06_past_the_sandbar",
+    "inspiredBy": "Shallow (Lady Gaga & Bradley Cooper, 2018)",
+    "leadVoice": "A man with a low, weathered, gravelly baritone who half speaks his verse. A woman with a clear, powerful voice who starts softly and then belts the chorus from the chest with full force and a wide vibrato. The break before the last chorus is a long, wordless wail that climbs in steps. They harmonise at the end.",
+    "model": "V6",
+    "style": "2018 country rock film ballad duet with a live feel, low weathered gravelly male baritone half speaking his verse, clear powerful female voice starting soft then belting the chorus with wide vibrato, long wordless climbing female wail before the final chorus, 96 BPM, G major, bare then huge, one fingerpicked steel-string acoustic guitar, piano, live rock band crashing in at the chorus, gently overdriven electric guitar, pedal steel swells, room and audience ambience, natural unpolished mix, yearning, brave, cathartic",
+    "negativeTags": "synth-pop, drum machine, rap, fast tempo, trap hi-hats, autotune, EDM drop, dance beat, saxophone",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: fingerpicked acoustic guitar, room ambience]\n\n[Verse 1: male baritone, quiet, conversational]\nDo you ever leave the engine running\nIn the driveway, with the radio low?\nIs there something you were always meant to say\nAnd a reason that you don't?\n\n[Verse 2: female voice, soft, guitar and piano]\nDo you ever wake before the morning\nWith a question sitting on your chest?\nIs the life you made the one you wanted\nOr the one that scared you less?\n\n[Chorus: female belt, full band crashes in]\nI'm out past the sandbar now\nNothing underneath my feet\nI can't hear them calling me in\nLet the cold water have my breath\nI was only wading then\nI'm out past the sandbar now\n\n[Verse 3: both voices trading lines, band steady]\nDo you ever miss the kid you used to be?\n(The one who jumped before he knew)\nDo you ever think it's too late now?\n(I did, till I met you)\n\n[Chorus: both voices, female on top]\nI'm out past the sandbar now\nNothing underneath my feet\nI can't hear them calling me in\nLet the cold water have my breath\nI was only wading then\nI'm out past the sandbar now\n\n[Vocal Break: wordless climbing wail, female, band building]\nOh, oh-oh-oh\nWhoa, oh-oh-oh\nOh\n\n[Final Chorus: everything, held high notes, male harmony]\nI'm out past the sandbar now\nNothing underneath my feet\nI can't hear them calling me in\nLet the cold water have my breath\nI was only wading then\nI'm out past the sandbar now\n\n[Outro: guitar alone, both voices, hushed]\nCome on in\nThe water's cold\nCome on in",
+    "taskId": "a8245f43e5f0031a6a01101e90e79e1a",
+    "sunoClipIds": [
+      "e62128e8-7e66-4998-bb60-913111d7a5b7",
+      "00d1f11c-93cf-4a1b-b8f0-8443bac8d35c"
+    ],
+    "created": "Nov 17, 2026 10:19 AM ET",
+    "createTimeMs": 1794928784242,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "e62128e8-7e66-4998-bb60-913111d7a5b7",
+        "durationSec": 233.56,
+        "file": "twentytens/e10_06_past_the_sandbar_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "00d1f11c-93cf-4a1b-b8f0-8443bac8d35c",
+        "durationSec": 234.76,
+        "file": "twentytens/e10_06_past_the_sandbar_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_06_past_the_sandbar_req.json",
+      "twentytens/e10_06_past_the_sandbar_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_06_past_the_sandbar.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_06_past_the_sandbar.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4, G major. Bare and conversational, then huge. It sounds like it is being performed live in front of people.\n\nVOICE: A man with a low, weathered, gravelly baritone who half speaks his verse. A woman with a clear, powerful voice who starts softly and then belts the chorus from the chest with full force and a wide vibrato. The break before the last chorus is a long, wordless wail that climbs in steps. They harmonise at the end.\n\nINSTRUMENTS: One fingerpicked steel-string acoustic guitar. Piano joining in the second verse. A live rock band (drums, bass, electric guitar with gentle overdrive) that enters all at once at the chorus. Pedal steel swells. Faint room and audience ambience.\n\nARRANGEMENT MAP: 0:00 Intro, acoustic guitar. 0:12 Verse 1, the man. 0:42 Verse 2, the woman. 1:12 Chorus 1, the band crashes in. 1:40 Verse 3, the two voices trading lines. 2:05 Chorus 2. 2:33 Vocal break, the wordless wail over a building band. 2:48 Final chorus with held notes. 3:16 Outro, guitar alone and three hushed lines, ending at 3:35.\n\nPRODUCTION & MIX: Recorded to feel live: natural room sound, little polish, voices exposed and dry in the verses and enormous in the choruses.\n\nSIGNATURE MOMENT: The wordless wail at 2:33.\n\nMODERN POINT OF VIEW: The questions are a forty-year-old's: the engine left running in the driveway, the life chosen because it was less frightening. Verse 3 says it is not too late, and says who made it so.\n\nEMOTIONAL ARC: Doubt, a dare, the leap, an invitation.",
+    "workbookAtAGlance": "Past the Sandbar\n\nBackup titles\nOnly Wading Then / The One That Scared You Less\n\nAt a glance\n96 BPM, G major\nVoice: Duet: weathered male baritone, powerhouse female belt\nLength: about 3 minutes 40",
+    "year": 2018,
+    "qa": {
+      "title": "Past the Sandbar",
+      "id": "e10_06",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 233.6,
+          "measuredBpm": 92.3,
+          "bpmFactor": 1,
+          "targetBpm": 96,
+          "bpmErrPct": 3.9,
+          "lufs": -15.5,
+          "peakDbfs": -2.29,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.4,
+          "contentEndSec": 233.5,
+          "vocalCoverage": 0.758,
+          "vocalSpanSec": [
+            1.5,
+            232.6
+          ],
+          "vocalF0MedianHz": 329,
+          "vocalF0P25Hz": 263,
+          "lyricLineRecall": 0.857,
+          "lyricUnclearSections": [
+            "Vocal Break"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "ending cut at the length limit (last chord clipped)"
+          ],
+          "durationSec": 234.8,
+          "measuredBpm": 92.3,
+          "bpmFactor": 1,
+          "targetBpm": 96,
+          "bpmErrPct": 3.9,
+          "lufs": -13.9,
+          "peakDbfs": -1.82,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.2,
+          "contentEndSec": 234.7,
+          "vocalCoverage": 0.753,
+          "vocalSpanSec": [
+            2.6,
+            232.3
+          ],
+          "vocalF0MedianHz": 496,
+          "vocalF0P25Hz": 293,
+          "lyricLineRecall": 0.886,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Country Rock"
+  },
+  {
+    "id": "e10_07",
+    "title": "Fresh Out the Dryer",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 7,
+    "slug": "e10_07_fresh_out_the_dryer",
+    "inspiredBy": "Uptown Funk (Mark Ronson feat. Bruno Mars, 2014)",
+    "leadVoice": "A male tenor with a bright, flexible, show-off voice who talk-sings the verses with comic timing and shouts the hooks. A group of men sing the bass line on nonsense syllables and answer him in the pre-chorus. Everyone shouts on the hits.",
+    "model": "V6",
+    "style": "2014 retro funk pop in an early-1980s Minneapolis style, bright flexible show-off male tenor talk-singing the verses with comic timing and shouting the hooks, group of men singing the bass line on nonsense syllables and answering, 115 BPM, D minor, tight strutting stop-start groove, punchy horn section riff, slap electric bass, scratchy clean rhythm guitar, tight drums with dry snare, bright synth stabs, squealing synth lead, finger snaps, handclaps, dead-stop breakdown with spoken commands, dry punchy bright mix, swaggering, funny, joyful",
+    "negativeTags": "female lead vocals, slow ballad, distorted rock guitar, dark mood, trap hi-hats, autotune, dubstep",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: male voices sing the bass line, finger snaps, guitar scratch]\nDoh, doh-doh-doh, doh-doh\nDoh, doh-doh-doh, doh-doh\n\n[Verse 1: swaggering talk-sung lead, tight drums and bass]\nThis shirt? Ironed. These shoes? Orthopaedic, shined\nThis playlist? Vinyl, alphabetised\nGot a coupon in my pocket and a spring in my stride\nMy knees went \"crack,\" I said \"that's just applause\"\n\n[Pre-Chorus: band hits, group answers]\nFeel that? (Still warm)\nSmell that? (Lemon breeze)\nWho's that? (That's him)\nOoh\n\n[Chorus: horn riff, gang shouts, stop-start hits]\nFresh out the dryer (ooh)\nWarm to the touch\nFresh out the dryer (ooh)\nAnd it's all too much\nSomebody open a window\nThe man is fluffed\n\n[Verse 2: swaggering talk-sung lead, synth stabs]\nI parallel park on the first attempt\nI know a guy who knows a guy, and both of them are bent\nOn getting me a table, any night, any town\nI tip twenty per cent, then I boogie on down\n\n[Pre-Chorus: band hits, group answers]\nFeel that? (Still warm)\nSmell that? (Lemon breeze)\nWho's that? (That's him)\nOoh\n\n[Chorus: horn riff, gang shouts, stop-start hits]\nFresh out the dryer (ooh)\nWarm to the touch\nFresh out the dryer (ooh)\nAnd it's all too much\nSomebody open a window\nThe man is fluffed\n\n[Breakdown: band stops dead, spoken commands, drums only]\nStop\nLint trap\nWait for it\nShake it out, shake it out\nHang it up\n\n[Bridge: build, voices stacking, horns climbing]\nBefore I leave, let me fold you something\nBefore I leave, let me fold you something\nTumble, tumble, tumble, tumble\nDry\n\n[Final Chorus: full band, horn riff on top, ad-libs]\nFresh out the dryer (ooh)\nWarm to the touch\nFresh out the dryer (ooh)\nAnd it's all too much\nSomebody open a window\nThe man is fluffed\n\n[Outro: vocal bass line and snaps, one horn stab]\nDoh, doh-doh-doh, doh-doh\nFluffed",
+    "taskId": "047b02061cedd8dfdb67f7e005641b55",
+    "sunoClipIds": [
+      "e7fc3f16-5ef9-4ed3-994e-4e0d97a79a29",
+      "630f69eb-6e4f-4606-8ff1-6473a40e5ec5"
+    ],
+    "created": "Nov 17, 2026 10:19 AM ET",
+    "createTimeMs": 1794928789335,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "e7fc3f16-5ef9-4ed3-994e-4e0d97a79a29",
+        "durationSec": 234.8,
+        "file": "twentytens/e10_07_fresh_out_the_dryer_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "630f69eb-6e4f-4606-8ff1-6473a40e5ec5",
+        "durationSec": 234.8,
+        "file": "twentytens/e10_07_fresh_out_the_dryer_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_07_fresh_out_the_dryer_req.json",
+      "twentytens/e10_07_fresh_out_the_dryer_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_07_fresh_out_the_dryer.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_07_fresh_out_the_dryer.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 115 BPM, 4/4, D minor with a bright funk colour. Tight, strutting, full of sudden stops. Party funk played with a straight face.\n\nVOICE: A male tenor with a bright, flexible, show-off voice who talk-sings the verses with comic timing and shouts the hooks. A group of men sing the bass line on nonsense syllables and answer him in the pre-chorus. Everyone shouts on the hits.\n\nINSTRUMENTS: A punchy horn section (trumpets, trombone, saxophone) playing a short, rude riff. Slap electric bass. Scratchy, clean rhythm guitar. A tight drum kit with a dry snare and lots of open space. Bright synth stabs and a squealing synth lead. Finger snaps and handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, voices singing the bass line with snaps. 0:17 Verse 1. 0:34 Pre-chorus. 0:46 Chorus 1 with the horn riff. 1:07 Verse 2. 1:24 Pre-chorus. 1:36 Chorus 2. 1:57 Breakdown, the band stops and commands are spoken over drums. 2:18 Bridge, building over eight bars. 2:35 Final chorus. 2:56 The horn riff vamps with ad-libs. 3:22 Outro, the vocal bass and one last horn stab at 3:35.\n\nPRODUCTION & MIX: A 2010s record made to sound like 1982: dry, punchy and bright, real horns and bass, every stop razor clean.\n\nSIGNATURE MOMENT: The band stopping dead for the word 'Stop' at 1:57.\n\nMODERN POINT OF VIEW: The peacock is fifty. The boasts are about parking and tipping, the catchphrases are about laundry, and the joke carries real affection for men who still dress up to go out.\n\nEMOTIONAL ARC: Swagger, more swagger, a pause for effect, triumph.",
+    "workbookAtAGlance": "Fresh Out the Dryer\n\nBackup titles\nThe Man Is Fluffed / That's Just Applause\n\nAt a glance\n115 BPM, D minor\nVoice: Swaggering male tenor, male vocal-bass group\nLength: about 3 minutes 40",
+    "year": 2014,
+    "qa": {
+      "title": "Fresh Out the Dryer",
+      "id": "e10_07",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 234.8,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 115,
+          "bpmErrPct": 2.3,
+          "lufs": -13.3,
+          "peakDbfs": -0.44,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.5,
+          "contentEndSec": 233.8,
+          "vocalCoverage": 0.565,
+          "vocalSpanSec": [
+            1.4,
+            225.6
+          ],
+          "vocalF0MedianHz": 389,
+          "vocalF0P25Hz": 293,
+          "lyricLineRecall": 0.756,
+          "lyricUnclearSections": [
+            "Intro",
+            "Outro"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check partial: 42% of lines recognised (unclear: Intro, Breakdown, Outro)"
+          ],
+          "durationSec": 234.8,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 115,
+          "bpmErrPct": 2.1,
+          "lufs": -13.5,
+          "peakDbfs": -0.75,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.2,
+          "contentEndSec": 234.0,
+          "vocalCoverage": 0.689,
+          "vocalSpanSec": [
+            1.7,
+            233.9
+          ],
+          "vocalF0MedianHz": 263,
+          "vocalF0P25Hz": 147,
+          "lyricLineRecall": 0.415,
+          "lyricUnclearSections": [
+            "Intro",
+            "Breakdown",
+            "Outro"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Funk"
+  },
+  {
+    "id": "e10_08",
+    "title": "Swear Me In",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 8,
+    "slug": "e10_08_swear_me_in",
+    "inspiredBy": "Take Me to Church (Hozier, 2013)",
+    "leadVoice": "Male, a warm baritone with a tenor's top, soulful and slightly rough, with an Irish colour to the vowels. Low and intimate in the verses, full-throated in the chorus. The phrase 'I do' is stretched across a long run of notes. A mixed gospel choir sings behind him and alone at the end.",
+    "model": "V6",
+    "style": "2013 gospel blues indie soul, warm soulful slightly rough male vocal with a baritone body and tenor top, intimate low verses and a full-throated chorus, a short phrase stretched into a long melisma, mixed gospel choir behind and alone at the end, 64 BPM, E minor, slow heavy sway, dark simple piano, church organ, heavy slow drums with deep kick and cracking snare, electric bass, handclaps, tambourine, gritty blues guitar fills, low strings, drumless handclap bridge, raw roomy stone-hall mix, solemn, devoted, powerful",
+    "negativeTags": "synth-pop, female lead vocals, rap, fast tempo, trap hi-hats, autotune, EDM drop, dance beat",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: low piano chords, a hummed choir note]\n\n[Verse 1: soulful, low, piano and voice]\nShe laughs like a gavel coming down\nShe rules against my sorrow and she throws my worries out\nI was guilty of the usual, the hiding and the doubt\nShe read me like a sentence and she let me out\n\n[Pre-Chorus: organ enters, choir hums]\nI've stood in rooms where they told me who to be\nHand on a book that was never about me\n\n[Chorus: full choir, heavy drums, voice soars]\nSwear me in\nI'll tell the whole truth with my hands up\nSwear me in\nI'll take the stand and I'll stand up\nRaise my right hand to your left\nI do, I do, I do\nSwear me in\n\n[Verse 2: soulful, fuller, bass and tambourine]\nIf I'm a witness, let me testify at night\nThe only law I answer to is whether we're alright\nThey can keep their robes and benches and their Sunday best\nI have seen the evidence, and I can rest\n\n[Pre-Chorus: organ and choir rising]\nI've stood in rooms where they told me who to be\nHand on a book that was never about me\n\n[Chorus: full choir, heavy drums, voice soars]\nSwear me in\nI'll tell the whole truth with my hands up\nSwear me in\nI'll take the stand and I'll stand up\nRaise my right hand to your left\nI do, I do, I do\nSwear me in\n\n[Bridge: drums drop out, voice and handclaps, choir answers]\nWhen the door is closed there's nobody to rule\n(Nobody, nobody)\nOnly what we promised, only me and you\n(Only me and you)\nSo help me\n\n[Final Chorus: loudest, choir at full voice, melisma on the last line]\nSwear me in\nI'll tell the whole truth with my hands up\nSwear me in\nI'll take the stand and I'll stand up\nRaise my right hand to your left\nI do, I do, I do\nSwear me in\n\n[Outro: choir alone, one piano chord]\nI do",
+    "taskId": "1bf0808e48cc7b7983ac0c6d9bc15ee1",
+    "sunoClipIds": [
+      "25884410-7284-4db3-876e-75dcd54646d2",
+      "ed0b65f6-7f86-430a-b7fe-491c39a023db"
+    ],
+    "created": "Nov 17, 2026 10:20 AM ET",
+    "createTimeMs": 1794928817238,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "25884410-7284-4db3-876e-75dcd54646d2",
+        "durationSec": 243.4,
+        "file": "twentytens/e10_08_swear_me_in_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "ed0b65f6-7f86-430a-b7fe-491c39a023db",
+        "durationSec": 246.48,
+        "file": "twentytens/e10_08_swear_me_in_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_08_swear_me_in_req.json",
+      "twentytens/e10_08_swear_me_in_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_08_swear_me_in.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_08_swear_me_in.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 64 BPM, a slow, heavy sway in 4/4 with a dragging triplet lilt. E minor. Solemn, bluesy and enormous.\n\nVOICE: Male, a warm baritone with a tenor's top, soulful and slightly rough, with an Irish colour to the vowels. Low and intimate in the verses, full-throated in the chorus. The phrase 'I do' is stretched across a long run of notes. A mixed gospel choir sings behind him and alone at the end.\n\nINSTRUMENTS: A dark, simple piano. Church organ. A gospel choir. Heavy, slow drums with a deep kick and a cracking snare. Electric bass. Handclaps and tambourine. A gritty electric guitar playing blues fills. Low strings.\n\nARRANGEMENT MAP: 0:00 Intro, piano and a hummed note. 0:15 Verse 1. 0:45 Pre-chorus, organ and choir. 1:00 Chorus 1, drums and full choir. 1:30 Verse 2. 2:00 Pre-chorus. 2:15 Chorus 2. 2:45 Bridge, drums out, voice with handclaps and choir answers. 3:07 Final chorus at full strength. 3:37 Outro, the choir alone on two words and a last piano chord at 3:48.\n\nPRODUCTION & MIX: Mid-2010s indie soul: raw and roomy, as if recorded in a stone hall, the voice close and the choir far and wide.\n\nSIGNATURE MOMENT: The run of notes on 'I do' at the end of the first chorus.\n\nMODERN POINT OF VIEW: The original is a young man's argument with an institution. This is a settled love speaking, and the oath is one he chooses. It can be sung at a wedding without irony.\n\nEMOTIONAL ARC: Relief, defiance, a vow.",
+    "workbookAtAGlance": "Swear Me In\n\nBackup titles\nThe Whole Truth / Raise My Right Hand\n\nAt a glance\n64 BPM, E minor\nVoice: Soulful male baritone-tenor, gospel choir\nLength: about 3 minutes 50",
+    "year": 2013,
+    "qa": {
+      "title": "Swear Me In",
+      "id": "e10_08",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.29 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 243.4,
+          "measuredBpm": 63.0,
+          "bpmFactor": 1,
+          "targetBpm": 64,
+          "bpmErrPct": 1.5,
+          "lufs": -14.6,
+          "peakDbfs": 0.29,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 1.2,
+          "contentEndSec": 241.9,
+          "vocalCoverage": 0.737,
+          "vocalSpanSec": [
+            11.0,
+            241.1
+          ],
+          "vocalF0MedianHz": 314,
+          "vocalF0P25Hz": 247,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "fail",
+          "reasons": [
+            "silence gap >2s at [227.0]s",
+            "abrupt ending"
+          ],
+          "durationSec": 246.5,
+          "measuredBpm": 61.5,
+          "bpmFactor": 1,
+          "targetBpm": 64,
+          "bpmErrPct": 3.9,
+          "lufs": -15.4,
+          "peakDbfs": -0.2,
+          "clipSamples": 0,
+          "midGaps": [
+            227.0
+          ],
+          "endFadeSec": 0.0,
+          "contentEndSec": 246.2,
+          "vocalCoverage": 0.651,
+          "vocalSpanSec": [
+            14.3,
+            238.7
+          ],
+          "vocalF0MedianHz": 295,
+          "vocalF0P25Hz": 270,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Soul"
+  },
+  {
+    "id": "e10_09",
+    "title": "Somebody's Person",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 9,
+    "slug": "e10_09_somebodys_person",
+    "inspiredBy": "Someone You Loved (Lewis Capaldi, 2018)",
+    "leadVoice": "Male tenor, raw and raspy, with a Scottish colour to the vowels. Quiet and conversational in the verses. In the chorus he pushes to the top of his chest voice until it strains and cracks, and he does not hide it. Almost shouted in the bridge, then barely there in the final chorus. No harmonies.",
+    "model": "V6",
+    "style": "2018 piano ballad, raw raspy male tenor vocal with a Scottish accent, quiet conversational verses and a strained cracking full-voice chorus, almost shouted bridge, no harmonies, 110 BPM, D-flat major, four chords repeating, steady acoustic piano as the main instrument, a single cello joining in the second verse, small string section, very soft bass, no drums at all, quiet final chorus with one swell, close warm plain dry mix with audible breaths, heartbroken, honest, tender",
+    "negativeTags": "drums, drum machine, electric guitar, female lead vocals, rap, synth-pop, dance beat, autotune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 210,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: solo piano, four simple chords]\n\n[Verse 1: raw, quiet, piano only]\nI keep setting out two plates\nI keep saving you the news\nEvery funny thing that happens\nStill gets halfway to you\n\n[Pre-Chorus: voice rises, left hand of the piano deepens]\nAnd the phone lights up and it isn't your name\nAnd I put it back down again\n\n[Chorus: full voice, strained, piano louder]\nI was somebody's person\nSomebody's \"call me when you land\"\nNow there's no one I report to\nAnd I don't know where to put my hands\nI was somebody's person\nNow I'm just someone\n\n[Verse 2: quiet again, a single cello joins]\nThere's a coat I haven't moved\nThere's a mug I haven't cleaned\nI've got all the room I wanted\nAnd I don't know what it means\n\n[Pre-Chorus: voice rises, cello swells]\nAnd the door goes click and it's only the wind\nAnd I say your name again\n\n[Chorus: full voice, strings, piano pounding]\nI was somebody's person\nSomebody's \"call me when you land\"\nNow there's no one I report to\nAnd I don't know where to put my hands\nI was somebody's person\nNow I'm just someone\n\n[Bridge: almost shouted, voice cracking]\nAnd I'd give anything\nTo be asked if I got home\nTo be told to wear a jacket\nTo be told\n\n[Final Chorus: quietest, piano and voice, then one swell]\nI was somebody's person\nSomebody's \"call me when you land\"\nNow there's no one I report to\nAnd I don't know where to put my hands\nI was somebody's person\nI was somebody's\n\n[Outro: piano alone, last chord unresolved]",
+    "taskId": "f2f42702d020bf10910838efcbea3661",
+    "sunoClipIds": [
+      "641b5ae4-362d-4759-93e2-5342fb812a4e",
+      "1e6d13c7-7b71-4db0-bed0-f67a517dd132"
+    ],
+    "created": "Nov 17, 2026 10:19 AM ET",
+    "createTimeMs": 1794928797363,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "641b5ae4-362d-4759-93e2-5342fb812a4e",
+        "durationSec": 208.76,
+        "file": "twentytens/e10_09_somebodys_person_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "1e6d13c7-7b71-4db0-bed0-f67a517dd132",
+        "durationSec": 209.16,
+        "file": "twentytens/e10_09_somebodys_person_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_09_somebodys_person_req.json",
+      "twentytens/e10_09_somebodys_person_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_09_somebodys_person.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_09_somebodys_person.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 110 BPM, 4/4, D-flat major. Four chords, repeating. Steady and simple, with nowhere to hide.\n\nVOICE: Male tenor, raw and raspy, with a Scottish colour to the vowels. Quiet and conversational in the verses. In the chorus he pushes to the top of his chest voice until it strains and cracks, and he does not hide it. Almost shouted in the bridge, then barely there in the final chorus. No harmonies.\n\nINSTRUMENTS: An acoustic piano playing steady, repeated chords, the only instrument for the first verse. A single cello from verse 2. A small string section in the second chorus. Very soft bass notes. No drums at any point.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:09 Verse 1. 0:31 Pre-chorus. 0:44 Chorus 1. 1:10 Verse 2, with cello. 1:32 Pre-chorus. 1:45 Chorus 2, with strings. 2:11 Bridge, the loudest and rawest singing. 2:28 Final chorus, suddenly quiet, with one swell on the fourth line. 2:58 Outro, piano alone, ending on an unresolved chord at 3:10.\n\nPRODUCTION & MIX: Late-2010s piano ballad: close, warm and plain. The voice is dry enough to hear the breaths and the grain.\n\nSIGNATURE MOMENT: The crack in the voice on 'hands' in the first chorus.\n\nMODERN POINT OF VIEW: The bridge is about being fussed over: told to wear a jacket, asked if you got home. People notice that kind of love once it stops, and it applies to a partner, a parent or a grandparent.\n\nEMOTIONAL ARC: Habit, disorientation, longing, an unfinished sentence.",
+    "workbookAtAGlance": "Somebody's Person\n\nBackup titles\nCall Me When You Land / Where to Put My Hands\n\nAt a glance\n110 BPM, D-flat major\nVoice: Raw raspy male tenor\nLength: about 3 minutes 15",
+    "year": 2018,
+    "qa": {
+      "title": "Somebody's Person",
+      "id": "e10_09",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 208.8,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 110,
+          "bpmErrPct": 2.1,
+          "lufs": -13.7,
+          "peakDbfs": -0.38,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 206.5,
+          "vocalCoverage": 0.556,
+          "vocalSpanSec": [
+            16.8,
+            190.7
+          ],
+          "vocalF0MedianHz": 295,
+          "vocalF0P25Hz": 264,
+          "lyricLineRecall": 0.971,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 209.2,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 110,
+          "bpmErrPct": 2.1,
+          "lufs": -14.2,
+          "peakDbfs": -0.6,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.4,
+          "contentEndSec": 205.8,
+          "vocalCoverage": 0.503,
+          "vocalSpanSec": [
+            7.6,
+            184.4
+          ],
+          "vocalF0MedianHz": 295,
+          "vocalF0P25Hz": 261,
+          "lyricLineRecall": 0.971,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Piano Ballad"
+  },
+  {
+    "id": "e10_10",
+    "title": "Borrowed Flannel",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 10,
+    "slug": "e10_10_borrowed_flannel",
+    "inspiredBy": "Sweater Weather (The Neighbourhood, 2012)",
+    "leadVoice": "Male, low and murmured, delivering the verses fast and rhythmically, half rapped, as if not to be overheard. The chorus is slow, with a clear, light falsetto on the top line and a doubled low voice underneath. Lower and slower still in the bridge.",
+    "model": "V6",
+    "style": "2013 moody indie pop with a hip-hop rhythm section, low murmured male vocal delivering fast half-rapped verses, slow chorus with a clear light falsetto top line doubled by a low voice, 124 BPM with half-time choruses, E minor, final section slowing to a heavy slower tempo, clean heavily reverbed electric guitar playing a short descending riff, tight dry drums, deep simple bass, tremolo guitar, dark synth pads, finger snaps, dark clean reverberant mix, wide guitars, cool, intimate, autumnal",
+    "negativeTags": "female lead vocals, bright upbeat pop, distorted metal guitar, EDM drop, trap hi-hats, saxophone",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: clean reverb guitar riff, tight dry drums, low bass]\n\n[Verse 1: low, quick, half rapped murmur]\nWindows down in a cold parked car\nTalking like we know who we are\nYour breath on the glass, you draw a house\nI add a door, you rub it out\nRadio's playing something our parents knew\nYou know the words and I look at you\n\n[Pre-Chorus: drums thin, guitar rings]\nIt's colder than they said it'd be\nYou're shaking and you're laughing at me\n\n[Chorus: half-time feel, clear falsetto, wide guitars]\nTake the flannel, it's not mine\nI borrowed it from somebody kind\nIt's been around, it'll go around\nWear it till the leaves come down\nIt's borrowed, borrowed, borrowed\nAnd so are we, for now\n\n[Verse 2: low, quick, half rapped murmur]\nSleeves too long and the collar's frayed\nIt smells like smoke and lemonade\nYou can wear it how you like out here\nNobody's looking, nobody's near\nOne button's wrong and it suits you fine\nYou do it up crooked, just like mine\n\n[Pre-Chorus: drums thin, guitar rings]\nIt's colder than they said it'd be\nYou're shaking and you're laughing at me\n\n[Chorus: half-time feel, clear falsetto, wide guitars]\nTake the flannel, it's not mine\nI borrowed it from somebody kind\nIt's been around, it'll go around\nWear it till the leaves come down\nIt's borrowed, borrowed, borrowed\nAnd so are we, for now\n\n[Bridge: tempo drops, slow and heavy, voice lower]\nSomebody wore it before me\nSomebody will after you\nPass it on, pass it on\nWhen it's warmed you through\n\n[Outro: slow tempo, guitar and voice, fading]\nBorrowed, borrowed, borrowed\nPass it on",
+    "taskId": "9725a843f0872e0f400769bf2e0fbe9c",
+    "sunoClipIds": [
+      "5eb84fea-d197-4831-bbf0-f61fbcf0b92c",
+      "22e4cfa3-77c7-47d0-b2d5-5d25a1c8c321"
+    ],
+    "created": "Nov 17, 2026 10:19 AM ET",
+    "createTimeMs": 1794928796285,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "5eb84fea-d197-4831-bbf0-f61fbcf0b92c",
+        "durationSec": 239.68,
+        "file": "twentytens/e10_10_borrowed_flannel_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "22e4cfa3-77c7-47d0-b2d5-5d25a1c8c321",
+        "durationSec": 238.6,
+        "file": "twentytens/e10_10_borrowed_flannel_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_10_borrowed_flannel_req.json",
+      "twentytens/e10_10_borrowed_flannel_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_10_borrowed_flannel.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_10_borrowed_flannel.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, E minor, with the choruses felt at half speed and the last section slowed to about 92 BPM. Cool, moody and close.\n\nVOICE: Male, low and murmured, delivering the verses fast and rhythmically, half rapped, as if not to be overheard. The chorus is slow, with a clear, light falsetto on the top line and a doubled low voice underneath. Lower and slower still in the bridge.\n\nINSTRUMENTS: A clean electric guitar with heavy reverb playing a short, descending riff. A tight, dry, hip-hop-influenced drum kit. Deep, simple bass. A second guitar with tremolo. Dark synth pads. Finger snaps in the pre-chorus. The whole track is treated to sound slightly monochrome.\n\nARRANGEMENT MAP: 0:00 Intro, guitar riff, drums and bass. 0:15 Verse 1. 0:38 Pre-chorus. 0:50 Chorus 1 in half time. 1:21 Verse 2. 1:44 Pre-chorus. 1:56 Chorus 2. 2:27 A drum fill and the tempo drops for the bridge, slow and heavy. 3:00 Outro at the slow tempo, guitar and voice fading out by 3:40.\n\nPRODUCTION & MIX: Early-2010s moody indie pop with a hip-hop rhythm section: dark, clean and reverberant, guitars wide, vocal low in pitch but forward.\n\nSIGNATURE MOMENT: The tempo change at 2:27, where the song becomes a different, slower one.\n\nMODERN POINT OF VIEW: The radio is playing something their parents knew, and the bridge says the shirt was worn before and will be worn after. It is the same autumn night with a longer sense of time around it.\n\nEMOTIONAL ARC: Shy closeness, warmth, a wider view, letting go.",
+    "workbookAtAGlance": "Borrowed Flannel\n\nBackup titles\nTill the Leaves Come Down / You Rub It Out\n\nAt a glance\n124 BPM, E minor\nVoice: Low murmured male voice, falsetto hook\nLength: about 3 minutes 45",
+    "year": 2012,
+    "qa": {
+      "title": "Borrowed Flannel",
+      "id": "e10_10",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 239.7,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 0.8,
+          "lufs": -13.9,
+          "peakDbfs": -1.42,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 237.8,
+          "vocalCoverage": 0.52,
+          "vocalSpanSec": [
+            17.2,
+            222.8
+          ],
+          "vocalF0MedianHz": 247,
+          "vocalF0P25Hz": 220,
+          "lyricLineRecall": 0.824,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 238.6,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -13.8,
+          "peakDbfs": -1.28,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 237.1,
+          "vocalCoverage": 0.525,
+          "vocalSpanSec": [
+            16.6,
+            220.3
+          ],
+          "vocalF0MedianHz": 220,
+          "vocalF0P25Hz": 166,
+          "lyricLineRecall": 0.824,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop"
+  },
+  {
+    "id": "e10_11",
+    "title": "Stay for the Slow One",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 11,
+    "slug": "e10_11_stay_for_the_slow_one",
+    "inspiredBy": "One Dance (Drake feat. Wizkid & Kyla, 2016)",
+    "leadVoice": "A male lead who half sings and half talks in a soft, slightly nasal, melodic voice, never raising it. A second male voice, sweeter and more lilting, sings the bridge. A woman's voice, treated to sound like a sample from an old club record, repeats one line.",
+    "model": "V6",
+    "style": "2016 minimal dancehall and afrobeats influenced pop, soft slightly nasal male lead half singing and half talking and never raising his voice, sweeter lilting second male voice on the bridge, a woman's voice treated like an old club-record sample repeating one line, 104 BPM, B-flat minor, gentle shuffling off-beat sway, soft muted piano chord stabs, kick, rim-click and shaker beat, warm round sub-bass, light hand percussion, clean plucked guitar, very few sounds with lots of space, quiet warm mix, intimate, unhurried, bittersweet",
+    "negativeTags": "distorted guitar, rock drums, loud belting, big chorus, EDM drop, dubstep, heavy synths, country",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 195,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: soft piano stabs, shuffling percussion, sampled female voice]\n(Stay, stay, I like it when you stay)\n\n[Verse 1: soft, melodic, half sung]\nCoat's on the chair and the cab's on its way\nGot a flight and a thing and a million things to say\nBut they're playing it slow and your hand is in mine\nTell the driver go around the block and take his time\n\n[Chorus: light beat, bass enters, female sample answers]\nStay for the slow one\nBefore the lights go\nGot a long road, I know, I know\nBut give me the slow one\nHold me like you won't let go\n(Stay, stay, I like it when you stay)\nStay for the slow one\n\n[Verse 2: soft, a little lower]\nMama called, said be careful out there\nCity's got teeth and she said a prayer\nBut nothing bad ever happened in a room\nWhere the bass is this warm and I'm this close to you\n\n[Chorus: light beat, bass, female sample answers]\nStay for the slow one\nBefore the lights go\nGot a long road, I know, I know\nBut give me the slow one\nHold me like you won't let go\n(Stay, stay, I like it when you stay)\nStay for the slow one\n\n[Bridge: second male voice, sweeter, percussion and guitar]\nTomorrow's got a hold on us already\nTonight is only asking to go steady\nSlow, slow\nDon't rush it\n\n[Final Chorus: both voices, sample layered, soft claps]\nStay for the slow one\nBefore the lights go\nGot a long road, I know, I know\nBut give me the slow one\nHold me like you won't let go\n(Stay, stay, I like it when you stay)\nStay for the slow one\n\n[Outro: piano stabs and sample, a car horn outside, fade]\n(I like it when you stay)",
+    "taskId": "2cf6589caba9e13e388bb7cd9a2f3451",
+    "sunoClipIds": [
+      "7717865a-e661-44ce-b28e-6b3a23310956",
+      "075f2630-dc44-4463-aa0d-59d17913c385"
+    ],
+    "created": "Nov 17, 2026 10:20 AM ET",
+    "createTimeMs": 1794928801947,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "7717865a-e661-44ce-b28e-6b3a23310956",
+        "durationSec": 194.72,
+        "file": "twentytens/e10_11_stay_for_the_slow_one_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "075f2630-dc44-4463-aa0d-59d17913c385",
+        "durationSec": 194.4,
+        "file": "twentytens/e10_11_stay_for_the_slow_one_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_11_stay_for_the_slow_one_req.json",
+      "twentytens/e10_11_stay_for_the_slow_one_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_11_stay_for_the_slow_one.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_11_stay_for_the_slow_one.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, B-flat minor. A gentle, shuffling sway with the off-beat push of dancehall and afrobeats. Warm, close and unhurried.\n\nVOICE: A male lead who half sings and half talks in a soft, slightly nasal, melodic voice, never raising it. A second male voice, sweeter and more lilting, sings the bridge. A woman's voice, treated to sound like a sample from an old club record, repeats one line.\n\nINSTRUMENTS: Soft, muted piano chords played as short stabs. A shuffling beat of kick, rim-click and shaker. A warm, round sub-bass. Light hand percussion. A clean, plucked guitar in the bridge. Very few sounds, with a lot of air between them.\n\nARRANGEMENT MAP: 0:00 Intro, piano stabs, percussion and the sampled voice. 0:14 Verse 1. 0:37 Chorus 1, the bass enters. 1:04 Verse 2. 1:27 Chorus 2. 1:54 Bridge, the second voice with guitar. 2:13 Final chorus with both voices. 2:40 Outro, piano and sample, a car horn from outside, fading by 2:58.\n\nPRODUCTION & MIX: Mid-2010s minimal global pop: quiet, warm and spacious, deep sub, soft highs, nothing loud.\n\nSIGNATURE MOMENT: The sampled voice over the piano stabs in the first five seconds.\n\nMODERN POINT OF VIEW: The reason to leave is practical (a flight, a schedule, a worried mother), and the wish is to slow down, not to stay out all night. It is a tired adult's version of the same request.\n\nEMOTIONAL ARC: Reluctance to leave, closeness, a few minutes stolen.",
+    "workbookAtAGlance": "Stay for the Slow One\n\nBackup titles\nRound the Block Once More / This Close to You\n\nAt a glance\n104 BPM, B-flat minor\nVoice: Soft melodic male voice, sampled female hook\nLength: about 3 minutes",
+    "year": 2016,
+    "qa": {
+      "title": "Stay for the Slow One",
+      "id": "e10_11",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 194.7,
+          "measuredBpm": 103.4,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 0.6,
+          "lufs": -14.1,
+          "peakDbfs": -0.66,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 193.4,
+          "vocalCoverage": 0.634,
+          "vocalSpanSec": [
+            0.2,
+            190.6
+          ],
+          "vocalF0MedianHz": 278,
+          "vocalF0P25Hz": 251,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 194.4,
+          "measuredBpm": 103.4,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 0.6,
+          "lufs": -14.1,
+          "peakDbfs": -0.19,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 191.4,
+          "vocalCoverage": 0.693,
+          "vocalSpanSec": [
+            0.3,
+            190.2
+          ],
+          "vocalF0MedianHz": 277,
+          "vocalF0P25Hz": 176,
+          "lyricLineRecall": 0.971,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Pop"
+  },
+  {
+    "id": "e10_12",
+    "title": "I'm the Plot Twist",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 12,
+    "slug": "e10_12_im_the_plot_twist",
+    "inspiredBy": "bad guy (Billie Eilish, 2019)",
+    "leadVoice": "Female, sung in a soft whisper right against the microphone, with almost no projection. Deadpan and amused. The chorus is half spoken. The punchline words are spoken flat, with no music under them. Layered whispers and breathy harmonies in the background.",
+    "model": "V6",
+    "style": "2019 minimalist bedroom pop, soft whispered deadpan female vocal right against the microphone, half spoken chorus ending in a flatly spoken punchline over silence, layered whispers, 135 BPM, G minor, sly and bouncy, plucked rubbery electric bass riff leading, finger snaps, soft punchy kick, handclaps, cartoonish wobbling synth lead playing the hook in place of a sung chorus, final section switching to a slow dark half-speed trap beat with heavy sub-bass, extremely dry close mix, almost no reverb, playful, sinister, witty",
+    "negativeTags": "male lead vocals, belting, acoustic guitar, rock drums, big reverb, strings, saxophone, country",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 205,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bass line alone, finger snaps, a soft kick]\n\n[Verse 1: whispered, close, deadpan]\nBare feet\nCold tea\nReading your texts upside down\nSweet me\nLets you\nThink you run this town\nI nod, I smile, I pass the salt\nIf something breaks it's not my fault\n\n[Pre-Chorus: kick doubles, voice a little louder]\nSo you're the hero, you're the lead\nYou've got the jawline and the speed\n\n[Chorus: half spoken, then a spoken punchline]\nYou think you're the main event\nThe big reveal, the hundred per cent\nSaved the day and got the kiss\nCute.\nI'm the plot twist\n\n[Synth Hook: cartoonish wobbling synth melody, bass and claps]\n\n[Verse 2: whispered, more amused]\nI like\nIt when\nYou take control of the remote\nI let\nYou pick\nI let you rock the boat\nI let you think you won the race\nI moved the finish line last year\n\n[Pre-Chorus: kick doubles, voice a little louder]\nSo you're the hero, you're the lead\nYou've got the jawline and the speed\n\n[Chorus: half spoken, then a spoken punchline]\nYou think you're the main event\nThe big reveal, the hundred per cent\nSaved the day and got the kiss\nCute.\nI'm the plot twist\n\n[Synth Hook: cartoonish wobbling synth melody, bass and claps]\n\n[Beat Switch: tempo drops, slow dark trap beat, low sub-bass]\nI'm the twist\nI'm the twist\nYou didn't see me coming\nDid you?\n\n[Outro: slow beat, whispered, one finger snap]\nObviously",
+    "taskId": "bfa727b6fa7bf821812988bf522b67ea",
+    "sunoClipIds": [
+      "92ec82dd-73fe-42d4-ba38-ac151a8d069f",
+      "5aad70f1-f931-4026-9d1d-0c48e972a267"
+    ],
+    "created": "Nov 17, 2026 10:20 AM ET",
+    "createTimeMs": 1794928818808,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "92ec82dd-73fe-42d4-ba38-ac151a8d069f",
+        "durationSec": 204.68,
+        "file": "twentytens/e10_12_im_the_plot_twist_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "5aad70f1-f931-4026-9d1d-0c48e972a267",
+        "durationSec": 204.48,
+        "file": "twentytens/e10_12_im_the_plot_twist_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_12_im_the_plot_twist_req.json",
+      "twentytens/e10_12_im_the_plot_twist_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_12_im_the_plot_twist.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_12_im_the_plot_twist.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 135 BPM, 4/4, G minor, switching to a slow half-speed beat for the last section. Sly, bouncy and close to the ear.\n\nVOICE: Female, sung in a soft whisper right against the microphone, with almost no projection. Deadpan and amused. The chorus is half spoken. The punchline words are spoken flat, with no music under them. Layered whispers and breathy harmonies in the background.\n\nINSTRUMENTS: A plucked, rubbery electric bass playing the main riff. Finger snaps. A soft, punchy kick drum. Handclaps. A cartoonish, wobbling synth lead that plays the hook where a chorus would be. Deep sub-bass and slow, heavy hi-hats after the switch. Small household clicks and taps as percussion.\n\nARRANGEMENT MAP: 0:00 Intro, the bass line with snaps. 0:14 Verse 1. 0:36 Pre-chorus. 0:43 Chorus 1, ending on the spoken punchline in silence. 0:57 Synth hook. 1:11 Verse 2. 1:33 Pre-chorus. 1:40 Chorus 2. 1:54 Synth hook. 2:22 Beat switch: the tempo halves and a dark, slow beat with heavy sub-bass takes over. 2:55 Outro, a whisper and a single snap at 3:05.\n\nPRODUCTION & MIX: Late-2010s bedroom pop: extremely dry and close, huge sub-bass, almost no reverb, silences used as punctuation.\n\nSIGNATURE MOMENT: The one-word spoken punchline at about 0:54, with everything else cut out.\n\nMODERN POINT OF VIEW: The original is a teenager's taunt. This is somebody who has been quietly managing a household, an office or a marriage for decades and is amused that nobody noticed.\n\nEMOTIONAL ARC: Mock meekness, amusement, the reveal, a dark little victory lap.",
+    "workbookAtAGlance": "I'm the Plot Twist\n\nBackup titles\nMoved the Finish Line / Cute\n\nAt a glance\n135 BPM, G minor\nVoice: Whispered deadpan female voice\nLength: about 3 minutes 10",
+    "year": 2019,
+    "qa": {
+      "title": "I'm the Plot Twist",
+      "id": "e10_12",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 204.7,
+          "measuredBpm": 136.0,
+          "bpmFactor": 1,
+          "targetBpm": 135,
+          "bpmErrPct": 0.7,
+          "lufs": -13.5,
+          "peakDbfs": -0.23,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 203.7,
+          "vocalCoverage": 0.427,
+          "vocalSpanSec": [
+            0.2,
+            188.6
+          ],
+          "vocalF0MedianHz": 270,
+          "vocalF0P25Hz": 234,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending",
+            "peak 0.13 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 204.5,
+          "measuredBpm": 136.0,
+          "bpmFactor": 1,
+          "targetBpm": 135,
+          "bpmErrPct": 0.7,
+          "lufs": -13.5,
+          "peakDbfs": 0.13,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 0.2,
+          "contentEndSec": 201.9,
+          "vocalCoverage": 0.395,
+          "vocalSpanSec": [
+            0.9,
+            201.8
+          ],
+          "vocalF0MedianHz": 285,
+          "vocalF0P25Hz": 263,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Bedroom Pop"
+  },
+  {
+    "id": "e10_13",
+    "title": "I Heard You Painted the Kitchen",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 13,
+    "slug": "e10_13_i_heard_you_painted_the_kitchen",
+    "inspiredBy": "Someone Like You (Adele, 2011)",
+    "leadVoice": "Female contralto, rich and smoky low down, with a London accent in the vowels. Verses sung plainly and close. In the chorus she pushes into a powerful upper range that frays and cracks at the very top. The last line is nearly spoken. No backing vocals.",
+    "model": "V6",
+    "style": "2011 voice and piano ballad, rich smoky female contralto vocal with a London accent, plain close verses and a powerful upper range that frays and cracks at the top, last line nearly spoken, no backing vocals, 67 BPM, A major, solo acoustic piano only, continuous rolling broken-chord pattern in the right hand, plain bass notes, single held chords in the bridge, no drums, no strings, no other instruments, close natural live room recording with audible pedal and breaths, dignified, heartbroken, generous",
+    "negativeTags": "drums, drum machine, guitar, strings, synthesizer, male lead vocals, rap, dance beat, autotune",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 257,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: solo piano, rolling arpeggio pattern]\n\n[Verse 1: low, plain, piano only]\nI heard you painted the kitchen\nThe yellow we never chose\nI heard you got a dog now\nAnd it sleeps across your toes\nI heard you're up at six these days\nYou never were for me\nIt's funny what a person keeps\nFor whoever comes to be\n\n[Pre-Chorus: voice rises, piano fuller]\nI wasn't going to call, I wasn't going to write\nI only want you knowing that I know, and it's alright\n\n[Chorus: full voice, raw at the top, piano rolling]\nGood for you\nI mean it, good for you\nI'll find my own shade of yellow\nI'll paint a room or two\nAnd if you're ever passing\nYou don't have to call\nSome things don't end, they only dry\nLike colour on a wall\n\n[Verse 2: low, a little warmer]\nI kept the chair you hated\nI learned to like the cold\nI say your mother's sayings\nI am getting, somehow, old\nI saw a man in your old coat\nOutside the corner shop\nAnd all the years came running back\nAnd then I made them stop\n\n[Pre-Chorus: voice rises, piano fuller]\nI wasn't going to call, I wasn't going to write\nI only want you knowing that I know, and it's alright\n\n[Chorus: full voice, raw at the top, piano rolling]\nGood for you\nI mean it, good for you\nI'll find my own shade of yellow\nI'll paint a room or two\nAnd if you're ever passing\nYou don't have to call\nSome things don't end, they only dry\nLike colour on a wall\n\n[Bridge: piano drops to single chords, voice exposed]\nNothing sticks like the first coat\nNobody tells you that\nYou cover it and cover it\nAnd it's still under there\n\n[Final Chorus: softer start, then the biggest held note]\nGood for you\nI mean it, good for you\nI'll find my own shade of yellow\nI'll paint a room or two\nAnd if you're ever passing\nYou don't have to call\nSome things don't end, they only dry\nLike colour on a wall\n\n[Outro: piano pattern slows, last line almost spoken]\nLike colour on a wall",
+    "taskId": "f69893e9facf252cca396e576954be28",
+    "sunoClipIds": [
+      "090942cf-1812-4fe7-b7a6-c8e9ac8eb04f",
+      "a0ff44c3-6bae-4d94-ad88-8460d3dd9f16"
+    ],
+    "created": "Nov 17, 2026 10:20 AM ET",
+    "createTimeMs": 1794928807471,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "090942cf-1812-4fe7-b7a6-c8e9ac8eb04f",
+        "durationSec": 257.48,
+        "file": "twentytens/e10_13_i_heard_you_painted_the_kitchen_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "a0ff44c3-6bae-4d94-ad88-8460d3dd9f16",
+        "durationSec": 256.8,
+        "file": "twentytens/e10_13_i_heard_you_painted_the_kitchen_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_13_i_heard_you_painted_the_kitchen_req.json",
+      "twentytens/e10_13_i_heard_you_painted_the_kitchen_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_13_i_heard_you_painted_the_kitchen.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_13_i_heard_you_painted_the_kitchen.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 67 BPM, 4/4, A major. A slow, rolling piano pattern that keeps turning like a wheel. Bare and dignified.\n\nVOICE: Female contralto, rich and smoky low down, with a London accent in the vowels. Verses sung plainly and close. In the chorus she pushes into a powerful upper range that frays and cracks at the very top. The last line is nearly spoken. No backing vocals.\n\nINSTRUMENTS: One acoustic piano and nothing else. The right hand plays a continuous broken-chord pattern, the left hand plain bass notes. In the bridge it reduces to single held chords.\n\nARRANGEMENT MAP: 0:00 Intro, the piano pattern. 0:14 Verse 1. 0:57 Pre-chorus. 1:12 Chorus 1. 1:41 Verse 2. 2:24 Pre-chorus. 2:38 Chorus 2. 3:07 Bridge, single chords. 3:25 Final chorus, starting softly and reaching the biggest held note on the seventh line. 3:54 Outro, the pattern slows and the last line is half spoken at 4:02.\n\nPRODUCTION & MIX: A live-sounding piano ballad: close microphones, natural room, no effects. You can hear the pedal and the breaths.\n\nSIGNATURE MOMENT: The crack in the voice at the top of the first chorus.\n\nMODERN POINT OF VIEW: The original, written at twenty-one, cannot yet wish him well. This narrator can, and the bridge explains how: the first coat is still under there, and she has stopped needing to cover it.\n\nEMOTIONAL ARC: Curiosity, a pang, generosity, peace.",
+    "workbookAtAGlance": "I Heard You Painted the Kitchen\n\nBackup titles\nGood for You, I Mean It / Colour on a Wall\n\nAt a glance\n67 BPM, A major\nVoice: Rich female contralto, raw at the top\nLength: about 4 minutes",
+    "year": 2011,
+    "qa": {
+      "title": "I Heard You Painted the Kitchen",
+      "id": "e10_13",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending",
+            "loudness -17.0 LUFS vs pack median -13.7",
+            "tempo measured 76 BPM vs 67 target (~13% off)"
+          ],
+          "durationSec": 257.5,
+          "measuredBpm": 76.0,
+          "bpmFactor": 1,
+          "targetBpm": 67,
+          "bpmErrPct": 13.4,
+          "lufs": -17.0,
+          "peakDbfs": -0.42,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.0,
+          "contentEndSec": 257.0,
+          "vocalCoverage": 0.463,
+          "vocalSpanSec": [
+            19.4,
+            256.9
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 251,
+          "lyricLineRecall": 0.959,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 86 BPM vs 67 target (~14% off)"
+          ],
+          "durationSec": 256.8,
+          "measuredBpm": 86.1,
+          "bpmFactor": 0.67,
+          "targetBpm": 67,
+          "bpmErrPct": 14.3,
+          "lufs": -15.3,
+          "peakDbfs": -0.31,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 255.1,
+          "vocalCoverage": 0.442,
+          "vocalSpanSec": [
+            19.1,
+            250.0
+          ],
+          "vocalF0MedianHz": 295,
+          "vocalF0P25Hz": 278,
+          "lyricLineRecall": 0.959,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Piano Ballad"
+  },
+  {
+    "id": "e10_14",
+    "title": "Favorite Wrong Turn",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 14,
+    "slug": "e10_14_favorite_wrong_turn",
+    "inspiredBy": "All of Me (John Legend, 2013)",
+    "leadVoice": "Male tenor, smooth and warm with a soul and gospel background. Verses nearly spoken, with a smile in them. The chorus climbs into a clear, sweet falsetto on the top lines. One long held falsetto note in the last chorus. No backing vocals.",
+    "model": "V6",
+    "style": "2013 piano soul ballad, smooth warm male tenor vocal with a gospel background, nearly spoken smiling verses and a chorus climbing into clear sweet falsetto, one long held falsetto note in the final chorus, no backing vocals, 63 BPM, A-flat major, slow and unhurried, grand piano playing broad slow chords with small gospel turns, soft string section entering in the second chorus and growing, no drums, quiet almost spoken bridge, warm close clean classic ballad mix, romantic, tender, grateful",
+    "negativeTags": "drums, drum machine, electric guitar, female lead vocals, rap, synth-pop, dance beat, autotune",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: solo piano, slow warm chords]\n\n[Verse 1: smooth, conversational, piano only]\nYou navigate by feeling and you've never once been right\nYou sing the wrong words loudly and you leave on every light\nYou're early when I'm late and you are late when I'm on time\nAnd I wouldn't change a minute of this mismanaged life of mine\n\n[Pre-Chorus: piano builds, voice lifts]\nMy head keeps the map\nMy heart threw it out\n\n[Chorus: full voice into falsetto, piano broad]\nYou're my favorite wrong turn\nMy best mistake\nMy lost and found, my give and take\nYou're the long way home I would choose again\nMy favorite wrong turn\nYou're where I meant to end\n\n[Verse 2: smooth, smiling]\nYou argue with the weather and you bargain with the cat\nYou said we'd stay an hour, and it's been years since that\nThe plans I had were tidy and they wouldn't have been true\nEvery road I didn't mean to take was leading me to you\n\n[Pre-Chorus: piano builds, voice lifts]\nMy head keeps the map\nMy heart threw it out\n\n[Chorus: full voice into falsetto, soft strings]\nYou're my favorite wrong turn\nMy best mistake\nMy lost and found, my give and take\nYou're the long way home I would choose again\nMy favorite wrong turn\nYou're where I meant to end\n\n[Bridge: quiet, almost spoken, single piano notes]\nSo get us lost\nI'll hold the bags\nGet us lost\nI'm glad\n\n[Final Chorus: biggest, held falsetto note, strings]\nYou're my favorite wrong turn\nMy best mistake\nMy lost and found, my give and take\nYou're the long way home I would choose again\nMy favorite wrong turn\nYou're where I meant to end\n\n[Outro: piano alone, last chord held]\nWhere I meant to end",
+    "taskId": "c757aba0987bf3a95e6544d2a156b3ae",
+    "sunoClipIds": [
+      "d44f2049-58d2-4648-b679-58369e8e08b2",
+      "6f5a9302-eb68-4c2a-8974-53e9885a8d98"
+    ],
+    "created": "Nov 17, 2026 10:20 AM ET",
+    "createTimeMs": 1794928827541,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "d44f2049-58d2-4648-b679-58369e8e08b2",
+        "durationSec": 244.68,
+        "file": "twentytens/e10_14_favorite_wrong_turn_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "6f5a9302-eb68-4c2a-8974-53e9885a8d98",
+        "durationSec": 244.96,
+        "file": "twentytens/e10_14_favorite_wrong_turn_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_14_favorite_wrong_turn_req.json",
+      "twentytens/e10_14_favorite_wrong_turn_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_14_favorite_wrong_turn.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_14_favorite_wrong_turn.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 63 BPM, 4/4, A-flat major. Slow, warm and unhurried. A private song in a quiet room.\n\nVOICE: Male tenor, smooth and warm with a soul and gospel background. Verses nearly spoken, with a smile in them. The chorus climbs into a clear, sweet falsetto on the top lines. One long held falsetto note in the last chorus. No backing vocals.\n\nINSTRUMENTS: A grand piano playing broad, slow chords with small gospel turns. A soft string section that enters in the second chorus and grows in the last. Nothing else. No drums.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:15 Verse 1. 0:53 Pre-chorus. 1:04 Chorus 1. 1:34 Verse 2. 2:12 Pre-chorus. 2:23 Chorus 2, strings. 2:53 Bridge, single piano notes, almost spoken. 3:08 Final chorus with the held falsetto note. 3:38 Outro, piano alone, the last chord held to 3:50.\n\nPRODUCTION & MIX: A classic piano ballad recording: warm, close and clean, the piano wide, the voice in the centre with a little plate reverb.\n\nSIGNATURE MOMENT: The step up into falsetto on the first line of the chorus.\n\nMODERN POINT OF VIEW: This is a song from the far side of the wedding. The evidence is years of wrong directions and left-on lights, and 'where I meant to end' is said by someone who has seen where the tidy plan would have led.\n\nEMOTIONAL ARC: Affectionate complaint, gratitude, a vow renewed.",
+    "workbookAtAGlance": "Favorite Wrong Turn\n\nBackup titles\nWhere I Meant to End / Mismanaged Life of Mine\n\nAt a glance\n63 BPM, A-flat major\nVoice: Smooth male tenor with falsetto\nLength: about 3 minutes 50",
+    "year": 2013,
+    "qa": {
+      "title": "Favorite Wrong Turn",
+      "id": "e10_14",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 78 BPM vs 63 target (~17% off)"
+          ],
+          "durationSec": 244.7,
+          "measuredBpm": 78.3,
+          "bpmFactor": 0.67,
+          "targetBpm": 63,
+          "bpmErrPct": 17.1,
+          "lufs": -14.7,
+          "peakDbfs": -0.25,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.6,
+          "contentEndSec": 243.3,
+          "vocalCoverage": 0.661,
+          "vocalSpanSec": [
+            16.5,
+            231.0
+          ],
+          "vocalF0MedianHz": 261,
+          "vocalF0P25Hz": 233,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 78 BPM vs 63 target (~17% off)"
+          ],
+          "durationSec": 245.0,
+          "measuredBpm": 78.3,
+          "bpmFactor": 0.67,
+          "targetBpm": 63,
+          "bpmErrPct": 17.1,
+          "lufs": -15.1,
+          "peakDbfs": -0.48,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 244.9,
+          "vocalCoverage": 0.632,
+          "vocalSpanSec": [
+            18.4,
+            235.0
+          ],
+          "vocalF0MedianHz": 277,
+          "vocalF0P25Hz": 231,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Soul"
+  },
+  {
+    "id": "e10_15",
+    "title": "No Pressure, But",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 15,
+    "slug": "e10_15_no_pressure_but",
+    "inspiredBy": "Call Me Maybe (Carly Rae Jepsen, 2011)",
+    "leadVoice": "Female soprano, sweet, light and a little breathy, with a girlish brightness that suits the joke. Quick and chatty in the verses. The chorus is clear and punchy, with a group of friends joining on the repeated title phrase in the last chorus.",
+    "model": "V6",
+    "style": "2012 bubblegum pop, sweet light slightly breathy female soprano vocal, quick chatty verses and a clear punchy chorus, friends joining on the repeated title phrase at the end, 120 BPM, G major, bright bouncing four-on-the-floor pulse, synthesized string section playing short bright stabs after each chorus line, plucked strings in the verses, steady kick with handclaps, clean chiming electric guitar, bouncing synth bass, sparkling synth arpeggios, tambourine, clap-only bridge, bright clean compressed mix, flirty, funny, joyful",
+    "negativeTags": "male lead vocals, dark mood, slow ballad, distorted guitar, trap hi-hats, dubstep, saxophone, rap",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 210,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: plucked strings, soft kick, a little synth sparkle]\n\n[Verse 1: bright, breathy, light beat]\nI had a list for today\nMilk and stamps and a key\nThen you held the door at the bank\nNow I can't remember three\n\n[Pre-Chorus: beat builds, voice quickens]\nI don't do this, I plan things\nI've got a calendar with tabs\nBut something about a Tuesday\nHas me skipping all the steps\n\n[Chorus: full beat, string stabs after every line]\nNo pressure, but\nI've already named the dog\nNo pressure, but\nI told my mother and my blog\nIt's only been an hour\nI know it's early days\nNo pressure, but\nI've cleared my Saturdays\n\n[Verse 2: bright, laughing]\nYou said your name, I think\nI was looking at your hands\nYou asked me for the time\nAnd I gave you all my plans\n\n[Pre-Chorus: beat builds, voice quickens]\nI don't do this, I plan things\nI colour-code my shoes\nBut something about your raincoat\nHas me giving up the rules\n\n[Chorus: full beat, string stabs after every line]\nNo pressure, but\nI've already named the dog\nNo pressure, but\nI told my mother and my blog\nIt's only been an hour\nI know it's early days\nNo pressure, but\nI've cleared my Saturdays\n\n[Bridge: beat drops to claps, voice close]\nI didn't know that I was waiting\nUntil the waiting stopped\nI didn't know that I was waiting\nAnd now I can't find the clock\n\n[Final Chorus: everything, extra strings, gang vocals on the hedge]\nNo pressure, but\nI've already named the dog\nNo pressure, but\nI told my mother and my blog\nIt's only been an hour\nI know it's early days\nNo pressure, but\nI've cleared my Saturdays\n\n[Outro: string stab, spoken, a giggle]\nNo pressure",
+    "taskId": "b3a97f6517038f7f3c2c2d4354118f6f",
+    "sunoClipIds": [
+      "72f0c709-f749-406e-90ce-fc599e4fa431",
+      "8aaef740-c746-48c7-a7ae-385facbf682f"
+    ],
+    "created": "Nov 17, 2026 10:20 AM ET",
+    "createTimeMs": 1794928832729,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "72f0c709-f749-406e-90ce-fc599e4fa431",
+        "durationSec": 208.8,
+        "file": "twentytens/e10_15_no_pressure_but_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "8aaef740-c746-48c7-a7ae-385facbf682f",
+        "durationSec": 209.08,
+        "file": "twentytens/e10_15_no_pressure_but_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_15_no_pressure_but_req.json",
+      "twentytens/e10_15_no_pressure_but_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_15_no_pressure_but.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_15_no_pressure_but.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, G major. A bright, bouncing, four-on-the-floor pop pulse. Sunny and slightly out of breath.\n\nVOICE: Female soprano, sweet, light and a little breathy, with a girlish brightness that suits the joke. Quick and chatty in the verses. The chorus is clear and punchy, with a group of friends joining on the repeated title phrase in the last chorus.\n\nINSTRUMENTS: A synthesised string section playing short, bright stabs after each chorus line, plus plucked strings in the verses. A steady kick on every beat with handclaps. Clean, chiming electric guitar. A bouncing synth bass. Sparkling synth arpeggios. Tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, plucked strings. 0:08 Verse 1. 0:24 Pre-chorus. 0:40 Chorus 1 with string stabs. 1:12 Verse 2. 1:28 Pre-chorus. 1:44 Chorus 2. 2:16 Bridge, the beat drops to claps. 2:32 Final chorus with extra strings and gang vocals. 3:04 Outro, one last stab, two spoken words and a giggle at 3:12.\n\nPRODUCTION & MIX: Early-2010s bubblegum pop: bright, clean and compressed, strings and vocal very forward, a tight punchy low end.\n\nSIGNATURE MOMENT: The first string stab after the first chorus line at 0:42.\n\nMODERN POINT OF VIEW: She is a grown woman with a tabbed calendar, and the joke is that she skips the coy stage entirely. The bridge's impossible line is about someone who did not know she was lonely until it stopped.\n\nEMOTIONAL ARC: Fluster, comic overreach, one sincere moment, delight.",
+    "workbookAtAGlance": "No Pressure, But\n\nBackup titles\nI've Named the Dog / Cleared My Saturdays\n\nAt a glance\n120 BPM, G major\nVoice: Bright sweet female soprano\nLength: about 3 minutes 15",
+    "year": 2011,
+    "qa": {
+      "title": "No Pressure, But",
+      "id": "e10_15",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 208.8,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 2.5,
+          "lufs": -13.6,
+          "peakDbfs": -0.35,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 207.3,
+          "vocalCoverage": 0.732,
+          "vocalSpanSec": [
+            8.8,
+            206.6
+          ],
+          "vocalF0MedianHz": 391,
+          "vocalF0P25Hz": 330,
+          "lyricLineRecall": 0.977,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 209.1,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 7.7,
+          "lufs": -13.7,
+          "peakDbfs": -0.64,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.0,
+          "contentEndSec": 207.4,
+          "vocalCoverage": 0.755,
+          "vocalSpanSec": [
+            7.6,
+            203.8
+          ],
+          "vocalF0MedianHz": 389,
+          "vocalF0P25Hz": 295,
+          "lyricLineRecall": 0.977,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Pop"
+  },
+  {
+    "id": "e10_16",
+    "title": "Reckless October",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 16,
+    "slug": "e10_16_reckless_october",
+    "inspiredBy": "Cruel Summer (Taylor Swift, 2019)",
+    "leadVoice": "Female soprano, bright and conversational. Verses are clipped and low, almost muttered. The chorus is stacked wide with high harmonies. The bridge is shouted in one breathless run with a crack of laughter in it. A vocoder doubles some lines with a robotic shimmer.",
+    "model": "V6",
+    "style": "2019 synth-pop, bright conversational female soprano vocal, clipped low tense verses, wide stacked chorus with high harmonies, a shouted breathless story bridge with laughter in it, vocoder doubling some lines, crowd shouting in the final chorus, 170 BPM felt at 85, A major, pulsing distorted synth bass, bright wide synthesizer chords, tight drum machine with big snare, finger snaps, glittering high arpeggio, pounding drums under the bridge, glossy wide mix with a dirty bass, secretive, giddy, euphoric",
+    "negativeTags": "male lead vocals, acoustic guitar, slow ballad, heavy metal, trap hi-hats, dubstep, saxophone",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 205,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: pulsing distorted synth bass, vocoder harmony, snaps]\n\n[Verse 1: clipped, tense, low in the range]\nPorch light off, engine low\nYou and me and no one's supposed to know\nYour jacket's on my chair again\nTell them we were only ever friends\n\n[Pre-Chorus: drums build, backing voices answer]\nAnd I know better (I know)\nI've read the weather (I know)\nThe leaves are turning and so are we\n\n[Chorus: wide synths, stacked vocals]\nIt's a reckless October\nGot me running stop signs sober\nSaying \"this is the last time\"\nWith your hands in my coat\nOh, whoa\nIt's a reckless October\nAnd I don't want it over\n\n[Verse 2: clipped, tense, a little faster]\nKitchen clock, quarter to\nEvery lie I tell is one for you\nI'm too grown for hiding in a car\nDoing it anyway, and here we are\n\n[Pre-Chorus: drums build, backing voices answer]\nAnd I know better (I know)\nI've read the weather (I know)\nThe leaves are turning and so are we\n\n[Chorus: wide synths, stacked vocals]\nIt's a reckless October\nGot me running stop signs sober\nSaying \"this is the last time\"\nWith your hands in my coat\nOh, whoa\nIt's a reckless October\nAnd I don't want it over\n\n[Bridge: shouted, breathless, drums pounding, no pause for breath]\nI'm barefoot in your drive at three, I laughed till I couldn't breathe\nSaid \"I'm fine,\" I wasn't fine, meant every word, crossed every line\nAnd I shouted from the kerb\n\"I think I'm in this for real,\" and the whole street heard\nYou looked back laughing like you already knew\nOf course you did, you do\n\n[Final Chorus: biggest, vocoder on top, crowd shouting]\nIt's a reckless October\nGot me running stop signs sober\nSaying \"this is the last time\"\nWith your hands in my coat\nOh, whoa\nIt's a reckless October\nAnd I don't want it over\n\n[Outro: synth bass alone, one vocoder note]\nI don't want it over",
+    "taskId": "e1b7bfe378580b27e34f652507c9f913",
+    "sunoClipIds": [
+      "8b0b3693-e042-47e8-a84a-4950f5f095ec",
+      "5461f610-df4d-47d3-86eb-4fc83fb89b60"
+    ],
+    "created": "Nov 17, 2026 10:20 AM ET",
+    "createTimeMs": 1794928826550,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "8b0b3693-e042-47e8-a84a-4950f5f095ec",
+        "durationSec": 203.8,
+        "file": "twentytens/e10_16_reckless_october_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "5461f610-df4d-47d3-86eb-4fc83fb89b60",
+        "durationSec": 203.56,
+        "file": "twentytens/e10_16_reckless_october_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_16_reckless_october_req.json",
+      "twentytens/e10_16_reckless_october_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_16_reckless_october.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_16_reckless_october.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 170 BPM with the pulse felt at 85, 4/4, A major. Tense in the verses, wide open in the chorus, frantic in the bridge.\n\nVOICE: Female soprano, bright and conversational. Verses are clipped and low, almost muttered. The chorus is stacked wide with high harmonies. The bridge is shouted in one breathless run with a crack of laughter in it. A vocoder doubles some lines with a robotic shimmer.\n\nINSTRUMENTS: A pulsing, distorted synth bass. Bright, wide synthesiser chords. A vocoder used as a harmony instrument. A tight drum machine with a big snare. Finger snaps in the verses. A glittering high arpeggio in the chorus. A recorded crowd in the final chorus.\n\nARRANGEMENT MAP: 0:00 Intro, synth bass and vocoder. 0:11 Verse 1. 0:34 Pre-chorus. 0:45 Chorus 1. 1:13 Verse 2. 1:36 Pre-chorus. 1:47 Chorus 2. 2:15 Bridge, shouted over pounding drums in one run. 2:34 Final chorus with the crowd. 3:02 Outro, the synth bass alone and one vocoder note at 3:10.\n\nPRODUCTION & MIX: Late-2010s synth-pop: glossy and wide with a dirty bass at the centre, vocals bright, the bridge left raw and loud.\n\nSIGNATURE MOMENT: The bridge at 2:15, written to be shouted by a crowd in one breath.\n\nMODERN POINT OF VIEW: 'I'm too grown for hiding in a car, doing it anyway.' The secrecy belongs to people with kitchens, clocks and other people to consider, which makes the shouted confession braver.\n\nEMOTIONAL ARC: Secrecy, giddiness, a blurted truth, relief.",
+    "workbookAtAGlance": "Reckless October\n\nBackup titles\nRunning Stop Signs Sober / The Whole Street Heard\n\nAt a glance\n170 BPM (felt at 85), A major\nVoice: Bright female soprano, shouted bridge\nLength: about 3 minutes",
+    "year": 2019,
+    "qa": {
+      "title": "Reckless October",
+      "id": "e10_16",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 203.8,
+          "measuredBpm": 172.3,
+          "bpmFactor": 1,
+          "targetBpm": 170,
+          "bpmErrPct": 1.3,
+          "lufs": -13.6,
+          "peakDbfs": -0.43,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.3,
+          "contentEndSec": 200.8,
+          "vocalCoverage": 0.813,
+          "vocalSpanSec": [
+            4.8,
+            197.8
+          ],
+          "vocalF0MedianHz": 329,
+          "vocalF0P25Hz": 277,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 129 BPM vs 170 target (~14% off)"
+          ],
+          "durationSec": 203.6,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1.5,
+          "targetBpm": 170,
+          "bpmErrPct": 14.0,
+          "lufs": -13.6,
+          "peakDbfs": -0.44,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.6,
+          "contentEndSec": 202.3,
+          "vocalCoverage": 0.823,
+          "vocalSpanSec": [
+            2.9,
+            197.6
+          ],
+          "vocalF0MedianHz": 493,
+          "vocalF0P25Hz": 331,
+          "lyricLineRecall": 0.897,
+          "lyricUnclearSections": [
+            "Verse 1"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Synth-Pop"
+  },
+  {
+    "id": "e10_17",
+    "title": "Mutual Friends",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 17,
+    "slug": "e10_17_mutual_friends",
+    "inspiredBy": "Somebody That I Used to Know (Gotye feat. Kimbra, 2011)",
+    "leadVoice": "A man with a soft, slightly reedy tenor who sings the verse quietly and evenly, then jumps a full octave into a strained, wounded shout for the chorus. A woman with a cool, clear, slightly smoky voice who delivers her verse calmly and with an edge, then answers him in the chorus.",
+    "model": "V6",
+    "style": "2011 art-pop breakup duet, soft slightly reedy male tenor singing a quiet even verse then leaping an octave into a strained wounded shout for the chorus, cool clear slightly smoky female voice singing a calm cutting second verse and answering in the chorus, 129 BPM, D minor, small precise and tense, two-bar plucked nylon-string guitar loop, simple nursery-like xylophone melody, shaker and hand percussion, deep plain bass, sparse kick and snare, wavering flute-like synth, strings at the end, dry close hand-made mix, wounded, wry, tense",
+    "negativeTags": "distorted guitar, EDM drop, rap, big synths, trap hi-hats, autotune, saxophone, dance beat",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: plucked nylon guitar loop, soft xylophone, shaker]\n\n[Verse 1: male, quiet, almost reasonable]\nWe still like the same six photos\nWe still know the same nine friends\nYou wave to me at weddings\nLike the edge of something ends\nI said we'd keep it civil\nAnd I meant it, and I do\nI only want to know the rules\nFor rooms with me and you\n\n[Chorus: male voice leaps an octave, full band]\nSo who gets the Hendersons?\nWho gets Sam and Jo?\nWho gets New Year's at the lake house?\nAnd who's supposed to know?\nI could stand to lose a lover\nI could learn to sleep alone\nBut you took the mutual friends\n\n[Verse 2: female, cool, the loop and bass only]\nFunny how you want them now\nYou never knew their kids\nI sent the cards, I made the calls\nI showed up when you hid\nYou stayed home with your records\nWhile I drove to every do\nThey were never mutual, love\nThey put up with you\n\n[Chorus: both voices, his high, hers answering]\nSo who gets the Hendersons?\n(They were mine)\nWho gets Sam and Jo?\n(They were mine)\nWho gets New Year's at the lake house?\nAnd who's supposed to know?\nI could stand to lose a lover\nI could learn to sleep alone\nBut you took the mutual friends\n\n[Bridge: band drops to xylophone and voices]\nMutual\n(Were they?)\nMutual\n(Were they?)\n\n[Final Chorus: both voices at full strength, strings]\nI could stand to lose a lover\nI could learn to sleep alone\nBut you took the mutual friends\n(I only took my own)\n\n[Outro: plucked loop alone, slowing]\nThe mutual friends",
+    "taskId": "52c17dcfcd2e6897de0afeccaefc513d",
+    "sunoClipIds": [
+      "0c5ca68a-9fe4-4760-938a-3cb23b6f6031",
+      "5f53f561-7318-41a6-98ad-e7bcca70decd"
+    ],
+    "created": "Nov 17, 2026 10:20 AM ET",
+    "createTimeMs": 1794928830347,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0c5ca68a-9fe4-4760-938a-3cb23b6f6031",
+        "durationSec": 244.8,
+        "file": "twentytens/e10_17_mutual_friends_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "5f53f561-7318-41a6-98ad-e7bcca70decd",
+        "durationSec": 244.16,
+        "file": "twentytens/e10_17_mutual_friends_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_17_mutual_friends_req.json",
+      "twentytens/e10_17_mutual_friends_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_17_mutual_friends.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_17_mutual_friends.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 129 BPM, 4/4, D minor. Small, precise and tense, then suddenly loud.\n\nVOICE: A man with a soft, slightly reedy tenor who sings the verse quietly and evenly, then jumps a full octave into a strained, wounded shout for the chorus. A woman with a cool, clear, slightly smoky voice who delivers her verse calmly and with an edge, then answers him in the chorus.\n\nINSTRUMENTS: A two-bar loop of plucked nylon-string guitar. A simple xylophone melody that sounds like a nursery tune. Shaker and soft hand percussion. A deep, plain bass. A sparse kick and snare in the choruses. A wavering flute-like synth. Strings in the final chorus.\n\nARRANGEMENT MAP: 0:00 Intro, the guitar loop and xylophone. 0:15 Verse 1, the man, quiet. 0:59 Chorus 1, he leaps up and the band enters. 1:29 Verse 2, the woman, over loop and bass. 2:13 Chorus 2, both voices. 2:50 Bridge, xylophone and two words traded. 3:05 Final chorus, short, both at full strength. 3:27 Outro, the loop alone, slowing to a stop at 3:45.\n\nPRODUCTION & MIX: Early-2010s art-pop: dry, close and hand-made, with very few elements and a lot of dynamic range.\n\nSIGNATURE MOMENT: The octave leap on the first line of the chorus at 0:59.\n\nMODERN POINT OF VIEW: The fight is over who keeps the friends, the lake house weekends and the pews at weddings. That is how separations go in middle age, and her verse lands harder because it is so practical.\n\nEMOTIONAL ARC: Politeness, grievance, a calm correction, doubt.",
+    "workbookAtAGlance": "Mutual Friends\n\nBackup titles\nWho Gets the Hendersons / I Sent the Cards\n\nAt a glance\n129 BPM, D minor\nVoice: Quiet male tenor that leaps to a shout; female reply\nLength: about 3 minutes 50",
+    "year": 2011,
+    "qa": {
+      "title": "Mutual Friends",
+      "id": "e10_17",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.8,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 129,
+          "bpmErrPct": 0.2,
+          "lufs": -13.0,
+          "peakDbfs": -0.02,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 243.9,
+          "vocalCoverage": 0.553,
+          "vocalSpanSec": [
+            18.7,
+            242.4
+          ],
+          "vocalF0MedianHz": 261,
+          "vocalF0P25Hz": 197,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.2,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 129,
+          "bpmErrPct": 0.2,
+          "lufs": -13.3,
+          "peakDbfs": -0.17,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 241.3,
+          "vocalCoverage": 0.57,
+          "vocalSpanSec": [
+            16.0,
+            235.1
+          ],
+          "vocalF0MedianHz": 297,
+          "vocalF0P25Hz": 227,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Art Pop"
+  },
+  {
+    "id": "e10_18",
+    "title": "Save Me a Seat",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 18,
+    "slug": "e10_18_save_me_a_seat",
+    "inspiredBy": "See You Again (Wiz Khalifa feat. Charlie Puth, 2015)",
+    "leadVoice": "A male tenor with a clean, high, boyish tone who sings the chorus softly, almost in falsetto, with a held high note at the end. A male rapper with a relaxed, warm, slightly raspy voice who delivers the verses like a conversation at a graveside or a bar. A small choir on the bridge and final chorus.",
+    "model": "V6",
+    "style": "2015 film soundtrack pop rap ballad, clean high boyish male tenor singing a soft hymn-like chorus almost in falsetto with a held high note, relaxed warm slightly raspy male rapper delivering conversational verses, small choir on the bridge and final chorus, 80 BPM, B-flat major, slow open and warm, simple memorable piano figure opening the song and under every chorus, soft steady hip-hop beat with deep kick and finger snaps, warm bass, string section, wordless building bridge, clean wide emotional mix, grieving, grateful, uplifting",
+    "negativeTags": "female lead vocals, distorted guitar, fast tempo, aggressive rap, trap hi-hats, EDM drop, dubstep",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 240,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: solo piano hook, soft pad]\n\n[Chorus: high male tenor, piano only]\nSave me a seat\nWherever you've gone\nI've been keeping notes\nIt won't be long\nThere's so much to go over\nSince you got up to leave\nSo save me a seat\n\n[Verse 1: male rap, warm and steady, soft beat enters]\nYour number's in my phone and I haven't got the nerve\nStill pass your exit, still slow down on the curve\nYour laugh's in every room I ever shared with you\nI keep on turning round to tell you something new\nWe were kids with one bike and a single pair of skates\nShared a locker, shared a lunch, shared a couple bad mistakes\nYou stood up at my wedding, I stood up at your door\nI didn't know that standing was the thing we'd both be for\n\n[Chorus: high male tenor, drums and strings]\nSave me a seat\nWherever you've gone\nI've been keeping notes\nIt won't be long\nThere's so much to go over\nSince you got up to leave\nSo save me a seat\n\n[Verse 2: male rap, lighter, a smile in it]\nThe team is still terrible, your mother's doing fine\nYour kid has got your stubbornness and I have given mine\nThe keys to your old pickup, he's driving it too fast\nI told him all the stories and I told him they were facts\nI'm not big on praying but I'm talking to the sky\nMostly it's the scores and what I should have said, and why\nEvery road we ever took, I'm taking it for two\nAnd every time I'm laughing there's a part of it that's you\n\n[Bridge: sung, wordless, choir and piano, building]\nOh, oh-oh\nOh, oh-oh\nHold it for me\nHold it for me\n\n[Final Chorus: tenor and choir, full band, held high note]\nSave me a seat\nWherever you've gone\nI've been keeping notes\nIt won't be long\nThere's so much to go over\nSince you got up to leave\nSo save me a seat\n\n[Outro: piano hook alone, last note held]\nSave me a seat",
+    "taskId": "726a3037f92a1d6ab009f83a9e17da72",
+    "sunoClipIds": [
+      "f63135ac-c167-4b80-bc6b-65455a4f7585",
+      "19fed659-9300-4ea0-8a8d-73bb1ffb820c"
+    ],
+    "created": "Nov 17, 2026 10:20 AM ET",
+    "createTimeMs": 1794928828678,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "f63135ac-c167-4b80-bc6b-65455a4f7585",
+        "durationSec": 238.8,
+        "file": "twentytens/e10_18_save_me_a_seat_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "19fed659-9300-4ea0-8a8d-73bb1ffb820c",
+        "durationSec": 239.56,
+        "file": "twentytens/e10_18_save_me_a_seat_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_18_save_me_a_seat_req.json",
+      "twentytens/e10_18_save_me_a_seat_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_18_save_me_a_seat.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_18_save_me_a_seat.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, B-flat major. Slow, open and warm. A hymn with a heartbeat.\n\nVOICE: A male tenor with a clean, high, boyish tone who sings the chorus softly, almost in falsetto, with a held high note at the end. A male rapper with a relaxed, warm, slightly raspy voice who delivers the verses like a conversation at a graveside or a bar. A small choir on the bridge and final chorus.\n\nINSTRUMENTS: A simple, memorable piano figure that opens the song and runs under every chorus. A soft, steady hip-hop beat with a deep kick and finger snaps. Warm bass. A string section. A choir. Gentle electric guitar notes in the second verse.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:12 Chorus, voice and piano only. 0:42 Verse 1, the beat enters. 1:18 Chorus 2, with drums and strings. 1:48 Verse 2. 2:24 Bridge, wordless, with the choir building. 2:48 Final chorus with choir and a held high note. 3:24 Outro, the piano figure alone and one sung line at 3:40.\n\nPRODUCTION & MIX: Mid-2010s film-soundtrack pop-rap: clean, wide and emotional, piano and voice exposed at the start, everything swelling by the end.\n\nSIGNATURE MOMENT: The opening chorus, sung over the piano alone before any beat arrives.\n\nMODERN POINT OF VIEW: The friendship is decades long, and verse 2 is an update on a son, a mother and an old truck. The narrator has reached the age where this song stops being about a film.\n\nEMOTIONAL ARC: Grief, memory, humour, a promise.",
+    "workbookAtAGlance": "Save Me a Seat\n\nBackup titles\nKeeping Notes / Still Slow Down on the Curve\n\nAt a glance\n80 BPM, B-flat major\nVoice: High male tenor chorus, male rap verses\nLength: about 3 minutes 45",
+    "year": 2015,
+    "qa": {
+      "title": "Save Me a Seat",
+      "id": "e10_18",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 238.8,
+          "measuredBpm": 73.8,
+          "bpmFactor": 1,
+          "targetBpm": 80,
+          "bpmErrPct": 7.7,
+          "lufs": -14.2,
+          "peakDbfs": -0.35,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.9,
+          "contentEndSec": 237.1,
+          "vocalCoverage": 0.691,
+          "vocalSpanSec": [
+            11.3,
+            210.2
+          ],
+          "vocalF0MedianHz": 312,
+          "vocalF0P25Hz": 235,
+          "lyricLineRecall": 0.952,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 239.6,
+          "measuredBpm": 78.3,
+          "bpmFactor": 1,
+          "targetBpm": 80,
+          "bpmErrPct": 2.1,
+          "lufs": -13.8,
+          "peakDbfs": -0.26,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.3,
+          "contentEndSec": 236.6,
+          "vocalCoverage": 0.591,
+          "vocalSpanSec": [
+            11.8,
+            213.8
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 235,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop"
+  },
+  {
+    "id": "e10_19",
+    "title": "New Number, Who's This",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 19,
+    "slug": "e10_19_new_number_whos_this",
+    "inspiredBy": "Don't Start Now (Dua Lipa, 2019)",
+    "leadVoice": "Female alto, low and cool with a little smoke in it, sung almost without vibrato and with a British crispness on the consonants. Verses understated. The chorus is doubled and punchy, with a group answering on the short lines. Half whispered in the bridge.",
+    "model": "V6",
+    "style": "2019 nu-disco pop, cool low slightly smoky female alto vocal with almost no vibrato and crisp British consonants, understated verses, doubled punchy chorus with a group answering, half whispered bridge, 124 BPM, B minor, strutting four-on-the-floor disco groove, busy melodic electric bass guitar line as the lead instrument, open hi-hats, handclaps, cowbell, string section runs and stabs, clean rhythm guitar chops, bright piano, synth pads, tight glossy punchy mix, confident, sharp, danceable",
+    "negativeTags": "male lead vocals, slow ballad, distorted rock guitar, sad mood, trap hi-hats, dubstep, country",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 200,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: melodic disco bass line alone, handclaps, a cowbell]\n\n[Verse 1: cool, low, bass and drums]\nTook a class, took a trip\nTook your photo off the fridge\nLearned to cook for only one\nTurns out I'm good, turns out it's fun\n\n[Pre-Chorus: strings rise, kick drops out]\nSo if you're scrolling\nIf you're thinking of a text\nLet me save you the regret\n\n[Chorus: four-on-the-floor, strings, gang answers]\nNew number, who's this?\nDon't know you, don't miss\nThe way you used to keep me small\nWalk on, don't call\nIf you see me out, I'm dancing\nIf you see me, keep on passing\nNew number, who's this?\n\n[Verse 2: cool, a little amused]\nHeard you asked about my name\nHeard you're sorry, heard you changed\nThat's so great, that's so sweet\nTell it to somebody else's feet\n\n[Pre-Chorus: strings rise, kick drops out]\nSo if you're outside\nIf you're idling in the car\nStay exactly where you are\n\n[Chorus: four-on-the-floor, strings, gang answers]\nNew number, who's this?\nDon't know you, don't miss\nThe way you used to keep me small\nWalk on, don't call\nIf you see me out, I'm dancing\nIf you see me, keep on passing\nNew number, who's this?\n\n[Bridge: bass and claps only, half whispered]\nUp, up\nOut, out\nOver, over\nDone\n\n[Final Chorus: everything, cowbell, string runs, ad-libs]\nNew number, who's this?\nDon't know you, don't miss\nThe way you used to keep me small\nWalk on, don't call\nIf you see me out, I'm dancing\nIf you see me, keep on passing\nNew number, who's this?\n\n[Outro: bass line alone, a phone buzzing, ignored]\nWho's this?",
+    "taskId": "42cf246220d7c65d559a7cf04446fa03",
+    "sunoClipIds": [
+      "8606a575-759f-4a14-bef7-72193fb141d3",
+      "a96217b3-36c4-47e1-8d9f-bdc7f65ab064"
+    ],
+    "created": "Nov 17, 2026 10:20 AM ET",
+    "createTimeMs": 1794928833397,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "8606a575-759f-4a14-bef7-72193fb141d3",
+        "durationSec": 199.16,
+        "file": "twentytens/e10_19_new_number_whos_this_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "a96217b3-36c4-47e1-8d9f-bdc7f65ab064",
+        "durationSec": 200.0,
+        "file": "twentytens/e10_19_new_number_whos_this_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_19_new_number_whos_this_req.json",
+      "twentytens/e10_19_new_number_whos_this_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_19_new_number_whos_this.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_19_new_number_whos_this.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, B minor. A strutting, four-on-the-floor disco groove. Cool, sharp and unbothered.\n\nVOICE: Female alto, low and cool with a little smoke in it, sung almost without vibrato and with a British crispness on the consonants. Verses understated. The chorus is doubled and punchy, with a group answering on the short lines. Half whispered in the bridge.\n\nINSTRUMENTS: An electric bass guitar playing a busy, melodic disco line, the lead instrument. A four-on-the-floor kick with open hi-hats. Handclaps. A cowbell. A string section playing rising runs and stabs. Clean rhythm guitar chops. A bright piano in the chorus. Synth pads.\n\nARRANGEMENT MAP: 0:00 Intro, the bass line alone with claps and cowbell. 0:10 Verse 1. 0:26 Pre-chorus, the kick drops out. 0:38 Chorus 1. 1:02 Verse 2. 1:18 Pre-chorus. 1:30 Chorus 2. 1:54 Bridge, bass and claps, half whispered. 2:10 Final chorus with string runs and ad-libs. 2:42 Outro, the bass alone, a phone buzzing on a table, one spoken line at 3:00.\n\nPRODUCTION & MIX: Late-2010s nu-disco: tight, glossy and punchy, bass and kick locked at the centre, strings wide, vocal dry and close.\n\nSIGNATURE MOMENT: The bass line alone in the first four seconds.\n\nMODERN POINT OF VIEW: The proof of recovery is ordinary: a class, a trip, cooking for one and liking it. It is a break-up song for someone who has rebuilt an actual life.\n\nEMOTIONAL ARC: Composure, amusement, dismissal, a dance.",
+    "workbookAtAGlance": "New Number, Who's This\n\nBackup titles\nCook for Only One / Keep On Passing\n\nAt a glance\n124 BPM, B minor\nVoice: Cool low female alto\nLength: about 3 minutes 5",
+    "year": 2019,
+    "qa": {
+      "title": "New Number, Who's This",
+      "id": "e10_19",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending"
+          ],
+          "durationSec": 199.2,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -13.4,
+          "peakDbfs": -1.07,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.1,
+          "contentEndSec": 197.7,
+          "vocalCoverage": 0.628,
+          "vocalSpanSec": [
+            15.9,
+            195.0
+          ],
+          "vocalF0MedianHz": 372,
+          "vocalF0P25Hz": 249,
+          "lyricLineRecall": 0.971,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 200.0,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -13.4,
+          "peakDbfs": -0.71,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.6,
+          "contentEndSec": 198.4,
+          "vocalCoverage": 0.629,
+          "vocalSpanSec": [
+            15.8,
+            198.3
+          ],
+          "vocalF0MedianHz": 369,
+          "vocalF0P25Hz": 277,
+          "lyricLineRecall": 0.971,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Nu-Disco"
+  },
+  {
+    "id": "e10_20",
+    "title": "We Still Think We're Twenty",
+    "collection": "twentytens",
+    "album": "2010s Reimagined",
+    "track": 20,
+    "slug": "e10_20_we_still_think_were_twenty",
+    "inspiredBy": "Closer (The Chainsmokers feat. Halsey, 2016)",
+    "leadVoice": "A man with a plain, untrained, slightly flat speaking-singing voice, close and conversational. A woman with a husky, textured voice and a catch in it. They take a verse each and sing the choruses together in unison, not in polished harmony.",
+    "model": "V6",
+    "style": "2016 pop EDM duet, plain untrained slightly flat conversational male voice and husky textured female voice with a catch in it, a verse each and unison choruses, 95 BPM, A-flat major, relaxed mid-tempo electronic pulse, soft warm synthesizer chords, simple pitched synth lead playing a wordless melody after each chorus as the main hook, muted kick and finger snaps in the verses, fuller beat with claps in the chorus, deep round sub-bass, gentle piano, soft drop, beatless quiet bridge, soft rounded clean mix, nostalgic, wistful, warm",
+    "negativeTags": "distorted guitar, rock drums, hard dubstep drop, belting, rap, acoustic folk, saxophone, country",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: soft synth chords, muted kick, finger snaps]\n\n[Verse 1: male, plain, conversational]\nClass of something, name tag on my jacket\nTold myself an hour, then I'd pack it\nThen you walked in with that laugh I'd know anywhere\nFifteen years, and you sat down in the same chair\n\n[Pre-Chorus: synths rise, beat builds]\nSo order what we used to\nThe cheap one and the fries\nDon't tell me what you do now\nTell me lies\n\n[Chorus: both voices, full beat]\nSo here we are in the car park\nWith the heater that never worked\nYour sister's Honda, the scratched CD\nAnd the song that always skipped\nSay nothing's changed\nSay we're exempt\nWe still think we're twenty\nWe still think we're twenty\n\n[Drop: wordless pitched synth melody, claps, bass]\n\n[Verse 2: female, husky, amused]\nFour years gone and a kid called Sunday\nMoved away and came back on a Monday\nYou still wear that awful shirt\nI still know the awful words\n\n[Pre-Chorus: synths rise, beat builds]\nSo order what we used to\nThe cheap one and the fries\nDon't ask me if I'm happy\nTell me lies\n\n[Chorus: both voices, full beat]\nSo here we are in the car park\nWith the heater that never worked\nYour sister's Honda, the scratched CD\nAnd the song that always skipped\nSay nothing's changed\nSay we're exempt\nWe still think we're twenty\nWe still think we're twenty\n\n[Drop: wordless pitched synth melody, claps, bass]\n\n[Bridge: beat drops out, both voices, quiet]\nMy knees hurt\nYour eyes are tired\nIt's ten o'clock\nWe're wired\n\n[Final Chorus: both voices, biggest, synth melody on top]\nSay nothing's changed\nSay we're exempt\nWe still think we're twenty\nWe still think we're twenty\n\n[Outro: synth melody alone, a CD skipping, stop]",
+    "taskId": "614868a48197a62ce293bd6cf5eea4d1",
+    "sunoClipIds": [
+      "ace12d1a-5743-4b9a-9a8f-65a990156532",
+      "861baccf-113c-4d62-9eeb-2d0bcf2e3c4d"
+    ],
+    "created": "Nov 17, 2026 10:20 AM ET",
+    "createTimeMs": 1794928837287,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ace12d1a-5743-4b9a-9a8f-65a990156532",
+        "durationSec": 224.36,
+        "file": "twentytens/e10_20_we_still_think_were_twenty_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "861baccf-113c-4d62-9eeb-2d0bcf2e3c4d",
+        "durationSec": 223.92,
+        "file": "twentytens/e10_20_we_still_think_were_twenty_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "twentytens/e10_20_we_still_think_were_twenty_req.json",
+      "twentytens/e10_20_we_still_think_were_twenty_rec.json"
+    ],
+    "cover": "twentytens/covers/e10_20_we_still_think_were_twenty.jpg",
+    "cleanCover": "twentytens/covers/clean/e10_20_we_still_think_were_twenty.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 95 BPM, 4/4, A-flat major. A relaxed, mid-tempo electronic pulse. Nostalgic and a little tipsy.\n\nVOICE: A man with a plain, untrained, slightly flat speaking-singing voice, close and conversational. A woman with a husky, textured voice and a catch in it. They take a verse each and sing the choruses together in unison, not in polished harmony.\n\nINSTRUMENTS: Soft, warm synthesiser chords. A simple, pitched synth lead that plays a wordless tune after each chorus, the song's main hook. A muted kick and finger snaps in the verses, a fuller beat with claps in the chorus. A deep, round sub-bass. A gentle piano doubling the chords.\n\nARRANGEMENT MAP: 0:00 Intro, synth chords and snaps. 0:10 Verse 1, the man. 0:30 Pre-chorus. 0:45 Chorus 1, both voices. 1:10 Drop, the synth melody. 1:30 Verse 2, the woman. 1:50 Pre-chorus. 2:05 Chorus 2. 2:30 Drop. 2:50 Bridge, the beat out, four quiet lines. 3:00 Final chorus, the last four lines with the synth melody on top. 3:20 Outro, the melody alone and the sound of a skipping CD at 3:28.\n\nPRODUCTION & MIX: Mid-2010s pop-EDM: soft, rounded and clean, vocals dry and upfront, a gentle drop instead of a hard one.\n\nSIGNATURE MOMENT: The wordless synth melody at 1:10.\n\nMODERN POINT OF VIEW: The original pair are in their twenties pretending they will never age. These two are at a reunion with sore knees and tired eyes at ten o'clock, and the pretending is a kindness they do for each other.\n\nEMOTIONAL ARC: Wariness, recognition, shared make-believe, a rueful laugh.",
+    "workbookAtAGlance": "We Still Think We're Twenty\n\nBackup titles\nThe Song That Always Skipped / Say We're Exempt\n\nAt a glance\n95 BPM, A-flat major\nVoice: Duet: plain male voice, husky female voice\nLength: about 3 minutes 30",
+    "year": 2016,
+    "qa": {
+      "title": "We Still Think We're Twenty",
+      "id": "e10_20",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 103 BPM vs 95 target (~9% off)"
+          ],
+          "durationSec": 224.4,
+          "measuredBpm": 103.4,
+          "bpmFactor": 1,
+          "targetBpm": 95,
+          "bpmErrPct": 8.8,
+          "lufs": -13.2,
+          "peakDbfs": -0.49,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.9,
+          "contentEndSec": 220.5,
+          "vocalCoverage": 0.627,
+          "vocalSpanSec": [
+            3.0,
+            208.5
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 174,
+          "lyricLineRecall": 0.821,
+          "lyricUnclearSections": [
+            "Verse 1"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.1 dBFS (2 clipped sample, inaudible)"
+          ],
+          "durationSec": 223.9,
+          "measuredBpm": 95.7,
+          "bpmFactor": 1,
+          "targetBpm": 95,
+          "bpmErrPct": 0.7,
+          "lufs": -12.6,
+          "peakDbfs": 0.1,
+          "clipSamples": 2,
+          "midGaps": [],
+          "endFadeSec": 0.9,
+          "contentEndSec": 221.2,
+          "vocalCoverage": 0.748,
+          "vocalSpanSec": [
+            3.2,
+            199.8
+          ],
+          "vocalF0MedianHz": 314,
+          "vocalF0P25Hz": 206,
+          "lyricLineRecall": 0.897,
+          "lyricUnclearSections": [
+            "Verse 1"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "EDM"
   }
 ]

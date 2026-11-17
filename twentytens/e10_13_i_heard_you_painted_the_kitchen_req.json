@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "I Heard You Painted the Kitchen",
+  "prompt": "[Intro: solo piano, rolling arpeggio pattern]\n\n[Verse 1: low, plain, piano only]\nI heard you painted the kitchen\nThe yellow we never chose\nI heard you got a dog now\nAnd it sleeps across your toes\nI heard you're up at six these days\nYou never were for me\nIt's funny what a person keeps\nFor whoever comes to be\n\n[Pre-Chorus: voice rises, piano fuller]\nI wasn't going to call, I wasn't going to write\nI only want you knowing that I know, and it's alright\n\n[Chorus: full voice, raw at the top, piano rolling]\nGood for you\nI mean it, good for you\nI'll find my own shade of yellow\nI'll paint a room or two\nAnd if you're ever passing\nYou don't have to call\nSome things don't end, they only dry\nLike colour on a wall\n\n[Verse 2: low, a little warmer]\nI kept the chair you hated\nI learned to like the cold\nI say your mother's sayings\nI am getting, somehow, old\nI saw a man in your old coat\nOutside the corner shop\nAnd all the years came running back\nAnd then I made them stop\n\n[Pre-Chorus: voice rises, piano fuller]\nI wasn't going to call, I wasn't going to write\nI only want you knowing that I know, and it's alright\n\n[Chorus: full voice, raw at the top, piano rolling]\nGood for you\nI mean it, good for you\nI'll find my own shade of yellow\nI'll paint a room or two\nAnd if you're ever passing\nYou don't have to call\nSome things don't end, they only dry\nLike colour on a wall\n\n[Bridge: piano drops to single chords, voice exposed]\nNothing sticks like the first coat\nNobody tells you that\nYou cover it and cover it\nAnd it's still under there\n\n[Final Chorus: softer start, then the biggest held note]\nGood for you\nI mean it, good for you\nI'll find my own shade of yellow\nI'll paint a room or two\nAnd if you're ever passing\nYou don't have to call\nSome things don't end, they only dry\nLike colour on a wall\n\n[Outro: piano pattern slows, last line almost spoken]\nLike colour on a wall",
+  "style": "2011 voice and piano ballad, rich smoky female contralto vocal with a London accent, plain close verses and a powerful upper range that frays and cracks at the top, last line nearly spoken, no backing vocals, 67 BPM, A major, solo acoustic piano only, continuous rolling broken-chord pattern in the right hand, plain bass notes, single held chords in the bridge, no drums, no strings, no other instruments, close natural live room recording with audible pedal and breaths, dignified, heartbroken, generous",
+  "negativeTags": "drums, drum machine, guitar, strings, synthesizer, male lead vocals, rap, dance beat, autotune",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 257,
+  "callBackUrl": "https://example.com/cb"
+}

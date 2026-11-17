@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "I'm the Plot Twist",
+  "prompt": "[Intro: bass line alone, finger snaps, a soft kick]\n\n[Verse 1: whispered, close, deadpan]\nBare feet\nCold tea\nReading your texts upside down\nSweet me\nLets you\nThink you run this town\nI nod, I smile, I pass the salt\nIf something breaks it's not my fault\n\n[Pre-Chorus: kick doubles, voice a little louder]\nSo you're the hero, you're the lead\nYou've got the jawline and the speed\n\n[Chorus: half spoken, then a spoken punchline]\nYou think you're the main event\nThe big reveal, the hundred per cent\nSaved the day and got the kiss\nCute.\nI'm the plot twist\n\n[Synth Hook: cartoonish wobbling synth melody, bass and claps]\n\n[Verse 2: whispered, more amused]\nI like\nIt when\nYou take control of the remote\nI let\nYou pick\nI let you rock the boat\nI let you think you won the race\nI moved the finish line last year\n\n[Pre-Chorus: kick doubles, voice a little louder]\nSo you're the hero, you're the lead\nYou've got the jawline and the speed\n\n[Chorus: half spoken, then a spoken punchline]\nYou think you're the main event\nThe big reveal, the hundred per cent\nSaved the day and got the kiss\nCute.\nI'm the plot twist\n\n[Synth Hook: cartoonish wobbling synth melody, bass and claps]\n\n[Beat Switch: tempo drops, slow dark trap beat, low sub-bass]\nI'm the twist\nI'm the twist\nYou didn't see me coming\nDid you?\n\n[Outro: slow beat, whispered, one finger snap]\nObviously",
+  "style": "2019 minimalist bedroom pop, soft whispered deadpan female vocal right against the microphone, half spoken chorus ending in a flatly spoken punchline over silence, layered whispers, 135 BPM, G minor, sly and bouncy, plucked rubbery electric bass riff leading, finger snaps, soft punchy kick, handclaps, cartoonish wobbling synth lead playing the hook in place of a sung chorus, final section switching to a slow dark half-speed trap beat with heavy sub-bass, extremely dry close mix, almost no reverb, playful, sinister, witty",
+  "negativeTags": "male lead vocals, belting, acoustic guitar, rock drums, big reverb, strings, saxophone, country",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

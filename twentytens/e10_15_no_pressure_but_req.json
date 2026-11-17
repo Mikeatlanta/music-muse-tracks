@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "No Pressure, But",
+  "prompt": "[Intro: plucked strings, soft kick, a little synth sparkle]\n\n[Verse 1: bright, breathy, light beat]\nI had a list for today\nMilk and stamps and a key\nThen you held the door at the bank\nNow I can't remember three\n\n[Pre-Chorus: beat builds, voice quickens]\nI don't do this, I plan things\nI've got a calendar with tabs\nBut something about a Tuesday\nHas me skipping all the steps\n\n[Chorus: full beat, string stabs after every line]\nNo pressure, but\nI've already named the dog\nNo pressure, but\nI told my mother and my blog\nIt's only been an hour\nI know it's early days\nNo pressure, but\nI've cleared my Saturdays\n\n[Verse 2: bright, laughing]\nYou said your name, I think\nI was looking at your hands\nYou asked me for the time\nAnd I gave you all my plans\n\n[Pre-Chorus: beat builds, voice quickens]\nI don't do this, I plan things\nI colour-code my shoes\nBut something about your raincoat\nHas me giving up the rules\n\n[Chorus: full beat, string stabs after every line]\nNo pressure, but\nI've already named the dog\nNo pressure, but\nI told my mother and my blog\nIt's only been an hour\nI know it's early days\nNo pressure, but\nI've cleared my Saturdays\n\n[Bridge: beat drops to claps, voice close]\nI didn't know that I was waiting\nUntil the waiting stopped\nI didn't know that I was waiting\nAnd now I can't find the clock\n\n[Final Chorus: everything, extra strings, gang vocals on the hedge]\nNo pressure, but\nI've already named the dog\nNo pressure, but\nI told my mother and my blog\nIt's only been an hour\nI know it's early days\nNo pressure, but\nI've cleared my Saturdays\n\n[Outro: string stab, spoken, a giggle]\nNo pressure",
+  "style": "2012 bubblegum pop, sweet light slightly breathy female soprano vocal, quick chatty verses and a clear punchy chorus, friends joining on the repeated title phrase at the end, 120 BPM, G major, bright bouncing four-on-the-floor pulse, synthesized string section playing short bright stabs after each chorus line, plucked strings in the verses, steady kick with handclaps, clean chiming electric guitar, bouncing synth bass, sparkling synth arpeggios, tambourine, clap-only bridge, bright clean compressed mix, flirty, funny, joyful",
+  "negativeTags": "male lead vocals, dark mood, slow ballad, distorted guitar, trap hi-hats, dubstep, saxophone, rap",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "callBackUrl": "https://example.com/cb"
+}

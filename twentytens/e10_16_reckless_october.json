@@ -1,0 +1,119 @@
+{
+  "id": "e10_16",
+  "title": "Reckless October",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 16,
+  "slug": "e10_16_reckless_october",
+  "inspiredBy": "Cruel Summer (Taylor Swift, 2019)",
+  "leadVoice": "Female soprano, bright and conversational. Verses are clipped and low, almost muttered. The chorus is stacked wide with high harmonies. The bridge is shouted in one breathless run with a crack of laughter in it. A vocoder doubles some lines with a robotic shimmer.",
+  "model": "V6",
+  "style": "2019 synth-pop, bright conversational female soprano vocal, clipped low tense verses, wide stacked chorus with high harmonies, a shouted breathless story bridge with laughter in it, vocoder doubling some lines, crowd shouting in the final chorus, 170 BPM felt at 85, A major, pulsing distorted synth bass, bright wide synthesizer chords, tight drum machine with big snare, finger snaps, glittering high arpeggio, pounding drums under the bridge, glossy wide mix with a dirty bass, secretive, giddy, euphoric",
+  "negativeTags": "male lead vocals, acoustic guitar, slow ballad, heavy metal, trap hi-hats, dubstep, saxophone",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: pulsing distorted synth bass, vocoder harmony, snaps]\n\n[Verse 1: clipped, tense, low in the range]\nPorch light off, engine low\nYou and me and no one's supposed to know\nYour jacket's on my chair again\nTell them we were only ever friends\n\n[Pre-Chorus: drums build, backing voices answer]\nAnd I know better (I know)\nI've read the weather (I know)\nThe leaves are turning and so are we\n\n[Chorus: wide synths, stacked vocals]\nIt's a reckless October\nGot me running stop signs sober\nSaying \"this is the last time\"\nWith your hands in my coat\nOh, whoa\nIt's a reckless October\nAnd I don't want it over\n\n[Verse 2: clipped, tense, a little faster]\nKitchen clock, quarter to\nEvery lie I tell is one for you\nI'm too grown for hiding in a car\nDoing it anyway, and here we are\n\n[Pre-Chorus: drums build, backing voices answer]\nAnd I know better (I know)\nI've read the weather (I know)\nThe leaves are turning and so are we\n\n[Chorus: wide synths, stacked vocals]\nIt's a reckless October\nGot me running stop signs sober\nSaying \"this is the last time\"\nWith your hands in my coat\nOh, whoa\nIt's a reckless October\nAnd I don't want it over\n\n[Bridge: shouted, breathless, drums pounding, no pause for breath]\nI'm barefoot in your drive at three, I laughed till I couldn't breathe\nSaid \"I'm fine,\" I wasn't fine, meant every word, crossed every line\nAnd I shouted from the kerb\n\"I think I'm in this for real,\" and the whole street heard\nYou looked back laughing like you already knew\nOf course you did, you do\n\n[Final Chorus: biggest, vocoder on top, crowd shouting]\nIt's a reckless October\nGot me running stop signs sober\nSaying \"this is the last time\"\nWith your hands in my coat\nOh, whoa\nIt's a reckless October\nAnd I don't want it over\n\n[Outro: synth bass alone, one vocoder note]\nI don't want it over",
+  "taskId": "e1b7bfe378580b27e34f652507c9f913",
+  "sunoClipIds": [
+    "8b0b3693-e042-47e8-a84a-4950f5f095ec",
+    "5461f610-df4d-47d3-86eb-4fc83fb89b60"
+  ],
+  "created": "Nov 17, 2026 10:20 AM ET",
+  "createTimeMs": 1794928826550,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "8b0b3693-e042-47e8-a84a-4950f5f095ec",
+      "durationSec": 203.8,
+      "file": "twentytens/e10_16_reckless_october_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5461f610-df4d-47d3-86eb-4fc83fb89b60",
+      "durationSec": 203.56,
+      "file": "twentytens/e10_16_reckless_october_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_16_reckless_october_req.json",
+    "twentytens/e10_16_reckless_october_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_16_reckless_october.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_16_reckless_october.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 170 BPM with the pulse felt at 85, 4/4, A major. Tense in the verses, wide open in the chorus, frantic in the bridge.\n\nVOICE: Female soprano, bright and conversational. Verses are clipped and low, almost muttered. The chorus is stacked wide with high harmonies. The bridge is shouted in one breathless run with a crack of laughter in it. A vocoder doubles some lines with a robotic shimmer.\n\nINSTRUMENTS: A pulsing, distorted synth bass. Bright, wide synthesiser chords. A vocoder used as a harmony instrument. A tight drum machine with a big snare. Finger snaps in the verses. A glittering high arpeggio in the chorus. A recorded crowd in the final chorus.\n\nARRANGEMENT MAP: 0:00 Intro, synth bass and vocoder. 0:11 Verse 1. 0:34 Pre-chorus. 0:45 Chorus 1. 1:13 Verse 2. 1:36 Pre-chorus. 1:47 Chorus 2. 2:15 Bridge, shouted over pounding drums in one run. 2:34 Final chorus with the crowd. 3:02 Outro, the synth bass alone and one vocoder note at 3:10.\n\nPRODUCTION & MIX: Late-2010s synth-pop: glossy and wide with a dirty bass at the centre, vocals bright, the bridge left raw and loud.\n\nSIGNATURE MOMENT: The bridge at 2:15, written to be shouted by a crowd in one breath.\n\nMODERN POINT OF VIEW: 'I'm too grown for hiding in a car, doing it anyway.' The secrecy belongs to people with kitchens, clocks and other people to consider, which makes the shouted confession braver.\n\nEMOTIONAL ARC: Secrecy, giddiness, a blurted truth, relief.",
+  "workbookAtAGlance": "Reckless October\n\nBackup titles\nRunning Stop Signs Sober / The Whole Street Heard\n\nAt a glance\n170 BPM (felt at 85), A major\nVoice: Bright female soprano, shouted bridge\nLength: about 3 minutes",
+  "year": 2019,
+  "qa": {
+    "title": "Reckless October",
+    "id": "e10_16",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 203.8,
+        "measuredBpm": 172.3,
+        "bpmFactor": 1,
+        "targetBpm": 170,
+        "bpmErrPct": 1.3,
+        "lufs": -13.6,
+        "peakDbfs": -0.43,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 200.8,
+        "vocalCoverage": 0.813,
+        "vocalSpanSec": [
+          4.8,
+          197.8
+        ],
+        "vocalF0MedianHz": 329,
+        "vocalF0P25Hz": 277,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 129 BPM vs 170 target (~14% off)"
+        ],
+        "durationSec": 203.6,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1.5,
+        "targetBpm": 170,
+        "bpmErrPct": 14.0,
+        "lufs": -13.6,
+        "peakDbfs": -0.44,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 202.3,
+        "vocalCoverage": 0.823,
+        "vocalSpanSec": [
+          2.9,
+          197.6
+        ],
+        "vocalF0MedianHz": 493,
+        "vocalF0P25Hz": 331,
+        "lyricLineRecall": 0.897,
+        "lyricUnclearSections": [
+          "Verse 1"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Synth-Pop"
+}

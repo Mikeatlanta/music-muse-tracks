@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Mutual Friends",
+  "prompt": "[Intro: plucked nylon guitar loop, soft xylophone, shaker]\n\n[Verse 1: male, quiet, almost reasonable]\nWe still like the same six photos\nWe still know the same nine friends\nYou wave to me at weddings\nLike the edge of something ends\nI said we'd keep it civil\nAnd I meant it, and I do\nI only want to know the rules\nFor rooms with me and you\n\n[Chorus: male voice leaps an octave, full band]\nSo who gets the Hendersons?\nWho gets Sam and Jo?\nWho gets New Year's at the lake house?\nAnd who's supposed to know?\nI could stand to lose a lover\nI could learn to sleep alone\nBut you took the mutual friends\n\n[Verse 2: female, cool, the loop and bass only]\nFunny how you want them now\nYou never knew their kids\nI sent the cards, I made the calls\nI showed up when you hid\nYou stayed home with your records\nWhile I drove to every do\nThey were never mutual, love\nThey put up with you\n\n[Chorus: both voices, his high, hers answering]\nSo who gets the Hendersons?\n(They were mine)\nWho gets Sam and Jo?\n(They were mine)\nWho gets New Year's at the lake house?\nAnd who's supposed to know?\nI could stand to lose a lover\nI could learn to sleep alone\nBut you took the mutual friends\n\n[Bridge: band drops to xylophone and voices]\nMutual\n(Were they?)\nMutual\n(Were they?)\n\n[Final Chorus: both voices at full strength, strings]\nI could stand to lose a lover\nI could learn to sleep alone\nBut you took the mutual friends\n(I only took my own)\n\n[Outro: plucked loop alone, slowing]\nThe mutual friends",
+  "style": "2011 art-pop breakup duet, soft slightly reedy male tenor singing a quiet even verse then leaping an octave into a strained wounded shout for the chorus, cool clear slightly smoky female voice singing a calm cutting second verse and answering in the chorus, 129 BPM, D minor, small precise and tense, two-bar plucked nylon-string guitar loop, simple nursery-like xylophone melody, shaker and hand percussion, deep plain bass, sparse kick and snare, wavering flute-like synth, strings at the end, dry close hand-made mix, wounded, wry, tense",
+  "negativeTags": "distorted guitar, EDM drop, rap, big synths, trap hi-hats, autotune, saxophone, dance beat",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

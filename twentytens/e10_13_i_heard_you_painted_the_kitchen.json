@@ -1,0 +1,121 @@
+{
+  "id": "e10_13",
+  "title": "I Heard You Painted the Kitchen",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 13,
+  "slug": "e10_13_i_heard_you_painted_the_kitchen",
+  "inspiredBy": "Someone Like You (Adele, 2011)",
+  "leadVoice": "Female contralto, rich and smoky low down, with a London accent in the vowels. Verses sung plainly and close. In the chorus she pushes into a powerful upper range that frays and cracks at the very top. The last line is nearly spoken. No backing vocals.",
+  "model": "V6",
+  "style": "2011 voice and piano ballad, rich smoky female contralto vocal with a London accent, plain close verses and a powerful upper range that frays and cracks at the top, last line nearly spoken, no backing vocals, 67 BPM, A major, solo acoustic piano only, continuous rolling broken-chord pattern in the right hand, plain bass notes, single held chords in the bridge, no drums, no strings, no other instruments, close natural live room recording with audible pedal and breaths, dignified, heartbroken, generous",
+  "negativeTags": "drums, drum machine, guitar, strings, synthesizer, male lead vocals, rap, dance beat, autotune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 257,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: solo piano, rolling arpeggio pattern]\n\n[Verse 1: low, plain, piano only]\nI heard you painted the kitchen\nThe yellow we never chose\nI heard you got a dog now\nAnd it sleeps across your toes\nI heard you're up at six these days\nYou never were for me\nIt's funny what a person keeps\nFor whoever comes to be\n\n[Pre-Chorus: voice rises, piano fuller]\nI wasn't going to call, I wasn't going to write\nI only want you knowing that I know, and it's alright\n\n[Chorus: full voice, raw at the top, piano rolling]\nGood for you\nI mean it, good for you\nI'll find my own shade of yellow\nI'll paint a room or two\nAnd if you're ever passing\nYou don't have to call\nSome things don't end, they only dry\nLike colour on a wall\n\n[Verse 2: low, a little warmer]\nI kept the chair you hated\nI learned to like the cold\nI say your mother's sayings\nI am getting, somehow, old\nI saw a man in your old coat\nOutside the corner shop\nAnd all the years came running back\nAnd then I made them stop\n\n[Pre-Chorus: voice rises, piano fuller]\nI wasn't going to call, I wasn't going to write\nI only want you knowing that I know, and it's alright\n\n[Chorus: full voice, raw at the top, piano rolling]\nGood for you\nI mean it, good for you\nI'll find my own shade of yellow\nI'll paint a room or two\nAnd if you're ever passing\nYou don't have to call\nSome things don't end, they only dry\nLike colour on a wall\n\n[Bridge: piano drops to single chords, voice exposed]\nNothing sticks like the first coat\nNobody tells you that\nYou cover it and cover it\nAnd it's still under there\n\n[Final Chorus: softer start, then the biggest held note]\nGood for you\nI mean it, good for you\nI'll find my own shade of yellow\nI'll paint a room or two\nAnd if you're ever passing\nYou don't have to call\nSome things don't end, they only dry\nLike colour on a wall\n\n[Outro: piano pattern slows, last line almost spoken]\nLike colour on a wall",
+  "taskId": "f69893e9facf252cca396e576954be28",
+  "sunoClipIds": [
+    "090942cf-1812-4fe7-b7a6-c8e9ac8eb04f",
+    "a0ff44c3-6bae-4d94-ad88-8460d3dd9f16"
+  ],
+  "created": "Nov 17, 2026 10:20 AM ET",
+  "createTimeMs": 1794928807471,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "090942cf-1812-4fe7-b7a6-c8e9ac8eb04f",
+      "durationSec": 257.48,
+      "file": "twentytens/e10_13_i_heard_you_painted_the_kitchen_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a0ff44c3-6bae-4d94-ad88-8460d3dd9f16",
+      "durationSec": 256.8,
+      "file": "twentytens/e10_13_i_heard_you_painted_the_kitchen_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_13_i_heard_you_painted_the_kitchen_req.json",
+    "twentytens/e10_13_i_heard_you_painted_the_kitchen_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_13_i_heard_you_painted_the_kitchen.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_13_i_heard_you_painted_the_kitchen.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 67 BPM, 4/4, A major. A slow, rolling piano pattern that keeps turning like a wheel. Bare and dignified.\n\nVOICE: Female contralto, rich and smoky low down, with a London accent in the vowels. Verses sung plainly and close. In the chorus she pushes into a powerful upper range that frays and cracks at the very top. The last line is nearly spoken. No backing vocals.\n\nINSTRUMENTS: One acoustic piano and nothing else. The right hand plays a continuous broken-chord pattern, the left hand plain bass notes. In the bridge it reduces to single held chords.\n\nARRANGEMENT MAP: 0:00 Intro, the piano pattern. 0:14 Verse 1. 0:57 Pre-chorus. 1:12 Chorus 1. 1:41 Verse 2. 2:24 Pre-chorus. 2:38 Chorus 2. 3:07 Bridge, single chords. 3:25 Final chorus, starting softly and reaching the biggest held note on the seventh line. 3:54 Outro, the pattern slows and the last line is half spoken at 4:02.\n\nPRODUCTION & MIX: A live-sounding piano ballad: close microphones, natural room, no effects. You can hear the pedal and the breaths.\n\nSIGNATURE MOMENT: The crack in the voice at the top of the first chorus.\n\nMODERN POINT OF VIEW: The original, written at twenty-one, cannot yet wish him well. This narrator can, and the bridge explains how: the first coat is still under there, and she has stopped needing to cover it.\n\nEMOTIONAL ARC: Curiosity, a pang, generosity, peace.",
+  "workbookAtAGlance": "I Heard You Painted the Kitchen\n\nBackup titles\nGood for You, I Mean It / Colour on a Wall\n\nAt a glance\n67 BPM, A major\nVoice: Rich female contralto, raw at the top\nLength: about 4 minutes",
+  "year": 2011,
+  "qa": {
+    "title": "I Heard You Painted the Kitchen",
+    "id": "e10_13",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending",
+          "loudness -17.0 LUFS vs pack median -13.7",
+          "tempo measured 76 BPM vs 67 target (~13% off)"
+        ],
+        "durationSec": 257.5,
+        "measuredBpm": 76.0,
+        "bpmFactor": 1,
+        "targetBpm": 67,
+        "bpmErrPct": 13.4,
+        "lufs": -17.0,
+        "peakDbfs": -0.42,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.0,
+        "contentEndSec": 257.0,
+        "vocalCoverage": 0.463,
+        "vocalSpanSec": [
+          19.4,
+          256.9
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 251,
+        "lyricLineRecall": 0.959,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 86 BPM vs 67 target (~14% off)"
+        ],
+        "durationSec": 256.8,
+        "measuredBpm": 86.1,
+        "bpmFactor": 0.67,
+        "targetBpm": 67,
+        "bpmErrPct": 14.3,
+        "lufs": -15.3,
+        "peakDbfs": -0.31,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 255.1,
+        "vocalCoverage": 0.442,
+        "vocalSpanSec": [
+          19.1,
+          250.0
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 278,
+        "lyricLineRecall": 0.959,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Piano Ballad"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "e10_02",
+  "title": "Houseplant",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 2,
+  "slug": "e10_02_houseplant",
+  "inspiredBy": "Sunflower (Post Malone & Swae Lee, 2018)",
+  "leadVoice": "Two men. The first has a light, high, sweet tenor with a little pitch-correction shimmer and a melodic, slurred delivery. The second has a deeper voice with a fast, wavering vibrato and a lazy, behind-the-beat feel. They sing the chorus together, the high voice on top.",
+  "model": "V6",
+  "style": "2018 dreamy melodic hip-hop pop, two male voices, a light high sweet tenor with a slurred melodic delivery and slight pitch-correction shimmer, and a deeper voice with a fast wavering vibrato, singing the chorus together, 90 BPM, D major, slow floating and sunlit, clean chorus-effected electric guitar chords that ring and blur, soft round 808 bass, gentle sparse beat with muted kick, warm synth pads, glassy synth melody, soft reverb on everything, hazy warm wide mix, tender, wistful, short",
+  "negativeTags": "distorted guitar, rock drums, female lead vocals, fast tempo, aggressive rap, EDM drop, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 180,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: dreamy guitar chords, soft synth, wordless hum]\nOoh, ooh\n\n[Verse 1: light high tenor, melodic, half mumbled]\nYou get by on a glass of water and a window\nI forget you for a week, you only lean in closer\nEvery time I'm leaving, every time I'm gone\nYou put out a new leaf like nothing's wrong\n\n[Chorus: both voices, soft beat, wide and warm]\nYou're a houseplant\nGrowing toward me\nI don't deserve the way you stay\nYou're a houseplant\nStill in the morning\nI left you in the dark\nAnd you grew anyway\n\n[Verse 2: warbling baritone, slower phrasing]\nI'm bad at this, I lose the things I hold\nToo much or not enough is all I know\nBut you keep on, you keep on\nGreen in a grey apartment\nGreen in a grey apartment\n\n[Chorus: both voices, soft beat, wide and warm]\nYou're a houseplant\nGrowing toward me\nI don't deserve the way you stay\nYou're a houseplant\nStill in the morning\nI left you in the dark\nAnd you grew anyway\n\n[Bridge: beat drops, high voice alone with guitar]\nI'll move you to the window\nI'll learn your name\nI'll be here in the morning\nI'll try to be the rain\n\n[Final Chorus: both voices, fuller, harmony on top]\nYou're a houseplant\nGrowing toward me\nI don't deserve the way you stay\nYou're a houseplant\nStill in the morning\nI left you in the dark\nAnd you grew anyway\n\n[Outro: hum, guitar chord left ringing]\nOoh, you grew anyway",
+  "taskId": "2d2f077715d5456823ee759f3b517a36",
+  "sunoClipIds": [
+    "62fff4f7-d525-432a-b6ea-59f09d70a837",
+    "d7ab2b2f-14a7-46a4-a4b7-a015e573ea88"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928771136,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "62fff4f7-d525-432a-b6ea-59f09d70a837",
+      "durationSec": 179.4,
+      "file": "twentytens/e10_02_houseplant_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d7ab2b2f-14a7-46a4-a4b7-a015e573ea88",
+      "durationSec": 178.8,
+      "file": "twentytens/e10_02_houseplant_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_02_houseplant_req.json",
+    "twentytens/e10_02_houseplant_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_02_houseplant.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_02_houseplant.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 90 BPM, 4/4, D major. Slow, floating and sunlit. No sharp edges anywhere.\n\nVOICE: Two men. The first has a light, high, sweet tenor with a little pitch-correction shimmer and a melodic, slurred delivery. The second has a deeper voice with a fast, wavering vibrato and a lazy, behind-the-beat feel. They sing the chorus together, the high voice on top.\n\nINSTRUMENTS: Clean, chorus-effected electric guitar chords that ring and blur together. A soft, round 808 bass. A gentle, sparse beat with a muted kick and light hi-hats. Warm synth pads. A high, glassy synth melody in the chorus. Everything soaked in a soft reverb.\n\nARRANGEMENT MAP: 0:00 Intro, guitar chords and a hum. 0:11 Verse 1, the high voice. 0:32 Chorus 1, the beat enters. 0:59 Verse 2, the baritone. 1:23 Chorus 2. 1:50 Bridge, the beat drops out for the high voice and guitar. 2:09 Final chorus with a harmony on top. 2:36 Outro, a hum and one ringing chord, over by 2:45.\n\nPRODUCTION & MIX: Late-2010s melodic hip-hop pop: hazy, warm and wide, vocals soft and tuned, low end deep but gentle.\n\nSIGNATURE MOMENT: The first chorus, when the two voices join and the beat arrives at 0:32.\n\nMODERN POINT OF VIEW: The bridge is the new part. In the original the singers only admit their failings. Here one of them makes four small promises, which is what admitting it is for.\n\nEMOTIONAL ARC: Fond guilt, admission, a small resolution.",
+  "workbookAtAGlance": "Houseplant\n\nBackup titles\nYou Grew Anyway / Green in a Grey Apartment\n\nAt a glance\n90 BPM, D major\nVoice: Two male voices: light high tenor and warbling baritone\nLength: about 2 minutes 45",
+  "year": 2018,
+  "qa": {
+    "title": "Houseplant",
+    "id": "e10_02",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 72 BPM vs 90 target (~20% off)"
+        ],
+        "durationSec": 179.4,
+        "measuredBpm": 71.8,
+        "bpmFactor": 1.5,
+        "targetBpm": 90,
+        "bpmErrPct": 19.6,
+        "lufs": -12.4,
+        "peakDbfs": -0.01,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 177.7,
+        "vocalCoverage": 0.665,
+        "vocalSpanSec": [
+          16.2,
+          166.1
+        ],
+        "vocalF0MedianHz": 166,
+        "vocalF0P25Hz": 148,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 178.8,
+        "measuredBpm": 92.3,
+        "bpmFactor": 1,
+        "targetBpm": 90,
+        "bpmErrPct": 2.5,
+        "lufs": -14.0,
+        "peakDbfs": -1.04,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 177.0,
+        "vocalCoverage": 0.613,
+        "vocalSpanSec": [
+          13.9,
+          157.4
+        ],
+        "vocalF0MedianHz": 166,
+        "vocalF0P25Hz": 147,
+        "lyricLineRecall": 0.943,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop"
+}

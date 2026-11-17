@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Past the Sandbar",
+  "prompt": "[Intro: fingerpicked acoustic guitar, room ambience]\n\n[Verse 1: male baritone, quiet, conversational]\nDo you ever leave the engine running\nIn the driveway, with the radio low?\nIs there something you were always meant to say\nAnd a reason that you don't?\n\n[Verse 2: female voice, soft, guitar and piano]\nDo you ever wake before the morning\nWith a question sitting on your chest?\nIs the life you made the one you wanted\nOr the one that scared you less?\n\n[Chorus: female belt, full band crashes in]\nI'm out past the sandbar now\nNothing underneath my feet\nI can't hear them calling me in\nLet the cold water have my breath\nI was only wading then\nI'm out past the sandbar now\n\n[Verse 3: both voices trading lines, band steady]\nDo you ever miss the kid you used to be?\n(The one who jumped before he knew)\nDo you ever think it's too late now?\n(I did, till I met you)\n\n[Chorus: both voices, female on top]\nI'm out past the sandbar now\nNothing underneath my feet\nI can't hear them calling me in\nLet the cold water have my breath\nI was only wading then\nI'm out past the sandbar now\n\n[Vocal Break: wordless climbing wail, female, band building]\nOh, oh-oh-oh\nWhoa, oh-oh-oh\nOh\n\n[Final Chorus: everything, held high notes, male harmony]\nI'm out past the sandbar now\nNothing underneath my feet\nI can't hear them calling me in\nLet the cold water have my breath\nI was only wading then\nI'm out past the sandbar now\n\n[Outro: guitar alone, both voices, hushed]\nCome on in\nThe water's cold\nCome on in",
+  "style": "2018 country rock film ballad duet with a live feel, low weathered gravelly male baritone half speaking his verse, clear powerful female voice starting soft then belting the chorus with wide vibrato, long wordless climbing female wail before the final chorus, 96 BPM, G major, bare then huge, one fingerpicked steel-string acoustic guitar, piano, live rock band crashing in at the chorus, gently overdriven electric guitar, pedal steel swells, room and audience ambience, natural unpolished mix, yearning, brave, cathartic",
+  "negativeTags": "synth-pop, drum machine, rap, fast tempo, trap hi-hats, autotune, EDM drop, dance beat, saxophone",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

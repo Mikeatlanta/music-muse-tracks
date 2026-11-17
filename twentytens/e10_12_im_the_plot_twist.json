@@ -1,0 +1,118 @@
+{
+  "id": "e10_12",
+  "title": "I'm the Plot Twist",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 12,
+  "slug": "e10_12_im_the_plot_twist",
+  "inspiredBy": "bad guy (Billie Eilish, 2019)",
+  "leadVoice": "Female, sung in a soft whisper right against the microphone, with almost no projection. Deadpan and amused. The chorus is half spoken. The punchline words are spoken flat, with no music under them. Layered whispers and breathy harmonies in the background.",
+  "model": "V6",
+  "style": "2019 minimalist bedroom pop, soft whispered deadpan female vocal right against the microphone, half spoken chorus ending in a flatly spoken punchline over silence, layered whispers, 135 BPM, G minor, sly and bouncy, plucked rubbery electric bass riff leading, finger snaps, soft punchy kick, handclaps, cartoonish wobbling synth lead playing the hook in place of a sung chorus, final section switching to a slow dark half-speed trap beat with heavy sub-bass, extremely dry close mix, almost no reverb, playful, sinister, witty",
+  "negativeTags": "male lead vocals, belting, acoustic guitar, rock drums, big reverb, strings, saxophone, country",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bass line alone, finger snaps, a soft kick]\n\n[Verse 1: whispered, close, deadpan]\nBare feet\nCold tea\nReading your texts upside down\nSweet me\nLets you\nThink you run this town\nI nod, I smile, I pass the salt\nIf something breaks it's not my fault\n\n[Pre-Chorus: kick doubles, voice a little louder]\nSo you're the hero, you're the lead\nYou've got the jawline and the speed\n\n[Chorus: half spoken, then a spoken punchline]\nYou think you're the main event\nThe big reveal, the hundred per cent\nSaved the day and got the kiss\nCute.\nI'm the plot twist\n\n[Synth Hook: cartoonish wobbling synth melody, bass and claps]\n\n[Verse 2: whispered, more amused]\nI like\nIt when\nYou take control of the remote\nI let\nYou pick\nI let you rock the boat\nI let you think you won the race\nI moved the finish line last year\n\n[Pre-Chorus: kick doubles, voice a little louder]\nSo you're the hero, you're the lead\nYou've got the jawline and the speed\n\n[Chorus: half spoken, then a spoken punchline]\nYou think you're the main event\nThe big reveal, the hundred per cent\nSaved the day and got the kiss\nCute.\nI'm the plot twist\n\n[Synth Hook: cartoonish wobbling synth melody, bass and claps]\n\n[Beat Switch: tempo drops, slow dark trap beat, low sub-bass]\nI'm the twist\nI'm the twist\nYou didn't see me coming\nDid you?\n\n[Outro: slow beat, whispered, one finger snap]\nObviously",
+  "taskId": "bfa727b6fa7bf821812988bf522b67ea",
+  "sunoClipIds": [
+    "92ec82dd-73fe-42d4-ba38-ac151a8d069f",
+    "5aad70f1-f931-4026-9d1d-0c48e972a267"
+  ],
+  "created": "Nov 17, 2026 10:20 AM ET",
+  "createTimeMs": 1794928818808,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "92ec82dd-73fe-42d4-ba38-ac151a8d069f",
+      "durationSec": 204.68,
+      "file": "twentytens/e10_12_im_the_plot_twist_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5aad70f1-f931-4026-9d1d-0c48e972a267",
+      "durationSec": 204.48,
+      "file": "twentytens/e10_12_im_the_plot_twist_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_12_im_the_plot_twist_req.json",
+    "twentytens/e10_12_im_the_plot_twist_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_12_im_the_plot_twist.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_12_im_the_plot_twist.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 135 BPM, 4/4, G minor, switching to a slow half-speed beat for the last section. Sly, bouncy and close to the ear.\n\nVOICE: Female, sung in a soft whisper right against the microphone, with almost no projection. Deadpan and amused. The chorus is half spoken. The punchline words are spoken flat, with no music under them. Layered whispers and breathy harmonies in the background.\n\nINSTRUMENTS: A plucked, rubbery electric bass playing the main riff. Finger snaps. A soft, punchy kick drum. Handclaps. A cartoonish, wobbling synth lead that plays the hook where a chorus would be. Deep sub-bass and slow, heavy hi-hats after the switch. Small household clicks and taps as percussion.\n\nARRANGEMENT MAP: 0:00 Intro, the bass line with snaps. 0:14 Verse 1. 0:36 Pre-chorus. 0:43 Chorus 1, ending on the spoken punchline in silence. 0:57 Synth hook. 1:11 Verse 2. 1:33 Pre-chorus. 1:40 Chorus 2. 1:54 Synth hook. 2:22 Beat switch: the tempo halves and a dark, slow beat with heavy sub-bass takes over. 2:55 Outro, a whisper and a single snap at 3:05.\n\nPRODUCTION & MIX: Late-2010s bedroom pop: extremely dry and close, huge sub-bass, almost no reverb, silences used as punctuation.\n\nSIGNATURE MOMENT: The one-word spoken punchline at about 0:54, with everything else cut out.\n\nMODERN POINT OF VIEW: The original is a teenager's taunt. This is somebody who has been quietly managing a household, an office or a marriage for decades and is amused that nobody noticed.\n\nEMOTIONAL ARC: Mock meekness, amusement, the reveal, a dark little victory lap.",
+  "workbookAtAGlance": "I'm the Plot Twist\n\nBackup titles\nMoved the Finish Line / Cute\n\nAt a glance\n135 BPM, G minor\nVoice: Whispered deadpan female voice\nLength: about 3 minutes 10",
+  "year": 2019,
+  "qa": {
+    "title": "I'm the Plot Twist",
+    "id": "e10_12",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.7,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 135,
+        "bpmErrPct": 0.7,
+        "lufs": -13.5,
+        "peakDbfs": -0.23,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 203.7,
+        "vocalCoverage": 0.427,
+        "vocalSpanSec": [
+          0.2,
+          188.6
+        ],
+        "vocalF0MedianHz": 270,
+        "vocalF0P25Hz": 234,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending",
+          "peak 0.13 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 204.5,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 135,
+        "bpmErrPct": 0.7,
+        "lufs": -13.5,
+        "peakDbfs": 0.13,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 201.9,
+        "vocalCoverage": 0.395,
+        "vocalSpanSec": [
+          0.9,
+          201.8
+        ],
+        "vocalF0MedianHz": 285,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Bedroom Pop"
+}

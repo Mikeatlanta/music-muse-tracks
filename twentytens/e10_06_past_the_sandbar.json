@@ -1,0 +1,119 @@
+{
+  "id": "e10_06",
+  "title": "Past the Sandbar",
+  "collection": "twentytens",
+  "album": "2010s Reimagined",
+  "track": 6,
+  "slug": "e10_06_past_the_sandbar",
+  "inspiredBy": "Shallow (Lady Gaga & Bradley Cooper, 2018)",
+  "leadVoice": "A man with a low, weathered, gravelly baritone who half speaks his verse. A woman with a clear, powerful voice who starts softly and then belts the chorus from the chest with full force and a wide vibrato. The break before the last chorus is a long, wordless wail that climbs in steps. They harmonise at the end.",
+  "model": "V6",
+  "style": "2018 country rock film ballad duet with a live feel, low weathered gravelly male baritone half speaking his verse, clear powerful female voice starting soft then belting the chorus with wide vibrato, long wordless climbing female wail before the final chorus, 96 BPM, G major, bare then huge, one fingerpicked steel-string acoustic guitar, piano, live rock band crashing in at the chorus, gently overdriven electric guitar, pedal steel swells, room and audience ambience, natural unpolished mix, yearning, brave, cathartic",
+  "negativeTags": "synth-pop, drum machine, rap, fast tempo, trap hi-hats, autotune, EDM drop, dance beat, saxophone",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "2010s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: fingerpicked acoustic guitar, room ambience]\n\n[Verse 1: male baritone, quiet, conversational]\nDo you ever leave the engine running\nIn the driveway, with the radio low?\nIs there something you were always meant to say\nAnd a reason that you don't?\n\n[Verse 2: female voice, soft, guitar and piano]\nDo you ever wake before the morning\nWith a question sitting on your chest?\nIs the life you made the one you wanted\nOr the one that scared you less?\n\n[Chorus: female belt, full band crashes in]\nI'm out past the sandbar now\nNothing underneath my feet\nI can't hear them calling me in\nLet the cold water have my breath\nI was only wading then\nI'm out past the sandbar now\n\n[Verse 3: both voices trading lines, band steady]\nDo you ever miss the kid you used to be?\n(The one who jumped before he knew)\nDo you ever think it's too late now?\n(I did, till I met you)\n\n[Chorus: both voices, female on top]\nI'm out past the sandbar now\nNothing underneath my feet\nI can't hear them calling me in\nLet the cold water have my breath\nI was only wading then\nI'm out past the sandbar now\n\n[Vocal Break: wordless climbing wail, female, band building]\nOh, oh-oh-oh\nWhoa, oh-oh-oh\nOh\n\n[Final Chorus: everything, held high notes, male harmony]\nI'm out past the sandbar now\nNothing underneath my feet\nI can't hear them calling me in\nLet the cold water have my breath\nI was only wading then\nI'm out past the sandbar now\n\n[Outro: guitar alone, both voices, hushed]\nCome on in\nThe water's cold\nCome on in",
+  "taskId": "a8245f43e5f0031a6a01101e90e79e1a",
+  "sunoClipIds": [
+    "e62128e8-7e66-4998-bb60-913111d7a5b7",
+    "00d1f11c-93cf-4a1b-b8f0-8443bac8d35c"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928784242,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "e62128e8-7e66-4998-bb60-913111d7a5b7",
+      "durationSec": 233.56,
+      "file": "twentytens/e10_06_past_the_sandbar_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "00d1f11c-93cf-4a1b-b8f0-8443bac8d35c",
+      "durationSec": 234.76,
+      "file": "twentytens/e10_06_past_the_sandbar_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytens/e10_06_past_the_sandbar_req.json",
+    "twentytens/e10_06_past_the_sandbar_rec.json"
+  ],
+  "cover": "twentytens/covers/e10_06_past_the_sandbar.jpg",
+  "cleanCover": "twentytens/covers/clean/e10_06_past_the_sandbar.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4, G major. Bare and conversational, then huge. It sounds like it is being performed live in front of people.\n\nVOICE: A man with a low, weathered, gravelly baritone who half speaks his verse. A woman with a clear, powerful voice who starts softly and then belts the chorus from the chest with full force and a wide vibrato. The break before the last chorus is a long, wordless wail that climbs in steps. They harmonise at the end.\n\nINSTRUMENTS: One fingerpicked steel-string acoustic guitar. Piano joining in the second verse. A live rock band (drums, bass, electric guitar with gentle overdrive) that enters all at once at the chorus. Pedal steel swells. Faint room and audience ambience.\n\nARRANGEMENT MAP: 0:00 Intro, acoustic guitar. 0:12 Verse 1, the man. 0:42 Verse 2, the woman. 1:12 Chorus 1, the band crashes in. 1:40 Verse 3, the two voices trading lines. 2:05 Chorus 2. 2:33 Vocal break, the wordless wail over a building band. 2:48 Final chorus with held notes. 3:16 Outro, guitar alone and three hushed lines, ending at 3:35.\n\nPRODUCTION & MIX: Recorded to feel live: natural room sound, little polish, voices exposed and dry in the verses and enormous in the choruses.\n\nSIGNATURE MOMENT: The wordless wail at 2:33.\n\nMODERN POINT OF VIEW: The questions are a forty-year-old's: the engine left running in the driveway, the life chosen because it was less frightening. Verse 3 says it is not too late, and says who made it so.\n\nEMOTIONAL ARC: Doubt, a dare, the leap, an invitation.",
+  "workbookAtAGlance": "Past the Sandbar\n\nBackup titles\nOnly Wading Then / The One That Scared You Less\n\nAt a glance\n96 BPM, G major\nVoice: Duet: weathered male baritone, powerhouse female belt\nLength: about 3 minutes 40",
+  "year": 2018,
+  "qa": {
+    "title": "Past the Sandbar",
+    "id": "e10_06",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 233.6,
+        "measuredBpm": 92.3,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 3.9,
+        "lufs": -15.5,
+        "peakDbfs": -2.29,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.4,
+        "contentEndSec": 233.5,
+        "vocalCoverage": 0.758,
+        "vocalSpanSec": [
+          1.5,
+          232.6
+        ],
+        "vocalF0MedianHz": 329,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.857,
+        "lyricUnclearSections": [
+          "Vocal Break"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)"
+        ],
+        "durationSec": 234.8,
+        "measuredBpm": 92.3,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 3.9,
+        "lufs": -13.9,
+        "peakDbfs": -1.82,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 234.7,
+        "vocalCoverage": 0.753,
+        "vocalSpanSec": [
+          2.6,
+          232.3
+        ],
+        "vocalF0MedianHz": 496,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.886,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Country Rock"
+}
