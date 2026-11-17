@@ -235,7 +235,7 @@ D.addEventListener("click",e=>{const t=e.target;
   if(b.classList.contains("shb")){e.preventDefault();return share(sid)}
   if(b.classList.contains("tsh")){e.preventDefault();return share(sid,n)}
   if(b.classList.contains("cp")){const p=$(b.dataset.t);if(p)copyText(p.textContent,b);return}}
- if(b&&b.classList.contains("qcol")){const sec=b.dataset.sec;SONGS.filter(s=>s.s===sec).forEach(s=>s.k.forEach(k=>addQ(tkid(s,k[0]))));saveQ();renderQ();$("qlist").classList.remove("hide")}});
+ if(b&&b.classList.contains("qcol")){const sec=b.dataset.sec;SONGS.filter(s=>s.s===sec).forEach(s=>addQ(tkid(s,pickN(s))));saveQ();renderQ();$("qlist").classList.remove("hide")}});
 
 /* ---------- search / favorites / export ---------- */
 const qi=$("q");qi.addEventListener("focus",ensureSearch);qi.addEventListener("input",()=>{ensureSearch();V$.q=qi.value.toLowerCase().trim();applySoon()});
