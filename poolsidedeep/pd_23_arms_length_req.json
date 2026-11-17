@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Arm's Length",
+  "prompt": "[Intro: patient synth arpeggio, soft kick, low pad]\n\n[Verse 1: fragile high male voice]\nTwo loungers, and the pool lights off\nYour hand hangs down, mine's close enough\nFifteen years of being friends\nI know exactly where it ends\n\n[Chorus: bass enters, voice doubled]\nArm's length\nIt's only arm's length\nAll these years I've kept it\nArm's length\nTonight it looks like nothing\nArm's length\n\n[Verse 2: voice closer, hi-hat enters]\nYou're talking, and I've lost the thread\nI'm measuring the gap instead\nOne reach, and everything is changed\nOne reach, or leave it as arranged\n\n[Break: arpeggio alone, voice bare]\nWhat if you've been measuring too\n\n[Chorus: full groove, strings, voice doubled]\nArm's length\nIt's only arm's length\nAll these years I've kept it\nArm's length\nTonight it looks like nothing\nArm's length\n\n[Outro: arpeggio, kick fading, one held breath]",
+  "style": "Late-2010s melodic techno played like a ballad, high fragile soft-edged male vocal nearly breaking on long notes, doubled in the choruses, 120 BPM, C# minor, melancholy patient tender feel, patient analogue synth arpeggio, soft deep kick, warm bass, low pads, closed hi-hat, small string section in the last chorus, muted piano, warm deep mix with the voice close and dry, wistful, intimate, late-night",
+  "negativeTags": "female lead vocals, belting, rap, distorted bass, big room drop, trap hi-hats, bright pop, rock guitar",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

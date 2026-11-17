@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Not What I Came For",
+  "prompt": "[Intro: plucked guitar figure, soft kick, distant surf]\n\n[Verse 1: breathy female voice, close]\nI had a book, I had a plan\nA week of nothing, no demands\nThen you sat down, then you said hi\nI felt the whole plan wave goodbye\n\n[Chorus: deep bass in, voice doubled]\nThis is not what I came for\nThis is not on the list\nI came here to be quiet\nNot to be noticing this\nNot what I came for\nDon't sit there\n\n[Verse 2: voice a little warmer]\nYou ask the waiter for his name\nYou laugh too loud, it's all the same\nI've read this line eleven times\nYou're not my type. That's my best lie.\n\n[Chorus: deep bass, voice doubled]\nThis is not what I came for\nThis is not on the list\nI came here to be quiet\nNot to be noticing this\nNot what I came for\nDon't sit there\n\n[Break: guitar alone, whispered]\nOkay. Sit there.\n\n[Outro: guitar and beat, a page turned, a laugh]",
+  "style": "Early-2010s European deep house, breathy low intimate female vocal with a wry edge, softly doubled in the choruses, one whispered line, 119 BPM, B minor, slow warm swaying feel, plucked reverbed electric guitar figure, soft four-on-the-floor kick, deep rounded bass, shakers, muted clap, warm pads, soft close mix, reluctant, flirtatious, wry",
+  "negativeTags": "male lead vocals, belting, rap, distorted synths, big room drop, trap hi-hats, fast tempo, bright pop",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

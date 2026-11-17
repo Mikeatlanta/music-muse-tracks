@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Last One In",
+  "prompt": "[Intro: soft swelling chords, scattered vocal chops]\n(One, one in)\n\n[Beat Enters: broken garage-style drums, deep sub bass]\n(Last, la-, one in)\n\n[Section A: chords swell wide, chops answer the snare]\n(One in, one in)\n\n[Break: drums out, chords held, bare feet on wet tiles]\n\n[Spoken: several voices, whispering, then one shout]\nOne, two\nLast one in!\n\n[Drop: full beat, widest chords, a big splash]\n(Last, la-, one in)\n(One in, one in)\n\n[Outro: chords alone, water settling, quiet laughing]",
+  "style": "Mid-2010s emotional UK electronic instrumental, no sung verses, short chopped fragments of a woman's and a man's voice used as rhythm, one shouted three-word line before the drop, 130 BPM with a broken garage rhythm, A major, rushing emotional joyful feel, big swelling side-chained synth chords, broken garage-style drums with a crisp snare, deep sub bass, bright bell-like plucks, reversed cymbal, wide bright clean mix, euphoric, playful, late-night",
+  "negativeTags": "sung verses, full lyrics, rap, distorted guitar, trap hi-hats, hardstyle kick, dark mood, slow ballad",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "pd_03",
+  "title": "Not What I Came For",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 3,
+  "slug": "pd_03_not_what_i_came_for",
+  "inspiredBy": "Wicked Games (Parra for Cuva feat. Anna Naklab, 2013)",
+  "leadVoice": "Female, breathy, low and intimate, with a wry edge. Doubled softly in the choruses. One whispered line in the break.",
+  "model": "V6",
+  "style": "Early-2010s European deep house, breathy low intimate female vocal with a wry edge, softly doubled in the choruses, one whispered line, 119 BPM, B minor, slow warm swaying feel, plucked reverbed electric guitar figure, soft four-on-the-floor kick, deep rounded bass, shakers, muted clap, warm pads, soft close mix, reluctant, flirtatious, wry",
+  "negativeTags": "male lead vocals, belting, rap, distorted synths, big room drop, trap hi-hats, fast tempo, bright pop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: plucked guitar figure, soft kick, distant surf]\n\n[Verse 1: breathy female voice, close]\nI had a book, I had a plan\nA week of nothing, no demands\nThen you sat down, then you said hi\nI felt the whole plan wave goodbye\n\n[Chorus: deep bass in, voice doubled]\nThis is not what I came for\nThis is not on the list\nI came here to be quiet\nNot to be noticing this\nNot what I came for\nDon't sit there\n\n[Verse 2: voice a little warmer]\nYou ask the waiter for his name\nYou laugh too loud, it's all the same\nI've read this line eleven times\nYou're not my type. That's my best lie.\n\n[Chorus: deep bass, voice doubled]\nThis is not what I came for\nThis is not on the list\nI came here to be quiet\nNot to be noticing this\nNot what I came for\nDon't sit there\n\n[Break: guitar alone, whispered]\nOkay. Sit there.\n\n[Outro: guitar and beat, a page turned, a laugh]",
+  "taskId": "ec2e9f19e00bbfc788116faba3ef1f8b",
+  "sunoClipIds": [
+    "38383d08-3c31-42df-b152-cc1d0f28fcf3",
+    "fc993106-34fe-4b47-8e3e-21927e5d3c8e"
+  ],
+  "created": "Nov 17, 2026 10:14 AM ET",
+  "createTimeMs": 1794928485250,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "38383d08-3c31-42df-b152-cc1d0f28fcf3",
+      "durationSec": 214.4,
+      "file": "poolsidedeep/pd_03_not_what_i_came_for_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "fc993106-34fe-4b47-8e3e-21927e5d3c8e",
+      "durationSec": 214.8,
+      "file": "poolsidedeep/pd_03_not_what_i_came_for_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_03_not_what_i_came_for_req.json",
+    "poolsidedeep/pd_03_not_what_i_came_for_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_03_not_what_i_came_for.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_03_not_what_i_came_for.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 119 BPM, 4/4, B minor. Slow, warm deep house with a sway.\n\nVOICE: Female, breathy, low and intimate, with a wry edge. Doubled softly in the choruses. One whispered line in the break.\n\nINSTRUMENTS: A plucked, reverbed electric guitar figure, a soft four-on-the-floor kick, a deep rounded bass, shakers, a muted clap, warm pads, surf.\n\nARRANGEMENT MAP: 0:00 Intro, guitar. 0:18 Verse 1. 0:46 Chorus 1. 1:16 Verse 2. 1:44 Chorus 2. 2:14 Break, whispered. 2:28 Outro groove, a page and a laugh, ends 3:18.\n\nPRODUCTION & MIX: Early-2010s European deep house: soft, mid-tempo and close, guitar and voice in front, bass warm.\n\nSIGNATURE MOMENT: The whispered 'Okay. Sit there.' at 2:18.\n\nSTATION FIT: Saturday, 11 p.m. A slow, late vocal track, flirtatious and a little reluctant.\n\nEMOTIONAL ARC: Irritated, drawn, denying, giving in.",
+  "workbookAtAGlance": "Not What I Came For\n\nBackup titles\nI Came to Read / Don't Sit There\n\nAt a glance\n119 BPM, B minor\nVoice: Breathy female voice\nLength: about 3 minutes 20",
+  "year": 2013,
+  "qa": {
+    "title": "Not What I Came For",
+    "id": "pd_03",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.4,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 119,
+        "bpmErrPct": 1.3,
+        "lufs": -13.5,
+        "peakDbfs": -0.74,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 210.6,
+        "vocalCoverage": 0.311,
+        "vocalSpanSec": [
+          19.5,
+          209.9
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 210,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 119,
+        "bpmErrPct": 1.3,
+        "lufs": -13.2,
+        "peakDbfs": -0.42,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 211.8,
+        "vocalCoverage": 0.272,
+        "vocalSpanSec": [
+          17.5,
+          200.1
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 266,
+        "lyricLineRecall": 0.952,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "House"
+}

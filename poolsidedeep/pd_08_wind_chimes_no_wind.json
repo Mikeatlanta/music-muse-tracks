@@ -1,0 +1,115 @@
+{
+  "id": "pd_08",
+  "title": "Wind Chimes, No Wind",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 8,
+  "slug": "pd_08_wind_chimes_no_wind",
+  "inspiredBy": "Cirrus (Bonobo, 2013)",
+  "leadVoice": "None.",
+  "model": "V6",
+  "style": "Early-2010s organic downtempo electronic instrumental, no vocals, kalimba glass bells metal wind chimes and glockenspiel layered one at a time into interlocking patterns, 126 BPM with a shuffle, C minor, hypnotic gently propulsive feel, deep warm sub bass and a shuffling beat with soft kick and brushed snare arriving late, marimba, hand percussion, faint pad, dry close detailed percussion with a large soft low end, hypnotic, delicate, nocturnal",
+  "negativeTags": "vocals, lyrics, rap, distorted guitar, big room drop, trap hi-hats, bright pop chorus, harsh synths",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: one chime, then silence, then two]\n\n[Layer 1: kalimba pattern begins]\n\n[Layer 2: glass bells added, a different rhythm]\n\n[Layer 3: metal chimes, the patterns interlock]\n\n[Drop: deep bass and shuffling beat lift everything]\n\n[Break: beat stops, chimes alone, slower]\n\n[Drop: full groove returns, a marimba line on top]\n\n[Outro: layers leave one by one, last chime, air]",
+  "taskId": "2107835cfbc6c15b6ec12cee868cb0d2",
+  "sunoClipIds": [
+    "36a43b38-2f20-4bf8-affb-b6e40ab79289",
+    "927f0ba5-3fe1-4db8-aed5-e270a0f18a68"
+  ],
+  "created": "Nov 17, 2026 10:14 AM ET",
+  "createTimeMs": 1794928491207,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "36a43b38-2f20-4bf8-affb-b6e40ab79289",
+      "durationSec": 214.8,
+      "file": "poolsidedeep/pd_08_wind_chimes_no_wind_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "927f0ba5-3fe1-4db8-aed5-e270a0f18a68",
+      "durationSec": 214.44,
+      "file": "poolsidedeep/pd_08_wind_chimes_no_wind_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_08_wind_chimes_no_wind_req.json",
+    "poolsidedeep/pd_08_wind_chimes_no_wind_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_08_wind_chimes_no_wind.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_08_wind_chimes_no_wind.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 126 BPM, 4/4 with a shuffle, C minor. Hypnotic and gently propulsive, bright sounds over a dark floor.\n\nVOICE: None.\n\nINSTRUMENTS: Kalimba (thumb piano), glass bells, metal wind chimes and a glockenspiel in interlocking patterns, a deep, warm sub bass, a shuffling beat with a soft kick and brushed snare, a marimba, hand percussion, a faint pad.\n\nARRANGEMENT MAP: 0:00 Intro, single chimes. 0:16 Layer 1, kalimba. 0:36 Layer 2, bells. 0:56 Layer 3, chimes. 1:16 Drop, bass and beat. 1:56 Break. 2:14 Drop, with marimba. 2:50 Outro, layers leaving, ends 3:18.\n\nPRODUCTION & MIX: Early-2010s organic downtempo: dry, close, detailed percussion with a large, soft low end.\n\nSIGNATURE MOMENT: The bass arriving under the chimes at 1:16.\n\nSTATION FIT: Sunday, 4 a.m. The stillest hour, with nothing but small bright sounds and a pulse.\n\nEMOTIONAL ARC: Curious, gathering, lifted, dispersing.",
+  "workbookAtAGlance": "Wind Chimes, No Wind\n\nBackup titles\nFour A.M. Bells / Something Moved the Air\n\nAt a glance\n126 BPM, C minor\nVoice: Instrumental\nLength: about 3 minutes 20",
+  "year": 2013,
+  "qa": {
+    "title": "Wind Chimes, No Wind",
+    "id": "pd_08",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 2.5,
+        "lufs": -14.0,
+        "peakDbfs": -0.58,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 213.6,
+        "vocalCoverage": 0.016,
+        "vocalSpanSec": [
+          37.5,
+          132.3
+        ],
+        "vocalF0MedianHz": 353,
+        "vocalF0P25Hz": 337,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.5,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 2.5,
+        "lufs": -14.0,
+        "peakDbfs": -0.45,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 212.7,
+        "vocalCoverage": 0.019,
+        "vocalSpanSec": [
+          28.2,
+          32.9
+        ],
+        "vocalF0MedianHz": 261,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Downtempo"
+}

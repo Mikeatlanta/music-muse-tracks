@@ -2,6 +2,47 @@
  "note": "Site layout for build_fast.py. sections: order = nav/page order; songs whose collection matches a section are added to it (new ones after the listed order). cards: per-song display overrides; new songs can omit them.",
  "sections": [
   {
+   "id": "poolsidedeep",
+   "nav": "🏖️ Poolside Chill Deep Cuts Reimagined",
+   "title": "🏖️ Poolside Chill Deep Cuts Reimagined",
+   "blurb": "Thirty new songs in a quieter poolside register — deep cuts rather than the singles — tropical house, chill and nu-disco, each built on the hook mechanics of a well-known record and written as a fresh original. A day by the water, all original lyrics.",
+   "collections": [
+    "poolsidedeep"
+   ],
+   "order": [
+    "pd_01_you_slow_me_down",
+    "pd_02_old_wristband",
+    "pd_03_not_what_i_came_for",
+    "pd_04_the_quiet_end",
+    "pd_05_here_with_you_like_this",
+    "pd_06_still_asking",
+    "pd_07_first_light_on_the_water",
+    "pd_08_wind_chimes_no_wind",
+    "pd_09_sous_le_parasol",
+    "pd_10_minuit_tropical",
+    "pd_11_after_the_pool_lights",
+    "pd_12_causeway_at_dusk",
+    "pd_13_we_were_neon",
+    "pd_14_stay_or_go",
+    "pd_15_the_long_way_back_to_the_room",
+    "pd_16_wade_in",
+    "pd_17_a1a",
+    "pd_18_gray_is_fine",
+    "pd_19_lobby_cat",
+    "pd_20_hammock",
+    "pd_21_starfish_float",
+    "pd_22_easy",
+    "pd_23_arms_length",
+    "pd_24_good_news_travels_slow",
+    "pd_25_last_one_in",
+    "pd_26_salt_on_my_lips",
+    "pd_27_you_look_like_her",
+    "pd_28_sun_on_my_back",
+    "pd_29_room_with_the_same_view",
+    "pd_30_fifty_feels_like_this"
+   ]
+  },
+  {
    "id": "darkelectro",
    "nav": "⚡ Dark Electro Reimagined",
    "title": "⚡ Dark Electro Reimagined",

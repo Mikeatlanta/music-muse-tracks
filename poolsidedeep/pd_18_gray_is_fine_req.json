@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Gray Is Fine",
+  "prompt": "[Intro: slow piano chords, rain on water]\n\n[Verse 1: low intimate male voice]\nNo sun today, the sky's a sheet\nLoungers folded, wet concrete\nThe pool is rings on rings on rings\nI'm at the window, watching things\n\n[Chorus: soft beat enters, voice doubled]\nGray is fine\nGray is fine\nI don't need it blue to call it mine\nCoffee, quiet, rain on the line\nGray is fine\n\n[Verse 2: voice a little warmer]\nYou're still asleep, the sheet's a hill\nThe radio is low and still\nNobody's calling, nothing's planned\nI've got a warm cup in my hand\n\n[Chorus: soft beat, sub bass, voice doubled]\nGray is fine\nGray is fine\nI don't need it blue to call it mine\nCoffee, quiet, rain on the line\nGray is fine\n\n[Outro: piano, rain easing, a spoon in a cup]",
+  "style": "Late-2010s electronic piano ballad, low soft close almost spoken male vocal with a slight grain, doubled very quietly an octave up in the choruses, 78 BPM, A minor ending on a major chord, very slow still warm feel, felt-damped piano, soft electronic kick and rim click entering with the chorus, deep sub bass, quiet pad, a few plucked guitar notes, rain on water, intimate dry mix, calm, accepting, cosy",
+  "negativeTags": "female lead vocals, belting, rap, fast tempo, bright synth leads, big room drop, trap hi-hats, rock guitar",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

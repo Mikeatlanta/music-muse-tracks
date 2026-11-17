@@ -1,0 +1,115 @@
+{
+  "id": "pd_14",
+  "title": "Stay or Go",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 14,
+  "slug": "pd_14_stay_or_go",
+  "inspiredBy": "Tearing Me Up (Bob Moses, 2015)",
+  "leadVoice": "Male, low, smoky and held back, almost murmured, with a tired warmth. Doubled in the choruses. One spoken line at the end.",
+  "model": "V6",
+  "style": "Mid-2010s indie deep house played like a band, low smoky held-back male vocal almost murmured, doubled in the choruses, 116 BPM, E minor, slow dark smoky feel, clean bluesy electric guitar lick, slow four-on-the-floor kick with dry snare, deep bass guitar, dark pads, open hi-hats, Rhodes electric piano, restrained guitar solo, dark warm spacious mix, tempted, hesitant, late-night",
+  "negativeTags": "female lead vocals, belting, rap, bright pop chorus, trap hi-hats, big room drop, brass, cheerful major key",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bluesy guitar lick, dark house kick, bass]\n\n[Verse 1: smoky restrained male voice]\nCheck's on the bar, pen's in my hand\nBand's on a break, I'd made a plan\nThen the seat by you came free\nNow the pen's just looking at me\n\n[Chorus: fuller groove, voice doubled, guitar answering]\nStay or go, stay or go\nOne more round, or the bill\nStay or go, I don't know\nI've been standing here so still\nStay or go\n\n[Verse 2: voice closer, hi-hats open]\nYou look up, then you look down\nThere's a smile you don't quite hide\nI could sign and say good night\nI could ask what you're drinking tonight\n\n[Chorus: fuller groove, voice doubled, guitar answering]\nStay or go, stay or go\nOne more round, or the bill\nStay or go, I don't know\nI've been standing here so still\nStay or go\n\n[Guitar Break: slow bluesy solo over the beat]\n\n[Outro: groove, a stool pulled out, \"Is this taken?\"]",
+  "taskId": "5e056c01f919bbcc2f7f5f1d6ebfdf57",
+  "sunoClipIds": [
+    "879ffeed-a4bc-4021-99d4-ab3fc0fa2180",
+    "12e9ebc3-2bdc-4dfe-9b62-29c850d5dea4"
+  ],
+  "created": "Nov 17, 2026 10:15 AM ET",
+  "createTimeMs": 1794928515607,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "879ffeed-a4bc-4021-99d4-ab3fc0fa2180",
+      "durationSec": 224.88,
+      "file": "poolsidedeep/pd_14_stay_or_go_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "12e9ebc3-2bdc-4dfe-9b62-29c850d5dea4",
+      "durationSec": 224.88,
+      "file": "poolsidedeep/pd_14_stay_or_go_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_14_stay_or_go_req.json",
+    "poolsidedeep/pd_14_stay_or_go_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_14_stay_or_go.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_14_stay_or_go.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 116 BPM, 4/4, E minor. Slow, dark and smoky, a rock band at club tempo.\n\nVOICE: Male, low, smoky and held back, almost murmured, with a tired warmth. Doubled in the choruses. One spoken line at the end.\n\nINSTRUMENTS: A clean, bluesy electric guitar playing a short lick, a slow four-on-the-floor kick with a dry snare, a deep bass guitar, dark pads, open hi-hats, a Rhodes electric piano, a restrained guitar solo.\n\nARRANGEMENT MAP: 0:00 Intro, guitar lick. 0:18 Verse 1. 0:48 Chorus 1. 1:16 Verse 2. 1:46 Chorus 2. 2:14 Guitar break. 2:42 Outro, a stool and a spoken line at 3:20.\n\nPRODUCTION & MIX: Mid-2010s indie deep house: dark, warm and spacious, guitar and voice dry in front, kick deep.\n\nSIGNATURE MOMENT: 'Now the pen's just looking at me' at 0:42.\n\nSTATION FIT: Saturday, 10 p.m. A dark, guitar-led vocal track for the bar end of the pool.\n\nEMOTIONAL ARC: Decided, undecided, tempted, asking.",
+  "workbookAtAGlance": "Stay or Go\n\nBackup titles\nOne More or the Bill / Coin on the Bar\n\nAt a glance\n116 BPM, E minor\nVoice: Smoky, restrained male voice\nLength: about 3 minutes 30",
+  "year": 2015,
+  "qa": {
+    "title": "Stay or Go",
+    "id": "pd_14",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.9,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 116,
+        "bpmErrPct": 1.3,
+        "lufs": -11.8,
+        "peakDbfs": -0.65,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 223.2,
+        "vocalCoverage": 0.37,
+        "vocalSpanSec": [
+          17.5,
+          208.8
+        ],
+        "vocalF0MedianHz": 166,
+        "vocalF0P25Hz": 149,
+        "lyricLineRecall": 0.944,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.9,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 116,
+        "bpmErrPct": 1.3,
+        "lufs": -11.9,
+        "peakDbfs": -0.34,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 223.2,
+        "vocalCoverage": 0.394,
+        "vocalSpanSec": [
+          2.0,
+          214.3
+        ],
+        "vocalF0MedianHz": 187,
+        "vocalF0P25Hz": 165,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "House"
+}

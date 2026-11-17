@@ -1,0 +1,115 @@
+{
+  "id": "pd_23",
+  "title": "Arm's Length",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 23,
+  "slug": "pd_23_arms_length",
+  "inspiredBy": "The Space In Between (Jan Blomqvist, 2018)",
+  "leadVoice": "Male, high and fragile, soft-edged, nearly breaking on long notes. Doubled in the choruses. One bare line in the break.",
+  "model": "V6",
+  "style": "Late-2010s melodic techno played like a ballad, high fragile soft-edged male vocal nearly breaking on long notes, doubled in the choruses, 120 BPM, C# minor, melancholy patient tender feel, patient analogue synth arpeggio, soft deep kick, warm bass, low pads, closed hi-hat, small string section in the last chorus, muted piano, warm deep mix with the voice close and dry, wistful, intimate, late-night",
+  "negativeTags": "female lead vocals, belting, rap, distorted bass, big room drop, trap hi-hats, bright pop, rock guitar",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: patient synth arpeggio, soft kick, low pad]\n\n[Verse 1: fragile high male voice]\nTwo loungers, and the pool lights off\nYour hand hangs down, mine's close enough\nFifteen years of being friends\nI know exactly where it ends\n\n[Chorus: bass enters, voice doubled]\nArm's length\nIt's only arm's length\nAll these years I've kept it\nArm's length\nTonight it looks like nothing\nArm's length\n\n[Verse 2: voice closer, hi-hat enters]\nYou're talking, and I've lost the thread\nI'm measuring the gap instead\nOne reach, and everything is changed\nOne reach, or leave it as arranged\n\n[Break: arpeggio alone, voice bare]\nWhat if you've been measuring too\n\n[Chorus: full groove, strings, voice doubled]\nArm's length\nIt's only arm's length\nAll these years I've kept it\nArm's length\nTonight it looks like nothing\nArm's length\n\n[Outro: arpeggio, kick fading, one held breath]",
+  "taskId": "47ebcc398e43538477d134bee12d4fcd",
+  "sunoClipIds": [
+    "4cb30638-f682-4835-a3ae-4fb13a77d997",
+    "da307fc3-3121-44e8-b3a4-f9f020c91ee2"
+  ],
+  "created": "Nov 17, 2026 10:15 AM ET",
+  "createTimeMs": 1794928555759,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "4cb30638-f682-4835-a3ae-4fb13a77d997",
+      "durationSec": 234.12,
+      "file": "poolsidedeep/pd_23_arms_length_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "da307fc3-3121-44e8-b3a4-f9f020c91ee2",
+      "durationSec": 234.72,
+      "file": "poolsidedeep/pd_23_arms_length_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_23_arms_length_req.json",
+    "poolsidedeep/pd_23_arms_length_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_23_arms_length.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_23_arms_length.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, C# minor. Melancholy, patient and tender.\n\nVOICE: Male, high and fragile, soft-edged, nearly breaking on long notes. Doubled in the choruses. One bare line in the break.\n\nINSTRUMENTS: A patient analogue synth arpeggio, a soft, deep kick, a warm bass, low pads, a closed hi-hat, a small string section in the last chorus, a muted piano.\n\nARRANGEMENT MAP: 0:00 Intro, arpeggio. 0:24 Verse 1. 0:56 Chorus 1, bass in. 1:28 Verse 2. 2:00 Break, one bare line at 2:10. 2:20 Chorus 2, strings. 2:56 Outro, kick fading, ends 3:38.\n\nPRODUCTION & MIX: Late-2010s melodic techno played like a ballad: warm and deep, voice close and dry, kick soft.\n\nSIGNATURE MOMENT: 'What if you've been measuring too' at 2:10, with only the arpeggio under it.\n\nSTATION FIT: Saturday, 11:30 p.m. A quiet, tender track for the half hour before midnight.\n\nEMOTIONAL ARC: Careful, calculating, hopeful, reaching.",
+  "workbookAtAGlance": "Arm's Length\n\nBackup titles\nOne Reach / Fifteen Years of This\n\nAt a glance\n120 BPM, C# minor\nVoice: Fragile, high male voice\nLength: about 3 minutes 40",
+  "year": 2018,
+  "qa": {
+    "title": "Arm's Length",
+    "id": "pd_23",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.1,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 2.5,
+        "lufs": -12.4,
+        "peakDbfs": -0.18,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 231.5,
+        "vocalCoverage": 0.3,
+        "vocalSpanSec": [
+          17.3,
+          166.8
+        ],
+        "vocalF0MedianHz": 207,
+        "vocalF0P25Hz": 185,
+        "lyricLineRecall": 0.867,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.7,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 2.1,
+        "lufs": -13.0,
+        "peakDbfs": -0.21,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 233.4,
+        "vocalCoverage": 0.345,
+        "vocalSpanSec": [
+          17.6,
+          216.0
+        ],
+        "vocalF0MedianHz": 209,
+        "vocalF0P25Hz": 185,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Techno"
+}

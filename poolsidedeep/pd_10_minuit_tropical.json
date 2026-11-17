@@ -1,0 +1,128 @@
+{
+  "id": "pd_10",
+  "title": "Minuit Tropical",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 10,
+  "slug": "pd_10_minuit_tropical",
+  "inspiredBy": "Agitations tropicales (L'Impératrice, 2015)",
+  "leadVoice": "Female, cool, breathy and even, sung in French with almost no vibrato and a faint smile. Two-part harmonies with herself in the choruses.",
+  "model": "V6",
+  "style": "Mid-2010s French space disco played by a live band, cool breathy even female vocal sung in French with almost no vibrato, two-part self-harmonies in the choruses, 112 BPM, F# minor, tight humid unhurried disco-funk groove, slap-and-pop bass riff, glassy electric piano and string-synth chords, tight disco kick snare and sixteenth-note hi-hat, scratching rhythm guitar, analogue synth solo, congas, clean warm mix, sultry, elegant, nocturnal",
+  "negativeTags": "English lyrics, male lead vocals, belting, rap, distorted synths, trap hi-hats, big room drop, rock guitar",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: slap bass riff, glassy keyboard chords, hi-hat]\n\n[Verse 1: cool breathy female voice, French]\nMinuit, la ville ne dort pas\nL'air est lourd, il ne bouge pas\nL'eau est tiède, le ciel est bas\nJe marche lente, tu es là\n\n[Chorus: full disco-funk groove, harmonies]\nMinuit tropical\nLa nuit est chaude, la nuit est longue\nMinuit tropical\nOn danse à peine, on tient la ronde\nMinuit tropical\n\n[Verse 2: voice closer, guitar scratching]\nLes néons roses sur ta peau\nUn glaçon fond dans mon verre d'eau\nTu ne dis rien, je ne dis mot\nOn se comprend, il fait trop chaud\n\n[Chorus: full disco-funk groove, harmonies]\nMinuit tropical\nLa nuit est chaude, la nuit est longue\nMinuit tropical\nOn danse à peine, on tient la ronde\nMinuit tropical\n\n[Instrumental: synth solo, strings swelling]\n\n[Outro: bass riff, a ceiling fan, a low laugh]",
+  "taskId": "1656837afb8535067f212b3d3e2d8f17",
+  "sunoClipIds": [
+    "e082b6f6-2683-4d71-93cf-f6353285dd70",
+    "ae2607ee-1750-4aed-88a5-5274b90337f8"
+  ],
+  "created": "Nov 17, 2026 10:15 AM ET",
+  "createTimeMs": 1794928516618,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "e082b6f6-2683-4d71-93cf-f6353285dd70",
+      "durationSec": 214.8,
+      "file": "poolsidedeep/pd_10_minuit_tropical_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ae2607ee-1750-4aed-88a5-5274b90337f8",
+      "durationSec": 214.44,
+      "file": "poolsidedeep/pd_10_minuit_tropical_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_10_minuit_tropical_req.json",
+    "poolsidedeep/pd_10_minuit_tropical_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_10_minuit_tropical.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_10_minuit_tropical.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, F# minor. A tight, humid, unhurried disco-funk groove.\n\nVOICE: Female, cool, breathy and even, sung in French with almost no vibrato and a faint smile. Two-part harmonies with herself in the choruses.\n\nINSTRUMENTS: A slap-and-pop bass guitar riff, glassy electric piano and string-synth chords, a tight disco kick, snare and sixteenth-note hi-hat, a scratching rhythm guitar, an analogue synth solo, congas, a real string line in the solo.\n\nARRANGEMENT MAP: 0:00 Intro, bass riff. 0:14 Verse 1. 0:42 Chorus 1. 1:08 Verse 2. 1:36 Chorus 2. 2:02 Synth solo. 2:34 Outro, bass, a fan and a laugh, ends 3:16.\n\nPRODUCTION & MIX: Mid-2010s French space disco: a live band recorded cleanly and warmly, bass and keys forward, voice airy.\n\nSIGNATURE MOMENT: The slap bass riff at 0:00.\n\nSTATION FIT: Sunday, midnight exactly. A cool, funky vocal track for the hottest hour. Translation of the chorus: tropical midnight, the night is hot, the night is long, we barely dance.\n\nEMOTIONAL ARC: Languid, close, wordless, warm.",
+  "workbookAtAGlance": "Minuit Tropical\n\nBackup titles\nLa Nuit Est Chaude / Midnight, Thirty Degrees\n\nAt a glance\n112 BPM, F# minor\nVoice: Cool, breathy female voice in French\nLength: about 3 minutes 20",
+  "year": 2015,
+  "qa": {
+    "title": "Minuit Tropical",
+    "id": "pd_10",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2)"
+        ],
+        "durationSec": 214.8,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 0.3,
+        "lufs": -13.2,
+        "peakDbfs": -1.49,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 213.0,
+        "vocalCoverage": 0.22,
+        "vocalSpanSec": [
+          35.1,
+          186.5
+        ],
+        "vocalF0MedianHz": 269,
+        "vocalF0P25Hz": 248,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Chorus",
+          "Verse 2"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.05 dBFS (1 clipped sample, inaudible)",
+          "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2)"
+        ],
+        "durationSec": 214.5,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 0.3,
+        "lufs": -12.6,
+        "peakDbfs": 0.05,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 212.1,
+        "vocalCoverage": 0.28,
+        "vocalSpanSec": [
+          9.1,
+          181.9
+        ],
+        "vocalF0MedianHz": 367,
+        "vocalF0P25Hz": 277,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Chorus",
+          "Verse 2"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Disco"
+}

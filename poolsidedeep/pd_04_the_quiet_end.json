@@ -1,0 +1,117 @@
+{
+  "id": "pd_04",
+  "title": "The Quiet End",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 4,
+  "slug": "pd_04_the_quiet_end",
+  "inspiredBy": "Loud Places (Jamie xx feat. Romy, 2015)",
+  "leadVoice": "A woman sings the verses very quietly, almost speaking, low and close. The chorus is a mixed soul choir, bright and full, sounding as if lifted from a 1970s record. They sing together only at the end.",
+  "model": "V6",
+  "style": "Mid-2010s British electronic with a soul choir hook, verses sung very quietly and low by a woman almost speaking, chorus by a bright full mixed soul choir like a 1970s record, both together only at the end, 107 BPM, A major, slow spacious bittersweet feel with bursts of joy, steel pans, soft kick and dry clap, deep sustained bass, clean single-note guitar, strings in the choruses, handclaps, sparse dry verses and warm saturated choruses, shy, hopeful, joyful",
+  "negativeTags": "male lead vocals, rap, distorted synths, big room drop, trap hi-hats, rock guitar, fast tempo, belting solo",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: steel pan notes, soft kick, party noise far away]\n\n[Verse 1: quiet female voice, close]\nI take my glass to the quiet end\nPast the speakers, past the bend\nI'm not hiding, I'm just here\nWhere a person could be clear\n\n[Chorus: choir bursts in, wide and joyful]\nI have never been so easy to find\nCome on down, come on down\nI have never been so easy to find\nCome on down\n\n[Verse 2: quiet voice, bass under]\nLoud is fine for other people\nI like water I can hear\nIf you're looking, look for stillness\nI'm the one not moving near\n\n[Chorus: choir, handclaps, steel pan answering]\nI have never been so easy to find\nCome on down, come on down\nI have never been so easy to find\nCome on down\n\n[Break: quiet voice alone]\nYou found it.\nHi.\n\n[Final Chorus: choir and quiet voice together]\nI have never been so easy to find\nCome on down, come on down\nI have never been so easy to find\nYou came down\n\n[Outro: steel pan, two glasses touching]",
+  "taskId": "b2fc39b52a04a24bb6a58c9604a1eba3",
+  "sunoClipIds": [
+    "ac9b84dd-66c7-49f1-b917-732f0fdfdf20",
+    "01c98c49-0c91-403c-90bc-652d13ce80b5"
+  ],
+  "created": "Nov 17, 2026 10:14 AM ET",
+  "createTimeMs": 1794928486956,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ac9b84dd-66c7-49f1-b917-732f0fdfdf20",
+      "durationSec": 224.68,
+      "file": "poolsidedeep/pd_04_the_quiet_end_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "01c98c49-0c91-403c-90bc-652d13ce80b5",
+      "durationSec": 224.48,
+      "file": "poolsidedeep/pd_04_the_quiet_end_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_04_the_quiet_end_req.json",
+    "poolsidedeep/pd_04_the_quiet_end_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_04_the_quiet_end.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_04_the_quiet_end.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 107 BPM, 4/4, A major. Slow, spacious and bittersweet, with bursts of joy.\n\nVOICE: A woman sings the verses very quietly, almost speaking, low and close. The chorus is a mixed soul choir, bright and full, sounding as if lifted from a 1970s record. They sing together only at the end.\n\nINSTRUMENTS: Steel pans, a soft kick and a dry clap, a deep sustained bass, a clean guitar playing single notes, strings in the choruses, handclaps, distant party noise.\n\nARRANGEMENT MAP: 0:00 Intro, steel pan. 0:16 Verse 1. 0:46 Chorus 1, choir. 1:10 Verse 2. 1:40 Chorus 2. 2:06 Break, two spoken words. 2:20 Final chorus, together. 2:50 Outro, steel pan and glasses, ends 3:28.\n\nPRODUCTION & MIX: Mid-2010s British electronic: sparse and dry in the verses, warm and saturated in the choruses, a lot of space.\n\nSIGNATURE MOMENT: The choir bursting in at 0:46.\n\nSTATION FIT: Saturday, 8 p.m. A slow track with a big, warm chorus, for the hour when the deck fills up.\n\nEMOTIONAL ARC: Apart, hopeful, found, together.",
+  "workbookAtAGlance": "The Quiet End\n\nBackup titles\nEasy to Find / Past the Speakers\n\nAt a glance\n107 BPM, A major\nVoice: Quiet female voice with a choir hook\nLength: about 3 minutes 30",
+  "year": 2015,
+  "qa": {
+    "title": "The Quiet End",
+    "id": "pd_04",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.7,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 107,
+        "bpmErrPct": 0.6,
+        "lufs": -14.0,
+        "peakDbfs": -0.41,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 222.0,
+        "vocalCoverage": 0.319,
+        "vocalSpanSec": [
+          19.6,
+          193.7
+        ],
+        "vocalF0MedianHz": 278,
+        "vocalF0P25Hz": 248,
+        "lyricLineRecall": 0.857,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.5,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 107,
+        "bpmErrPct": 0.6,
+        "lufs": -13.5,
+        "peakDbfs": -1.24,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 223.7,
+        "vocalCoverage": 0.481,
+        "vocalSpanSec": [
+          18.7,
+          204.3
+        ],
+        "vocalF0MedianHz": 280,
+        "vocalF0P25Hz": 277,
+        "lyricLineRecall": 0.857,
+        "lyricUnclearSections": [
+          "Break"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Soul"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "pd_19",
+  "title": "Lobby Cat",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 19,
+  "slug": "pd_19_lobby_cat",
+  "inspiredBy": "Coma Cat (Tensnake, 2010)",
+  "leadVoice": "No sung vocals. Short one-syllable vocal stabs used as percussion. A doorman speaks two dry words to the cat in the break.",
+  "model": "V6",
+  "style": "2010 nu-disco instrumental, no sung vocals, short one-syllable vocal stabs used as percussion, 120 BPM, A minor with a bright major-sounding riff, bouncy stylish good-humoured feel, bright bell-like synth playing a bouncing riff, rubbery synth bass, crisp disco drums with open hi-hats, handclaps, cowbell, short string stabs, clean bright punchy mix, playful, confident, early evening",
+  "negativeTags": "sung lyrics, lead vocals, rap, distorted bass, big room drop, trap hi-hats, slow ballad, dark mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: crisp disco drums, rubbery bass line]\n\n[Riff: bright bouncing bell-like synth]\n(Hey)\n\n[Section A: riff and bass together, handclaps]\n(Hey, hey)\n\n[Section B: string stabs, cowbell, riff answers]\n\n[Break: bass alone, lobby murmur, a desk bell, a purr]\n\n[Spoken: a doorman, dry]\nEvening, sir\n\n[Riff Returns: full groove, riff doubled an octave up]\n(Hey, hey)\n\n[Outro: drums and bass, the riff fading, one small meow]",
+  "taskId": "9db003028a8b2e384f71022648fb80a1",
+  "sunoClipIds": [
+    "660d21ac-f209-43e4-af91-9066cb6404b0",
+    "be4491d7-2996-470b-bb73-5f02ca1be963"
+  ],
+  "created": "Nov 17, 2026 10:15 AM ET",
+  "createTimeMs": 1794928550317,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "660d21ac-f209-43e4-af91-9066cb6404b0",
+      "durationSec": 214.8,
+      "file": "poolsidedeep/pd_19_lobby_cat_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "be4491d7-2996-470b-bb73-5f02ca1be963",
+      "durationSec": 214.8,
+      "file": "poolsidedeep/pd_19_lobby_cat_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_19_lobby_cat_req.json",
+    "poolsidedeep/pd_19_lobby_cat_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_19_lobby_cat.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_19_lobby_cat.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, A minor with a bright, major-sounding riff. Bouncy, stylish and good-humoured.\n\nVOICE: No sung vocals. Short one-syllable vocal stabs used as percussion. A doorman speaks two dry words to the cat in the break.\n\nINSTRUMENTS: A bright, bell-like synth playing a bouncing riff, a rubbery synth bass, crisp disco drums with open hi-hats, handclaps, cowbell, short string stabs, a lobby murmur, a desk bell, a cat's purr and one meow.\n\nARRANGEMENT MAP: 0:00 Intro, drums and bass. 0:16 Riff. 0:48 Section A. 1:20 Section B, strings. 1:50 Break, bass alone. 2:02 Spoken line. 2:06 Riff returns, doubled. 2:50 Outro, one meow at 3:14.\n\nPRODUCTION & MIX: 2010 nu-disco: clean, bright and punchy, bass rubbery and forward, drums crisp.\n\nSIGNATURE MOMENT: The doorman's 'Evening, sir' at 2:02 and the riff coming back doubled.\n\nSTATION FIT: Saturday, 7:30 p.m. A bright instrumental for getting dressed and coming downstairs.\n\nEMOTIONAL ARC: Poised, strutting, amused, gone.",
+  "workbookAtAGlance": "Lobby Cat\n\nBackup titles\nOwns the Place / Marble Floor Strut\n\nAt a glance\n120 BPM, A minor\nVoice: Instrumental with short vocal stabs\nLength: about 3 minutes 20",
+  "year": 2010,
+  "qa": {
+    "title": "Lobby Cat",
+    "id": "pd_19",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 2.5,
+        "lufs": -12.0,
+        "peakDbfs": -1.09,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 214.2,
+        "vocalCoverage": 0.007,
+        "vocalSpanSec": [
+          79.4,
+          114.3
+        ],
+        "vocalF0MedianHz": 439,
+        "vocalF0P25Hz": 439,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 214.8,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 2.5,
+        "lufs": -12.1,
+        "peakDbfs": -0.82,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 213.3,
+        "vocalCoverage": 0.023,
+        "vocalSpanSec": [
+          0.5,
+          183.1
+        ],
+        "vocalF0MedianHz": 314,
+        "vocalF0P25Hz": 314,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Nu-Disco"
+}

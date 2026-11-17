@@ -1,0 +1,115 @@
+{
+  "id": "pd_20",
+  "title": "Hammock",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 20,
+  "slug": "pd_20_hammock",
+  "inspiredBy": "Feel Good (Maribou State feat. Khruangbin, 2018)",
+  "leadVoice": "Mostly instrumental. A man and a woman sing soft wordless notes and one three-word phrase, far back in reverb, as texture.",
+  "model": "V6",
+  "style": "Late-2010s psychedelic downtempo, mostly instrumental, a man and a woman singing soft wordless notes and one short phrase far back in reverb, 96 BPM with a lazy shuffle, A major, slow swaying hazy feel, clean electric guitar with spring reverb and a little wah playing a liquid melody, soft round bass guitar, slow shuffling brushed drums, congas and shaker, quiet organ, warm dry rhythm section under a shimmering guitar, drowsy, sunlit, easy",
+  "negativeTags": "full sung verses, belting, rap, synth leads, big room drop, trap hi-hats, fast tempo, harsh mix",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: liquid reverbed guitar line, soft shaker]\n\n[Section A: round bass and slow shuffling beat enter]\n\n[Voices: wordless, drifting, male and female]\nOoh, ooh\nBack and forth\n\n[Section B: guitar melody repeats, congas, organ]\n\n[Voices: closer]\nBack and forth\nBack and forth\n\n[Break: guitar alone, a rope creaking]\n\n[Section C: full groove, second guitar harmony]\nOoh, ooh\n\n[Outro: guitar line slowing, cicadas, a rope creak]",
+  "taskId": "141f458ea7c8850a67f998aaa4fbe684",
+  "sunoClipIds": [
+    "f1d25316-8d16-4d7d-81b0-48d6dbd015f8",
+    "875c5e37-5098-44e0-9c12-1d16d8066180"
+  ],
+  "created": "Nov 17, 2026 10:16 AM ET",
+  "createTimeMs": 1794928560709,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f1d25316-8d16-4d7d-81b0-48d6dbd015f8",
+      "durationSec": 213.64,
+      "file": "poolsidedeep/pd_20_hammock_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "875c5e37-5098-44e0-9c12-1d16d8066180",
+      "durationSec": 214.76,
+      "file": "poolsidedeep/pd_20_hammock_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_20_hammock_req.json",
+    "poolsidedeep/pd_20_hammock_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_20_hammock.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_20_hammock.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4 with a lazy shuffle, A major. Slow, swaying and hazy.\n\nVOICE: Mostly instrumental. A man and a woman sing soft wordless notes and one three-word phrase, far back in reverb, as texture.\n\nINSTRUMENTS: A clean electric guitar with spring reverb and a little wah playing a liquid melody, a soft, round bass guitar, a slow shuffling drum kit with brushes, congas and shaker, a quiet organ, cicadas and a creaking rope.\n\nARRANGEMENT MAP: 0:00 Intro, guitar. 0:16 Section A, bass and beat. 0:44 Voices. 1:04 Section B. 1:36 Voices. 1:52 Break, guitar alone. 2:08 Section C. 2:44 Outro, guitar slowing, ends 3:18.\n\nPRODUCTION & MIX: Late-2010s psychedelic downtempo: warm, dry rhythm section with a wet, shimmering guitar on top.\n\nSIGNATURE MOMENT: The guitar line alone with the rope creak at 1:52.\n\nSTATION FIT: Sunday, 1 p.m. The laziest track in the set, nearly instrumental, for the hottest hour.\n\nEMOTIONAL ARC: Drowsy, swaying, emptier, asleep.",
+  "workbookAtAGlance": "Hammock\n\nBackup titles\nBack and Forth / Two Trees\n\nAt a glance\n96 BPM, A major\nVoice: Mostly instrumental; drifting wordless voices\nLength: about 3 minutes 20",
+  "year": 2018,
+  "qa": {
+    "title": "Hammock",
+    "id": "pd_20",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 213.7,
+        "measuredBpm": 95.7,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 0.3,
+        "lufs": -12.9,
+        "peakDbfs": -0.43,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 212.3,
+        "vocalCoverage": 0.352,
+        "vocalSpanSec": [
+          17.6,
+          198.7
+        ],
+        "vocalF0MedianHz": 327,
+        "vocalF0P25Hz": 292,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 95.7,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 0.3,
+        "lufs": -13.3,
+        "peakDbfs": -1.5,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 212.5,
+        "vocalCoverage": 0.28,
+        "vocalSpanSec": [
+          17.6,
+          194.8
+        ],
+        "vocalF0MedianHz": 358,
+        "vocalF0P25Hz": 298,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Downtempo"
+}

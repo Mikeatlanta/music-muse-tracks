@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Lobby Cat",
+  "prompt": "[Intro: crisp disco drums, rubbery bass line]\n\n[Riff: bright bouncing bell-like synth]\n(Hey)\n\n[Section A: riff and bass together, handclaps]\n(Hey, hey)\n\n[Section B: string stabs, cowbell, riff answers]\n\n[Break: bass alone, lobby murmur, a desk bell, a purr]\n\n[Spoken: a doorman, dry]\nEvening, sir\n\n[Riff Returns: full groove, riff doubled an octave up]\n(Hey, hey)\n\n[Outro: drums and bass, the riff fading, one small meow]",
+  "style": "2010 nu-disco instrumental, no sung vocals, short one-syllable vocal stabs used as percussion, 120 BPM, A minor with a bright major-sounding riff, bouncy stylish good-humoured feel, bright bell-like synth playing a bouncing riff, rubbery synth bass, crisp disco drums with open hi-hats, handclaps, cowbell, short string stabs, clean bright punchy mix, playful, confident, early evening",
+  "negativeTags": "sung lyrics, lead vocals, rap, distorted bass, big room drop, trap hi-hats, slow ballad, dark mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

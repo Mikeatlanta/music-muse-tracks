@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Salt on My Lips",
+  "prompt": "[Intro: soft muffled kick, grainy chords, distant gulls]\n\n[Verse 1: fragile, close female voice]\nFive o'clock, the sand is cold\nNobody's up, nobody's told\nI left my shoes beside the gate\nWalked in slow, up to my waist\n\n[Chorus: wooden plucked melody, voice doubled]\nSalt on my lips\nCold on my skin\nI came out here empty\nThe sea filled me in\nSalt on my lips\n\n[Verse 2: a little louder, hi-hat enters]\nThe sky goes gray, then gray goes gold\nA fishing boat, a line unrolled\nI don't swim far, I only stand\nAnd let it take what's in my hands\n\n[Chorus: wooden plucked melody, voice doubled]\nSalt on my lips\nCold on my skin\nI came out here empty\nThe sea filled me in\nSalt on my lips\n\n[Outro: kick fading, small waves, footsteps on sand]",
+  "style": "Mid-2010s melancholic melodic techno at walking pace, fragile quiet female vocal recorded close but soft as if singing to herself, doubled a third above in the choruses, 112 BPM, E minor ending on a major chord, slow grey tender still feel, soft muffled kick, grainy tape-worn synth chords, wooden plucked melody like a marimba or kalimba, quiet sub bass, closed hi-hat, field recordings of small waves and gulls, soft grainy muted mix, wistful, solitary, dawn",
+  "negativeTags": "male lead vocals, belting, rap, bright synth leads, big room drop, trap hi-hats, rock guitar, cheerful pop",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

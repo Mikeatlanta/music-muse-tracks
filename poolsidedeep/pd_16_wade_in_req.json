@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Wade In",
+  "prompt": "[Intro: shimmering pad, soft plucks, morning birds]\n\n[Verse 1: airy male falsetto]\nCold to the ankles\nCold to the knees\nNobody's watching\nGo as you please\n\n[Chorus: soft beat enters, harmonies]\nWade in, wade in\nOne step, then the next\nWade in, wade in\nYou don't have to jump yet\n\n[Drop: plucked synth melody, sub bass, snaps]\n\n[Verse 2: falsetto, a little fuller]\nUp to the waist now\nUp to the chest\nBreathe out and lean back\nWater does the rest\n\n[Chorus: soft beat, harmonies]\nWade in, wade in\nOne step, then the next\nWade in, wade in\nYou don't have to jump yet\n\n[Outro: pad and plucks, one long breath, water]",
+  "style": "Late-2010s chill electronic, high breathy gentle male falsetto with soft stacked harmonies in the choruses, no chest voice, 100 BPM, G major, slow bright airy feel, shimmering soft-attack synth pads, plucked bell-like synth melody, gentle kick with finger snaps, warm sub bass, clean guitar harmonics, birdsong, soft glassy wide mix, hopeful, gentle, fresh",
+  "negativeTags": "female lead vocals, belting, rap, distorted synths, big room drop, trap hi-hats, rock guitar, dark mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

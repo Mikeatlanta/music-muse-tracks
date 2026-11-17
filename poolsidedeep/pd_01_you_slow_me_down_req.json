@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "You Slow Me Down",
+  "prompt": "[Intro: soft arpeggio, warm pad, no drums]\n\n[Vocal: warm male voice, close]\nYou slow me down\nIn the good way\n\n[Build: kick enters, arpeggio opens, bass]\n\n[Vocal: same line, doubled]\nYou slow me down\nIn the good way\nYou slow me down\n\n[Drop: full melodic house groove, lead arpeggio on top]\n\n[Break: pad and voice alone]\nIn the good way\nIn the good way\n\n[Build: snare roll, filter rising]\n\n[Drop: full groove, strings joining]\nYou slow me down\nIn the good way\nYou slow me down\n\n[Outro: arpeggio alone, slowing]",
+  "style": "Late-2010s melodic house, warm plain mid-range male vocal sung softly and close, only two short lines repeated like a mantra, doubled an octave up later, 122 BPM, A minor moving to C major in the drops, warm patient feel, rising analogue arpeggio, soft four-on-the-floor kick, rounded bass, warm pads, brighter lead arpeggio in the drops, soft claps and shakers, strings at the end, clean wide warm mix, tender, hopeful, calm",
+  "negativeTags": "female lead vocals, full verses, rap, distorted bass, big room drop, trap hi-hats, rock guitar, harsh synths",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "pd_18",
+  "title": "Gray Is Fine",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 18,
+  "slug": "pd_18_gray_is_fine",
+  "inspiredBy": "Painting Greys (Emmit Fenn, 2017)",
+  "leadVoice": "Male, low, soft and close, almost spoken, with a slight grain. Doubled an octave up, very quietly, in the choruses.",
+  "model": "V6",
+  "style": "Late-2010s electronic piano ballad, low soft close almost spoken male vocal with a slight grain, doubled very quietly an octave up in the choruses, 78 BPM, A minor ending on a major chord, very slow still warm feel, felt-damped piano, soft electronic kick and rim click entering with the chorus, deep sub bass, quiet pad, a few plucked guitar notes, rain on water, intimate dry mix, calm, accepting, cosy",
+  "negativeTags": "female lead vocals, belting, rap, fast tempo, bright synth leads, big room drop, trap hi-hats, rock guitar",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: slow piano chords, rain on water]\n\n[Verse 1: low intimate male voice]\nNo sun today, the sky's a sheet\nLoungers folded, wet concrete\nThe pool is rings on rings on rings\nI'm at the window, watching things\n\n[Chorus: soft beat enters, voice doubled]\nGray is fine\nGray is fine\nI don't need it blue to call it mine\nCoffee, quiet, rain on the line\nGray is fine\n\n[Verse 2: voice a little warmer]\nYou're still asleep, the sheet's a hill\nThe radio is low and still\nNobody's calling, nothing's planned\nI've got a warm cup in my hand\n\n[Chorus: soft beat, sub bass, voice doubled]\nGray is fine\nGray is fine\nI don't need it blue to call it mine\nCoffee, quiet, rain on the line\nGray is fine\n\n[Outro: piano, rain easing, a spoon in a cup]",
+  "taskId": "1a5e1fcef8ce46d6355ef60ace676b1c",
+  "sunoClipIds": [
+    "954838cf-4258-494b-a58a-e2ef932305d5",
+    "37fd20f0-f281-4d21-9f76-4c70a973b27f"
+  ],
+  "created": "Nov 17, 2026 10:15 AM ET",
+  "createTimeMs": 1794928536447,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "954838cf-4258-494b-a58a-e2ef932305d5",
+      "durationSec": 214.76,
+      "file": "poolsidedeep/pd_18_gray_is_fine_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "37fd20f0-f281-4d21-9f76-4c70a973b27f",
+      "durationSec": 214.8,
+      "file": "poolsidedeep/pd_18_gray_is_fine_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_18_gray_is_fine_req.json",
+    "poolsidedeep/pd_18_gray_is_fine_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_18_gray_is_fine.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_18_gray_is_fine.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 78 BPM, 4/4, A minor ending on C major. Very slow, still and warm.\n\nVOICE: Male, low, soft and close, almost spoken, with a slight grain. Doubled an octave up, very quietly, in the choruses.\n\nINSTRUMENTS: A felt-damped piano, a soft electronic kick and rim click that enter with the chorus, a deep sub bass, a quiet pad, a few plucked guitar notes, rain on water throughout.\n\nARRANGEMENT MAP: 0:00 Intro, piano and rain. 0:18 Verse 1. 0:54 Chorus 1, beat in. 1:26 Verse 2. 2:02 Chorus 2. 2:34 Outro, piano, rain easing, a spoon at 3:10.\n\nPRODUCTION & MIX: Late-2010s electronic ballad: intimate and dry, piano and voice close, beat and bass soft and low.\n\nSIGNATURE MOMENT: 'I don't need it blue to call it mine' at 1:06.\n\nSTATION FIT: Sunday, 10 a.m., in the rain. The slowest and quietest vocal track, for a morning indoors.\n\nEMOTIONAL ARC: Flat, noticing, content, warm.",
+  "workbookAtAGlance": "Gray Is Fine\n\nBackup titles\nRain on the Pool / Nobody's Complaining\n\nAt a glance\n78 BPM, A minor\nVoice: Low, intimate male voice\nLength: about 3 minutes 20",
+  "year": 2017,
+  "qa": {
+    "title": "Gray Is Fine",
+    "id": "pd_18",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 78.3,
+        "bpmFactor": 1,
+        "targetBpm": 78,
+        "bpmErrPct": 0.4,
+        "lufs": -14.2,
+        "peakDbfs": -0.23,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 3.4,
+        "contentEndSec": 214.1,
+        "vocalCoverage": 0.207,
+        "vocalSpanSec": [
+          13.6,
+          160.5
+        ],
+        "vocalF0MedianHz": 154,
+        "vocalF0P25Hz": 147,
+        "lyricLineRecall": 0.944,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 78.3,
+        "bpmFactor": 1,
+        "targetBpm": 78,
+        "bpmErrPct": 0.4,
+        "lufs": -14.1,
+        "peakDbfs": -0.14,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 212.8,
+        "vocalCoverage": 0.265,
+        "vocalSpanSec": [
+          25.1,
+          151.6
+        ],
+        "vocalF0MedianHz": 143,
+        "vocalF0P25Hz": 130,
+        "lyricLineRecall": 0.944,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Piano Ballad"
+}

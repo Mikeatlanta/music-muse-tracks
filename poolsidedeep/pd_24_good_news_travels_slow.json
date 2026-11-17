@@ -1,0 +1,117 @@
+{
+  "id": "pd_24",
+  "title": "Good News Travels Slow",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 24,
+  "slug": "pd_24_good_news_travels_slow",
+  "inspiredBy": "Keep the Faith (Moon Boots feat. Nic Hanson, 2017)",
+  "leadVoice": "Female alto, warm and soulful, relaxed in the verses and lifting with a little grit in the choruses. A small mixed choir answers her in the choruses and bridge.",
+  "model": "V6",
+  "style": "Late-2010s soulful house with a gospel lift, warm soulful female alto vocal relaxed in the verses and lifting with a little grit in the choruses, small mixed choir answering, 120 BPM, F major, warm rolling joyful feel, bright house piano chords, rolling bass guitar, four-on-the-floor kick with handclaps and finger snaps, Hammond organ, tambourine, short brass stab, warm clean full mix, relieved, grateful, sunny",
+  "negativeTags": "male lead vocals, rap, distorted bass, big room drop, trap hi-hats, dark mood, harsh synths, slow ballad",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: house piano chords, finger snaps, organ swell]\n\n[Verse 1: warm soulful female alto]\nBad news runs, it kicks the door\nThree a.m., it's on the floor\nGood news likes to take its time\nStops for coffee, waits in line\n\n[Chorus: full soulful house groove, small choir]\nGood news travels slow\nBut it gets here, oh, it gets here\nGood news travels slow\nTook the long road all year\nPhone lit up at noon, and now I know\nGood news travels slow\n\n[Verse 2: voice lifting, handclaps]\nI kept the ringer loud for weeks\nSlept with the phone against my cheek\nThen here, wet hands, the midday sun\nOne short line: it's good, it's done\n\n[Chorus: full soulful house groove, small choir]\nGood news travels slow\nBut it gets here, oh, it gets here\nGood news travels slow\nTook the long road all year\nPhone lit up at noon, and now I know\nGood news travels slow\n\n[Bridge: piano and claps only, choir answering]\n(It gets here) Wait on it\n(It gets here) Don't you quit\n(It gets here) Every bit\n\n[Outro: piano, choir humming, a splash, laughing]",
+  "taskId": "b1aef92f55cd7db9b5e339b4785128d0",
+  "sunoClipIds": [
+    "170ac13a-07e7-4ca4-a9df-344a0b439851",
+    "a8a4fb57-7c9e-48d0-a0d1-11f2df8b54c1"
+  ],
+  "created": "Nov 17, 2026 10:16 AM ET",
+  "createTimeMs": 1794928573097,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "170ac13a-07e7-4ca4-a9df-344a0b439851",
+      "durationSec": 224.4,
+      "file": "poolsidedeep/pd_24_good_news_travels_slow_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a8a4fb57-7c9e-48d0-a0d1-11f2df8b54c1",
+      "durationSec": 224.2,
+      "file": "poolsidedeep/pd_24_good_news_travels_slow_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_24_good_news_travels_slow_req.json",
+    "poolsidedeep/pd_24_good_news_travels_slow_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_24_good_news_travels_slow.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_24_good_news_travels_slow.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, F major. Warm, rolling and joyful soulful house.\n\nVOICE: Female alto, warm and soulful, relaxed in the verses and lifting with a little grit in the choruses. A small mixed choir answers her in the choruses and bridge.\n\nINSTRUMENTS: Bright house piano chords, a rolling bass guitar, a four-on-the-floor kick with handclaps and finger snaps, a Hammond organ, a tambourine, a short brass stab in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:16 Verse 1. 0:46 Chorus 1. 1:18 Verse 2. 1:48 Chorus 2. 2:20 Bridge, piano and claps. 2:44 Outro, choir humming, a splash at 3:20.\n\nPRODUCTION & MIX: Late-2010s soulful house: warm, clean and full, piano and voice in front, choir wide.\n\nSIGNATURE MOMENT: 'One short line: it's good, it's done' at 1:42, just before the chorus returns.\n\nSTATION FIT: Sunday, noon. The happiest track of the morning, with a gospel lift for the middle of the day.\n\nEMOTIONAL ARC: Braced, waiting, relieved, laughing.",
+  "workbookAtAGlance": "Good News Travels Slow\n\nBackup titles\nPhone Lit Up at Noon / It Gets Here\n\nAt a glance\n120 BPM, F major\nVoice: Warm, soulful female alto with a small choir\nLength: about 3 minutes 30",
+  "year": 2017,
+  "qa": {
+    "title": "Good News Travels Slow",
+    "id": "pd_24",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.4,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 2.5,
+        "lufs": -13.6,
+        "peakDbfs": -0.32,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 223.4,
+        "vocalCoverage": 0.717,
+        "vocalSpanSec": [
+          5.0,
+          202.2
+        ],
+        "vocalF0MedianHz": 471,
+        "vocalF0P25Hz": 349,
+        "lyricLineRecall": 0.913,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.25 dBFS (2 clipped sample, inaudible)"
+        ],
+        "durationSec": 224.2,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 2.5,
+        "lufs": -13.4,
+        "peakDbfs": 0.25,
+        "clipSamples": 2,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 222.1,
+        "vocalCoverage": 0.734,
+        "vocalSpanSec": [
+          9.1,
+          207.0
+        ],
+        "vocalF0MedianHz": 442,
+        "vocalF0P25Hz": 351,
+        "lyricLineRecall": 0.957,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "House"
+}

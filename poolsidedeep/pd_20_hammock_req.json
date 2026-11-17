@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Hammock",
+  "prompt": "[Intro: liquid reverbed guitar line, soft shaker]\n\n[Section A: round bass and slow shuffling beat enter]\n\n[Voices: wordless, drifting, male and female]\nOoh, ooh\nBack and forth\n\n[Section B: guitar melody repeats, congas, organ]\n\n[Voices: closer]\nBack and forth\nBack and forth\n\n[Break: guitar alone, a rope creaking]\n\n[Section C: full groove, second guitar harmony]\nOoh, ooh\n\n[Outro: guitar line slowing, cicadas, a rope creak]",
+  "style": "Late-2010s psychedelic downtempo, mostly instrumental, a man and a woman singing soft wordless notes and one short phrase far back in reverb, 96 BPM with a lazy shuffle, A major, slow swaying hazy feel, clean electric guitar with spring reverb and a little wah playing a liquid melody, soft round bass guitar, slow shuffling brushed drums, congas and shaker, quiet organ, warm dry rhythm section under a shimmering guitar, drowsy, sunlit, easy",
+  "negativeTags": "full sung verses, belting, rap, synth leads, big room drop, trap hi-hats, fast tempo, harsh mix",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

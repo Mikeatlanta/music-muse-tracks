@@ -1,0 +1,117 @@
+{
+  "id": "pd_21",
+  "title": "Starfish Float",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 21,
+  "slug": "pd_21_starfish_float",
+  "inspiredBy": "SWIM (Mild Minds, 2020)",
+  "leadVoice": "Male, soft and high, run through a vocoder-like effect and tape saturation so that it sounds half-synthetic and blurred. Doubled in the choruses. Fragments echo in the middle section.",
+  "model": "V6",
+  "style": "2020 lo-fi house, soft high male vocal run through a vocoder-like effect and tape saturation so it sounds half-synthetic and blurred, doubled in the choruses, 118 BPM, D major, hazy warm weightless feel, warm wobbling lo-fi chord stabs, soft thumping kick, rounded bass, shuffling hi-hat, tape hiss, low-pass filter making the intro and break sound as if heard under water, simple bell melody, saturated soft blurred mix, dreamy, calm, floating",
+  "negativeTags": "female lead vocals, clear dry vocals, rap, distorted guitar, big room drop, trap hi-hats, bright pop, harsh highs",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: muffled lo-fi chords, as if heard under water]\n\n[Vocal: hazy processed male voice]\nArms out, ears under\nSky and nothing\nArms out, ears under\n\n[Beat Enters: soft thumping kick, warm bass, the filter lifts]\n\n[Chorus: voice doubled, chords bright]\nStarfish float\nLet it hold you\nStarfish float\nNothing to do\nStarfish float\n\n[Section: lo-fi chords, shuffling hi-hat, vocal fragments]\n(Hold you, hold you)\n\n[Break: muffled again, breathing]\n\n[Chorus: voice doubled, chords bright]\nStarfish float\nLet it hold you\nStarfish float\nNothing to do\nStarfish float\n\n[Outro: chords sink back under water, one breath]",
+  "taskId": "28a6bf6a5b4681e026a72f615e361167",
+  "sunoClipIds": [
+    "2be25fb3-2920-4151-8051-d46c8e274066",
+    "f6d83854-f44b-481b-9ef3-6795394a1cab"
+  ],
+  "created": "Nov 17, 2026 10:15 AM ET",
+  "createTimeMs": 1794928546492,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "2be25fb3-2920-4151-8051-d46c8e274066",
+      "durationSec": 204.12,
+      "file": "poolsidedeep/pd_21_starfish_float_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "f6d83854-f44b-481b-9ef3-6795394a1cab",
+      "durationSec": 204.36,
+      "file": "poolsidedeep/pd_21_starfish_float_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_21_starfish_float_req.json",
+    "poolsidedeep/pd_21_starfish_float_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_21_starfish_float.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_21_starfish_float.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, D major. Hazy, warm and weightless lo-fi house.\n\nVOICE: Male, soft and high, run through a vocoder-like effect and tape saturation so that it sounds half-synthetic and blurred. Doubled in the choruses. Fragments echo in the middle section.\n\nINSTRUMENTS: Warm, wobbling lo-fi chord stabs, a soft thumping kick, a rounded bass, a shuffling hi-hat, tape hiss, a low-pass filter that makes the intro and break sound as if heard under water, a simple bell melody.\n\nARRANGEMENT MAP: 0:00 Intro, muffled. 0:18 Vocal. 0:40 Beat enters, filter lifts. 0:56 Chorus 1. 1:24 Middle section. 1:52 Break, muffled. 2:08 Chorus 2. 2:36 Outro, sinking back, ends 3:08.\n\nPRODUCTION & MIX: 2020 lo-fi house: saturated, soft and blurred on purpose, kick pillowy, voice inside the chords.\n\nSIGNATURE MOMENT: The filter lifting as the beat enters at 0:40, like ears coming out of the water.\n\nSTATION FIT: Sunday, 9 a.m. A hazy mid-tempo track for the first float of the day.\n\nEMOTIONAL ARC: Muffled, held, weightless, under again.",
+  "workbookAtAGlance": "Starfish Float\n\nBackup titles\nEars Under / Sky and Nothing\n\nAt a glance\n118 BPM, D major\nVoice: Hazy, processed male voice\nLength: about 3 minutes 10",
+  "year": 2020,
+  "qa": {
+    "title": "Starfish Float",
+    "id": "pd_21",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.1,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 0.5,
+        "lufs": -14.0,
+        "peakDbfs": -1.21,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 203.3,
+        "vocalCoverage": 0.202,
+        "vocalSpanSec": [
+          12.0,
+          183.3
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 277,
+        "lyricLineRecall": 0.875,
+        "lyricUnclearSections": [
+          "Section"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.4,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 4.3,
+        "lufs": -13.0,
+        "peakDbfs": -1.16,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 202.6,
+        "vocalCoverage": 0.376,
+        "vocalSpanSec": [
+          10.3,
+          169.9
+        ],
+        "vocalF0MedianHz": 369,
+        "vocalF0P25Hz": 349,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "House"
+}

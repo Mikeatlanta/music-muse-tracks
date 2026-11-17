@@ -1,0 +1,115 @@
+{
+  "id": "pd_11",
+  "title": "After the Pool Lights",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 11,
+  "slug": "pd_11_after_the_pool_lights",
+  "inspiredBy": "Clair de Lune (Flight Facilities feat. Christine Hoberg, 2012)",
+  "leadVoice": "Female, whispering and close, almost spoken, with long pauses. Doubled softly in the choruses. She hums wordlessly between the verses.",
+  "model": "V6",
+  "style": "Early-2010s dream pop and downtempo, whispering close almost spoken female vocal with long pauses, softly doubled in the choruses, wordless humming, 90 BPM, D-flat major, very slow dreamy patient feel with the beat entering only halfway, soft slow piano figure, warm pads, slow kick and brushed snare arriving late, deep rounded bass, string section, glockenspiel, soft wide warm mix with long reverbs, moonlit, intimate, serene",
+  "negativeTags": "male lead vocals, belting, rap, distorted synths, fast tempo, big room drop, trap hi-hats, rock guitar",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: slow piano figure, soft pad, crickets]\n\n[Verse 1: whispering female voice]\nClick, and the blue goes out\nThe water turns to ink\nNobody told the two of us\nSo we don't move, we don't think\n\n[Section: piano and pad, no beat, wordless humming]\n\n[Verse 2: voice barely louder]\nThen one white coin\nComes up from underneath\nThe whole sky's in the deep end\nShaking like a leaf\n\n[Beat Enters: slow kick, brushed snare, bass]\n\n[Chorus: voice doubled, strings]\nAfter the pool lights\nThere's only the moon\nAfter the pool lights\nThere's only me and you\nAnd nothing we have to do\n\n[Instrumental: piano melody over the slow beat, strings]\n\n[Chorus: voice doubled, strings]\nAfter the pool lights\nThere's only the moon\nAfter the pool lights\nThere's only me and you\nAnd nothing we have to do\n\n[Outro: piano alone, slowing, one drop in water]",
+  "taskId": "6beec8b1b93a534ac9700f94e0ff4d61",
+  "sunoClipIds": [
+    "b6194212-7a49-4411-89dd-b5e8eda77d7c",
+    "5031f4f2-e9cc-4645-8c01-3a8d2e159fac"
+  ],
+  "created": "Nov 17, 2026 10:15 AM ET",
+  "createTimeMs": 1794928528302,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "b6194212-7a49-4411-89dd-b5e8eda77d7c",
+      "durationSec": 284.76,
+      "file": "poolsidedeep/pd_11_after_the_pool_lights_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5031f4f2-e9cc-4645-8c01-3a8d2e159fac",
+      "durationSec": 284.68,
+      "file": "poolsidedeep/pd_11_after_the_pool_lights_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_11_after_the_pool_lights_req.json",
+    "poolsidedeep/pd_11_after_the_pool_lights_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_11_after_the_pool_lights.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_11_after_the_pool_lights.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 90 BPM, 4/4, D-flat major. Very slow, dreamy and patient; the beat does not enter until halfway.\n\nVOICE: Female, whispering and close, almost spoken, with long pauses. Doubled softly in the choruses. She hums wordlessly between the verses.\n\nINSTRUMENTS: A soft, slow piano figure, warm pads, a slow kick and brushed snare that enter late, a deep rounded bass, a string section, a glockenspiel, crickets and a single drop of water.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:24 Verse 1. 0:56 Humming, no beat. 1:20 Verse 2. 1:52 Beat enters. 2:08 Chorus 1. 2:40 Instrumental. 3:12 Chorus 2. 3:44 Outro, piano slowing, a drop at 4:24.\n\nPRODUCTION & MIX: Early-2010s dream pop and downtempo: soft, wide and warm, long reverbs, the voice right at the ear.\n\nSIGNATURE MOMENT: The beat arriving at 1:52.\n\nSTATION FIT: Sunday, 2:30 a.m. The slowest vocal track in the set, for when almost everyone has gone.\n\nEMOTIONAL ARC: Hushed, watching, awed, at rest.",
+  "workbookAtAGlance": "After the Pool Lights\n\nBackup titles\nOnly the Moon Now / The Water Went Dark\n\nAt a glance\n90 BPM, D-flat major\nVoice: Whispering female voice\nLength: about 4 minutes 30",
+  "year": 2012,
+  "qa": {
+    "title": "After the Pool Lights",
+    "id": "pd_11",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.8,
+        "measuredBpm": 86.1,
+        "bpmFactor": 1,
+        "targetBpm": 90,
+        "bpmErrPct": 4.3,
+        "lufs": -13.6,
+        "peakDbfs": -0.76,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 283.2,
+        "vocalCoverage": 0.39,
+        "vocalSpanSec": [
+          22.2,
+          258.8
+        ],
+        "vocalF0MedianHz": 312,
+        "vocalF0P25Hz": 298,
+        "lyricLineRecall": 0.944,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.7,
+        "measuredBpm": 86.1,
+        "bpmFactor": 1,
+        "targetBpm": 90,
+        "bpmErrPct": 4.3,
+        "lufs": -12.8,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 283.2,
+        "vocalCoverage": 0.339,
+        "vocalSpanSec": [
+          22.6,
+          269.7
+        ],
+        "vocalF0MedianHz": 311,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Downtempo"
+}

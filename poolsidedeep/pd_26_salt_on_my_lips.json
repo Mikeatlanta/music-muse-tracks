@@ -1,0 +1,115 @@
+{
+  "id": "pd_26",
+  "title": "Salt on My Lips",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 26,
+  "slug": "pd_26_salt_on_my_lips",
+  "inspiredBy": "Haul (Christian Löffler feat. Mohna, 2016)",
+  "leadVoice": "Female, fragile and quiet, recorded close but soft, as if singing to herself. Doubled a third above in the choruses.",
+  "model": "V6",
+  "style": "Mid-2010s melancholic melodic techno at walking pace, fragile quiet female vocal recorded close but soft as if singing to herself, doubled a third above in the choruses, 112 BPM, E minor ending on a major chord, slow grey tender still feel, soft muffled kick, grainy tape-worn synth chords, wooden plucked melody like a marimba or kalimba, quiet sub bass, closed hi-hat, field recordings of small waves and gulls, soft grainy muted mix, wistful, solitary, dawn",
+  "negativeTags": "male lead vocals, belting, rap, bright synth leads, big room drop, trap hi-hats, rock guitar, cheerful pop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft muffled kick, grainy chords, distant gulls]\n\n[Verse 1: fragile, close female voice]\nFive o'clock, the sand is cold\nNobody's up, nobody's told\nI left my shoes beside the gate\nWalked in slow, up to my waist\n\n[Chorus: wooden plucked melody, voice doubled]\nSalt on my lips\nCold on my skin\nI came out here empty\nThe sea filled me in\nSalt on my lips\n\n[Verse 2: a little louder, hi-hat enters]\nThe sky goes gray, then gray goes gold\nA fishing boat, a line unrolled\nI don't swim far, I only stand\nAnd let it take what's in my hands\n\n[Chorus: wooden plucked melody, voice doubled]\nSalt on my lips\nCold on my skin\nI came out here empty\nThe sea filled me in\nSalt on my lips\n\n[Outro: kick fading, small waves, footsteps on sand]",
+  "taskId": "6c103a2089434ecd34adb173c599835a",
+  "sunoClipIds": [
+    "b1da35c7-48ee-4419-ae1c-4a93c1ccfe97",
+    "5d43cb5a-7b4c-4bb6-8103-c2167680fe90"
+  ],
+  "created": "Nov 17, 2026 10:16 AM ET",
+  "createTimeMs": 1794928566888,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "b1da35c7-48ee-4419-ae1c-4a93c1ccfe97",
+      "durationSec": 224.32,
+      "file": "poolsidedeep/pd_26_salt_on_my_lips_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5d43cb5a-7b4c-4bb6-8103-c2167680fe90",
+      "durationSec": 224.36,
+      "file": "poolsidedeep/pd_26_salt_on_my_lips_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_26_salt_on_my_lips_req.json",
+    "poolsidedeep/pd_26_salt_on_my_lips_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_26_salt_on_my_lips.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_26_salt_on_my_lips.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, E minor ending on G major. Slow, grey, tender and still.\n\nVOICE: Female, fragile and quiet, recorded close but soft, as if singing to herself. Doubled a third above in the choruses.\n\nINSTRUMENTS: A soft, muffled kick, grainy, tape-worn synth chords, a wooden plucked melody like a marimba or kalimba, a quiet sub bass, a closed hi-hat, field recordings of small waves, gulls and footsteps.\n\nARRANGEMENT MAP: 0:00 Intro, kick and chords. 0:26 Verse 1. 0:58 Chorus 1. 1:28 Verse 2. 2:00 Chorus 2. 2:32 Outro, kick fading into waves and footsteps, ends 3:28.\n\nPRODUCTION & MIX: Mid-2010s melancholic melodic techno: soft, grainy and muted, like a faded photograph, voice inside the chords.\n\nSIGNATURE MOMENT: 'I came out here empty, the sea filled me in' at 1:10.\n\nSTATION FIT: Sunday, 5 a.m. The hour before sunrise, for whoever is already up and wants to be alone.\n\nEMOTIONAL ARC: Hollow, cold, eased, lighter.",
+  "workbookAtAGlance": "Salt on My Lips\n\nBackup titles\nUp to My Waist / Five O'Clock Sea\n\nAt a glance\n112 BPM, E minor\nVoice: Fragile, close female voice\nLength: about 3 minutes 30",
+  "year": 2016,
+  "qa": {
+    "title": "Salt on My Lips",
+    "id": "pd_26",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.3,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 0.3,
+        "lufs": -12.9,
+        "peakDbfs": -0.68,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.4,
+        "contentEndSec": 220.3,
+        "vocalCoverage": 0.171,
+        "vocalSpanSec": [
+          17.3,
+          173.5
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 248,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.4,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 0.3,
+        "lufs": -13.7,
+        "peakDbfs": -1.11,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 223.5,
+        "vocalCoverage": 0.225,
+        "vocalSpanSec": [
+          17.3,
+          195.3
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 248,
+        "lyricLineRecall": 0.889,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Techno"
+}

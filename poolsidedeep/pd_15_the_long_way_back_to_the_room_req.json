@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "The Long Way Back to the Room",
+  "prompt": "[Intro: driving kick, dark rolling bass, distant surf]\n\n[Verse 1: soft folk-like male voice]\nShoes in my hand, the music's behind me\nThe lobby's bright, I go around\nSand all the way to the last umbrella\nNobody knows I'm not in bed\n\n[Chorus: synth lead rising, voice doubled]\nI'm taking the long way back to the room\nLow tide, no shoes, half a moon\nNothing waiting, nothing due\nThe long way back to the room\n\n[Breakdown: beat stops, pad and voice alone]\nLet it be late\nLet it be late\nI'm not done with the air\n\n[Build: arpeggio climbing, snare roll]\n\n[Drop: full driving groove, lead melody]\n\n[Chorus: voice over the full groove]\nI'm taking the long way back to the room\nLow tide, no shoes, half a moon\nNothing waiting, nothing due\nThe long way back to the room\n\n[Outro: kick and bass, a key card beep, a door]",
+  "style": "Late-2010s melodic techno with a folk-like vocal, soft slightly breathy calm male voice with a faint accent, doubled in the choruses, alone with a pad in a long breakdown, 123 BPM, G minor, driving dark hypnotic feel with a gentle top line, firm four-on-the-floor kick, dark rolling bassline, plaintive analogue synth lead, climbing arpeggio, crisp hi-hats, long pads, quiet strummed acoustic guitar, deep dark wide mix, wistful, solitary, nocturnal",
+  "negativeTags": "female lead vocals, belting, rap, bright pop chorus, trap hi-hats, brass, cheerful major key, rock drums",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

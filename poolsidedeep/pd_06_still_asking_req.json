@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Still Asking",
+  "prompt": "[Intro: slide guitar phrase, lazy disco beat, round bass]\n\n[Verse 1: soft relaxed male voice]\nBand's packing up, the lights are low\nYou've got your shoes off, good to go\nI cross the deck, I clear my throat\nSame as that night on your daddy's boat\n\n[Chorus: full groove, harmonies, slide guitar answering]\nI'm still asking\nMay I have this one?\nThirty years of yes\nAnd I still don't assume\nStill asking\nCome on, the night's still young\n\n[Verse 2: voice warmer]\nYou roll your eyes, you take my hand\nYou say, \"You know you don't have to ask, old man\"\nI know I don't. That's why I do.\nIt's the best part of dancing with you.\n\n[Chorus: full groove, harmonies, slide guitar answering]\nI'm still asking\nMay I have this one?\nThirty years of yes\nAnd I still don't assume\nStill asking\nCome on, the night's still young\n\n[Instrumental: slide guitar solo, handclaps]\n\n[Outro: groove, bare feet on stone, \"Yes.\"]",
+  "style": "Early-2010s Californian daytime disco, soft light unhurried male vocal sung almost under his breath with a smile, gentle harmonies in the choruses, 104 BPM, D major, lazy warm sway, slide guitar with long sweet phrases, round melodic bass guitar, soft disco kick and hi-hat, clean rhythm guitar, electric piano, congas, handclaps, slide guitar solo, warm soft analogue mix, romantic, gentle, easy",
+  "negativeTags": "female lead vocals, belting, rap, distorted synths, big room drop, trap hi-hats, fast tempo, harsh mix",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

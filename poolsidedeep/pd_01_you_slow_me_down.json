@@ -1,0 +1,119 @@
+{
+  "id": "pd_01",
+  "title": "You Slow Me Down",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 1,
+  "slug": "pd_01_you_slow_me_down",
+  "inspiredBy": "Because You Move Me (Tinlicker & Helsloot, 2017)",
+  "leadVoice": "Male, warm and plain, mid-range, sung softly and close with a little reverb. He sings only two short lines, repeated. Doubled an octave up later.",
+  "model": "V6",
+  "style": "Late-2010s melodic house, warm plain mid-range male vocal sung softly and close, only two short lines repeated like a mantra, doubled an octave up later, 122 BPM, A minor moving to C major in the drops, warm patient feel, rising analogue arpeggio, soft four-on-the-floor kick, rounded bass, warm pads, brighter lead arpeggio in the drops, soft claps and shakers, strings at the end, clean wide warm mix, tender, hopeful, calm",
+  "negativeTags": "female lead vocals, full verses, rap, distorted bass, big room drop, trap hi-hats, rock guitar, harsh synths",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft arpeggio, warm pad, no drums]\n\n[Vocal: warm male voice, close]\nYou slow me down\nIn the good way\n\n[Build: kick enters, arpeggio opens, bass]\n\n[Vocal: same line, doubled]\nYou slow me down\nIn the good way\nYou slow me down\n\n[Drop: full melodic house groove, lead arpeggio on top]\n\n[Break: pad and voice alone]\nIn the good way\nIn the good way\n\n[Build: snare roll, filter rising]\n\n[Drop: full groove, strings joining]\nYou slow me down\nIn the good way\nYou slow me down\n\n[Outro: arpeggio alone, slowing]",
+  "taskId": "c2a129f9d76c60772d90656eaaef46bf",
+  "sunoClipIds": [
+    "5289a640-b23e-44ac-b35f-f83778b8c4f7",
+    "91673fdc-b488-4165-a86f-b4f0c45d344b"
+  ],
+  "created": "Nov 17, 2026 3:32 PM ET",
+  "createTimeMs": 1794947542527,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "5289a640-b23e-44ac-b35f-f83778b8c4f7",
+      "durationSec": 214.32,
+      "file": "poolsidedeep/pd_01_you_slow_me_down_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "91673fdc-b488-4165-a86f-b4f0c45d344b",
+      "durationSec": 214.76,
+      "file": "poolsidedeep/pd_01_you_slow_me_down_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_01_you_slow_me_down_req.json",
+    "poolsidedeep/pd_01_you_slow_me_down_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_01_you_slow_me_down.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_01_you_slow_me_down.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, A minor moving to C major in the drops. Warm, patient melodic house.\n\nVOICE: Male, warm and plain, mid-range, sung softly and close with a little reverb. He sings only two short lines, repeated. Doubled an octave up later.\n\nINSTRUMENTS: A rising analogue arpeggio, a soft four-on-the-floor kick, a rounded bass, warm pads, a brighter lead arpeggio in the drops, soft claps and shakers, strings in the last drop.\n\nARRANGEMENT MAP: 0:00 Intro, arpeggio. 0:24 Vocal. 0:44 Build. 1:00 Vocal, doubled. 1:20 Drop 1. 1:50 Break. 2:08 Build. 2:20 Drop 2 with strings. 2:56 Outro, arpeggio slowing, ends 3:18.\n\nPRODUCTION & MIX: Late-2010s melodic house: clean, wide and warm, arpeggios shimmering, kick soft.\n\nSIGNATURE MOMENT: The lead arpeggio arriving at 1:20.\n\nSTATION FIT: Saturday, 6 p.m. The first vocal track of the evening: gentle, hopeful and built from very little.\n\nEMOTIONAL ARC: Unwinding, grateful, lifted, calm.",
+  "workbookAtAGlance": "You Slow Me Down\n\nBackup titles\nIn the Good Way / Half Speed\n\nAt a glance\n122 BPM, A minor\nVoice: Warm male voice, one repeated sentence\nLength: about 3 minutes 20",
+  "year": 2017,
+  "qa": {
+    "title": "You Slow Me Down",
+    "id": "pd_01",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "fail",
+        "reasons": [
+          "vocals barely present (9% of song)"
+        ],
+        "durationSec": 214.3,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -13.1,
+        "peakDbfs": -0.75,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.7,
+        "contentEndSec": 212.2,
+        "vocalCoverage": 0.093,
+        "vocalSpanSec": [
+          14.5,
+          148.8
+        ],
+        "vocalF0MedianHz": 208,
+        "vocalF0P25Hz": 147,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "fail",
+        "reasons": [
+          "vocals barely present (11% of song)"
+        ],
+        "durationSec": 214.8,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -12.5,
+        "peakDbfs": -0.35,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 213.7,
+        "vocalCoverage": 0.108,
+        "vocalSpanSec": [
+          13.2,
+          181.6
+        ],
+        "vocalF0MedianHz": 257,
+        "vocalF0P25Hz": 166,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Melodic House"
+}

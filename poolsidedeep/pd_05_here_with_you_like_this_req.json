@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Here With You, Like This",
+  "prompt": "[Intro: muffled kick, filtered chords, far away]\n\n[Loop: soft male falsetto, one phrase]\nHere with you, like this\nHere with you, like this\n\n[Build: filter slowly opening, bass arriving]\nHere with you, like this\nHere with you, like this\n(Exactly this)\n\n[Swell: full bright chords, hi-hats, second voice an octave down]\nHere with you, like this\nHere with you, like this\n\n[Break: beat drops out, one chord, the phrase alone]\nLike this\n\n[Peak: everything at full brightness, bells, noise swells]\nHere with you, like this\nHere with you, like this\n(Exactly this)\nHere with you, like this\n\n[Outro: filter closes, muffled kick, one last \"like this\"]",
+  "style": "Mid-2010s psychedelic house, soft sweet male falsetto singing one five-word phrase looped throughout, a second copy of the voice an octave down later, 124 BPM, E-flat major, long slow swell from muffled warmth to dazzling brightness, four-on-the-floor kick that starts muffled and opens up, filtered organ-like chords, warm bass, bright bells and glockenspiel at the peak, shuffling hi-hats, white-noise swells, tambourine, saturated warm pumping mix, euphoric, devoted, radiant",
+  "negativeTags": "female lead vocals, full verses, rap, distorted guitar, trap hi-hats, acoustic instruments, slow ballad, dark mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

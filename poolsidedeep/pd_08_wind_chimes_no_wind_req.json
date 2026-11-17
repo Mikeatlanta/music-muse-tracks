@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Wind Chimes, No Wind",
+  "prompt": "[Intro: one chime, then silence, then two]\n\n[Layer 1: kalimba pattern begins]\n\n[Layer 2: glass bells added, a different rhythm]\n\n[Layer 3: metal chimes, the patterns interlock]\n\n[Drop: deep bass and shuffling beat lift everything]\n\n[Break: beat stops, chimes alone, slower]\n\n[Drop: full groove returns, a marimba line on top]\n\n[Outro: layers leave one by one, last chime, air]",
+  "style": "Early-2010s organic downtempo electronic instrumental, no vocals, kalimba glass bells metal wind chimes and glockenspiel layered one at a time into interlocking patterns, 126 BPM with a shuffle, C minor, hypnotic gently propulsive feel, deep warm sub bass and a shuffling beat with soft kick and brushed snare arriving late, marimba, hand percussion, faint pad, dry close detailed percussion with a large soft low end, hypnotic, delicate, nocturnal",
+  "negativeTags": "vocals, lyrics, rap, distorted guitar, big room drop, trap hi-hats, bright pop chorus, harsh synths",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

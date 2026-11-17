@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Room With the Same View",
+  "prompt": "[Intro: pulsing synth bass, glassy pad, distant surf]\n\n[Verse 1: airy, clear female voice]\nFour-twelve, they gave us the same key\nSame balcony, same strip of sea\nThe lamp's been changed, the chairs are new\nThe moon is where we left it, too\n\n[Chorus: four-on-the-floor kick, wide synths, voice doubled]\nRoom with the same view\nTwenty years, and it still knows you\nRoom with the same view\nWe've changed more than the sea's had to\nStand here where we stood\nIt still looks good\nRoom with the same view\n\n[Verse 2: bass busier, voice warmer]\nYou had more hair, I had less doubt\nWe thought we had it figured out\nWe didn't, and we're here again\nI'd take us now over us then\n\n[Chorus: four-on-the-floor kick, wide synths, voice doubled]\nRoom with the same view\nTwenty years, and it still knows you\nRoom with the same view\nWe've changed more than the sea's had to\nStand here where we stood\nIt still looks good\nRoom with the same view\n\n[Bridge: drums drop out, voice and pad]\nSame view\nDifferent eyes\nSame view\n\n[Outro: synth bass pulsing, surf, a balcony door sliding]",
+  "style": "2020 Australian cinematic electronic pop, airy clear female vocal with light vibrato, cool in the verses and open and doubled in the choruses, almost whispered in the bridge, 118 BPM, B minor rising to a major chorus, cinematic cool tender feel, pulsing synth bass, glassy pads, wide cinematic synth chords, four-on-the-floor kick with a soft clap, delayed guitar line, rising white-noise sweep, wide cool polished mix, nostalgic, romantic, night",
+  "negativeTags": "male lead vocals, rap, belting, distorted guitar, big room drop, trap hi-hats, harsh mix, novelty sounds",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

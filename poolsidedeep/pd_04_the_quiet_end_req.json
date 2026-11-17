@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "The Quiet End",
+  "prompt": "[Intro: steel pan notes, soft kick, party noise far away]\n\n[Verse 1: quiet female voice, close]\nI take my glass to the quiet end\nPast the speakers, past the bend\nI'm not hiding, I'm just here\nWhere a person could be clear\n\n[Chorus: choir bursts in, wide and joyful]\nI have never been so easy to find\nCome on down, come on down\nI have never been so easy to find\nCome on down\n\n[Verse 2: quiet voice, bass under]\nLoud is fine for other people\nI like water I can hear\nIf you're looking, look for stillness\nI'm the one not moving near\n\n[Chorus: choir, handclaps, steel pan answering]\nI have never been so easy to find\nCome on down, come on down\nI have never been so easy to find\nCome on down\n\n[Break: quiet voice alone]\nYou found it.\nHi.\n\n[Final Chorus: choir and quiet voice together]\nI have never been so easy to find\nCome on down, come on down\nI have never been so easy to find\nYou came down\n\n[Outro: steel pan, two glasses touching]",
+  "style": "Mid-2010s British electronic with a soul choir hook, verses sung very quietly and low by a woman almost speaking, chorus by a bright full mixed soul choir like a 1970s record, both together only at the end, 107 BPM, A major, slow spacious bittersweet feel with bursts of joy, steel pans, soft kick and dry clap, deep sustained bass, clean single-note guitar, strings in the choruses, handclaps, sparse dry verses and warm saturated choruses, shy, hopeful, joyful",
+  "negativeTags": "male lead vocals, rap, distorted synths, big room drop, trap hi-hats, rock guitar, fast tempo, belting solo",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

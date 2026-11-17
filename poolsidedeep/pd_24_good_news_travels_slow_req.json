@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Good News Travels Slow",
+  "prompt": "[Intro: house piano chords, finger snaps, organ swell]\n\n[Verse 1: warm soulful female alto]\nBad news runs, it kicks the door\nThree a.m., it's on the floor\nGood news likes to take its time\nStops for coffee, waits in line\n\n[Chorus: full soulful house groove, small choir]\nGood news travels slow\nBut it gets here, oh, it gets here\nGood news travels slow\nTook the long road all year\nPhone lit up at noon, and now I know\nGood news travels slow\n\n[Verse 2: voice lifting, handclaps]\nI kept the ringer loud for weeks\nSlept with the phone against my cheek\nThen here, wet hands, the midday sun\nOne short line: it's good, it's done\n\n[Chorus: full soulful house groove, small choir]\nGood news travels slow\nBut it gets here, oh, it gets here\nGood news travels slow\nTook the long road all year\nPhone lit up at noon, and now I know\nGood news travels slow\n\n[Bridge: piano and claps only, choir answering]\n(It gets here) Wait on it\n(It gets here) Don't you quit\n(It gets here) Every bit\n\n[Outro: piano, choir humming, a splash, laughing]",
+  "style": "Late-2010s soulful house with a gospel lift, warm soulful female alto vocal relaxed in the verses and lifting with a little grit in the choruses, small mixed choir answering, 120 BPM, F major, warm rolling joyful feel, bright house piano chords, rolling bass guitar, four-on-the-floor kick with handclaps and finger snaps, Hammond organ, tambourine, short brass stab, warm clean full mix, relieved, grateful, sunny",
+  "negativeTags": "male lead vocals, rap, distorted bass, big room drop, trap hi-hats, dark mood, harsh synths, slow ballad",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Starfish Float",
+  "prompt": "[Intro: muffled lo-fi chords, as if heard under water]\n\n[Vocal: hazy processed male voice]\nArms out, ears under\nSky and nothing\nArms out, ears under\n\n[Beat Enters: soft thumping kick, warm bass, the filter lifts]\n\n[Chorus: voice doubled, chords bright]\nStarfish float\nLet it hold you\nStarfish float\nNothing to do\nStarfish float\n\n[Section: lo-fi chords, shuffling hi-hat, vocal fragments]\n(Hold you, hold you)\n\n[Break: muffled again, breathing]\n\n[Chorus: voice doubled, chords bright]\nStarfish float\nLet it hold you\nStarfish float\nNothing to do\nStarfish float\n\n[Outro: chords sink back under water, one breath]",
+  "style": "2020 lo-fi house, soft high male vocal run through a vocoder-like effect and tape saturation so it sounds half-synthetic and blurred, doubled in the choruses, 118 BPM, D major, hazy warm weightless feel, warm wobbling lo-fi chord stabs, soft thumping kick, rounded bass, shuffling hi-hat, tape hiss, low-pass filter making the intro and break sound as if heard under water, simple bell melody, saturated soft blurred mix, dreamy, calm, floating",
+  "negativeTags": "female lead vocals, clear dry vocals, rap, distorted guitar, big room drop, trap hi-hats, bright pop, harsh highs",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

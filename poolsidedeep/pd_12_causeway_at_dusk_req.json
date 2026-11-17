@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Causeway at Dusk",
+  "prompt": "[Intro: soft pad, filtered kick, tires humming on a bridge]\n\n[Section A: kick opens, warm bass, plucked chords]\n\n[Melody 1: singing synth lead, simple and slow]\n\n[Build: chords rising, hi-hats, a second harmony line]\n\n[Drop: full groove, lead melody an octave higher]\n\n[Break: beat out, piano playing the melody alone]\n\n[Build: snare roll, pad swelling]\n\n[Drop: full groove, lead and piano together, strings]\n\n[Outro: pad and piano, the hum of the bridge fading]",
+  "style": "Early-2020s melodic house instrumental, no vocals, a singing monophonic analogue lead synth with a vocal-like tone and slow glide playing a simple emotional melody, 122 BPM, F major, warm steady feel with chords that keep opening upward, plucked chord stabs, warm four-on-the-floor kick, rounded bass, soft pads, piano taking the melody in the break, string pad, crisp hi-hats, warm clear wide mix with a live feel, emotional, uplifting, sunset",
+  "negativeTags": "vocals, lyrics, rap, distorted guitar, big room drop, trap hi-hats, dark mood, harsh synths",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

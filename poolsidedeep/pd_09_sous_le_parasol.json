@@ -1,0 +1,127 @@
+{
+  "id": "pd_09",
+  "title": "Sous le Parasol",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 9,
+  "slug": "pd_09_sous_le_parasol",
+  "inspiredBy": "Canopée (Polo & Pan, 2017)",
+  "leadVoice": "A woman sings verse 1 and a man verse 2, both in French, softly and playfully, half-spoken. They sing the chorus together in unison and a simple harmony. Two spoken words each at the end.",
+  "model": "V6",
+  "style": "Late-2010s French electronic pop with exotica colours, sung in French, a woman on the first verse and a man on the second, both soft playful and half-spoken, chorus together in unison and simple harmony, 110 BPM, D major, light bouncing sunny feel, breathy flute melody, bouncing synth bass, soft kick with hand percussion, marimba, vintage organ, exotica bird calls, steel guitar, warm clean playful mix, carefree, charming, tropical",
+  "negativeTags": "English lyrics, belting, rap, distorted synths, big room drop, trap hi-hats, rock guitar, dark mood",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: flute melody, bouncing bass, bird calls]\n\n[Verse 1: female voice, light, French]\nSous le parasol, il fait bon\nLe monde est loin, le temps est long\nUn verre, un livre, un peu de vent\nOn ne fait rien, et c'est charmant\n\n[Chorus: both voices, bouncing groove]\nSous le parasol\nRien à faire, rien à dire\nSous le parasol\nJuste toi, et un sourire\nSous le parasol\n\n[Verse 2: male voice, relaxed, French]\nLe soleil tourne, on le suit\nOn pousse la chaise, sans un bruit\nDemain peut-être, on verra\nAujourd'hui, on reste là\n\n[Chorus: both voices, marimba answering]\nSous le parasol\nRien à faire, rien à dire\nSous le parasol\nJuste toi, et un sourire\nSous le parasol\n\n[Instrumental: flute solo over the groove]\n\n[Outro: flute, a glass, \"Encore un?\" \"Oui.\"]",
+  "taskId": "b7de4f64ed785b8af4837c642c88a9fc",
+  "sunoClipIds": [
+    "d39889e6-2022-420c-aaab-acc803d5c147",
+    "5bae17fa-c1d4-46ac-9425-329eee54c5af"
+  ],
+  "created": "Nov 17, 2026 10:15 AM ET",
+  "createTimeMs": 1794928511992,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "d39889e6-2022-420c-aaab-acc803d5c147",
+      "durationSec": 194.8,
+      "file": "poolsidedeep/pd_09_sous_le_parasol_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5bae17fa-c1d4-46ac-9425-329eee54c5af",
+      "durationSec": 194.76,
+      "file": "poolsidedeep/pd_09_sous_le_parasol_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_09_sous_le_parasol_req.json",
+    "poolsidedeep/pd_09_sous_le_parasol_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_09_sous_le_parasol.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_09_sous_le_parasol.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 110 BPM, 4/4, D major. Light, bouncing and sunny, with a wink.\n\nVOICE: A woman sings verse 1 and a man verse 2, both in French, softly and playfully, half-spoken. They sing the chorus together in unison and a simple harmony. Two spoken words each at the end.\n\nINSTRUMENTS: A breathy flute melody, a bouncing synth bass, a soft kick with hand percussion, marimba, a vintage organ, exotica bird calls, a little steel guitar.\n\nARRANGEMENT MAP: 0:00 Intro, flute. 0:16 Verse 1, her. 0:44 Chorus 1. 1:06 Verse 2, him. 1:34 Chorus 2. 1:56 Flute solo. 2:24 Outro, flute, a glass and two spoken lines, ends 2:58.\n\nPRODUCTION & MIX: Late-2010s French electronic pop with exotica colours: warm, clean and playful, flute and voices close.\n\nSIGNATURE MOMENT: The flute melody at 0:00, which returns as a solo.\n\nSTATION FIT: Sunday, 11 a.m. The lightest track in the set, for late breakfast. Translation of the chorus: under the umbrella, nothing to do, nothing to say, just you and a smile.\n\nEMOTIONAL ARC: Lazy, content, playful, one more.",
+  "workbookAtAGlance": "Sous le Parasol\n\nBackup titles\nUnder the Umbrella / Rien à Faire\n\nAt a glance\n110 BPM, D major\nVoice: Male and female voices in French\nLength: about 3 minutes",
+  "year": 2017,
+  "qa": {
+    "title": "Sous le Parasol",
+    "id": "pd_09",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2)"
+        ],
+        "durationSec": 194.8,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 110,
+        "bpmErrPct": 2.1,
+        "lufs": -13.5,
+        "peakDbfs": -0.59,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 193.4,
+        "vocalCoverage": 0.229,
+        "vocalSpanSec": [
+          12.0,
+          193.3
+        ],
+        "vocalF0MedianHz": 226,
+        "vocalF0P25Hz": 166,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Chorus",
+          "Verse 2"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2)"
+        ],
+        "durationSec": 194.8,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 110,
+        "bpmErrPct": 2.1,
+        "lufs": -13.2,
+        "peakDbfs": -0.81,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 194.6,
+        "vocalCoverage": 0.233,
+        "vocalSpanSec": [
+          35.9,
+          193.5
+        ],
+        "vocalF0MedianHz": 221,
+        "vocalF0P25Hz": 147,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Chorus",
+          "Verse 2"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

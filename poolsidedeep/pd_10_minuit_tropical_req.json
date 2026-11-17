@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Minuit Tropical",
+  "prompt": "[Intro: slap bass riff, glassy keyboard chords, hi-hat]\n\n[Verse 1: cool breathy female voice, French]\nMinuit, la ville ne dort pas\nL'air est lourd, il ne bouge pas\nL'eau est tiède, le ciel est bas\nJe marche lente, tu es là\n\n[Chorus: full disco-funk groove, harmonies]\nMinuit tropical\nLa nuit est chaude, la nuit est longue\nMinuit tropical\nOn danse à peine, on tient la ronde\nMinuit tropical\n\n[Verse 2: voice closer, guitar scratching]\nLes néons roses sur ta peau\nUn glaçon fond dans mon verre d'eau\nTu ne dis rien, je ne dis mot\nOn se comprend, il fait trop chaud\n\n[Chorus: full disco-funk groove, harmonies]\nMinuit tropical\nLa nuit est chaude, la nuit est longue\nMinuit tropical\nOn danse à peine, on tient la ronde\nMinuit tropical\n\n[Instrumental: synth solo, strings swelling]\n\n[Outro: bass riff, a ceiling fan, a low laugh]",
+  "style": "Mid-2010s French space disco played by a live band, cool breathy even female vocal sung in French with almost no vibrato, two-part self-harmonies in the choruses, 112 BPM, F# minor, tight humid unhurried disco-funk groove, slap-and-pop bass riff, glassy electric piano and string-synth chords, tight disco kick snare and sixteenth-note hi-hat, scratching rhythm guitar, analogue synth solo, congas, clean warm mix, sultry, elegant, nocturnal",
+  "negativeTags": "English lyrics, male lead vocals, belting, rap, distorted synths, trap hi-hats, big room drop, rock guitar",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

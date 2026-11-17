@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "We Were Neon",
+  "prompt": "[Intro: shimmering synth chords, bouncing bass, drum fill]\n\n[Verse 1: wistful male tenor]\nPink sign buzzing over the door\nSame two colors that we wore\nJelly shoes and a borrowed car\nWe thought we'd lit up every star\n\n[Chorus: full indie-dance groove, harmonies]\nWe were neon\nPink and blue and seventeen\nWe were neon\nBrightest thing I've ever been\nLook at us, still a little bright\nWe were neon, and we are tonight\n\n[Verse 2: voice warmer, guitar chiming]\nNow it's reading glasses, sensible shoes\nNine o'clock and the early news\nBut you laugh, and there's that glow\nSame as thirty years ago\n\n[Chorus: full indie-dance groove, harmonies]\nWe were neon\nPink and blue and seventeen\nWe were neon\nBrightest thing I've ever been\nLook at us, still a little bright\nWe were neon, and we are tonight\n\n[Instrumental: synth solo, handclaps]\n\n[Outro: synth chords, the sign buzzing, flickering]",
+  "style": "Around-2010 Australian indie dance with 1980s colours, light wistful slightly breathy male tenor with stacked harmonies in the choruses, 118 BPM, E major, bright bouncing bittersweet feel, shimmering chorused synth chords, bouncing synth bass, tight disco-rock drum kit, chiming clean guitar, bright lead synth solo, handclaps, glossy bright punchy mix, nostalgic, warm, sunny",
+  "negativeTags": "female lead vocals, rap, distorted bass, big room drop, trap hi-hats, slow ballad, dark mood, harsh mix",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "pd_27",
+  "title": "You Look Like Her",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 27,
+  "slug": "pd_27_you_look_like_her",
+  "inspiredBy": "Sister (TSHA, 2020)",
+  "leadVoice": "No sung verses. Distant wordless female voices as texture. One line spoken once in the break by an older woman with a warm, unhurried voice.",
+  "model": "V6",
+  "style": "2020 melodic UK house instrumental, no sung verses, distant wordless female voices as texture and one line spoken once by an older woman with a warm unhurried voice, 122 BPM, D major, bright warm gently emotional feel, bright singing lead synth with a little glide, warm analogue chords, loose rolling house drums with shaker, soft round bass, handclaps, felt piano playing the melody at the end, warm colourful soft-edged mix, tender, sunny, grateful",
+  "negativeTags": "sung verses, full lyrics, male vocals, rap, distorted bass, big room drop, trap hi-hats, dark mood",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: warm chords, a child laughing far off]\n\n[Beat Enters: loose rolling house drums, soft bass]\n\n[Section A: bright singing synth melody]\n\n[Section B: melody doubled, wordless voices behind]\n(Ooh, ooh)\n\n[Break: chords alone, a splash, a child laughing]\n\n[Spoken: an older woman, warm, half to herself]\nYou look like her\nWhen you laugh, you look just like her\n\n[Drop: full groove, melody an octave higher, handclaps]\n(Ooh, ooh)\n\n[Outro: chords, the melody once on piano, quiet]",
+  "taskId": "8c550ea2e6f4ad9923ae86377bc1e930",
+  "sunoClipIds": [
+    "f36de8ab-0f05-4827-beb6-5a847f7391c6",
+    "2b358f48-8c72-4b9b-aae7-aa2b9d78c1a3"
+  ],
+  "created": "Nov 17, 2026 10:16 AM ET",
+  "createTimeMs": 1794928571112,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f36de8ab-0f05-4827-beb6-5a847f7391c6",
+      "durationSec": 214.72,
+      "file": "poolsidedeep/pd_27_you_look_like_her_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "2b358f48-8c72-4b9b-aae7-aa2b9d78c1a3",
+      "durationSec": 214.24,
+      "file": "poolsidedeep/pd_27_you_look_like_her_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_27_you_look_like_her_req.json",
+    "poolsidedeep/pd_27_you_look_like_her_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_27_you_look_like_her.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_27_you_look_like_her.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, D major. Bright, warm and gently emotional.\n\nVOICE: No sung verses. Distant wordless female voices as texture. One line spoken once in the break by an older woman with a warm, unhurried voice.\n\nINSTRUMENTS: A bright, singing lead synth with a little glide, warm analogue chords, loose, rolling house drums with a shaker, a soft round bass, handclaps, a felt piano that plays the melody at the end, a child's laugh and a splash.\n\nARRANGEMENT MAP: 0:00 Intro, chords. 0:16 Beat enters. 0:32 Section A, melody. 1:04 Section B. 1:36 Break. 1:46 Spoken line. 1:58 Drop, melody up an octave. 2:44 Outro, melody on piano, ends 3:18.\n\nPRODUCTION & MIX: 2020 melodic UK house: warm, colourful and soft-edged, melody in front, drums loose and light.\n\nSIGNATURE MOMENT: The spoken line at 1:46, then the melody returning an octave higher at 1:58.\n\nSTATION FIT: Sunday, 2 p.m. The closing track of the set: bright, wordless and a little moving, for the last hour.\n\nEMOTIONAL ARC: Content, startled, tender, glad.",
+  "workbookAtAGlance": "You Look Like Her\n\nBackup titles\nWhen You Laugh / Same Chin\n\nAt a glance\n122 BPM, D major\nVoice: Instrumental with one spoken line\nLength: about 3 minutes 20",
+  "year": 2020,
+  "qa": {
+    "title": "You Look Like Her",
+    "id": "pd_27",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "fail",
+        "reasons": [
+          "vocals barely present (14% of song)"
+        ],
+        "durationSec": 214.7,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -13.2,
+        "peakDbfs": -0.61,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 214.1,
+        "vocalCoverage": 0.14,
+        "vocalSpanSec": [
+          9.9,
+          210.2
+        ],
+        "vocalF0MedianHz": 365,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.3,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -12.4,
+        "peakDbfs": -0.44,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 212.4,
+        "vocalCoverage": 0.15,
+        "vocalSpanSec": [
+          14.0,
+          207.6
+        ],
+        "vocalF0MedianHz": 439,
+        "vocalF0P25Hz": 439,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "House"
+}

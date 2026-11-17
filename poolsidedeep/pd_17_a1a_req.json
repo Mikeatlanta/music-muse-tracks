@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "A1A",
+  "prompt": "[Intro: warm pad, soft kick, a car door, wind]\n\n[Verse 1: clear cool female voice]\nBridge behind me, bags in back\nRadio's found a station I like\nPalm, palm, pink motel\nOcean flashing on my left side\n\n[Chorus: full melodic house groove, voice doubled]\nA1A, windows down\nEvery mile a little lighter\nA1A, salt and sound\nI can feel the week untie\nA1A\n\n[Drop: rising synth melody, bass, claps]\n\n[Verse 2: voice warmer]\nDrawbridge up, I don't mind\nPelican on a piling, still\nSomebody's waiting with a cold one\nI'll be there when I get there\n\n[Chorus: full groove, voice doubled]\nA1A, windows down\nEvery mile a little lighter\nA1A, salt and sound\nI can feel the week untie\nA1A\n\n[Outro: pad, tires on a shell driveway, engine off]",
+  "style": "2020 melodic house, clear cool unforced mid-range female vocal with soft reverb, doubled in the choruses, 122 BPM, B-flat major, warm steady gently euphoric driving-at-dusk feel, warm analogue pads, soft four-on-the-floor kick, rounded bass, patient rising synth melody, claps and shakers, plucked guitar-like synth, warm wide smooth mix, hopeful, free, anticipating",
+  "negativeTags": "male lead vocals, belting, rap, distorted synths, big room drop, trap hi-hats, rock guitar, dark mood",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

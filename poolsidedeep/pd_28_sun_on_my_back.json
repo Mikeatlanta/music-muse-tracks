@@ -1,0 +1,115 @@
+{
+  "id": "pd_28",
+  "title": "Sun on My Back",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 28,
+  "slug": "pd_28_sun_on_my_back",
+  "inspiredBy": "Helios (Darius feat. Wayne Snow, 2015)",
+  "leadVoice": "Male falsetto, sweet and soulful, light and unforced, with stacked harmonies in the choruses.",
+  "model": "V6",
+  "style": "Mid-2010s French touch, sweet soulful light unforced male falsetto with stacked harmonies in the choruses, 108 BPM, F# minor with warm major sevenths, relaxed golden funky feel, filtered disco chords opening and closing with a slow filter sweep, funky round bass guitar, soft four-on-the-floor kick, muted funk guitar, singing analogue lead synth, Rhodes electric piano, vinyl crackle, warm rounded side-chained mix, restful, sunny, soulful",
+  "negativeTags": "female lead vocals, rap, belting, distorted bass, big room drop, trap hi-hats, rock guitar, dark mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: filtered disco chords, soft kick, vinyl crackle]\n\n[Verse 1: sweet soulful male falsetto]\nFace down, a towel, a paperback\nI haven't read a page of that\nAll week I carried what I could\nI set it down, and it feels good\n\n[Chorus: filter opens, funk guitar, harmonies]\nSun on my back\nLike a hand, like a hand\nSun on my back\nSaying stay where you land\nNothing to carry, nothing to pack\nJust the sun on my back\n\n[Verse 2: bass busier, voice warmer]\nSomebody's kid is learning to dive\nSomebody's radio's playing live\nI hear it all with both eyes closed\nThe warm goes right down to my toes\n\n[Chorus: filter opens, funk guitar, harmonies]\nSun on my back\nLike a hand, like a hand\nSun on my back\nSaying stay where you land\nNothing to carry, nothing to pack\nJust the sun on my back\n\n[Instrumental: singing synth solo, slow filter sweeps]\n\n[Outro: chords filtering down, crackle, a page turning]",
+  "taskId": "5c67761af9de1b3ca37277678500e01e",
+  "sunoClipIds": [
+    "7671aaa3-0be3-472a-8cb8-b077c3c07748",
+    "326049f4-0275-459e-aa05-a2e36009d8b3"
+  ],
+  "created": "Nov 17, 2026 10:16 AM ET",
+  "createTimeMs": 1794928583242,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "7671aaa3-0be3-472a-8cb8-b077c3c07748",
+      "durationSec": 214.76,
+      "file": "poolsidedeep/pd_28_sun_on_my_back_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "326049f4-0275-459e-aa05-a2e36009d8b3",
+      "durationSec": 214.4,
+      "file": "poolsidedeep/pd_28_sun_on_my_back_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_28_sun_on_my_back_req.json",
+    "poolsidedeep/pd_28_sun_on_my_back_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_28_sun_on_my_back.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_28_sun_on_my_back.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 108 BPM, 4/4, F# minor with warm major sevenths. Relaxed, golden and funky.\n\nVOICE: Male falsetto, sweet and soulful, light and unforced, with stacked harmonies in the choruses.\n\nINSTRUMENTS: Filtered disco chords that open and close with a slow filter sweep, a funky, round bass guitar, a soft four-on-the-floor kick, a muted funk guitar, a singing analogue lead synth, Rhodes electric piano, vinyl crackle.\n\nARRANGEMENT MAP: 0:00 Intro, filtered chords. 0:18 Verse 1. 0:54 Chorus 1, filter opens. 1:28 Verse 2. 2:04 Chorus 2. 2:38 Synth solo. 3:00 Outro, filtering down, a page at 3:16.\n\nPRODUCTION & MIX: Mid-2010s French touch: warm, rounded and side-chained, everything slightly golden, voice silky and close.\n\nSIGNATURE MOMENT: The filter opening on 'Sun on my back' at 0:54.\n\nSTATION FIT: Sunday, 12:30 p.m. A slow, funky vocal track for lying still at the hottest part of the day.\n\nEMOTIONAL ARC: Tired, unloading, warmed, at rest.",
+  "workbookAtAGlance": "Sun on My Back\n\nBackup titles\nLike a Hand / Nothing to Carry\n\nAt a glance\n108 BPM, F# minor\nVoice: Sweet, soulful male falsetto\nLength: about 3 minutes 20",
+  "year": 2015,
+  "qa": {
+    "title": "Sun on My Back",
+    "id": "pd_28",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 108,
+        "bpmErrPct": 0.3,
+        "lufs": -13.3,
+        "peakDbfs": -0.2,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 212.2,
+        "vocalCoverage": 0.295,
+        "vocalSpanSec": [
+          18.7,
+          126.0
+        ],
+        "vocalF0MedianHz": 329,
+        "vocalF0P25Hz": 251,
+        "lyricLineRecall": 0.85,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.4,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 108,
+        "bpmErrPct": 0.3,
+        "lufs": -13.2,
+        "peakDbfs": -1.16,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 211.9,
+        "vocalCoverage": 0.29,
+        "vocalSpanSec": [
+          19.6,
+          131.4
+        ],
+        "vocalF0MedianHz": 369,
+        "vocalF0P25Hz": 252,
+        "lyricLineRecall": 0.95,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Disco"
+}

@@ -30652,5 +30652,3529 @@
     },
     "genre": "Aggrotech",
     "year": 2005
+  },
+  {
+    "id": "pd_01",
+    "title": "You Slow Me Down",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 1,
+    "slug": "pd_01_you_slow_me_down",
+    "inspiredBy": "Because You Move Me (Tinlicker & Helsloot, 2017)",
+    "leadVoice": "Male, warm and plain, mid-range, sung softly and close with a little reverb. He sings only two short lines, repeated. Doubled an octave up later.",
+    "model": "V6",
+    "style": "Late-2010s melodic house, warm plain mid-range male vocal sung softly and close, only two short lines repeated like a mantra, doubled an octave up later, 122 BPM, A minor moving to C major in the drops, warm patient feel, rising analogue arpeggio, soft four-on-the-floor kick, rounded bass, warm pads, brighter lead arpeggio in the drops, soft claps and shakers, strings at the end, clean wide warm mix, tender, hopeful, calm",
+    "negativeTags": "female lead vocals, full verses, rap, distorted bass, big room drop, trap hi-hats, rock guitar, harsh synths",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: soft arpeggio, warm pad, no drums]\n\n[Vocal: warm male voice, close]\nYou slow me down\nIn the good way\n\n[Build: kick enters, arpeggio opens, bass]\n\n[Vocal: same line, doubled]\nYou slow me down\nIn the good way\nYou slow me down\n\n[Drop: full melodic house groove, lead arpeggio on top]\n\n[Break: pad and voice alone]\nIn the good way\nIn the good way\n\n[Build: snare roll, filter rising]\n\n[Drop: full groove, strings joining]\nYou slow me down\nIn the good way\nYou slow me down\n\n[Outro: arpeggio alone, slowing]",
+    "taskId": "c2a129f9d76c60772d90656eaaef46bf",
+    "sunoClipIds": [
+      "5289a640-b23e-44ac-b35f-f83778b8c4f7",
+      "91673fdc-b488-4165-a86f-b4f0c45d344b"
+    ],
+    "created": "Nov 17, 2026 3:32 PM ET",
+    "createTimeMs": 1794947542527,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "5289a640-b23e-44ac-b35f-f83778b8c4f7",
+        "durationSec": 214.32,
+        "file": "poolsidedeep/pd_01_you_slow_me_down_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "91673fdc-b488-4165-a86f-b4f0c45d344b",
+        "durationSec": 214.76,
+        "file": "poolsidedeep/pd_01_you_slow_me_down_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_01_you_slow_me_down_req.json",
+      "poolsidedeep/pd_01_you_slow_me_down_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_01_you_slow_me_down.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_01_you_slow_me_down.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, A minor moving to C major in the drops. Warm, patient melodic house.\n\nVOICE: Male, warm and plain, mid-range, sung softly and close with a little reverb. He sings only two short lines, repeated. Doubled an octave up later.\n\nINSTRUMENTS: A rising analogue arpeggio, a soft four-on-the-floor kick, a rounded bass, warm pads, a brighter lead arpeggio in the drops, soft claps and shakers, strings in the last drop.\n\nARRANGEMENT MAP: 0:00 Intro, arpeggio. 0:24 Vocal. 0:44 Build. 1:00 Vocal, doubled. 1:20 Drop 1. 1:50 Break. 2:08 Build. 2:20 Drop 2 with strings. 2:56 Outro, arpeggio slowing, ends 3:18.\n\nPRODUCTION & MIX: Late-2010s melodic house: clean, wide and warm, arpeggios shimmering, kick soft.\n\nSIGNATURE MOMENT: The lead arpeggio arriving at 1:20.\n\nSTATION FIT: Saturday, 6 p.m. The first vocal track of the evening: gentle, hopeful and built from very little.\n\nEMOTIONAL ARC: Unwinding, grateful, lifted, calm.",
+    "workbookAtAGlance": "You Slow Me Down\n\nBackup titles\nIn the Good Way / Half Speed\n\nAt a glance\n122 BPM, A minor\nVoice: Warm male voice, one repeated sentence\nLength: about 3 minutes 20",
+    "year": 2017,
+    "qa": {
+      "title": "You Slow Me Down",
+      "id": "pd_01",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "fail",
+          "reasons": [
+            "vocals barely present (9% of song)"
+          ],
+          "durationSec": 214.3,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 122,
+          "bpmErrPct": 0.9,
+          "lufs": -13.1,
+          "peakDbfs": -0.75,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.7,
+          "contentEndSec": 212.2,
+          "vocalCoverage": 0.093,
+          "vocalSpanSec": [
+            14.5,
+            148.8
+          ],
+          "vocalF0MedianHz": 208,
+          "vocalF0P25Hz": 147,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "fail",
+          "reasons": [
+            "vocals barely present (11% of song)"
+          ],
+          "durationSec": 214.8,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 122,
+          "bpmErrPct": 0.9,
+          "lufs": -12.5,
+          "peakDbfs": -0.35,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.9,
+          "contentEndSec": 213.7,
+          "vocalCoverage": 0.108,
+          "vocalSpanSec": [
+            13.2,
+            181.6
+          ],
+          "vocalF0MedianHz": 257,
+          "vocalF0P25Hz": 166,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Melodic House"
+  },
+  {
+    "id": "pd_02",
+    "title": "Old Wristband",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 2,
+    "slug": "pd_02_old_wristband",
+    "inspiredBy": "Glue (Bicep, 2017)",
+    "leadVoice": "No sung lyric. A woman's voice is cut into two or three sighing syllables and pitched to follow the chords.",
+    "model": "V6",
+    "style": "Modern UK electronic with 1990s rave nostalgia, instrumental, no sung lyric, a woman's voice cut into sighing pitched syllables following the chords, 130 BPM breakbeat, F minor, quick underfoot and slow in feeling, warm slightly detuned pad chords carrying the melody, shuffling sampled breakbeat with soft snare, deep sub bass, single 1990s piano stab, vinyl hiss, soft hazy wide mix, bittersweet, nostalgic, tender",
+    "negativeTags": "sung lyrics, male vocals, rap, distorted guitar, big room drop, bright pop chorus, acoustic instruments, trap hi-hats",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: aching pad chords, vinyl hiss]\n\n[Section A: shuffling breakbeat enters, sub bass]\n\n[Vocal Chops: sighing female syllables, pitched]\nOh-way, oh\nOh-way, oh\n\n[Section B: pad melody, breakbeat fuller, rave piano stab]\n\n[Break: pad alone, a distant crowd]\n\n[Vocal Chops: the same sigh, slower]\nOh-way\n\n[Section C: full breakbeat, melody an octave up]\n\n[Outro: pad fading, birds at dawn, hiss]",
+    "taskId": "18037b6c2f697571314e2f7905c57e2a",
+    "sunoClipIds": [
+      "91df5799-8e8c-448c-aa25-d2483f025dd5",
+      "b4c9a696-c521-47b3-99e5-70fadc7cb910"
+    ],
+    "created": "Nov 17, 2026 10:14 AM ET",
+    "createTimeMs": 1794928480837,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "91df5799-8e8c-448c-aa25-d2483f025dd5",
+        "durationSec": 224.36,
+        "file": "poolsidedeep/pd_02_old_wristband_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "b4c9a696-c521-47b3-99e5-70fadc7cb910",
+        "durationSec": 224.72,
+        "file": "poolsidedeep/pd_02_old_wristband_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_02_old_wristband_req.json",
+      "poolsidedeep/pd_02_old_wristband_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_02_old_wristband.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_02_old_wristband.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 130 BPM, 4/4 breakbeat, F minor. Quick underfoot and slow in feeling: bittersweet and nostalgic.\n\nVOICE: No sung lyric. A woman's voice is cut into two or three sighing syllables and pitched to follow the chords.\n\nINSTRUMENTS: Warm, slightly detuned pad chords carrying the melody, a shuffling sampled breakbeat with a soft snare, a deep sub bass, a single 1990s-style piano stab, vinyl hiss, a far-off crowd, dawn birdsong.\n\nARRANGEMENT MAP: 0:00 Intro, pads. 0:20 Section A, breakbeat. 0:46 Vocal chops. 1:10 Section B, melody. 1:50 Break, crowd. 2:08 Chops, slower. 2:20 Section C, octave up. 3:00 Outro, birds and hiss, ends 3:28.\n\nPRODUCTION & MIX: Modern UK electronic with 1990s rave colours: soft, hazy and wide, drums crisp but quiet, pads in front.\n\nSIGNATURE MOMENT: The breakbeat entering under the pads at 0:20.\n\nSTATION FIT: Sunday, 2 a.m. The deepest hour of the set: an instrumental for people who are awake, remembering.\n\nEMOTIONAL ARC: Wistful, moving, far away, dawn.",
+    "workbookAtAGlance": "Old Wristband\n\nBackup titles\nField, 1996 / Never Cut It Off\n\nAt a glance\n130 BPM, F minor\nVoice: Instrumental with sighing vocal chops\nLength: about 3 minutes 30",
+    "year": 2017,
+    "qa": {
+      "title": "Old Wristband",
+      "id": "pd_02",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check weak: only 0% of lines recognised (unclear: Vocal Chops)"
+          ],
+          "durationSec": 224.4,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 0.6,
+          "lufs": -12.9,
+          "peakDbfs": -0.13,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 222.6,
+          "vocalCoverage": 0.165,
+          "vocalSpanSec": [
+            12.9,
+            219.2
+          ],
+          "vocalF0MedianHz": 485,
+          "vocalF0P25Hz": 415,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Vocal Chops"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.16 dBFS (1 clipped sample, inaudible)",
+            "lyric check weak: only 0% of lines recognised (unclear: Vocal Chops)"
+          ],
+          "durationSec": 224.7,
+          "measuredBpm": 136.0,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 4.6,
+          "lufs": -12.5,
+          "peakDbfs": 0.16,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 222.6,
+          "vocalCoverage": 0.153,
+          "vocalSpanSec": [
+            13.9,
+            218.0
+          ],
+          "vocalF0MedianHz": 522,
+          "vocalF0P25Hz": 474,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Vocal Chops"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other"
+  },
+  {
+    "id": "pd_03",
+    "title": "Not What I Came For",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 3,
+    "slug": "pd_03_not_what_i_came_for",
+    "inspiredBy": "Wicked Games (Parra for Cuva feat. Anna Naklab, 2013)",
+    "leadVoice": "Female, breathy, low and intimate, with a wry edge. Doubled softly in the choruses. One whispered line in the break.",
+    "model": "V6",
+    "style": "Early-2010s European deep house, breathy low intimate female vocal with a wry edge, softly doubled in the choruses, one whispered line, 119 BPM, B minor, slow warm swaying feel, plucked reverbed electric guitar figure, soft four-on-the-floor kick, deep rounded bass, shakers, muted clap, warm pads, soft close mix, reluctant, flirtatious, wry",
+    "negativeTags": "male lead vocals, belting, rap, distorted synths, big room drop, trap hi-hats, fast tempo, bright pop",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: plucked guitar figure, soft kick, distant surf]\n\n[Verse 1: breathy female voice, close]\nI had a book, I had a plan\nA week of nothing, no demands\nThen you sat down, then you said hi\nI felt the whole plan wave goodbye\n\n[Chorus: deep bass in, voice doubled]\nThis is not what I came for\nThis is not on the list\nI came here to be quiet\nNot to be noticing this\nNot what I came for\nDon't sit there\n\n[Verse 2: voice a little warmer]\nYou ask the waiter for his name\nYou laugh too loud, it's all the same\nI've read this line eleven times\nYou're not my type. That's my best lie.\n\n[Chorus: deep bass, voice doubled]\nThis is not what I came for\nThis is not on the list\nI came here to be quiet\nNot to be noticing this\nNot what I came for\nDon't sit there\n\n[Break: guitar alone, whispered]\nOkay. Sit there.\n\n[Outro: guitar and beat, a page turned, a laugh]",
+    "taskId": "ec2e9f19e00bbfc788116faba3ef1f8b",
+    "sunoClipIds": [
+      "38383d08-3c31-42df-b152-cc1d0f28fcf3",
+      "fc993106-34fe-4b47-8e3e-21927e5d3c8e"
+    ],
+    "created": "Nov 17, 2026 10:14 AM ET",
+    "createTimeMs": 1794928485250,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "38383d08-3c31-42df-b152-cc1d0f28fcf3",
+        "durationSec": 214.4,
+        "file": "poolsidedeep/pd_03_not_what_i_came_for_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "fc993106-34fe-4b47-8e3e-21927e5d3c8e",
+        "durationSec": 214.8,
+        "file": "poolsidedeep/pd_03_not_what_i_came_for_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_03_not_what_i_came_for_req.json",
+      "poolsidedeep/pd_03_not_what_i_came_for_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_03_not_what_i_came_for.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_03_not_what_i_came_for.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 119 BPM, 4/4, B minor. Slow, warm deep house with a sway.\n\nVOICE: Female, breathy, low and intimate, with a wry edge. Doubled softly in the choruses. One whispered line in the break.\n\nINSTRUMENTS: A plucked, reverbed electric guitar figure, a soft four-on-the-floor kick, a deep rounded bass, shakers, a muted clap, warm pads, surf.\n\nARRANGEMENT MAP: 0:00 Intro, guitar. 0:18 Verse 1. 0:46 Chorus 1. 1:16 Verse 2. 1:44 Chorus 2. 2:14 Break, whispered. 2:28 Outro groove, a page and a laugh, ends 3:18.\n\nPRODUCTION & MIX: Early-2010s European deep house: soft, mid-tempo and close, guitar and voice in front, bass warm.\n\nSIGNATURE MOMENT: The whispered 'Okay. Sit there.' at 2:18.\n\nSTATION FIT: Saturday, 11 p.m. A slow, late vocal track, flirtatious and a little reluctant.\n\nEMOTIONAL ARC: Irritated, drawn, denying, giving in.",
+    "workbookAtAGlance": "Not What I Came For\n\nBackup titles\nI Came to Read / Don't Sit There\n\nAt a glance\n119 BPM, B minor\nVoice: Breathy female voice\nLength: about 3 minutes 20",
+    "year": 2013,
+    "qa": {
+      "title": "Not What I Came For",
+      "id": "pd_03",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.4,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 119,
+          "bpmErrPct": 1.3,
+          "lufs": -13.5,
+          "peakDbfs": -0.74,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 210.6,
+          "vocalCoverage": 0.311,
+          "vocalSpanSec": [
+            19.5,
+            209.9
+          ],
+          "vocalF0MedianHz": 263,
+          "vocalF0P25Hz": 210,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.8,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 119,
+          "bpmErrPct": 1.3,
+          "lufs": -13.2,
+          "peakDbfs": -0.42,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 211.8,
+          "vocalCoverage": 0.272,
+          "vocalSpanSec": [
+            17.5,
+            200.1
+          ],
+          "vocalF0MedianHz": 292,
+          "vocalF0P25Hz": 266,
+          "lyricLineRecall": 0.952,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "House"
+  },
+  {
+    "id": "pd_04",
+    "title": "The Quiet End",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 4,
+    "slug": "pd_04_the_quiet_end",
+    "inspiredBy": "Loud Places (Jamie xx feat. Romy, 2015)",
+    "leadVoice": "A woman sings the verses very quietly, almost speaking, low and close. The chorus is a mixed soul choir, bright and full, sounding as if lifted from a 1970s record. They sing together only at the end.",
+    "model": "V6",
+    "style": "Mid-2010s British electronic with a soul choir hook, verses sung very quietly and low by a woman almost speaking, chorus by a bright full mixed soul choir like a 1970s record, both together only at the end, 107 BPM, A major, slow spacious bittersweet feel with bursts of joy, steel pans, soft kick and dry clap, deep sustained bass, clean single-note guitar, strings in the choruses, handclaps, sparse dry verses and warm saturated choruses, shy, hopeful, joyful",
+    "negativeTags": "male lead vocals, rap, distorted synths, big room drop, trap hi-hats, rock guitar, fast tempo, belting solo",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: steel pan notes, soft kick, party noise far away]\n\n[Verse 1: quiet female voice, close]\nI take my glass to the quiet end\nPast the speakers, past the bend\nI'm not hiding, I'm just here\nWhere a person could be clear\n\n[Chorus: choir bursts in, wide and joyful]\nI have never been so easy to find\nCome on down, come on down\nI have never been so easy to find\nCome on down\n\n[Verse 2: quiet voice, bass under]\nLoud is fine for other people\nI like water I can hear\nIf you're looking, look for stillness\nI'm the one not moving near\n\n[Chorus: choir, handclaps, steel pan answering]\nI have never been so easy to find\nCome on down, come on down\nI have never been so easy to find\nCome on down\n\n[Break: quiet voice alone]\nYou found it.\nHi.\n\n[Final Chorus: choir and quiet voice together]\nI have never been so easy to find\nCome on down, come on down\nI have never been so easy to find\nYou came down\n\n[Outro: steel pan, two glasses touching]",
+    "taskId": "b2fc39b52a04a24bb6a58c9604a1eba3",
+    "sunoClipIds": [
+      "ac9b84dd-66c7-49f1-b917-732f0fdfdf20",
+      "01c98c49-0c91-403c-90bc-652d13ce80b5"
+    ],
+    "created": "Nov 17, 2026 10:14 AM ET",
+    "createTimeMs": 1794928486956,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ac9b84dd-66c7-49f1-b917-732f0fdfdf20",
+        "durationSec": 224.68,
+        "file": "poolsidedeep/pd_04_the_quiet_end_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "01c98c49-0c91-403c-90bc-652d13ce80b5",
+        "durationSec": 224.48,
+        "file": "poolsidedeep/pd_04_the_quiet_end_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_04_the_quiet_end_req.json",
+      "poolsidedeep/pd_04_the_quiet_end_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_04_the_quiet_end.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_04_the_quiet_end.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 107 BPM, 4/4, A major. Slow, spacious and bittersweet, with bursts of joy.\n\nVOICE: A woman sings the verses very quietly, almost speaking, low and close. The chorus is a mixed soul choir, bright and full, sounding as if lifted from a 1970s record. They sing together only at the end.\n\nINSTRUMENTS: Steel pans, a soft kick and a dry clap, a deep sustained bass, a clean guitar playing single notes, strings in the choruses, handclaps, distant party noise.\n\nARRANGEMENT MAP: 0:00 Intro, steel pan. 0:16 Verse 1. 0:46 Chorus 1, choir. 1:10 Verse 2. 1:40 Chorus 2. 2:06 Break, two spoken words. 2:20 Final chorus, together. 2:50 Outro, steel pan and glasses, ends 3:28.\n\nPRODUCTION & MIX: Mid-2010s British electronic: sparse and dry in the verses, warm and saturated in the choruses, a lot of space.\n\nSIGNATURE MOMENT: The choir bursting in at 0:46.\n\nSTATION FIT: Saturday, 8 p.m. A slow track with a big, warm chorus, for the hour when the deck fills up.\n\nEMOTIONAL ARC: Apart, hopeful, found, together.",
+    "workbookAtAGlance": "The Quiet End\n\nBackup titles\nEasy to Find / Past the Speakers\n\nAt a glance\n107 BPM, A major\nVoice: Quiet female voice with a choir hook\nLength: about 3 minutes 30",
+    "year": 2015,
+    "qa": {
+      "title": "The Quiet End",
+      "id": "pd_04",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.7,
+          "measuredBpm": 107.7,
+          "bpmFactor": 1,
+          "targetBpm": 107,
+          "bpmErrPct": 0.6,
+          "lufs": -14.0,
+          "peakDbfs": -0.41,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 222.0,
+          "vocalCoverage": 0.319,
+          "vocalSpanSec": [
+            19.6,
+            193.7
+          ],
+          "vocalF0MedianHz": 278,
+          "vocalF0P25Hz": 248,
+          "lyricLineRecall": 0.857,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.5,
+          "measuredBpm": 107.7,
+          "bpmFactor": 1,
+          "targetBpm": 107,
+          "bpmErrPct": 0.6,
+          "lufs": -13.5,
+          "peakDbfs": -1.24,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 223.7,
+          "vocalCoverage": 0.481,
+          "vocalSpanSec": [
+            18.7,
+            204.3
+          ],
+          "vocalF0MedianHz": 280,
+          "vocalF0P25Hz": 277,
+          "lyricLineRecall": 0.857,
+          "lyricUnclearSections": [
+            "Break"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Soul"
+  },
+  {
+    "id": "pd_05",
+    "title": "Here With You, Like This",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 5,
+    "slug": "pd_05_here_with_you_like_this",
+    "inspiredBy": "Can't Do Without You (Caribou, 2014)",
+    "leadVoice": "Male, a soft, sweet falsetto singing one five-word phrase throughout. A second copy of his voice, pitched an octave down, joins later. A whispered aside in parentheses.",
+    "model": "V6",
+    "style": "Mid-2010s psychedelic house, soft sweet male falsetto singing one five-word phrase looped throughout, a second copy of the voice an octave down later, 124 BPM, E-flat major, long slow swell from muffled warmth to dazzling brightness, four-on-the-floor kick that starts muffled and opens up, filtered organ-like chords, warm bass, bright bells and glockenspiel at the peak, shuffling hi-hats, white-noise swells, tambourine, saturated warm pumping mix, euphoric, devoted, radiant",
+    "negativeTags": "female lead vocals, full verses, rap, distorted guitar, trap hi-hats, acoustic instruments, slow ballad, dark mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: muffled kick, filtered chords, far away]\n\n[Loop: soft male falsetto, one phrase]\nHere with you, like this\nHere with you, like this\n\n[Build: filter slowly opening, bass arriving]\nHere with you, like this\nHere with you, like this\n(Exactly this)\n\n[Swell: full bright chords, hi-hats, second voice an octave down]\nHere with you, like this\nHere with you, like this\n\n[Break: beat drops out, one chord, the phrase alone]\nLike this\n\n[Peak: everything at full brightness, bells, noise swells]\nHere with you, like this\nHere with you, like this\n(Exactly this)\nHere with you, like this\n\n[Outro: filter closes, muffled kick, one last \"like this\"]",
+    "taskId": "18fce742dae3707645c56f6513c9f15d",
+    "sunoClipIds": [
+      "e746f7ff-7e9b-41f4-ac12-432c3c3dd7fd",
+      "6be132bf-9e62-4663-9dec-111aa7b2493c"
+    ],
+    "created": "Nov 17, 2026 10:14 AM ET",
+    "createTimeMs": 1794928480671,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "e746f7ff-7e9b-41f4-ac12-432c3c3dd7fd",
+        "durationSec": 234.44,
+        "file": "poolsidedeep/pd_05_here_with_you_like_this_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "6be132bf-9e62-4663-9dec-111aa7b2493c",
+        "durationSec": 234.2,
+        "file": "poolsidedeep/pd_05_here_with_you_like_this_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_05_here_with_you_like_this_req.json",
+      "poolsidedeep/pd_05_here_with_you_like_this_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_05_here_with_you_like_this.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_05_here_with_you_like_this.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, E-flat major. A long, slow swell from muffled warmth to dazzling brightness.\n\nVOICE: Male, a soft, sweet falsetto singing one five-word phrase throughout. A second copy of his voice, pitched an octave down, joins later. A whispered aside in parentheses.\n\nINSTRUMENTS: A four-on-the-floor kick that begins muffled and opens up, filtered organ-like chords, a warm bass, bright bells and glockenspiel at the peak, shuffling hi-hats, swells of white noise, a tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, muffled. 0:20 Loop begins. 0:50 Build, filter opening. 1:30 Swell. 2:06 Break, one chord. 2:20 Peak. 3:10 Outro, filter closes, ends 3:38.\n\nPRODUCTION & MIX: Mid-2010s psychedelic house: saturated, warm and bright, everything pumping against the kick, voice inside the mix.\n\nSIGNATURE MOMENT: The peak arriving at 2:20.\n\nSTATION FIT: Sunday, 1 a.m. The emotional high point of the night, built from one sentence.\n\nEMOTIONAL ARC: Content, glowing, overwhelmed, quiet.",
+    "workbookAtAGlance": "Here With You, Like This\n\nBackup titles\nExactly This / Don't Change a Thing\n\nAt a glance\n124 BPM, E-flat major\nVoice: Soft male falsetto, one phrase looped\nLength: about 3 minutes 40",
+    "year": 2014,
+    "qa": {
+      "title": "Here With You, Like This",
+      "id": "pd_05",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 234.5,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -12.8,
+          "peakDbfs": -1.76,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 233.4,
+          "vocalCoverage": 0.465,
+          "vocalSpanSec": [
+            11.6,
+            228.3
+          ],
+          "vocalF0MedianHz": 396,
+          "vocalF0P25Hz": 391,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.12 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 234.2,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -12.4,
+          "peakDbfs": 0.12,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 1.3,
+          "contentEndSec": 232.7,
+          "vocalCoverage": 0.302,
+          "vocalSpanSec": [
+            14.5,
+            191.0
+          ],
+          "vocalF0MedianHz": 320,
+          "vocalF0P25Hz": 311,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "House"
+  },
+  {
+    "id": "pd_06",
+    "title": "Still Asking",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 6,
+    "slug": "pd_06_still_asking",
+    "inspiredBy": "Harvest Moon (Poolside, 2012)",
+    "leadVoice": "Male, soft, light and unhurried, sung almost under his breath with a smile. Gentle harmonies in the choruses. One spoken word, hers, at the end.",
+    "model": "V6",
+    "style": "Early-2010s Californian daytime disco, soft light unhurried male vocal sung almost under his breath with a smile, gentle harmonies in the choruses, 104 BPM, D major, lazy warm sway, slide guitar with long sweet phrases, round melodic bass guitar, soft disco kick and hi-hat, clean rhythm guitar, electric piano, congas, handclaps, slide guitar solo, warm soft analogue mix, romantic, gentle, easy",
+    "negativeTags": "female lead vocals, belting, rap, distorted synths, big room drop, trap hi-hats, fast tempo, harsh mix",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: slide guitar phrase, lazy disco beat, round bass]\n\n[Verse 1: soft relaxed male voice]\nBand's packing up, the lights are low\nYou've got your shoes off, good to go\nI cross the deck, I clear my throat\nSame as that night on your daddy's boat\n\n[Chorus: full groove, harmonies, slide guitar answering]\nI'm still asking\nMay I have this one?\nThirty years of yes\nAnd I still don't assume\nStill asking\nCome on, the night's still young\n\n[Verse 2: voice warmer]\nYou roll your eyes, you take my hand\nYou say, \"You know you don't have to ask, old man\"\nI know I don't. That's why I do.\nIt's the best part of dancing with you.\n\n[Chorus: full groove, harmonies, slide guitar answering]\nI'm still asking\nMay I have this one?\nThirty years of yes\nAnd I still don't assume\nStill asking\nCome on, the night's still young\n\n[Instrumental: slide guitar solo, handclaps]\n\n[Outro: groove, bare feet on stone, \"Yes.\"]",
+    "taskId": "8a910254de3853ad3be278a517c3c922",
+    "sunoClipIds": [
+      "51d55344-16b1-4301-86eb-b1d378ea5405",
+      "3755a2b2-c07d-4bc2-810b-10b66271a422"
+    ],
+    "created": "Nov 17, 2026 10:14 AM ET",
+    "createTimeMs": 1794928495748,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "51d55344-16b1-4301-86eb-b1d378ea5405",
+        "durationSec": 234.0,
+        "file": "poolsidedeep/pd_06_still_asking_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "3755a2b2-c07d-4bc2-810b-10b66271a422",
+        "durationSec": 234.52,
+        "file": "poolsidedeep/pd_06_still_asking_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_06_still_asking_req.json",
+      "poolsidedeep/pd_06_still_asking_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_06_still_asking.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_06_still_asking.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, D major. A lazy, warm daytime-disco sway.\n\nVOICE: Male, soft, light and unhurried, sung almost under his breath with a smile. Gentle harmonies in the choruses. One spoken word, hers, at the end.\n\nINSTRUMENTS: A slide guitar playing long, sweet phrases, a round, melodic bass guitar, a soft disco kick and hi-hat, a clean rhythm guitar, electric piano, congas, handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, slide guitar. 0:18 Verse 1. 0:50 Chorus 1. 1:22 Verse 2. 1:54 Chorus 2. 2:26 Slide guitar solo. 2:58 Outro groove and 'Yes' at 3:30.\n\nPRODUCTION & MIX: Early-2010s Californian daytime disco: warm, soft-edged and analogue, bass and slide guitar in front.\n\nSIGNATURE MOMENT: 'I know I don't. That's why I do.' at 1:40.\n\nSTATION FIT: Saturday, 7 p.m. A slow-dance track in the style of the act whose name the station nearly shares.\n\nEMOTIONAL ARC: Courteous, teasing, tender, dancing.",
+    "workbookAtAGlance": "Still Asking\n\nBackup titles\nMay I Have This One / Thirty Years of Yes\n\nAt a glance\n104 BPM, D major\nVoice: Soft, relaxed male voice\nLength: about 3 minutes 40",
+    "year": 2012,
+    "qa": {
+      "title": "Still Asking",
+      "id": "pd_06",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.07 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 234.0,
+          "measuredBpm": 103.4,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 0.6,
+          "lufs": -13.0,
+          "peakDbfs": 0.07,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 232.1,
+          "vocalCoverage": 0.285,
+          "vocalSpanSec": [
+            20.4,
+            212.7
+          ],
+          "vocalF0MedianHz": 218,
+          "vocalF0P25Hz": 165,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.27 dBFS (4 clipped sample, inaudible)"
+          ],
+          "durationSec": 234.5,
+          "measuredBpm": 107.7,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 3.5,
+          "lufs": -12.7,
+          "peakDbfs": 0.27,
+          "clipSamples": 4,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 232.6,
+          "vocalCoverage": 0.479,
+          "vocalSpanSec": [
+            18.5,
+            222.7
+          ],
+          "vocalF0MedianHz": 292,
+          "vocalF0P25Hz": 217,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Disco"
+  },
+  {
+    "id": "pd_07",
+    "title": "First Light on the Water",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 7,
+    "slug": "pd_07_first_light_on_the_water",
+    "inspiredBy": "Awake (Tycho, 2014)",
+    "leadVoice": "None. The lead instrument is a clean electric guitar with dotted delay.",
+    "model": "V6",
+    "style": "Mid-2010s instrumental electronic rock, no vocals, clean electric guitar with dotted delay playing a hummable melody, 120 BPM, E major, bright driving hopeful feel with a live band's pulse, second guitar in harmony, melodic live bass guitar, live drum kit with tight snare and open cymbals, warm analogue synth pads and a synth doubling the tune, warm slightly hazy analogue tone with a punchy rhythm section, optimistic, sunlit, flowing",
+    "negativeTags": "vocals, lyrics, rap, distorted metal guitar, trap hi-hats, big room drop, dark mood, slow tempo",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: warm synth pad, one delayed guitar note repeating]\n\n[Section A: clean delayed guitar melody enters]\n\n[Section B: live bass and drums kick in, steady and bright]\n\n[Melody: guitar line doubled by analog synth]\n\n[Break: drums drop out, pad and guitar harmonics]\n\n[Build: toms, bass climbing]\n\n[Section C: full band, second guitar harmony, cymbals open]\n\n[Outro: band stops, guitar note repeating, birds]",
+    "taskId": "90d61ff8fb21e04f9f41a7fe02cf8223",
+    "sunoClipIds": [
+      "1822891b-c236-48ba-aecf-9ee9a4d7d28e",
+      "804ebc56-7ba3-4217-a898-3a1db4ee8000"
+    ],
+    "created": "Nov 17, 2026 10:14 AM ET",
+    "createTimeMs": 1794928499342,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "1822891b-c236-48ba-aecf-9ee9a4d7d28e",
+        "durationSec": 224.32,
+        "file": "poolsidedeep/pd_07_first_light_on_the_water_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "804ebc56-7ba3-4217-a898-3a1db4ee8000",
+        "durationSec": 224.44,
+        "file": "poolsidedeep/pd_07_first_light_on_the_water_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_07_first_light_on_the_water_req.json",
+      "poolsidedeep/pd_07_first_light_on_the_water_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_07_first_light_on_the_water.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_07_first_light_on_the_water.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, E major. Bright, driving and hopeful, with a live band's pulse.\n\nVOICE: None. The lead instrument is a clean electric guitar with dotted delay.\n\nINSTRUMENTS: A clean, delayed electric guitar playing the melody, a second guitar in harmony, a melodic live bass guitar, a live drum kit with tight snare and open cymbals, warm analogue synth pads and a synth doubling the tune, birdsong at the end.\n\nARRANGEMENT MAP: 0:00 Intro, pad and one note. 0:20 Section A, guitar melody. 0:46 Section B, bass and drums. 1:14 Melody doubled. 1:44 Break. 2:04 Build. 2:16 Section C, full. 2:56 Outro, one note and birds, ends 3:28.\n\nPRODUCTION & MIX: Mid-2010s instrumental electronic rock: warm, slightly hazy analogue tone with a clear, punchy rhythm section.\n\nSIGNATURE MOMENT: The bass and drums entering at 0:46.\n\nSTATION FIT: Sunday, 6 a.m. Sunrise. A bright instrumental with no words to get in the way.\n\nEMOTIONAL ARC: Still, waking, running, open.",
+    "workbookAtAGlance": "First Light on the Water\n\nBackup titles\nBefore the Loungers / Six O'Clock Blue\n\nAt a glance\n120 BPM, E major\nVoice: Instrumental\nLength: about 3 minutes 30",
+    "year": 2014,
+    "qa": {
+      "title": "First Light on the Water",
+      "id": "pd_07",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.3,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 2.5,
+          "lufs": -13.0,
+          "peakDbfs": -2.18,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.3,
+          "contentEndSec": 220.6,
+          "vocalCoverage": 0.002,
+          "vocalSpanSec": [
+            107.1,
+            108.4
+          ],
+          "vocalF0MedianHz": 662,
+          "vocalF0P25Hz": 662,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.5,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 7.7,
+          "lufs": -12.9,
+          "peakDbfs": -1.12,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.4,
+          "contentEndSec": 223.0,
+          "vocalCoverage": 0.011,
+          "vocalSpanSec": [
+            156.2,
+            161.8
+          ],
+          "vocalF0MedianHz": 625,
+          "vocalF0P25Hz": 621,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other"
+  },
+  {
+    "id": "pd_08",
+    "title": "Wind Chimes, No Wind",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 8,
+    "slug": "pd_08_wind_chimes_no_wind",
+    "inspiredBy": "Cirrus (Bonobo, 2013)",
+    "leadVoice": "None.",
+    "model": "V6",
+    "style": "Early-2010s organic downtempo electronic instrumental, no vocals, kalimba glass bells metal wind chimes and glockenspiel layered one at a time into interlocking patterns, 126 BPM with a shuffle, C minor, hypnotic gently propulsive feel, deep warm sub bass and a shuffling beat with soft kick and brushed snare arriving late, marimba, hand percussion, faint pad, dry close detailed percussion with a large soft low end, hypnotic, delicate, nocturnal",
+    "negativeTags": "vocals, lyrics, rap, distorted guitar, big room drop, trap hi-hats, bright pop chorus, harsh synths",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: one chime, then silence, then two]\n\n[Layer 1: kalimba pattern begins]\n\n[Layer 2: glass bells added, a different rhythm]\n\n[Layer 3: metal chimes, the patterns interlock]\n\n[Drop: deep bass and shuffling beat lift everything]\n\n[Break: beat stops, chimes alone, slower]\n\n[Drop: full groove returns, a marimba line on top]\n\n[Outro: layers leave one by one, last chime, air]",
+    "taskId": "2107835cfbc6c15b6ec12cee868cb0d2",
+    "sunoClipIds": [
+      "36a43b38-2f20-4bf8-affb-b6e40ab79289",
+      "927f0ba5-3fe1-4db8-aed5-e270a0f18a68"
+    ],
+    "created": "Nov 17, 2026 10:14 AM ET",
+    "createTimeMs": 1794928491207,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "36a43b38-2f20-4bf8-affb-b6e40ab79289",
+        "durationSec": 214.8,
+        "file": "poolsidedeep/pd_08_wind_chimes_no_wind_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "927f0ba5-3fe1-4db8-aed5-e270a0f18a68",
+        "durationSec": 214.44,
+        "file": "poolsidedeep/pd_08_wind_chimes_no_wind_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_08_wind_chimes_no_wind_req.json",
+      "poolsidedeep/pd_08_wind_chimes_no_wind_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_08_wind_chimes_no_wind.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_08_wind_chimes_no_wind.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 126 BPM, 4/4 with a shuffle, C minor. Hypnotic and gently propulsive, bright sounds over a dark floor.\n\nVOICE: None.\n\nINSTRUMENTS: Kalimba (thumb piano), glass bells, metal wind chimes and a glockenspiel in interlocking patterns, a deep, warm sub bass, a shuffling beat with a soft kick and brushed snare, a marimba, hand percussion, a faint pad.\n\nARRANGEMENT MAP: 0:00 Intro, single chimes. 0:16 Layer 1, kalimba. 0:36 Layer 2, bells. 0:56 Layer 3, chimes. 1:16 Drop, bass and beat. 1:56 Break. 2:14 Drop, with marimba. 2:50 Outro, layers leaving, ends 3:18.\n\nPRODUCTION & MIX: Early-2010s organic downtempo: dry, close, detailed percussion with a large, soft low end.\n\nSIGNATURE MOMENT: The bass arriving under the chimes at 1:16.\n\nSTATION FIT: Sunday, 4 a.m. The stillest hour, with nothing but small bright sounds and a pulse.\n\nEMOTIONAL ARC: Curious, gathering, lifted, dispersing.",
+    "workbookAtAGlance": "Wind Chimes, No Wind\n\nBackup titles\nFour A.M. Bells / Something Moved the Air\n\nAt a glance\n126 BPM, C minor\nVoice: Instrumental\nLength: about 3 minutes 20",
+    "year": 2013,
+    "qa": {
+      "title": "Wind Chimes, No Wind",
+      "id": "pd_08",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.8,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 126,
+          "bpmErrPct": 2.5,
+          "lufs": -14.0,
+          "peakDbfs": -0.58,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.4,
+          "contentEndSec": 213.6,
+          "vocalCoverage": 0.016,
+          "vocalSpanSec": [
+            37.5,
+            132.3
+          ],
+          "vocalF0MedianHz": 353,
+          "vocalF0P25Hz": 337,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.5,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 126,
+          "bpmErrPct": 2.5,
+          "lufs": -14.0,
+          "peakDbfs": -0.45,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 212.7,
+          "vocalCoverage": 0.019,
+          "vocalSpanSec": [
+            28.2,
+            32.9
+          ],
+          "vocalF0MedianHz": 261,
+          "vocalF0P25Hz": 261,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Downtempo"
+  },
+  {
+    "id": "pd_09",
+    "title": "Sous le Parasol",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 9,
+    "slug": "pd_09_sous_le_parasol",
+    "inspiredBy": "Canopée (Polo & Pan, 2017)",
+    "leadVoice": "A woman sings verse 1 and a man verse 2, both in French, softly and playfully, half-spoken. They sing the chorus together in unison and a simple harmony. Two spoken words each at the end.",
+    "model": "V6",
+    "style": "Late-2010s French electronic pop with exotica colours, sung in French, a woman on the first verse and a man on the second, both soft playful and half-spoken, chorus together in unison and simple harmony, 110 BPM, D major, light bouncing sunny feel, breathy flute melody, bouncing synth bass, soft kick with hand percussion, marimba, vintage organ, exotica bird calls, steel guitar, warm clean playful mix, carefree, charming, tropical",
+    "negativeTags": "English lyrics, belting, rap, distorted synths, big room drop, trap hi-hats, rock guitar, dark mood",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 195,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: flute melody, bouncing bass, bird calls]\n\n[Verse 1: female voice, light, French]\nSous le parasol, il fait bon\nLe monde est loin, le temps est long\nUn verre, un livre, un peu de vent\nOn ne fait rien, et c'est charmant\n\n[Chorus: both voices, bouncing groove]\nSous le parasol\nRien à faire, rien à dire\nSous le parasol\nJuste toi, et un sourire\nSous le parasol\n\n[Verse 2: male voice, relaxed, French]\nLe soleil tourne, on le suit\nOn pousse la chaise, sans un bruit\nDemain peut-être, on verra\nAujourd'hui, on reste là\n\n[Chorus: both voices, marimba answering]\nSous le parasol\nRien à faire, rien à dire\nSous le parasol\nJuste toi, et un sourire\nSous le parasol\n\n[Instrumental: flute solo over the groove]\n\n[Outro: flute, a glass, \"Encore un?\" \"Oui.\"]",
+    "taskId": "b7de4f64ed785b8af4837c642c88a9fc",
+    "sunoClipIds": [
+      "d39889e6-2022-420c-aaab-acc803d5c147",
+      "5bae17fa-c1d4-46ac-9425-329eee54c5af"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928511992,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "d39889e6-2022-420c-aaab-acc803d5c147",
+        "durationSec": 194.8,
+        "file": "poolsidedeep/pd_09_sous_le_parasol_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "5bae17fa-c1d4-46ac-9425-329eee54c5af",
+        "durationSec": 194.76,
+        "file": "poolsidedeep/pd_09_sous_le_parasol_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_09_sous_le_parasol_req.json",
+      "poolsidedeep/pd_09_sous_le_parasol_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_09_sous_le_parasol.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_09_sous_le_parasol.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 110 BPM, 4/4, D major. Light, bouncing and sunny, with a wink.\n\nVOICE: A woman sings verse 1 and a man verse 2, both in French, softly and playfully, half-spoken. They sing the chorus together in unison and a simple harmony. Two spoken words each at the end.\n\nINSTRUMENTS: A breathy flute melody, a bouncing synth bass, a soft kick with hand percussion, marimba, a vintage organ, exotica bird calls, a little steel guitar.\n\nARRANGEMENT MAP: 0:00 Intro, flute. 0:16 Verse 1, her. 0:44 Chorus 1. 1:06 Verse 2, him. 1:34 Chorus 2. 1:56 Flute solo. 2:24 Outro, flute, a glass and two spoken lines, ends 2:58.\n\nPRODUCTION & MIX: Late-2010s French electronic pop with exotica colours: warm, clean and playful, flute and voices close.\n\nSIGNATURE MOMENT: The flute melody at 0:00, which returns as a solo.\n\nSTATION FIT: Sunday, 11 a.m. The lightest track in the set, for late breakfast. Translation of the chorus: under the umbrella, nothing to do, nothing to say, just you and a smile.\n\nEMOTIONAL ARC: Lazy, content, playful, one more.",
+    "workbookAtAGlance": "Sous le Parasol\n\nBackup titles\nUnder the Umbrella / Rien à Faire\n\nAt a glance\n110 BPM, D major\nVoice: Male and female voices in French\nLength: about 3 minutes",
+    "year": 2017,
+    "qa": {
+      "title": "Sous le Parasol",
+      "id": "pd_09",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2)"
+          ],
+          "durationSec": 194.8,
+          "measuredBpm": 107.7,
+          "bpmFactor": 1,
+          "targetBpm": 110,
+          "bpmErrPct": 2.1,
+          "lufs": -13.5,
+          "peakDbfs": -0.59,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.9,
+          "contentEndSec": 193.4,
+          "vocalCoverage": 0.229,
+          "vocalSpanSec": [
+            12.0,
+            193.3
+          ],
+          "vocalF0MedianHz": 226,
+          "vocalF0P25Hz": 166,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Verse 1",
+            "Chorus",
+            "Verse 2"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2)"
+          ],
+          "durationSec": 194.8,
+          "measuredBpm": 107.7,
+          "bpmFactor": 1,
+          "targetBpm": 110,
+          "bpmErrPct": 2.1,
+          "lufs": -13.2,
+          "peakDbfs": -0.81,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.2,
+          "contentEndSec": 194.6,
+          "vocalCoverage": 0.233,
+          "vocalSpanSec": [
+            35.9,
+            193.5
+          ],
+          "vocalF0MedianHz": 221,
+          "vocalF0P25Hz": 147,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Verse 1",
+            "Chorus",
+            "Verse 2"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Pop"
+  },
+  {
+    "id": "pd_10",
+    "title": "Minuit Tropical",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 10,
+    "slug": "pd_10_minuit_tropical",
+    "inspiredBy": "Agitations tropicales (L'Impératrice, 2015)",
+    "leadVoice": "Female, cool, breathy and even, sung in French with almost no vibrato and a faint smile. Two-part harmonies with herself in the choruses.",
+    "model": "V6",
+    "style": "Mid-2010s French space disco played by a live band, cool breathy even female vocal sung in French with almost no vibrato, two-part self-harmonies in the choruses, 112 BPM, F# minor, tight humid unhurried disco-funk groove, slap-and-pop bass riff, glassy electric piano and string-synth chords, tight disco kick snare and sixteenth-note hi-hat, scratching rhythm guitar, analogue synth solo, congas, clean warm mix, sultry, elegant, nocturnal",
+    "negativeTags": "English lyrics, male lead vocals, belting, rap, distorted synths, trap hi-hats, big room drop, rock guitar",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: slap bass riff, glassy keyboard chords, hi-hat]\n\n[Verse 1: cool breathy female voice, French]\nMinuit, la ville ne dort pas\nL'air est lourd, il ne bouge pas\nL'eau est tiède, le ciel est bas\nJe marche lente, tu es là\n\n[Chorus: full disco-funk groove, harmonies]\nMinuit tropical\nLa nuit est chaude, la nuit est longue\nMinuit tropical\nOn danse à peine, on tient la ronde\nMinuit tropical\n\n[Verse 2: voice closer, guitar scratching]\nLes néons roses sur ta peau\nUn glaçon fond dans mon verre d'eau\nTu ne dis rien, je ne dis mot\nOn se comprend, il fait trop chaud\n\n[Chorus: full disco-funk groove, harmonies]\nMinuit tropical\nLa nuit est chaude, la nuit est longue\nMinuit tropical\nOn danse à peine, on tient la ronde\nMinuit tropical\n\n[Instrumental: synth solo, strings swelling]\n\n[Outro: bass riff, a ceiling fan, a low laugh]",
+    "taskId": "1656837afb8535067f212b3d3e2d8f17",
+    "sunoClipIds": [
+      "e082b6f6-2683-4d71-93cf-f6353285dd70",
+      "ae2607ee-1750-4aed-88a5-5274b90337f8"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928516618,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "e082b6f6-2683-4d71-93cf-f6353285dd70",
+        "durationSec": 214.8,
+        "file": "poolsidedeep/pd_10_minuit_tropical_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "ae2607ee-1750-4aed-88a5-5274b90337f8",
+        "durationSec": 214.44,
+        "file": "poolsidedeep/pd_10_minuit_tropical_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_10_minuit_tropical_req.json",
+      "poolsidedeep/pd_10_minuit_tropical_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_10_minuit_tropical.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_10_minuit_tropical.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, F# minor. A tight, humid, unhurried disco-funk groove.\n\nVOICE: Female, cool, breathy and even, sung in French with almost no vibrato and a faint smile. Two-part harmonies with herself in the choruses.\n\nINSTRUMENTS: A slap-and-pop bass guitar riff, glassy electric piano and string-synth chords, a tight disco kick, snare and sixteenth-note hi-hat, a scratching rhythm guitar, an analogue synth solo, congas, a real string line in the solo.\n\nARRANGEMENT MAP: 0:00 Intro, bass riff. 0:14 Verse 1. 0:42 Chorus 1. 1:08 Verse 2. 1:36 Chorus 2. 2:02 Synth solo. 2:34 Outro, bass, a fan and a laugh, ends 3:16.\n\nPRODUCTION & MIX: Mid-2010s French space disco: a live band recorded cleanly and warmly, bass and keys forward, voice airy.\n\nSIGNATURE MOMENT: The slap bass riff at 0:00.\n\nSTATION FIT: Sunday, midnight exactly. A cool, funky vocal track for the hottest hour. Translation of the chorus: tropical midnight, the night is hot, the night is long, we barely dance.\n\nEMOTIONAL ARC: Languid, close, wordless, warm.",
+    "workbookAtAGlance": "Minuit Tropical\n\nBackup titles\nLa Nuit Est Chaude / Midnight, Thirty Degrees\n\nAt a glance\n112 BPM, F# minor\nVoice: Cool, breathy female voice in French\nLength: about 3 minutes 20",
+    "year": 2015,
+    "qa": {
+      "title": "Minuit Tropical",
+      "id": "pd_10",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2)"
+          ],
+          "durationSec": 214.8,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 112,
+          "bpmErrPct": 0.3,
+          "lufs": -13.2,
+          "peakDbfs": -1.49,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 213.0,
+          "vocalCoverage": 0.22,
+          "vocalSpanSec": [
+            35.1,
+            186.5
+          ],
+          "vocalF0MedianHz": 269,
+          "vocalF0P25Hz": 248,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Verse 1",
+            "Chorus",
+            "Verse 2"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.05 dBFS (1 clipped sample, inaudible)",
+            "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2)"
+          ],
+          "durationSec": 214.5,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 112,
+          "bpmErrPct": 0.3,
+          "lufs": -12.6,
+          "peakDbfs": 0.05,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 0.9,
+          "contentEndSec": 212.1,
+          "vocalCoverage": 0.28,
+          "vocalSpanSec": [
+            9.1,
+            181.9
+          ],
+          "vocalF0MedianHz": 367,
+          "vocalF0P25Hz": 277,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Verse 1",
+            "Chorus",
+            "Verse 2"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Disco"
+  },
+  {
+    "id": "pd_11",
+    "title": "After the Pool Lights",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 11,
+    "slug": "pd_11_after_the_pool_lights",
+    "inspiredBy": "Clair de Lune (Flight Facilities feat. Christine Hoberg, 2012)",
+    "leadVoice": "Female, whispering and close, almost spoken, with long pauses. Doubled softly in the choruses. She hums wordlessly between the verses.",
+    "model": "V6",
+    "style": "Early-2010s dream pop and downtempo, whispering close almost spoken female vocal with long pauses, softly doubled in the choruses, wordless humming, 90 BPM, D-flat major, very slow dreamy patient feel with the beat entering only halfway, soft slow piano figure, warm pads, slow kick and brushed snare arriving late, deep rounded bass, string section, glockenspiel, soft wide warm mix with long reverbs, moonlit, intimate, serene",
+    "negativeTags": "male lead vocals, belting, rap, distorted synths, fast tempo, big room drop, trap hi-hats, rock guitar",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 285,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: slow piano figure, soft pad, crickets]\n\n[Verse 1: whispering female voice]\nClick, and the blue goes out\nThe water turns to ink\nNobody told the two of us\nSo we don't move, we don't think\n\n[Section: piano and pad, no beat, wordless humming]\n\n[Verse 2: voice barely louder]\nThen one white coin\nComes up from underneath\nThe whole sky's in the deep end\nShaking like a leaf\n\n[Beat Enters: slow kick, brushed snare, bass]\n\n[Chorus: voice doubled, strings]\nAfter the pool lights\nThere's only the moon\nAfter the pool lights\nThere's only me and you\nAnd nothing we have to do\n\n[Instrumental: piano melody over the slow beat, strings]\n\n[Chorus: voice doubled, strings]\nAfter the pool lights\nThere's only the moon\nAfter the pool lights\nThere's only me and you\nAnd nothing we have to do\n\n[Outro: piano alone, slowing, one drop in water]",
+    "taskId": "6beec8b1b93a534ac9700f94e0ff4d61",
+    "sunoClipIds": [
+      "b6194212-7a49-4411-89dd-b5e8eda77d7c",
+      "5031f4f2-e9cc-4645-8c01-3a8d2e159fac"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928528302,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "b6194212-7a49-4411-89dd-b5e8eda77d7c",
+        "durationSec": 284.76,
+        "file": "poolsidedeep/pd_11_after_the_pool_lights_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "5031f4f2-e9cc-4645-8c01-3a8d2e159fac",
+        "durationSec": 284.68,
+        "file": "poolsidedeep/pd_11_after_the_pool_lights_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_11_after_the_pool_lights_req.json",
+      "poolsidedeep/pd_11_after_the_pool_lights_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_11_after_the_pool_lights.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_11_after_the_pool_lights.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 90 BPM, 4/4, D-flat major. Very slow, dreamy and patient; the beat does not enter until halfway.\n\nVOICE: Female, whispering and close, almost spoken, with long pauses. Doubled softly in the choruses. She hums wordlessly between the verses.\n\nINSTRUMENTS: A soft, slow piano figure, warm pads, a slow kick and brushed snare that enter late, a deep rounded bass, a string section, a glockenspiel, crickets and a single drop of water.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:24 Verse 1. 0:56 Humming, no beat. 1:20 Verse 2. 1:52 Beat enters. 2:08 Chorus 1. 2:40 Instrumental. 3:12 Chorus 2. 3:44 Outro, piano slowing, a drop at 4:24.\n\nPRODUCTION & MIX: Early-2010s dream pop and downtempo: soft, wide and warm, long reverbs, the voice right at the ear.\n\nSIGNATURE MOMENT: The beat arriving at 1:52.\n\nSTATION FIT: Sunday, 2:30 a.m. The slowest vocal track in the set, for when almost everyone has gone.\n\nEMOTIONAL ARC: Hushed, watching, awed, at rest.",
+    "workbookAtAGlance": "After the Pool Lights\n\nBackup titles\nOnly the Moon Now / The Water Went Dark\n\nAt a glance\n90 BPM, D-flat major\nVoice: Whispering female voice\nLength: about 4 minutes 30",
+    "year": 2012,
+    "qa": {
+      "title": "After the Pool Lights",
+      "id": "pd_11",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 284.8,
+          "measuredBpm": 86.1,
+          "bpmFactor": 1,
+          "targetBpm": 90,
+          "bpmErrPct": 4.3,
+          "lufs": -13.6,
+          "peakDbfs": -0.76,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 283.2,
+          "vocalCoverage": 0.39,
+          "vocalSpanSec": [
+            22.2,
+            258.8
+          ],
+          "vocalF0MedianHz": 312,
+          "vocalF0P25Hz": 298,
+          "lyricLineRecall": 0.944,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 284.7,
+          "measuredBpm": 86.1,
+          "bpmFactor": 1,
+          "targetBpm": 90,
+          "bpmErrPct": 4.3,
+          "lufs": -12.8,
+          "peakDbfs": -0.25,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.3,
+          "contentEndSec": 283.2,
+          "vocalCoverage": 0.339,
+          "vocalSpanSec": [
+            22.6,
+            269.7
+          ],
+          "vocalF0MedianHz": 311,
+          "vocalF0P25Hz": 295,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Downtempo"
+  },
+  {
+    "id": "pd_12",
+    "title": "Causeway at Dusk",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 12,
+    "slug": "pd_12_causeway_at_dusk",
+    "inspiredBy": "Beyond Beliefs (Ben Böhmer, 2021)",
+    "leadVoice": "None. The lead is a monophonic synthesizer with a vocal-like tone and a slow glide between notes.",
+    "model": "V6",
+    "style": "Early-2020s melodic house instrumental, no vocals, a singing monophonic analogue lead synth with a vocal-like tone and slow glide playing a simple emotional melody, 122 BPM, F major, warm steady feel with chords that keep opening upward, plucked chord stabs, warm four-on-the-floor kick, rounded bass, soft pads, piano taking the melody in the break, string pad, crisp hi-hats, warm clear wide mix with a live feel, emotional, uplifting, sunset",
+    "negativeTags": "vocals, lyrics, rap, distorted guitar, big room drop, trap hi-hats, dark mood, harsh synths",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: soft pad, filtered kick, tires humming on a bridge]\n\n[Section A: kick opens, warm bass, plucked chords]\n\n[Melody 1: singing synth lead, simple and slow]\n\n[Build: chords rising, hi-hats, a second harmony line]\n\n[Drop: full groove, lead melody an octave higher]\n\n[Break: beat out, piano playing the melody alone]\n\n[Build: snare roll, pad swelling]\n\n[Drop: full groove, lead and piano together, strings]\n\n[Outro: pad and piano, the hum of the bridge fading]",
+    "taskId": "a552839f5335f8573855bb47f5f40da6",
+    "sunoClipIds": [
+      "1e071ae2-0b4a-413d-b1d2-fd943c4d44dd",
+      "83309368-74f4-48d9-8370-bedc9124b034"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928516704,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "1e071ae2-0b4a-413d-b1d2-fd943c4d44dd",
+        "durationSec": 224.6,
+        "file": "poolsidedeep/pd_12_causeway_at_dusk_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "83309368-74f4-48d9-8370-bedc9124b034",
+        "durationSec": 225.0,
+        "file": "poolsidedeep/pd_12_causeway_at_dusk_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_12_causeway_at_dusk_req.json",
+      "poolsidedeep/pd_12_causeway_at_dusk_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_12_causeway_at_dusk.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_12_causeway_at_dusk.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, F major. Warm, steady and emotional, opening upward all the way through.\n\nVOICE: None. The lead is a monophonic synthesizer with a vocal-like tone and a slow glide between notes.\n\nINSTRUMENTS: A singing analogue lead synth, plucked chord stabs, a warm four-on-the-floor kick, a rounded bass, soft pads, a piano that takes the melody in the break, a string pad, crisp hi-hats, bridge and tyre hum.\n\nARRANGEMENT MAP: 0:00 Intro, pad and bridge hum. 0:20 Section A. 0:46 Melody 1. 1:14 Build. 1:28 Drop 1. 1:58 Break, piano. 2:16 Build. 2:28 Drop 2. 3:00 Outro, ends 3:28.\n\nPRODUCTION & MIX: Early-2020s melodic house: warm, clear and wide, played with a live feel, lead sitting where a voice would.\n\nSIGNATURE MOMENT: The lead melody entering at 0:46.\n\nSTATION FIT: Saturday, 5:30 p.m. Crossing to the beach at sunset: the second track of the set and its first instrumental.\n\nEMOTIONAL ARC: Expectant, lifted, tender, arriving.",
+    "workbookAtAGlance": "Causeway at Dusk\n\nBackup titles\nWater on Both Sides / Skyline in the Mirror\n\nAt a glance\n122 BPM, F major\nVoice: Instrumental\nLength: about 3 minutes 30",
+    "year": 2021,
+    "qa": {
+      "title": "Causeway at Dusk",
+      "id": "pd_12",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.6,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 122,
+          "bpmErrPct": 5.9,
+          "lufs": -13.8,
+          "peakDbfs": -2.03,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.9,
+          "contentEndSec": 223.2,
+          "vocalCoverage": 0.0,
+          "vocalSpanSec": [
+            0.0,
+            224.7
+          ],
+          "vocalF0MedianHz": 0,
+          "vocalF0P25Hz": 0,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 225.0,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 122,
+          "bpmErrPct": 5.9,
+          "lufs": -14.1,
+          "peakDbfs": -1.48,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 224.5,
+          "vocalCoverage": 0.031,
+          "vocalSpanSec": [
+            193.5,
+            205.2
+          ],
+          "vocalF0MedianHz": 437,
+          "vocalF0P25Hz": 390,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Melodic House"
+  },
+  {
+    "id": "pd_13",
+    "title": "We Were Neon",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 13,
+    "slug": "pd_13_we_were_neon",
+    "inspiredBy": "Sometimes (Miami Horror, 2010)",
+    "leadVoice": "Male tenor, light and wistful, slightly breathy, with stacked harmonies in the choruses.",
+    "model": "V6",
+    "style": "Around-2010 Australian indie dance with 1980s colours, light wistful slightly breathy male tenor with stacked harmonies in the choruses, 118 BPM, E major, bright bouncing bittersweet feel, shimmering chorused synth chords, bouncing synth bass, tight disco-rock drum kit, chiming clean guitar, bright lead synth solo, handclaps, glossy bright punchy mix, nostalgic, warm, sunny",
+    "negativeTags": "female lead vocals, rap, distorted bass, big room drop, trap hi-hats, slow ballad, dark mood, harsh mix",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: shimmering synth chords, bouncing bass, drum fill]\n\n[Verse 1: wistful male tenor]\nPink sign buzzing over the door\nSame two colors that we wore\nJelly shoes and a borrowed car\nWe thought we'd lit up every star\n\n[Chorus: full indie-dance groove, harmonies]\nWe were neon\nPink and blue and seventeen\nWe were neon\nBrightest thing I've ever been\nLook at us, still a little bright\nWe were neon, and we are tonight\n\n[Verse 2: voice warmer, guitar chiming]\nNow it's reading glasses, sensible shoes\nNine o'clock and the early news\nBut you laugh, and there's that glow\nSame as thirty years ago\n\n[Chorus: full indie-dance groove, harmonies]\nWe were neon\nPink and blue and seventeen\nWe were neon\nBrightest thing I've ever been\nLook at us, still a little bright\nWe were neon, and we are tonight\n\n[Instrumental: synth solo, handclaps]\n\n[Outro: synth chords, the sign buzzing, flickering]",
+    "taskId": "0a834940dd2bc4a0eba3bbb4eadac48b",
+    "sunoClipIds": [
+      "aff630b0-12a9-417f-9160-1798327fb9d2",
+      "8a58d147-9c82-4f59-81e7-da75ef7b5422"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928548982,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "aff630b0-12a9-417f-9160-1798327fb9d2",
+        "durationSec": 214.32,
+        "file": "poolsidedeep/pd_13_we_were_neon_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "8a58d147-9c82-4f59-81e7-da75ef7b5422",
+        "durationSec": 214.36,
+        "file": "poolsidedeep/pd_13_we_were_neon_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_13_we_were_neon_req.json",
+      "poolsidedeep/pd_13_we_were_neon_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_13_we_were_neon.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_13_we_were_neon.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, E major. Bright, bouncing and bittersweet indie dance.\n\nVOICE: Male tenor, light and wistful, slightly breathy, with stacked harmonies in the choruses.\n\nINSTRUMENTS: Shimmering, chorused synth chords, a bouncing synth bass, a tight disco-rock drum kit, a chiming clean guitar, a bright lead synth solo, handclaps, a buzzing neon sign.\n\nARRANGEMENT MAP: 0:00 Intro. 0:12 Verse 1. 0:40 Chorus 1. 1:10 Verse 2. 1:38 Chorus 2. 2:08 Synth solo. 2:36 Outro, chords and the sign flickering, ends 3:18.\n\nPRODUCTION & MIX: Around-2010 Australian indie dance: glossy, bright and punchy, synths wide, drums live.\n\nSIGNATURE MOMENT: 'Look at us, still a little bright' at 0:58.\n\nSTATION FIT: Saturday, 9 p.m. The most upbeat vocal track of the evening, with 1980s colour.\n\nEMOTIONAL ARC: Nostalgic, rueful, warmed, lit.",
+    "workbookAtAGlance": "We Were Neon\n\nBackup titles\nPink and Blue at Seventeen / Still a Little Bright\n\nAt a glance\n118 BPM, E major\nVoice: Wistful male tenor\nLength: about 3 minutes 20",
+    "year": 2010,
+    "qa": {
+      "title": "We Were Neon",
+      "id": "pd_13",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.3,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 4.3,
+          "lufs": -12.9,
+          "peakDbfs": -1.27,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.9,
+          "contentEndSec": 212.7,
+          "vocalCoverage": 0.417,
+          "vocalSpanSec": [
+            20.8,
+            200.3
+          ],
+          "vocalF0MedianHz": 372,
+          "vocalF0P25Hz": 277,
+          "lyricLineRecall": 0.7,
+          "lyricUnclearSections": [
+            "Verse 1"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.4,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 4.3,
+          "lufs": -12.3,
+          "peakDbfs": -0.36,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 212.6,
+          "vocalCoverage": 0.426,
+          "vocalSpanSec": [
+            20.1,
+            188.7
+          ],
+          "vocalF0MedianHz": 331,
+          "vocalF0P25Hz": 248,
+          "lyricLineRecall": 0.7,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Disco"
+  },
+  {
+    "id": "pd_14",
+    "title": "Stay or Go",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 14,
+    "slug": "pd_14_stay_or_go",
+    "inspiredBy": "Tearing Me Up (Bob Moses, 2015)",
+    "leadVoice": "Male, low, smoky and held back, almost murmured, with a tired warmth. Doubled in the choruses. One spoken line at the end.",
+    "model": "V6",
+    "style": "Mid-2010s indie deep house played like a band, low smoky held-back male vocal almost murmured, doubled in the choruses, 116 BPM, E minor, slow dark smoky feel, clean bluesy electric guitar lick, slow four-on-the-floor kick with dry snare, deep bass guitar, dark pads, open hi-hats, Rhodes electric piano, restrained guitar solo, dark warm spacious mix, tempted, hesitant, late-night",
+    "negativeTags": "female lead vocals, belting, rap, bright pop chorus, trap hi-hats, big room drop, brass, cheerful major key",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bluesy guitar lick, dark house kick, bass]\n\n[Verse 1: smoky restrained male voice]\nCheck's on the bar, pen's in my hand\nBand's on a break, I'd made a plan\nThen the seat by you came free\nNow the pen's just looking at me\n\n[Chorus: fuller groove, voice doubled, guitar answering]\nStay or go, stay or go\nOne more round, or the bill\nStay or go, I don't know\nI've been standing here so still\nStay or go\n\n[Verse 2: voice closer, hi-hats open]\nYou look up, then you look down\nThere's a smile you don't quite hide\nI could sign and say good night\nI could ask what you're drinking tonight\n\n[Chorus: fuller groove, voice doubled, guitar answering]\nStay or go, stay or go\nOne more round, or the bill\nStay or go, I don't know\nI've been standing here so still\nStay or go\n\n[Guitar Break: slow bluesy solo over the beat]\n\n[Outro: groove, a stool pulled out, \"Is this taken?\"]",
+    "taskId": "5e056c01f919bbcc2f7f5f1d6ebfdf57",
+    "sunoClipIds": [
+      "879ffeed-a4bc-4021-99d4-ab3fc0fa2180",
+      "12e9ebc3-2bdc-4dfe-9b62-29c850d5dea4"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928515607,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "879ffeed-a4bc-4021-99d4-ab3fc0fa2180",
+        "durationSec": 224.88,
+        "file": "poolsidedeep/pd_14_stay_or_go_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "12e9ebc3-2bdc-4dfe-9b62-29c850d5dea4",
+        "durationSec": 224.88,
+        "file": "poolsidedeep/pd_14_stay_or_go_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_14_stay_or_go_req.json",
+      "poolsidedeep/pd_14_stay_or_go_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_14_stay_or_go.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_14_stay_or_go.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 116 BPM, 4/4, E minor. Slow, dark and smoky, a rock band at club tempo.\n\nVOICE: Male, low, smoky and held back, almost murmured, with a tired warmth. Doubled in the choruses. One spoken line at the end.\n\nINSTRUMENTS: A clean, bluesy electric guitar playing a short lick, a slow four-on-the-floor kick with a dry snare, a deep bass guitar, dark pads, open hi-hats, a Rhodes electric piano, a restrained guitar solo.\n\nARRANGEMENT MAP: 0:00 Intro, guitar lick. 0:18 Verse 1. 0:48 Chorus 1. 1:16 Verse 2. 1:46 Chorus 2. 2:14 Guitar break. 2:42 Outro, a stool and a spoken line at 3:20.\n\nPRODUCTION & MIX: Mid-2010s indie deep house: dark, warm and spacious, guitar and voice dry in front, kick deep.\n\nSIGNATURE MOMENT: 'Now the pen's just looking at me' at 0:42.\n\nSTATION FIT: Saturday, 10 p.m. A dark, guitar-led vocal track for the bar end of the pool.\n\nEMOTIONAL ARC: Decided, undecided, tempted, asking.",
+    "workbookAtAGlance": "Stay or Go\n\nBackup titles\nOne More or the Bill / Coin on the Bar\n\nAt a glance\n116 BPM, E minor\nVoice: Smoky, restrained male voice\nLength: about 3 minutes 30",
+    "year": 2015,
+    "qa": {
+      "title": "Stay or Go",
+      "id": "pd_14",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.9,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 116,
+          "bpmErrPct": 1.3,
+          "lufs": -11.8,
+          "peakDbfs": -0.65,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 223.2,
+          "vocalCoverage": 0.37,
+          "vocalSpanSec": [
+            17.5,
+            208.8
+          ],
+          "vocalF0MedianHz": 166,
+          "vocalF0P25Hz": 149,
+          "lyricLineRecall": 0.944,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.9,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 116,
+          "bpmErrPct": 1.3,
+          "lufs": -11.9,
+          "peakDbfs": -0.34,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.2,
+          "contentEndSec": 223.2,
+          "vocalCoverage": 0.394,
+          "vocalSpanSec": [
+            2.0,
+            214.3
+          ],
+          "vocalF0MedianHz": 187,
+          "vocalF0P25Hz": 165,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "House"
+  },
+  {
+    "id": "pd_15",
+    "title": "The Long Way Back to the Room",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 15,
+    "slug": "pd_15_the_long_way_back_to_the_room",
+    "inspiredBy": "Return to Oz (ARTBAT Remix) (Monolink, 2019)",
+    "leadVoice": "Male, soft, slightly breathy and folk-like, with a faint accent, sung calmly as if to himself. Doubled in the choruses. Alone with a pad in the breakdown.",
+    "model": "V6",
+    "style": "Late-2010s melodic techno with a folk-like vocal, soft slightly breathy calm male voice with a faint accent, doubled in the choruses, alone with a pad in a long breakdown, 123 BPM, G minor, driving dark hypnotic feel with a gentle top line, firm four-on-the-floor kick, dark rolling bassline, plaintive analogue synth lead, climbing arpeggio, crisp hi-hats, long pads, quiet strummed acoustic guitar, deep dark wide mix, wistful, solitary, nocturnal",
+    "negativeTags": "female lead vocals, belting, rap, bright pop chorus, trap hi-hats, brass, cheerful major key, rock drums",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: driving kick, dark rolling bass, distant surf]\n\n[Verse 1: soft folk-like male voice]\nShoes in my hand, the music's behind me\nThe lobby's bright, I go around\nSand all the way to the last umbrella\nNobody knows I'm not in bed\n\n[Chorus: synth lead rising, voice doubled]\nI'm taking the long way back to the room\nLow tide, no shoes, half a moon\nNothing waiting, nothing due\nThe long way back to the room\n\n[Breakdown: beat stops, pad and voice alone]\nLet it be late\nLet it be late\nI'm not done with the air\n\n[Build: arpeggio climbing, snare roll]\n\n[Drop: full driving groove, lead melody]\n\n[Chorus: voice over the full groove]\nI'm taking the long way back to the room\nLow tide, no shoes, half a moon\nNothing waiting, nothing due\nThe long way back to the room\n\n[Outro: kick and bass, a key card beep, a door]",
+    "taskId": "0668e28dc06a1aa14caeee5a8b4e8e11",
+    "sunoClipIds": [
+      "e55a4d7f-8c1a-49c3-af3e-efe6cddb7fd2",
+      "65cb90e2-7e86-4bc6-970b-f91383eb5be4"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928527731,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "e55a4d7f-8c1a-49c3-af3e-efe6cddb7fd2",
+        "durationSec": 244.76,
+        "file": "poolsidedeep/pd_15_the_long_way_back_to_the_room_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "65cb90e2-7e86-4bc6-970b-f91383eb5be4",
+        "durationSec": 244.08,
+        "file": "poolsidedeep/pd_15_the_long_way_back_to_the_room_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_15_the_long_way_back_to_the_room_req.json",
+      "poolsidedeep/pd_15_the_long_way_back_to_the_room_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_15_the_long_way_back_to_the_room.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_15_the_long_way_back_to_the_room.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 123 BPM, 4/4, G minor. Driving, dark and hypnotic underneath, gentle on top.\n\nVOICE: Male, soft, slightly breathy and folk-like, with a faint accent, sung calmly as if to himself. Doubled in the choruses. Alone with a pad in the breakdown.\n\nINSTRUMENTS: A firm four-on-the-floor kick, a dark rolling bassline, a plaintive analogue synth lead, a climbing arpeggio, crisp hi-hats, long pads, a strummed acoustic guitar low in the mix, surf.\n\nARRANGEMENT MAP: 0:00 Intro, kick and bass. 0:24 Verse 1. 0:56 Chorus 1. 1:24 Breakdown, voice alone. 1:52 Build. 2:08 Drop. 2:40 Chorus 2. 3:10 Outro, a key card and a door, ends 3:48.\n\nPRODUCTION & MIX: Late-2010s melodic techno: deep, dark and wide, kick and bass powerful, voice soft and clear above them.\n\nSIGNATURE MOMENT: The beat returning after the breakdown at 2:08.\n\nSTATION FIT: Sunday, 3 a.m. The most driving track in the set, for the walk back when the night is nearly spent.\n\nEMOTIONAL ARC: Unhurried, alone, lingering, in.",
+    "workbookAtAGlance": "The Long Way Back to the Room\n\nBackup titles\nShoes in My Hand / Sand All the Way\n\nAt a glance\n123 BPM, G minor\nVoice: Soft, folk-like male voice\nLength: about 3 minutes 50",
+    "year": 2019,
+    "qa": {
+      "title": "The Long Way Back to the Room",
+      "id": "pd_15",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.8,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 123,
+          "bpmErrPct": 0.0,
+          "lufs": -13.0,
+          "peakDbfs": -1.03,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 3.4,
+          "contentEndSec": 242.2,
+          "vocalCoverage": 0.235,
+          "vocalSpanSec": [
+            30.8,
+            198.0
+          ],
+          "vocalF0MedianHz": 147,
+          "vocalF0P25Hz": 131,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.1,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 123,
+          "bpmErrPct": 0.0,
+          "lufs": -12.3,
+          "peakDbfs": -1.15,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.9,
+          "contentEndSec": 241.6,
+          "vocalCoverage": 0.186,
+          "vocalSpanSec": [
+            31.9,
+            184.9
+          ],
+          "vocalF0MedianHz": 260,
+          "vocalF0P25Hz": 221,
+          "lyricLineRecall": 0.933,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Techno"
+  },
+  {
+    "id": "pd_16",
+    "title": "Wade In",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 16,
+    "slug": "pd_16_wade_in",
+    "inspiredBy": "Begin (Shallou feat. Wales, 2017)",
+    "leadVoice": "Male falsetto, high, breathy and gentle, with soft stacked harmonies in the choruses. No chest voice anywhere.",
+    "model": "V6",
+    "style": "Late-2010s chill electronic, high breathy gentle male falsetto with soft stacked harmonies in the choruses, no chest voice, 100 BPM, G major, slow bright airy feel, shimmering soft-attack synth pads, plucked bell-like synth melody, gentle kick with finger snaps, warm sub bass, clean guitar harmonics, birdsong, soft glassy wide mix, hopeful, gentle, fresh",
+    "negativeTags": "female lead vocals, belting, rap, distorted synths, big room drop, trap hi-hats, rock guitar, dark mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 205,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: shimmering pad, soft plucks, morning birds]\n\n[Verse 1: airy male falsetto]\nCold to the ankles\nCold to the knees\nNobody's watching\nGo as you please\n\n[Chorus: soft beat enters, harmonies]\nWade in, wade in\nOne step, then the next\nWade in, wade in\nYou don't have to jump yet\n\n[Drop: plucked synth melody, sub bass, snaps]\n\n[Verse 2: falsetto, a little fuller]\nUp to the waist now\nUp to the chest\nBreathe out and lean back\nWater does the rest\n\n[Chorus: soft beat, harmonies]\nWade in, wade in\nOne step, then the next\nWade in, wade in\nYou don't have to jump yet\n\n[Outro: pad and plucks, one long breath, water]",
+    "taskId": "331ec96130d6c93bd30cd713a06c7273",
+    "sunoClipIds": [
+      "0ea07b68-df55-45ec-84f5-5921f93a7583",
+      "3462d426-6f0a-4661-95af-8f388d59d3b6"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928544276,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0ea07b68-df55-45ec-84f5-5921f93a7583",
+        "durationSec": 204.76,
+        "file": "poolsidedeep/pd_16_wade_in_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "3462d426-6f0a-4661-95af-8f388d59d3b6",
+        "durationSec": 204.8,
+        "file": "poolsidedeep/pd_16_wade_in_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_16_wade_in_req.json",
+      "poolsidedeep/pd_16_wade_in_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_16_wade_in.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_16_wade_in.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 100 BPM, 4/4, G major. Slow, bright and airy, like cool morning light.\n\nVOICE: Male falsetto, high, breathy and gentle, with soft stacked harmonies in the choruses. No chest voice anywhere.\n\nINSTRUMENTS: Shimmering, soft-attack synth pads, a plucked bell-like synth melody, a gentle kick with finger snaps, a warm sub bass, a clean guitar playing harmonics, birdsong and water.\n\nARRANGEMENT MAP: 0:00 Intro, pad and birds. 0:16 Verse 1. 0:40 Chorus 1. 1:04 Drop, plucked melody. 1:28 Verse 2. 1:52 Chorus 2. 2:16 Outro, pad, a breath and water, ends 3:06.\n\nPRODUCTION & MIX: Late-2010s chill electronic: soft, glassy and wide, everything rounded, voice floating.\n\nSIGNATURE MOMENT: 'You don't have to jump yet' at 0:58.\n\nSTATION FIT: Sunday, 7 a.m. The first vocal track of the morning: slow, clear and kind.\n\nEMOTIONAL ARC: Hesitant, easing, floating, calm.",
+    "workbookAtAGlance": "Wade In\n\nBackup titles\nOne Step, Then the Next / Cold to the Knees\n\nAt a glance\n100 BPM, G major\nVoice: Airy male falsetto\nLength: about 3 minutes 10",
+    "year": 2017,
+    "qa": {
+      "title": "Wade In",
+      "id": "pd_16",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 204.8,
+          "measuredBpm": 99.4,
+          "bpmFactor": 1,
+          "targetBpm": 100,
+          "bpmErrPct": 0.6,
+          "lufs": -12.2,
+          "peakDbfs": -0.34,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 203.2,
+          "vocalCoverage": 0.296,
+          "vocalSpanSec": [
+            21.5,
+            158.8
+          ],
+          "vocalF0MedianHz": 248,
+          "vocalF0P25Hz": 220,
+          "lyricLineRecall": 0.733,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 204.8,
+          "measuredBpm": 99.4,
+          "bpmFactor": 1,
+          "targetBpm": 100,
+          "bpmErrPct": 0.6,
+          "lufs": -12.1,
+          "peakDbfs": -0.14,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.5,
+          "contentEndSec": 202.1,
+          "vocalCoverage": 0.327,
+          "vocalSpanSec": [
+            21.6,
+            177.4
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 248,
+          "lyricLineRecall": 0.733,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other"
+  },
+  {
+    "id": "pd_17",
+    "title": "A1A",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 17,
+    "slug": "pd_17_a1a",
+    "inspiredBy": "Road (Lane 8 feat. Arctic Lake, 2020)",
+    "leadVoice": "Female, clear, cool and unforced, mid-range, with soft reverb. Doubled in the choruses. She sings the road's name as three letters and numbers: A, one, A.",
+    "model": "V6",
+    "style": "2020 melodic house, clear cool unforced mid-range female vocal with soft reverb, doubled in the choruses, 122 BPM, B-flat major, warm steady gently euphoric driving-at-dusk feel, warm analogue pads, soft four-on-the-floor kick, rounded bass, patient rising synth melody, claps and shakers, plucked guitar-like synth, warm wide smooth mix, hopeful, free, anticipating",
+    "negativeTags": "male lead vocals, belting, rap, distorted synths, big room drop, trap hi-hats, rock guitar, dark mood",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: warm pad, soft kick, a car door, wind]\n\n[Verse 1: clear cool female voice]\nBridge behind me, bags in back\nRadio's found a station I like\nPalm, palm, pink motel\nOcean flashing on my left side\n\n[Chorus: full melodic house groove, voice doubled]\nA1A, windows down\nEvery mile a little lighter\nA1A, salt and sound\nI can feel the week untie\nA1A\n\n[Drop: rising synth melody, bass, claps]\n\n[Verse 2: voice warmer]\nDrawbridge up, I don't mind\nPelican on a piling, still\nSomebody's waiting with a cold one\nI'll be there when I get there\n\n[Chorus: full groove, voice doubled]\nA1A, windows down\nEvery mile a little lighter\nA1A, salt and sound\nI can feel the week untie\nA1A\n\n[Outro: pad, tires on a shell driveway, engine off]",
+    "taskId": "44e102d2bf55c0f8e8f16432baffaeb3",
+    "sunoClipIds": [
+      "2136e7d3-1a23-461c-b4b6-28d29e736801",
+      "94d9bc74-0e66-4ecc-9bcf-74c359584692"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928529220,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "2136e7d3-1a23-461c-b4b6-28d29e736801",
+        "durationSec": 224.4,
+        "file": "poolsidedeep/pd_17_a1a_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "94d9bc74-0e66-4ecc-9bcf-74c359584692",
+        "durationSec": 224.4,
+        "file": "poolsidedeep/pd_17_a1a_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_17_a1a_req.json",
+      "poolsidedeep/pd_17_a1a_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_17_a1a.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_17_a1a.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, B-flat major. Warm, steady and gently euphoric, a drive at dusk.\n\nVOICE: Female, clear, cool and unforced, mid-range, with soft reverb. Doubled in the choruses. She sings the road's name as three letters and numbers: A, one, A.\n\nINSTRUMENTS: Warm analogue pads, a soft four-on-the-floor kick, a rounded bass, a patient rising synth melody, claps and shakers, a plucked guitar-like synth, wind and car sounds.\n\nARRANGEMENT MAP: 0:00 Intro, pad and car door. 0:20 Verse 1. 0:48 Chorus 1. 1:16 Drop. 1:44 Verse 2. 2:12 Chorus 2. 2:42 Outro, a driveway and engine off, ends 3:28.\n\nPRODUCTION & MIX: 2020 melodic house: warm, wide and smooth, pads glowing, kick soft, voice clear.\n\nSIGNATURE MOMENT: 'I can feel the week untie' at 1:04.\n\nSTATION FIT: Saturday, 5 p.m. The set's opening track: the drive down the coast before anything has happened.\n\nEMOTIONAL ARC: Leaving, loosening, patient, arrived.",
+    "workbookAtAGlance": "A1A\n\nBackup titles\nOcean on the Left / Windows Down to Hollywood\n\nAt a glance\n122 BPM, B-flat major\nVoice: Clear, cool female voice\nLength: about 3 minutes 30",
+    "year": 2020,
+    "qa": {
+      "title": "A1A",
+      "id": "pd_17",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check partial: 50% of lines recognised"
+          ],
+          "durationSec": 224.4,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 122,
+          "bpmErrPct": 0.9,
+          "lufs": -13.8,
+          "peakDbfs": -0.66,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.5,
+          "contentEndSec": 220.8,
+          "vocalCoverage": 0.294,
+          "vocalSpanSec": [
+            20.4,
+            190.4
+          ],
+          "vocalF0MedianHz": 292,
+          "vocalF0P25Hz": 261,
+          "lyricLineRecall": 0.5,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check partial: 56% of lines recognised (unclear: Verse 2)"
+          ],
+          "durationSec": 224.4,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 122,
+          "bpmErrPct": 0.9,
+          "lufs": -14.1,
+          "peakDbfs": -0.45,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 222.7,
+          "vocalCoverage": 0.317,
+          "vocalSpanSec": [
+            19.6,
+            181.9
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 234,
+          "lyricLineRecall": 0.562,
+          "lyricUnclearSections": [
+            "Verse 2"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Melodic House"
+  },
+  {
+    "id": "pd_18",
+    "title": "Gray Is Fine",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 18,
+    "slug": "pd_18_gray_is_fine",
+    "inspiredBy": "Painting Greys (Emmit Fenn, 2017)",
+    "leadVoice": "Male, low, soft and close, almost spoken, with a slight grain. Doubled an octave up, very quietly, in the choruses.",
+    "model": "V6",
+    "style": "Late-2010s electronic piano ballad, low soft close almost spoken male vocal with a slight grain, doubled very quietly an octave up in the choruses, 78 BPM, A minor ending on a major chord, very slow still warm feel, felt-damped piano, soft electronic kick and rim click entering with the chorus, deep sub bass, quiet pad, a few plucked guitar notes, rain on water, intimate dry mix, calm, accepting, cosy",
+    "negativeTags": "female lead vocals, belting, rap, fast tempo, bright synth leads, big room drop, trap hi-hats, rock guitar",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: slow piano chords, rain on water]\n\n[Verse 1: low intimate male voice]\nNo sun today, the sky's a sheet\nLoungers folded, wet concrete\nThe pool is rings on rings on rings\nI'm at the window, watching things\n\n[Chorus: soft beat enters, voice doubled]\nGray is fine\nGray is fine\nI don't need it blue to call it mine\nCoffee, quiet, rain on the line\nGray is fine\n\n[Verse 2: voice a little warmer]\nYou're still asleep, the sheet's a hill\nThe radio is low and still\nNobody's calling, nothing's planned\nI've got a warm cup in my hand\n\n[Chorus: soft beat, sub bass, voice doubled]\nGray is fine\nGray is fine\nI don't need it blue to call it mine\nCoffee, quiet, rain on the line\nGray is fine\n\n[Outro: piano, rain easing, a spoon in a cup]",
+    "taskId": "1a5e1fcef8ce46d6355ef60ace676b1c",
+    "sunoClipIds": [
+      "954838cf-4258-494b-a58a-e2ef932305d5",
+      "37fd20f0-f281-4d21-9f76-4c70a973b27f"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928536447,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "954838cf-4258-494b-a58a-e2ef932305d5",
+        "durationSec": 214.76,
+        "file": "poolsidedeep/pd_18_gray_is_fine_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "37fd20f0-f281-4d21-9f76-4c70a973b27f",
+        "durationSec": 214.8,
+        "file": "poolsidedeep/pd_18_gray_is_fine_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_18_gray_is_fine_req.json",
+      "poolsidedeep/pd_18_gray_is_fine_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_18_gray_is_fine.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_18_gray_is_fine.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 78 BPM, 4/4, A minor ending on C major. Very slow, still and warm.\n\nVOICE: Male, low, soft and close, almost spoken, with a slight grain. Doubled an octave up, very quietly, in the choruses.\n\nINSTRUMENTS: A felt-damped piano, a soft electronic kick and rim click that enter with the chorus, a deep sub bass, a quiet pad, a few plucked guitar notes, rain on water throughout.\n\nARRANGEMENT MAP: 0:00 Intro, piano and rain. 0:18 Verse 1. 0:54 Chorus 1, beat in. 1:26 Verse 2. 2:02 Chorus 2. 2:34 Outro, piano, rain easing, a spoon at 3:10.\n\nPRODUCTION & MIX: Late-2010s electronic ballad: intimate and dry, piano and voice close, beat and bass soft and low.\n\nSIGNATURE MOMENT: 'I don't need it blue to call it mine' at 1:06.\n\nSTATION FIT: Sunday, 10 a.m., in the rain. The slowest and quietest vocal track, for a morning indoors.\n\nEMOTIONAL ARC: Flat, noticing, content, warm.",
+    "workbookAtAGlance": "Gray Is Fine\n\nBackup titles\nRain on the Pool / Nobody's Complaining\n\nAt a glance\n78 BPM, A minor\nVoice: Low, intimate male voice\nLength: about 3 minutes 20",
+    "year": 2017,
+    "qa": {
+      "title": "Gray Is Fine",
+      "id": "pd_18",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.8,
+          "measuredBpm": 78.3,
+          "bpmFactor": 1,
+          "targetBpm": 78,
+          "bpmErrPct": 0.4,
+          "lufs": -14.2,
+          "peakDbfs": -0.23,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 3.4,
+          "contentEndSec": 214.1,
+          "vocalCoverage": 0.207,
+          "vocalSpanSec": [
+            13.6,
+            160.5
+          ],
+          "vocalF0MedianHz": 154,
+          "vocalF0P25Hz": 147,
+          "lyricLineRecall": 0.944,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.8,
+          "measuredBpm": 78.3,
+          "bpmFactor": 1,
+          "targetBpm": 78,
+          "bpmErrPct": 0.4,
+          "lufs": -14.1,
+          "peakDbfs": -0.14,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 212.8,
+          "vocalCoverage": 0.265,
+          "vocalSpanSec": [
+            25.1,
+            151.6
+          ],
+          "vocalF0MedianHz": 143,
+          "vocalF0P25Hz": 130,
+          "lyricLineRecall": 0.944,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Piano Ballad"
+  },
+  {
+    "id": "pd_19",
+    "title": "Lobby Cat",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 19,
+    "slug": "pd_19_lobby_cat",
+    "inspiredBy": "Coma Cat (Tensnake, 2010)",
+    "leadVoice": "No sung vocals. Short one-syllable vocal stabs used as percussion. A doorman speaks two dry words to the cat in the break.",
+    "model": "V6",
+    "style": "2010 nu-disco instrumental, no sung vocals, short one-syllable vocal stabs used as percussion, 120 BPM, A minor with a bright major-sounding riff, bouncy stylish good-humoured feel, bright bell-like synth playing a bouncing riff, rubbery synth bass, crisp disco drums with open hi-hats, handclaps, cowbell, short string stabs, clean bright punchy mix, playful, confident, early evening",
+    "negativeTags": "sung lyrics, lead vocals, rap, distorted bass, big room drop, trap hi-hats, slow ballad, dark mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: crisp disco drums, rubbery bass line]\n\n[Riff: bright bouncing bell-like synth]\n(Hey)\n\n[Section A: riff and bass together, handclaps]\n(Hey, hey)\n\n[Section B: string stabs, cowbell, riff answers]\n\n[Break: bass alone, lobby murmur, a desk bell, a purr]\n\n[Spoken: a doorman, dry]\nEvening, sir\n\n[Riff Returns: full groove, riff doubled an octave up]\n(Hey, hey)\n\n[Outro: drums and bass, the riff fading, one small meow]",
+    "taskId": "9db003028a8b2e384f71022648fb80a1",
+    "sunoClipIds": [
+      "660d21ac-f209-43e4-af91-9066cb6404b0",
+      "be4491d7-2996-470b-bb73-5f02ca1be963"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928550317,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "660d21ac-f209-43e4-af91-9066cb6404b0",
+        "durationSec": 214.8,
+        "file": "poolsidedeep/pd_19_lobby_cat_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "be4491d7-2996-470b-bb73-5f02ca1be963",
+        "durationSec": 214.8,
+        "file": "poolsidedeep/pd_19_lobby_cat_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_19_lobby_cat_req.json",
+      "poolsidedeep/pd_19_lobby_cat_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_19_lobby_cat.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_19_lobby_cat.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, A minor with a bright, major-sounding riff. Bouncy, stylish and good-humoured.\n\nVOICE: No sung vocals. Short one-syllable vocal stabs used as percussion. A doorman speaks two dry words to the cat in the break.\n\nINSTRUMENTS: A bright, bell-like synth playing a bouncing riff, a rubbery synth bass, crisp disco drums with open hi-hats, handclaps, cowbell, short string stabs, a lobby murmur, a desk bell, a cat's purr and one meow.\n\nARRANGEMENT MAP: 0:00 Intro, drums and bass. 0:16 Riff. 0:48 Section A. 1:20 Section B, strings. 1:50 Break, bass alone. 2:02 Spoken line. 2:06 Riff returns, doubled. 2:50 Outro, one meow at 3:14.\n\nPRODUCTION & MIX: 2010 nu-disco: clean, bright and punchy, bass rubbery and forward, drums crisp.\n\nSIGNATURE MOMENT: The doorman's 'Evening, sir' at 2:02 and the riff coming back doubled.\n\nSTATION FIT: Saturday, 7:30 p.m. A bright instrumental for getting dressed and coming downstairs.\n\nEMOTIONAL ARC: Poised, strutting, amused, gone.",
+    "workbookAtAGlance": "Lobby Cat\n\nBackup titles\nOwns the Place / Marble Floor Strut\n\nAt a glance\n120 BPM, A minor\nVoice: Instrumental with short vocal stabs\nLength: about 3 minutes 20",
+    "year": 2010,
+    "qa": {
+      "title": "Lobby Cat",
+      "id": "pd_19",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.8,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 2.5,
+          "lufs": -12.0,
+          "peakDbfs": -1.09,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.2,
+          "contentEndSec": 214.2,
+          "vocalCoverage": 0.007,
+          "vocalSpanSec": [
+            79.4,
+            114.3
+          ],
+          "vocalF0MedianHz": 439,
+          "vocalF0P25Hz": 439,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending"
+          ],
+          "durationSec": 214.8,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 2.5,
+          "lufs": -12.1,
+          "peakDbfs": -0.82,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.1,
+          "contentEndSec": 213.3,
+          "vocalCoverage": 0.023,
+          "vocalSpanSec": [
+            0.5,
+            183.1
+          ],
+          "vocalF0MedianHz": 314,
+          "vocalF0P25Hz": 314,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Nu-Disco"
+  },
+  {
+    "id": "pd_20",
+    "title": "Hammock",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 20,
+    "slug": "pd_20_hammock",
+    "inspiredBy": "Feel Good (Maribou State feat. Khruangbin, 2018)",
+    "leadVoice": "Mostly instrumental. A man and a woman sing soft wordless notes and one three-word phrase, far back in reverb, as texture.",
+    "model": "V6",
+    "style": "Late-2010s psychedelic downtempo, mostly instrumental, a man and a woman singing soft wordless notes and one short phrase far back in reverb, 96 BPM with a lazy shuffle, A major, slow swaying hazy feel, clean electric guitar with spring reverb and a little wah playing a liquid melody, soft round bass guitar, slow shuffling brushed drums, congas and shaker, quiet organ, warm dry rhythm section under a shimmering guitar, drowsy, sunlit, easy",
+    "negativeTags": "full sung verses, belting, rap, synth leads, big room drop, trap hi-hats, fast tempo, harsh mix",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: liquid reverbed guitar line, soft shaker]\n\n[Section A: round bass and slow shuffling beat enter]\n\n[Voices: wordless, drifting, male and female]\nOoh, ooh\nBack and forth\n\n[Section B: guitar melody repeats, congas, organ]\n\n[Voices: closer]\nBack and forth\nBack and forth\n\n[Break: guitar alone, a rope creaking]\n\n[Section C: full groove, second guitar harmony]\nOoh, ooh\n\n[Outro: guitar line slowing, cicadas, a rope creak]",
+    "taskId": "141f458ea7c8850a67f998aaa4fbe684",
+    "sunoClipIds": [
+      "f1d25316-8d16-4d7d-81b0-48d6dbd015f8",
+      "875c5e37-5098-44e0-9c12-1d16d8066180"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928560709,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "f1d25316-8d16-4d7d-81b0-48d6dbd015f8",
+        "durationSec": 213.64,
+        "file": "poolsidedeep/pd_20_hammock_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "875c5e37-5098-44e0-9c12-1d16d8066180",
+        "durationSec": 214.76,
+        "file": "poolsidedeep/pd_20_hammock_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_20_hammock_req.json",
+      "poolsidedeep/pd_20_hammock_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_20_hammock.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_20_hammock.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4 with a lazy shuffle, A major. Slow, swaying and hazy.\n\nVOICE: Mostly instrumental. A man and a woman sing soft wordless notes and one three-word phrase, far back in reverb, as texture.\n\nINSTRUMENTS: A clean electric guitar with spring reverb and a little wah playing a liquid melody, a soft, round bass guitar, a slow shuffling drum kit with brushes, congas and shaker, a quiet organ, cicadas and a creaking rope.\n\nARRANGEMENT MAP: 0:00 Intro, guitar. 0:16 Section A, bass and beat. 0:44 Voices. 1:04 Section B. 1:36 Voices. 1:52 Break, guitar alone. 2:08 Section C. 2:44 Outro, guitar slowing, ends 3:18.\n\nPRODUCTION & MIX: Late-2010s psychedelic downtempo: warm, dry rhythm section with a wet, shimmering guitar on top.\n\nSIGNATURE MOMENT: The guitar line alone with the rope creak at 1:52.\n\nSTATION FIT: Sunday, 1 p.m. The laziest track in the set, nearly instrumental, for the hottest hour.\n\nEMOTIONAL ARC: Drowsy, swaying, emptier, asleep.",
+    "workbookAtAGlance": "Hammock\n\nBackup titles\nBack and Forth / Two Trees\n\nAt a glance\n96 BPM, A major\nVoice: Mostly instrumental; drifting wordless voices\nLength: about 3 minutes 20",
+    "year": 2018,
+    "qa": {
+      "title": "Hammock",
+      "id": "pd_20",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 213.7,
+          "measuredBpm": 95.7,
+          "bpmFactor": 1,
+          "targetBpm": 96,
+          "bpmErrPct": 0.3,
+          "lufs": -12.9,
+          "peakDbfs": -0.43,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 212.3,
+          "vocalCoverage": 0.352,
+          "vocalSpanSec": [
+            17.6,
+            198.7
+          ],
+          "vocalF0MedianHz": 327,
+          "vocalF0P25Hz": 292,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.8,
+          "measuredBpm": 95.7,
+          "bpmFactor": 1,
+          "targetBpm": 96,
+          "bpmErrPct": 0.3,
+          "lufs": -13.3,
+          "peakDbfs": -1.5,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 212.5,
+          "vocalCoverage": 0.28,
+          "vocalSpanSec": [
+            17.6,
+            194.8
+          ],
+          "vocalF0MedianHz": 358,
+          "vocalF0P25Hz": 298,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Downtempo"
+  },
+  {
+    "id": "pd_21",
+    "title": "Starfish Float",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 21,
+    "slug": "pd_21_starfish_float",
+    "inspiredBy": "SWIM (Mild Minds, 2020)",
+    "leadVoice": "Male, soft and high, run through a vocoder-like effect and tape saturation so that it sounds half-synthetic and blurred. Doubled in the choruses. Fragments echo in the middle section.",
+    "model": "V6",
+    "style": "2020 lo-fi house, soft high male vocal run through a vocoder-like effect and tape saturation so it sounds half-synthetic and blurred, doubled in the choruses, 118 BPM, D major, hazy warm weightless feel, warm wobbling lo-fi chord stabs, soft thumping kick, rounded bass, shuffling hi-hat, tape hiss, low-pass filter making the intro and break sound as if heard under water, simple bell melody, saturated soft blurred mix, dreamy, calm, floating",
+    "negativeTags": "female lead vocals, clear dry vocals, rap, distorted guitar, big room drop, trap hi-hats, bright pop, harsh highs",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 205,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: muffled lo-fi chords, as if heard under water]\n\n[Vocal: hazy processed male voice]\nArms out, ears under\nSky and nothing\nArms out, ears under\n\n[Beat Enters: soft thumping kick, warm bass, the filter lifts]\n\n[Chorus: voice doubled, chords bright]\nStarfish float\nLet it hold you\nStarfish float\nNothing to do\nStarfish float\n\n[Section: lo-fi chords, shuffling hi-hat, vocal fragments]\n(Hold you, hold you)\n\n[Break: muffled again, breathing]\n\n[Chorus: voice doubled, chords bright]\nStarfish float\nLet it hold you\nStarfish float\nNothing to do\nStarfish float\n\n[Outro: chords sink back under water, one breath]",
+    "taskId": "28a6bf6a5b4681e026a72f615e361167",
+    "sunoClipIds": [
+      "2be25fb3-2920-4151-8051-d46c8e274066",
+      "f6d83854-f44b-481b-9ef3-6795394a1cab"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928546492,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "2be25fb3-2920-4151-8051-d46c8e274066",
+        "durationSec": 204.12,
+        "file": "poolsidedeep/pd_21_starfish_float_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "f6d83854-f44b-481b-9ef3-6795394a1cab",
+        "durationSec": 204.36,
+        "file": "poolsidedeep/pd_21_starfish_float_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_21_starfish_float_req.json",
+      "poolsidedeep/pd_21_starfish_float_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_21_starfish_float.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_21_starfish_float.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, D major. Hazy, warm and weightless lo-fi house.\n\nVOICE: Male, soft and high, run through a vocoder-like effect and tape saturation so that it sounds half-synthetic and blurred. Doubled in the choruses. Fragments echo in the middle section.\n\nINSTRUMENTS: Warm, wobbling lo-fi chord stabs, a soft thumping kick, a rounded bass, a shuffling hi-hat, tape hiss, a low-pass filter that makes the intro and break sound as if heard under water, a simple bell melody.\n\nARRANGEMENT MAP: 0:00 Intro, muffled. 0:18 Vocal. 0:40 Beat enters, filter lifts. 0:56 Chorus 1. 1:24 Middle section. 1:52 Break, muffled. 2:08 Chorus 2. 2:36 Outro, sinking back, ends 3:08.\n\nPRODUCTION & MIX: 2020 lo-fi house: saturated, soft and blurred on purpose, kick pillowy, voice inside the chords.\n\nSIGNATURE MOMENT: The filter lifting as the beat enters at 0:40, like ears coming out of the water.\n\nSTATION FIT: Sunday, 9 a.m. A hazy mid-tempo track for the first float of the day.\n\nEMOTIONAL ARC: Muffled, held, weightless, under again.",
+    "workbookAtAGlance": "Starfish Float\n\nBackup titles\nEars Under / Sky and Nothing\n\nAt a glance\n118 BPM, D major\nVoice: Hazy, processed male voice\nLength: about 3 minutes 10",
+    "year": 2020,
+    "qa": {
+      "title": "Starfish Float",
+      "id": "pd_21",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 204.1,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 0.5,
+          "lufs": -14.0,
+          "peakDbfs": -1.21,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 203.3,
+          "vocalCoverage": 0.202,
+          "vocalSpanSec": [
+            12.0,
+            183.3
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 277,
+          "lyricLineRecall": 0.875,
+          "lyricUnclearSections": [
+            "Section"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 204.4,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 4.3,
+          "lufs": -13.0,
+          "peakDbfs": -1.16,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.2,
+          "contentEndSec": 202.6,
+          "vocalCoverage": 0.376,
+          "vocalSpanSec": [
+            10.3,
+            169.9
+          ],
+          "vocalF0MedianHz": 369,
+          "vocalF0P25Hz": 349,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "House"
+  },
+  {
+    "id": "pd_22",
+    "title": "Easy",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 22,
+    "slug": "pd_22_easy",
+    "inspiredBy": "Baby (Four Tet, 2020)",
+    "leadVoice": "No sung verses. One word, 'easy', sung by a woman with a soft, clear voice, chopped into syllables and re-pitched to play a melody. It is heard once whole and unprocessed in the break.",
+    "model": "V6",
+    "style": "2020 melodic electronic with a skipping two-step beat, no sung verses, one word sung by a soft clear female voice chopped into syllables and re-pitched to play a melody, 128 BPM, G major, light fresh gentle feel, light garage-style drums with a soft kick, round sub bass, plucked harp, warm pad, small bell, a full stop in the middle for birdsong and a slow warm haze before the beat returns, clean airy detailed mix, calm, bright, morning",
+    "negativeTags": "sung verses, full lyrics, male vocals, rap, distorted bass, big room drop, trap hi-hats, rock guitar, dark mood",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: one chopped female word, soft pad]\n(Easy)\n\n[Beat Enters: light skipping drums, round sub bass]\n(Easy, ea-, easy)\n\n[Section A: the word re-pitched into a melody, harp plucks]\n(Ea-, ea-, easy)\n(Easy)\n\n[Break: beat stops, birdsong, slow warm haze, water lapping]\n\n[Vocal: the word once, whole and unprocessed]\nEasy\n\n[Beat Returns: skipping drums, melody an octave higher]\n(Easy, ea-, easy)\n(Ea-, ea-, easy)\n\n[Outro: harp plucks, one bird, a swimmer's turn at the wall]",
+    "taskId": "d61b3107cf1b31721375d47f2ac84ca0",
+    "sunoClipIds": [
+      "02b6fbf8-67dc-4eae-b93f-f7807d3175a5",
+      "ea621305-87ea-409f-98ad-affccdd8ac1c"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928552661,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "02b6fbf8-67dc-4eae-b93f-f7807d3175a5",
+        "durationSec": 214.76,
+        "file": "poolsidedeep/pd_22_easy_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "ea621305-87ea-409f-98ad-affccdd8ac1c",
+        "durationSec": 214.64,
+        "file": "poolsidedeep/pd_22_easy_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_22_easy_req.json",
+      "poolsidedeep/pd_22_easy_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_22_easy.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_22_easy.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 128 BPM, 4/4 with a skipping two-step rhythm, G major. Light, fresh and gentle.\n\nVOICE: No sung verses. One word, 'easy', sung by a woman with a soft, clear voice, chopped into syllables and re-pitched to play a melody. It is heard once whole and unprocessed in the break.\n\nINSTRUMENTS: Light, skipping garage-style drums with a soft kick, a round sub bass, plucked harp notes, a warm pad, a small bell, birdsong, lapping water.\n\nARRANGEMENT MAP: 0:00 Intro, the word. 0:16 Beat enters. 0:46 Section A, melody. 1:30 Break, birdsong and haze. 2:00 The word, whole. 2:06 Beat returns, an octave up. 2:50 Outro, harp and one bird, ends 3:18.\n\nPRODUCTION & MIX: 2020 melodic electronic: clean, airy and detailed, drums light, sub soft, lots of space.\n\nSIGNATURE MOMENT: The beat stopping for birdsong at 1:30, and the one unprocessed 'Easy' at 2:00.\n\nSTATION FIT: Sunday, 8 a.m. A light, skipping track for the first swim, with a pause in the middle to float.\n\nEMOTIONAL ARC: Stiff, loosening, still, gliding.",
+    "workbookAtAGlance": "Easy\n\nBackup titles\nFirst Lengths / Eight O'Clock Water\n\nAt a glance\n128 BPM, G major\nVoice: Instrumental; one chopped female word\nLength: about 3 minutes 20",
+    "year": 2020,
+    "qa": {
+      "title": "Easy",
+      "id": "pd_22",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.8,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 128,
+          "bpmErrPct": 0.9,
+          "lufs": -13.2,
+          "peakDbfs": -0.58,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 213.3,
+          "vocalCoverage": 0.279,
+          "vocalSpanSec": [
+            4.7,
+            193.2
+          ],
+          "vocalF0MedianHz": 496,
+          "vocalF0P25Hz": 493,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Beat Enters",
+            "Section A",
+            "Beat Returns"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.7,
+          "measuredBpm": 89.1,
+          "bpmFactor": 1.5,
+          "targetBpm": 128,
+          "bpmErrPct": 4.4,
+          "lufs": -13.0,
+          "peakDbfs": -0.18,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 212.6,
+          "vocalCoverage": 0.276,
+          "vocalSpanSec": [
+            4.3,
+            147.5
+          ],
+          "vocalF0MedianHz": 496,
+          "vocalF0P25Hz": 468,
+          "lyricLineRecall": 0.5,
+          "lyricUnclearSections": [
+            "Section A"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other"
+  },
+  {
+    "id": "pd_23",
+    "title": "Arm's Length",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 23,
+    "slug": "pd_23_arms_length",
+    "inspiredBy": "The Space In Between (Jan Blomqvist, 2018)",
+    "leadVoice": "Male, high and fragile, soft-edged, nearly breaking on long notes. Doubled in the choruses. One bare line in the break.",
+    "model": "V6",
+    "style": "Late-2010s melodic techno played like a ballad, high fragile soft-edged male vocal nearly breaking on long notes, doubled in the choruses, 120 BPM, C# minor, melancholy patient tender feel, patient analogue synth arpeggio, soft deep kick, warm bass, low pads, closed hi-hat, small string section in the last chorus, muted piano, warm deep mix with the voice close and dry, wistful, intimate, late-night",
+    "negativeTags": "female lead vocals, belting, rap, distorted bass, big room drop, trap hi-hats, bright pop, rock guitar",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: patient synth arpeggio, soft kick, low pad]\n\n[Verse 1: fragile high male voice]\nTwo loungers, and the pool lights off\nYour hand hangs down, mine's close enough\nFifteen years of being friends\nI know exactly where it ends\n\n[Chorus: bass enters, voice doubled]\nArm's length\nIt's only arm's length\nAll these years I've kept it\nArm's length\nTonight it looks like nothing\nArm's length\n\n[Verse 2: voice closer, hi-hat enters]\nYou're talking, and I've lost the thread\nI'm measuring the gap instead\nOne reach, and everything is changed\nOne reach, or leave it as arranged\n\n[Break: arpeggio alone, voice bare]\nWhat if you've been measuring too\n\n[Chorus: full groove, strings, voice doubled]\nArm's length\nIt's only arm's length\nAll these years I've kept it\nArm's length\nTonight it looks like nothing\nArm's length\n\n[Outro: arpeggio, kick fading, one held breath]",
+    "taskId": "47ebcc398e43538477d134bee12d4fcd",
+    "sunoClipIds": [
+      "4cb30638-f682-4835-a3ae-4fb13a77d997",
+      "da307fc3-3121-44e8-b3a4-f9f020c91ee2"
+    ],
+    "created": "Nov 17, 2026 10:15 AM ET",
+    "createTimeMs": 1794928555759,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "4cb30638-f682-4835-a3ae-4fb13a77d997",
+        "durationSec": 234.12,
+        "file": "poolsidedeep/pd_23_arms_length_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "da307fc3-3121-44e8-b3a4-f9f020c91ee2",
+        "durationSec": 234.72,
+        "file": "poolsidedeep/pd_23_arms_length_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_23_arms_length_req.json",
+      "poolsidedeep/pd_23_arms_length_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_23_arms_length.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_23_arms_length.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, C# minor. Melancholy, patient and tender.\n\nVOICE: Male, high and fragile, soft-edged, nearly breaking on long notes. Doubled in the choruses. One bare line in the break.\n\nINSTRUMENTS: A patient analogue synth arpeggio, a soft, deep kick, a warm bass, low pads, a closed hi-hat, a small string section in the last chorus, a muted piano.\n\nARRANGEMENT MAP: 0:00 Intro, arpeggio. 0:24 Verse 1. 0:56 Chorus 1, bass in. 1:28 Verse 2. 2:00 Break, one bare line at 2:10. 2:20 Chorus 2, strings. 2:56 Outro, kick fading, ends 3:38.\n\nPRODUCTION & MIX: Late-2010s melodic techno played like a ballad: warm and deep, voice close and dry, kick soft.\n\nSIGNATURE MOMENT: 'What if you've been measuring too' at 2:10, with only the arpeggio under it.\n\nSTATION FIT: Saturday, 11:30 p.m. A quiet, tender track for the half hour before midnight.\n\nEMOTIONAL ARC: Careful, calculating, hopeful, reaching.",
+    "workbookAtAGlance": "Arm's Length\n\nBackup titles\nOne Reach / Fifteen Years of This\n\nAt a glance\n120 BPM, C# minor\nVoice: Fragile, high male voice\nLength: about 3 minutes 40",
+    "year": 2018,
+    "qa": {
+      "title": "Arm's Length",
+      "id": "pd_23",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 234.1,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 2.5,
+          "lufs": -12.4,
+          "peakDbfs": -0.18,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.3,
+          "contentEndSec": 231.5,
+          "vocalCoverage": 0.3,
+          "vocalSpanSec": [
+            17.3,
+            166.8
+          ],
+          "vocalF0MedianHz": 207,
+          "vocalF0P25Hz": 185,
+          "lyricLineRecall": 0.867,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 234.7,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 2.1,
+          "lufs": -13.0,
+          "peakDbfs": -0.21,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.3,
+          "contentEndSec": 233.4,
+          "vocalCoverage": 0.345,
+          "vocalSpanSec": [
+            17.6,
+            216.0
+          ],
+          "vocalF0MedianHz": 209,
+          "vocalF0P25Hz": 185,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Techno"
+  },
+  {
+    "id": "pd_24",
+    "title": "Good News Travels Slow",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 24,
+    "slug": "pd_24_good_news_travels_slow",
+    "inspiredBy": "Keep the Faith (Moon Boots feat. Nic Hanson, 2017)",
+    "leadVoice": "Female alto, warm and soulful, relaxed in the verses and lifting with a little grit in the choruses. A small mixed choir answers her in the choruses and bridge.",
+    "model": "V6",
+    "style": "Late-2010s soulful house with a gospel lift, warm soulful female alto vocal relaxed in the verses and lifting with a little grit in the choruses, small mixed choir answering, 120 BPM, F major, warm rolling joyful feel, bright house piano chords, rolling bass guitar, four-on-the-floor kick with handclaps and finger snaps, Hammond organ, tambourine, short brass stab, warm clean full mix, relieved, grateful, sunny",
+    "negativeTags": "male lead vocals, rap, distorted bass, big room drop, trap hi-hats, dark mood, harsh synths, slow ballad",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: house piano chords, finger snaps, organ swell]\n\n[Verse 1: warm soulful female alto]\nBad news runs, it kicks the door\nThree a.m., it's on the floor\nGood news likes to take its time\nStops for coffee, waits in line\n\n[Chorus: full soulful house groove, small choir]\nGood news travels slow\nBut it gets here, oh, it gets here\nGood news travels slow\nTook the long road all year\nPhone lit up at noon, and now I know\nGood news travels slow\n\n[Verse 2: voice lifting, handclaps]\nI kept the ringer loud for weeks\nSlept with the phone against my cheek\nThen here, wet hands, the midday sun\nOne short line: it's good, it's done\n\n[Chorus: full soulful house groove, small choir]\nGood news travels slow\nBut it gets here, oh, it gets here\nGood news travels slow\nTook the long road all year\nPhone lit up at noon, and now I know\nGood news travels slow\n\n[Bridge: piano and claps only, choir answering]\n(It gets here) Wait on it\n(It gets here) Don't you quit\n(It gets here) Every bit\n\n[Outro: piano, choir humming, a splash, laughing]",
+    "taskId": "b1aef92f55cd7db9b5e339b4785128d0",
+    "sunoClipIds": [
+      "170ac13a-07e7-4ca4-a9df-344a0b439851",
+      "a8a4fb57-7c9e-48d0-a0d1-11f2df8b54c1"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928573097,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "170ac13a-07e7-4ca4-a9df-344a0b439851",
+        "durationSec": 224.4,
+        "file": "poolsidedeep/pd_24_good_news_travels_slow_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "a8a4fb57-7c9e-48d0-a0d1-11f2df8b54c1",
+        "durationSec": 224.2,
+        "file": "poolsidedeep/pd_24_good_news_travels_slow_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_24_good_news_travels_slow_req.json",
+      "poolsidedeep/pd_24_good_news_travels_slow_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_24_good_news_travels_slow.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_24_good_news_travels_slow.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, F major. Warm, rolling and joyful soulful house.\n\nVOICE: Female alto, warm and soulful, relaxed in the verses and lifting with a little grit in the choruses. A small mixed choir answers her in the choruses and bridge.\n\nINSTRUMENTS: Bright house piano chords, a rolling bass guitar, a four-on-the-floor kick with handclaps and finger snaps, a Hammond organ, a tambourine, a short brass stab in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:16 Verse 1. 0:46 Chorus 1. 1:18 Verse 2. 1:48 Chorus 2. 2:20 Bridge, piano and claps. 2:44 Outro, choir humming, a splash at 3:20.\n\nPRODUCTION & MIX: Late-2010s soulful house: warm, clean and full, piano and voice in front, choir wide.\n\nSIGNATURE MOMENT: 'One short line: it's good, it's done' at 1:42, just before the chorus returns.\n\nSTATION FIT: Sunday, noon. The happiest track of the morning, with a gospel lift for the middle of the day.\n\nEMOTIONAL ARC: Braced, waiting, relieved, laughing.",
+    "workbookAtAGlance": "Good News Travels Slow\n\nBackup titles\nPhone Lit Up at Noon / It Gets Here\n\nAt a glance\n120 BPM, F major\nVoice: Warm, soulful female alto with a small choir\nLength: about 3 minutes 30",
+    "year": 2017,
+    "qa": {
+      "title": "Good News Travels Slow",
+      "id": "pd_24",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.4,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 2.5,
+          "lufs": -13.6,
+          "peakDbfs": -0.32,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 223.4,
+          "vocalCoverage": 0.717,
+          "vocalSpanSec": [
+            5.0,
+            202.2
+          ],
+          "vocalF0MedianHz": 471,
+          "vocalF0P25Hz": 349,
+          "lyricLineRecall": 0.913,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.25 dBFS (2 clipped sample, inaudible)"
+          ],
+          "durationSec": 224.2,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 2.5,
+          "lufs": -13.4,
+          "peakDbfs": 0.25,
+          "clipSamples": 2,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 222.1,
+          "vocalCoverage": 0.734,
+          "vocalSpanSec": [
+            9.1,
+            207.0
+          ],
+          "vocalF0MedianHz": 442,
+          "vocalF0P25Hz": 351,
+          "lyricLineRecall": 0.957,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "House"
+  },
+  {
+    "id": "pd_25",
+    "title": "Last One In",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 25,
+    "slug": "pd_25_last_one_in",
+    "inspiredBy": "Run (Tourist, 2016)",
+    "leadVoice": "No sung verses. Short chopped fragments of a woman's and a man's voice, used as rhythm. Several adults whisper a count and one shouts three words before the drop.",
+    "model": "V6",
+    "style": "Mid-2010s emotional UK electronic instrumental, no sung verses, short chopped fragments of a woman's and a man's voice used as rhythm, one shouted three-word line before the drop, 130 BPM with a broken garage rhythm, A major, rushing emotional joyful feel, big swelling side-chained synth chords, broken garage-style drums with a crisp snare, deep sub bass, bright bell-like plucks, reversed cymbal, wide bright clean mix, euphoric, playful, late-night",
+    "negativeTags": "sung verses, full lyrics, rap, distorted guitar, trap hi-hats, hardstyle kick, dark mood, slow ballad",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 205,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: soft swelling chords, scattered vocal chops]\n(One, one in)\n\n[Beat Enters: broken garage-style drums, deep sub bass]\n(Last, la-, one in)\n\n[Section A: chords swell wide, chops answer the snare]\n(One in, one in)\n\n[Break: drums out, chords held, bare feet on wet tiles]\n\n[Spoken: several voices, whispering, then one shout]\nOne, two\nLast one in!\n\n[Drop: full beat, widest chords, a big splash]\n(Last, la-, one in)\n(One in, one in)\n\n[Outro: chords alone, water settling, quiet laughing]",
+    "taskId": "c8b862f140175b2168639a43cc9d63a1",
+    "sunoClipIds": [
+      "3d6c795d-6803-419b-9426-b84f95c241ff",
+      "ad4e414f-e649-40f5-b910-b360951df9e5"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928563173,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3d6c795d-6803-419b-9426-b84f95c241ff",
+        "durationSec": 204.36,
+        "file": "poolsidedeep/pd_25_last_one_in_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "ad4e414f-e649-40f5-b910-b360951df9e5",
+        "durationSec": 203.96,
+        "file": "poolsidedeep/pd_25_last_one_in_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_25_last_one_in_req.json",
+      "poolsidedeep/pd_25_last_one_in_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_25_last_one_in.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_25_last_one_in.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 130 BPM, 4/4 with a broken garage rhythm, A major. Rushing, emotional and joyful.\n\nVOICE: No sung verses. Short chopped fragments of a woman's and a man's voice, used as rhythm. Several adults whisper a count and one shouts three words before the drop.\n\nINSTRUMENTS: Big, swelling, side-chained synth chords, broken garage-style drums with a crisp snare, a deep sub bass, bright bell-like plucks, a reversed cymbal, bare feet on tiles and a large splash.\n\nARRANGEMENT MAP: 0:00 Intro, chords and chops. 0:20 Beat enters. 0:50 Section A. 1:30 Break, drums out. 1:44 Whispered count and the shout. 1:50 Drop, with the splash. 2:36 Outro, chords and water, ends 3:08.\n\nPRODUCTION & MIX: Mid-2010s emotional UK electronic: wide, bright and clean, chords huge, drums tight and dry.\n\nSIGNATURE MOMENT: 'Last one in!' and the splash landing with the drop at 1:50.\n\nSTATION FIT: Sunday, 1:30 a.m. A rush of energy late in the night, with almost no words.\n\nEMOTIONAL ARC: Giddy, daring, airborne, soaked.",
+    "workbookAtAGlance": "Last One In\n\nBackup titles\nEmpty Lifeguard Chair / Count of Three\n\nAt a glance\n130 BPM, A major\nVoice: Instrumental with vocal chops and one shout\nLength: about 3 minutes 10",
+    "year": 2016,
+    "qa": {
+      "title": "Last One In",
+      "id": "pd_25",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 204.4,
+          "measuredBpm": 89.1,
+          "bpmFactor": 1.5,
+          "targetBpm": 130,
+          "bpmErrPct": 2.8,
+          "lufs": -13.7,
+          "peakDbfs": -0.52,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 202.9,
+          "vocalCoverage": 0.469,
+          "vocalSpanSec": [
+            0.3,
+            187.7
+          ],
+          "vocalF0MedianHz": 434,
+          "vocalF0P25Hz": 249,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Intro",
+            "Beat Enters",
+            "Section A",
+            "Spoken",
+            "Drop"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 204.0,
+          "measuredBpm": 136.0,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 4.6,
+          "lufs": -13.4,
+          "peakDbfs": -1.5,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 202.6,
+          "vocalCoverage": 0.344,
+          "vocalSpanSec": [
+            0.0,
+            193.0
+          ],
+          "vocalF0MedianHz": 297,
+          "vocalF0P25Hz": 295,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other"
+  },
+  {
+    "id": "pd_26",
+    "title": "Salt on My Lips",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 26,
+    "slug": "pd_26_salt_on_my_lips",
+    "inspiredBy": "Haul (Christian Löffler feat. Mohna, 2016)",
+    "leadVoice": "Female, fragile and quiet, recorded close but soft, as if singing to herself. Doubled a third above in the choruses.",
+    "model": "V6",
+    "style": "Mid-2010s melancholic melodic techno at walking pace, fragile quiet female vocal recorded close but soft as if singing to herself, doubled a third above in the choruses, 112 BPM, E minor ending on a major chord, slow grey tender still feel, soft muffled kick, grainy tape-worn synth chords, wooden plucked melody like a marimba or kalimba, quiet sub bass, closed hi-hat, field recordings of small waves and gulls, soft grainy muted mix, wistful, solitary, dawn",
+    "negativeTags": "male lead vocals, belting, rap, bright synth leads, big room drop, trap hi-hats, rock guitar, cheerful pop",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: soft muffled kick, grainy chords, distant gulls]\n\n[Verse 1: fragile, close female voice]\nFive o'clock, the sand is cold\nNobody's up, nobody's told\nI left my shoes beside the gate\nWalked in slow, up to my waist\n\n[Chorus: wooden plucked melody, voice doubled]\nSalt on my lips\nCold on my skin\nI came out here empty\nThe sea filled me in\nSalt on my lips\n\n[Verse 2: a little louder, hi-hat enters]\nThe sky goes gray, then gray goes gold\nA fishing boat, a line unrolled\nI don't swim far, I only stand\nAnd let it take what's in my hands\n\n[Chorus: wooden plucked melody, voice doubled]\nSalt on my lips\nCold on my skin\nI came out here empty\nThe sea filled me in\nSalt on my lips\n\n[Outro: kick fading, small waves, footsteps on sand]",
+    "taskId": "6c103a2089434ecd34adb173c599835a",
+    "sunoClipIds": [
+      "b1da35c7-48ee-4419-ae1c-4a93c1ccfe97",
+      "5d43cb5a-7b4c-4bb6-8103-c2167680fe90"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928566888,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "b1da35c7-48ee-4419-ae1c-4a93c1ccfe97",
+        "durationSec": 224.32,
+        "file": "poolsidedeep/pd_26_salt_on_my_lips_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "5d43cb5a-7b4c-4bb6-8103-c2167680fe90",
+        "durationSec": 224.36,
+        "file": "poolsidedeep/pd_26_salt_on_my_lips_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_26_salt_on_my_lips_req.json",
+      "poolsidedeep/pd_26_salt_on_my_lips_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_26_salt_on_my_lips.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_26_salt_on_my_lips.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, E minor ending on G major. Slow, grey, tender and still.\n\nVOICE: Female, fragile and quiet, recorded close but soft, as if singing to herself. Doubled a third above in the choruses.\n\nINSTRUMENTS: A soft, muffled kick, grainy, tape-worn synth chords, a wooden plucked melody like a marimba or kalimba, a quiet sub bass, a closed hi-hat, field recordings of small waves, gulls and footsteps.\n\nARRANGEMENT MAP: 0:00 Intro, kick and chords. 0:26 Verse 1. 0:58 Chorus 1. 1:28 Verse 2. 2:00 Chorus 2. 2:32 Outro, kick fading into waves and footsteps, ends 3:28.\n\nPRODUCTION & MIX: Mid-2010s melancholic melodic techno: soft, grainy and muted, like a faded photograph, voice inside the chords.\n\nSIGNATURE MOMENT: 'I came out here empty, the sea filled me in' at 1:10.\n\nSTATION FIT: Sunday, 5 a.m. The hour before sunrise, for whoever is already up and wants to be alone.\n\nEMOTIONAL ARC: Hollow, cold, eased, lighter.",
+    "workbookAtAGlance": "Salt on My Lips\n\nBackup titles\nUp to My Waist / Five O'Clock Sea\n\nAt a glance\n112 BPM, E minor\nVoice: Fragile, close female voice\nLength: about 3 minutes 30",
+    "year": 2016,
+    "qa": {
+      "title": "Salt on My Lips",
+      "id": "pd_26",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.3,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 112,
+          "bpmErrPct": 0.3,
+          "lufs": -12.9,
+          "peakDbfs": -0.68,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.4,
+          "contentEndSec": 220.3,
+          "vocalCoverage": 0.171,
+          "vocalSpanSec": [
+            17.3,
+            173.5
+          ],
+          "vocalF0MedianHz": 292,
+          "vocalF0P25Hz": 248,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.4,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 112,
+          "bpmErrPct": 0.3,
+          "lufs": -13.7,
+          "peakDbfs": -1.11,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.3,
+          "contentEndSec": 223.5,
+          "vocalCoverage": 0.225,
+          "vocalSpanSec": [
+            17.3,
+            195.3
+          ],
+          "vocalF0MedianHz": 292,
+          "vocalF0P25Hz": 248,
+          "lyricLineRecall": 0.889,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Techno"
+  },
+  {
+    "id": "pd_27",
+    "title": "You Look Like Her",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 27,
+    "slug": "pd_27_you_look_like_her",
+    "inspiredBy": "Sister (TSHA, 2020)",
+    "leadVoice": "No sung verses. Distant wordless female voices as texture. One line spoken once in the break by an older woman with a warm, unhurried voice.",
+    "model": "V6",
+    "style": "2020 melodic UK house instrumental, no sung verses, distant wordless female voices as texture and one line spoken once by an older woman with a warm unhurried voice, 122 BPM, D major, bright warm gently emotional feel, bright singing lead synth with a little glide, warm analogue chords, loose rolling house drums with shaker, soft round bass, handclaps, felt piano playing the melody at the end, warm colourful soft-edged mix, tender, sunny, grateful",
+    "negativeTags": "sung verses, full lyrics, male vocals, rap, distorted bass, big room drop, trap hi-hats, dark mood",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: warm chords, a child laughing far off]\n\n[Beat Enters: loose rolling house drums, soft bass]\n\n[Section A: bright singing synth melody]\n\n[Section B: melody doubled, wordless voices behind]\n(Ooh, ooh)\n\n[Break: chords alone, a splash, a child laughing]\n\n[Spoken: an older woman, warm, half to herself]\nYou look like her\nWhen you laugh, you look just like her\n\n[Drop: full groove, melody an octave higher, handclaps]\n(Ooh, ooh)\n\n[Outro: chords, the melody once on piano, quiet]",
+    "taskId": "8c550ea2e6f4ad9923ae86377bc1e930",
+    "sunoClipIds": [
+      "f36de8ab-0f05-4827-beb6-5a847f7391c6",
+      "2b358f48-8c72-4b9b-aae7-aa2b9d78c1a3"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928571112,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "f36de8ab-0f05-4827-beb6-5a847f7391c6",
+        "durationSec": 214.72,
+        "file": "poolsidedeep/pd_27_you_look_like_her_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "2b358f48-8c72-4b9b-aae7-aa2b9d78c1a3",
+        "durationSec": 214.24,
+        "file": "poolsidedeep/pd_27_you_look_like_her_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_27_you_look_like_her_req.json",
+      "poolsidedeep/pd_27_you_look_like_her_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_27_you_look_like_her.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_27_you_look_like_her.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, D major. Bright, warm and gently emotional.\n\nVOICE: No sung verses. Distant wordless female voices as texture. One line spoken once in the break by an older woman with a warm, unhurried voice.\n\nINSTRUMENTS: A bright, singing lead synth with a little glide, warm analogue chords, loose, rolling house drums with a shaker, a soft round bass, handclaps, a felt piano that plays the melody at the end, a child's laugh and a splash.\n\nARRANGEMENT MAP: 0:00 Intro, chords. 0:16 Beat enters. 0:32 Section A, melody. 1:04 Section B. 1:36 Break. 1:46 Spoken line. 1:58 Drop, melody up an octave. 2:44 Outro, melody on piano, ends 3:18.\n\nPRODUCTION & MIX: 2020 melodic UK house: warm, colourful and soft-edged, melody in front, drums loose and light.\n\nSIGNATURE MOMENT: The spoken line at 1:46, then the melody returning an octave higher at 1:58.\n\nSTATION FIT: Sunday, 2 p.m. The closing track of the set: bright, wordless and a little moving, for the last hour.\n\nEMOTIONAL ARC: Content, startled, tender, glad.",
+    "workbookAtAGlance": "You Look Like Her\n\nBackup titles\nWhen You Laugh / Same Chin\n\nAt a glance\n122 BPM, D major\nVoice: Instrumental with one spoken line\nLength: about 3 minutes 20",
+    "year": 2020,
+    "qa": {
+      "title": "You Look Like Her",
+      "id": "pd_27",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "fail",
+          "reasons": [
+            "vocals barely present (14% of song)"
+          ],
+          "durationSec": 214.7,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 122,
+          "bpmErrPct": 0.9,
+          "lufs": -13.2,
+          "peakDbfs": -0.61,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 214.1,
+          "vocalCoverage": 0.14,
+          "vocalSpanSec": [
+            9.9,
+            210.2
+          ],
+          "vocalF0MedianHz": 365,
+          "vocalF0P25Hz": 295,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.3,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 122,
+          "bpmErrPct": 0.9,
+          "lufs": -12.4,
+          "peakDbfs": -0.44,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 212.4,
+          "vocalCoverage": 0.15,
+          "vocalSpanSec": [
+            14.0,
+            207.6
+          ],
+          "vocalF0MedianHz": 439,
+          "vocalF0P25Hz": 439,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "House"
+  },
+  {
+    "id": "pd_28",
+    "title": "Sun on My Back",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 28,
+    "slug": "pd_28_sun_on_my_back",
+    "inspiredBy": "Helios (Darius feat. Wayne Snow, 2015)",
+    "leadVoice": "Male falsetto, sweet and soulful, light and unforced, with stacked harmonies in the choruses.",
+    "model": "V6",
+    "style": "Mid-2010s French touch, sweet soulful light unforced male falsetto with stacked harmonies in the choruses, 108 BPM, F# minor with warm major sevenths, relaxed golden funky feel, filtered disco chords opening and closing with a slow filter sweep, funky round bass guitar, soft four-on-the-floor kick, muted funk guitar, singing analogue lead synth, Rhodes electric piano, vinyl crackle, warm rounded side-chained mix, restful, sunny, soulful",
+    "negativeTags": "female lead vocals, rap, belting, distorted bass, big room drop, trap hi-hats, rock guitar, dark mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: filtered disco chords, soft kick, vinyl crackle]\n\n[Verse 1: sweet soulful male falsetto]\nFace down, a towel, a paperback\nI haven't read a page of that\nAll week I carried what I could\nI set it down, and it feels good\n\n[Chorus: filter opens, funk guitar, harmonies]\nSun on my back\nLike a hand, like a hand\nSun on my back\nSaying stay where you land\nNothing to carry, nothing to pack\nJust the sun on my back\n\n[Verse 2: bass busier, voice warmer]\nSomebody's kid is learning to dive\nSomebody's radio's playing live\nI hear it all with both eyes closed\nThe warm goes right down to my toes\n\n[Chorus: filter opens, funk guitar, harmonies]\nSun on my back\nLike a hand, like a hand\nSun on my back\nSaying stay where you land\nNothing to carry, nothing to pack\nJust the sun on my back\n\n[Instrumental: singing synth solo, slow filter sweeps]\n\n[Outro: chords filtering down, crackle, a page turning]",
+    "taskId": "5c67761af9de1b3ca37277678500e01e",
+    "sunoClipIds": [
+      "7671aaa3-0be3-472a-8cb8-b077c3c07748",
+      "326049f4-0275-459e-aa05-a2e36009d8b3"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928583242,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "7671aaa3-0be3-472a-8cb8-b077c3c07748",
+        "durationSec": 214.76,
+        "file": "poolsidedeep/pd_28_sun_on_my_back_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "326049f4-0275-459e-aa05-a2e36009d8b3",
+        "durationSec": 214.4,
+        "file": "poolsidedeep/pd_28_sun_on_my_back_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_28_sun_on_my_back_req.json",
+      "poolsidedeep/pd_28_sun_on_my_back_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_28_sun_on_my_back.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_28_sun_on_my_back.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 108 BPM, 4/4, F# minor with warm major sevenths. Relaxed, golden and funky.\n\nVOICE: Male falsetto, sweet and soulful, light and unforced, with stacked harmonies in the choruses.\n\nINSTRUMENTS: Filtered disco chords that open and close with a slow filter sweep, a funky, round bass guitar, a soft four-on-the-floor kick, a muted funk guitar, a singing analogue lead synth, Rhodes electric piano, vinyl crackle.\n\nARRANGEMENT MAP: 0:00 Intro, filtered chords. 0:18 Verse 1. 0:54 Chorus 1, filter opens. 1:28 Verse 2. 2:04 Chorus 2. 2:38 Synth solo. 3:00 Outro, filtering down, a page at 3:16.\n\nPRODUCTION & MIX: Mid-2010s French touch: warm, rounded and side-chained, everything slightly golden, voice silky and close.\n\nSIGNATURE MOMENT: The filter opening on 'Sun on my back' at 0:54.\n\nSTATION FIT: Sunday, 12:30 p.m. A slow, funky vocal track for lying still at the hottest part of the day.\n\nEMOTIONAL ARC: Tired, unloading, warmed, at rest.",
+    "workbookAtAGlance": "Sun on My Back\n\nBackup titles\nLike a Hand / Nothing to Carry\n\nAt a glance\n108 BPM, F# minor\nVoice: Sweet, soulful male falsetto\nLength: about 3 minutes 20",
+    "year": 2015,
+    "qa": {
+      "title": "Sun on My Back",
+      "id": "pd_28",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.8,
+          "measuredBpm": 107.7,
+          "bpmFactor": 1,
+          "targetBpm": 108,
+          "bpmErrPct": 0.3,
+          "lufs": -13.3,
+          "peakDbfs": -0.2,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 212.2,
+          "vocalCoverage": 0.295,
+          "vocalSpanSec": [
+            18.7,
+            126.0
+          ],
+          "vocalF0MedianHz": 329,
+          "vocalF0P25Hz": 251,
+          "lyricLineRecall": 0.85,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.4,
+          "measuredBpm": 107.7,
+          "bpmFactor": 1,
+          "targetBpm": 108,
+          "bpmErrPct": 0.3,
+          "lufs": -13.2,
+          "peakDbfs": -1.16,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 211.9,
+          "vocalCoverage": 0.29,
+          "vocalSpanSec": [
+            19.6,
+            131.4
+          ],
+          "vocalF0MedianHz": 369,
+          "vocalF0P25Hz": 252,
+          "lyricLineRecall": 0.95,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Disco"
+  },
+  {
+    "id": "pd_29",
+    "title": "Room With the Same View",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 29,
+    "slug": "pd_29_room_with_the_same_view",
+    "inspiredBy": "Deja Vu (Lastlings, 2020)",
+    "leadVoice": "Female, airy and clear, light vibrato, cool in the verses and open in the choruses, where she is doubled. Almost whispered in the bridge.",
+    "model": "V6",
+    "style": "2020 Australian cinematic electronic pop, airy clear female vocal with light vibrato, cool in the verses and open and doubled in the choruses, almost whispered in the bridge, 118 BPM, B minor rising to a major chorus, cinematic cool tender feel, pulsing synth bass, glassy pads, wide cinematic synth chords, four-on-the-floor kick with a soft clap, delayed guitar line, rising white-noise sweep, wide cool polished mix, nostalgic, romantic, night",
+    "negativeTags": "male lead vocals, rap, belting, distorted guitar, big room drop, trap hi-hats, harsh mix, novelty sounds",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: pulsing synth bass, glassy pad, distant surf]\n\n[Verse 1: airy, clear female voice]\nFour-twelve, they gave us the same key\nSame balcony, same strip of sea\nThe lamp's been changed, the chairs are new\nThe moon is where we left it, too\n\n[Chorus: four-on-the-floor kick, wide synths, voice doubled]\nRoom with the same view\nTwenty years, and it still knows you\nRoom with the same view\nWe've changed more than the sea's had to\nStand here where we stood\nIt still looks good\nRoom with the same view\n\n[Verse 2: bass busier, voice warmer]\nYou had more hair, I had less doubt\nWe thought we had it figured out\nWe didn't, and we're here again\nI'd take us now over us then\n\n[Chorus: four-on-the-floor kick, wide synths, voice doubled]\nRoom with the same view\nTwenty years, and it still knows you\nRoom with the same view\nWe've changed more than the sea's had to\nStand here where we stood\nIt still looks good\nRoom with the same view\n\n[Bridge: drums drop out, voice and pad]\nSame view\nDifferent eyes\nSame view\n\n[Outro: synth bass pulsing, surf, a balcony door sliding]",
+    "taskId": "ea7a57a759db63df2990a63af37e8bdd",
+    "sunoClipIds": [
+      "1542b663-5d3e-43cb-abcf-a99fe9a0f2c7",
+      "d7fbe9d4-7ff6-4580-bdc9-3ec4a27e4bfc"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928591704,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "1542b663-5d3e-43cb-abcf-a99fe9a0f2c7",
+        "durationSec": 234.0,
+        "file": "poolsidedeep/pd_29_room_with_the_same_view_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "d7fbe9d4-7ff6-4580-bdc9-3ec4a27e4bfc",
+        "durationSec": 233.72,
+        "file": "poolsidedeep/pd_29_room_with_the_same_view_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_29_room_with_the_same_view_req.json",
+      "poolsidedeep/pd_29_room_with_the_same_view_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_29_room_with_the_same_view.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_29_room_with_the_same_view.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, B minor rising to D major in the chorus. Cinematic, cool and tender.\n\nVOICE: Female, airy and clear, light vibrato, cool in the verses and open in the choruses, where she is doubled. Almost whispered in the bridge.\n\nINSTRUMENTS: A pulsing synth bass, glassy pads, wide, cinematic synth chords, a four-on-the-floor kick with a soft clap, a delayed guitar line, a rising white-noise sweep, distant surf, a sliding door.\n\nARRANGEMENT MAP: 0:00 Intro, bass pulse. 0:18 Verse 1. 0:50 Chorus 1. 1:26 Verse 2. 1:58 Chorus 2. 2:34 Bridge, drums out. 2:54 Outro, bass and surf, a door at 3:30.\n\nPRODUCTION & MIX: 2020 Australian cinematic electronic pop: wide, cool and polished, voice bright and close, bass pulsing under everything.\n\nSIGNATURE MOMENT: 'I'd take us now over us then' at 1:52, leading into the second chorus.\n\nSTATION FIT: Saturday, 10:30 p.m. A wide, cool vocal track for the balcony after dinner.\n\nEMOTIONAL ARC: Surprised, remembering, honest, glad.",
+    "workbookAtAGlance": "Room With the Same View\n\nBackup titles\nFour-Twelve / Where We Left It\n\nAt a glance\n118 BPM, B minor\nVoice: Airy, clear female voice\nLength: about 3 minutes 40",
+    "year": 2020,
+    "qa": {
+      "title": "Room With the Same View",
+      "id": "pd_29",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 234.0,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 4.3,
+          "lufs": -13.4,
+          "peakDbfs": -1.27,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.0,
+          "contentEndSec": 231.5,
+          "vocalCoverage": 0.49,
+          "vocalSpanSec": [
+            20.7,
+            211.1
+          ],
+          "vocalF0MedianHz": 417,
+          "vocalF0P25Hz": 278,
+          "lyricLineRecall": 0.909,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 233.7,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 0.5,
+          "lufs": -12.3,
+          "peakDbfs": -0.78,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.2,
+          "contentEndSec": 231.7,
+          "vocalCoverage": 0.435,
+          "vocalSpanSec": [
+            20.8,
+            205.1
+          ],
+          "vocalF0MedianHz": 312,
+          "vocalF0P25Hz": 274,
+          "lyricLineRecall": 0.864,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Pop"
+  },
+  {
+    "id": "pd_30",
+    "title": "Fifty Feels Like This",
+    "collection": "poolsidedeep",
+    "album": "Poolside Chill Deep Cuts Reimagined",
+    "track": 30,
+    "slug": "pd_30_fifty_feels_like_this",
+    "inspiredBy": "Fifteen (Goldroom feat. Chela, 2015)",
+    "leadVoice": "Female, bright and wistful with a smile in it, relaxed and conversational. A small group of friends sings the chorus harmonies and calls out in the bridge.",
+    "model": "V6",
+    "style": "Mid-2010s Californian electronic pop with a soft disco beat, bright wistful relaxed conversational female vocal with a smile in it, small group of friends singing chorus harmonies, 112 BPM, C major, sunny easy quietly proud feel, bright steel-pan-like synth, soft disco drums with open hi-hats, sliding melodic bass guitar, chiming clean guitar, warm pads, shaker, bright breezy clean mix, content, warm, celebratory",
+    "negativeTags": "male lead vocals, rap, belting, distorted bass, big room drop, trap hi-hats, dark mood, slow ballad",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bright steel-pan synth, disco hi-hats, bass slide]\n\n[Verse 1: sunny, wistful female voice]\nThey put a candle in a lime\nThe whole deck sang it out of time\nI thought I'd mind it more than this\nA paper crown, a chlorine kiss\n\n[Chorus: soft disco groove, group harmonies]\nFifty feels like this\nBare feet on warm bricks\nNobody left to impress\nFifty feels like this\nA little slower, nothing missed\nOh, fifty feels like this\n\n[Verse 2: voice brighter, guitar chiming]\nAt twenty I was in a rush\nAt thirty-five I had too much\nNow I know what's worth the fuss\nIt's this, and about six of us\n\n[Chorus: soft disco groove, group harmonies]\nFifty feels like this\nBare feet on warm bricks\nNobody left to impress\nFifty feels like this\nA little slower, nothing missed\nOh, fifty feels like this\n\n[Bridge: half-time, steel pans, friends calling out]\nMake a wish (I've got it)\nMake a wish (I've got it already)\n\n[Outro: steel pans, glasses clinking, the friends singing]",
+    "taskId": "09f353b957d3f70ebbb9b3c779be15cf",
+    "sunoClipIds": [
+      "4edf15f0-2d46-43dd-b95c-a604dba2e640",
+      "839b9291-b6b9-4908-8319-3b3320b4dc3b"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928599385,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "4edf15f0-2d46-43dd-b95c-a604dba2e640",
+        "durationSec": 214.72,
+        "file": "poolsidedeep/pd_30_fifty_feels_like_this_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "839b9291-b6b9-4908-8319-3b3320b4dc3b",
+        "durationSec": 213.96,
+        "file": "poolsidedeep/pd_30_fifty_feels_like_this_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "poolsidedeep/pd_30_fifty_feels_like_this_req.json",
+      "poolsidedeep/pd_30_fifty_feels_like_this_rec.json"
+    ],
+    "cover": "poolsidedeep/covers/pd_30_fifty_feels_like_this.jpg",
+    "cleanCover": "poolsidedeep/covers/clean/pd_30_fifty_feels_like_this.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, C major. Sunny, easy and quietly proud.\n\nVOICE: Female, bright and wistful with a smile in it, relaxed and conversational. A small group of friends sings the chorus harmonies and calls out in the bridge.\n\nINSTRUMENTS: A bright steel-pan-like synth, a soft disco drum kit with open hi-hats, a sliding, melodic bass guitar, a chiming clean guitar, warm pads, shaker, clinking glasses.\n\nARRANGEMENT MAP: 0:00 Intro, steel pans. 0:14 Verse 1. 0:46 Chorus 1. 1:18 Verse 2. 1:50 Chorus 2. 2:22 Bridge, half-time. 2:44 Outro, friends singing, ends 3:18.\n\nPRODUCTION & MIX: Mid-2010s Californian electronic pop: bright, breezy and clean, voice warm in front, steel pans sparkling on top.\n\nSIGNATURE MOMENT: 'It's this, and about six of us' at 1:44.\n\nSTATION FIT: Saturday, 6:30 p.m. A sunny vocal track for the first drink of the evening.\n\nEMOTIONAL ARC: Wary, amused, sure, celebrating.",
+    "workbookAtAGlance": "Fifty Feels Like This\n\nBackup titles\nA Candle in a Lime / About Six of Us\n\nAt a glance\n112 BPM, C major\nVoice: Sunny, wistful female voice\nLength: about 3 minutes 20",
+    "year": 2015,
+    "qa": {
+      "title": "Fifty Feels Like This",
+      "id": "pd_30",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.7,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 112,
+          "bpmErrPct": 0.3,
+          "lufs": -13.1,
+          "peakDbfs": -0.23,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 213.2,
+          "vocalCoverage": 0.373,
+          "vocalSpanSec": [
+            18.8,
+            198.3
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 263,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.0,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 112,
+          "bpmErrPct": 0.3,
+          "lufs": -13.4,
+          "peakDbfs": -0.35,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 211.9,
+          "vocalCoverage": 0.465,
+          "vocalSpanSec": [
+            5.8,
+            187.7
+          ],
+          "vocalF0MedianHz": 261,
+          "vocalF0P25Hz": 221,
+          "lyricLineRecall": 0.955,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Disco"
   }
 ]

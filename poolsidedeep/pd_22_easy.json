@@ -1,0 +1,121 @@
+{
+  "id": "pd_22",
+  "title": "Easy",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 22,
+  "slug": "pd_22_easy",
+  "inspiredBy": "Baby (Four Tet, 2020)",
+  "leadVoice": "No sung verses. One word, 'easy', sung by a woman with a soft, clear voice, chopped into syllables and re-pitched to play a melody. It is heard once whole and unprocessed in the break.",
+  "model": "V6",
+  "style": "2020 melodic electronic with a skipping two-step beat, no sung verses, one word sung by a soft clear female voice chopped into syllables and re-pitched to play a melody, 128 BPM, G major, light fresh gentle feel, light garage-style drums with a soft kick, round sub bass, plucked harp, warm pad, small bell, a full stop in the middle for birdsong and a slow warm haze before the beat returns, clean airy detailed mix, calm, bright, morning",
+  "negativeTags": "sung verses, full lyrics, male vocals, rap, distorted bass, big room drop, trap hi-hats, rock guitar, dark mood",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: one chopped female word, soft pad]\n(Easy)\n\n[Beat Enters: light skipping drums, round sub bass]\n(Easy, ea-, easy)\n\n[Section A: the word re-pitched into a melody, harp plucks]\n(Ea-, ea-, easy)\n(Easy)\n\n[Break: beat stops, birdsong, slow warm haze, water lapping]\n\n[Vocal: the word once, whole and unprocessed]\nEasy\n\n[Beat Returns: skipping drums, melody an octave higher]\n(Easy, ea-, easy)\n(Ea-, ea-, easy)\n\n[Outro: harp plucks, one bird, a swimmer's turn at the wall]",
+  "taskId": "d61b3107cf1b31721375d47f2ac84ca0",
+  "sunoClipIds": [
+    "02b6fbf8-67dc-4eae-b93f-f7807d3175a5",
+    "ea621305-87ea-409f-98ad-affccdd8ac1c"
+  ],
+  "created": "Nov 17, 2026 10:15 AM ET",
+  "createTimeMs": 1794928552661,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "02b6fbf8-67dc-4eae-b93f-f7807d3175a5",
+      "durationSec": 214.76,
+      "file": "poolsidedeep/pd_22_easy_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ea621305-87ea-409f-98ad-affccdd8ac1c",
+      "durationSec": 214.64,
+      "file": "poolsidedeep/pd_22_easy_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_22_easy_req.json",
+    "poolsidedeep/pd_22_easy_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_22_easy.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_22_easy.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 128 BPM, 4/4 with a skipping two-step rhythm, G major. Light, fresh and gentle.\n\nVOICE: No sung verses. One word, 'easy', sung by a woman with a soft, clear voice, chopped into syllables and re-pitched to play a melody. It is heard once whole and unprocessed in the break.\n\nINSTRUMENTS: Light, skipping garage-style drums with a soft kick, a round sub bass, plucked harp notes, a warm pad, a small bell, birdsong, lapping water.\n\nARRANGEMENT MAP: 0:00 Intro, the word. 0:16 Beat enters. 0:46 Section A, melody. 1:30 Break, birdsong and haze. 2:00 The word, whole. 2:06 Beat returns, an octave up. 2:50 Outro, harp and one bird, ends 3:18.\n\nPRODUCTION & MIX: 2020 melodic electronic: clean, airy and detailed, drums light, sub soft, lots of space.\n\nSIGNATURE MOMENT: The beat stopping for birdsong at 1:30, and the one unprocessed 'Easy' at 2:00.\n\nSTATION FIT: Sunday, 8 a.m. A light, skipping track for the first swim, with a pause in the middle to float.\n\nEMOTIONAL ARC: Stiff, loosening, still, gliding.",
+  "workbookAtAGlance": "Easy\n\nBackup titles\nFirst Lengths / Eight O'Clock Water\n\nAt a glance\n128 BPM, G major\nVoice: Instrumental; one chopped female word\nLength: about 3 minutes 20",
+  "year": 2020,
+  "qa": {
+    "title": "Easy",
+    "id": "pd_22",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 128,
+        "bpmErrPct": 0.9,
+        "lufs": -13.2,
+        "peakDbfs": -0.58,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 213.3,
+        "vocalCoverage": 0.279,
+        "vocalSpanSec": [
+          4.7,
+          193.2
+        ],
+        "vocalF0MedianHz": 496,
+        "vocalF0P25Hz": 493,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Beat Enters",
+          "Section A",
+          "Beat Returns"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.7,
+        "measuredBpm": 89.1,
+        "bpmFactor": 1.5,
+        "targetBpm": 128,
+        "bpmErrPct": 4.4,
+        "lufs": -13.0,
+        "peakDbfs": -0.18,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 212.6,
+        "vocalCoverage": 0.276,
+        "vocalSpanSec": [
+          4.3,
+          147.5
+        ],
+        "vocalF0MedianHz": 496,
+        "vocalF0P25Hz": 468,
+        "lyricLineRecall": 0.5,
+        "lyricUnclearSections": [
+          "Section A"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other"
+}

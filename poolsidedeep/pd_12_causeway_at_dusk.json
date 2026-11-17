@@ -1,0 +1,115 @@
+{
+  "id": "pd_12",
+  "title": "Causeway at Dusk",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 12,
+  "slug": "pd_12_causeway_at_dusk",
+  "inspiredBy": "Beyond Beliefs (Ben Böhmer, 2021)",
+  "leadVoice": "None. The lead is a monophonic synthesizer with a vocal-like tone and a slow glide between notes.",
+  "model": "V6",
+  "style": "Early-2020s melodic house instrumental, no vocals, a singing monophonic analogue lead synth with a vocal-like tone and slow glide playing a simple emotional melody, 122 BPM, F major, warm steady feel with chords that keep opening upward, plucked chord stabs, warm four-on-the-floor kick, rounded bass, soft pads, piano taking the melody in the break, string pad, crisp hi-hats, warm clear wide mix with a live feel, emotional, uplifting, sunset",
+  "negativeTags": "vocals, lyrics, rap, distorted guitar, big room drop, trap hi-hats, dark mood, harsh synths",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft pad, filtered kick, tires humming on a bridge]\n\n[Section A: kick opens, warm bass, plucked chords]\n\n[Melody 1: singing synth lead, simple and slow]\n\n[Build: chords rising, hi-hats, a second harmony line]\n\n[Drop: full groove, lead melody an octave higher]\n\n[Break: beat out, piano playing the melody alone]\n\n[Build: snare roll, pad swelling]\n\n[Drop: full groove, lead and piano together, strings]\n\n[Outro: pad and piano, the hum of the bridge fading]",
+  "taskId": "a552839f5335f8573855bb47f5f40da6",
+  "sunoClipIds": [
+    "1e071ae2-0b4a-413d-b1d2-fd943c4d44dd",
+    "83309368-74f4-48d9-8370-bedc9124b034"
+  ],
+  "created": "Nov 17, 2026 10:15 AM ET",
+  "createTimeMs": 1794928516704,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "1e071ae2-0b4a-413d-b1d2-fd943c4d44dd",
+      "durationSec": 224.6,
+      "file": "poolsidedeep/pd_12_causeway_at_dusk_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "83309368-74f4-48d9-8370-bedc9124b034",
+      "durationSec": 225.0,
+      "file": "poolsidedeep/pd_12_causeway_at_dusk_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_12_causeway_at_dusk_req.json",
+    "poolsidedeep/pd_12_causeway_at_dusk_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_12_causeway_at_dusk.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_12_causeway_at_dusk.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, F major. Warm, steady and emotional, opening upward all the way through.\n\nVOICE: None. The lead is a monophonic synthesizer with a vocal-like tone and a slow glide between notes.\n\nINSTRUMENTS: A singing analogue lead synth, plucked chord stabs, a warm four-on-the-floor kick, a rounded bass, soft pads, a piano that takes the melody in the break, a string pad, crisp hi-hats, bridge and tyre hum.\n\nARRANGEMENT MAP: 0:00 Intro, pad and bridge hum. 0:20 Section A. 0:46 Melody 1. 1:14 Build. 1:28 Drop 1. 1:58 Break, piano. 2:16 Build. 2:28 Drop 2. 3:00 Outro, ends 3:28.\n\nPRODUCTION & MIX: Early-2020s melodic house: warm, clear and wide, played with a live feel, lead sitting where a voice would.\n\nSIGNATURE MOMENT: The lead melody entering at 0:46.\n\nSTATION FIT: Saturday, 5:30 p.m. Crossing to the beach at sunset: the second track of the set and its first instrumental.\n\nEMOTIONAL ARC: Expectant, lifted, tender, arriving.",
+  "workbookAtAGlance": "Causeway at Dusk\n\nBackup titles\nWater on Both Sides / Skyline in the Mirror\n\nAt a glance\n122 BPM, F major\nVoice: Instrumental\nLength: about 3 minutes 30",
+  "year": 2021,
+  "qa": {
+    "title": "Causeway at Dusk",
+    "id": "pd_12",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.6,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 5.9,
+        "lufs": -13.8,
+        "peakDbfs": -2.03,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.9,
+        "contentEndSec": 223.2,
+        "vocalCoverage": 0.0,
+        "vocalSpanSec": [
+          0.0,
+          224.7
+        ],
+        "vocalF0MedianHz": 0,
+        "vocalF0P25Hz": 0,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 225.0,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 5.9,
+        "lufs": -14.1,
+        "peakDbfs": -1.48,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 224.5,
+        "vocalCoverage": 0.031,
+        "vocalSpanSec": [
+          193.5,
+          205.2
+        ],
+        "vocalF0MedianHz": 437,
+        "vocalF0P25Hz": 390,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Melodic House"
+}

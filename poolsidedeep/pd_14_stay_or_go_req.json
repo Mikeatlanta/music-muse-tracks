@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Stay or Go",
+  "prompt": "[Intro: bluesy guitar lick, dark house kick, bass]\n\n[Verse 1: smoky restrained male voice]\nCheck's on the bar, pen's in my hand\nBand's on a break, I'd made a plan\nThen the seat by you came free\nNow the pen's just looking at me\n\n[Chorus: fuller groove, voice doubled, guitar answering]\nStay or go, stay or go\nOne more round, or the bill\nStay or go, I don't know\nI've been standing here so still\nStay or go\n\n[Verse 2: voice closer, hi-hats open]\nYou look up, then you look down\nThere's a smile you don't quite hide\nI could sign and say good night\nI could ask what you're drinking tonight\n\n[Chorus: fuller groove, voice doubled, guitar answering]\nStay or go, stay or go\nOne more round, or the bill\nStay or go, I don't know\nI've been standing here so still\nStay or go\n\n[Guitar Break: slow bluesy solo over the beat]\n\n[Outro: groove, a stool pulled out, \"Is this taken?\"]",
+  "style": "Mid-2010s indie deep house played like a band, low smoky held-back male vocal almost murmured, doubled in the choruses, 116 BPM, E minor, slow dark smoky feel, clean bluesy electric guitar lick, slow four-on-the-floor kick with dry snare, deep bass guitar, dark pads, open hi-hats, Rhodes electric piano, restrained guitar solo, dark warm spacious mix, tempted, hesitant, late-night",
+  "negativeTags": "female lead vocals, belting, rap, bright pop chorus, trap hi-hats, big room drop, brass, cheerful major key",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

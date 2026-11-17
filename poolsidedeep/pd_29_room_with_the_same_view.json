@@ -1,0 +1,115 @@
+{
+  "id": "pd_29",
+  "title": "Room With the Same View",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 29,
+  "slug": "pd_29_room_with_the_same_view",
+  "inspiredBy": "Deja Vu (Lastlings, 2020)",
+  "leadVoice": "Female, airy and clear, light vibrato, cool in the verses and open in the choruses, where she is doubled. Almost whispered in the bridge.",
+  "model": "V6",
+  "style": "2020 Australian cinematic electronic pop, airy clear female vocal with light vibrato, cool in the verses and open and doubled in the choruses, almost whispered in the bridge, 118 BPM, B minor rising to a major chorus, cinematic cool tender feel, pulsing synth bass, glassy pads, wide cinematic synth chords, four-on-the-floor kick with a soft clap, delayed guitar line, rising white-noise sweep, wide cool polished mix, nostalgic, romantic, night",
+  "negativeTags": "male lead vocals, rap, belting, distorted guitar, big room drop, trap hi-hats, harsh mix, novelty sounds",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: pulsing synth bass, glassy pad, distant surf]\n\n[Verse 1: airy, clear female voice]\nFour-twelve, they gave us the same key\nSame balcony, same strip of sea\nThe lamp's been changed, the chairs are new\nThe moon is where we left it, too\n\n[Chorus: four-on-the-floor kick, wide synths, voice doubled]\nRoom with the same view\nTwenty years, and it still knows you\nRoom with the same view\nWe've changed more than the sea's had to\nStand here where we stood\nIt still looks good\nRoom with the same view\n\n[Verse 2: bass busier, voice warmer]\nYou had more hair, I had less doubt\nWe thought we had it figured out\nWe didn't, and we're here again\nI'd take us now over us then\n\n[Chorus: four-on-the-floor kick, wide synths, voice doubled]\nRoom with the same view\nTwenty years, and it still knows you\nRoom with the same view\nWe've changed more than the sea's had to\nStand here where we stood\nIt still looks good\nRoom with the same view\n\n[Bridge: drums drop out, voice and pad]\nSame view\nDifferent eyes\nSame view\n\n[Outro: synth bass pulsing, surf, a balcony door sliding]",
+  "taskId": "ea7a57a759db63df2990a63af37e8bdd",
+  "sunoClipIds": [
+    "1542b663-5d3e-43cb-abcf-a99fe9a0f2c7",
+    "d7fbe9d4-7ff6-4580-bdc9-3ec4a27e4bfc"
+  ],
+  "created": "Nov 17, 2026 10:16 AM ET",
+  "createTimeMs": 1794928591704,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "1542b663-5d3e-43cb-abcf-a99fe9a0f2c7",
+      "durationSec": 234.0,
+      "file": "poolsidedeep/pd_29_room_with_the_same_view_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d7fbe9d4-7ff6-4580-bdc9-3ec4a27e4bfc",
+      "durationSec": 233.72,
+      "file": "poolsidedeep/pd_29_room_with_the_same_view_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_29_room_with_the_same_view_req.json",
+    "poolsidedeep/pd_29_room_with_the_same_view_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_29_room_with_the_same_view.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_29_room_with_the_same_view.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, B minor rising to D major in the chorus. Cinematic, cool and tender.\n\nVOICE: Female, airy and clear, light vibrato, cool in the verses and open in the choruses, where she is doubled. Almost whispered in the bridge.\n\nINSTRUMENTS: A pulsing synth bass, glassy pads, wide, cinematic synth chords, a four-on-the-floor kick with a soft clap, a delayed guitar line, a rising white-noise sweep, distant surf, a sliding door.\n\nARRANGEMENT MAP: 0:00 Intro, bass pulse. 0:18 Verse 1. 0:50 Chorus 1. 1:26 Verse 2. 1:58 Chorus 2. 2:34 Bridge, drums out. 2:54 Outro, bass and surf, a door at 3:30.\n\nPRODUCTION & MIX: 2020 Australian cinematic electronic pop: wide, cool and polished, voice bright and close, bass pulsing under everything.\n\nSIGNATURE MOMENT: 'I'd take us now over us then' at 1:52, leading into the second chorus.\n\nSTATION FIT: Saturday, 10:30 p.m. A wide, cool vocal track for the balcony after dinner.\n\nEMOTIONAL ARC: Surprised, remembering, honest, glad.",
+  "workbookAtAGlance": "Room With the Same View\n\nBackup titles\nFour-Twelve / Where We Left It\n\nAt a glance\n118 BPM, B minor\nVoice: Airy, clear female voice\nLength: about 3 minutes 40",
+  "year": 2020,
+  "qa": {
+    "title": "Room With the Same View",
+    "id": "pd_29",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.0,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 4.3,
+        "lufs": -13.4,
+        "peakDbfs": -1.27,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 231.5,
+        "vocalCoverage": 0.49,
+        "vocalSpanSec": [
+          20.7,
+          211.1
+        ],
+        "vocalF0MedianHz": 417,
+        "vocalF0P25Hz": 278,
+        "lyricLineRecall": 0.909,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 233.7,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 0.5,
+        "lufs": -12.3,
+        "peakDbfs": -0.78,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 231.7,
+        "vocalCoverage": 0.435,
+        "vocalSpanSec": [
+          20.8,
+          205.1
+        ],
+        "vocalF0MedianHz": 312,
+        "vocalF0P25Hz": 274,
+        "lyricLineRecall": 0.864,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

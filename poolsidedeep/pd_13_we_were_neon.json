@@ -1,0 +1,117 @@
+{
+  "id": "pd_13",
+  "title": "We Were Neon",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 13,
+  "slug": "pd_13_we_were_neon",
+  "inspiredBy": "Sometimes (Miami Horror, 2010)",
+  "leadVoice": "Male tenor, light and wistful, slightly breathy, with stacked harmonies in the choruses.",
+  "model": "V6",
+  "style": "Around-2010 Australian indie dance with 1980s colours, light wistful slightly breathy male tenor with stacked harmonies in the choruses, 118 BPM, E major, bright bouncing bittersweet feel, shimmering chorused synth chords, bouncing synth bass, tight disco-rock drum kit, chiming clean guitar, bright lead synth solo, handclaps, glossy bright punchy mix, nostalgic, warm, sunny",
+  "negativeTags": "female lead vocals, rap, distorted bass, big room drop, trap hi-hats, slow ballad, dark mood, harsh mix",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: shimmering synth chords, bouncing bass, drum fill]\n\n[Verse 1: wistful male tenor]\nPink sign buzzing over the door\nSame two colors that we wore\nJelly shoes and a borrowed car\nWe thought we'd lit up every star\n\n[Chorus: full indie-dance groove, harmonies]\nWe were neon\nPink and blue and seventeen\nWe were neon\nBrightest thing I've ever been\nLook at us, still a little bright\nWe were neon, and we are tonight\n\n[Verse 2: voice warmer, guitar chiming]\nNow it's reading glasses, sensible shoes\nNine o'clock and the early news\nBut you laugh, and there's that glow\nSame as thirty years ago\n\n[Chorus: full indie-dance groove, harmonies]\nWe were neon\nPink and blue and seventeen\nWe were neon\nBrightest thing I've ever been\nLook at us, still a little bright\nWe were neon, and we are tonight\n\n[Instrumental: synth solo, handclaps]\n\n[Outro: synth chords, the sign buzzing, flickering]",
+  "taskId": "0a834940dd2bc4a0eba3bbb4eadac48b",
+  "sunoClipIds": [
+    "aff630b0-12a9-417f-9160-1798327fb9d2",
+    "8a58d147-9c82-4f59-81e7-da75ef7b5422"
+  ],
+  "created": "Nov 17, 2026 10:15 AM ET",
+  "createTimeMs": 1794928548982,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "aff630b0-12a9-417f-9160-1798327fb9d2",
+      "durationSec": 214.32,
+      "file": "poolsidedeep/pd_13_we_were_neon_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "8a58d147-9c82-4f59-81e7-da75ef7b5422",
+      "durationSec": 214.36,
+      "file": "poolsidedeep/pd_13_we_were_neon_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_13_we_were_neon_req.json",
+    "poolsidedeep/pd_13_we_were_neon_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_13_we_were_neon.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_13_we_were_neon.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, E major. Bright, bouncing and bittersweet indie dance.\n\nVOICE: Male tenor, light and wistful, slightly breathy, with stacked harmonies in the choruses.\n\nINSTRUMENTS: Shimmering, chorused synth chords, a bouncing synth bass, a tight disco-rock drum kit, a chiming clean guitar, a bright lead synth solo, handclaps, a buzzing neon sign.\n\nARRANGEMENT MAP: 0:00 Intro. 0:12 Verse 1. 0:40 Chorus 1. 1:10 Verse 2. 1:38 Chorus 2. 2:08 Synth solo. 2:36 Outro, chords and the sign flickering, ends 3:18.\n\nPRODUCTION & MIX: Around-2010 Australian indie dance: glossy, bright and punchy, synths wide, drums live.\n\nSIGNATURE MOMENT: 'Look at us, still a little bright' at 0:58.\n\nSTATION FIT: Saturday, 9 p.m. The most upbeat vocal track of the evening, with 1980s colour.\n\nEMOTIONAL ARC: Nostalgic, rueful, warmed, lit.",
+  "workbookAtAGlance": "We Were Neon\n\nBackup titles\nPink and Blue at Seventeen / Still a Little Bright\n\nAt a glance\n118 BPM, E major\nVoice: Wistful male tenor\nLength: about 3 minutes 20",
+  "year": 2010,
+  "qa": {
+    "title": "We Were Neon",
+    "id": "pd_13",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.3,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 4.3,
+        "lufs": -12.9,
+        "peakDbfs": -1.27,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 212.7,
+        "vocalCoverage": 0.417,
+        "vocalSpanSec": [
+          20.8,
+          200.3
+        ],
+        "vocalF0MedianHz": 372,
+        "vocalF0P25Hz": 277,
+        "lyricLineRecall": 0.7,
+        "lyricUnclearSections": [
+          "Verse 1"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.4,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 4.3,
+        "lufs": -12.3,
+        "peakDbfs": -0.36,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 212.6,
+        "vocalCoverage": 0.426,
+        "vocalSpanSec": [
+          20.1,
+          188.7
+        ],
+        "vocalF0MedianHz": 331,
+        "vocalF0P25Hz": 248,
+        "lyricLineRecall": 0.7,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Disco"
+}

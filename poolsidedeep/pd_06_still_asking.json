@@ -1,0 +1,119 @@
+{
+  "id": "pd_06",
+  "title": "Still Asking",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 6,
+  "slug": "pd_06_still_asking",
+  "inspiredBy": "Harvest Moon (Poolside, 2012)",
+  "leadVoice": "Male, soft, light and unhurried, sung almost under his breath with a smile. Gentle harmonies in the choruses. One spoken word, hers, at the end.",
+  "model": "V6",
+  "style": "Early-2010s Californian daytime disco, soft light unhurried male vocal sung almost under his breath with a smile, gentle harmonies in the choruses, 104 BPM, D major, lazy warm sway, slide guitar with long sweet phrases, round melodic bass guitar, soft disco kick and hi-hat, clean rhythm guitar, electric piano, congas, handclaps, slide guitar solo, warm soft analogue mix, romantic, gentle, easy",
+  "negativeTags": "female lead vocals, belting, rap, distorted synths, big room drop, trap hi-hats, fast tempo, harsh mix",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: slide guitar phrase, lazy disco beat, round bass]\n\n[Verse 1: soft relaxed male voice]\nBand's packing up, the lights are low\nYou've got your shoes off, good to go\nI cross the deck, I clear my throat\nSame as that night on your daddy's boat\n\n[Chorus: full groove, harmonies, slide guitar answering]\nI'm still asking\nMay I have this one?\nThirty years of yes\nAnd I still don't assume\nStill asking\nCome on, the night's still young\n\n[Verse 2: voice warmer]\nYou roll your eyes, you take my hand\nYou say, \"You know you don't have to ask, old man\"\nI know I don't. That's why I do.\nIt's the best part of dancing with you.\n\n[Chorus: full groove, harmonies, slide guitar answering]\nI'm still asking\nMay I have this one?\nThirty years of yes\nAnd I still don't assume\nStill asking\nCome on, the night's still young\n\n[Instrumental: slide guitar solo, handclaps]\n\n[Outro: groove, bare feet on stone, \"Yes.\"]",
+  "taskId": "8a910254de3853ad3be278a517c3c922",
+  "sunoClipIds": [
+    "51d55344-16b1-4301-86eb-b1d378ea5405",
+    "3755a2b2-c07d-4bc2-810b-10b66271a422"
+  ],
+  "created": "Nov 17, 2026 10:14 AM ET",
+  "createTimeMs": 1794928495748,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "51d55344-16b1-4301-86eb-b1d378ea5405",
+      "durationSec": 234.0,
+      "file": "poolsidedeep/pd_06_still_asking_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "3755a2b2-c07d-4bc2-810b-10b66271a422",
+      "durationSec": 234.52,
+      "file": "poolsidedeep/pd_06_still_asking_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_06_still_asking_req.json",
+    "poolsidedeep/pd_06_still_asking_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_06_still_asking.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_06_still_asking.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, D major. A lazy, warm daytime-disco sway.\n\nVOICE: Male, soft, light and unhurried, sung almost under his breath with a smile. Gentle harmonies in the choruses. One spoken word, hers, at the end.\n\nINSTRUMENTS: A slide guitar playing long, sweet phrases, a round, melodic bass guitar, a soft disco kick and hi-hat, a clean rhythm guitar, electric piano, congas, handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, slide guitar. 0:18 Verse 1. 0:50 Chorus 1. 1:22 Verse 2. 1:54 Chorus 2. 2:26 Slide guitar solo. 2:58 Outro groove and 'Yes' at 3:30.\n\nPRODUCTION & MIX: Early-2010s Californian daytime disco: warm, soft-edged and analogue, bass and slide guitar in front.\n\nSIGNATURE MOMENT: 'I know I don't. That's why I do.' at 1:40.\n\nSTATION FIT: Saturday, 7 p.m. A slow-dance track in the style of the act whose name the station nearly shares.\n\nEMOTIONAL ARC: Courteous, teasing, tender, dancing.",
+  "workbookAtAGlance": "Still Asking\n\nBackup titles\nMay I Have This One / Thirty Years of Yes\n\nAt a glance\n104 BPM, D major\nVoice: Soft, relaxed male voice\nLength: about 3 minutes 40",
+  "year": 2012,
+  "qa": {
+    "title": "Still Asking",
+    "id": "pd_06",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.07 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 234.0,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 0.6,
+        "lufs": -13.0,
+        "peakDbfs": 0.07,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 232.1,
+        "vocalCoverage": 0.285,
+        "vocalSpanSec": [
+          20.4,
+          212.7
+        ],
+        "vocalF0MedianHz": 218,
+        "vocalF0P25Hz": 165,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.27 dBFS (4 clipped sample, inaudible)"
+        ],
+        "durationSec": 234.5,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 3.5,
+        "lufs": -12.7,
+        "peakDbfs": 0.27,
+        "clipSamples": 4,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 232.6,
+        "vocalCoverage": 0.479,
+        "vocalSpanSec": [
+          18.5,
+          222.7
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 217,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Disco"
+}

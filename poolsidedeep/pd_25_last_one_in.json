@@ -1,0 +1,121 @@
+{
+  "id": "pd_25",
+  "title": "Last One In",
+  "collection": "poolsidedeep",
+  "album": "Poolside Chill Deep Cuts Reimagined",
+  "track": 25,
+  "slug": "pd_25_last_one_in",
+  "inspiredBy": "Run (Tourist, 2016)",
+  "leadVoice": "No sung verses. Short chopped fragments of a woman's and a man's voice, used as rhythm. Several adults whisper a count and one shouts three words before the drop.",
+  "model": "V6",
+  "style": "Mid-2010s emotional UK electronic instrumental, no sung verses, short chopped fragments of a woman's and a man's voice used as rhythm, one shouted three-word line before the drop, 130 BPM with a broken garage rhythm, A major, rushing emotional joyful feel, big swelling side-chained synth chords, broken garage-style drums with a crisp snare, deep sub bass, bright bell-like plucks, reversed cymbal, wide bright clean mix, euphoric, playful, late-night",
+  "negativeTags": "sung verses, full lyrics, rap, distorted guitar, trap hi-hats, hardstyle kick, dark mood, slow ballad",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Deep Cuts Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft swelling chords, scattered vocal chops]\n(One, one in)\n\n[Beat Enters: broken garage-style drums, deep sub bass]\n(Last, la-, one in)\n\n[Section A: chords swell wide, chops answer the snare]\n(One in, one in)\n\n[Break: drums out, chords held, bare feet on wet tiles]\n\n[Spoken: several voices, whispering, then one shout]\nOne, two\nLast one in!\n\n[Drop: full beat, widest chords, a big splash]\n(Last, la-, one in)\n(One in, one in)\n\n[Outro: chords alone, water settling, quiet laughing]",
+  "taskId": "c8b862f140175b2168639a43cc9d63a1",
+  "sunoClipIds": [
+    "3d6c795d-6803-419b-9426-b84f95c241ff",
+    "ad4e414f-e649-40f5-b910-b360951df9e5"
+  ],
+  "created": "Nov 17, 2026 10:16 AM ET",
+  "createTimeMs": 1794928563173,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "3d6c795d-6803-419b-9426-b84f95c241ff",
+      "durationSec": 204.36,
+      "file": "poolsidedeep/pd_25_last_one_in_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ad4e414f-e649-40f5-b910-b360951df9e5",
+      "durationSec": 203.96,
+      "file": "poolsidedeep/pd_25_last_one_in_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolsidedeep/pd_25_last_one_in_req.json",
+    "poolsidedeep/pd_25_last_one_in_rec.json"
+  ],
+  "cover": "poolsidedeep/covers/pd_25_last_one_in.jpg",
+  "cleanCover": "poolsidedeep/covers/clean/pd_25_last_one_in.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 130 BPM, 4/4 with a broken garage rhythm, A major. Rushing, emotional and joyful.\n\nVOICE: No sung verses. Short chopped fragments of a woman's and a man's voice, used as rhythm. Several adults whisper a count and one shouts three words before the drop.\n\nINSTRUMENTS: Big, swelling, side-chained synth chords, broken garage-style drums with a crisp snare, a deep sub bass, bright bell-like plucks, a reversed cymbal, bare feet on tiles and a large splash.\n\nARRANGEMENT MAP: 0:00 Intro, chords and chops. 0:20 Beat enters. 0:50 Section A. 1:30 Break, drums out. 1:44 Whispered count and the shout. 1:50 Drop, with the splash. 2:36 Outro, chords and water, ends 3:08.\n\nPRODUCTION & MIX: Mid-2010s emotional UK electronic: wide, bright and clean, chords huge, drums tight and dry.\n\nSIGNATURE MOMENT: 'Last one in!' and the splash landing with the drop at 1:50.\n\nSTATION FIT: Sunday, 1:30 a.m. A rush of energy late in the night, with almost no words.\n\nEMOTIONAL ARC: Giddy, daring, airborne, soaked.",
+  "workbookAtAGlance": "Last One In\n\nBackup titles\nEmpty Lifeguard Chair / Count of Three\n\nAt a glance\n130 BPM, A major\nVoice: Instrumental with vocal chops and one shout\nLength: about 3 minutes 10",
+  "year": 2016,
+  "qa": {
+    "title": "Last One In",
+    "id": "pd_25",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.4,
+        "measuredBpm": 89.1,
+        "bpmFactor": 1.5,
+        "targetBpm": 130,
+        "bpmErrPct": 2.8,
+        "lufs": -13.7,
+        "peakDbfs": -0.52,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 202.9,
+        "vocalCoverage": 0.469,
+        "vocalSpanSec": [
+          0.3,
+          187.7
+        ],
+        "vocalF0MedianHz": 434,
+        "vocalF0P25Hz": 249,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Intro",
+          "Beat Enters",
+          "Section A",
+          "Spoken",
+          "Drop"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.0,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 130,
+        "bpmErrPct": 4.6,
+        "lufs": -13.4,
+        "peakDbfs": -1.5,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 202.6,
+        "vocalCoverage": 0.344,
+        "vocalSpanSec": [
+          0.0,
+          193.0
+        ],
+        "vocalF0MedianHz": 297,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other"
+}
