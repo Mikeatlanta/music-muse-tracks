@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Use Your Words",
+  "prompt": "[Intro: pitched vocal chops, mallet percussion, snaps]\n\n[Verse 1: playful female voice]\nYou saved me the good chair\nYou brought me the cold one\nYou carried my bag from the car\nI see it, I see what you've done\n\n[Chorus: bright beat, chops answering]\nBut use your words\nI know, I know, I can tell\nUse your words\nI'd like to hear it as well\nThree of them, any order\nUse your words\n\n[Drop: bouncing vocal chops and mallets, big drums]\n\n[Verse 2: voice teasing, bass in]\nYou fixed the umbrella\nYou gave me the last bite\nYou're doing that thing with your eyebrows\nGo on, it's alright\n\n[Chorus: bright beat, chops answering]\nUse your words\nI know, I know, I can tell\nUse your words\nI'd like to hear it as well\nThree of them, any order\nUse your words\n\n[Break: beat drops out, close and soft]\nI can wait. I've got all day.\n\n[Drop: vocal chops, brass swell, full drums]\n\n[Outro: mallets, a man's voice, quiet]\n\"...Love. You. I.\"",
+  "style": "2014 indie electronic, light clear teasing female vocal sung with a smile, her voice also cut into pitched single syllables bouncing through the intro and drops, a shy male voice speaking three words at the end, 100 BPM, A major, bright bouncing percussive feel, marimba and mallet percussion, big roomy live-sounding drums with heavy snare, warm sub bass, finger snaps, bright synth plucks, soft brass swell, glockenspiel, bright wide punchy mix, playful, affectionate, sunny",
+  "negativeTags": "male lead singing, rap, distorted guitar, dark mood, trap hi-hats, slow ballad, heavy dubstep, acoustic folk",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

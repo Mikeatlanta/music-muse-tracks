@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Sitting Around (With Everybody)",
+  "prompt": "[Intro: warm piano chords, room noise, a message beep]\n\n[Spoken: woman's voice note, natural, unhurried]\nHey. I was just thinking.\nYou know what I missed? It wasn't the big stuff.\nIt wasn't the trips or the parties.\n\n[Spoken: piano continues, soft kick enters]\nIt was sitting around. With everybody.\nNothing in particular. Somebody's kid in the pool.\nSomebody burning something on the grill.\n\n[Refrain: sung softly, voices layered]\nSitting around, sitting around\nWith everybody\nNothing to do, and all of you\nWith everybody\n\n[Drop: full beat, piano and bass, vocal chop of \"everybody\"]\n\n[Spoken: voice warmer, hi-hats in]\nAnd we've got it back. Look.\nI'm looking at it right now.\nSo. Come over. Bring nothing.\n\n[Refrain: sung, fuller, handclaps]\nSitting around, sitting around\nWith everybody\nNothing to do, and all of you\nWith everybody\n\n[Drop: biggest, strings on top, vocal chop]\n\n[Outro: piano alone, spoken]\nOkay. That's all. Love you. Bye.",
+  "style": "2021 emotional piano house built on a spoken voice note, natural unhurried woman's voice speaking into a phone with pauses and room noise, softly sung layered male and female refrain, one word chopped and pitched in the drops, 123 BPM, C major, warm gathering quietly euphoric feel, felt-damped upright piano chords, soft kick entering late, round sub bass, shuffled hi-hats, handclaps, string section in the second drop, lo-fi voice against warm full piano, grateful, tender, uplifting",
+  "negativeTags": "rap, belting, distorted guitar, trap hi-hats, aggressive drop, brass, dark mood, auto-tune lead",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

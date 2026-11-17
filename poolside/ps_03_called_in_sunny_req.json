@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Called In Sunny",
+  "prompt": "[Intro: shimmering synth arpeggio, tom fill]\n\n[Verse 1: airy male falsetto]\nPhone on silent, shoes by the door\nLeft a message at a quarter to four\nSaid I'm feeling under the weather\nUnder it's right. I've never felt better.\n\n[Pre-Chorus: synths rising]\nIs it wrong? Is it wrong?\nIt's too blue out to belong indoors\n\n[Chorus: full shimmer, falsetto stacked]\nI called in sunny\nTold them I can't come in\nGot a bad case of the sky today\nAnd it's getting under my skin\nCalled in sunny\nDon't wait up, don't call\nI'll be floating till the light gives out\nAnd I'm not sorry at all\n\n[Verse 2: falsetto, bass pulsing]\nEmails pinging in a drawer somewhere\nMeetings melting in the midday air\nTwenty years I never took a day\nTurns out the building stood up anyway\n\n[Chorus: full shimmer, falsetto stacked]\nI called in sunny\nTold them I can't come in\nGot a bad case of the sky today\nAnd it's getting under my skin\nCalled in sunny\nDon't wait up, don't call\nI'll be floating till the light gives out\nAnd I'm not sorry at all\n\n[Bridge: half-time, synths wash over]\nOut of office (out of office)\nOut of reach (out of reach)\n\n[Final Chorus: brightest, extra harmony on top]\nI called in sunny\nTold them I can't come in\nGot a bad case of the sky today\nAnd it's getting under my skin\nCalled in sunny\nDon't wait up, don't call\nI'll be floating till the light gives out\nAnd I'm not sorry at all\n\n[Outro: arpeggio, one splash]",
+  "style": "Late-2000s dreamy synth-pop, airy smooth male falsetto vocal in two- and three-part stacks in the choruses, single soft voice in the verses, echoed answers in a half-time bridge, 122 BPM, E-flat major, bright gliding weightless feel, shimmering chorused synth arpeggio, strummed acoustic guitar, tight kick and snare, pulsing eighth-note synth bass, glassy pads, tom fills, bright wide glossy mix with reverb on the voices, carefree, sunlit, light",
+  "negativeTags": "female lead vocals, rap, distorted guitar, heavy drop, trap hi-hats, low growling vocals, slow tempo, dark mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "callBackUrl": "https://example.com/cb"
+}

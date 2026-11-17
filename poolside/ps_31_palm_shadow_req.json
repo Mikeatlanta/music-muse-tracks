@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Palm Shadow",
+  "prompt": "[Intro: rolling piano motif, birdsong, soft shaker]\n\n[Section A: deep house kick enters, warm bass, piano continues]\n\n[Vocal: wordless female voice, airy]\nAh, ah-ah\nAh, ah-ah\n\n[Build: strings rising, wooden percussion, filter opening]\n\n[Drop: full beat, piano motif an octave up, strings wide]\n\n[Vocal: one sung phrase, soft]\nThe shadow moves\nI stay\n\n[Section B: piano alone with kalimba, beat thinned]\n\n[Build: strings and snare brush roll]\n\n[Drop: full beat, strings highest, wordless voice above]\nAh, ah-ah\nThe shadow moves\nI stay\n\n[Outro: piano motif slowing, birdsong, palm leaves in wind]",
+  "style": "2018 melodic deep house, nearly instrumental, airy wordless female voice used like a string line with one soft four-word sung phrase in long reverb, no verses, 122 BPM, F# minor with a hopeful major lift in the drops, steady soft flowing feel, rolling eight-note grand-piano motif, soft four-on-the-floor kick, warm rounded bass, slowly swelling string section, wooden percussion and shakers, kalimba, light open hi-hat, birdsong, warm clean spacious mix, serene, organic, uplifting",
+  "negativeTags": "full sung verses, male lead vocals, rap, distorted synths, big room drop, trap hi-hats, rock guitar, fast tempo",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

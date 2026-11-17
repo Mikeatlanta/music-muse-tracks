@@ -1,0 +1,129 @@
+{
+  "id": "ps_19",
+  "title": "Pink at Seven",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 19,
+  "slug": "ps_19_pink_at_seven",
+  "inspiredBy": "Sunset Lover (Petit Biscuit, 2015)",
+  "leadVoice": "No sung lyric. A young, androgynous voice is cut into single syllables and pitched up and down to play the melody, like an instrument. Only the last line is a natural voice, soft and close, half-spoken.",
+  "model": "V6",
+  "style": "Mid-2010s chill electronic instrumental, melody played by a young androgynous voice chopped into pitched single syllables, no sung lyric until one soft half-spoken line at the end, 90 BPM, B major, slow floating tender sway, clean delayed electric guitar plucking single notes, pitched vocal-chop lead, soft round kick and finger snaps, warm swelling sub bass, airy pads, glockenspiel doubling the melody, vinyl crackle, soft wide warm mix with long reverbs, nostalgic, peaceful, glowing",
+  "negativeTags": "full sung lyrics, rap, belting, distorted bass, rock drums, brass, fast tempo, aggressive drop",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: plucked guitar notes, vinyl crackle, soft pad]\n\n[Section A: chopped vocal melody, no beat yet]\nEe-ah, oh\nEe-ah, oh-ee\n\n[Build: soft kick and snaps enter, guitar plucks]\nEe-ah, oh\n(Mm)\n\n[Drop: full beat, vocal-chop lead, bass swells]\nEe-ah-oh, ee-ah-oh\nAh-ee, ah-ee, oh\n\n[Section B: beat thins, guitar and a second chop melody]\nOh-ee, oh\nOh-ee, ah\n\n[Build: snare roll, filter opening]\n\n[Drop: full beat, both chop melodies together]\nEe-ah-oh, ee-ah-oh\nAh-ee, ah-ee, oh\n\n[Outro: guitar alone, one natural voice, close]\nPink at seven. See you home.",
+  "taskId": "a3da2ea79ff8dd50e4540e74e18bb8a6",
+  "sunoClipIds": [
+    "f551c196-564c-45fa-abba-6e331d4b480a",
+    "4871275b-1eab-474f-bcf8-86856ff7bfb6"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919233104,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f551c196-564c-45fa-abba-6e331d4b480a",
+      "durationSec": 194.76,
+      "file": "poolside/ps_19_pink_at_seven_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "4871275b-1eab-474f-bcf8-86856ff7bfb6",
+      "durationSec": 194.8,
+      "file": "poolside/ps_19_pink_at_seven_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_19_pink_at_seven_req.json",
+    "poolside/ps_19_pink_at_seven_rec.json"
+  ],
+  "cover": "poolside/covers/ps_19_pink_at_seven.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 90 BPM, 4/4, B major. Slow, floating and tender, with a gentle sway.\n\nVOICE: No sung lyric. A young, androgynous voice is cut into single syllables and pitched up and down to play the melody, like an instrument. Only the last line is a natural voice, soft and close, half-spoken.\n\nINSTRUMENTS: Clean electric guitar plucking single notes with delay, the pitched vocal-chop lead, a soft, round kick and finger snaps, a warm sub bass that swells with the kick, airy pads, a glockenspiel doubling the melody in the second drop, vinyl crackle.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and pad. 0:16 Section A, chops alone. 0:38 Build. 0:54 Drop 1. 1:26 Section B. 1:48 Build. 2:00 Drop 2, both melodies. 2:36 Outro, guitar and the spoken line at 2:52.\n\nPRODUCTION & MIX: Mid-2010s chill electronic: soft, wide and warm, long reverbs, everything gentle, a little lo-fi crackle.\n\nSIGNATURE MOMENT: The first drop at 0:54, when the chopped voice becomes a tune.\n\nSTATION FIT: 7 p.m., the pink minutes after gold. Mostly instrumental and slow, a breather between vocal tracks and an easy bed for the station's voice-overs.\n\nEMOTIONAL ARC: Still, glowing, wistful, heading home.",
+  "workbookAtAGlance": "Pink at Seven\n\nBackup titles\nPostcard Sky / Almost Words\n\nAt a glance\n90 BPM, B major\nVoice: Chopped, pitched vocal syllables, almost no words\nLength: about 3 minutes",
+  "qa": {
+    "title": "Pink at Seven",
+    "id": "ps_19",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 0% of lines recognised (unclear: Section A, Build, Drop, Section B, Outro)"
+        ],
+        "durationSec": 194.8,
+        "measuredBpm": 92.3,
+        "bpmFactor": 1,
+        "targetBpm": 90,
+        "bpmErrPct": 2.5,
+        "lufs": -12.1,
+        "peakDbfs": -0.42,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 192.9,
+        "vocalCoverage": 0.468,
+        "vocalSpanSec": [
+          3.3,
+          150.0
+        ],
+        "vocalF0MedianHz": 518,
+        "vocalF0P25Hz": 471,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Section A",
+          "Build",
+          "Drop",
+          "Section B",
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 10% of lines recognised (unclear: Section A, Build, Drop, Section B)"
+        ],
+        "durationSec": 194.8,
+        "measuredBpm": 92.3,
+        "bpmFactor": 1,
+        "targetBpm": 90,
+        "bpmErrPct": 2.5,
+        "lufs": -12.3,
+        "peakDbfs": -0.06,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 194.6,
+        "vocalCoverage": 0.47,
+        "vocalSpanSec": [
+          2.7,
+          171.1
+        ],
+        "vocalF0MedianHz": 496,
+        "vocalF0P25Hz": 372,
+        "lyricLineRecall": 0.1,
+        "lyricUnclearSections": [
+          "Section A",
+          "Build",
+          "Drop",
+          "Section B"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other",
+  "year": 2015
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Nothing on the Calendar",
+  "prompt": "[Intro: rubbery bassline, guitar scratch, finger snaps]\n\n[Verse 1: relaxed male voice, half-sung]\nMonday's blank and Tuesday's clear\nWednesday's got a doodle of a deer\nThursday, Friday, wide and white\nNobody needs me till Sunday night\n\n[Chorus: falsetto hook, full funk groove]\nI got nothing on the calendar\nNothing on the calendar (ooh)\nEvery little square's a swimming pool\nI got nothing on the calendar\nAnd baby, neither do you\n\n[Verse 2: laid-back rap, bass and drums]\nNo stand-up, no sync, no \"quick one at three\"\nNo \"circling back,\" just the pool and me\nPhone's in a shoe and the shoe's in a bag\nBag's in the room with the \"do not disturb\" tag\nUsed to brag I was busy, that was the flex\nNow I brag about a nap and a book and what's next?\nNothing. That's the answer. That's the whole plan.\nPencil me out. Tell 'em catch me if they can.\n\n[Chorus: falsetto hook, full funk groove]\nI got nothing on the calendar\nNothing on the calendar (ooh)\nEvery little square's a swimming pool\nI got nothing on the calendar\nAnd baby, neither do you\n\n[Bridge: bass and claps only, falsetto ad-libs]\nBlank, blank, beautiful blank\n(All week, all week)\n\n[Final Chorus: full band, horns stab on top]\nI got nothing on the calendar\nNothing on the calendar (ooh)\nEvery little square's a swimming pool\nI got nothing on the calendar\nAnd baby, neither do you\n\n[Outro: bassline alone, ice in a glass]",
+  "style": "2017 summer funk-pop, relaxed half-sung male verse rising to a light sweet falsetto hook with stacked harmonies, laid-back conversational rap on the second verse, 101 BPM, B minor, slow bouncing funk groove, rubbery melodic fingered electric bass, clean muted guitar scratches, dry live drums with fat snare, finger snaps and handclaps, warm analogue synth pad, electric piano, horn stabs at the end, warm dry spacious mix, carefree, funny, sunny",
+  "negativeTags": "female lead vocals, four-on-the-floor house kick, EDM drop, distorted guitar, trap hi-hats, dark mood, fast tempo",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

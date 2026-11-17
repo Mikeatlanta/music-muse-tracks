@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Low Tide Company",
+  "prompt": "[Intro: plucked guitar loop, distant gulls]\n\n[Verse 1: low weary male baritone]\nYou go out and I don't ask where\nSand gets wide, boats lean in the air\nUsed to chase you down the beach\nNow I let the water reach\n\n[Chorus: soft beat enters, bass warm]\nI'm low tide company\nGood with me when you're away\nCrabs and gulls and a mile of gray\nYou come back at six, like you do\nI'm low tide company\nAnd high tide, I'm with you\n\n[Verse 2: voice closer, hi-hat ticking]\nI'm the pier, I don't go\nBarnacles and all, you know\nYou bring in what you bring\nI hold still for everything\n\n[Chorus: soft beat, bass warm, harmony below]\nI'm low tide company\nGood with me when you're away\nCrabs and gulls and a mile of gray\nYou come back at six, like you do\nI'm low tide company\nAnd high tide, I'm with you\n\n[Break: guitar loop alone, hummed melody]\nMm, mm, mm\n\n[Final Chorus: full beat, strings underneath]\nI'm low tide company\nGood with me when you're away\nCrabs and gulls and a mile of gray\nYou come back at six, like you do\nI'm low tide company\nAnd high tide, I'm with you\n\n[Outro: guitar loop, water coming in]",
+  "style": "2014 melancholy radio deep house, low grainy tired male baritone vocal sung quietly with almost no vibrato, lower harmony in the later choruses, hummed break, 120 BPM, G minor, calm steady feel, short plucked acoustic guitar loop that never changes, soft four-on-the-floor kick, muted clap, shakers, warm sustained bass, quiet string pad at the end, soft close mid-range mix, wistful, patient, calm",
+  "negativeTags": "female lead vocals, bright trumpet, big drop, rap, trap hi-hats, distorted synths, fast tempo, cheerful mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ps_26",
+  "title": "Seawall Sax",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 26,
+  "slug": "ps_26_seawall_sax",
+  "inspiredBy": "Jubel (Klingande, 2013)",
+  "leadVoice": "Female, bright and clear, singing only two short phrases, slightly pleading and smiling. She sings along with the saxophone in the final drop. No verses.",
+  "model": "V6",
+  "style": "2013 melodic deep house led by a saxophone, tenor saxophone playing a strong singable joyful melody as the hook, bright clear female voice singing only two short phrases and joining the saxophone at the end, no verses, 124 BPM, G major, bright bouncing feel, bright piano chords, light four-on-the-floor kick with off-beat open hi-hat, bouncing bass, shakers, handclaps, string section in the second drop, solo saxophone break, clean sunny warm mix, joyful, open-air, celebratory",
+  "negativeTags": "male lead vocals, full sung verses, rap, distorted synths, trap hi-hats, dark mood, slow tempo, heavy sub drop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: piano chords, soft shaker, distant surf]\n\n[Vocal: bright female voice, one phrase]\nPlay it till the tide turns\nPlay it till the light goes\n\n[Build: kick enters, piano rising]\nPlay it, play it\n\n[Drop: joyful saxophone melody, full beat]\n\n[Vocal: female voice, a little closer]\nNobody knows your name down here\nPlay it till the tide turns\n\n[Build: snare roll, handclaps]\nPlay it, play it\n\n[Drop: saxophone melody, higher, with strings]\n\n[Break: saxophone alone, free time]\n\n[Final Drop: saxophone and voice together]\nPlay it till the tide turns\nPlay it till the light goes\n\n[Outro: last saxophone note, applause from balconies]",
+  "taskId": "55d5c465254efb889ab5c6579fa4739f",
+  "sunoClipIds": [
+    "f5928cbb-a271-4c67-9d24-3d6f5cee543f",
+    "fa7d2018-3e5e-4a40-a8bf-1d2b46de9d6a"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919275034,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f5928cbb-a271-4c67-9d24-3d6f5cee543f",
+      "durationSec": 194.8,
+      "file": "poolside/ps_26_seawall_sax_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "fa7d2018-3e5e-4a40-a8bf-1d2b46de9d6a",
+      "durationSec": 194.4,
+      "file": "poolside/ps_26_seawall_sax_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_26_seawall_sax_req.json",
+    "poolside/ps_26_seawall_sax_rec.json"
+  ],
+  "cover": "poolside/covers/ps_26_seawall_sax.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, G major. Bright, bouncing and joyful melodic house led by a horn.\n\nVOICE: Female, bright and clear, singing only two short phrases, slightly pleading and smiling. She sings along with the saxophone in the final drop. No verses.\n\nINSTRUMENTS: A tenor saxophone playing a strong, singable melody, bright piano chords, a light four-on-the-floor kick with an off-beat open hi-hat, a bouncing bass, shakers, handclaps, a string section in the second drop, surf and distant applause.\n\nARRANGEMENT MAP: 0:00 Intro, piano and surf. 0:14 First vocal. 0:30 Build. 0:44 Drop 1, saxophone. 1:16 Second vocal. 1:32 Build. 1:44 Drop 2, with strings. 2:16 Break, saxophone alone. 2:28 Final drop, sax and voice. 2:50 Outro, last note and applause, ends 2:58.\n\nPRODUCTION & MIX: 2013 melodic deep house: clean and sunny, saxophone recorded close and warm, piano bright, drums light.\n\nSIGNATURE MOMENT: The saxophone entering at 0:44.\n\nSTATION FIT: 6:15 p.m., early golden hour. The pack's most openly happy track and nearly an instrumental, which makes it easy to place anywhere.\n\nEMOTIONAL ARC: Listening, lifted, dancing, applauding.",
+  "workbookAtAGlance": "Seawall Sax\n\nBackup titles\nPlay It Till the Tide Turns / Somebody's Uncle\n\nAt a glance\n124 BPM, G major\nVoice: Brief female vocal phrase; saxophone lead\nLength: about 3 minutes",
+  "qa": {
+    "title": "Seawall Sax",
+    "id": "ps_26",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 4.2,
+        "lufs": -13.8,
+        "peakDbfs": -1.48,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 194.2,
+        "vocalCoverage": 0.248,
+        "vocalSpanSec": [
+          2.0,
+          182.3
+        ],
+        "vocalF0MedianHz": 390,
+        "vocalF0P25Hz": 296,
+        "lyricLineRecall": 0.625,
+        "lyricUnclearSections": [
+          "Build"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.4,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 0.8,
+        "lufs": -12.9,
+        "peakDbfs": -0.6,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 192.1,
+        "vocalCoverage": 0.171,
+        "vocalSpanSec": [
+          7.6,
+          146.6
+        ],
+        "vocalF0MedianHz": 391,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 0.75,
+        "lyricUnclearSections": [
+          "Build"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Melodic House",
+  "year": 2013
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Lazy River",
+  "prompt": "[Intro: filtered chords, soft shaker]\n\n[Verse 1: smooth close male tenor]\nNo hurry in the water tonight\nIt goes the way it goes\nLean back, let the current decide\nWherever it wants us, we'll float\n\n[Chorus: deep bass in, voice layered]\nLazy river, take it slow\nRound and round and nowhere to go\nYour hand on the tube next to mine\nLazy river, we've got time\n\n[Drop: rolling bassline, chopped vocal]\nSlow, slow (slow, slow)\n\n[Verse 2: tenor, hi-hats ticking]\nAll day running, all week on the clock\nHere the only speed is drift\nYou keep bumping into me soft\nI keep not minding it\n\n[Chorus: deep bass, voice layered]\nLazy river, take it slow\nRound and round and nowhere to go\nYour hand on the tube next to mine\nLazy river, we've got time\n\n[Break: bass out, pads, whispered]\nOnce more around\n\n[Final Chorus: full groove, filter opens]\nLazy river, take it slow\nRound and round and nowhere to go\nYour hand on the tube next to mine\nLazy river, we've got time\n\n[Outro: chords filter down to nothing]",
+  "style": "2019 deep house with an R&B vocal, silky close male tenor sung quietly with R&B turns and pitched slightly low, layered in the choruses, chopped vocal sample in the drop, 117 BPM, F minor, slow rolling hypnotic groove, filtered electric-piano chords opening and closing, rolling rubbery sub-bass line, soft four-on-the-floor kick, shakers, closed hi-hats, reverbed clap, warm pads, dark smooth bass-led mix, sensual, relaxed, drifting",
+  "negativeTags": "female lead vocals, bright trumpet, acoustic guitar, rap, big room drop, fast tempo, distorted synths, cheerful major key",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ps_20",
+  "title": "Drink Some Water",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 20,
+  "slug": "ps_20_drink_some_water",
+  "inspiredBy": "Hear Me Now (Alok, Bruno Martini feat. Zeeba, 2016)",
+  "leadVoice": "Male, soft, plain and warm, sung quietly like someone telling a story at a table. He sings the old man's advice in the same gentle voice. A spoken phone greeting at the end. The hook is whistled, not sung.",
+  "model": "V6",
+  "style": "Mid-2010s acoustic dance track, soft plain warm male vocal sung quietly like a story told at a table, whistled melody as the hook, spoken phone greeting at the end, 121 BPM, E minor, gentle bouncing friendly feel, fingerpicked steel-string acoustic guitar, low bouncing slightly distorted off-beat bass, soft four-on-the-floor kick, shakers, handclaps, warm pad, instrumental whistle drops, natural close warm mix, kind, wise, easygoing",
+  "negativeTags": "female lead vocals, belting, bright synth leads, rap, trap hi-hats, distorted guitar, fast tempo, dark mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: whistled melody, fingerpicked guitar]\n\n[Verse 1: soft kind male voice]\nOld man on the next chair over\nHat on his face, half asleep\nSaid, \"Son, you look like I did\nRunning on nothing but speed\"\n\n[Chorus: bouncing bass, guitar, whistle after each line]\n\"Drink some water\nCall your mother\nGet some sleep, it's not a crime\nSay you're sorry sooner\nThat's the whole list. Took me a lifetime.\"\n\n[Drop: whistled melody, bass and kick, no vocal]\n\n[Verse 2: voice warmer, shaker in]\nI laughed, then I thought about it\nForty feet of pool and sky\nHe was snoring by the second verse\nI wrote it on my hand to keep it dry\n\n[Chorus: bouncing bass, guitar, whistle after each line]\n\"Drink some water\nCall your mother\nGet some sleep, it's not a crime\nSay you're sorry sooner\nThat's the whole list. Took me a lifetime.\"\n\n[Drop: whistled melody, fuller, handclaps]\n\n[Outro: guitar and whistle, a phone dialing, spoken]\nHi, Mom. No, nothing's wrong.",
+  "taskId": "9aca11965a13cf273f63f193e07e0501",
+  "sunoClipIds": [
+    "079d8867-fd47-4d41-a132-ab85253d695c",
+    "d14f2452-3e32-4ff9-936a-034cd3e74ffc"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919238683,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "079d8867-fd47-4d41-a132-ab85253d695c",
+      "durationSec": 194.72,
+      "file": "poolside/ps_20_drink_some_water_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d14f2452-3e32-4ff9-936a-034cd3e74ffc",
+      "durationSec": 194.32,
+      "file": "poolside/ps_20_drink_some_water_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_20_drink_some_water_req.json",
+    "poolside/ps_20_drink_some_water_rec.json"
+  ],
+  "cover": "poolside/covers/ps_20_drink_some_water.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 121 BPM, 4/4, E minor. Gentle, bouncing and friendly, with a low bass that makes it move.\n\nVOICE: Male, soft, plain and warm, sung quietly like someone telling a story at a table. He sings the old man's advice in the same gentle voice. A spoken phone greeting at the end. The hook is whistled, not sung.\n\nINSTRUMENTS: A whistled melody, fingerpicked steel-string acoustic guitar, a low, bouncing, slightly distorted bass on the off-beats, a soft kick on every beat, shakers, handclaps in the second drop, a warm pad.\n\nARRANGEMENT MAP: 0:00 Intro, whistle and guitar. 0:14 Verse 1. 0:40 Chorus 1. 1:04 Drop 1, whistle. 1:20 Verse 2. 1:46 Chorus 2. 2:10 Drop 2, with claps. 2:34 Outro, guitar, a phone dialing and the spoken line at 2:50.\n\nPRODUCTION & MIX: Mid-2010s acoustic dance: guitar and voice natural and close, bass deep and bouncy, nothing bright or sharp.\n\nSIGNATURE MOMENT: 'That's the whole list. Took me a lifetime.' at 1:00.\n\nSTATION FIT: 9 a.m., coffee and the first swimmers. Acoustic, kind and unhurried, an easy start to the vocal part of the day.\n\nEMOTIONAL ARC: Amused, thoughtful, moved, picking up the phone.",
+  "workbookAtAGlance": "Drink Some Water\n\nBackup titles\nCall Your Mother / That's the Whole List\n\nAt a glance\n121 BPM, E minor\nVoice: Soft, kind male voice\nLength: about 3 minutes",
+  "qa": {
+    "title": "Drink Some Water",
+    "id": "ps_20",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.7,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 121,
+        "bpmErrPct": 1.7,
+        "lufs": -14.2,
+        "peakDbfs": -1.53,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 193.3,
+        "vocalCoverage": 0.263,
+        "vocalSpanSec": [
+          16.8,
+          181.4
+        ],
+        "vocalF0MedianHz": 165,
+        "vocalF0P25Hz": 147,
+        "lyricLineRecall": 0.947,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.3,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 121,
+        "bpmErrPct": 1.7,
+        "lufs": -13.0,
+        "peakDbfs": -0.21,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 191.8,
+        "vocalCoverage": 0.313,
+        "vocalSpanSec": [
+          0.5,
+          173.1
+        ],
+        "vocalF0MedianHz": 149,
+        "vocalF0P25Hz": 145,
+        "lyricLineRecall": 0.789,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other",
+  "year": 2016
+}

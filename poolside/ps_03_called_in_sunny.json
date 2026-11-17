@@ -1,0 +1,123 @@
+{
+  "id": "ps_03",
+  "title": "Called In Sunny",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 3,
+  "slug": "ps_03_called_in_sunny",
+  "inspiredBy": "Walking on a Dream (Empire of the Sun, 2008)",
+  "leadVoice": "Male falsetto, airy and smooth, in two- and three-part stacks throughout the choruses. The verses are a single soft voice. Echoed answers in the bridge.",
+  "model": "V6",
+  "style": "Late-2000s dreamy synth-pop, airy smooth male falsetto vocal in two- and three-part stacks in the choruses, single soft voice in the verses, echoed answers in a half-time bridge, 122 BPM, E-flat major, bright gliding weightless feel, shimmering chorused synth arpeggio, strummed acoustic guitar, tight kick and snare, pulsing eighth-note synth bass, glassy pads, tom fills, bright wide glossy mix with reverb on the voices, carefree, sunlit, light",
+  "negativeTags": "female lead vocals, rap, distorted guitar, heavy drop, trap hi-hats, low growling vocals, slow tempo, dark mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: shimmering synth arpeggio, tom fill]\n\n[Verse 1: airy male falsetto]\nPhone on silent, shoes by the door\nLeft a message at a quarter to four\nSaid I'm feeling under the weather\nUnder it's right. I've never felt better.\n\n[Pre-Chorus: synths rising]\nIs it wrong? Is it wrong?\nIt's too blue out to belong indoors\n\n[Chorus: full shimmer, falsetto stacked]\nI called in sunny\nTold them I can't come in\nGot a bad case of the sky today\nAnd it's getting under my skin\nCalled in sunny\nDon't wait up, don't call\nI'll be floating till the light gives out\nAnd I'm not sorry at all\n\n[Verse 2: falsetto, bass pulsing]\nEmails pinging in a drawer somewhere\nMeetings melting in the midday air\nTwenty years I never took a day\nTurns out the building stood up anyway\n\n[Chorus: full shimmer, falsetto stacked]\nI called in sunny\nTold them I can't come in\nGot a bad case of the sky today\nAnd it's getting under my skin\nCalled in sunny\nDon't wait up, don't call\nI'll be floating till the light gives out\nAnd I'm not sorry at all\n\n[Bridge: half-time, synths wash over]\nOut of office (out of office)\nOut of reach (out of reach)\n\n[Final Chorus: brightest, extra harmony on top]\nI called in sunny\nTold them I can't come in\nGot a bad case of the sky today\nAnd it's getting under my skin\nCalled in sunny\nDon't wait up, don't call\nI'll be floating till the light gives out\nAnd I'm not sorry at all\n\n[Outro: arpeggio, one splash]",
+  "taskId": "df8d0960dd67202ce3b1551eabc9aa79",
+  "sunoClipIds": [
+    "79d150f5-dc08-4566-9b02-7f794b522718",
+    "003946f6-f2ca-43e8-85b2-6801768bd3d9"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919147590,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "79d150f5-dc08-4566-9b02-7f794b522718",
+      "durationSec": 209.6,
+      "file": "poolside/ps_03_called_in_sunny_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "003946f6-f2ca-43e8-85b2-6801768bd3d9",
+      "durationSec": 209.56,
+      "file": "poolside/ps_03_called_in_sunny_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_03_called_in_sunny_req.json",
+    "poolside/ps_03_called_in_sunny_rec.json"
+  ],
+  "cover": "poolside/covers/ps_03_called_in_sunny.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, E-flat major. Bright, gliding and weightless.\n\nVOICE: Male falsetto, airy and smooth, in two- and three-part stacks throughout the choruses. The verses are a single soft voice. Echoed answers in the bridge.\n\nINSTRUMENTS: A shimmering, chorused synth arpeggio, strummed acoustic guitar doubling the chords, a tight live-sounding kick and snare, a pulsing eighth-note synth bass, glassy pads, toms in the fills.\n\nARRANGEMENT MAP: 0:00 Intro arpeggio. 0:10 Verse 1. 0:34 Pre-chorus. 0:42 Chorus 1. 1:14 Verse 2. 1:38 Chorus 2. 2:10 Bridge, half-time. 2:26 Final chorus. 2:58 Outro, arpeggio and a splash at 3:12.\n\nPRODUCTION & MIX: Late-2000s synth-pop made airy: bright, wide and glossy, lots of reverb on the voices, drums crisp.\n\nSIGNATURE MOMENT: 'Got a bad case of the sky today' at 0:50.\n\nSTATION FIT: 10 a.m., when the pool starts to fill. The brightest vocal track of the morning, good after a run of instrumentals.\n\nEMOTIONAL ARC: Guilty, giddy, free, floating.",
+  "workbookAtAGlance": "Called In Sunny\n\nBackup titles\nA Bad Case of the Sky / Out of Office\n\nAt a glance\n122 BPM, E-flat major\nVoice: Airy male falsetto, stacked\nLength: about 3 minutes 15",
+  "qa": {
+    "title": "Called In Sunny",
+    "id": "ps_03",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 209.6,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -14.1,
+        "peakDbfs": -2.01,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 208.2,
+        "vocalCoverage": 0.699,
+        "vocalSpanSec": [
+          18.7,
+          191.9
+        ],
+        "vocalF0MedianHz": 308,
+        "vocalF0P25Hz": 282,
+        "lyricLineRecall": 0.639,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Pre-Chorus",
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 58% of lines recognised (unclear: Verse 2, Bridge)"
+        ],
+        "durationSec": 209.6,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -14.2,
+        "peakDbfs": -1.5,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 207.2,
+        "vocalCoverage": 0.692,
+        "vocalSpanSec": [
+          19.4,
+          187.4
+        ],
+        "vocalF0MedianHz": 294,
+        "vocalF0P25Hz": 233,
+        "lyricLineRecall": 0.583,
+        "lyricUnclearSections": [
+          "Verse 2",
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Synth-Pop",
+  "year": 2008
+}

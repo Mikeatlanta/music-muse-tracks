@@ -1,0 +1,124 @@
+{
+  "id": "ps_31",
+  "title": "Palm Shadow",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 31,
+  "slug": "ps_31_palm_shadow",
+  "inspiredBy": "Branches (Nora En Pure, 2018)",
+  "leadVoice": "Female, airy and wordless for most of the track, used like a string line. She sings one four-word phrase twice, softly, with long reverb. No verses and no chorus in the usual sense.",
+  "model": "V6",
+  "style": "2018 melodic deep house, nearly instrumental, airy wordless female voice used like a string line with one soft four-word sung phrase in long reverb, no verses, 122 BPM, F# minor with a hopeful major lift in the drops, steady soft flowing feel, rolling eight-note grand-piano motif, soft four-on-the-floor kick, warm rounded bass, slowly swelling string section, wooden percussion and shakers, kalimba, light open hi-hat, birdsong, warm clean spacious mix, serene, organic, uplifting",
+  "negativeTags": "full sung verses, male lead vocals, rap, distorted synths, big room drop, trap hi-hats, rock guitar, fast tempo",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: rolling piano motif, birdsong, soft shaker]\n\n[Section A: deep house kick enters, warm bass, piano continues]\n\n[Vocal: wordless female voice, airy]\nAh, ah-ah\nAh, ah-ah\n\n[Build: strings rising, wooden percussion, filter opening]\n\n[Drop: full beat, piano motif an octave up, strings wide]\n\n[Vocal: one sung phrase, soft]\nThe shadow moves\nI stay\n\n[Section B: piano alone with kalimba, beat thinned]\n\n[Build: strings and snare brush roll]\n\n[Drop: full beat, strings highest, wordless voice above]\nAh, ah-ah\nThe shadow moves\nI stay\n\n[Outro: piano motif slowing, birdsong, palm leaves in wind]",
+  "taskId": "a67716745a6e73dfed93cf31a8f70158",
+  "sunoClipIds": [
+    "98e3dada-889c-4df4-ac45-a2bf2afe394c",
+    "7fc71ec2-639b-4541-86fc-6d95b838067a"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919291157,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "98e3dada-889c-4df4-ac45-a2bf2afe394c",
+      "durationSec": 214.28,
+      "file": "poolside/ps_31_palm_shadow_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "7fc71ec2-639b-4541-86fc-6d95b838067a",
+      "durationSec": 214.76,
+      "file": "poolside/ps_31_palm_shadow_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_31_palm_shadow_req.json",
+    "poolside/ps_31_palm_shadow_rec.json"
+  ],
+  "cover": "poolside/covers/ps_31_palm_shadow.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, F# minor with a hopeful major lift in the drops. Steady, soft and flowing melodic deep house.\n\nVOICE: Female, airy and wordless for most of the track, used like a string line. She sings one four-word phrase twice, softly, with long reverb. No verses and no chorus in the usual sense.\n\nINSTRUMENTS: A rolling grand-piano motif of eight notes, a soft four-on-the-floor kick, a warm rounded bass, a string section that swells slowly, wooden percussion and shakers, a kalimba, a light open hi-hat, birdsong and wind in palm leaves.\n\nARRANGEMENT MAP: 0:00 Intro, piano and birds. 0:20 Section A, kick and bass. 0:46 Wordless vocal. 1:04 Build. 1:18 Drop 1. 1:44 The sung phrase. 1:56 Section B, piano and kalimba. 2:16 Build. 2:28 Drop 2. 3:00 Outro, piano slowing, ends 3:18.\n\nPRODUCTION & MIX: 2018 melodic deep house: warm, clean and spacious, piano and strings in front, kick soft, nature sounds woven in.\n\nSIGNATURE MOMENT: The piano motif jumping an octave at the first drop, 1:18.\n\nSTATION FIT: 8 a.m., the quiet hour after the opening instrumental. It is the closest track in the pack to what SiriusXM Chill plays most: melodic, piano-led and nearly wordless.\n\nEMOTIONAL ARC: Still, watching, lifted, still.",
+  "workbookAtAGlance": "Palm Shadow\n\nBackup titles\nThe Shadow Moves, I Stay / Sundial\n\nAt a glance\n122 BPM, F# minor\nVoice: Wordless female voice with one sung phrase\nLength: about 3 minutes 20",
+  "qa": {
+    "title": "Palm Shadow",
+    "id": "ps_31",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "fail",
+        "reasons": [
+          "vocals barely present (13% of song)",
+          "lyric check partial: 40% of lines recognised (unclear: Vocal)"
+        ],
+        "durationSec": 214.3,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -12.5,
+        "peakDbfs": -0.35,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.7,
+        "contentEndSec": 212.3,
+        "vocalCoverage": 0.131,
+        "vocalSpanSec": [
+          23.9,
+          191.5
+        ],
+        "vocalF0MedianHz": 414,
+        "vocalF0P25Hz": 369,
+        "lyricLineRecall": 0.4,
+        "lyricUnclearSections": [
+          "Vocal"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 0% of lines recognised (unclear: Vocal, Drop)"
+        ],
+        "durationSec": 214.8,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -12.3,
+        "peakDbfs": -0.46,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 213.2,
+        "vocalCoverage": 0.212,
+        "vocalSpanSec": [
+          18.5,
+          182.1
+        ],
+        "vocalF0MedianHz": 439,
+        "vocalF0P25Hz": 370,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Vocal",
+          "Drop"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Melodic House",
+  "year": 2018
+}

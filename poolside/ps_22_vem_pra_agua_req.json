@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Vem Pra Água",
+  "prompt": "[Intro: handclaps, body percussion, one voice calling]\nÊ, ê!\n\n[Chant: group voices, claps, no kick yet]\nVem pra água, vem\nO sol já chegou\nDeixa o resto lá\nHoje eu não vou\n\n[Build: kick enters, shaker, voices louder]\nVem pra água, vem\nO sol já chegou\n\n[Drop: full house beat, brass stabs, chant on top]\nVem pra água, vem\nO sol já chegou\nDeixa o resto lá\nHoje eu não vou\n\n[Break: voices and claps only, call and answer]\nQuem vem? (Eu vou!)\nQuem vem? (Eu vou!)\n\n[Build: snare roll, whistles]\nVem, vem, vem, vem\n\n[Drop: full beat, everyone singing, whistle on top]\nVem pra água, vem\nO sol já chegou\nDeixa o resto lá\nHoje eu não vou\n\n[Outro: claps and one voice, laughing]\nÊ, ê!",
+  "style": "Organic carnival house with a Brazilian Portuguese group chant, mixed men and women chanting in unison with a few harmonies like a crowd outdoors, one woman leading a call and answer, 124 BPM, D minor, driving joyful groove, handclaps and body percussion, pandeiro and surdo drum, punchy house kick, shakers, deep bouncing bass, short brass stabs, samba whistle, agogo bell, live room voices over a tight modern low end, festive, communal, sunny",
+  "negativeTags": "solo pop vocal, English lyrics, synth leads, trap hi-hats, rap, slow ballad, dubstep, dark mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "callBackUrl": "https://example.com/cb"
+}

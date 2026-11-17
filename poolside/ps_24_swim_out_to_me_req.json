@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Swim Out to Me",
+  "prompt": "[Intro: slow synth arpeggio, deep kick, long pad]\n\n[Build: bass enters, hi-hats, arpeggio opens]\n\n[Verse 1: yearning male tenor, reverbed]\nI'm out past the rope\nWhere the lights don't go\nWater's warm, the night is wide\nI won't call, I won't decide\n\n[Chorus: chords lift, voice doubled]\nIf you want to, swim out to me\nI'll be treading water, I'll be easy to see\nNo hurry, no hurry\nIf you want to, swim out to me\n\n[Instrumental: arpeggio rising, strings join]\n\n[Verse 2: voice closer, bass moving]\nI can hear you on the stair\nFeet in, breathing, standing there\nI've been where you are before\nScared of what the deep is for\n\n[Chorus: chords lift, voice doubled]\nIf you want to, swim out to me\nI'll be treading water, I'll be easy to see\nNo hurry, no hurry\nIf you want to, swim out to me\n\n[Break: kick drops out, pads and voice]\nNo hurry\nNo hurry\n\n[Final Build and Release: everything returns, voices layered]\nIf you want to, swim out to me\nI'll be treading water, I'll be easy to see\nNo hurry, no hurry\nIf you want to, swim out to me\n\n[Outro: arpeggio alone, slowing, water moving]",
+  "style": "Melodic house slow build, yearning slightly husky male tenor vocal with long reverb sung softly and held back, entering late, doubled in the choruses and layered at the end, 122 BPM, A minor, long patient slowly rising feel, slow rolling synth arpeggio, deep four-on-the-floor kick, warm sustained bass, long pads, closed hi-hats and soft clap, string section joining midway, second higher arpeggio near the end, deep wide warm mix, yearning, patient, nocturnal",
+  "negativeTags": "female lead vocals, rap, bright trumpet, acoustic folk, trap hi-hats, hard drop, distorted guitar, cheerful pop",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "callBackUrl": "https://example.com/cb"
+}

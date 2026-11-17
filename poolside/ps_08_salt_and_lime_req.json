@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Salt and Lime",
+  "prompt": "[Intro: soft piano chords, vinyl crackle]\n\n[Verse 1: soulful male voice, close]\nI do alright on my own\nPaid my way, found my way home\nYou do too, I've seen you shine\nNobody's missing, nobody's blind\n\n[Pre-Chorus: pads rise, snaps]\nBut put us at the same table\nAnd something wakes up\n\n[Chorus: voice lifts, beat enters]\nWe're salt and lime\nNothing much till we combine\nFine on my own, better with you\nRim of the glass, the green and the blue\nSalt and lime\n\n[Drop: plucked synth melody, tropical beat, no vocal]\n\n[Verse 2: voice warmer, bass moving]\nYou're sharp where I'm plain\nI'm steady where you change\nNeither one's a meal, it's true\nBut I taste more of me next to you\n\n[Chorus: voice lifts, full beat]\nWe're salt and lime\nNothing much till we combine\nFine on my own, better with you\nRim of the glass, the green and the blue\nSalt and lime\n\n[Drop: plucked synth melody with flute doubling]\n\n[Outro: piano chords, one last pluck phrase]\nSalt and lime",
+  "style": "2014 tropical house, soulful slightly husky male vocal with an ache in it, close quiet verses opening to a clear sustained chorus melody, instrumental drops with no vocal, 114 BPM, F# minor, slow warm gently bouncing wistful feel, bright plucked synth lead with a marimba-like attack, soft piano chords, deep sine bass, soft kick with rim click and shaker, finger snaps, warm pads, breathy flute doubling the lead, soft round airy mix, reflective, romantic, golden",
+  "negativeTags": "female lead vocals, aggressive drop, distorted bass, rap, trap hi-hats, fast tempo, rock guitar, harsh synths",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

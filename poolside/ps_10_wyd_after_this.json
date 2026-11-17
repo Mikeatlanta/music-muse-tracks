@@ -1,0 +1,114 @@
+{
+  "id": "ps_10",
+  "title": "wyd after this",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 10,
+  "slug": "ps_10_wyd_after_this",
+  "inspiredBy": "ily (i love you baby) (Surf Mesa feat. Emilee, 2019)",
+  "leadVoice": "Female, very breathy and close, barely above a whisper, with a smile in it. Doubled softly in the choruses. She spells the first three letters of the hook. One whispered line at the end.",
+  "model": "V6",
+  "style": "2020 bedroom chill house, very breathy close female vocal barely above a whisper with a smile in it, softly doubled in the choruses, spelled-out letters in the hook, 112 BPM, C major, soft sleepy smiling feel, slightly detuned electric-piano chords, gentle four-on-the-floor kick, soft clap, warm sub bass, pitched vocal chop melody in the drop, tape hiss, lo-fi soft warm rounded mix, very short song, intimate, shy, sweet",
+  "negativeTags": "male lead vocals, belting, loud drop, distorted synths, rap, rock guitar, fast tempo, brass",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 175,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft detuned chords, tape hiss]\n\n[Verse 1: breathy female voice, almost whispered]\nYou're on the far side by the blue umbrella\nI'm pretending that I'm reading this\nTyped it out, deleted, typed it better\nThumb above the arrow, here it is\n\n[Chorus: gentle house beat, voice doubled]\nW-Y-D after this?\nNo pressure, no plan\nI'll be by the towels\nWith a drink in each hand\nW-Y-D after this?\n\n[Drop: soft chord stabs, vocal chop, no words]\n\n[Verse 2: voice smiling, bass in]\nThree dots, and then they go away\nThree dots, you look up, you wave\nCould've walked it, it's forty feet\nBut this way I get to keep my seat\n\n[Chorus: gentle house beat, voice doubled]\nW-Y-D after this?\nNo pressure, no plan\nI'll be by the towels\nWith a drink in each hand\nW-Y-D after this?\n\n[Outro: chords, a message chime, whispered]\n\"Nothing. You?\"",
+  "taskId": "a04aa29ed8f0cd6b713962e48a5998e4",
+  "sunoClipIds": [
+    "bb45c0d2-345c-481d-a4b8-906955880c8c",
+    "06e45ce2-a058-4aef-b13a-94d23543859f"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919191667,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "bb45c0d2-345c-481d-a4b8-906955880c8c",
+      "durationSec": 174.8,
+      "file": "poolside/ps_10_wyd_after_this_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "06e45ce2-a058-4aef-b13a-94d23543859f",
+      "durationSec": 174.84,
+      "file": "poolside/ps_10_wyd_after_this_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_10_wyd_after_this_req.json",
+    "poolside/ps_10_wyd_after_this_rec.json"
+  ],
+  "cover": "poolside/covers/ps_10_wyd_after_this.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, C major. Soft, sleepy and smiling, a lullaby with a kick drum.\n\nVOICE: Female, very breathy and close, barely above a whisper, with a smile in it. Doubled softly in the choruses. She spells the first three letters of the hook. One whispered line at the end.\n\nINSTRUMENTS: Soft, slightly detuned electric-piano chords, a gentle kick on every beat, a soft clap, a warm sub bass, a pitched vocal chop used as a melody in the drop, tape hiss, a message chime.\n\nARRANGEMENT MAP: 0:00 Intro, chords and hiss. 0:12 Verse 1. 0:40 Chorus 1, beat in. 1:02 Drop. 1:18 Verse 2. 1:46 Chorus 2. 2:08 Outro, chords, the chime and the whisper at 2:30, ends 2:38.\n\nPRODUCTION & MIX: 2020 bedroom chill house: lo-fi, soft and warm, everything rounded off, the voice as close as a voice note.\n\nSIGNATURE MOMENT: The chime and the whispered reply at 2:30.\n\nSTATION FIT: 4 p.m., the drowsy hour. Short, quiet and loopable, a palate-cleanser between bigger tracks.\n\nEMOTIONAL ARC: Shy, hopeful, amused, answered.",
+  "workbookAtAGlance": "wyd after this\n\nBackup titles\nno pressure / i'll be by the towels\n\nAt a glance\n112 BPM, C major\nVoice: Breathy female voice, almost whispered\nLength: about 2 minutes 40",
+  "qa": {
+    "title": "wyd after this",
+    "id": "ps_10",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 174.8,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 0.3,
+        "lufs": -13.7,
+        "peakDbfs": -0.34,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 171.2,
+        "vocalCoverage": 0.411,
+        "vocalSpanSec": [
+          3.5,
+          150.6
+        ],
+        "vocalF0MedianHz": 278,
+        "vocalF0P25Hz": 262,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 174.9,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 4.9,
+        "lufs": -13.2,
+        "peakDbfs": -0.4,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 173.4,
+        "vocalCoverage": 0.35,
+        "vocalSpanSec": [
+          3.5,
+          153.1
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 262,
+        "lyricLineRecall": 0.722,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Chill House",
+  "year": 2019
+}

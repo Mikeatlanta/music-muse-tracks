@@ -1,0 +1,125 @@
+{
+  "id": "ps_18",
+  "title": "Deep End",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 18,
+  "slug": "ps_18_deep_end",
+  "inspiredBy": "You & Me (Flume Remix) (Disclosure feat. Eliza Doolittle, 2013)",
+  "leadVoice": "Female, a bright pop voice slowed and pitched down a little so it sounds dreamy and androgynous. She sings short phrases only. In the drops her voice is chopped and echoed. One natural whisper at the end.",
+  "model": "V6",
+  "style": "2013 future garage and early future bass love theme, bright female pop vocal slowed and pitched slightly down singing short dreamy phrases, voice chopped and echoed in the drops, one whispered ending, 80 BPM half-time, E major, slow vast romantic feel, massive detuned saw-synth chords swelling with the kick, deep sub bass, slow heavy kick with wide snare, glassy bell melody, white-noise sweeps, warm saturated enormous drops and quiet close verses, tender, weightless, nocturnal",
+  "negativeTags": "male lead vocals, rap, acoustic guitar, four-on-the-floor house, brass, rock drums, fast tempo, harsh distortion",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: underwater hum, slow detuned chords]\n\n[Verse 1: slowed female voice, pitched slightly down]\nLights are on beneath the blue\nJust us, nobody new\nToes on the edge where the tile turns dark\nCount it down, let go of the wall\n\n[Build: chords rising, snare roll, voice repeating]\nInto the deep, into the deep\n\n[Drop: huge swelling synth chords, half-time beat, vocal chops]\nDeep end (deep end)\nDeep, deep end\n\n[Verse 2: voice closer, bass sustaining]\nCan't touch the floor, I don't care\nYour shoulder's there, your shoulder's there\nAll the shallow years I spent\nHolding on to cement\n\n[Build: chords rising, snare roll, voice repeating]\nInto the deep, into the deep\n\n[Drop: bigger swell, bell melody on top]\nDeep end (deep end)\nDeep, deep end\n\n[Outro: chords dissolve, water, a whisper]\nI've got you.",
+  "taskId": "217edcf6a9ea03628a4cfebb97294118",
+  "sunoClipIds": [
+    "e06c286f-23b2-4487-9528-83561142f381",
+    "4944987b-6894-4389-a3cb-c96909f73cde"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919227712,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "e06c286f-23b2-4487-9528-83561142f381",
+      "durationSec": 194.36,
+      "file": "poolside/ps_18_deep_end_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "4944987b-6894-4389-a3cb-c96909f73cde",
+      "durationSec": 194.48,
+      "file": "poolside/ps_18_deep_end_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_18_deep_end_req.json",
+    "poolside/ps_18_deep_end_rec.json"
+  ],
+  "cover": "poolside/covers/ps_18_deep_end.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 80 BPM half-time, 4/4, E major. Slow, vast and romantic, with a drop that swells like a deep breath.\n\nVOICE: Female, a bright pop voice slowed and pitched down a little so it sounds dreamy and androgynous. She sings short phrases only. In the drops her voice is chopped and echoed. One natural whisper at the end.\n\nINSTRUMENTS: Massive detuned saw-synth chords that swell in and out with the kick, a deep sub bass, a slow, heavy kick with a wide snare on the third beat, a glassy bell melody in the second drop, filtered white-noise sweeps, an underwater hum.\n\nARRANGEMENT MAP: 0:00 Intro, hum and chords. 0:16 Verse 1. 0:44 Build. 0:56 Drop 1. 1:26 Verse 2. 1:54 Build. 2:06 Drop 2, with bells. 2:40 Outro, chords dissolve, the whisper at 2:54.\n\nPRODUCTION & MIX: 2013 future garage and early future bass: warm, saturated and enormous in the drops, quiet and close in the verses.\n\nSIGNATURE MOMENT: The first swell at 0:56, when the chords open and the beat halves.\n\nSTATION FIT: 10 p.m., night swim. The slowest and biggest-sounding track of the night set, used the way a film uses a love theme.\n\nEMOTIONAL ARC: Hesitant, counting down, weightless, held.",
+  "workbookAtAGlance": "Deep End\n\nBackup titles\nWhere the Light Stops / I've Got You\n\nAt a glance\n80 BPM, E major\nVoice: Pitched, slowed female vocal phrases\nLength: about 3 minutes",
+  "qa": {
+    "title": "Deep End",
+    "id": "ps_18",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 70 BPM vs 80 target (~13% off)",
+          "lyric check partial: 53% of lines recognised (unclear: Drop)"
+        ],
+        "durationSec": 194.4,
+        "measuredBpm": 69.8,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 12.7,
+        "lufs": -13.1,
+        "peakDbfs": -0.43,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 194.0,
+        "vocalCoverage": 0.637,
+        "vocalSpanSec": [
+          2.6,
+          178.3
+        ],
+        "vocalF0MedianHz": 368,
+        "vocalF0P25Hz": 280,
+        "lyricLineRecall": 0.533,
+        "lyricUnclearSections": [
+          "Drop"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 70 BPM vs 80 target (~13% off)",
+          "lyric check partial: 47% of lines recognised (unclear: Drop, Outro)"
+        ],
+        "durationSec": 194.5,
+        "measuredBpm": 69.8,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 12.7,
+        "lufs": -12.9,
+        "peakDbfs": -0.61,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 193.3,
+        "vocalCoverage": 0.695,
+        "vocalSpanSec": [
+          1.9,
+          174.9
+        ],
+        "vocalF0MedianHz": 316,
+        "vocalF0P25Hz": 310,
+        "lyricLineRecall": 0.467,
+        "lyricUnclearSections": [
+          "Drop",
+          "Outro"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Future Bass",
+  "year": 2013
+}

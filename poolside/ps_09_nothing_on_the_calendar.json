@@ -1,0 +1,120 @@
+{
+  "id": "ps_09",
+  "title": "Nothing on the Calendar",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 9,
+  "slug": "ps_09_nothing_on_the_calendar",
+  "inspiredBy": "Feels (Calvin Harris feat. Pharrell Williams, Katy Perry & Big Sean, 2017)",
+  "leadVoice": "A man half-sings verse 1 in a relaxed chest voice, then goes up into a light, sweet falsetto for the hook, with stacked harmonies. Verse 2 is a laid-back rap, conversational and amused.",
+  "model": "V6",
+  "style": "2017 summer funk-pop, relaxed half-sung male verse rising to a light sweet falsetto hook with stacked harmonies, laid-back conversational rap on the second verse, 101 BPM, B minor, slow bouncing funk groove, rubbery melodic fingered electric bass, clean muted guitar scratches, dry live drums with fat snare, finger snaps and handclaps, warm analogue synth pad, electric piano, horn stabs at the end, warm dry spacious mix, carefree, funny, sunny",
+  "negativeTags": "female lead vocals, four-on-the-floor house kick, EDM drop, distorted guitar, trap hi-hats, dark mood, fast tempo",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: rubbery bassline, guitar scratch, finger snaps]\n\n[Verse 1: relaxed male voice, half-sung]\nMonday's blank and Tuesday's clear\nWednesday's got a doodle of a deer\nThursday, Friday, wide and white\nNobody needs me till Sunday night\n\n[Chorus: falsetto hook, full funk groove]\nI got nothing on the calendar\nNothing on the calendar (ooh)\nEvery little square's a swimming pool\nI got nothing on the calendar\nAnd baby, neither do you\n\n[Verse 2: laid-back rap, bass and drums]\nNo stand-up, no sync, no \"quick one at three\"\nNo \"circling back,\" just the pool and me\nPhone's in a shoe and the shoe's in a bag\nBag's in the room with the \"do not disturb\" tag\nUsed to brag I was busy, that was the flex\nNow I brag about a nap and a book and what's next?\nNothing. That's the answer. That's the whole plan.\nPencil me out. Tell 'em catch me if they can.\n\n[Chorus: falsetto hook, full funk groove]\nI got nothing on the calendar\nNothing on the calendar (ooh)\nEvery little square's a swimming pool\nI got nothing on the calendar\nAnd baby, neither do you\n\n[Bridge: bass and claps only, falsetto ad-libs]\nBlank, blank, beautiful blank\n(All week, all week)\n\n[Final Chorus: full band, horns stab on top]\nI got nothing on the calendar\nNothing on the calendar (ooh)\nEvery little square's a swimming pool\nI got nothing on the calendar\nAnd baby, neither do you\n\n[Outro: bassline alone, ice in a glass]",
+  "taskId": "5e1a070d0c9ef98e6f18c6d12ec03ea1",
+  "sunoClipIds": [
+    "f21d83e3-1d4d-4155-8f12-8f541cfd59b2",
+    "543afef5-0409-4c5d-9464-15ee34b8f415"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919190248,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f21d83e3-1d4d-4155-8f12-8f541cfd59b2",
+      "durationSec": 204.12,
+      "file": "poolside/ps_09_nothing_on_the_calendar_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "543afef5-0409-4c5d-9464-15ee34b8f415",
+      "durationSec": 203.6,
+      "file": "poolside/ps_09_nothing_on_the_calendar_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_09_nothing_on_the_calendar_req.json",
+    "poolside/ps_09_nothing_on_the_calendar_rec.json"
+  ],
+  "cover": "poolside/covers/ps_09_nothing_on_the_calendar.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 101 BPM, 4/4, B minor. A slow, bouncing funk groove with a wide grin.\n\nVOICE: A man half-sings verse 1 in a relaxed chest voice, then goes up into a light, sweet falsetto for the hook, with stacked harmonies. Verse 2 is a laid-back rap, conversational and amused.\n\nINSTRUMENTS: A rubbery, melodic electric bass played with the fingers, a clean guitar playing muted scratches and short chords, a dry live drum kit with a fat snare, finger snaps and handclaps, a warm analogue synth pad, electric piano, a small horn stab in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, bass, guitar and snaps. 0:12 Verse 1. 0:34 Chorus 1. 0:58 Verse 2, rap. 1:36 Chorus 2. 2:00 Bridge, bass and claps. 2:18 Final chorus with horns. 2:46 Outro, bass and ice, ends 3:06.\n\nPRODUCTION & MIX: 2017 summer funk-pop: warm, dry and analogue-sounding, bass loud and clear, lots of space.\n\nSIGNATURE MOMENT: 'Every little square's a swimming pool' at 0:42.\n\nSTATION FIT: 1 p.m., lunch on the deck. The slowest and funkiest track of the day set, a change of pace from four-on-the-floor.\n\nEMOTIONAL ARC: Smug, delighted, generous, horizontal.",
+  "workbookAtAGlance": "Nothing on the Calendar\n\nBackup titles\nBlank All Week / Pencil Me Out\n\nAt a glance\n101 BPM, B minor\nVoice: Male falsetto hook with a relaxed rap verse\nLength: about 3 minutes 10",
+  "qa": {
+    "title": "Nothing on the Calendar",
+    "id": "ps_09",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.1,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 101,
+        "bpmErrPct": 1.6,
+        "lufs": -14.4,
+        "peakDbfs": -0.45,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 202.4,
+        "vocalCoverage": 0.491,
+        "vocalSpanSec": [
+          11.8,
+          192.8
+        ],
+        "vocalF0MedianHz": 255,
+        "vocalF0P25Hz": 165,
+        "lyricLineRecall": 0.897,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 59% of lines recognised (unclear: Verse 2)"
+        ],
+        "durationSec": 203.6,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 101,
+        "bpmErrPct": 1.6,
+        "lufs": -13.9,
+        "peakDbfs": -0.33,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 203.0,
+        "vocalCoverage": 0.558,
+        "vocalSpanSec": [
+          7.1,
+          183.8
+        ],
+        "vocalF0MedianHz": 234,
+        "vocalF0P25Hz": 164,
+        "lyricLineRecall": 0.586,
+        "lyricUnclearSections": [
+          "Verse 2"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Funk",
+  "year": 2017
+}

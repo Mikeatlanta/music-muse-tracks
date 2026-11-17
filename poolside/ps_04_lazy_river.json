@@ -1,0 +1,122 @@
+{
+  "id": "ps_04",
+  "title": "Lazy River",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 4,
+  "slug": "ps_04_lazy_river",
+  "inspiredBy": "Ride It (Regard, 2019)",
+  "leadVoice": "Male tenor, silky and close, sung quietly with R&B turns, pitched a touch lower than natural. Layered in the choruses. A chopped two-word sample of his own voice in the drop. One whispered line in the break.",
+  "model": "V6",
+  "style": "2019 deep house with an R&B vocal, silky close male tenor sung quietly with R&B turns and pitched slightly low, layered in the choruses, chopped vocal sample in the drop, 117 BPM, F minor, slow rolling hypnotic groove, filtered electric-piano chords opening and closing, rolling rubbery sub-bass line, soft four-on-the-floor kick, shakers, closed hi-hats, reverbed clap, warm pads, dark smooth bass-led mix, sensual, relaxed, drifting",
+  "negativeTags": "female lead vocals, bright trumpet, acoustic guitar, rap, big room drop, fast tempo, distorted synths, cheerful major key",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: filtered chords, soft shaker]\n\n[Verse 1: smooth close male tenor]\nNo hurry in the water tonight\nIt goes the way it goes\nLean back, let the current decide\nWherever it wants us, we'll float\n\n[Chorus: deep bass in, voice layered]\nLazy river, take it slow\nRound and round and nowhere to go\nYour hand on the tube next to mine\nLazy river, we've got time\n\n[Drop: rolling bassline, chopped vocal]\nSlow, slow (slow, slow)\n\n[Verse 2: tenor, hi-hats ticking]\nAll day running, all week on the clock\nHere the only speed is drift\nYou keep bumping into me soft\nI keep not minding it\n\n[Chorus: deep bass, voice layered]\nLazy river, take it slow\nRound and round and nowhere to go\nYour hand on the tube next to mine\nLazy river, we've got time\n\n[Break: bass out, pads, whispered]\nOnce more around\n\n[Final Chorus: full groove, filter opens]\nLazy river, take it slow\nRound and round and nowhere to go\nYour hand on the tube next to mine\nLazy river, we've got time\n\n[Outro: chords filter down to nothing]",
+  "taskId": "7df4b5535a531d7f579381b713165d34",
+  "sunoClipIds": [
+    "d8bc2315-2367-4656-8bf7-bbbb6e3f614a",
+    "be731c90-5811-45de-98a1-d0016e16d231"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919166514,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "d8bc2315-2367-4656-8bf7-bbbb6e3f614a",
+      "durationSec": 204.76,
+      "file": "poolside/ps_04_lazy_river_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "be731c90-5811-45de-98a1-d0016e16d231",
+      "durationSec": 204.64,
+      "file": "poolside/ps_04_lazy_river_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_04_lazy_river_req.json",
+    "poolside/ps_04_lazy_river_rec.json"
+  ],
+  "cover": "poolside/covers/ps_04_lazy_river.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 117 BPM, 4/4, F minor. Slow, rolling and hypnotic deep house.\n\nVOICE: Male tenor, silky and close, sung quietly with R&B turns, pitched a touch lower than natural. Layered in the choruses. A chopped two-word sample of his own voice in the drop. One whispered line in the break.\n\nINSTRUMENTS: Filtered electric-piano chords that open and close, a rolling, rubbery sub-bass line, a soft kick on every beat, shakers and closed hi-hats, a clap with long reverb, warm pads.\n\nARRANGEMENT MAP: 0:00 Intro, filtered chords. 0:16 Verse 1. 0:48 Chorus 1, bass in. 1:14 Drop. 1:30 Verse 2. 2:02 Chorus 2. 2:22 Break, pads only. 2:34 Final chorus. 2:56 Outro, the filter closes, ends 3:08.\n\nPRODUCTION & MIX: 2019 deep house: dark, smooth and bass-led, everything low-pass filtered and then slowly opened.\n\nSIGNATURE MOMENT: The bassline arriving under 'Lazy river, take it slow' at 0:48.\n\nSTATION FIT: 6 p.m., as the light turns. The first properly deep track of the evening, a bridge from the afternoon's sunny songs to the night set.\n\nEMOTIONAL ARC: Unwinding, drifting, close, in no hurry.",
+  "workbookAtAGlance": "Lazy River\n\nBackup titles\nOnce More Around / Nowhere to Go\n\nAt a glance\n117 BPM, F minor\nVoice: Smooth, close male tenor\nLength: about 3 minutes 10",
+  "qa": {
+    "title": "Lazy River",
+    "id": "ps_04",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 55% of lines recognised (unclear: Drop, Verse 2, Break)"
+        ],
+        "durationSec": 204.8,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 117,
+        "bpmErrPct": 0.4,
+        "lufs": -14.0,
+        "peakDbfs": -1.96,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 202.5,
+        "vocalCoverage": 0.518,
+        "vocalSpanSec": [
+          1.0,
+          181.4
+        ],
+        "vocalF0MedianHz": 234,
+        "vocalF0P25Hz": 205,
+        "lyricLineRecall": 0.545,
+        "lyricUnclearSections": [
+          "Drop",
+          "Verse 2",
+          "Break"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.7,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 117,
+        "bpmErrPct": 0.4,
+        "lufs": -13.2,
+        "peakDbfs": -1.65,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.4,
+        "contentEndSec": 202.0,
+        "vocalCoverage": 0.515,
+        "vocalSpanSec": [
+          0.8,
+          173.4
+        ],
+        "vocalF0MedianHz": 246,
+        "vocalF0P25Hz": 208,
+        "lyricLineRecall": 0.773,
+        "lyricUnclearSections": [
+          "Break"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "R&B",
+  "year": 2019
+}

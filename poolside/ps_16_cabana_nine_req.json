@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Cabana Nine",
+  "prompt": "[Intro: rubbery organ bass, piano stabs, crisp hi-hat]\n\n[Verse 1: cool deadpan female voice]\nSomebody asked me what's so good\nAbout the one on the end\nI tried to tell them, never could\nIt's a thing you can't explain\n\n[Chorus: full 90s house groove, voice doubled]\nIt's like ba-da-ba, ba-da-ba\nCabana nine\nBa-da-ba, ba-da-ba\nCome by sometime\nI can't describe it, I just know the sign\nBa-da-ba, cabana nine\n\n[Drop: organ bass and piano, vocal chop]\nBa-da, ba-da (nine)\n\n[Verse 2: deadpan, hi-hats opening]\nCurtain's striped, the fan goes round\nIce is always full\nMaybe it's the way the sound\nComes over from the pool\n\n[Chorus: full 90s house groove, voice doubled]\nIt's like ba-da-ba, ba-da-ba\nCabana nine\nBa-da-ba, ba-da-ba\nCome by sometime\nI can't describe it, I just know the sign\nBa-da-ba, cabana nine\n\n[Break: bass and claps only, spoken]\nAsk for me at the desk. They'll know.\n\n[Final Chorus: full groove, piano an octave up]\nIt's like ba-da-ba, ba-da-ba\nCabana nine\nBa-da-ba, ba-da-ba\nCome by sometime\nI can't describe it, I just know the sign\nBa-da-ba, cabana nine\n\n[Outro: organ bass alone, a fan whirring]",
+  "style": "2023 take on early-1990s house, cool flat nearly spoken female vocal with a slight accent and no vibrato, doubled in the choruses, nonsense-syllable hook on one or two notes, dry spoken line in the break, 126 BPM, G minor, bouncy bright cheerful groove, rubbery organ-style bass riff, bright house piano stabs, punchy four-on-the-floor kick, crisp hi-hats, snappy clap, string-machine pad, vocal chop, clean punchy mix, playful, deadpan, nostalgic",
+  "negativeTags": "male lead vocals, belting, acoustic guitar, trap hi-hats, rap, dubstep, slow ballad, distorted guitar",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

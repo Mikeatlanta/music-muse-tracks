@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Big Hat Energy",
+  "prompt": "[Intro: brass riff, organ stab, clean house kick]\n\n[Verse 1: gritty female soul voice]\nYou got the watch, you got the boat shoes on\nYou got the speaker playing your own song\nYou got a table and a bucket and a crew\nHoney, none of that is working on you\n\n[Chorus: brass riff answers, full groove]\nI got big hat energy\nShade wherever I go\nWide brim, slow walk, lemonade\nI don't need to see your boat\nBig hat energy\nSit down, you're blocking my sun\n\n[Drop: brass riff and organ, handclaps]\n\n[Verse 2: voice sharper, bass walking]\nI've been fifty, I've been broke\nI've been somebody's little joke\nNow I take up all the room I please\nChair for my bag and a chair for my knees\n\n[Chorus: brass riff answers, full groove]\nI got big hat energy\nShade wherever I go\nWide brim, slow walk, lemonade\nI don't need to see your boat\nBig hat energy\nSit down, you're blocking my sun\n\n[Break: kick and bass only, spoken]\nMm-hm. That's better.\n\n[Final Chorus: full band, brass doubled]\nI got big hat energy\nShade wherever I go\nWide brim, slow walk, lemonade\nI don't need to see your boat\nBig hat energy\nSit down, you're blocking my sun\n\n[Outro: brass riff, a straw in an empty glass]",
+  "style": "Funk-house built on vintage soul, big gritty slightly overdriven female soul vocal full of attitude and humour sung just behind the beat, dry spoken line in the break, 122 BPM, A minor, strutting groove, punchy trumpet tenor-sax and trombone riff as the hook, Hammond organ stabs, clean four-on-the-floor kick with off-beat open hi-hat, walking electric bass, scratchy rhythm guitar, handclaps, tambourine, warm dirty voice and brass over tight clean drums, sassy, confident, fun",
+  "negativeTags": "male lead vocals, synth leads, trap hi-hats, rap, slow ballad, dubstep, auto-tune, ambient",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

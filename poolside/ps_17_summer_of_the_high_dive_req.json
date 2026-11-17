@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Summer of the High Dive",
+  "prompt": "[Intro: handclaps, walking bass, soft electric piano]\n\n[Verse 1: falsetto group vocals, easy]\nQuarter for the locker, key on a pin\nHot concrete and the smell of the wind\nRadio on the lifeguard chair\nEverybody I knew was there\n\n[Chorus: full soul groove, strings]\nThat was the summer of the high dive\nTen feet tall and terrified\nWhole pool looking, toes on the edge\nThen the sky, then the water, then my head\nCame up laughing, came up new\nSummer of the high dive\nI think about it when I'm scared, I do\n\n[Verse 2: falsetto, guitar answering]\nSnack bar window, frozen lime\nMy brother counting, one more time\nMama waving from the shallow end\nI'd give a lot to jump for her again\n\n[Chorus: full soul groove, strings]\nThat was the summer of the high dive\nTen feet tall and terrified\nWhole pool looking, toes on the edge\nThen the sky, then the water, then my head\nCame up laughing, came up new\nSummer of the high dive\nI think about it when I'm scared, I do\n\n[Bridge: claps and bass only, voices in rounds]\nClimb, climb (don't look down)\nClimb, climb (don't look down)\n\n[Final Chorus: full groove, strings higher]\nThat was the summer of the high dive\nTen feet tall and terrified\nWhole pool looking, toes on the edge\nThen the sky, then the water, then my head\nCame up laughing, came up new\nSummer of the high dive\nI think about it when I'm scared, I do\n\n[Outro: handclaps, a diving board springing, a far splash]",
+  "style": "Modern recording of a 1970s soul band, group falsetto vocals with three or four men and women in close harmony throughout and no single lead, overlapping rounds in the bridge, 98 BPM, F major, soft strolling warm groove, walking electric bass, handclaps on two and four, dry soft drum kit, Rhodes electric piano, clean wah-wah rhythm guitar, small string section, tambourine, flute line at the end, warm dry slightly saturated mix, nostalgic, tender, joyful",
+  "negativeTags": "solo belting lead, rap, trap hi-hats, EDM drop, distorted guitar, harsh synths, fast tempo, dark mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

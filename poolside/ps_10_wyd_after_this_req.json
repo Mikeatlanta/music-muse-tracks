@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "wyd after this",
+  "prompt": "[Intro: soft detuned chords, tape hiss]\n\n[Verse 1: breathy female voice, almost whispered]\nYou're on the far side by the blue umbrella\nI'm pretending that I'm reading this\nTyped it out, deleted, typed it better\nThumb above the arrow, here it is\n\n[Chorus: gentle house beat, voice doubled]\nW-Y-D after this?\nNo pressure, no plan\nI'll be by the towels\nWith a drink in each hand\nW-Y-D after this?\n\n[Drop: soft chord stabs, vocal chop, no words]\n\n[Verse 2: voice smiling, bass in]\nThree dots, and then they go away\nThree dots, you look up, you wave\nCould've walked it, it's forty feet\nBut this way I get to keep my seat\n\n[Chorus: gentle house beat, voice doubled]\nW-Y-D after this?\nNo pressure, no plan\nI'll be by the towels\nWith a drink in each hand\nW-Y-D after this?\n\n[Outro: chords, a message chime, whispered]\n\"Nothing. You?\"",
+  "style": "2020 bedroom chill house, very breathy close female vocal barely above a whisper with a smile in it, softly doubled in the choruses, spelled-out letters in the hook, 112 BPM, C major, soft sleepy smiling feel, slightly detuned electric-piano chords, gentle four-on-the-floor kick, soft clap, warm sub bass, pitched vocal chop melody in the drop, tape hiss, lo-fi soft warm rounded mix, very short song, intimate, shy, sweet",
+  "negativeTags": "male lead vocals, belting, loud drop, distorted synths, rap, rock guitar, fast tempo, brass",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 175,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ps_28",
+  "title": "Tan Lines Don't Last",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 28,
+  "slug": "ps_28_tan_lines_dont_last",
+  "inspiredBy": "Fade Out Lines (The Avener Rework) (The Avener & Phoebe Killdeer, 2014)",
+  "leadVoice": "Female, low, smoky and rough-edged, half-sung and half-drawled, lazy on the beat. A lower harmony of her own voice joins in the last chorus.",
+  "model": "V6",
+  "style": "Bluesy deep house, low smoky rough-edged female vocal half-sung and half-drawled and lazy on the beat, lower self-harmony in the last chorus, 118 BPM, E minor, slow-burning dusty warm groove, swampy reverbed electric guitar blues lick, slide guitar break, deep soft house kick, rolling bass, tambourine and shaker, dusty organ, spring-reverb handclaps, raw warm voice and guitar over a clean round low end, rueful, sultry, accepting",
+  "negativeTags": "male lead vocals, bright synth leads, rap, trap hi-hats, big drop, auto-tune, fast tempo, cheerful pop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: swampy guitar lick, deep kick, tambourine]\n\n[Verse 1: smoky drawling female voice]\nWhite stripe where the strap went\nRing of pale around my wrist\nLittle map of where I've been\nEvery place the sun got kissed\n\n[Chorus: deep house beat, guitar answering]\nTan lines don't last\nGone by October, gone like that\nSkin forgets, it always does\nI'll remember what it was\nTan lines don't last\nGood. I had it. Let it pass.\n\n[Verse 2: voice lower, bass rolling]\nYou were here for seven days\nLeft a mark that's fading too\nI don't need the proof to stay\nTo know the thing was true\n\n[Chorus: deep house beat, guitar answering]\nTan lines don't last\nGone by October, gone like that\nSkin forgets, it always does\nI'll remember what it was\nTan lines don't last\nGood. I had it. Let it pass.\n\n[Guitar Break: slide guitar over kick and bass]\n\n[Final Chorus: full groove, a low harmony]\nTan lines don't last\nGone by October, gone like that\nSkin forgets, it always does\nI'll remember what it was\nTan lines don't last\nGood. I had it. Let it pass.\n\n[Outro: guitar lick alone, cicadas]",
+  "taskId": "f1e60f570187144565377dd1aff832fa",
+  "sunoClipIds": [
+    "ef8821ee-fb98-4fd7-ae1e-5c75b989747c",
+    "234b2435-3bd6-47d5-968a-72957280f23b"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919268196,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ef8821ee-fb98-4fd7-ae1e-5c75b989747c",
+      "durationSec": 204.72,
+      "file": "poolside/ps_28_tan_lines_dont_last_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "234b2435-3bd6-47d5-968a-72957280f23b",
+      "durationSec": 204.76,
+      "file": "poolside/ps_28_tan_lines_dont_last_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_28_tan_lines_dont_last_req.json",
+    "poolside/ps_28_tan_lines_dont_last_rec.json"
+  ],
+  "cover": "poolside/covers/ps_28_tan_lines_dont_last.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, E minor. A slow-burning, bluesy deep house groove, dusty and warm.\n\nVOICE: Female, low, smoky and rough-edged, half-sung and half-drawled, lazy on the beat. A lower harmony of her own voice joins in the last chorus.\n\nINSTRUMENTS: A swampy, reverbed electric guitar playing a short blues lick, a slide guitar in the break, a deep, soft house kick, a rolling bass, tambourine and shaker, a dusty organ, handclaps with spring reverb.\n\nARRANGEMENT MAP: 0:00 Intro, guitar lick and kick. 0:16 Verse 1. 0:42 Chorus 1. 1:10 Verse 2. 1:36 Chorus 2. 2:04 Guitar break. 2:20 Final chorus. 2:48 Outro, guitar and cicadas, ends 3:08.\n\nPRODUCTION & MIX: Blues recording on a deep house frame: voice and guitar raw, warm and slightly distorted, low end clean and round.\n\nSIGNATURE MOMENT: 'Good. I had it. Let it pass.' at 1:04.\n\nSTATION FIT: 8:30 p.m., the day over. A reflective, bluesy track that starts the evening without a synth in sight.\n\nEMOTIONAL ARC: Noticing, rueful, accepting, glad.",
+  "workbookAtAGlance": "Tan Lines Don't Last\n\nBackup titles\nGone by October / The Proof Wears Off\n\nAt a glance\n118 BPM, E minor\nVoice: Smoky, drawling female voice\nLength: about 3 minutes 10",
+  "qa": {
+    "title": "Tan Lines Don't Last",
+    "id": "ps_28",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.7,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 0.5,
+        "lufs": -13.0,
+        "peakDbfs": -0.67,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 203.4,
+        "vocalCoverage": 0.378,
+        "vocalSpanSec": [
+          14.8,
+          196.5
+        ],
+        "vocalF0MedianHz": 220,
+        "vocalF0P25Hz": 123,
+        "lyricLineRecall": 0.846,
+        "lyricUnclearSections": [
+          "Verse 1"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.8,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 0.5,
+        "lufs": -13.3,
+        "peakDbfs": -1.63,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 203.4,
+        "vocalCoverage": 0.314,
+        "vocalSpanSec": [
+          16.9,
+          178.8
+        ],
+        "vocalF0MedianHz": 220,
+        "vocalF0P25Hz": 148,
+        "lyricLineRecall": 0.846,
+        "lyricUnclearSections": [
+          "Verse 1"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "House",
+  "year": 2014
+}

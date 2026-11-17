@@ -1,0 +1,116 @@
+{
+  "id": "ps_32",
+  "title": "Window Seat",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 32,
+  "slug": "ps_32_window_seat",
+  "inspiredBy": "Somewhere In Paradise (Satin Jackets & Tailor, 2025)",
+  "leadVoice": "Male, soft, breathy and relaxed, sung close and low with a smile, moving into light falsetto harmonies in the choruses. No strain anywhere.",
+  "model": "V6",
+  "style": "Modern nu-disco and soft disco house, soft breathy relaxed male vocal sung close and low with a smile, light falsetto harmonies in the choruses, 108 BPM, E-flat major, slow gliding groove soft at every edge, warm slightly detuned analogue synth chords, clean rubbery disco bass, soft four-on-the-floor kick with off-beat open hi-hat, muted rhythm guitar, gliding lead synth solo, handclaps, string-machine pad, glossy warm smooth mix, carefree, escapist, dreamy",
+  "negativeTags": "female lead vocals, rap, distorted guitar, big room drop, trap hi-hats, belting, dark mood, fast tempo",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: warm synth chords, soft disco hi-hat, cabin chime]\n\n[Verse 1: soft breathy male voice]\nLaptop's closed, the tray is up\nGinger ale in a plastic cup\nMonday's shrinking on the ground\nI can't hear it over the sound\n\n[Chorus: full nu-disco groove, falsetto harmonies]\nWindow seat, pink cloud\nNobody knows where I am right now\nSomewhere under all of this\nThere's a blue square with my name on it\nWindow seat\nI'm already there\n\n[Verse 2: voice smiling, bass bubbling]\nLady next to me is fast asleep\nKid behind is kicking, I don't mind the beat\nCaptain says an hour ten\nI don't want to land, and I can't wait to land\n\n[Chorus: full nu-disco groove, falsetto harmonies]\nWindow seat, pink cloud\nNobody knows where I am right now\nSomewhere under all of this\nThere's a blue square with my name on it\nWindow seat\nI'm already there\n\n[Instrumental: synth solo over the groove, handclaps]\n\n[Bridge: beat thins, voice close]\nSeat back. Eyes shut.\nTell them I'll be back on Tuesday. Maybe.\n\n[Final Chorus: full groove, strings on top]\nWindow seat, pink cloud\nNobody knows where I am right now\nSomewhere under all of this\nThere's a blue square with my name on it\nWindow seat\nI'm already there\n\n[Outro: groove fading, landing gear, cabin chime]",
+  "taskId": "e6f7343322750079bad48bd29a799b14",
+  "sunoClipIds": [
+    "e4ae187d-4d95-49b0-a60d-7026713f8d7f",
+    "9c1f7f44-e3e9-4c08-9d6c-28328eeb53dc"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919285421,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "e4ae187d-4d95-49b0-a60d-7026713f8d7f",
+      "durationSec": 224.4,
+      "file": "poolside/ps_32_window_seat_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "9c1f7f44-e3e9-4c08-9d6c-28328eeb53dc",
+      "durationSec": 224.76,
+      "file": "poolside/ps_32_window_seat_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_32_window_seat_req.json",
+    "poolside/ps_32_window_seat_rec.json"
+  ],
+  "cover": "poolside/covers/ps_32_window_seat.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 108 BPM, 4/4, E-flat major. A slow, gliding nu-disco groove, soft at every edge.\n\nVOICE: Male, soft, breathy and relaxed, sung close and low with a smile, moving into light falsetto harmonies in the choruses. No strain anywhere.\n\nINSTRUMENTS: Warm, slightly detuned analogue synth chords, a clean, rubbery disco bass, a soft four-on-the-floor kick with an off-beat open hi-hat, a muted rhythm guitar, a gliding lead synth for the solo, handclaps, a string-machine pad, an aircraft cabin chime.\n\nARRANGEMENT MAP: 0:00 Intro, chords and chime. 0:14 Verse 1. 0:42 Chorus 1. 1:12 Verse 2. 1:40 Chorus 2. 2:10 Synth solo. 2:28 Bridge. 2:42 Final chorus. 3:10 Outro, landing gear and chime, ends 3:28.\n\nPRODUCTION & MIX: Modern nu-disco: glossy, warm and smooth, bass round and forward, vocals airy, nothing sharp.\n\nSIGNATURE MOMENT: 'There's a blue square with my name on it' at 0:56.\n\nSTATION FIT: The flight in, before the day begins. Use it as the pack's opening theme or anywhere a smooth 108 BPM vocal track is needed.\n\nEMOTIONAL ARC: Unplugging, floating, impatient, arrived in advance.",
+  "workbookAtAGlance": "Window Seat\n\nBackup titles\nFriday, Row Nine / Under That Cloud\n\nAt a glance\n108 BPM, E-flat major\nVoice: Soft, breathy male voice\nLength: about 3 minutes 30",
+  "qa": {
+    "title": "Window Seat",
+    "id": "ps_32",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.4,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 108,
+        "bpmErrPct": 0.3,
+        "lufs": -12.9,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 223.1,
+        "vocalCoverage": 0.442,
+        "vocalSpanSec": [
+          23.7,
+          209.1
+        ],
+        "vocalF0MedianHz": 312,
+        "vocalF0P25Hz": 242,
+        "lyricLineRecall": 0.6,
+        "lyricUnclearSections": [
+          "Verse 2"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.8,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 108,
+        "bpmErrPct": 0.3,
+        "lufs": -13.1,
+        "peakDbfs": -1.04,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 222.5,
+        "vocalCoverage": 0.478,
+        "vocalSpanSec": [
+          21.5,
+          212.1
+        ],
+        "vocalF0MedianHz": 310,
+        "vocalF0P25Hz": 234,
+        "lyricLineRecall": 0.84,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "House",
+  "year": 2025
+}

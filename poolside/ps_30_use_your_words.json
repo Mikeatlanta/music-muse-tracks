@@ -1,0 +1,121 @@
+{
+  "id": "ps_30",
+  "title": "Use Your Words",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 30,
+  "slug": "ps_30_use_your_words",
+  "inspiredBy": "Say My Name (ODESZA feat. Zyra, 2014)",
+  "leadVoice": "Female, light, clear and teasing, sung with a smile. Her voice is also cut into pitched single syllables that bounce through the intro and the drops. A man speaks three words, shyly, at the end.",
+  "model": "V6",
+  "style": "2014 indie electronic, light clear teasing female vocal sung with a smile, her voice also cut into pitched single syllables bouncing through the intro and drops, a shy male voice speaking three words at the end, 100 BPM, A major, bright bouncing percussive feel, marimba and mallet percussion, big roomy live-sounding drums with heavy snare, warm sub bass, finger snaps, bright synth plucks, soft brass swell, glockenspiel, bright wide punchy mix, playful, affectionate, sunny",
+  "negativeTags": "male lead singing, rap, distorted guitar, dark mood, trap hi-hats, slow ballad, heavy dubstep, acoustic folk",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: pitched vocal chops, mallet percussion, snaps]\n\n[Verse 1: playful female voice]\nYou saved me the good chair\nYou brought me the cold one\nYou carried my bag from the car\nI see it, I see what you've done\n\n[Chorus: bright beat, chops answering]\nBut use your words\nI know, I know, I can tell\nUse your words\nI'd like to hear it as well\nThree of them, any order\nUse your words\n\n[Drop: bouncing vocal chops and mallets, big drums]\n\n[Verse 2: voice teasing, bass in]\nYou fixed the umbrella\nYou gave me the last bite\nYou're doing that thing with your eyebrows\nGo on, it's alright\n\n[Chorus: bright beat, chops answering]\nUse your words\nI know, I know, I can tell\nUse your words\nI'd like to hear it as well\nThree of them, any order\nUse your words\n\n[Break: beat drops out, close and soft]\nI can wait. I've got all day.\n\n[Drop: vocal chops, brass swell, full drums]\n\n[Outro: mallets, a man's voice, quiet]\n\"...Love. You. I.\"",
+  "taskId": "9f15f4ece33a3535717c88d90c9362ee",
+  "sunoClipIds": [
+    "273c1a3a-d204-43d8-8d99-dbbee445a154",
+    "02845163-82a3-4e0f-bbd8-35ce370a753c"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919279750,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "273c1a3a-d204-43d8-8d99-dbbee445a154",
+      "durationSec": 194.48,
+      "file": "poolside/ps_30_use_your_words_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "02845163-82a3-4e0f-bbd8-35ce370a753c",
+      "durationSec": 194.4,
+      "file": "poolside/ps_30_use_your_words_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_30_use_your_words_req.json",
+    "poolside/ps_30_use_your_words_rec.json"
+  ],
+  "cover": "poolside/covers/ps_30_use_your_words.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 100 BPM, 4/4, A major. Bright, bouncing and percussive, playful from start to finish.\n\nVOICE: Female, light, clear and teasing, sung with a smile. Her voice is also cut into pitched single syllables that bounce through the intro and the drops. A man speaks three words, shyly, at the end.\n\nINSTRUMENTS: Pitched vocal chops, marimba and other mallet percussion, big, roomy live-sounding drums with a heavy snare, a warm sub bass, finger snaps, bright synth plucks, a soft brass swell in the last drop, glockenspiel.\n\nARRANGEMENT MAP: 0:00 Intro, chops and mallets. 0:14 Verse 1. 0:38 Chorus 1. 1:00 Drop 1. 1:22 Verse 2. 1:46 Chorus 2. 2:08 Break. 2:18 Drop 2, with brass. 2:44 Outro, mallets and three spoken words at 2:52.\n\nPRODUCTION & MIX: 2014 indie electronic: bright, wide and punchy, drums big and live, chops glittering on top.\n\nSIGNATURE MOMENT: The three words in the wrong order at 2:52.\n\nSTATION FIT: 11:30 a.m., late morning. Light, mid-tempo and percussive, the most playful of the daytime vocal tracks.\n\nEMOTIONAL ARC: Teasing, patient, fond, rewarded.",
+  "workbookAtAGlance": "Use Your Words\n\nBackup titles\nThree of Them, Any Order / I Can Wait\n\nAt a glance\n100 BPM, A major\nVoice: Playful female voice with pitched chops\nLength: about 3 minutes",
+  "qa": {
+    "title": "Use Your Words",
+    "id": "ps_30",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.5,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 100,
+        "bpmErrPct": 3.4,
+        "lufs": -13.4,
+        "peakDbfs": -0.06,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 192.9,
+        "vocalCoverage": 0.605,
+        "vocalSpanSec": [
+          0.2,
+          189.0
+        ],
+        "vocalF0MedianHz": 358,
+        "vocalF0P25Hz": 275,
+        "lyricLineRecall": 0.773,
+        "lyricUnclearSections": [
+          "Break"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 46% of lines recognised (unclear: Break, Outro)"
+        ],
+        "durationSec": 194.4,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 100,
+        "bpmErrPct": 0.6,
+        "lufs": -13.1,
+        "peakDbfs": -0.33,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 191.9,
+        "vocalCoverage": 0.655,
+        "vocalSpanSec": [
+          0.1,
+          180.5
+        ],
+        "vocalF0MedianHz": 440,
+        "vocalF0P25Hz": 328,
+        "lyricLineRecall": 0.455,
+        "lyricUnclearSections": [
+          "Break",
+          "Outro"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other",
+  "year": 2014
+}

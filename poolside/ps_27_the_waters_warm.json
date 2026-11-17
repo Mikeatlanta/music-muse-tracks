@@ -1,0 +1,114 @@
+{
+  "id": "ps_27",
+  "title": "The Water's Warm",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 27,
+  "slug": "ps_27_the_waters_warm",
+  "inspiredBy": "At the River (Groove Armada, 1997)",
+  "leadVoice": "Female, in the style of a 1950s close-harmony record: sweet, rounded vowels, a little vibrato, slightly muffled as if lifted from an old disc. She sings one couplet only, later joined by a harmony voice a third below.",
+  "model": "V6",
+  "style": "Late-1990s chill-out downtempo, sweet female vocal in the style of a 1950s close-harmony record with rounded vowels and a little vibrato, slightly muffled like an old disc, singing one couplet only with a harmony a third below, 80 BPM, E-flat major, very slow warm drowsy feel, trombone playing a slow sliding melody, Rhodes electric piano, soft brushed drum loop with lazy backbeat, upright-style bass, small string section, vinyl crackle, warm hazy analogue mix, nostalgic, peaceful, sleepy",
+  "negativeTags": "male lead vocals, rap, four-on-the-floor kick, bright synth leads, distorted guitar, fast tempo, big drop, modern pop vocals",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: vinyl crackle, soft electric piano, slow brushed beat]\n\n[Vocal: vintage-style female voice, 1950s phrasing]\nWish you were here, the water's warm\nWe'll write again when summer's gone\n\n[Trombone: slow, lazy melody over the beat]\n\n[Vocal: same couplet, a harmony voice added]\nWish you were here, the water's warm\nWe'll write again when summer's gone\n\n[Trombone and Strings: melody repeated, fuller]\n\n[Break: beat stops, electric piano and crackle]\nThe water's warm\nThe water's warm\n\n[Final Section: everything returns, trombone answering]\nWish you were here, the water's warm\nWe'll write again when summer's gone\n\n[Outro: trombone alone, pool filter hum, a light switched off]",
+  "taskId": "696d65c64b3dd71241a710c02bcd85cb",
+  "sunoClipIds": [
+    "6128fa62-1dfd-4144-986b-8531a42ff583",
+    "f024bf9c-2b2a-4934-845b-8bc9eb53c07f"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919277881,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "6128fa62-1dfd-4144-986b-8531a42ff583",
+      "durationSec": 224.84,
+      "file": "poolside/ps_27_the_waters_warm_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "f024bf9c-2b2a-4934-845b-8bc9eb53c07f",
+      "durationSec": 225.0,
+      "file": "poolside/ps_27_the_waters_warm_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_27_the_waters_warm_req.json",
+    "poolside/ps_27_the_waters_warm_rec.json"
+  ],
+  "cover": "poolside/covers/ps_27_the_waters_warm.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, E-flat major. Very slow, warm and drowsy downtempo.\n\nVOICE: Female, in the style of a 1950s close-harmony record: sweet, rounded vowels, a little vibrato, slightly muffled as if lifted from an old disc. She sings one couplet only, later joined by a harmony voice a third below.\n\nINSTRUMENTS: A trombone playing a slow, sliding melody, a Rhodes electric piano, a soft brushed drum loop with a lazy backbeat, an upright-style bass, a small string section, vinyl crackle, a pool filter's hum at the end.\n\nARRANGEMENT MAP: 0:00 Intro, crackle and electric piano. 0:20 First vocal. 0:44 Trombone. 1:14 Second vocal, with harmony. 1:38 Trombone and strings. 2:10 Break, no beat. 2:28 Final section. 2:58 Outro, trombone alone, the hum and a switch at 3:24.\n\nPRODUCTION & MIX: Late-1990s chill-out: warm, hazy and analogue, the voice filtered to sound old, the trombone close and breathy, deep soft low end.\n\nSIGNATURE MOMENT: The trombone answering the couplet at 0:44.\n\nSTATION FIT: The closing track, at 1 a.m. The slowest piece in the pack, in the manner of the act that the Pandora station lists first.\n\nEMOTIONAL ARC: Drowsy, fond, a little lonely, good night.",
+  "workbookAtAGlance": "The Water's Warm\n\nBackup titles\nWish You Were Here / Postcard, Unsent\n\nAt a glance\n80 BPM, E-flat major\nVoice: Vintage-style female voice, one couplet\nLength: about 3 minutes 30",
+  "qa": {
+    "title": "The Water's Warm",
+    "id": "ps_27",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.9,
+        "measuredBpm": 76.0,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 5.0,
+        "lufs": -13.7,
+        "peakDbfs": -0.37,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 223.2,
+        "vocalCoverage": 0.343,
+        "vocalSpanSec": [
+          14.4,
+          184.4
+        ],
+        "vocalF0MedianHz": 259,
+        "vocalF0P25Hz": 195,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 225.0,
+        "measuredBpm": 78.3,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 2.1,
+        "lufs": -13.8,
+        "peakDbfs": -0.35,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 222.7,
+        "vocalCoverage": 0.406,
+        "vocalSpanSec": [
+          14.4,
+          198.7
+        ],
+        "vocalF0MedianHz": 265,
+        "vocalF0P25Hz": 196,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Downtempo",
+  "year": 1997
+}

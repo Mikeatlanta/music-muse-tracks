@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Tan Lines Don't Last",
+  "prompt": "[Intro: swampy guitar lick, deep kick, tambourine]\n\n[Verse 1: smoky drawling female voice]\nWhite stripe where the strap went\nRing of pale around my wrist\nLittle map of where I've been\nEvery place the sun got kissed\n\n[Chorus: deep house beat, guitar answering]\nTan lines don't last\nGone by October, gone like that\nSkin forgets, it always does\nI'll remember what it was\nTan lines don't last\nGood. I had it. Let it pass.\n\n[Verse 2: voice lower, bass rolling]\nYou were here for seven days\nLeft a mark that's fading too\nI don't need the proof to stay\nTo know the thing was true\n\n[Chorus: deep house beat, guitar answering]\nTan lines don't last\nGone by October, gone like that\nSkin forgets, it always does\nI'll remember what it was\nTan lines don't last\nGood. I had it. Let it pass.\n\n[Guitar Break: slide guitar over kick and bass]\n\n[Final Chorus: full groove, a low harmony]\nTan lines don't last\nGone by October, gone like that\nSkin forgets, it always does\nI'll remember what it was\nTan lines don't last\nGood. I had it. Let it pass.\n\n[Outro: guitar lick alone, cicadas]",
+  "style": "Bluesy deep house, low smoky rough-edged female vocal half-sung and half-drawled and lazy on the beat, lower self-harmony in the last chorus, 118 BPM, E minor, slow-burning dusty warm groove, swampy reverbed electric guitar blues lick, slide guitar break, deep soft house kick, rolling bass, tambourine and shaker, dusty organ, spring-reverb handclaps, raw warm voice and guitar over a clean round low end, rueful, sultry, accepting",
+  "negativeTags": "male lead vocals, bright synth leads, rap, trap hi-hats, big drop, auto-tune, fast tempo, cheerful pop",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "SPF Love",
+  "prompt": "[Intro: muted trumpet hook, congas, soft kick]\n\n[Verse 1: light male tenor, off-beat guitar]\nShe packs the bag before I'm even up\nTwo towels, cold water, my book, her cup\nI burn like paper, she knows that well\nShe's got the bottle open before I can tell\n\n[Pre-Chorus: bass enters, handclaps]\nTurn around, she says. Hold still.\n\n[Chorus: full groove, trumpet answers each line]\nThat's SPF love\nHands on my shoulders, got me covered up\nEvery inch she knows I'd miss\nBack of my neck, and then a kiss\nNobody looks out for me like this\nSPF love\n\n[Drop: trumpet melody and marimba, no vocal]\n\n[Verse 2: tenor, groove a little fuller]\nI get her ears and the part in her hair\nThe backs of her knees, she can't reach there\nTwenty years in, it's my favorite chore\nI take it slow, then I do some more\n\n[Pre-Chorus: bass and handclaps]\nTurn around, I say. Hold still.\n\n[Chorus: full groove, trumpet answers each line]\nThat's SPF love\nHands on my shoulders, got me covered up\nEvery inch she knows I'd miss\nBack of my neck, and then a kiss\nNobody looks out for me like this\nSPF love\n\n[Bridge: beat thins out, voice close]\nReapply every two hours\nThat's the rule, and it's ours\n\n[Final Chorus: full groove, trumpet on top]\nThat's SPF love\nHands on my shoulders, got me covered up\nEvery inch she knows I'd miss\nBack of my neck, and then a kiss\nNobody looks out for me like this\nSPF love\n\n[Outro: trumpet alone, water lapping]",
+  "style": "2014 tropical house, light smiling male tenor vocal with a gentle Caribbean lilt sung softly and close, one harmony above in the choruses, 118 BPM, A major, relaxed swaying sunny pulse, muted trumpet hook answering the vocal, congas and bongos, soft four-on-the-floor kick, off-beat clean guitar chords, warm round bass, marimba, handclaps, instrumental trumpet drop, clean warm spacious mix, affectionate, easy, poolside",
+  "negativeTags": "female lead vocals, heavy bass drop, distorted guitar, rap, trap hi-hats, fast tempo, dark mood, big room EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

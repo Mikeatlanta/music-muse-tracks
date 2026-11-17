@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Sparkling, No Ice",
+  "prompt": "[Intro: dark bouncing bassline, closed hi-hat]\n\n[Verse 1: deadpan half-spoken male voice]\nHe comes down at nine\nWhite shirt, sits at the end\nSays the same two words each time\nBartender's his friend\n\n[Chorus: bass and kick, voice doubled low]\nSparkling, no ice\nSparkling, no ice\nEverybody's on their third\nHe's had one thing, twice\nSparkling, no ice\n\n[Drop: bassline, clap, filtered chord stab]\n\n[Verse 2: deadpan, percussion added]\nThey laughed at him at ten\nThey're asleep on chairs by one\nHe's reading by the deep end\nDry and clear and done\n\n[Chorus: bass and kick, voice doubled low]\nSparkling, no ice\nSparkling, no ice\nEverybody's on their third\nHe's had one thing, twice\nSparkling, no ice\n\n[Break: bass drops out, hi-hat and voice]\nHe tips well. He remembers your name.\nHe drives everyone home.\n\n[Final Chorus: full groove, a high synth line]\nSparkling, no ice\nSparkling, no ice\nEverybody's on the floor\nHe's had one thing, twice\nSparkling, no ice\n\n[Outro: bassline alone, a bottle cap, fizz]",
+  "style": "2017 UK tech house, low deadpan half-spoken male vocal with a slight melodic lift at line ends, very dry, doubled an octave lower in the choruses, plainly spoken break, 122 BPM, F# minor, dark dry bouncing hypnotic groove, dark slightly detuned bouncing bass riff, tight four-on-the-floor kick, sharp clap, closed and open hi-hats, filtered minor chord stab, shaker, thin high synth line at the end, minimal dry punchy mix, wry, cool, nocturnal",
+  "negativeTags": "female lead vocals, belting, acoustic guitar, brass, bright major chords, rap, trap hi-hats, slow ballad",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}

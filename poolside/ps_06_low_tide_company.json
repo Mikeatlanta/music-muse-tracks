@@ -1,0 +1,118 @@
+{
+  "id": "ps_06",
+  "title": "Low Tide Company",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 6,
+  "slug": "ps_06_low_tide_company",
+  "inspiredBy": "Waves (Robin Schulz Remix) (Mr. Probz, 2014)",
+  "leadVoice": "Male baritone, low, grainy and tired, sung quietly with almost no vibrato. A second, lower harmony in the later choruses. He hums the break.",
+  "model": "V6",
+  "style": "2014 melancholy radio deep house, low grainy tired male baritone vocal sung quietly with almost no vibrato, lower harmony in the later choruses, hummed break, 120 BPM, G minor, calm steady feel, short plucked acoustic guitar loop that never changes, soft four-on-the-floor kick, muted clap, shakers, warm sustained bass, quiet string pad at the end, soft close mid-range mix, wistful, patient, calm",
+  "negativeTags": "female lead vocals, bright trumpet, big drop, rap, trap hi-hats, distorted synths, fast tempo, cheerful mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: plucked guitar loop, distant gulls]\n\n[Verse 1: low weary male baritone]\nYou go out and I don't ask where\nSand gets wide, boats lean in the air\nUsed to chase you down the beach\nNow I let the water reach\n\n[Chorus: soft beat enters, bass warm]\nI'm low tide company\nGood with me when you're away\nCrabs and gulls and a mile of gray\nYou come back at six, like you do\nI'm low tide company\nAnd high tide, I'm with you\n\n[Verse 2: voice closer, hi-hat ticking]\nI'm the pier, I don't go\nBarnacles and all, you know\nYou bring in what you bring\nI hold still for everything\n\n[Chorus: soft beat, bass warm, harmony below]\nI'm low tide company\nGood with me when you're away\nCrabs and gulls and a mile of gray\nYou come back at six, like you do\nI'm low tide company\nAnd high tide, I'm with you\n\n[Break: guitar loop alone, hummed melody]\nMm, mm, mm\n\n[Final Chorus: full beat, strings underneath]\nI'm low tide company\nGood with me when you're away\nCrabs and gulls and a mile of gray\nYou come back at six, like you do\nI'm low tide company\nAnd high tide, I'm with you\n\n[Outro: guitar loop, water coming in]",
+  "taskId": "a07e8349d890df03a759c4d8ce2d7186",
+  "sunoClipIds": [
+    "90516a53-709a-4f8d-ab8d-2253231e5724",
+    "b51ec563-278e-44aa-af65-6836695ab236"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919191554,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "90516a53-709a-4f8d-ab8d-2253231e5724",
+      "durationSec": 204.68,
+      "file": "poolside/ps_06_low_tide_company_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "b51ec563-278e-44aa-af65-6836695ab236",
+      "durationSec": 204.24,
+      "file": "poolside/ps_06_low_tide_company_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_06_low_tide_company_req.json",
+    "poolside/ps_06_low_tide_company_rec.json"
+  ],
+  "cover": "poolside/covers/ps_06_low_tide_company.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, G minor. Calm, steady and melancholy deep house.\n\nVOICE: Male baritone, low, grainy and tired, sung quietly with almost no vibrato. A second, lower harmony in the later choruses. He hums the break.\n\nINSTRUMENTS: A short plucked acoustic guitar loop that never changes, a soft kick on every beat, a muted clap, shakers, a warm sustained bass, a quiet string pad from the last chorus, gull and water sounds at the ends.\n\nARRANGEMENT MAP: 0:00 Intro, guitar loop. 0:16 Verse 1. 0:48 Chorus 1, beat in. 1:16 Verse 2. 1:48 Chorus 2. 2:16 Break, guitar and humming. 2:32 Final chorus. 2:58 Outro, guitar and water, ends 3:08.\n\nPRODUCTION & MIX: 2014 radio deep house: soft, mid-range and close, the guitar dry, the beat gentle, the voice right in the ear.\n\nSIGNATURE MOMENT: 'And high tide, I'm with you' at 1:10, the only hopeful line, sung no louder than the rest.\n\nSTATION FIT: 7:30 p.m., as the deck empties. The saddest song in the pack, placed at dusk where a little melancholy feels right.\n\nEMOTIONAL ARC: Resigned, steady, self-sufficient, quietly faithful.",
+  "workbookAtAGlance": "Low Tide Company\n\nBackup titles\nYou Come Back at Six / The Pier Stays Put\n\nAt a glance\n120 BPM, G minor\nVoice: Low, weary male baritone\nLength: about 3 minutes 10",
+  "qa": {
+    "title": "Low Tide Company",
+    "id": "ps_06",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.7,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 2.1,
+        "lufs": -13.7,
+        "peakDbfs": -0.63,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 203.1,
+        "vocalCoverage": 0.465,
+        "vocalSpanSec": [
+          15.2,
+          183.7
+        ],
+        "vocalF0MedianHz": 146,
+        "vocalF0P25Hz": 131,
+        "lyricLineRecall": 0.704,
+        "lyricUnclearSections": [
+          "Break"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.3,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 2.1,
+        "lufs": -13.3,
+        "peakDbfs": -0.34,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 202.2,
+        "vocalCoverage": 0.395,
+        "vocalSpanSec": [
+          17.1,
+          171.7
+        ],
+        "vocalF0MedianHz": 134,
+        "vocalF0P25Hz": 130,
+        "lyricLineRecall": 0.926,
+        "lyricUnclearSections": [
+          "Break"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "House",
+  "year": 2014
+}

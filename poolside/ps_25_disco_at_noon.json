@@ -1,0 +1,118 @@
+{
+  "id": "ps_25",
+  "title": "Disco at Noon",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 25,
+  "slug": "ps_25_disco_at_noon",
+  "inspiredBy": "Hypnotized (Purple Disco Machine & Sophie and the Giants, 2020)",
+  "leadVoice": "Female, low, rich and androgynous, sung with drama and long held notes that fall at the ends of phrases. Two backing voices answer in the last chorus.",
+  "model": "V6",
+  "style": "2020 revival of 1983 Italo-disco, low rich androgynous female vocal sung with drama and long held notes that fall at the ends of phrases, two backing voices answering at the end, 112 BPM, C minor, cool gliding glamorous pulse, sixteenth-note arpeggiated analogue synth bass, steady disco kick with off-beat open hi-hat, crisp snare with gated reverb, lush string-machine chords, clean chopped rhythm guitar, bright synth solo, electric toms, glossy wide analogue mix, dramatic, elegant, bittersweet",
+  "negativeTags": "male lead vocals, rap, trap hi-hats, acoustic folk, dubstep, distorted guitar, lo-fi, slow ballad",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: arpeggiated synth bass, disco hi-hat, string swell]\n\n[Verse 1: dramatic low female voice]\nThey said wait until it's dark\nThey said glitter needs a night\nI have waited long enough\nHang it up, turn on the light\n\n[Chorus: full Italo-disco groove, long falling melody]\nDisco at noon\nMirrorball in the daylight\nDiamonds on the water, shadows on the wall\nSequins in the sun and nowhere to be at all\nI don't need the moon\nDisco at noon\n\n[Verse 2: voice closer, guitar chopping]\nI was young, I stayed out late\nNow I'm up before the heat\nSame two feet, same silver shoes\nDifferent hour, same old beat\n\n[Chorus: full Italo-disco groove, long falling melody]\nDisco at noon\nMirrorball in the daylight\nDiamonds on the water, shadows on the wall\nSequins in the sun and nowhere to be at all\nI don't need the moon\nDisco at noon\n\n[Instrumental: synth solo over the arpeggio]\n\n[Bridge: beat thins, voice and strings]\nWhy save it? Why save it?\nThe light is here. I'm here.\n\n[Final Chorus: everything in, backing voices answering]\nDisco at noon\nMirrorball in the daylight\nDiamonds on the water, shadows on the wall\nSequins in the sun and nowhere to be at all\nI don't need the moon\nDisco at noon\n\n[Outro: arpeggio and strings fade]",
+  "taskId": "d75a2dbde28122032697e8b2119cb6a3",
+  "sunoClipIds": [
+    "682e56ae-16b0-4e50-a7c1-4b4c0ee04121",
+    "75eef418-c88f-4286-b940-90414b77f759"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919273161,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "682e56ae-16b0-4e50-a7c1-4b4c0ee04121",
+      "durationSec": 210.0,
+      "file": "poolside/ps_25_disco_at_noon_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "75eef418-c88f-4286-b940-90414b77f759",
+      "durationSec": 209.6,
+      "file": "poolside/ps_25_disco_at_noon_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_25_disco_at_noon_req.json",
+    "poolside/ps_25_disco_at_noon_rec.json"
+  ],
+  "cover": "poolside/covers/ps_25_disco_at_noon.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, C minor. A cool, gliding Italo-disco pulse, glamorous and a little melancholy.\n\nVOICE: Female, low, rich and androgynous, sung with drama and long held notes that fall at the ends of phrases. Two backing voices answer in the last chorus.\n\nINSTRUMENTS: A sixteenth-note arpeggiated analogue synth bass, a steady disco kick with an open hi-hat on the off-beat, a crisp snare with a little gated reverb, lush string-machine chords, a clean chopped rhythm guitar, a bright synth solo, electric toms in the fills.\n\nARRANGEMENT MAP: 0:00 Intro, arpeggio and strings. 0:16 Verse 1. 0:44 Chorus 1. 1:12 Verse 2. 1:40 Chorus 2. 2:08 Synth solo. 2:24 Bridge. 2:38 Final chorus. 3:04 Outro fade, ends 3:14.\n\nPRODUCTION & MIX: A 2020 revival of 1983 Italo-disco: glossy, wide and analogue-sounding, bass arpeggio in front, voice with a plate reverb.\n\nSIGNATURE MOMENT: The long falling line 'nowhere to be at all' at 1:02.\n\nSTATION FIT: Noon exactly. Glamour in daylight, at an easy 112 BPM that suits a lunch crowd.\n\nEMOTIONAL ARC: Defiant, dazzling, wistful, free.",
+  "workbookAtAGlance": "Disco at Noon\n\nBackup titles\nMirrorball in Daylight / Sequins in the Sun\n\nAt a glance\n112 BPM, C minor\nVoice: Dramatic, low female voice\nLength: about 3 minutes 15",
+  "qa": {
+    "title": "Disco at Noon",
+    "id": "ps_25",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 210.0,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 0.3,
+        "lufs": -13.5,
+        "peakDbfs": -1.65,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.5,
+        "contentEndSec": 209.0,
+        "vocalCoverage": 0.492,
+        "vocalSpanSec": [
+          24.7,
+          207.2
+        ],
+        "vocalF0MedianHz": 304,
+        "vocalF0P25Hz": 265,
+        "lyricLineRecall": 0.786,
+        "lyricUnclearSections": [
+          "Verse 1"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 209.6,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 4.9,
+        "lufs": -12.9,
+        "peakDbfs": -0.8,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 209.5,
+        "vocalCoverage": 0.476,
+        "vocalSpanSec": [
+          14.8,
+          198.5
+        ],
+        "vocalF0MedianHz": 310,
+        "vocalF0P25Hz": 262,
+        "lyricLineRecall": 0.75,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Disco",
+  "year": 2020
+}

@@ -1,0 +1,114 @@
+{
+  "id": "ps_21",
+  "title": "Sitting Around (With Everybody)",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 21,
+  "slug": "ps_21_sitting_around_with_everybody",
+  "inspiredBy": "Marea (we've lost dancing) (Fred again.. & The Blessed Madonna, 2021)",
+  "leadVoice": "A woman in her fifties speaking naturally into a phone, with pauses, a small laugh and room noise left in. The refrain is sung by soft, layered male and female voices. The word 'everybody' is chopped and pitched in the drops.",
+  "model": "V6",
+  "style": "2021 emotional piano house built on a spoken voice note, natural unhurried woman's voice speaking into a phone with pauses and room noise, softly sung layered male and female refrain, one word chopped and pitched in the drops, 123 BPM, C major, warm gathering quietly euphoric feel, felt-damped upright piano chords, soft kick entering late, round sub bass, shuffled hi-hats, handclaps, string section in the second drop, lo-fi voice against warm full piano, grateful, tender, uplifting",
+  "negativeTags": "rap, belting, distorted guitar, trap hi-hats, aggressive drop, brass, dark mood, auto-tune lead",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: warm piano chords, room noise, a message beep]\n\n[Spoken: woman's voice note, natural, unhurried]\nHey. I was just thinking.\nYou know what I missed? It wasn't the big stuff.\nIt wasn't the trips or the parties.\n\n[Spoken: piano continues, soft kick enters]\nIt was sitting around. With everybody.\nNothing in particular. Somebody's kid in the pool.\nSomebody burning something on the grill.\n\n[Refrain: sung softly, voices layered]\nSitting around, sitting around\nWith everybody\nNothing to do, and all of you\nWith everybody\n\n[Drop: full beat, piano and bass, vocal chop of \"everybody\"]\n\n[Spoken: voice warmer, hi-hats in]\nAnd we've got it back. Look.\nI'm looking at it right now.\nSo. Come over. Bring nothing.\n\n[Refrain: sung, fuller, handclaps]\nSitting around, sitting around\nWith everybody\nNothing to do, and all of you\nWith everybody\n\n[Drop: biggest, strings on top, vocal chop]\n\n[Outro: piano alone, spoken]\nOkay. That's all. Love you. Bye.",
+  "taskId": "f846c01e714f4269454f58ee86b03275",
+  "sunoClipIds": [
+    "b9c6d294-0274-42a7-986c-42963344d7dd",
+    "81a24fae-815d-4c53-82b6-c296d06b235b"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919243384,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "b9c6d294-0274-42a7-986c-42963344d7dd",
+      "durationSec": 214.24,
+      "file": "poolside/ps_21_sitting_around_with_everybody_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "81a24fae-815d-4c53-82b6-c296d06b235b",
+      "durationSec": 214.72,
+      "file": "poolside/ps_21_sitting_around_with_everybody_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_21_sitting_around_with_everybody_req.json",
+    "poolside/ps_21_sitting_around_with_everybody_rec.json"
+  ],
+  "cover": "poolside/covers/ps_21_sitting_around_with_everybody.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 123 BPM, 4/4, C major. Warm, gathering and quietly euphoric, a slow sunrise of a track.\n\nVOICE: A woman in her fifties speaking naturally into a phone, with pauses, a small laugh and room noise left in. The refrain is sung by soft, layered male and female voices. The word 'everybody' is chopped and pitched in the drops.\n\nINSTRUMENTS: A felt-damped upright piano playing warm, repeating chords, a soft kick that enters late, a round sub bass, shuffled hi-hats, handclaps, a string section in the second drop, the vocal chop, a message beep.\n\nARRANGEMENT MAP: 0:00 Intro, piano and beep. 0:12 Spoken part 1. 0:36 Spoken part 2, kick in. 1:00 Refrain 1. 1:24 Drop 1. 1:50 Spoken part 3. 2:12 Refrain 2. 2:36 Drop 2, strings. 3:02 Outro, piano and the sign-off at 3:10.\n\nPRODUCTION & MIX: 2021 emotional house: lo-fi voice-note vocal against warm, full piano and a soft modern beat. Intimate first, wide later.\n\nSIGNATURE MOMENT: 'So. Come over. Bring nothing.' at 2:06.\n\nSTATION FIT: 5 p.m., when friends arrive. The most emotional track of the day set, and the one most like the voice-led records these stations favour.\n\nEMOTIONAL ARC: Musing, missing, noticing, inviting.",
+  "workbookAtAGlance": "Sitting Around (With Everybody)\n\nBackup titles\nNothing in Particular / I Missed the Nothing\n\nAt a glance\n123 BPM, C major\nVoice: Spoken female voice note, with a sung refrain\nLength: about 3 minutes 20",
+  "qa": {
+    "title": "Sitting Around (With Everybody)",
+    "id": "ps_21",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.3,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 123,
+        "bpmErrPct": 0.0,
+        "lufs": -14.0,
+        "peakDbfs": -0.9,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 212.6,
+        "vocalCoverage": 0.451,
+        "vocalSpanSec": [
+          4.4,
+          199.1
+        ],
+        "vocalF0MedianHz": 294,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.786,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.7,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 123,
+        "bpmErrPct": 0.0,
+        "lufs": -13.9,
+        "peakDbfs": -0.37,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 213.5,
+        "vocalCoverage": 0.595,
+        "vocalSpanSec": [
+          2.4,
+          212.3
+        ],
+        "vocalF0MedianHz": 261,
+        "vocalF0P25Hz": 249,
+        "lyricLineRecall": 0.857,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "House",
+  "year": 2021
+}

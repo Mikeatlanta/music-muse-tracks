@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "You Coming In?",
+  "prompt": "[Intro: marimba pattern, sliding acoustic guitar]\n\n[Verse 1: easy male voice, slight drawl]\nI've been in since ten o'clock\nFingers like raisins, lost my watch\nYou've been reading on the edge\nSame page for an hour, toes in the wet\n\n[Chorus: tropical beat, marimba answers each line]\nYou coming in?\nWater's fine, I wouldn't lie\nYou coming in?\nBook'll be there when you're dry\nI can stand where you can't, I'll catch you. Jump.\nOne, two. You coming in?\n\n[Drop: marimba and pan-flute melody, no vocal]\n\n[Verse 2: voice teasing, guitar strumming]\nYou say it's cold. It's eighty-three.\nYou say your hair. It's only me.\nYou say in a minute. You said that too\nThe summer we met, and then you jumped\n\n[Chorus: tropical beat, marimba answers each line]\nYou coming in?\nWater's fine, I wouldn't lie\nYou coming in?\nBook'll be there when you're dry\nI can stand where you can't, I'll catch you. Jump.\nOne, two. You coming in?\n\n[Bridge: beat drops out, guitar only]\nThere she goes. Bookmark. Sunglasses. Three.\n\n[Final Chorus: full beat, splash on the first line]\nYou came in\nWater's fine, I didn't lie\nYou came in\nBook'll be there when you're dry\nI can stand where you can't. I've got you. See?\nOne, two. You came in.\n\n[Outro: marimba pattern, water, a laugh]",
+  "style": "2014 tropical house with a country vocal, warm mid-range male voice with a light Southern drawl half-spoken and teasing, harmony in the choruses, spoken bridge, 121 BPM, G major, gentle bouncing feel, marimba-like pluck lead pattern, clean slide guitar, strummed acoustic guitar, soft kick with off-beat open hi-hat, bouncing bass, breathy pan-flute synth in an instrumental drop, finger snaps, light clean dry mix, playful, inviting, sunny",
+  "negativeTags": "female lead vocals, heavy bass drop, distorted synths, rap, trap hi-hats, dark mood, fast tempo, rock drums",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

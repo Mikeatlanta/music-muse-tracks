@@ -1,0 +1,121 @@
+{
+  "id": "ps_15",
+  "title": "Collins After Dark",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 15,
+  "slug": "ps_15_collins_after_dark",
+  "inspiredBy": "Ocean Drive (Duke Dumont, 2015)",
+  "leadVoice": "Male falsetto, soft, breathy and intimate, stacked in three-part harmony in the choruses. No chest-voice belting anywhere.",
+  "model": "V6",
+  "style": "2015 nu-disco with 1985 Miami colours, soft breathy intimate male falsetto vocal stacked in three-part harmony in the choruses, no belting, 115 BPM, B-flat minor, smooth gliding mid-tempo night groove, warm analogue synth pads, bright synth-brass line, slapped and popped electric bass, 1980s drum machine with gated snare, clean chorused rhythm guitar, smooth tenor saxophone solo, electric piano, bongos, glossy wide warm mix, nostalgic, romantic, neon",
+  "negativeTags": "female lead vocals, rap, distorted guitar, big room drop, trap hi-hats, acoustic folk, fast tempo, harsh synths",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: analog synth pad, slapped bass, drum machine fill]\n\n[Verse 1: soft male falsetto]\nTop down, twenty-five\nEvery light on the strip is pink\nThat one was the Fontaine, that one was a dive\nI was nineteen, I couldn't think\n\n[Pre-Chorus: synth brass rising]\nYou never saw it then\nLet me show you now\n\n[Chorus: full groove, falsetto stacked]\nCollins after dark\nSlow enough to read the signs\nYour hand out, riding the warm air\nMine on yours, taking my time\nCollins after dark\nNowhere we have to park\n\n[Verse 2: falsetto, bass popping]\nSame moon, different names\nValet where the bait shop stood\nI don't need it to stay the same\nI just need the night to be good\n\n[Pre-Chorus: synth brass rising]\nYou weren't with me then\nYou're with me now\n\n[Chorus: full groove, falsetto stacked]\nCollins after dark\nSlow enough to read the signs\nYour hand out, riding the warm air\nMine on yours, taking my time\nCollins after dark\nNowhere we have to park\n\n[Sax Solo: smooth tenor sax over the groove]\n\n[Final Chorus: full groove, sax answering]\nCollins after dark\nSlow enough to read the signs\nYour hand out, riding the warm air\nMine on yours, taking my time\nCollins after dark\nNowhere we have to park\n\n[Outro: synth pad, engine idling, surf far off]",
+  "taskId": "4717d4d869561662b7d6d4ec0b8d26e6",
+  "sunoClipIds": [
+    "a645fb00-1c4c-4478-b6cd-5948558a98e7",
+    "68ba4d5d-b3e2-4d46-a083-31b10ab51361"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919212591,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "a645fb00-1c4c-4478-b6cd-5948558a98e7",
+      "durationSec": 214.68,
+      "file": "poolside/ps_15_collins_after_dark_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "68ba4d5d-b3e2-4d46-a083-31b10ab51361",
+      "durationSec": 214.0,
+      "file": "poolside/ps_15_collins_after_dark_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_15_collins_after_dark_req.json",
+    "poolside/ps_15_collins_after_dark_rec.json"
+  ],
+  "cover": "poolside/covers/ps_15_collins_after_dark.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 115 BPM, 4/4, B-flat minor. A smooth, gliding, mid-tempo night groove with a 1980s gloss.\n\nVOICE: Male falsetto, soft, breathy and intimate, stacked in three-part harmony in the choruses. No chest-voice belting anywhere.\n\nINSTRUMENTS: Warm analogue-style synth pads and a bright synth-brass line, a slapped and popped electric bass, a 1980s drum machine with a gated snare, a clean chorused rhythm guitar, a tenor saxophone solo, electric piano, soft bongos.\n\nARRANGEMENT MAP: 0:00 Intro, pad and bass. 0:14 Verse 1. 0:40 Pre-chorus. 0:48 Chorus 1. 1:14 Verse 2. 1:40 Pre-chorus. 1:48 Chorus 2. 2:14 Sax solo. 2:30 Final chorus. 2:58 Outro, pad, engine and surf, ends 3:18.\n\nPRODUCTION & MIX: 2015 nu-disco with 1985 Miami colours: glossy, wide and warm, gated reverb on the snare, bass and falsetto in front.\n\nSIGNATURE MOMENT: The saxophone entering at 2:14.\n\nSTATION FIT: 9 p.m., after dinner. The station's most Miami track: neon, mid-tempo, built for a slow drive along the beach road.\n\nEMOTIONAL ARC: Nostalgic, tender, unhurried, content.",
+  "workbookAtAGlance": "Collins After Dark\n\nBackup titles\nTop Down, Twenty-Five / Every Light Is Pink\n\nAt a glance\n115 BPM, B-flat minor\nVoice: Soft male falsetto\nLength: about 3 minutes 20",
+  "qa": {
+    "title": "Collins After Dark",
+    "id": "ps_15",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 27% of lines recognised (unclear: Verse 1, Pre-Chorus)"
+        ],
+        "durationSec": 214.7,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 115,
+        "bpmErrPct": 2.1,
+        "lufs": -13.5,
+        "peakDbfs": -0.39,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 212.8,
+        "vocalCoverage": 0.601,
+        "vocalSpanSec": [
+          7.1,
+          199.5
+        ],
+        "vocalF0MedianHz": 312,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.267,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Pre-Chorus"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.05 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 214.0,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 115,
+        "bpmErrPct": 2.1,
+        "lufs": -12.8,
+        "peakDbfs": 0.05,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 2.7,
+        "contentEndSec": 211.7,
+        "vocalCoverage": 0.607,
+        "vocalSpanSec": [
+          6.1,
+          204.2
+        ],
+        "vocalF0MedianHz": 310,
+        "vocalF0P25Hz": 207,
+        "lyricLineRecall": 0.667,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Nu-Disco",
+  "year": 2015
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Seawall Sax",
+  "prompt": "[Intro: piano chords, soft shaker, distant surf]\n\n[Vocal: bright female voice, one phrase]\nPlay it till the tide turns\nPlay it till the light goes\n\n[Build: kick enters, piano rising]\nPlay it, play it\n\n[Drop: joyful saxophone melody, full beat]\n\n[Vocal: female voice, a little closer]\nNobody knows your name down here\nPlay it till the tide turns\n\n[Build: snare roll, handclaps]\nPlay it, play it\n\n[Drop: saxophone melody, higher, with strings]\n\n[Break: saxophone alone, free time]\n\n[Final Drop: saxophone and voice together]\nPlay it till the tide turns\nPlay it till the light goes\n\n[Outro: last saxophone note, applause from balconies]",
+  "style": "2013 melodic deep house led by a saxophone, tenor saxophone playing a strong singable joyful melody as the hook, bright clear female voice singing only two short phrases and joining the saxophone at the end, no verses, 124 BPM, G major, bright bouncing feel, bright piano chords, light four-on-the-floor kick with off-beat open hi-hat, bouncing bass, shakers, handclaps, string section in the second drop, solo saxophone break, clean sunny warm mix, joyful, open-air, celebratory",
+  "negativeTags": "male lead vocals, full sung verses, rap, distorted synths, trap hi-hats, dark mood, slow tempo, heavy sub drop",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

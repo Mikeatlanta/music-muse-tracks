@@ -1,0 +1,117 @@
+{
+  "id": "ps_16",
+  "title": "Cabana Nine",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 16,
+  "slug": "ps_16_cabana_nine",
+  "inspiredBy": "(It Goes Like) Nanana (Peggy Gou, 2023)",
+  "leadVoice": "Female, cool, flat and nearly spoken, with a slight accent and no vibrato. Doubled in the choruses. The nonsense syllables are sung on one or two notes. One dry spoken line in the break.",
+  "model": "V6",
+  "style": "2023 take on early-1990s house, cool flat nearly spoken female vocal with a slight accent and no vibrato, doubled in the choruses, nonsense-syllable hook on one or two notes, dry spoken line in the break, 126 BPM, G minor, bouncy bright cheerful groove, rubbery organ-style bass riff, bright house piano stabs, punchy four-on-the-floor kick, crisp hi-hats, snappy clap, string-machine pad, vocal chop, clean punchy mix, playful, deadpan, nostalgic",
+  "negativeTags": "male lead vocals, belting, acoustic guitar, trap hi-hats, rap, dubstep, slow ballad, distorted guitar",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: rubbery organ bass, piano stabs, crisp hi-hat]\n\n[Verse 1: cool deadpan female voice]\nSomebody asked me what's so good\nAbout the one on the end\nI tried to tell them, never could\nIt's a thing you can't explain\n\n[Chorus: full 90s house groove, voice doubled]\nIt's like ba-da-ba, ba-da-ba\nCabana nine\nBa-da-ba, ba-da-ba\nCome by sometime\nI can't describe it, I just know the sign\nBa-da-ba, cabana nine\n\n[Drop: organ bass and piano, vocal chop]\nBa-da, ba-da (nine)\n\n[Verse 2: deadpan, hi-hats opening]\nCurtain's striped, the fan goes round\nIce is always full\nMaybe it's the way the sound\nComes over from the pool\n\n[Chorus: full 90s house groove, voice doubled]\nIt's like ba-da-ba, ba-da-ba\nCabana nine\nBa-da-ba, ba-da-ba\nCome by sometime\nI can't describe it, I just know the sign\nBa-da-ba, cabana nine\n\n[Break: bass and claps only, spoken]\nAsk for me at the desk. They'll know.\n\n[Final Chorus: full groove, piano an octave up]\nIt's like ba-da-ba, ba-da-ba\nCabana nine\nBa-da-ba, ba-da-ba\nCome by sometime\nI can't describe it, I just know the sign\nBa-da-ba, cabana nine\n\n[Outro: organ bass alone, a fan whirring]",
+  "taskId": "c82787569532d046ec786423c1a1b86e",
+  "sunoClipIds": [
+    "f94b355d-4a5f-4ce6-bf5f-060cef48ac79",
+    "88f5cc86-08d5-4b5e-aa73-7e317aeec6ee"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919216426,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f94b355d-4a5f-4ce6-bf5f-060cef48ac79",
+      "durationSec": 194.76,
+      "file": "poolside/ps_16_cabana_nine_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "88f5cc86-08d5-4b5e-aa73-7e317aeec6ee",
+      "durationSec": 194.4,
+      "file": "poolside/ps_16_cabana_nine_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_16_cabana_nine_req.json",
+    "poolside/ps_16_cabana_nine_rec.json"
+  ],
+  "cover": "poolside/covers/ps_16_cabana_nine.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 126 BPM, 4/4, G minor. A bouncy, bright, early-1990s house groove, cheerful with a straight face.\n\nVOICE: Female, cool, flat and nearly spoken, with a slight accent and no vibrato. Doubled in the choruses. The nonsense syllables are sung on one or two notes. One dry spoken line in the break.\n\nINSTRUMENTS: A rubbery organ-style bass playing a hooky riff, bright house piano stabs, a punchy four-on-the-floor kick, crisp open and closed hi-hats, a snappy clap, a string-machine pad, a short vocal chop.\n\nARRANGEMENT MAP: 0:00 Intro, organ bass and piano. 0:16 Verse 1. 0:40 Chorus 1. 1:04 Drop. 1:20 Verse 2. 1:44 Chorus 2. 2:08 Break, bass and claps. 2:20 Final chorus. 2:44 Outro, bass and a fan, ends 2:58.\n\nPRODUCTION & MIX: A 2023 take on 1992 house: clean and punchy, organ bass loud and round, piano bright, voice dry.\n\nSIGNATURE MOMENT: The first 'ba-da-ba, ba-da-ba, cabana nine' at 0:40.\n\nSTATION FIT: 4:30 p.m., the day's peak. The fastest track in the pack, still light and playful enough for a pool deck.\n\nEMOTIONAL ARC: Offhand, amused, inviting, in on the joke.",
+  "workbookAtAGlance": "Cabana Nine\n\nBackup titles\nBa-Da-Ba / Ask for Me at the Desk\n\nAt a glance\n126 BPM, G minor\nVoice: Cool, deadpan female voice\nLength: about 3 minutes",
+  "qa": {
+    "title": "Cabana Nine",
+    "id": "ps_16",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 2.5,
+        "lufs": -13.4,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 193.3,
+        "vocalCoverage": 0.525,
+        "vocalSpanSec": [
+          15.4,
+          181.6
+        ],
+        "vocalF0MedianHz": 257,
+        "vocalF0P25Hz": 199,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.4,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 2.5,
+        "lufs": -13.8,
+        "peakDbfs": -0.06,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 193.4,
+        "vocalCoverage": 0.512,
+        "vocalSpanSec": [
+          15.2,
+          177.2
+        ],
+        "vocalF0MedianHz": 262,
+        "vocalF0P25Hz": 200,
+        "lyricLineRecall": 0.68,
+        "lyricUnclearSections": [
+          "Verse 2",
+          "Break"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "House",
+  "year": 2023
+}

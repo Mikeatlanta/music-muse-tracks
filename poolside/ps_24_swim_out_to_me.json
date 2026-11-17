@@ -1,0 +1,114 @@
+{
+  "id": "ps_24",
+  "title": "Swim Out to Me",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 24,
+  "slug": "ps_24_swim_out_to_me",
+  "inspiredBy": "Innerbloom (RÜFÜS DU SOL, 2015)",
+  "leadVoice": "Male tenor, yearning and slightly husky, with long reverb, sung softly and held back. He does not enter until almost a minute in. Doubled in the choruses and layered in the final section.",
+  "model": "V6",
+  "style": "Melodic house slow build, yearning slightly husky male tenor vocal with long reverb sung softly and held back, entering late, doubled in the choruses and layered at the end, 122 BPM, A minor, long patient slowly rising feel, slow rolling synth arpeggio, deep four-on-the-floor kick, warm sustained bass, long pads, closed hi-hats and soft clap, string section joining midway, second higher arpeggio near the end, deep wide warm mix, yearning, patient, nocturnal",
+  "negativeTags": "female lead vocals, rap, bright trumpet, acoustic folk, trap hi-hats, hard drop, distorted guitar, cheerful pop",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: slow synth arpeggio, deep kick, long pad]\n\n[Build: bass enters, hi-hats, arpeggio opens]\n\n[Verse 1: yearning male tenor, reverbed]\nI'm out past the rope\nWhere the lights don't go\nWater's warm, the night is wide\nI won't call, I won't decide\n\n[Chorus: chords lift, voice doubled]\nIf you want to, swim out to me\nI'll be treading water, I'll be easy to see\nNo hurry, no hurry\nIf you want to, swim out to me\n\n[Instrumental: arpeggio rising, strings join]\n\n[Verse 2: voice closer, bass moving]\nI can hear you on the stair\nFeet in, breathing, standing there\nI've been where you are before\nScared of what the deep is for\n\n[Chorus: chords lift, voice doubled]\nIf you want to, swim out to me\nI'll be treading water, I'll be easy to see\nNo hurry, no hurry\nIf you want to, swim out to me\n\n[Break: kick drops out, pads and voice]\nNo hurry\nNo hurry\n\n[Final Build and Release: everything returns, voices layered]\nIf you want to, swim out to me\nI'll be treading water, I'll be easy to see\nNo hurry, no hurry\nIf you want to, swim out to me\n\n[Outro: arpeggio alone, slowing, water moving]",
+  "taskId": "ba9226b531f6b72345dd3f1e1c391e12",
+  "sunoClipIds": [
+    "75c81bd5-6dd8-428a-83f0-72fa87c283fe",
+    "2656ec62-8efe-46e4-a3d7-9c49b2d2ea42"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919250014,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "75c81bd5-6dd8-428a-83f0-72fa87c283fe",
+      "durationSec": 284.52,
+      "file": "poolside/ps_24_swim_out_to_me_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "2656ec62-8efe-46e4-a3d7-9c49b2d2ea42",
+      "durationSec": 284.68,
+      "file": "poolside/ps_24_swim_out_to_me_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_24_swim_out_to_me_req.json",
+    "poolside/ps_24_swim_out_to_me_rec.json"
+  ],
+  "cover": "poolside/covers/ps_24_swim_out_to_me.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, A minor. A long, patient, slowly rising melodic house track.\n\nVOICE: Male tenor, yearning and slightly husky, with long reverb, sung softly and held back. He does not enter until almost a minute in. Doubled in the choruses and layered in the final section.\n\nINSTRUMENTS: A slow, rolling synth arpeggio, a deep four-on-the-floor kick, a warm sustained bass, long pads, closed hi-hats and a soft clap, a string section that joins in the middle, a second higher arpeggio near the end.\n\nARRANGEMENT MAP: 0:00 Intro, arpeggio and kick. 0:32 Build, bass in. 0:56 Verse 1. 1:28 Chorus 1. 1:56 Instrumental, strings join. 2:24 Verse 2. 2:54 Chorus 2. 3:22 Break, pads and voice. 3:40 Final build and release. 4:12 Outro, arpeggio slowing, ends 4:28.\n\nPRODUCTION & MIX: Melodic house for a stadium at night: deep, wide and warm, kick soft and large, voice far back in reverb.\n\nSIGNATURE MOMENT: The kick returning under 'If you want to' at 3:40.\n\nSTATION FIT: 11 p.m., the late set. The longest track in the pack, for the hour when nobody is talking and the pool lights are the only lights.\n\nEMOTIONAL ARC: Waiting, offering, understanding, open.",
+  "workbookAtAGlance": "Swim Out to Me\n\nBackup titles\nPast the Rope / I'll Be Treading Water\n\nAt a glance\n122 BPM, A minor\nVoice: Yearning male tenor, enters late\nLength: about 4 minutes 30",
+  "qa": {
+    "title": "Swim Out to Me",
+    "id": "ps_24",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.5,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -13.6,
+        "peakDbfs": -1.04,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 282.9,
+        "vocalCoverage": 0.28,
+        "vocalSpanSec": [
+          18.3,
+          251.8
+        ],
+        "vocalF0MedianHz": 291,
+        "vocalF0P25Hz": 184,
+        "lyricLineRecall": 0.8,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.7,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -13.5,
+        "peakDbfs": -0.89,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 282.1,
+        "vocalCoverage": 0.276,
+        "vocalSpanSec": [
+          22.4,
+          242.5
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 164,
+        "lyricLineRecall": 0.75,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Melodic House",
+  "year": 2015
+}

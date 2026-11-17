@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Pink at Seven",
+  "prompt": "[Intro: plucked guitar notes, vinyl crackle, soft pad]\n\n[Section A: chopped vocal melody, no beat yet]\nEe-ah, oh\nEe-ah, oh-ee\n\n[Build: soft kick and snaps enter, guitar plucks]\nEe-ah, oh\n(Mm)\n\n[Drop: full beat, vocal-chop lead, bass swells]\nEe-ah-oh, ee-ah-oh\nAh-ee, ah-ee, oh\n\n[Section B: beat thins, guitar and a second chop melody]\nOh-ee, oh\nOh-ee, ah\n\n[Build: snare roll, filter opening]\n\n[Drop: full beat, both chop melodies together]\nEe-ah-oh, ee-ah-oh\nAh-ee, ah-ee, oh\n\n[Outro: guitar alone, one natural voice, close]\nPink at seven. See you home.",
+  "style": "Mid-2010s chill electronic instrumental, melody played by a young androgynous voice chopped into pitched single syllables, no sung lyric until one soft half-spoken line at the end, 90 BPM, B major, slow floating tender sway, clean delayed electric guitar plucking single notes, pitched vocal-chop lead, soft round kick and finger snaps, warm swelling sub bass, airy pads, glockenspiel doubling the melody, vinyl crackle, soft wide warm mix with long reverbs, nostalgic, peaceful, glowing",
+  "negativeTags": "full sung lyrics, rap, belting, distorted bass, rock drums, brass, fast tempo, aggressive drop",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

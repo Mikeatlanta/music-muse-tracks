@@ -1,0 +1,114 @@
+{
+  "id": "ps_12",
+  "title": "Chasing Shade",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 12,
+  "slug": "ps_12_chasing_shade",
+  "inspiredBy": "I Follow Rivers (The Magician Remix) (Lykke Li, 2011)",
+  "leadVoice": "Female, cool, clear and a little detached, with a faint Scandinavian evenness. She never raises her voice; the warmth is in the music, not the singing. The break is spoken flatly, like a list.",
+  "model": "V6",
+  "style": "Early-2010s piano house and nu-disco, cool clear slightly detached female vocal that never raises its voice, flatly spoken list in the break, 122 BPM, A minor, bright bouncing groove, syncopated house piano riff as the hook, round four-on-the-floor kick, handclaps on two and four, off-beat open hi-hat, rubbery bass, soft organ pad, shakers, instrumental piano drop, bright clean punchy mix, cool, wry, breezy",
+  "negativeTags": "male lead vocals, belting, distorted guitar, trap hi-hats, rap, dubstep, slow ballad, heavy sub drop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bouncing piano riff, handclaps]\n\n[Verse 1: cool distant female voice]\nNine o'clock, the east wall\nNoon, the palm, that's all\nThree, the far umbrella\nI move when the light does\n\n[Chorus: piano riff, full house beat]\nI'm chasing shade\nWherever it goes, I go\nDragging my chair across the day\nCool and slow\nI'm chasing shade\nFunny, it's always where you are\n\n[Drop: piano riff, bass and claps, no vocal]\n\n[Verse 2: voice a touch warmer]\nYou don't burn, you don't rush\nYou sit like the afternoon's enough\nI set my towel a little near\nIt's ten degrees cooler here\n\n[Chorus: piano riff, full house beat]\nI'm chasing shade\nWherever it goes, I go\nDragging my chair across the day\nCool and slow\nI'm chasing shade\nFunny, it's always where you are\n\n[Break: piano alone, voice dry]\nEast wall. Palm. Umbrella. You.\n\n[Final Chorus: full beat, extra piano octave]\nI'm chasing shade\nWherever it goes, I go\nDragging my chair across the day\nCool and slow\nI'm chasing shade\nFunny, it's always where you are\n\n[Outro: piano riff, a chair scraping stone]",
+  "taskId": "312ed4b480a33cc7278f30a797a6133a",
+  "sunoClipIds": [
+    "799a11b8-5e74-4b97-addd-0c11cdf2e0a4",
+    "667abfcb-f477-4a1c-9286-56ce8dcbf2f9"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919203440,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "799a11b8-5e74-4b97-addd-0c11cdf2e0a4",
+      "durationSec": 194.8,
+      "file": "poolside/ps_12_chasing_shade_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "667abfcb-f477-4a1c-9286-56ce8dcbf2f9",
+      "durationSec": 194.32,
+      "file": "poolside/ps_12_chasing_shade_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_12_chasing_shade_req.json",
+    "poolside/ps_12_chasing_shade_rec.json"
+  ],
+  "cover": "poolside/covers/ps_12_chasing_shade.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, A minor. A bright, bouncing piano-house groove under a cool voice.\n\nVOICE: Female, cool, clear and a little detached, with a faint Scandinavian evenness. She never raises her voice; the warmth is in the music, not the singing. The break is spoken flatly, like a list.\n\nINSTRUMENTS: A bouncing, syncopated house piano riff, a round four-on-the-floor kick, handclaps on two and four, an open hi-hat on the off-beat, a rubbery bass, a soft organ pad, shakers.\n\nARRANGEMENT MAP: 0:00 Intro, piano and claps. 0:14 Verse 1. 0:38 Chorus 1. 1:02 Drop. 1:18 Verse 2. 1:42 Chorus 2. 2:06 Break, piano alone. 2:18 Final chorus. 2:44 Outro, piano and a chair scrape, ends 2:58.\n\nPRODUCTION & MIX: Early-2010s nu-disco and piano house: bright, clean and punchy, piano up front, voice dry.\n\nSIGNATURE MOMENT: 'Funny, it's always where you are' at 0:58.\n\nSTATION FIT: 3:30 p.m., hot and bright. One of the pack's most danceable tracks, kept cool by the vocal.\n\nEMOTIONAL ARC: Practical, drawn in, amused at herself, settled nearby.",
+  "workbookAtAGlance": "Chasing Shade\n\nBackup titles\nWhere the Umbrella Goes / Three O'Clock Side\n\nAt a glance\n122 BPM, A minor\nVoice: Cool, distant female voice\nLength: about 3 minutes",
+  "qa": {
+    "title": "Chasing Shade",
+    "id": "ps_12",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.8,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -13.9,
+        "peakDbfs": -0.82,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 193.2,
+        "vocalCoverage": 0.428,
+        "vocalSpanSec": [
+          15.6,
+          188.7
+        ],
+        "vocalF0MedianHz": 294,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.889,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.3,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -13.3,
+        "peakDbfs": -0.93,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 192.2,
+        "vocalCoverage": 0.417,
+        "vocalSpanSec": [
+          15.7,
+          176.7
+        ],
+        "vocalF0MedianHz": 285,
+        "vocalF0P25Hz": 248,
+        "lyricLineRecall": 0.889,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "House",
+  "year": 2011
+}

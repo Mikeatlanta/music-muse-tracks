@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Disco at Noon",
+  "prompt": "[Intro: arpeggiated synth bass, disco hi-hat, string swell]\n\n[Verse 1: dramatic low female voice]\nThey said wait until it's dark\nThey said glitter needs a night\nI have waited long enough\nHang it up, turn on the light\n\n[Chorus: full Italo-disco groove, long falling melody]\nDisco at noon\nMirrorball in the daylight\nDiamonds on the water, shadows on the wall\nSequins in the sun and nowhere to be at all\nI don't need the moon\nDisco at noon\n\n[Verse 2: voice closer, guitar chopping]\nI was young, I stayed out late\nNow I'm up before the heat\nSame two feet, same silver shoes\nDifferent hour, same old beat\n\n[Chorus: full Italo-disco groove, long falling melody]\nDisco at noon\nMirrorball in the daylight\nDiamonds on the water, shadows on the wall\nSequins in the sun and nowhere to be at all\nI don't need the moon\nDisco at noon\n\n[Instrumental: synth solo over the arpeggio]\n\n[Bridge: beat thins, voice and strings]\nWhy save it? Why save it?\nThe light is here. I'm here.\n\n[Final Chorus: everything in, backing voices answering]\nDisco at noon\nMirrorball in the daylight\nDiamonds on the water, shadows on the wall\nSequins in the sun and nowhere to be at all\nI don't need the moon\nDisco at noon\n\n[Outro: arpeggio and strings fade]",
+  "style": "2020 revival of 1983 Italo-disco, low rich androgynous female vocal sung with drama and long held notes that fall at the ends of phrases, two backing voices answering at the end, 112 BPM, C minor, cool gliding glamorous pulse, sixteenth-note arpeggiated analogue synth bass, steady disco kick with off-beat open hi-hat, crisp snare with gated reverb, lush string-machine chords, clean chopped rhythm guitar, bright synth solo, electric toms, glossy wide analogue mix, dramatic, elegant, bittersweet",
+  "negativeTags": "male lead vocals, rap, trap hi-hats, acoustic folk, dubstep, distorted guitar, lo-fi, slow ballad",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "callBackUrl": "https://example.com/cb"
+}

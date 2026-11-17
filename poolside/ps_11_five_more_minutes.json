@@ -1,0 +1,118 @@
+{
+  "id": "ps_11",
+  "title": "Five More Minutes",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 11,
+  "slug": "ps_11_five_more_minutes",
+  "inspiredBy": "Never Be Like You (Flume feat. Kai, 2016)",
+  "leadVoice": "Female, sweet and breathy with a slight break when she pushes, sung close. Pleading in the choruses without belting. Her voice is chopped into single syllables in the drops. A quiet spoken line ends it.",
+  "model": "V6",
+  "style": "2016 future bass, sweet breathy female vocal with a slight break sung close and pleading without belting, voice chopped into syllables in the drops, quiet spoken ending, 80 BPM half-time with fast hi-hats, D major, slow swelling tender feel with a heavy sighing drop, detuned swelling saw-synth chords with heavy sidechain, deep sub bass, slow kick with crisp snap, reversed cymbals, glassy bell melody, pitched vocal chops, wide glossy pumping mix, wistful, loving, bittersweet",
+  "negativeTags": "male lead vocals, acoustic guitar, four-on-the-floor house, rap, rock drums, brass, fast tempo, aggressive dubstep growls",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: swelling synth chords, reversed cymbal]\n\n[Verse 1: sweet female voice, close]\nPool lights just came on\nSomebody's folding towels\nI know the sign says eight\nI know what time it is now\n\n[Pre-Chorus: chords swell, snap on two and four]\nDon't say it yet\nDon't say it yet\n\n[Chorus: voice pleading, slow heavy beat]\nFive more minutes\nThe light's still good\nFive more minutes\nI'd stop it if I could\nI'm not asking for the summer back\nJust five more minutes of that\n\n[Drop: lurching synth-chord melody, vocal chops]\n(Five, five, more, more)\n\n[Verse 2: voice softer, sub bass under]\nYou were small, then you were not\nI blinked through quite a lot\nNow your feet hang off the chair\nI'm memorizing you, right there\n\n[Chorus: voice pleading, slow heavy beat]\nFive more minutes\nThe light's still good\nFive more minutes\nI'd stop it if I could\nI'm not asking for the summer back\nJust five more minutes of that\n\n[Drop: lurching synth-chord melody, fuller]\n(Five, five, more, more)\n\n[Outro: chords fade, one voice, no beat]\nOkay. Okay. Let's go in.",
+  "taskId": "e827f43b0ad80ec3dac9171a1b597577",
+  "sunoClipIds": [
+    "56225b99-de5b-4117-9e92-1042800318f7",
+    "ea8610ca-43dd-4afb-8ff0-ab500b925776"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919196388,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "56225b99-de5b-4117-9e92-1042800318f7",
+      "durationSec": 209.48,
+      "file": "poolside/ps_11_five_more_minutes_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ea8610ca-43dd-4afb-8ff0-ab500b925776",
+      "durationSec": 209.8,
+      "file": "poolside/ps_11_five_more_minutes_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_11_five_more_minutes_req.json",
+    "poolside/ps_11_five_more_minutes_rec.json"
+  ],
+  "cover": "poolside/covers/ps_11_five_more_minutes.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 80 BPM half-time (160 double-time hi-hats), 4/4, D major. Slow, swelling and tender, with a heavy, sighing drop.\n\nVOICE: Female, sweet and breathy with a slight break when she pushes, sung close. Pleading in the choruses without belting. Her voice is chopped into single syllables in the drops. A quiet spoken line ends it.\n\nINSTRUMENTS: Detuned, swelling saw-synth chords with heavy sidechain, a deep sub bass, a slow kick and a crisp snap or snare on two and four, fast ticking hi-hats, reversed cymbals, a glassy bell melody, pitched vocal chops.\n\nARRANGEMENT MAP: 0:00 Intro, swelling chords. 0:12 Verse 1. 0:36 Pre-chorus. 0:46 Chorus 1. 1:10 Drop 1. 1:34 Verse 2. 1:58 Chorus 2. 2:22 Drop 2, fuller. 2:50 Outro, chords fade, the spoken line at 3:06.\n\nPRODUCTION & MIX: 2016 future bass: wide, glossy and pumping, chords that breathe with the kick, vocal dry and close on top.\n\nSIGNATURE MOMENT: 'Now your feet hang off the chair' at 1:46.\n\nSTATION FIT: 8 p.m., last light. The only half-time track in the evening set; its slow, heavy drop marks the turn from day to night.\n\nEMOTIONAL ARC: Bargaining, aching, memorising, letting go.",
+  "workbookAtAGlance": "Five More Minutes\n\nBackup titles\nDon't Fold the Towels Yet / The Light's Still Good\n\nAt a glance\n80 BPM, D major\nVoice: Sweet, pleading female voice\nLength: about 3 minutes 15",
+  "qa": {
+    "title": "Five More Minutes",
+    "id": "ps_11",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 209.5,
+        "measuredBpm": 76.0,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 5.0,
+        "lufs": -13.9,
+        "peakDbfs": -1.46,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 3.1,
+        "contentEndSec": 207.9,
+        "vocalCoverage": 0.592,
+        "vocalSpanSec": [
+          16.6,
+          189.2
+        ],
+        "vocalF0MedianHz": 296,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.88,
+        "lyricUnclearSections": [
+          "Drop"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 209.8,
+        "measuredBpm": 78.3,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 2.1,
+        "lufs": -13.7,
+        "peakDbfs": -0.67,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 207.6,
+        "vocalCoverage": 0.636,
+        "vocalSpanSec": [
+          14.5,
+          193.4
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 292,
+        "lyricLineRecall": 0.8,
+        "lyricUnclearSections": [
+          "Verse 2"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Future Bass",
+  "year": 2016
+}

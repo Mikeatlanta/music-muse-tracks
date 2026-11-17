@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Drink Some Water",
+  "prompt": "[Intro: whistled melody, fingerpicked guitar]\n\n[Verse 1: soft kind male voice]\nOld man on the next chair over\nHat on his face, half asleep\nSaid, \"Son, you look like I did\nRunning on nothing but speed\"\n\n[Chorus: bouncing bass, guitar, whistle after each line]\n\"Drink some water\nCall your mother\nGet some sleep, it's not a crime\nSay you're sorry sooner\nThat's the whole list. Took me a lifetime.\"\n\n[Drop: whistled melody, bass and kick, no vocal]\n\n[Verse 2: voice warmer, shaker in]\nI laughed, then I thought about it\nForty feet of pool and sky\nHe was snoring by the second verse\nI wrote it on my hand to keep it dry\n\n[Chorus: bouncing bass, guitar, whistle after each line]\n\"Drink some water\nCall your mother\nGet some sleep, it's not a crime\nSay you're sorry sooner\nThat's the whole list. Took me a lifetime.\"\n\n[Drop: whistled melody, fuller, handclaps]\n\n[Outro: guitar and whistle, a phone dialing, spoken]\nHi, Mom. No, nothing's wrong.",
+  "style": "Mid-2010s acoustic dance track, soft plain warm male vocal sung quietly like a story told at a table, whistled melody as the hook, spoken phone greeting at the end, 121 BPM, E minor, gentle bouncing friendly feel, fingerpicked steel-string acoustic guitar, low bouncing slightly distorted off-beat bass, soft four-on-the-floor kick, shakers, handclaps, warm pad, instrumental whistle drops, natural close warm mix, kind, wise, easygoing",
+  "negativeTags": "female lead vocals, belting, bright synth leads, rap, trap hi-hats, distorted guitar, fast tempo, dark mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

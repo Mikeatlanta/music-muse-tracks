@@ -1,0 +1,116 @@
+{
+  "id": "ps_17",
+  "title": "Summer of the High Dive",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 17,
+  "slug": "ps_17_summer_of_the_high_dive",
+  "inspiredBy": "Back on 74 (Jungle, 2023)",
+  "leadVoice": "Group falsetto: three or four men and women singing together in close harmony throughout, light and sweet, with no single lead. In the bridge they sing in overlapping rounds.",
+  "model": "V6",
+  "style": "Modern recording of a 1970s soul band, group falsetto vocals with three or four men and women in close harmony throughout and no single lead, overlapping rounds in the bridge, 98 BPM, F major, soft strolling warm groove, walking electric bass, handclaps on two and four, dry soft drum kit, Rhodes electric piano, clean wah-wah rhythm guitar, small string section, tambourine, flute line at the end, warm dry slightly saturated mix, nostalgic, tender, joyful",
+  "negativeTags": "solo belting lead, rap, trap hi-hats, EDM drop, distorted guitar, harsh synths, fast tempo, dark mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: handclaps, walking bass, soft electric piano]\n\n[Verse 1: falsetto group vocals, easy]\nQuarter for the locker, key on a pin\nHot concrete and the smell of the wind\nRadio on the lifeguard chair\nEverybody I knew was there\n\n[Chorus: full soul groove, strings]\nThat was the summer of the high dive\nTen feet tall and terrified\nWhole pool looking, toes on the edge\nThen the sky, then the water, then my head\nCame up laughing, came up new\nSummer of the high dive\nI think about it when I'm scared, I do\n\n[Verse 2: falsetto, guitar answering]\nSnack bar window, frozen lime\nMy brother counting, one more time\nMama waving from the shallow end\nI'd give a lot to jump for her again\n\n[Chorus: full soul groove, strings]\nThat was the summer of the high dive\nTen feet tall and terrified\nWhole pool looking, toes on the edge\nThen the sky, then the water, then my head\nCame up laughing, came up new\nSummer of the high dive\nI think about it when I'm scared, I do\n\n[Bridge: claps and bass only, voices in rounds]\nClimb, climb (don't look down)\nClimb, climb (don't look down)\n\n[Final Chorus: full groove, strings higher]\nThat was the summer of the high dive\nTen feet tall and terrified\nWhole pool looking, toes on the edge\nThen the sky, then the water, then my head\nCame up laughing, came up new\nSummer of the high dive\nI think about it when I'm scared, I do\n\n[Outro: handclaps, a diving board springing, a far splash]",
+  "taskId": "1fa99821eb3a71fc3af974433c575122",
+  "sunoClipIds": [
+    "dd9e1abe-9f01-4f72-bf2d-054cff2b46c9",
+    "64569470-64e7-4e2d-aebd-fbc071e2ed85"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919232580,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "dd9e1abe-9f01-4f72-bf2d-054cff2b46c9",
+      "durationSec": 204.0,
+      "file": "poolside/ps_17_summer_of_the_high_dive_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "64569470-64e7-4e2d-aebd-fbc071e2ed85",
+      "durationSec": 204.76,
+      "file": "poolside/ps_17_summer_of_the_high_dive_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_17_summer_of_the_high_dive_req.json",
+    "poolside/ps_17_summer_of_the_high_dive_rec.json"
+  ],
+  "cover": "poolside/covers/ps_17_summer_of_the_high_dive.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 98 BPM, 4/4, F major. A soft, strolling 1970s soul groove, warm and nostalgic.\n\nVOICE: Group falsetto: three or four men and women singing together in close harmony throughout, light and sweet, with no single lead. In the bridge they sing in overlapping rounds.\n\nINSTRUMENTS: A walking electric bass, handclaps on two and four, a dry, soft drum kit, a Rhodes electric piano, a clean wah-wah rhythm guitar, a small string section, tambourine, a flute line in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, claps and bass. 0:12 Verse 1. 0:38 Chorus 1. 1:10 Verse 2. 1:36 Chorus 2. 2:08 Bridge, claps and bass. 2:24 Final chorus. 2:56 Outro, claps, a diving board and a splash, ends 3:08.\n\nPRODUCTION & MIX: Modern recording of a 1974 soul band: warm, dry and slightly saturated, strings sweet, voices blended into one sound.\n\nSIGNATURE MOMENT: 'Then the sky, then the water, then my head' at 0:50.\n\nSTATION FIT: 1:30 p.m., early afternoon. The most nostalgic song in the pack and the one closest to live soul, a rest from programmed beats.\n\nEMOTIONAL ARC: Remembering, afraid, flying, grateful.",
+  "workbookAtAGlance": "Summer of the High Dive\n\nBackup titles\nTen Feet Tall / Quarter for the Locker\n\nAt a glance\n98 BPM, F major\nVoice: Falsetto group vocals, male and female\nLength: about 3 minutes 10",
+  "qa": {
+    "title": "Summer of the High Dive",
+    "id": "ps_17",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.0,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 98,
+        "bpmErrPct": 1.4,
+        "lufs": -13.9,
+        "peakDbfs": -0.23,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 201.9,
+        "vocalCoverage": 0.743,
+        "vocalSpanSec": [
+          17.8,
+          195.5
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 131,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.8,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 98,
+        "bpmErrPct": 1.4,
+        "lufs": -14.5,
+        "peakDbfs": -0.87,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 203.3,
+        "vocalCoverage": 0.7,
+        "vocalSpanSec": [
+          20.5,
+          193.8
+        ],
+        "vocalF0MedianHz": 261,
+        "vocalF0P25Hz": 146,
+        "lyricLineRecall": 0.871,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Soul",
+  "year": 2023
+}

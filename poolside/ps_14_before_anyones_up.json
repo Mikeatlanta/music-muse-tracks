@@ -1,0 +1,118 @@
+{
+  "id": "ps_14",
+  "title": "Before Anyone's Up",
+  "collection": "poolside",
+  "album": "Poolside Chill Reimagined",
+  "track": 14,
+  "slug": "ps_14_before_anyones_up",
+  "inspiredBy": "Intro (The xx, 2009)",
+  "leadVoice": "No words. A man and a woman sing soft, low 'ooh' and 'ah' notes in unison and then a third apart, very quietly, as another instrument. No lead vocal.",
+  "model": "V6",
+  "style": "Minimal indie electronic instrumental, no lyrics, a man and a woman singing soft low wordless ooh and ah notes in unison and thirds as another instrument, 100 BPM, A minor, sparse cool expectant feel with a slow steady pulse, clean reverbed electric guitar playing a five-note figure, second guitar harmony, deep plain bass guitar answering in the gaps, soft kick and rim click entering late, single handclap, faint synth pad, minimal dry mix with one long reverb and a lot of silence, calm, anticipatory, dawn",
+  "negativeTags": "sung lyrics, rap, belting, distorted guitar, busy drums, brass, big drop, fast tempo",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 165,
+  "customMode": true,
+  "lyricsSource": "Poolside Chill Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: one clean guitar note, long reverb, birds]\n\n[Section A: clean guitar figure, bass answers]\n\n[Section B: wordless voices enter, soft and low]\nOoh, ah\nOoh, ah\n\n[Build: kick and rim click enter, guitar doubles]\nOoh, ah\n(Ooh)\n\n[Section C: full pattern, second guitar harmony]\nOoh, ah, ooh\nAh, ooh, ah\n\n[Break: guitar alone, one bass note]\n\n[Final Section: everything together, voices higher]\nOoh, ah\nOoh, ah\n\n[Outro: last guitar note rings, one clean splash]",
+  "taskId": "d0405bf5cec50acf57e7b49a38758dd1",
+  "sunoClipIds": [
+    "7a1caffd-23b5-49c0-9cea-7f5c5dcfe19f",
+    "3edc9c27-e55c-4090-8137-8fab64e327eb"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919206599,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "7a1caffd-23b5-49c0-9cea-7f5c5dcfe19f",
+      "durationSec": 164.56,
+      "file": "poolside/ps_14_before_anyones_up_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "3edc9c27-e55c-4090-8137-8fab64e327eb",
+      "durationSec": 164.8,
+      "file": "poolside/ps_14_before_anyones_up_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "poolside/ps_14_before_anyones_up_req.json",
+    "poolside/ps_14_before_anyones_up_rec.json"
+  ],
+  "cover": "poolside/covers/ps_14_before_anyones_up.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 100 BPM, 4/4, A minor. Sparse, cool and expectant, with a slow steady pulse.\n\nVOICE: No words. A man and a woman sing soft, low 'ooh' and 'ah' notes in unison and then a third apart, very quietly, as another instrument. No lead vocal.\n\nINSTRUMENTS: A clean electric guitar with reverb playing a five-note figure, a second guitar harmonising later, a deep, plain bass guitar answering in the gaps, a soft kick and rim click from the build, a single handclap on four, a faint synth pad, morning birds and one splash.\n\nARRANGEMENT MAP: 0:00 Intro, one note and birds. 0:10 Section A, guitar and bass. 0:34 Section B, voices. 0:58 Build, drums in. 1:20 Section C, full pattern. 1:44 Break, guitar alone. 1:54 Final section. 2:18 Outro, last note and the splash at 2:26.\n\nPRODUCTION & MIX: Minimal and dry with one long reverb: every sound separate and clear, a lot of silence, bass deep and soft.\n\nSIGNATURE MOMENT: The single splash at 2:26, the only loud thing in the piece.\n\nSTATION FIT: 7 a.m., the station's first track of the day and a natural ident bed. Short, instrumental and calm.\n\nEMOTIONAL ARC: Still, waiting, gathering, begun.",
+  "workbookAtAGlance": "Before Anyone's Up\n\nBackup titles\nFirst In the Water / Flat as Glass\n\nAt a glance\n100 BPM, A minor\nVoice: Wordless male and female voices\nLength: about 2 minutes 30",
+  "qa": {
+    "title": "Before Anyone's Up",
+    "id": "ps_14",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 164.6,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 100,
+        "bpmErrPct": 0.6,
+        "lufs": -13.3,
+        "peakDbfs": -0.32,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 162.5,
+        "vocalCoverage": 0.242,
+        "vocalSpanSec": [
+          23.0,
+          150.0
+        ],
+        "vocalF0MedianHz": 301,
+        "vocalF0P25Hz": 246,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 0% of lines recognised (unclear: Section C)"
+        ],
+        "durationSec": 164.8,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 100,
+        "bpmErrPct": 0.6,
+        "lufs": -13.6,
+        "peakDbfs": -0.7,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 163.0,
+        "vocalCoverage": 0.331,
+        "vocalSpanSec": [
+          19.5,
+          150.1
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 224,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Section C"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other",
+  "year": 2009
+}

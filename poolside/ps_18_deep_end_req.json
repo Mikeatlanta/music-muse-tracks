@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Deep End",
+  "prompt": "[Intro: underwater hum, slow detuned chords]\n\n[Verse 1: slowed female voice, pitched slightly down]\nLights are on beneath the blue\nJust us, nobody new\nToes on the edge where the tile turns dark\nCount it down, let go of the wall\n\n[Build: chords rising, snare roll, voice repeating]\nInto the deep, into the deep\n\n[Drop: huge swelling synth chords, half-time beat, vocal chops]\nDeep end (deep end)\nDeep, deep end\n\n[Verse 2: voice closer, bass sustaining]\nCan't touch the floor, I don't care\nYour shoulder's there, your shoulder's there\nAll the shallow years I spent\nHolding on to cement\n\n[Build: chords rising, snare roll, voice repeating]\nInto the deep, into the deep\n\n[Drop: bigger swell, bell melody on top]\nDeep end (deep end)\nDeep, deep end\n\n[Outro: chords dissolve, water, a whisper]\nI've got you.",
+  "style": "2013 future garage and early future bass love theme, bright female pop vocal slowed and pitched slightly down singing short dreamy phrases, voice chopped and echoed in the drops, one whispered ending, 80 BPM half-time, E major, slow vast romantic feel, massive detuned saw-synth chords swelling with the kick, deep sub bass, slow heavy kick with wide snare, glassy bell melody, white-noise sweeps, warm saturated enormous drops and quiet close verses, tender, weightless, nocturnal",
+  "negativeTags": "male lead vocals, rap, acoustic guitar, four-on-the-floor house, brass, rock drums, fast tempo, harsh distortion",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

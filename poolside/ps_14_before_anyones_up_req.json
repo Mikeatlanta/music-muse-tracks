@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Before Anyone's Up",
+  "prompt": "[Intro: one clean guitar note, long reverb, birds]\n\n[Section A: clean guitar figure, bass answers]\n\n[Section B: wordless voices enter, soft and low]\nOoh, ah\nOoh, ah\n\n[Build: kick and rim click enter, guitar doubles]\nOoh, ah\n(Ooh)\n\n[Section C: full pattern, second guitar harmony]\nOoh, ah, ooh\nAh, ooh, ah\n\n[Break: guitar alone, one bass note]\n\n[Final Section: everything together, voices higher]\nOoh, ah\nOoh, ah\n\n[Outro: last guitar note rings, one clean splash]",
+  "style": "Minimal indie electronic instrumental, no lyrics, a man and a woman singing soft low wordless ooh and ah notes in unison and thirds as another instrument, 100 BPM, A minor, sparse cool expectant feel with a slow steady pulse, clean reverbed electric guitar playing a five-note figure, second guitar harmony, deep plain bass guitar answering in the gaps, soft kick and rim click entering late, single handclap, faint synth pad, minimal dry mix with one long reverb and a lot of silence, calm, anticipatory, dawn",
+  "negativeTags": "sung lyrics, rap, belting, distorted guitar, busy drums, brass, big drop, fast tempo",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 165,
+  "callBackUrl": "https://example.com/cb"
+}
