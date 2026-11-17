@@ -1,0 +1,115 @@
+{
+  "id": "e60_05",
+  "title": "Slow Is How I Fell",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 5,
+  "slug": "e60_05_slow_is_how_i_fell",
+  "inspiredBy": "Can't Help Falling in Love (Elvis Presley, 1961)",
+  "leadVoice": "Male baritone, low, warm and close, crooned softly with a slight tremble and a touch of echo. He never raises his voice. A male vocal quartet hums and sings soft harmony behind him.",
+  "model": "V6",
+  "style": "1961 crooned love ballad, low warm close male baritone crooning softly with a slight tremble and a touch of echo, never raising his voice, male vocal quartet humming soft harmony behind, 68 BPM with a rocking triplet feel like a cradle, D major, very slow and tender, celeste sounding like a music box, nylon-string guitar slow arpeggios, Hawaiian steel guitar sighing between lines, upright bass, barely-there brushed drums, soft piano, warm intimate softly echoing mix, romantic, gentle, timeless",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, fast tempo, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: music-box celeste, soft nylon guitar arpeggio]\n\n[Verse 1: low, crooned, very gentle]\nThey say look before you leap\nThey say still waters run deep\nI didn't look and I didn't run\nSlow is how I fell\n\n[Verse 2: backing voices hum, bass enters]\nThey say love is a lightning strike\nThey say you'll know it at first sight\nI knew you for a thousand days\nSlow is how I fell\n\n[Bridge: melody rises, steel guitar sighs]\nLike a leaf that takes all autumn to come down\nLike the snow that fills a sleeping town\nSome things arrive without a sound\n\n[Verse 3: low, backing voices in harmony]\nHere's my arm and here's the rest of my days\nI have learned you in a hundred ways\nI didn't jump, I only stayed\nSlow is how I fell\n\n[Bridge: melody rises, steel guitar sighs]\nLike a leaf that takes all autumn to come down\nLike the snow that fills a sleeping town\nSome things arrive without a sound\n\n[Final Verse: slower, voice and backing voices together]\nHere's my arm and here's the rest of my days\nI am falling still, in all the ways\nSlow is how I fell\nFor you\n\n[Outro: celeste alone, last note ringing]",
+  "taskId": "3d58adbd55b2c79d32edd56fc1b8c162",
+  "sunoClipIds": [
+    "5939263b-3b41-430a-a6ae-b3436dd10934",
+    "313ca0cf-86be-4817-9eae-72760256eac8"
+  ],
+  "created": "Nov 17, 2026 10:16 AM ET",
+  "createTimeMs": 1794928603837,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "5939263b-3b41-430a-a6ae-b3436dd10934",
+      "durationSec": 184.16,
+      "file": "sixties/e60_05_slow_is_how_i_fell_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "313ca0cf-86be-4817-9eae-72760256eac8",
+      "durationSec": 184.76,
+      "file": "sixties/e60_05_slow_is_how_i_fell_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_05_slow_is_how_i_fell_req.json",
+    "sixties/e60_05_slow_is_how_i_fell_rec.json"
+  ],
+  "cover": "sixties/covers/e60_05_slow_is_how_i_fell.jpg",
+  "cleanCover": "sixties/covers/clean/e60_05_slow_is_how_i_fell.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 68 BPM with each beat divided in three, so it rocks like a cradle. D major. Very slow, tender and calm.\n\nVOICE: Male baritone, low, warm and close, crooned softly with a slight tremble and a touch of echo. He never raises his voice. A male vocal quartet hums and sings soft harmony behind him.\n\nINSTRUMENTS: A celeste, which sounds like a music box, playing the introduction. A nylon-string guitar picking slow arpeggios. A Hawaiian-style steel guitar sighing between lines. Upright bass. Brushed drums, barely there. Soft piano.\n\nARRANGEMENT MAP: 0:00 Intro, celeste and guitar. 0:12 Verse 1. 0:36 Verse 2, backing voices. 1:00 Bridge. 1:22 Verse 3. 1:46 Bridge. 2:08 Final verse, slowing. 2:36 Outro, the celeste alone, ending at 2:48.\n\nPRODUCTION & MIX: Early-1960s Nashville studio ballad: warm, intimate and softly echoing, the voice very close, everything else gentle and far.\n\nSIGNATURE MOMENT: The celeste, like a music box being opened, in the first three seconds.\n\nMODERN POINT OF VIEW: The original is about not being able to stop. This is about not having hurried. 'I knew you for a thousand days' is a love song for people who took their time, or who found it late.\n\nEMOTIONAL ARC: Calm, wonder, devotion.",
+  "workbookAtAGlance": "Slow Is How I Fell\n\nBackup titles\nAll Autumn to Come Down / The Rest of My Days\n\nAt a glance\n68 BPM (rocking, in threes), D major\nVoice: Low crooning male baritone\nLength: about 2 minutes 50",
+  "year": 1961,
+  "qa": {
+    "title": "Slow Is How I Fell",
+    "id": "e60_05",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 184.2,
+        "measuredBpm": 66.3,
+        "bpmFactor": 1,
+        "targetBpm": 68,
+        "bpmErrPct": 2.6,
+        "lufs": -14.1,
+        "peakDbfs": -0.31,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 181.4,
+        "vocalCoverage": 0.612,
+        "vocalSpanSec": [
+          13.6,
+          168.8
+        ],
+        "vocalF0MedianHz": 174,
+        "vocalF0P25Hz": 147,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 184.8,
+        "measuredBpm": 69.8,
+        "bpmFactor": 1,
+        "targetBpm": 68,
+        "bpmErrPct": 2.7,
+        "lufs": -14.0,
+        "peakDbfs": -0.35,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 182.4,
+        "vocalCoverage": 0.624,
+        "vocalSpanSec": [
+          12.8,
+          176.0
+        ],
+        "vocalF0MedianHz": 166,
+        "vocalF0P25Hz": 140,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other"
+}

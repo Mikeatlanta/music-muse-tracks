@@ -1,0 +1,120 @@
+{
+  "id": "e60_10",
+  "title": "Look, the Ice Is Leaving",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 10,
+  "slug": "e60_10_look_the_ice_is_leaving",
+  "inspiredBy": "Here Comes the Sun (The Beatles, 1969)",
+  "leadVoice": "Male tenor, gentle, unforced and a little reedy, sung with a smile. Soft harmony voices join in the choruses. No strain anywhere.",
+  "model": "V6",
+  "style": "1969 British studio pop, gentle unforced slightly reedy male tenor vocal sung with a smile, soft harmony voices in the choruses, 129 BPM, A major, light bright and gently bouncing, acoustic guitar fretted high on the neck playing a bright bell-like picked figure, early synthesizer playing a soft sliding ribbon of melody, electric bass, light drums, small string section, handclaps in odd groupings, bridge with uneven tripping bars under one repeated phrase, warm clear airy mix, relieved, hopeful, sunny",
+  "negativeTags": "drum machine, distorted guitar, female lead vocals, rap, dark mood, heavy drums, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bright acoustic guitar figure high on the neck, soft synth]\n\n[Verse 1: gentle, close, guitar and voice]\nHey, old friend, the gutters are running\nHey, old friend, there's a bird on the line\nHey, old friend, the neighbours are out in their shirtsleeves\n\n[Chorus: harmonies join, handclaps]\nLook, the ice is leaving\nLook, look, look\nLook, the ice is leaving\nAnd we're still here\n\n[Verse 2: bass and light drums enter]\nHey, old friend, it felt like for ever\nHey, old friend, we were counting the days\nHey, old friend, there's a kid on a bike with no jacket\n\n[Chorus: harmonies, handclaps, strings]\nLook, the ice is leaving\nLook, look, look\nLook, the ice is leaving\nAnd we're still here\n\n[Bridge: uneven tripping bars, one phrase repeated, synth rising]\nDrip, drip, drip, there it goes\nDrip, drip, drip, there it goes\nDrip, drip, drip, there it goes\nDrip, drip, drip, there it goes\nDrip, drip, drip, there it goes\n\n[Verse 3: full band, warm]\nHey, old friend, the windows are open\nHey, old friend, I can feel my hands\nHey, old friend, I believe we came through it\n\n[Final Chorus: everyone, strings and synth, clapping]\nLook, the ice is leaving\nLook, look, look\nLook, the ice is leaving\nAnd we're still here\nWe're still here\n\n[Outro: guitar figure, synth line, last chord ringing]",
+  "taskId": "c736468910415ef29c53cccd5a6ed6bb",
+  "sunoClipIds": [
+    "1419f2b3-c39d-4c7f-b036-39fc1abc39d7",
+    "9acb03cf-6e89-4b53-979d-13d1fb314907"
+  ],
+  "created": "Nov 17, 2026 10:18 AM ET",
+  "createTimeMs": 1794928720911,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "1419f2b3-c39d-4c7f-b036-39fc1abc39d7",
+      "durationSec": 194.8,
+      "file": "sixties/e60_10_look_the_ice_is_leaving_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "9acb03cf-6e89-4b53-979d-13d1fb314907",
+      "durationSec": 194.52,
+      "file": "sixties/e60_10_look_the_ice_is_leaving_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_10_look_the_ice_is_leaving_req.json",
+    "sixties/e60_10_look_the_ice_is_leaving_rec.json"
+  ],
+  "cover": "sixties/covers/e60_10_look_the_ice_is_leaving.jpg",
+  "cleanCover": "sixties/covers/clean/e60_10_look_the_ice_is_leaving.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 129 BPM, mostly 4/4, A major. Light, bright and gently bouncing. The bridge trips through bars of uneven length, as if stepping over puddles.\n\nVOICE: Male tenor, gentle, unforced and a little reedy, sung with a smile. Soft harmony voices join in the choruses. No strain anywhere.\n\nINSTRUMENTS: An acoustic guitar played with a capo high on the neck, giving a bright, bell-like picked figure. An early synthesiser playing a soft, sliding ribbon of melody. Electric bass. A light drum kit. A small string section. Handclaps in odd groupings during the bridge.\n\nARRANGEMENT MAP: 0:00 Intro, the guitar figure and synth line. 0:14 Verse 1. 0:34 Chorus 1. 0:50 Verse 2. 1:10 Chorus 2. 1:26 Bridge, one phrase five times over uneven bars with rising synth. 1:56 Verse 3. 2:16 Final chorus. 2:40 Outro, the guitar figure and a ringing chord at 2:55.\n\nPRODUCTION & MIX: Late-1960s studio pop: warm, clear and airy, the acoustic guitar very bright and close, everything else gentle.\n\nSIGNATURE MOMENT: The guitar figure in the first four seconds.\n\nMODERN POINT OF VIEW: The friend is an old one and the winter was long in more than one sense. 'And we're still here' turns a song about weather into one about having lasted.\n\nEMOTIONAL ARC: Noticing, relief, gratitude.",
+  "workbookAtAGlance": "Look, the Ice Is Leaving\n\nBackup titles\nBird on the Line / And We're Still Here\n\nAt a glance\n129 BPM, A major\nVoice: Gentle male tenor, soft harmonies\nLength: about 3 minutes",
+  "year": 1969,
+  "qa": {
+    "title": "Look, the Ice Is Leaving",
+    "id": "e60_10",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 129,
+        "bpmErrPct": 0.2,
+        "lufs": -13.0,
+        "peakDbfs": -0.04,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 193.1,
+        "vocalCoverage": 0.663,
+        "vocalSpanSec": [
+          11.3,
+          180.2
+        ],
+        "vocalF0MedianHz": 248,
+        "vocalF0P25Hz": 221,
+        "lyricLineRecall": 0.704,
+        "lyricUnclearSections": [
+          "Verse 2",
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.5,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 129,
+        "bpmErrPct": 0.2,
+        "lufs": -13.1,
+        "peakDbfs": -0.41,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 192.9,
+        "vocalCoverage": 0.674,
+        "vocalSpanSec": [
+          7.6,
+          179.0
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 245,
+        "lyricLineRecall": 0.778,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

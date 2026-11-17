@@ -1,0 +1,119 @@
+{
+  "id": "e60_15",
+  "title": "So Long, Miss Abernathy",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 15,
+  "slug": "e60_15_so_long_miss_abernathy",
+  "inspiredBy": "Mrs. Robinson (Simon & Garfunkel, 1968)",
+  "leadVoice": "Two men singing in very close harmony, one high and pure, one lower and drier, so tightly matched that they sound like one voice with two edges. The verses are delivered quickly and lightly. Nonsense syllables at the start and end.",
+  "model": "V6",
+  "style": "1968 New York folk rock, two men in very close harmony, one high and pure, one lower and drier, sounding like one voice with two edges, quick light verses, nonsense syllables at the start and end, 92 BPM, F-sharp major, light chugging shuffle, two acoustic guitars strummed percussively with a chugging low-string figure, congas, electric bass, brushed drums, tambourine, soft electric guitar fills, crisp dry close mix, wry, wistful, affectionate",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, heavy drums, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 190,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: chugging acoustic guitars, congas, nonsense syllables]\nDoo-da-lee, doo-da-lee-dee\nDoo-da-lee, doo-da-lee-dee\n\n[Chorus: two voices in close harmony]\nWe see you there, Miss Abernathy\nThe kettle's on for more than only you\n(Ooh, ooh, ooh)\nStay as you are, Miss Abernathy\nThe avenue is leaning on you\n(Hey, hey, hey)\n\n[Verse 1: quick, sly, guitars and bass]\nShe taught the whole of Elm Street how to find a middle C\nShe kept a tin of buttons and a list of who owed tea\nShe knew which kids were hungry and she never said a word\nJust left a plate, and nobody heard\n\n[Chorus: two voices in close harmony]\nWe see you there, Miss Abernathy\nThe kettle's on for more than only you\n(Ooh, ooh, ooh)\nStay as you are, Miss Abernathy\nThe avenue is leaning on you\n(Hey, hey, hey)\n\n[Verse 2: quick, wistful]\nWhere did they go, the ones who knew our names?\nThe milkman and the crossing guard, the man who fixed the trains\nThe lady at the library who saved the book for you\nThe street is asking, and it's overdue\n\n[Verse 3: slower, guitars soften]\nThe van came on a Thursday and the piano went downstairs\nShe waved from the back window like a queen with other cares\nShe left the tin of buttons on the wall beside the gate\nWe shared them out, we stayed up late\n\n[Final Chorus: two voices, fuller, tambourine]\nSo long, so long, Miss Abernathy\nThe kettle's on, it's on for only you\n(Ooh, ooh, ooh)\nGo as you are, Miss Abernathy\nThe avenue will try to carry through\n(Hey, hey, hey)\n\n[Outro: guitars and nonsense syllables, fading]\nDoo-da-lee, doo-da-lee-dee",
+  "taskId": "c4407e30c5bf5994e2c9257d460d63fa",
+  "sunoClipIds": [
+    "d0dd0731-edc1-4f0c-bee8-448537872a60",
+    "6b1837ed-7cba-4fb5-8c92-1cc0a92ceef1"
+  ],
+  "created": "Nov 17, 2026 10:17 AM ET",
+  "createTimeMs": 1794928647105,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "d0dd0731-edc1-4f0c-bee8-448537872a60",
+      "durationSec": 189.4,
+      "file": "sixties/e60_15_so_long_miss_abernathy_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "6b1837ed-7cba-4fb5-8c92-1cc0a92ceef1",
+      "durationSec": 189.56,
+      "file": "sixties/e60_15_so_long_miss_abernathy_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_15_so_long_miss_abernathy_req.json",
+    "sixties/e60_15_so_long_miss_abernathy_rec.json"
+  ],
+  "cover": "sixties/covers/e60_15_so_long_miss_abernathy.jpg",
+  "cleanCover": "sixties/covers/clean/e60_15_so_long_miss_abernathy.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 92 BPM, 4/4, F-sharp major. A light, chugging folk-rock shuffle. Wry on the surface and wistful underneath.\n\nVOICE: Two men singing in very close harmony, one high and pure, one lower and drier, so tightly matched that they sound like one voice with two edges. The verses are delivered quickly and lightly. Nonsense syllables at the start and end.\n\nINSTRUMENTS: Two acoustic guitars strummed percussively, one playing a chugging low-string figure. Congas. Electric bass. A light drum kit with brushes. Tambourine. A soft electric guitar adding small fills.\n\nARRANGEMENT MAP: 0:00 Intro, guitars, congas and syllables. 0:12 Chorus. 0:34 Verse 1. 0:54 Chorus. 1:16 Verse 2. 1:36 Verse 3, slower and softer. 2:00 Final chorus with changed words. 2:24 Outro, guitars and syllables fading by 2:50.\n\nPRODUCTION & MIX: Late-1960s New York folk-rock: crisp, dry and close, acoustic guitars bright, the two voices blended and centred.\n\nSIGNATURE MOMENT: The turn at 1:16, when a song about one woman suddenly asks where everyone like her has gone.\n\nMODERN POINT OF VIEW: The watchers in the original are cold and the woman is being managed. Here the watchers are grateful neighbours, and the vanished heroes are local. It is the view of people who now are the old ones on the street.\n\nEMOTIONAL ARC: Affection, a wider sadness, a fond farewell.",
+  "workbookAtAGlance": "So Long, Miss Abernathy\n\nBackup titles\nA Plate, and Nobody Heard / The Ones Who Knew Our Names\n\nAt a glance\n92 BPM, F-sharp major\nVoice: Two male voices in close harmony\nLength: about 2 minutes 55",
+  "year": 1968,
+  "qa": {
+    "title": "So Long, Miss Abernathy",
+    "id": "e60_15",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 108 BPM vs 92 target (~17% off)"
+        ],
+        "durationSec": 189.4,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 92,
+        "bpmErrPct": 17.0,
+        "lufs": -14.0,
+        "peakDbfs": -0.12,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 187.6,
+        "vocalCoverage": 0.743,
+        "vocalSpanSec": [
+          5.5,
+          179.9
+        ],
+        "vocalF0MedianHz": 261,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.818,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.21 dBFS (5 clipped sample, inaudible)"
+        ],
+        "durationSec": 189.6,
+        "measuredBpm": 129.2,
+        "bpmFactor": 0.67,
+        "targetBpm": 92,
+        "bpmErrPct": 6.4,
+        "lufs": -13.7,
+        "peakDbfs": 0.21,
+        "clipSamples": 5,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 187.4,
+        "vocalCoverage": 0.777,
+        "vocalSpanSec": [
+          4.9,
+          184.1
+        ],
+        "vocalF0MedianHz": 233,
+        "vocalF0P25Hz": 196,
+        "lyricLineRecall": 0.818,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Folk Rock"
+}

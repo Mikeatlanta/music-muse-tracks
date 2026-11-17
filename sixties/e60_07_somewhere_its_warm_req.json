@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Somewhere It's Warm",
+  "prompt": "[Intro: fingerpicked twelve-string guitar, a soft cymbal]\n\n[Verse 1: lead voice, the group echoes each line]\nIce on the inside (ice on the inside)\nOf the window pane (of the window pane)\nI put on two sweaters (I put on two sweaters)\nAnd I walk in the rain (walk in the rain)\n\n[Chorus: four-part harmony, full band]\nSomewhere it's warm (somewhere it's warm)\nSomebody's sleeves are rolled\nSomewhere it's warm\nAnd I'm here in the cold\nDreaming of somewhere, somewhere it's warm\n\n[Verse 2: lead voice, the group echoes]\nThere's a laundromat on Fourth Street (laundromat on Fourth Street)\nWith the dryers going round (the dryers going round)\nI sit there with a paperback (sit there with a paperback)\nThe lady lets me stay (she lets me stay)\n\n[Chorus: four-part harmony, full band]\nSomewhere it's warm (somewhere it's warm)\nSomebody's sleeves are rolled\nSomewhere it's warm\nAnd I'm here in the cold\nDreaming of somewhere, somewhere it's warm\n\n[Flute Solo: breathy alto flute, over the verse chords]\n\n[Verse 3: lead voice, the group echoes, more urgent]\nIf I had the bus fare (if I had the bus fare)\nI'd be gone today (I'd be gone today)\nBut somebody needs me (somebody needs me)\nSo I guess I'll stay (I guess I'll stay)\n\n[Final Chorus: four-part harmony, held last chord]\nSomewhere it's warm (somewhere it's warm)\nSomebody's sleeves are rolled\nSomewhere it's warm\nAnd I'm here in the cold\nDreaming of somewhere\nSomewhere it's warm",
+  "style": "1965 Los Angeles folk rock, two men and two women in four-part harmony, a male tenor singing each verse line and the other three echoing it a moment later, a strong clear female alto prominent, full bright harmony choruses ending on a long held chord, 112 BPM, C-sharp minor, brisk pulse under a cool wistful tune, fingerpicked acoustic twelve-string guitar, breathy alto flute solo, steady simple drums, electric bass, strummed acoustic guitar, tremolo electric guitar, tambourine, bright slightly reverberant mix, wistful, longing",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, rap, heavy drums, bright major-key pop, autotune, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 175,
+  "callBackUrl": "https://example.com/cb"
+}

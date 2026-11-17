@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Meet Me at the Jukebox",
+  "prompt": "[Intro: four drum hits, boom, ba-boom, crack, then wall of sound]\n\n[Verse 1: young lead, trembling vibrato, castanets]\nFirst time I saw you by the record machine\nYou had a nickel and I had a dream\nYou played the one I would have played\nI knew right then the plans I'd made\n\n[Pre-Chorus: backing voices rise, strings swell]\nSo if you want to find me\nYou know the place\n\n[Chorus: lead and backing voices, the full wall]\nMeet me, meet me at the jukebox\n(Meet me at the jukebox)\nPick the one we know\n(Whoa, oh, oh, oh)\nMeet me at the jukebox\nAnd don't let go\n\n[Verse 2: same voice, the same tune, decades later]\nFifty years and the diner's gone\nSomebody else's name is on\nThe sign, but I still know the spot\nWhere you said \"yes\" and I said \"what?\"\n\n[Pre-Chorus: backing voices rise, strings swell]\nSo if you want to find me\nYou know the place\n\n[Chorus: lead and backing voices, the full wall]\nMeet me, meet me at the jukebox\n(Meet me at the jukebox)\nPick the one we know\n(Whoa, oh, oh, oh)\nMeet me at the jukebox\nAnd don't let go\n\n[Instrumental: strings play the chorus melody, castanets]\n\n[Break: everything stops, the four drum hits again]\n\n[Final Chorus: everyone, lead ad-libbing over the top]\nMeet me, meet me at the jukebox\n(Meet me at the jukebox)\nPick the one we know\n(Whoa, oh, oh, oh)\nMeet me at the jukebox\nAnd don't let go\n\n[Outro: backing hook repeating, long echo, fade]\n(Whoa, oh, oh, oh)",
+  "style": "1963 girl group wall of sound, young woman lead with a bright nasal slightly tough voice and fast trembling vibrato, three women singing echoes and a wordless whoa hook behind her in heavy echo, 130 BPM, E major, grand swaying beat with a Latin lilt, opens with four solo drum hits, then several pianos, guitars, basses, horns and a full string section all playing together in a large echo chamber, castanets, maracas, tambourine, drum break before the last chorus, mono dense echo-drenched mix, innocent, romantic, enormous",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, male lead vocals, rap, dry modern mix, autotune, EDM",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 175,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Look, the Ice Is Leaving",
+  "prompt": "[Intro: bright acoustic guitar figure high on the neck, soft synth]\n\n[Verse 1: gentle, close, guitar and voice]\nHey, old friend, the gutters are running\nHey, old friend, there's a bird on the line\nHey, old friend, the neighbours are out in their shirtsleeves\n\n[Chorus: harmonies join, handclaps]\nLook, the ice is leaving\nLook, look, look\nLook, the ice is leaving\nAnd we're still here\n\n[Verse 2: bass and light drums enter]\nHey, old friend, it felt like for ever\nHey, old friend, we were counting the days\nHey, old friend, there's a kid on a bike with no jacket\n\n[Chorus: harmonies, handclaps, strings]\nLook, the ice is leaving\nLook, look, look\nLook, the ice is leaving\nAnd we're still here\n\n[Bridge: uneven tripping bars, one phrase repeated, synth rising]\nDrip, drip, drip, there it goes\nDrip, drip, drip, there it goes\nDrip, drip, drip, there it goes\nDrip, drip, drip, there it goes\nDrip, drip, drip, there it goes\n\n[Verse 3: full band, warm]\nHey, old friend, the windows are open\nHey, old friend, I can feel my hands\nHey, old friend, I believe we came through it\n\n[Final Chorus: everyone, strings and synth, clapping]\nLook, the ice is leaving\nLook, look, look\nLook, the ice is leaving\nAnd we're still here\nWe're still here\n\n[Outro: guitar figure, synth line, last chord ringing]",
+  "style": "1969 British studio pop, gentle unforced slightly reedy male tenor vocal sung with a smile, soft harmony voices in the choruses, 129 BPM, A major, light bright and gently bouncing, acoustic guitar fretted high on the neck playing a bright bell-like picked figure, early synthesizer playing a soft sliding ribbon of melody, electric bass, light drums, small string section, handclaps in odd groupings, bridge with uneven tripping bars under one repeated phrase, warm clear airy mix, relieved, hopeful, sunny",
+  "negativeTags": "drum machine, distorted guitar, female lead vocals, rap, dark mood, heavy drums, autotune, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

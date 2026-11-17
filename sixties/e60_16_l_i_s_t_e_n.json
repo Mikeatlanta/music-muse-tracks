@@ -1,0 +1,115 @@
+{
+  "id": "e60_16",
+  "title": "L-I-S-T-E-N",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 16,
+  "slug": "e60_16_l_i_s_t_e_n",
+  "inspiredBy": "Respect (Aretha Franklin, 1967)",
+  "leadVoice": "A woman with a commanding, gospel-trained voice: huge, bright and completely in control, with shouts, slides and growls. Three backing singers answer her with tight 'ooh's and short phrases, then fire off a repeated phrase very fast in the vamp.",
+  "model": "V6",
+  "style": "1967 soul cut live in the studio, commanding gospel-trained female lead vocal, huge bright and in control with shouts, slides and growls, three female backing singers answering with tight oohs and firing off a rapid repeated phrase in the vamp, 115 BPM, C major, hard-driving strutting groove, punchy horn section, stinging electric guitar lick, driving drums with busy hi-hat, fat walking electric bass, hammered piano, gritty tenor saxophone solo, a break where the band stops and a word is spelled out over drums, raw tight loud mix, proud, sharp, triumphant",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, male lead vocals, slow ballad, autotune, EDM, strings",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 165,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: horn stabs, guitar lick, driving drums]\n\n[Verse 1: commanding, the backing singers answer]\nI've been talking since you walked in (ooh)\nYou've been nodding at your chin (ooh)\nI told you twice about my day\nYou said \"uh-huh\" and looked away\n\n[Chorus: lead and backing singers trading]\nAll I'm asking (ooh)\nIs for you to listen (just a minute)\nWhen I'm talking (just a minute)\nPut it down (put it down, put it down)\n\n[Verse 2: commanding, more heat]\nI don't need you to fix a thing (ooh)\nI don't need flowers, I don't need a ring (ooh)\nI need two ears and a little time\nYou give me yours, I'll give you mine\n\n[Chorus: lead and backing singers trading]\nAll I'm asking (ooh)\nIs for you to listen (just a minute)\nWhen I'm talking (just a minute)\nPut it down (put it down, put it down)\n\n[Saxophone Solo: tenor sax, gritty, eight bars]\n\n[Break: band stops, spelled out over drums only]\nL-I-S-T-E-N\nSay it back to me again\nL-I-S-T-E-N\nEars before your mouth, my friend\n\n[Vamp: full band, backing singers rapid-fire, lead ad-libbing]\n(Hear me out, hear me out, hear me out, hear me out)\nA little listening\n(Just a minute, just a minute)\nOh, is that so hard?\n(Hear me out, hear me out, hear me out, hear me out)\n\n[Outro: vamp continues, fast fade]",
+  "taskId": "92d37cf7c0114c0be3f4ec3696888a71",
+  "sunoClipIds": [
+    "892e679e-f336-4c00-842f-4d9b089809d4",
+    "754a8dda-97b4-4f24-bf1c-3b6812baddc1"
+  ],
+  "created": "Nov 17, 2026 10:17 AM ET",
+  "createTimeMs": 1794928651109,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "892e679e-f336-4c00-842f-4d9b089809d4",
+      "durationSec": 164.76,
+      "file": "sixties/e60_16_l_i_s_t_e_n_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "754a8dda-97b4-4f24-bf1c-3b6812baddc1",
+      "durationSec": 164.4,
+      "file": "sixties/e60_16_l_i_s_t_e_n_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_16_l_i_s_t_e_n_req.json",
+    "sixties/e60_16_l_i_s_t_e_n_rec.json"
+  ],
+  "cover": "sixties/covers/e60_16_l_i_s_t_e_n.jpg",
+  "cleanCover": "sixties/covers/clean/e60_16_l_i_s_t_e_n.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 115 BPM, 4/4, C major. A hard-driving, strutting soul groove. Proud, sharp and impossible to argue with.\n\nVOICE: A woman with a commanding, gospel-trained voice: huge, bright and completely in control, with shouts, slides and growls. Three backing singers answer her with tight 'ooh's and short phrases, then fire off a repeated phrase very fast in the vamp.\n\nINSTRUMENTS: A punchy horn section (trumpets and saxophones). A stinging electric guitar lick. A driving drum kit with a snare on the backbeat and a busy hi-hat. A fat, walking electric bass. Piano hammering chords. A gritty tenor saxophone for the solo. Tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, horns and guitar. 0:08 Verse 1. 0:28 Chorus 1. 0:42 Verse 2. 1:02 Chorus 2. 1:16 Saxophone solo. 1:32 Break: the band stops and the word is spelled out over drums. 1:48 Vamp, with the backing singers' rapid phrase and the lead ad-libbing. 2:14 Outro, the vamp fading quickly by 2:28.\n\nPRODUCTION & MIX: Late-1960s soul cut live in the studio: raw, tight and loud, horns and voice in front, everything recorded together.\n\nSIGNATURE MOMENT: The spelling at 1:32, with the band stopped.\n\nMODERN POINT OF VIEW: The thing demanded is attention, in an age when nobody looks up. 'I don't need you to fix a thing' is the line people in long relationships recognise instantly.\n\nEMOTIONAL ARC: Irritation, authority, triumph.",
+  "workbookAtAGlance": "L-I-S-T-E-N\n\nBackup titles\nEars Before Your Mouth / Just a Minute\n\nAt a glance\n115 BPM, C major\nVoice: Commanding female soul voice, sharp backing singers\nLength: about 2 minutes 30",
+  "year": 1967,
+  "qa": {
+    "title": "L-I-S-T-E-N",
+    "id": "e60_16",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 164.8,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 115,
+        "bpmErrPct": 2.3,
+        "lufs": -14.1,
+        "peakDbfs": -0.38,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 163.1,
+        "vocalCoverage": 0.668,
+        "vocalSpanSec": [
+          6.4,
+          151.2
+        ],
+        "vocalF0MedianHz": 573,
+        "vocalF0P25Hz": 522,
+        "lyricLineRecall": 0.96,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 164.4,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 115,
+        "bpmErrPct": 2.3,
+        "lufs": -13.5,
+        "peakDbfs": -1.17,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 162.8,
+        "vocalCoverage": 0.682,
+        "vocalSpanSec": [
+          7.5,
+          146.8
+        ],
+        "vocalF0MedianHz": 580,
+        "vocalF0P25Hz": 493,
+        "lyricLineRecall": 0.96,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Soul"
+}

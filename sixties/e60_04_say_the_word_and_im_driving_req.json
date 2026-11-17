@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Say the Word and I'm Driving",
+  "prompt": "[Intro: tambourine, bass and drums driving, a horn stab]\n\n[Verse 1: male tenor, warm and quick]\nNow if you ever need me, I don't care about the hour\nI don't care about the weather or the miles\nYou've got my number written on the wall beside the phone\nOne ring and I'm reaching for the keys\n\n[Chorus: both voices, horns and tambourine]\nSay the word and I'm driving\nThrough the dark and the rain\nPick a town, name a time\nI've already left the lane\nSay the word\n\n[Verse 2: female soprano, bright and sure]\nWhen we said goodbye at the station gate\nI made you a promise I don't break\nYou call, I come, it's a simple thing\nYou don't even have to let it ring\n\n[Chorus: both voices, horns and tambourine]\nSay the word and I'm driving\nThrough the dark and the rain\nPick a town, name a time\nI've already left the lane\nSay the word\n\n[Bridge: voices trading short lines, drums pushing]\n(If the bridge is out) I'll find a boat\n(If the road is closed) I'll walk\n(If you can't speak) I'll hear you anyway\nJust knock\n\n[Final Chorus: both voices ad-libbing, strings on top]\nSay the word and I'm driving\nThrough the dark and the rain\nPick a town, name a time\nI've already left the lane\nSay the word\nOh, say the word\n\n[Outro: band vamps, voices trading \"say it\", fade]",
+  "style": "1967 Detroit Motown soul duet, smooth sweet agile male tenor and bright clear female soprano, a verse each, chorus together, trading short lines in the bridge, ad-libs at the end, 130 BPM, D major, bright driving beat, melodic busy electric bass, snare on every beat with tambourine, baritone saxophone doubling the bass line, horn section, piano, vibraphone, chiming backbeat rhythm guitar, strings in the last chorus, punchy bright dense mix with natural echo, joyful, devoted, uplifting",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, rap, slow ballad, dark mood, autotune, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 170,
+  "callBackUrl": "https://example.com/cb"
+}

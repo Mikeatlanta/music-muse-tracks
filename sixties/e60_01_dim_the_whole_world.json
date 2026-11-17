@@ -1,0 +1,119 @@
+{
+  "id": "e60_01",
+  "title": "Dim the Whole World",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 1,
+  "slug": "e60_01_dim_the_whole_world",
+  "inspiredBy": "Paint It, Black (The Rolling Stones, 1966)",
+  "leadVoice": "Male, nasal and sneering, half sung and half snarled, with a London edge. He stays low in the verses and shouts the last chorus. The outro is hummed on the riff with his mouth closed.",
+  "model": "V6",
+  "style": "1966 British rock with raga influence, nasal sneering male vocal half sung and half snarled, low verses and a shouted last chorus, hummed outro, 159 BPM, E minor with an Eastern modal flavour, relentless gallop, sitar playing a droning winding riff that doubles the vocal melody, galloping tom-tom drums with almost no cymbals, pounding bass doubled on organ pedals, hard-strummed acoustic guitar, organ, castanets, raw dense slightly distorted mono-ish mix, dark, hypnotic, driven",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, bright happy pop, autotune, EDM, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: droning sitar riff alone, then galloping tom-toms]\n\n[Verse 1: sneering, low, driving beat]\nDraw the curtains on the garden, put a cloth across the glass\nUnplug the coloured lights and let the summer pass\nSomebody's laughing on the street outside my door\nI can't be doing with the brightness any more\n\n[Chorus: sitar doubles the voice, bass pounding]\nDim it, dim it, dim the whole world down\nTurn the sun to embers, turn the sky to brown\nI'll come back to colour when the colour's mine\nTill then, dim the whole world down\n\n[Verse 2: sneering, more urgent]\nThe telephone keeps lighting like a window in the night\nEvery little picture is too happy and too bright\nI walk among the neighbours and I nod and look away\nThere's nothing in the world I've got to say\n\n[Chorus: sitar doubles the voice, bass pounding]\nDim it, dim it, dim the whole world down\nTurn the sun to embers, turn the sky to brown\nI'll come back to colour when the colour's mine\nTill then, dim the whole world down\n\n[Bridge: drums drop to a heartbeat, voice close]\nNobody said the light would hurt\nNobody said\n\n[Final Chorus: full band, organ, voice shouting]\nDim it, dim it, dim the whole world down\nTurn the sun to embers, turn the sky to brown\nI'll come back to colour when the colour's mine\nTill then, dim the whole world down\n\n[Outro: humming over the sitar riff, drums gallop, fade]\nHmm, hmm-hmm, hmm\nHmm, hmm-hmm, hmm",
+  "taskId": "2a073b7d4dcb6dd2ab876b3667977fc0",
+  "sunoClipIds": [
+    "8505a6a7-b298-49e8-b885-fbe21fdf7024",
+    "79ea7f8d-a541-4058-b468-d3326b98593e"
+  ],
+  "created": "Nov 17, 2026 10:16 AM ET",
+  "createTimeMs": 1794928595827,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "8505a6a7-b298-49e8-b885-fbe21fdf7024",
+      "durationSec": 184.36,
+      "file": "sixties/e60_01_dim_the_whole_world_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "79ea7f8d-a541-4058-b468-d3326b98593e",
+      "durationSec": 184.36,
+      "file": "sixties/e60_01_dim_the_whole_world_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_01_dim_the_whole_world_req.json",
+    "sixties/e60_01_dim_the_whole_world_rec.json"
+  ],
+  "cover": "sixties/covers/e60_01_dim_the_whole_world.jpg",
+  "cleanCover": "sixties/covers/clean/e60_01_dim_the_whole_world.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 159 BPM, 4/4, E minor with an Eastern, modal flavour. A relentless gallop. Dark, hypnotic and driven.\n\nVOICE: Male, nasal and sneering, half sung and half snarled, with a London edge. He stays low in the verses and shouts the last chorus. The outro is hummed on the riff with his mouth closed.\n\nINSTRUMENTS: A sitar playing a droning, winding riff that doubles the vocal melody. Galloping tom-tom drums with almost no cymbals. A pounding bass, with the low notes doubled on organ pedals. Acoustic guitar strumming hard. Organ in the last chorus. Castanets.\n\nARRANGEMENT MAP: 0:00 Intro, the sitar alone, then the drums. 0:12 Verse 1. 0:36 Chorus 1. 0:54 Verse 2. 1:18 Chorus 2. 1:36 Bridge, the drums drop to a heartbeat. 1:50 Final chorus. 2:10 Outro, humming over the riff as the drums gallop, fading by 2:45.\n\nPRODUCTION & MIX: Mid-1960s British rock: raw, dense and slightly distorted, mostly in the middle of the stereo field, drums and sitar loud.\n\nSIGNATURE MOMENT: The sitar riff alone in the first five seconds.\n\nMODERN POINT OF VIEW: The second verse puts the unbearable brightness on a phone full of happy pictures. One new line ('I'll come back to colour when the colour's mine') is what people learn about grief after living through it.\n\nEMOTIONAL ARC: Withdrawal, anger, a promise to return.",
+  "workbookAtAGlance": "Dim the Whole World\n\nBackup titles\nToo Happy and Too Bright / When the Colour's Mine\n\nAt a glance\n159 BPM, E minor\nVoice: Sneering nasal male voice, hummed outro\nLength: about 2 minutes 50",
+  "year": 1966,
+  "qa": {
+    "title": "Dim the Whole World",
+    "id": "e60_01",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 184.4,
+        "measuredBpm": 152.0,
+        "bpmFactor": 1,
+        "targetBpm": 159,
+        "bpmErrPct": 4.4,
+        "lufs": -13.0,
+        "peakDbfs": -0.78,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 182.5,
+        "vocalCoverage": 0.576,
+        "vocalSpanSec": [
+          18.5,
+          167.2
+        ],
+        "vocalF0MedianHz": 266,
+        "vocalF0P25Hz": 225,
+        "lyricLineRecall": 0.913,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 184.4,
+        "measuredBpm": 152.0,
+        "bpmFactor": 1,
+        "targetBpm": 159,
+        "bpmErrPct": 4.4,
+        "lufs": -13.4,
+        "peakDbfs": -1.04,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 182.7,
+        "vocalCoverage": 0.564,
+        "vocalSpanSec": [
+          19.0,
+          170.4
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 217,
+        "lyricLineRecall": 0.913,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other"
+}

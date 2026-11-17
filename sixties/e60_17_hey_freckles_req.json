@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Hey, Freckles",
+  "prompt": "[Intro: lilting electric guitar figure in harmony, bass, light drums]\n\n[Verse 1: warm, raspy, quick]\nDown by the reservoir, shoes in the grass\nA bottle of pop and a bus pass\nSkipping every stone we found\nSun going down, sun going down\n\n[Chorus: band lifts, tambourine]\nHey, Freckles, you and me\nHalfway up the cherry tree\nHey, Freckles\nI can still hear the two of us go\nLa-la, la-la-dee-dah\nLa-la, la-la-dee-dah\n\n[Verse 2: warm, a little faster]\nBehind the bandstand, sharing a coat\nYou wrote your name on my hand, and I wrote\nMine on yours, and it wouldn't come clean\nWe were ten, or we might have been thirteen\n\n[Chorus: band lifts, tambourine]\nHey, Freckles, you and me\nHalfway up the cherry tree\nHey, Freckles\nI can still hear the two of us go\nLa-la, la-la-dee-dah\nLa-la, la-la-dee-dah\n\n[Bass Break: bass plays the melody alone, then guitar answers]\n\n[Verse 3: slower start, then picking up]\nNow I'm sixty-eight and the tree's a stump\nThe reservoir's a car park with a speed bump\nBut a kid went by with a nose like yours\nAll dots, and I was back outdoors\n\n[Final Chorus: full band, backing voices on the syllables]\nHey, Freckles, you and me\nHalfway up the cherry tree\nHey, Freckles\nI can still hear the two of us go\nLa-la, la-la-dee-dah\nLa-la, la-la-dee-dah\n\n[Outro: guitar figure, syllables, fade]\nLa-la, la-la-dee-dah",
+  "style": "1967 pop soul, warm raspy male tenor vocal with a soul singer's loose phrasing sliding around the beat, backing voices joining on sung syllables in the last chorus, 150 BPM, G major, light skipping beat with a Caribbean lilt, two electric guitars playing a bright lilting figure in harmony a third apart, melodic electric bass with a short solo break, light drums with a skipping pattern, acoustic rhythm guitar, tambourine, bright warm slightly rough live-feel mix, sunny, nostalgic, carefree",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, dark mood, autotune, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 190,
+  "callBackUrl": "https://example.com/cb"
+}

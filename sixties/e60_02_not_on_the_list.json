@@ -1,0 +1,115 @@
+{
+  "id": "e60_02",
+  "title": "Not on the List",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 2,
+  "slug": "e60_02_not_on_the_list",
+  "inspiredBy": "Fortunate Son (Creedence Clearwater Revival, 1969)",
+  "leadVoice": "Male tenor, raw and hoarse, shouted from the first word at the top of his range with a rough Southern-sounding bark, though the band was from California. No harmonies. Shouted ad-libs in the fade.",
+  "model": "V6",
+  "style": "1969 swamp rock protest song, raw hoarse male tenor shouted from the first word at the top of his range with a rough bark, no harmonies, shouted ad-libs in the fade, 132 BPM, G major, three chords, driving stomp, electric guitar playing a short jabbing descending riff with a biting lightly overdriven tone, second guitar slashing chords, thumping bass, hard-hit drums with pounding floor tom, four players cut live in a room, raw dry loud mix, angry, urgent, very short",
+  "negativeTags": "synthesizer, keyboards, drum machine, female vocals, ballad, strings, autotune, EDM, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 160,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: pounding drums, jabbing guitar riff, bass]\n\n[Verse 1: shouted, raw, full band]\nThere's a door around the back for the ones who know a guy\nThere's a number you can call if your daddy's flying high\nAnd when the bill comes in, Lord, they slide it down to me\n\n[Chorus: shouted, guitars slashing]\nI'm not on the list, no\nI'm not on the list\nRun your finger down the page\nI'm not on the list\n\n[Verse 2: shouted, raw]\nWhen the flood comes up they've a house on higher ground\nWhen the bank goes bust they keep what's lying round\nAnd when they pass the plate, Lord, the plate comes round to me\n\n[Chorus: shouted, guitars slashing]\nI'm not on the list, no\nI'm not on the list\nRun your finger down the page\nI'm not on the list\n\n[Guitar Break: the riff, twice, drums driving]\n\n[Verse 3: shouted, hoarse]\nWhen the hard jobs come they've a meeting or a cold\nWhen the medals get handed out they're polished and they're bold\nAnd when it's time to dig, Lord, they hand the spade to me\n\n[Final Chorus: shouted, band at full tilt]\nI'm not on the list, no\nI'm not on the list\nRun your finger down the page\nI'm the one they missed\n\n[Outro: riff, shouted ad-libs, fast fade]\nNot on the list\nNo, no",
+  "taskId": "b6479623ace5ab1ec405c73aad390966",
+  "sunoClipIds": [
+    "b6929d59-385a-4170-8306-02d5d040dc60",
+    "657f061a-2112-491c-ba97-a6f0149fb13a"
+  ],
+  "created": "Nov 17, 2026 10:16 AM ET",
+  "createTimeMs": 1794928600816,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "b6929d59-385a-4170-8306-02d5d040dc60",
+      "durationSec": 159.52,
+      "file": "sixties/e60_02_not_on_the_list_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "657f061a-2112-491c-ba97-a6f0149fb13a",
+      "durationSec": 159.92,
+      "file": "sixties/e60_02_not_on_the_list_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_02_not_on_the_list_req.json",
+    "sixties/e60_02_not_on_the_list_rec.json"
+  ],
+  "cover": "sixties/covers/e60_02_not_on_the_list.jpg",
+  "cleanCover": "sixties/covers/clean/e60_02_not_on_the_list.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 132 BPM, 4/4, G major. Three chords, a driving stomp. Angry, loud and brief.\n\nVOICE: Male tenor, raw and hoarse, shouted from the first word at the top of his range with a rough Southern-sounding bark, though the band was from California. No harmonies. Shouted ad-libs in the fade.\n\nINSTRUMENTS: An electric guitar playing a short, jabbing, descending riff with a biting, slightly overdriven tone. A second guitar slashing chords. A thumping bass. A drum kit hit hard, with a pounding floor tom in the intro. Nothing else.\n\nARRANGEMENT MAP: 0:00 Intro, drums and the riff. 0:10 Verse 1. 0:28 Chorus 1. 0:42 Verse 2. 1:00 Chorus 2. 1:14 Guitar break. 1:28 Verse 3. 1:46 Final chorus. 2:00 Outro, the riff and shouted ad-libs, fading quickly by 2:20.\n\nPRODUCTION & MIX: Late-1960s swamp rock cut live: raw, dry and loud, four players in a room, no decoration.\n\nSIGNATURE MOMENT: The first shouted line landing on top of the riff at 0:10.\n\nMODERN POINT OF VIEW: The targets are today's: bailouts, back doors, guest lists. The form is unchanged because the complaint is. It is deliberately written so that no side can claim it cleanly.\n\nEMOTIONAL ARC: Anger, start to finish.",
+  "workbookAtAGlance": "Not on the List\n\nBackup titles\nA Door Around the Back / They Hand the Spade to Me\n\nAt a glance\n132 BPM, G major\nVoice: Raw shouted male tenor\nLength: about 2 minutes 25",
+  "year": 1969,
+  "qa": {
+    "title": "Not on the List",
+    "id": "e60_02",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 159.5,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 132,
+        "bpmErrPct": 3.0,
+        "lufs": -13.3,
+        "peakDbfs": -1.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 158.0,
+        "vocalCoverage": 0.498,
+        "vocalSpanSec": [
+          5.7,
+          151.6
+        ],
+        "vocalF0MedianHz": 325,
+        "vocalF0P25Hz": 300,
+        "lyricLineRecall": 0.909,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 159.9,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 132,
+        "bpmErrPct": 3.0,
+        "lufs": -13.5,
+        "peakDbfs": -1.45,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 158.1,
+        "vocalCoverage": 0.432,
+        "vocalSpanSec": [
+          6.1,
+          144.9
+        ],
+        "vocalF0MedianHz": 341,
+        "vocalF0P25Hz": 329,
+        "lyricLineRecall": 0.955,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other"
+}

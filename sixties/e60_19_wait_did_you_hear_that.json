@@ -1,0 +1,115 @@
+{
+  "id": "e60_19",
+  "title": "Wait, Did You Hear That",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 19,
+  "slug": "e60_19_wait_did_you_hear_that",
+  "inspiredBy": "For What It's Worth (Buffalo Springfield, 1966)",
+  "leadVoice": "Male tenor, calm, young and level, almost conversational, with no vibrato. He does not raise his voice at any point. A small group of voices delivers the chorus in a hushed near-speech with handclaps.",
+  "model": "V6",
+  "style": "1966 Los Angeles folk rock, calm young level male tenor vocal with no vibrato, almost conversational and never raised, small group delivering the chorus in hushed near-speech with handclaps, 98 BPM, E major, slow spare and watchful, electric guitar playing two ringing bell-like harmonic notes over and over, second guitar with slow tremolo, plain soft bass, drums playing only a slow kick and snare tap, fuzzy restrained lead guitar answering the vocal, acoustic guitar, dry sparse clear mix, tense, uneasy, thoughtful",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, loud heavy drums, bright happy pop, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 175,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: two ringing guitar harmonics repeating, slow kick, tremolo]\n\n[Verse 1: calm, quiet, close]\nSomething's shifted on our street\nCouldn't tell you what or who\nPeople talking through their teeth\nEverybody's sure, and nobody knew\n\n[Chorus: group voices, nearly spoken, handclaps]\nHold on, hush\nWait, did you hear that?\nEverybody listen to the ground\n\n[Verse 2: calm, bass and drums steady]\nUsed to wave across the hedges\nNow we check each other's signs\nSomebody moved all the edges\nSomebody redrew the lines\n\n[Chorus: group voices, nearly spoken, handclaps]\nHold on, hush\nWait, did you hear that?\nEverybody listen to the ground\n\n[Verse 3: calm, lead guitar answering]\nEvery pocket's got a siren\nEvery siren wants a crowd\nIt's a business, being frightened\nAnd the business is loud\n\n[Chorus: group voices, nearly spoken, handclaps]\nHold on, hush\nWait, did you hear that?\nEverybody listen to the ground\n\n[Guitar Solo: fuzzy, restrained, over the two-note figure]\n\n[Verse 4: quietest, almost whispered]\nPut the kettle on for someone\nKnock on a door you never do\nIt's a small thing, and it's some one\nAnd it might be me or you\n\n[Final Chorus: group voices, repeating, fading]\nHold on, hush\nWait, did you hear that?\nEverybody listen to the ground\nHold on, hush",
+  "taskId": "7b7192da89a7d0ee60affe8192190355",
+  "sunoClipIds": [
+    "c5a2b47e-964d-490f-8c3c-51b8bb0f4903",
+    "9037dbe6-4ce9-4132-a689-c002c9b71644"
+  ],
+  "created": "Nov 17, 2026 10:18 AM ET",
+  "createTimeMs": 1794928683252,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "c5a2b47e-964d-490f-8c3c-51b8bb0f4903",
+      "durationSec": 174.76,
+      "file": "sixties/e60_19_wait_did_you_hear_that_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "9037dbe6-4ce9-4132-a689-c002c9b71644",
+      "durationSec": 174.36,
+      "file": "sixties/e60_19_wait_did_you_hear_that_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_19_wait_did_you_hear_that_req.json",
+    "sixties/e60_19_wait_did_you_hear_that_rec.json"
+  ],
+  "cover": "sixties/covers/e60_19_wait_did_you_hear_that.jpg",
+  "cleanCover": "sixties/covers/clean/e60_19_wait_did_you_hear_that.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 98 BPM, 4/4, E major. Slow, spare and watchful. Tense because it is so quiet.\n\nVOICE: Male tenor, calm, young and level, almost conversational, with no vibrato. He does not raise his voice at any point. A small group of voices delivers the chorus in a hushed near-speech with handclaps.\n\nINSTRUMENTS: An electric guitar playing two ringing, bell-like harmonic notes over and over, the song's signal. A second guitar with a slow tremolo effect. A plain, soft bass. A drum kit playing only a slow kick and a tap on the snare. A lead guitar with a fuzzy but restrained tone answering the vocal. Acoustic guitar.\n\nARRANGEMENT MAP: 0:00 Intro, the two ringing notes and a slow kick. 0:10 Verse 1. 0:30 Chorus 1. 0:42 Verse 2. 1:02 Chorus 2. 1:14 Verse 3. 1:34 Chorus 3. 1:46 Guitar solo. 2:00 Verse 4, the quietest. 2:20 Final chorus, repeating and fading by 2:38.\n\nPRODUCTION & MIX: Mid-1960s Los Angeles folk-rock: dry, sparse and clear, with a lot of empty space around a few sounds.\n\nSIGNATURE MOMENT: The two ringing guitar notes in the first three seconds.\n\nMODERN POINT OF VIEW: The original only says stop and look. The last verse here offers something to do: put the kettle on for someone, knock on a door. That is an older person's answer to unrest, and it is small on purpose.\n\nEMOTIONAL ARC: Unease, observation, a quiet suggestion.",
+  "workbookAtAGlance": "Wait, Did You Hear That\n\nBackup titles\nSomebody Redrew the Lines / Business Is Loud\n\nAt a glance\n98 BPM, E major\nVoice: Calm male tenor, group on the chorus\nLength: about 2 minutes 40",
+  "year": 1966,
+  "qa": {
+    "title": "Wait, Did You Hear That",
+    "id": "e60_19",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 174.8,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 98,
+        "bpmErrPct": 1.4,
+        "lufs": -14.1,
+        "peakDbfs": -0.4,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 173.2,
+        "vocalCoverage": 0.514,
+        "vocalSpanSec": [
+          10.9,
+          164.6
+        ],
+        "vocalF0MedianHz": 209,
+        "vocalF0P25Hz": 165,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 174.4,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 98,
+        "bpmErrPct": 1.4,
+        "lufs": -13.9,
+        "peakDbfs": -0.01,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 172.2,
+        "vocalCoverage": 0.428,
+        "vocalSpanSec": [
+          11.1,
+          157.8
+        ],
+        "vocalF0MedianHz": 209,
+        "vocalF0P25Hz": 165,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Folk Rock"
+}

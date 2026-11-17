@@ -34176,5 +34176,2335 @@
       ]
     },
     "genre": "Disco"
+  },
+  {
+    "id": "e60_01",
+    "title": "Dim the Whole World",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 1,
+    "slug": "e60_01_dim_the_whole_world",
+    "inspiredBy": "Paint It, Black (The Rolling Stones, 1966)",
+    "leadVoice": "Male, nasal and sneering, half sung and half snarled, with a London edge. He stays low in the verses and shouts the last chorus. The outro is hummed on the riff with his mouth closed.",
+    "model": "V6",
+    "style": "1966 British rock with raga influence, nasal sneering male vocal half sung and half snarled, low verses and a shouted last chorus, hummed outro, 159 BPM, E minor with an Eastern modal flavour, relentless gallop, sitar playing a droning winding riff that doubles the vocal melody, galloping tom-tom drums with almost no cymbals, pounding bass doubled on organ pedals, hard-strummed acoustic guitar, organ, castanets, raw dense slightly distorted mono-ish mix, dark, hypnotic, driven",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, bright happy pop, autotune, EDM, saxophone",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 185,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: droning sitar riff alone, then galloping tom-toms]\n\n[Verse 1: sneering, low, driving beat]\nDraw the curtains on the garden, put a cloth across the glass\nUnplug the coloured lights and let the summer pass\nSomebody's laughing on the street outside my door\nI can't be doing with the brightness any more\n\n[Chorus: sitar doubles the voice, bass pounding]\nDim it, dim it, dim the whole world down\nTurn the sun to embers, turn the sky to brown\nI'll come back to colour when the colour's mine\nTill then, dim the whole world down\n\n[Verse 2: sneering, more urgent]\nThe telephone keeps lighting like a window in the night\nEvery little picture is too happy and too bright\nI walk among the neighbours and I nod and look away\nThere's nothing in the world I've got to say\n\n[Chorus: sitar doubles the voice, bass pounding]\nDim it, dim it, dim the whole world down\nTurn the sun to embers, turn the sky to brown\nI'll come back to colour when the colour's mine\nTill then, dim the whole world down\n\n[Bridge: drums drop to a heartbeat, voice close]\nNobody said the light would hurt\nNobody said\n\n[Final Chorus: full band, organ, voice shouting]\nDim it, dim it, dim the whole world down\nTurn the sun to embers, turn the sky to brown\nI'll come back to colour when the colour's mine\nTill then, dim the whole world down\n\n[Outro: humming over the sitar riff, drums gallop, fade]\nHmm, hmm-hmm, hmm\nHmm, hmm-hmm, hmm",
+    "taskId": "2a073b7d4dcb6dd2ab876b3667977fc0",
+    "sunoClipIds": [
+      "8505a6a7-b298-49e8-b885-fbe21fdf7024",
+      "79ea7f8d-a541-4058-b468-d3326b98593e"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928595827,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "8505a6a7-b298-49e8-b885-fbe21fdf7024",
+        "durationSec": 184.36,
+        "file": "sixties/e60_01_dim_the_whole_world_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "79ea7f8d-a541-4058-b468-d3326b98593e",
+        "durationSec": 184.36,
+        "file": "sixties/e60_01_dim_the_whole_world_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_01_dim_the_whole_world_req.json",
+      "sixties/e60_01_dim_the_whole_world_rec.json"
+    ],
+    "cover": "sixties/covers/e60_01_dim_the_whole_world.jpg",
+    "cleanCover": "sixties/covers/clean/e60_01_dim_the_whole_world.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 159 BPM, 4/4, E minor with an Eastern, modal flavour. A relentless gallop. Dark, hypnotic and driven.\n\nVOICE: Male, nasal and sneering, half sung and half snarled, with a London edge. He stays low in the verses and shouts the last chorus. The outro is hummed on the riff with his mouth closed.\n\nINSTRUMENTS: A sitar playing a droning, winding riff that doubles the vocal melody. Galloping tom-tom drums with almost no cymbals. A pounding bass, with the low notes doubled on organ pedals. Acoustic guitar strumming hard. Organ in the last chorus. Castanets.\n\nARRANGEMENT MAP: 0:00 Intro, the sitar alone, then the drums. 0:12 Verse 1. 0:36 Chorus 1. 0:54 Verse 2. 1:18 Chorus 2. 1:36 Bridge, the drums drop to a heartbeat. 1:50 Final chorus. 2:10 Outro, humming over the riff as the drums gallop, fading by 2:45.\n\nPRODUCTION & MIX: Mid-1960s British rock: raw, dense and slightly distorted, mostly in the middle of the stereo field, drums and sitar loud.\n\nSIGNATURE MOMENT: The sitar riff alone in the first five seconds.\n\nMODERN POINT OF VIEW: The second verse puts the unbearable brightness on a phone full of happy pictures. One new line ('I'll come back to colour when the colour's mine') is what people learn about grief after living through it.\n\nEMOTIONAL ARC: Withdrawal, anger, a promise to return.",
+    "workbookAtAGlance": "Dim the Whole World\n\nBackup titles\nToo Happy and Too Bright / When the Colour's Mine\n\nAt a glance\n159 BPM, E minor\nVoice: Sneering nasal male voice, hummed outro\nLength: about 2 minutes 50",
+    "year": 1966,
+    "qa": {
+      "title": "Dim the Whole World",
+      "id": "e60_01",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 184.4,
+          "measuredBpm": 152.0,
+          "bpmFactor": 1,
+          "targetBpm": 159,
+          "bpmErrPct": 4.4,
+          "lufs": -13.0,
+          "peakDbfs": -0.78,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 182.5,
+          "vocalCoverage": 0.576,
+          "vocalSpanSec": [
+            18.5,
+            167.2
+          ],
+          "vocalF0MedianHz": 266,
+          "vocalF0P25Hz": 225,
+          "lyricLineRecall": 0.913,
+          "lyricUnclearSections": [
+            "Outro"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 184.4,
+          "measuredBpm": 152.0,
+          "bpmFactor": 1,
+          "targetBpm": 159,
+          "bpmErrPct": 4.4,
+          "lufs": -13.4,
+          "peakDbfs": -1.04,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 182.7,
+          "vocalCoverage": 0.564,
+          "vocalSpanSec": [
+            19.0,
+            170.4
+          ],
+          "vocalF0MedianHz": 247,
+          "vocalF0P25Hz": 217,
+          "lyricLineRecall": 0.913,
+          "lyricUnclearSections": [
+            "Outro"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other"
+  },
+  {
+    "id": "e60_02",
+    "title": "Not on the List",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 2,
+    "slug": "e60_02_not_on_the_list",
+    "inspiredBy": "Fortunate Son (Creedence Clearwater Revival, 1969)",
+    "leadVoice": "Male tenor, raw and hoarse, shouted from the first word at the top of his range with a rough Southern-sounding bark, though the band was from California. No harmonies. Shouted ad-libs in the fade.",
+    "model": "V6",
+    "style": "1969 swamp rock protest song, raw hoarse male tenor shouted from the first word at the top of his range with a rough bark, no harmonies, shouted ad-libs in the fade, 132 BPM, G major, three chords, driving stomp, electric guitar playing a short jabbing descending riff with a biting lightly overdriven tone, second guitar slashing chords, thumping bass, hard-hit drums with pounding floor tom, four players cut live in a room, raw dry loud mix, angry, urgent, very short",
+    "negativeTags": "synthesizer, keyboards, drum machine, female vocals, ballad, strings, autotune, EDM, saxophone",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 160,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: pounding drums, jabbing guitar riff, bass]\n\n[Verse 1: shouted, raw, full band]\nThere's a door around the back for the ones who know a guy\nThere's a number you can call if your daddy's flying high\nAnd when the bill comes in, Lord, they slide it down to me\n\n[Chorus: shouted, guitars slashing]\nI'm not on the list, no\nI'm not on the list\nRun your finger down the page\nI'm not on the list\n\n[Verse 2: shouted, raw]\nWhen the flood comes up they've a house on higher ground\nWhen the bank goes bust they keep what's lying round\nAnd when they pass the plate, Lord, the plate comes round to me\n\n[Chorus: shouted, guitars slashing]\nI'm not on the list, no\nI'm not on the list\nRun your finger down the page\nI'm not on the list\n\n[Guitar Break: the riff, twice, drums driving]\n\n[Verse 3: shouted, hoarse]\nWhen the hard jobs come they've a meeting or a cold\nWhen the medals get handed out they're polished and they're bold\nAnd when it's time to dig, Lord, they hand the spade to me\n\n[Final Chorus: shouted, band at full tilt]\nI'm not on the list, no\nI'm not on the list\nRun your finger down the page\nI'm the one they missed\n\n[Outro: riff, shouted ad-libs, fast fade]\nNot on the list\nNo, no",
+    "taskId": "b6479623ace5ab1ec405c73aad390966",
+    "sunoClipIds": [
+      "b6929d59-385a-4170-8306-02d5d040dc60",
+      "657f061a-2112-491c-ba97-a6f0149fb13a"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928600816,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "b6929d59-385a-4170-8306-02d5d040dc60",
+        "durationSec": 159.52,
+        "file": "sixties/e60_02_not_on_the_list_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "657f061a-2112-491c-ba97-a6f0149fb13a",
+        "durationSec": 159.92,
+        "file": "sixties/e60_02_not_on_the_list_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_02_not_on_the_list_req.json",
+      "sixties/e60_02_not_on_the_list_rec.json"
+    ],
+    "cover": "sixties/covers/e60_02_not_on_the_list.jpg",
+    "cleanCover": "sixties/covers/clean/e60_02_not_on_the_list.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 132 BPM, 4/4, G major. Three chords, a driving stomp. Angry, loud and brief.\n\nVOICE: Male tenor, raw and hoarse, shouted from the first word at the top of his range with a rough Southern-sounding bark, though the band was from California. No harmonies. Shouted ad-libs in the fade.\n\nINSTRUMENTS: An electric guitar playing a short, jabbing, descending riff with a biting, slightly overdriven tone. A second guitar slashing chords. A thumping bass. A drum kit hit hard, with a pounding floor tom in the intro. Nothing else.\n\nARRANGEMENT MAP: 0:00 Intro, drums and the riff. 0:10 Verse 1. 0:28 Chorus 1. 0:42 Verse 2. 1:00 Chorus 2. 1:14 Guitar break. 1:28 Verse 3. 1:46 Final chorus. 2:00 Outro, the riff and shouted ad-libs, fading quickly by 2:20.\n\nPRODUCTION & MIX: Late-1960s swamp rock cut live: raw, dry and loud, four players in a room, no decoration.\n\nSIGNATURE MOMENT: The first shouted line landing on top of the riff at 0:10.\n\nMODERN POINT OF VIEW: The targets are today's: bailouts, back doors, guest lists. The form is unchanged because the complaint is. It is deliberately written so that no side can claim it cleanly.\n\nEMOTIONAL ARC: Anger, start to finish.",
+    "workbookAtAGlance": "Not on the List\n\nBackup titles\nA Door Around the Back / They Hand the Spade to Me\n\nAt a glance\n132 BPM, G major\nVoice: Raw shouted male tenor\nLength: about 2 minutes 25",
+    "year": 1969,
+    "qa": {
+      "title": "Not on the List",
+      "id": "e60_02",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 159.5,
+          "measuredBpm": 136.0,
+          "bpmFactor": 1,
+          "targetBpm": 132,
+          "bpmErrPct": 3.0,
+          "lufs": -13.3,
+          "peakDbfs": -1.25,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 158.0,
+          "vocalCoverage": 0.498,
+          "vocalSpanSec": [
+            5.7,
+            151.6
+          ],
+          "vocalF0MedianHz": 325,
+          "vocalF0P25Hz": 300,
+          "lyricLineRecall": 0.909,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 159.9,
+          "measuredBpm": 136.0,
+          "bpmFactor": 1,
+          "targetBpm": 132,
+          "bpmErrPct": 3.0,
+          "lufs": -13.5,
+          "peakDbfs": -1.45,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.2,
+          "contentEndSec": 158.1,
+          "vocalCoverage": 0.432,
+          "vocalSpanSec": [
+            6.1,
+            144.9
+          ],
+          "vocalF0MedianHz": 341,
+          "vocalF0P25Hz": 329,
+          "lyricLineRecall": 0.955,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other"
+  },
+  {
+    "id": "e60_03",
+    "title": "Stay Where I Can See You",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 3,
+    "slug": "e60_03_stay_where_i_can_see_you",
+    "inspiredBy": "Stand By Me (Ben E. King, 1961)",
+    "leadVoice": "Male, a warm baritone with a tenor's lift, soulful and smooth with a gospel background. He begins restrained and opens up in the choruses, with pleading ad-libs in the last one. Soft backing voices hum behind him.",
+    "model": "V6",
+    "style": "1961 New York soul, warm smooth soulful male baritone-tenor vocal with a gospel background, restrained verses opening into pleading ad-libs, soft humming backing voices, 118 BPM, A major, calm steady walk with a gentle Latin lilt, upright bass playing a short memorable repeating line alone at the start, triangle, scraped guiro, soft brushed snare, acoustic guitar, lush string section entering at the chorus and taking the melody in a break, warm roomy simple mix, reassuring, tender, dignified",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, autotune, EDM, heavy drums",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 185,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: upright bass line alone, then triangle and a scraped gourd]\n\n[Verse 1: warm, soulful, bass and light percussion]\nLet the power go out all down the street\nLet the phones go quiet in our hands\nI'm alright, I'm alright\nLong as you stay where I can see you\n\n[Chorus: strings enter, voice opens]\nSo stay, stay\nStay where I can see you\nOh, stay\nStay where I can see you\n\n[Verse 2: warm, a little stronger, strings underneath]\nLet the river come up over the road\nLet the wind take the shingles one by one\nI'll be fine, I'll be fine\nLong as you stay where I can see you\n\n[Chorus: strings fuller, backing voices hum]\nSo stay, stay\nStay where I can see you\nOh, stay\nStay where I can see you\n\n[String Break: strings play the melody over the bass line]\n\n[Final Chorus: voice ad-libbing, strings and backing voices]\nSo stay, stay\nStay where I can see you\nWhenever there's trouble, just stay\nStay where I can see you\n\n[Outro: bass line alone again, triangle, fade]",
+    "taskId": "5d335beaefd74fd0386204e4d7426263",
+    "sunoClipIds": [
+      "fdd4b3a6-bd94-447a-ba04-71d752def4bd",
+      "1102549b-ac7a-4050-8f39-6ecaab27775a"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928611377,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "fdd4b3a6-bd94-447a-ba04-71d752def4bd",
+        "durationSec": 184.4,
+        "file": "sixties/e60_03_stay_where_i_can_see_you_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "1102549b-ac7a-4050-8f39-6ecaab27775a",
+        "durationSec": 184.8,
+        "file": "sixties/e60_03_stay_where_i_can_see_you_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_03_stay_where_i_can_see_you_req.json",
+      "sixties/e60_03_stay_where_i_can_see_you_rec.json"
+    ],
+    "cover": "sixties/covers/e60_03_stay_where_i_can_see_you.jpg",
+    "cleanCover": "sixties/covers/clean/e60_03_stay_where_i_can_see_you.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, A major. A calm, steady walk with a gentle Latin lilt in the percussion. Reassuring and dignified.\n\nVOICE: Male, a warm baritone with a tenor's lift, soulful and smooth with a gospel background. He begins restrained and opens up in the choruses, with pleading ad-libs in the last one. Soft backing voices hum behind him.\n\nINSTRUMENTS: An upright bass playing a short, memorable, repeating line, alone at first. A triangle and a scraped gourd (guiro) keeping time. A soft brushed snare. Acoustic guitar. A string section that enters at the first chorus, takes the melody in the break and soars at the end.\n\nARRANGEMENT MAP: 0:00 Intro, the bass line alone, then percussion. 0:16 Verse 1. 0:44 Chorus 1, strings enter. 1:04 Verse 2. 1:32 Chorus 2. 1:52 String break. 2:12 Final chorus with ad-libs. 2:36 Outro, the bass line alone, fading by 2:48.\n\nPRODUCTION & MIX: Early-1960s New York soul: warm, roomy and simple, bass and voice in front, strings lush behind.\n\nSIGNATURE MOMENT: The bass line alone in the first eight seconds.\n\nMODERN POINT OF VIEW: The disasters are a power cut and silent phones, and the request is the one made to small children and to old husbands and wives. It moves the song from romance toward the long haul.\n\nEMOTIONAL ARC: Calm, need, reassurance.",
+    "workbookAtAGlance": "Stay Where I Can See You\n\nBackup titles\nLet the Power Go Out / I'll Be Fine\n\nAt a glance\n118 BPM, A major\nVoice: Warm soulful male baritone-tenor\nLength: about 2 minutes 50",
+    "year": 1961,
+    "qa": {
+      "title": "Stay Where I Can See You",
+      "id": "e60_03",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 184.4,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 0.5,
+          "lufs": -13.3,
+          "peakDbfs": -0.11,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 184.3,
+          "vocalCoverage": 0.611,
+          "vocalSpanSec": [
+            16.4,
+            169.1
+          ],
+          "vocalF0MedianHz": 277,
+          "vocalF0P25Hz": 220,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 184.8,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 0.5,
+          "lufs": -13.0,
+          "peakDbfs": -0.24,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.0,
+          "contentEndSec": 184.3,
+          "vocalCoverage": 0.651,
+          "vocalSpanSec": [
+            18.5,
+            182.0
+          ],
+          "vocalF0MedianHz": 262,
+          "vocalF0P25Hz": 220,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Soul"
+  },
+  {
+    "id": "e60_04",
+    "title": "Say the Word and I'm Driving",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 4,
+    "slug": "e60_04_say_the_word_and_im_driving",
+    "inspiredBy": "Ain't No Mountain High Enough (Marvin Gaye & Tammi Terrell, 1967)",
+    "leadVoice": "A man with a smooth, sweet, agile tenor and a woman with a bright, clear soprano. They take a verse each, sing the chorus together, and trade short lines in the bridge, each finishing the other's thought. Ad-libs over the last chorus.",
+    "model": "V6",
+    "style": "1967 Detroit Motown soul duet, smooth sweet agile male tenor and bright clear female soprano, a verse each, chorus together, trading short lines in the bridge, ad-libs at the end, 130 BPM, D major, bright driving beat, melodic busy electric bass, snare on every beat with tambourine, baritone saxophone doubling the bass line, horn section, piano, vibraphone, chiming backbeat rhythm guitar, strings in the last chorus, punchy bright dense mix with natural echo, joyful, devoted, uplifting",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, rap, slow ballad, dark mood, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 170,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: tambourine, bass and drums driving, a horn stab]\n\n[Verse 1: male tenor, warm and quick]\nNow if you ever need me, I don't care about the hour\nI don't care about the weather or the miles\nYou've got my number written on the wall beside the phone\nOne ring and I'm reaching for the keys\n\n[Chorus: both voices, horns and tambourine]\nSay the word and I'm driving\nThrough the dark and the rain\nPick a town, name a time\nI've already left the lane\nSay the word\n\n[Verse 2: female soprano, bright and sure]\nWhen we said goodbye at the station gate\nI made you a promise I don't break\nYou call, I come, it's a simple thing\nYou don't even have to let it ring\n\n[Chorus: both voices, horns and tambourine]\nSay the word and I'm driving\nThrough the dark and the rain\nPick a town, name a time\nI've already left the lane\nSay the word\n\n[Bridge: voices trading short lines, drums pushing]\n(If the bridge is out) I'll find a boat\n(If the road is closed) I'll walk\n(If you can't speak) I'll hear you anyway\nJust knock\n\n[Final Chorus: both voices ad-libbing, strings on top]\nSay the word and I'm driving\nThrough the dark and the rain\nPick a town, name a time\nI've already left the lane\nSay the word\nOh, say the word\n\n[Outro: band vamps, voices trading \"say it\", fade]",
+    "taskId": "b220d73e8f2f607c839caf36caa350a7",
+    "sunoClipIds": [
+      "0c2016a3-1425-44b1-997e-92b7139c0373",
+      "2cddf8ba-f2de-4694-8816-7e4b781d3895"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928600486,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0c2016a3-1425-44b1-997e-92b7139c0373",
+        "durationSec": 169.24,
+        "file": "sixties/e60_04_say_the_word_and_im_driving_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "2cddf8ba-f2de-4694-8816-7e4b781d3895",
+        "durationSec": 169.56,
+        "file": "sixties/e60_04_say_the_word_and_im_driving_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_04_say_the_word_and_im_driving_req.json",
+      "sixties/e60_04_say_the_word_and_im_driving_rec.json"
+    ],
+    "cover": "sixties/covers/e60_04_say_the_word_and_im_driving.jpg",
+    "cleanCover": "sixties/covers/clean/e60_04_say_the_word_and_im_driving.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 130 BPM, 4/4, D major. A bright, driving Motown beat that never lets up. Joyful and sure.\n\nVOICE: A man with a smooth, sweet, agile tenor and a woman with a bright, clear soprano. They take a verse each, sing the chorus together, and trade short lines in the bridge, each finishing the other's thought. Ad-libs over the last chorus.\n\nINSTRUMENTS: A melodic, busy electric bass. A snare on every beat with a tambourine. A baritone saxophone doubling the bass line. A horn section. Piano and vibraphone. Chiming rhythm guitar on the backbeat. A string section in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, tambourine, bass and a horn stab. 0:08 Verse 1, the man. 0:30 Chorus 1. 0:48 Verse 2, the woman. 1:10 Chorus 2. 1:28 Bridge, traded lines. 1:46 Final chorus with strings and ad-libs. 2:10 Outro, the band vamps as the voices trade two words, fading by 2:30.\n\nPRODUCTION & MIX: Mid-1960s Detroit soul: punchy, bright and dense, bass and tambourine loud, voices on top, a little natural echo.\n\nSIGNATURE MOMENT: The first chorus, when the second voice joins at 0:30.\n\nMODERN POINT OF VIEW: The mountain and the river become a car, a number on the wall and a long road at night. It is the promise families make across distance, said by people old enough to have kept it.\n\nEMOTIONAL ARC: Assurance, answered assurance, joy.",
+    "workbookAtAGlance": "Say the Word and I'm Driving\n\nBackup titles\nAlready Left the Lane / Don't Even Let It Ring\n\nAt a glance\n130 BPM, D major\nVoice: Duet: smooth male tenor, bright female soprano\nLength: about 2 minutes 35",
+    "year": 1967,
+    "qa": {
+      "title": "Say the Word and I'm Driving",
+      "id": "e60_04",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 169.3,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 0.6,
+          "lufs": -13.6,
+          "peakDbfs": -0.81,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 167.6,
+          "vocalCoverage": 0.689,
+          "vocalSpanSec": [
+            10.5,
+            154.1
+          ],
+          "vocalF0MedianHz": 372,
+          "vocalF0P25Hz": 297,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 169.6,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 0.6,
+          "lufs": -14.3,
+          "peakDbfs": -1.0,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.5,
+          "contentEndSec": 167.8,
+          "vocalCoverage": 0.754,
+          "vocalSpanSec": [
+            8.8,
+            161.5
+          ],
+          "vocalF0MedianHz": 329,
+          "vocalF0P25Hz": 292,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Soul"
+  },
+  {
+    "id": "e60_05",
+    "title": "Slow Is How I Fell",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 5,
+    "slug": "e60_05_slow_is_how_i_fell",
+    "inspiredBy": "Can't Help Falling in Love (Elvis Presley, 1961)",
+    "leadVoice": "Male baritone, low, warm and close, crooned softly with a slight tremble and a touch of echo. He never raises his voice. A male vocal quartet hums and sings soft harmony behind him.",
+    "model": "V6",
+    "style": "1961 crooned love ballad, low warm close male baritone crooning softly with a slight tremble and a touch of echo, never raising his voice, male vocal quartet humming soft harmony behind, 68 BPM with a rocking triplet feel like a cradle, D major, very slow and tender, celeste sounding like a music box, nylon-string guitar slow arpeggios, Hawaiian steel guitar sighing between lines, upright bass, barely-there brushed drums, soft piano, warm intimate softly echoing mix, romantic, gentle, timeless",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, fast tempo, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 185,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: music-box celeste, soft nylon guitar arpeggio]\n\n[Verse 1: low, crooned, very gentle]\nThey say look before you leap\nThey say still waters run deep\nI didn't look and I didn't run\nSlow is how I fell\n\n[Verse 2: backing voices hum, bass enters]\nThey say love is a lightning strike\nThey say you'll know it at first sight\nI knew you for a thousand days\nSlow is how I fell\n\n[Bridge: melody rises, steel guitar sighs]\nLike a leaf that takes all autumn to come down\nLike the snow that fills a sleeping town\nSome things arrive without a sound\n\n[Verse 3: low, backing voices in harmony]\nHere's my arm and here's the rest of my days\nI have learned you in a hundred ways\nI didn't jump, I only stayed\nSlow is how I fell\n\n[Bridge: melody rises, steel guitar sighs]\nLike a leaf that takes all autumn to come down\nLike the snow that fills a sleeping town\nSome things arrive without a sound\n\n[Final Verse: slower, voice and backing voices together]\nHere's my arm and here's the rest of my days\nI am falling still, in all the ways\nSlow is how I fell\nFor you\n\n[Outro: celeste alone, last note ringing]",
+    "taskId": "3d58adbd55b2c79d32edd56fc1b8c162",
+    "sunoClipIds": [
+      "5939263b-3b41-430a-a6ae-b3436dd10934",
+      "313ca0cf-86be-4817-9eae-72760256eac8"
+    ],
+    "created": "Nov 17, 2026 10:16 AM ET",
+    "createTimeMs": 1794928603837,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "5939263b-3b41-430a-a6ae-b3436dd10934",
+        "durationSec": 184.16,
+        "file": "sixties/e60_05_slow_is_how_i_fell_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "313ca0cf-86be-4817-9eae-72760256eac8",
+        "durationSec": 184.76,
+        "file": "sixties/e60_05_slow_is_how_i_fell_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_05_slow_is_how_i_fell_req.json",
+      "sixties/e60_05_slow_is_how_i_fell_rec.json"
+    ],
+    "cover": "sixties/covers/e60_05_slow_is_how_i_fell.jpg",
+    "cleanCover": "sixties/covers/clean/e60_05_slow_is_how_i_fell.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 68 BPM with each beat divided in three, so it rocks like a cradle. D major. Very slow, tender and calm.\n\nVOICE: Male baritone, low, warm and close, crooned softly with a slight tremble and a touch of echo. He never raises his voice. A male vocal quartet hums and sings soft harmony behind him.\n\nINSTRUMENTS: A celeste, which sounds like a music box, playing the introduction. A nylon-string guitar picking slow arpeggios. A Hawaiian-style steel guitar sighing between lines. Upright bass. Brushed drums, barely there. Soft piano.\n\nARRANGEMENT MAP: 0:00 Intro, celeste and guitar. 0:12 Verse 1. 0:36 Verse 2, backing voices. 1:00 Bridge. 1:22 Verse 3. 1:46 Bridge. 2:08 Final verse, slowing. 2:36 Outro, the celeste alone, ending at 2:48.\n\nPRODUCTION & MIX: Early-1960s Nashville studio ballad: warm, intimate and softly echoing, the voice very close, everything else gentle and far.\n\nSIGNATURE MOMENT: The celeste, like a music box being opened, in the first three seconds.\n\nMODERN POINT OF VIEW: The original is about not being able to stop. This is about not having hurried. 'I knew you for a thousand days' is a love song for people who took their time, or who found it late.\n\nEMOTIONAL ARC: Calm, wonder, devotion.",
+    "workbookAtAGlance": "Slow Is How I Fell\n\nBackup titles\nAll Autumn to Come Down / The Rest of My Days\n\nAt a glance\n68 BPM (rocking, in threes), D major\nVoice: Low crooning male baritone\nLength: about 2 minutes 50",
+    "year": 1961,
+    "qa": {
+      "title": "Slow Is How I Fell",
+      "id": "e60_05",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 184.2,
+          "measuredBpm": 66.3,
+          "bpmFactor": 1,
+          "targetBpm": 68,
+          "bpmErrPct": 2.6,
+          "lufs": -14.1,
+          "peakDbfs": -0.31,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 181.4,
+          "vocalCoverage": 0.612,
+          "vocalSpanSec": [
+            13.6,
+            168.8
+          ],
+          "vocalF0MedianHz": 174,
+          "vocalF0P25Hz": 147,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 184.8,
+          "measuredBpm": 69.8,
+          "bpmFactor": 1,
+          "targetBpm": 68,
+          "bpmErrPct": 2.7,
+          "lufs": -14.0,
+          "peakDbfs": -0.35,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 182.4,
+          "vocalCoverage": 0.624,
+          "vocalSpanSec": [
+            12.8,
+            176.0
+          ],
+          "vocalF0MedianHz": 166,
+          "vocalF0P25Hz": 140,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other"
+  },
+  {
+    "id": "e60_06",
+    "title": "Sunshine in a Raincoat",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 6,
+    "slug": "e60_06_sunshine_in_a_raincoat",
+    "inspiredBy": "My Girl (The Temptations, 1964)",
+    "leadVoice": "A male tenor with a sweet, slightly raspy, relaxed delivery. Four more men sing behind him in close harmony, with a deep bass voice at the bottom and a falsetto at the top, answering 'sunshine' and ad-libbing at the end.",
+    "model": "V6",
+    "style": "1964 Detroit Motown soul, sweet slightly raspy relaxed male tenor lead, four men in close harmony behind him with a deep bass voice and a falsetto, answering and ad-libbing, 104 BPM, C major lifting a step for the last verse, easy strolling groove, electric bass opening alone with three notes, clean electric guitar playing a short climbing figure, finger snaps, light backbeat drums, horn section, string section, tambourine, instruments added verse by verse, warm clear layered mix, sweet, contented, joyful",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, dark mood, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 180,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: three bass notes, climbing guitar figure, finger snaps]\n\n[Verse 1: sweet tenor, bass and guitar only]\nThere's a puddle-jumper on my street\nYellow boots on both her feet\nShe turns a grey day gold\nAnd she is four years old\n\n[Chorus: harmony group joins, horns]\nAsk me why I'm smiling\nAsk me why I'm late\nSunshine in a raincoat\nSwinging on my gate\n(Sunshine) sunshine in a raincoat\n\n[Verse 2: strings enter, drums fuller]\nI've got pockets full of stones she found\nI've got time now, I'm not city-bound\nI don't need a thing they sell\nI've got her hand in mine as well\n\n[Chorus: harmony group, horns, strings]\nAsk me why I'm smiling\nAsk me why I'm late\nSunshine in a raincoat\nSwinging on my gate\n(Sunshine) sunshine in a raincoat\n\n[Bridge: key lifts, strings play the guitar figure]\nHey, hey, hey\nHey, hey, hey\n\n[Verse 3: higher key, everyone in]\nI was tired and I was through\nRan out of things I meant to do\nThen she said \"Grandpa, look\"\nAnd that was all it took\n\n[Final Chorus: full band, group ad-libbing]\nAsk me why I'm smiling\nAsk me why I'm late\nSunshine in a raincoat\nSwinging on my gate\n(Sunshine) sunshine in a raincoat\n\n[Outro: guitar figure, snaps, voices fading]\nSunshine, sunshine",
+    "taskId": "02331c01736a0148fe925d757384a4f5",
+    "sunoClipIds": [
+      "d92a3bef-4193-480d-8ba1-bcbb4243a3dc",
+      "eca51f38-134a-4396-b43b-6a1844d026de"
+    ],
+    "created": "Nov 17, 2026 10:17 AM ET",
+    "createTimeMs": 1794928637280,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "d92a3bef-4193-480d-8ba1-bcbb4243a3dc",
+        "durationSec": 179.96,
+        "file": "sixties/e60_06_sunshine_in_a_raincoat_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "eca51f38-134a-4396-b43b-6a1844d026de",
+        "durationSec": 180.0,
+        "file": "sixties/e60_06_sunshine_in_a_raincoat_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_06_sunshine_in_a_raincoat_req.json",
+      "sixties/e60_06_sunshine_in_a_raincoat_rec.json"
+    ],
+    "cover": "sixties/covers/e60_06_sunshine_in_a_raincoat.jpg",
+    "cleanCover": "sixties/covers/clean/e60_06_sunshine_in_a_raincoat.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, C major, lifting a step for the last verse. An easy, strolling soul groove. Warm and contented.\n\nVOICE: A male tenor with a sweet, slightly raspy, relaxed delivery. Four more men sing behind him in close harmony, with a deep bass voice at the bottom and a falsetto at the top, answering 'sunshine' and ad-libbing at the end.\n\nINSTRUMENTS: An electric bass that opens the song alone with three notes. A clean electric guitar playing a short climbing figure. Finger snaps. A drum kit with a light backbeat. A horn section from the first chorus. A string section from the second verse, which later plays the guitar figure. Tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, bass, guitar figure and snaps. 0:10 Verse 1. 0:30 Chorus 1, voices and horns. 0:52 Verse 2, strings. 1:12 Chorus 2. 1:34 Bridge, the key lifts while the strings play the figure. 1:46 Verse 3 in the higher key. 2:06 Final chorus. 2:28 Outro, the guitar figure with fading voices to 2:42.\n\nPRODUCTION & MIX: Mid-1960s Detroit soul: warm, clear and layered, each new instrument easy to hear as it arrives.\n\nSIGNATURE MOMENT: The three bass notes and the guitar figure in the first five seconds.\n\nMODERN POINT OF VIEW: 'My girl' is a granddaughter. The singer is retired, has time, and carries the stones she finds. The original's sweetness belongs at least as much to that kind of love.\n\nEMOTIONAL ARC: Contentment, gratitude, joy.",
+    "workbookAtAGlance": "Sunshine in a Raincoat\n\nBackup titles\nSwinging on My Gate / Pockets Full of Stones\n\nAt a glance\n104 BPM, C major\nVoice: Sweet male tenor, harmony group\nLength: about 2 minutes 45",
+    "year": 1964,
+    "qa": {
+      "title": "Sunshine in a Raincoat",
+      "id": "e60_06",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 180.0,
+          "measuredBpm": 103.4,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 0.6,
+          "lufs": -13.1,
+          "peakDbfs": -0.35,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.9,
+          "contentEndSec": 178.9,
+          "vocalCoverage": 0.672,
+          "vocalSpanSec": [
+            11.0,
+            177.2
+          ],
+          "vocalF0MedianHz": 331,
+          "vocalF0P25Hz": 266,
+          "lyricLineRecall": 0.966,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 180.0,
+          "measuredBpm": 103.4,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 0.6,
+          "lufs": -13.4,
+          "peakDbfs": -0.94,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 179.5,
+          "vocalCoverage": 0.723,
+          "vocalSpanSec": [
+            9.4,
+            168.4
+          ],
+          "vocalF0MedianHz": 329,
+          "vocalF0P25Hz": 292,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Soul"
+  },
+  {
+    "id": "e60_07",
+    "title": "Somewhere It's Warm",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 7,
+    "slug": "e60_07_somewhere_its_warm",
+    "inspiredBy": "California Dreamin' (The Mamas & The Papas, 1965)",
+    "leadVoice": "Two men and two women. A male tenor sings each line of the verse and the other three echo it a moment later in harmony, with a strong, clear female alto prominent. The choruses are full four-part harmony, bright on top and warm underneath, ending on a long held chord.",
+    "model": "V6",
+    "style": "1965 Los Angeles folk rock, two men and two women in four-part harmony, a male tenor singing each verse line and the other three echoing it a moment later, a strong clear female alto prominent, full bright harmony choruses ending on a long held chord, 112 BPM, C-sharp minor, brisk pulse under a cool wistful tune, fingerpicked acoustic twelve-string guitar, breathy alto flute solo, steady simple drums, electric bass, strummed acoustic guitar, tremolo electric guitar, tambourine, bright slightly reverberant mix, wistful, longing",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, rap, heavy drums, bright major-key pop, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 175,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: fingerpicked twelve-string guitar, a soft cymbal]\n\n[Verse 1: lead voice, the group echoes each line]\nIce on the inside (ice on the inside)\nOf the window pane (of the window pane)\nI put on two sweaters (I put on two sweaters)\nAnd I walk in the rain (walk in the rain)\n\n[Chorus: four-part harmony, full band]\nSomewhere it's warm (somewhere it's warm)\nSomebody's sleeves are rolled\nSomewhere it's warm\nAnd I'm here in the cold\nDreaming of somewhere, somewhere it's warm\n\n[Verse 2: lead voice, the group echoes]\nThere's a laundromat on Fourth Street (laundromat on Fourth Street)\nWith the dryers going round (the dryers going round)\nI sit there with a paperback (sit there with a paperback)\nThe lady lets me stay (she lets me stay)\n\n[Chorus: four-part harmony, full band]\nSomewhere it's warm (somewhere it's warm)\nSomebody's sleeves are rolled\nSomewhere it's warm\nAnd I'm here in the cold\nDreaming of somewhere, somewhere it's warm\n\n[Flute Solo: breathy alto flute, over the verse chords]\n\n[Verse 3: lead voice, the group echoes, more urgent]\nIf I had the bus fare (if I had the bus fare)\nI'd be gone today (I'd be gone today)\nBut somebody needs me (somebody needs me)\nSo I guess I'll stay (I guess I'll stay)\n\n[Final Chorus: four-part harmony, held last chord]\nSomewhere it's warm (somewhere it's warm)\nSomebody's sleeves are rolled\nSomewhere it's warm\nAnd I'm here in the cold\nDreaming of somewhere\nSomewhere it's warm",
+    "taskId": "110e2eca64e9f1540cd8a8929a39d8da",
+    "sunoClipIds": [
+      "531fa598-075d-42a5-b7b6-0ad2a09cb58b",
+      "c4017cb2-0aa0-467a-aced-2a5386742bba"
+    ],
+    "created": "Nov 17, 2026 10:17 AM ET",
+    "createTimeMs": 1794928630639,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "531fa598-075d-42a5-b7b6-0ad2a09cb58b",
+        "durationSec": 174.8,
+        "file": "sixties/e60_07_somewhere_its_warm_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "c4017cb2-0aa0-467a-aced-2a5386742bba",
+        "durationSec": 174.76,
+        "file": "sixties/e60_07_somewhere_its_warm_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_07_somewhere_its_warm_req.json",
+      "sixties/e60_07_somewhere_its_warm_rec.json"
+    ],
+    "cover": "sixties/covers/e60_07_somewhere_its_warm.jpg",
+    "cleanCover": "sixties/covers/clean/e60_07_somewhere_its_warm.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, C-sharp minor. A brisk folk-rock pulse under a cool, wistful minor-key tune.\n\nVOICE: Two men and two women. A male tenor sings each line of the verse and the other three echo it a moment later in harmony, with a strong, clear female alto prominent. The choruses are full four-part harmony, bright on top and warm underneath, ending on a long held chord.\n\nINSTRUMENTS: A fingerpicked acoustic twelve-string guitar. A breathy alto flute for the solo. A steady, simple drum kit. Electric bass. A second, strummed acoustic guitar. A little electric guitar with tremolo. Tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, twelve-string guitar. 0:10 Verse 1 with echoes. 0:34 Chorus 1. 0:56 Verse 2. 1:20 Chorus 2. 1:42 Flute solo. 1:58 Verse 3. 2:16 Final chorus, ending on a held chord at 2:38.\n\nPRODUCTION & MIX: Mid-1960s Los Angeles folk-rock: bright guitars, voices stacked and slightly reverberant, a clean, simple rhythm section.\n\nSIGNATURE MOMENT: The first echoed line at 0:12.\n\nMODERN POINT OF VIEW: Verse 3 is the adult reason for staying: somebody needs me. The original's narrator is free to go and only lacks the nerve. This one has obligations, and dreams anyway.\n\nEMOTIONAL ARC: Cold, longing, duty, longing still.",
+    "workbookAtAGlance": "Somewhere It's Warm\n\nBackup titles\nIce on the Inside / The Dryers Going Round\n\nAt a glance\n112 BPM, C-sharp minor\nVoice: Four-part mixed harmony, call and response\nLength: about 2 minutes 40",
+    "year": 1965,
+    "qa": {
+      "title": "Somewhere It's Warm",
+      "id": "e60_07",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 174.8,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 112,
+          "bpmErrPct": 0.3,
+          "lufs": -13.4,
+          "peakDbfs": -0.09,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.3,
+          "contentEndSec": 173.0,
+          "vocalCoverage": 0.737,
+          "vocalSpanSec": [
+            4.6,
+            171.7
+          ],
+          "vocalF0MedianHz": 314,
+          "vocalF0P25Hz": 251,
+          "lyricLineRecall": 0.75,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 174.8,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 112,
+          "bpmErrPct": 0.3,
+          "lufs": -14.5,
+          "peakDbfs": -0.16,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 173.8,
+          "vocalCoverage": 0.647,
+          "vocalSpanSec": [
+            12.3,
+            163.0
+          ],
+          "vocalF0MedianHz": 277,
+          "vocalF0P25Hz": 239,
+          "lyricLineRecall": 0.786,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Folk Rock"
+  },
+  {
+    "id": "e60_08",
+    "title": "The Glowing House",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 8,
+    "slug": "e60_08_the_glowing_house",
+    "inspiredBy": "The House of the Rising Sun (The Animals, 1964)",
+    "leadVoice": "Male baritone with a deep, rough, bluesy tone and a Newcastle edge, sounding much older than his years. He begins low and restrained, howls verses 4 and 5 at the top of his voice, and drops back for the last.",
+    "model": "V6",
+    "style": "1964 British rhythm and blues folk ballad, deep rough bluesy male baritone sounding older than his years, low restrained opening rising to a howl and dropping back, 117 BPM counted in six with a rolling feel, A minor, slow-burning and swelling, electric guitar playing each chord as a slow even arpeggio, thin reedy electric organ starting as a hum and building to a swirling solo, electric bass, drums growing from soft cymbals to a heavy beat, raw mono one-take mix, haunted, warning, desperate",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, bright happy pop, autotune, EDM, horns",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: slow arpeggiated electric guitar chords, bass]\n\n[Verse 1: low, bluesy, guitar and bass]\nThere is a little house of light\nIt fits inside my hand\nIt's been the end of many a day\nAnd many a thing I planned\n\n[Verse 2: organ enters, drums soft]\nMy mother kept a garden\nShe grew her beans in rows\nMy father was a talking man\nHe knew what a neighbour knows\n\n[Verse 3: voice rising, organ swirling]\nNow all a body needs to live\nIs a charger and a chair\nAnd the only time he's satisfied\nIs when he isn't there\n\n[Organ Solo: swirling, building, drums louder]\n\n[Verse 4: howled, full band]\nSo tell the little ones for me\nTo lift their eyes and run\nOut to the yard and the daylight\nWhile there's still a sun\n\n[Verse 5: loud, desperate]\nI've one foot on the doorstep\nThe other in the glow\nI only meant to check the time\nThat was hours ago\n\n[Verse 6: quieter, the first verse again]\nThere is a little house of light\nIt fits inside my hand\nIt's been the end of many a day\nAnd Lord, I know I'm damned\n\n[Outro: organ and guitar, slowing, final chord]",
+    "taskId": "89667e20263f447af8cd2658dad2d310",
+    "sunoClipIds": [
+      "29e97b90-59d7-403f-8bfa-450f81dc7dc2",
+      "e0e47ff8-03b3-4d94-a944-64fff16a81b8"
+    ],
+    "created": "Nov 17, 2026 10:17 AM ET",
+    "createTimeMs": 1794928632726,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "29e97b90-59d7-403f-8bfa-450f81dc7dc2",
+        "durationSec": 224.84,
+        "file": "sixties/e60_08_the_glowing_house_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "e0e47ff8-03b3-4d94-a944-64fff16a81b8",
+        "durationSec": 224.44,
+        "file": "sixties/e60_08_the_glowing_house_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_08_the_glowing_house_req.json",
+      "sixties/e60_08_the_glowing_house_rec.json"
+    ],
+    "cover": "sixties/covers/e60_08_the_glowing_house.jpg",
+    "cleanCover": "sixties/covers/clean/e60_08_the_glowing_house.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 117 BPM counted in six, so it rolls, in A minor. A slow-burning blues ballad that swells from a murmur to a howl and back.\n\nVOICE: Male baritone with a deep, rough, bluesy tone and a Newcastle edge, sounding much older than his years. He begins low and restrained, howls verses 4 and 5 at the top of his voice, and drops back for the last.\n\nINSTRUMENTS: An electric guitar playing each chord as a slow, even arpeggio, the song's signature. An electric organ with a thin, reedy tone that starts as a hum and builds to a swirling solo. Electric bass. A drum kit that grows from soft cymbals to a heavy beat. Nothing else.\n\nARRANGEMENT MAP: 0:00 Intro, guitar arpeggios. 0:12 Verse 1. 0:36 Verse 2, organ. 1:00 Verse 3, rising. 1:24 Organ solo. 1:54 Verse 4, howled. 2:18 Verse 5. 2:42 Verse 6, quieter. 3:06 Outro, organ and guitar slowing to a final chord at 3:25.\n\nPRODUCTION & MIX: Mid-1960s British rhythm and blues recorded in one take: raw, mono and close, organ and voice fighting for the front.\n\nSIGNATURE MOMENT: The guitar arpeggio in the first four seconds.\n\nMODERN POINT OF VIEW: The house of ruin is in everyone's pocket now, and the warning is to children. The verse about the mother's garden and the father who knew his neighbours is the world the house replaced.\n\nEMOTIONAL ARC: Confession, warning, relapse.",
+    "workbookAtAGlance": "The Glowing House\n\nBackup titles\nIt Fits Inside My Hand / Only Meant to Check the Time\n\nAt a glance\n117 BPM (in six), A minor\nVoice: Bluesy male baritone, howling\nLength: about 3 minutes 30",
+    "year": 1964,
+    "qa": {
+      "title": "The Glowing House",
+      "id": "e60_08",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.9,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 117,
+          "bpmErrPct": 0.4,
+          "lufs": -13.1,
+          "peakDbfs": -0.64,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 223.7,
+          "vocalCoverage": 0.376,
+          "vocalSpanSec": [
+            18.5,
+            196.7
+          ],
+          "vocalF0MedianHz": 224,
+          "vocalF0P25Hz": 220,
+          "lyricLineRecall": 0.833,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.5,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 117,
+          "bpmErrPct": 0.4,
+          "lufs": -13.9,
+          "peakDbfs": -2.15,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 223.1,
+          "vocalCoverage": 0.482,
+          "vocalSpanSec": [
+            6.9,
+            210.8
+          ],
+          "vocalF0MedianHz": 329,
+          "vocalF0P25Hz": 263,
+          "lyricLineRecall": 0.917,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other"
+  },
+  {
+    "id": "e60_09",
+    "title": "Give Me That Yesterday",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 9,
+    "slug": "e60_09_give_me_that_yesterday",
+    "inspiredBy": "I Want You Back (The Jackson 5, 1969)",
+    "leadVoice": "A lead voice that sounds like a very gifted child: high, bright, clear and full of feeling, with gospel inflections well beyond his years. A group of older brothers answers each line in harmony and chants in the breakdown.",
+    "model": "V6",
+    "style": "1969 Motown soul pop, lead voice like a very gifted child, high bright clear and full of feeling with gospel inflections, group of older male voices answering each line in harmony and chanting, 98 BPM, A-flat major, bouncing tightly arranged groove, piano opening with a downward slide, restless melodic electric bass driving the track, clean guitar chops and counter-melody, string section, crisp drums with busy hi-hat, handclaps, tambourine, congas, bass-and-claps breakdown, bright tight detailed mix, joyful, pleading, energetic",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, deep male lead vocals, rap, slow ballad, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 185,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: piano slide, busy bass line, guitar chops, strings]\n\n[Verse 1: bright high lead, the group answers softly]\nHad it good and I didn't know\nWalked right by like a picture show\nNow you're laughing with the kid from down the street\nAnd I'm standing here with two left feet\n\n[Pre-Chorus: drums build, group rises]\nOh, I was looking the other way\nWhen the best thing came to stay\n\n[Chorus: lead and group trading, full band]\nOh, give me that yesterday\n(Back in my hands)\nI'd do it another way\n(I'd understand)\nAll I want, all I need\nIs one more go at being me\nWith you\n\n[Verse 2: bright high lead, bass busier]\nEvery corner, I see your face\nEvery song, it's the same old place\nI was busy being cool and being smart\nDidn't know I had a breakable heart\n\n[Pre-Chorus: drums build, group rises]\nOh, I was looking the other way\nWhen the best thing came to stay\n\n[Chorus: lead and group trading, full band]\nOh, give me that yesterday\n(Back in my hands)\nI'd do it another way\n(I'd understand)\nAll I want, all I need\nIs one more go at being me\nWith you\n\n[Breakdown: bass and handclaps, lead ad-libbing, group chanting]\nYesterday (bring it back)\nYesterday (bring it back)\nI'd know it this time\n\n[Final Chorus: everything, lead soaring over the group]\nOh, give me that yesterday\n(Back in my hands)\nI'd do it another way\n(I'd understand)\n\n[Outro: bass line, group chant, fade]",
+    "taskId": "50f2eb2141d826d3adc76018b7905fa5",
+    "sunoClipIds": [
+      "674f3e54-d56f-487b-9f9a-b8def143180f",
+      "c9e94f86-cdc7-44e4-9732-50a7d5ba43e2"
+    ],
+    "created": "Nov 17, 2026 10:17 AM ET",
+    "createTimeMs": 1794928639671,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "674f3e54-d56f-487b-9f9a-b8def143180f",
+        "durationSec": 184.36,
+        "file": "sixties/e60_09_give_me_that_yesterday_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "c9e94f86-cdc7-44e4-9732-50a7d5ba43e2",
+        "durationSec": 184.8,
+        "file": "sixties/e60_09_give_me_that_yesterday_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_09_give_me_that_yesterday_req.json",
+      "sixties/e60_09_give_me_that_yesterday_rec.json"
+    ],
+    "cover": "sixties/covers/e60_09_give_me_that_yesterday.jpg",
+    "cleanCover": "sixties/covers/clean/e60_09_give_me_that_yesterday.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 98 BPM, 4/4, A-flat major. A bouncing, tightly arranged soul-pop groove. Bursting with energy.\n\nVOICE: A lead voice that sounds like a very gifted child: high, bright, clear and full of feeling, with gospel inflections well beyond his years. A group of older brothers answers each line in harmony and chants in the breakdown.\n\nINSTRUMENTS: A piano that opens with a downward slide. A restless, melodic electric bass, the engine of the track. Clean guitar playing bright chops and a little counter-melody. A string section. A crisp drum kit with a busy hi-hat. Handclaps and tambourine. Congas.\n\nARRANGEMENT MAP: 0:00 Intro, the piano slide and the bass line. 0:12 Verse 1. 0:32 Pre-chorus. 0:42 Chorus 1. 1:04 Verse 2. 1:24 Pre-chorus. 1:34 Chorus 2. 1:56 Breakdown, bass and handclaps. 2:14 Final chorus. 2:30 Outro, bass and chanting, fading by 2:48.\n\nPRODUCTION & MIX: Late-1960s Motown made in Los Angeles: bright, tight and packed with detail, bass and lead voice loudest.\n\nSIGNATURE MOMENT: The piano slide into the bass line in the first three seconds.\n\nMODERN POINT OF VIEW: 'I was busy being cool and being smart' is a line for anyone looking back. The child's voice sings what the adult listener thinks, which is how the original has always worked on grown-ups.\n\nEMOTIONAL ARC: Regret, pleading, hope.",
+    "workbookAtAGlance": "Give Me That Yesterday\n\nBackup titles\nTwo Left Feet / One More Go at Being Me\n\nAt a glance\n98 BPM, A-flat major\nVoice: Very young-sounding high lead, answering group\nLength: about 2 minutes 50",
+    "year": 1969,
+    "qa": {
+      "title": "Give Me That Yesterday",
+      "id": "e60_09",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 184.4,
+          "measuredBpm": 99.4,
+          "bpmFactor": 1,
+          "targetBpm": 98,
+          "bpmErrPct": 1.4,
+          "lufs": -13.7,
+          "peakDbfs": -0.4,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 182.7,
+          "vocalCoverage": 0.768,
+          "vocalSpanSec": [
+            11.1,
+            167.4
+          ],
+          "vocalF0MedianHz": 465,
+          "vocalF0P25Hz": 297,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 184.8,
+          "measuredBpm": 99.4,
+          "bpmFactor": 1,
+          "targetBpm": 98,
+          "bpmErrPct": 1.4,
+          "lufs": -13.7,
+          "peakDbfs": -0.34,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 183.4,
+          "vocalCoverage": 0.772,
+          "vocalSpanSec": [
+            11.1,
+            162.3
+          ],
+          "vocalF0MedianHz": 396,
+          "vocalF0P25Hz": 351,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Soul Pop"
+  },
+  {
+    "id": "e60_10",
+    "title": "Look, the Ice Is Leaving",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 10,
+    "slug": "e60_10_look_the_ice_is_leaving",
+    "inspiredBy": "Here Comes the Sun (The Beatles, 1969)",
+    "leadVoice": "Male tenor, gentle, unforced and a little reedy, sung with a smile. Soft harmony voices join in the choruses. No strain anywhere.",
+    "model": "V6",
+    "style": "1969 British studio pop, gentle unforced slightly reedy male tenor vocal sung with a smile, soft harmony voices in the choruses, 129 BPM, A major, light bright and gently bouncing, acoustic guitar fretted high on the neck playing a bright bell-like picked figure, early synthesizer playing a soft sliding ribbon of melody, electric bass, light drums, small string section, handclaps in odd groupings, bridge with uneven tripping bars under one repeated phrase, warm clear airy mix, relieved, hopeful, sunny",
+    "negativeTags": "drum machine, distorted guitar, female lead vocals, rap, dark mood, heavy drums, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 195,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bright acoustic guitar figure high on the neck, soft synth]\n\n[Verse 1: gentle, close, guitar and voice]\nHey, old friend, the gutters are running\nHey, old friend, there's a bird on the line\nHey, old friend, the neighbours are out in their shirtsleeves\n\n[Chorus: harmonies join, handclaps]\nLook, the ice is leaving\nLook, look, look\nLook, the ice is leaving\nAnd we're still here\n\n[Verse 2: bass and light drums enter]\nHey, old friend, it felt like for ever\nHey, old friend, we were counting the days\nHey, old friend, there's a kid on a bike with no jacket\n\n[Chorus: harmonies, handclaps, strings]\nLook, the ice is leaving\nLook, look, look\nLook, the ice is leaving\nAnd we're still here\n\n[Bridge: uneven tripping bars, one phrase repeated, synth rising]\nDrip, drip, drip, there it goes\nDrip, drip, drip, there it goes\nDrip, drip, drip, there it goes\nDrip, drip, drip, there it goes\nDrip, drip, drip, there it goes\n\n[Verse 3: full band, warm]\nHey, old friend, the windows are open\nHey, old friend, I can feel my hands\nHey, old friend, I believe we came through it\n\n[Final Chorus: everyone, strings and synth, clapping]\nLook, the ice is leaving\nLook, look, look\nLook, the ice is leaving\nAnd we're still here\nWe're still here\n\n[Outro: guitar figure, synth line, last chord ringing]",
+    "taskId": "c736468910415ef29c53cccd5a6ed6bb",
+    "sunoClipIds": [
+      "1419f2b3-c39d-4c7f-b036-39fc1abc39d7",
+      "9acb03cf-6e89-4b53-979d-13d1fb314907"
+    ],
+    "created": "Nov 17, 2026 10:18 AM ET",
+    "createTimeMs": 1794928720911,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "1419f2b3-c39d-4c7f-b036-39fc1abc39d7",
+        "durationSec": 194.8,
+        "file": "sixties/e60_10_look_the_ice_is_leaving_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "9acb03cf-6e89-4b53-979d-13d1fb314907",
+        "durationSec": 194.52,
+        "file": "sixties/e60_10_look_the_ice_is_leaving_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_10_look_the_ice_is_leaving_req.json",
+      "sixties/e60_10_look_the_ice_is_leaving_rec.json"
+    ],
+    "cover": "sixties/covers/e60_10_look_the_ice_is_leaving.jpg",
+    "cleanCover": "sixties/covers/clean/e60_10_look_the_ice_is_leaving.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 129 BPM, mostly 4/4, A major. Light, bright and gently bouncing. The bridge trips through bars of uneven length, as if stepping over puddles.\n\nVOICE: Male tenor, gentle, unforced and a little reedy, sung with a smile. Soft harmony voices join in the choruses. No strain anywhere.\n\nINSTRUMENTS: An acoustic guitar played with a capo high on the neck, giving a bright, bell-like picked figure. An early synthesiser playing a soft, sliding ribbon of melody. Electric bass. A light drum kit. A small string section. Handclaps in odd groupings during the bridge.\n\nARRANGEMENT MAP: 0:00 Intro, the guitar figure and synth line. 0:14 Verse 1. 0:34 Chorus 1. 0:50 Verse 2. 1:10 Chorus 2. 1:26 Bridge, one phrase five times over uneven bars with rising synth. 1:56 Verse 3. 2:16 Final chorus. 2:40 Outro, the guitar figure and a ringing chord at 2:55.\n\nPRODUCTION & MIX: Late-1960s studio pop: warm, clear and airy, the acoustic guitar very bright and close, everything else gentle.\n\nSIGNATURE MOMENT: The guitar figure in the first four seconds.\n\nMODERN POINT OF VIEW: The friend is an old one and the winter was long in more than one sense. 'And we're still here' turns a song about weather into one about having lasted.\n\nEMOTIONAL ARC: Noticing, relief, gratitude.",
+    "workbookAtAGlance": "Look, the Ice Is Leaving\n\nBackup titles\nBird on the Line / And We're Still Here\n\nAt a glance\n129 BPM, A major\nVoice: Gentle male tenor, soft harmonies\nLength: about 3 minutes",
+    "year": 1969,
+    "qa": {
+      "title": "Look, the Ice Is Leaving",
+      "id": "e60_10",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 194.8,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 129,
+          "bpmErrPct": 0.2,
+          "lufs": -13.0,
+          "peakDbfs": -0.04,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.3,
+          "contentEndSec": 193.1,
+          "vocalCoverage": 0.663,
+          "vocalSpanSec": [
+            11.3,
+            180.2
+          ],
+          "vocalF0MedianHz": 248,
+          "vocalF0P25Hz": 221,
+          "lyricLineRecall": 0.704,
+          "lyricUnclearSections": [
+            "Verse 2",
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 194.5,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 129,
+          "bpmErrPct": 0.2,
+          "lufs": -13.1,
+          "peakDbfs": -0.41,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 192.9,
+          "vocalCoverage": 0.674,
+          "vocalSpanSec": [
+            7.6,
+            179.0
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 245,
+          "lyricLineRecall": 0.778,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Pop"
+  },
+  {
+    "id": "e60_11",
+    "title": "Bench With a View of Nothing",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 11,
+    "slug": "e60_11_bench_with_a_view_of_nothing",
+    "inspiredBy": "(Sittin' On) The Dock of the Bay (Otis Redding, 1968)",
+    "leadVoice": "Male, warm, weathered and a little hoarse, a Southern soul voice that sings just behind the beat and never forces a note. A slightly stronger push in the bridge. He whistles the tune through the outro.",
+    "model": "V6",
+    "style": "1968 Memphis soul, warm weathered slightly hoarse male soul vocal singing just behind the beat without forcing a note, whistled melody through the outro, 104 BPM, G major, slow rolling unhurried groove, clean electric guitar playing soft chords and small sliding fills, round simple bass, relaxed drums with light snare, horn section on long quiet notes, acoustic guitar strum, birds and street sounds, small band in a room, dry warm spare mix, peaceful, wistful, settled",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, fast tempo, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 180,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: soft electric guitar chords, bass, birds and a distant bus]\n\n[Verse 1: warm, relaxed, behind the beat]\nGot a bench on the corner by the hardware store\nBeen here since the paper, I'll be here some more\nThe buses come in and the buses go\nI don't need to be on one, far as I know\n\n[Chorus: horns enter softly, voice lifts a little]\nI've got a bench with a view of nothing\nWatching the day go by\nA bench with a view of nothing much\nAnd nothing's doing fine\n\n[Verse 2: warm, a little rueful]\nI left a job with my name on the glass\nThirty years of hurry and it all went past\nHad a watch that told me where to be\nGave it to my grandson, now it's telling me\n\n[Chorus: horns, voice lifts a little]\nI've got a bench with a view of nothing\nWatching the day go by\nA bench with a view of nothing much\nAnd nothing's doing fine\n\n[Bridge: drums push, voice stronger]\nFolks walk by and they ask if I'm alright\nI say I've never been so on time\nThere's a pigeon here who knows my name\nAnd every afternoon's the same\n\n[Final Chorus: full band, relaxed]\nI've got a bench with a view of nothing\nWatching the day go by\nA bench with a view of nothing much\nAnd nothing's doing fine\n\n[Outro: whistled melody over guitar and bass, street sounds, fade]",
+    "taskId": "4044056036da6fee48eaed3b42403956",
+    "sunoClipIds": [
+      "c8771221-09e6-4c0d-98d5-cd86447f053f",
+      "04f466c9-2297-4326-ae24-a709f8cdf649"
+    ],
+    "created": "Nov 17, 2026 10:17 AM ET",
+    "createTimeMs": 1794928647643,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "c8771221-09e6-4c0d-98d5-cd86447f053f",
+        "durationSec": 180.0,
+        "file": "sixties/e60_11_bench_with_a_view_of_nothing_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "04f466c9-2297-4326-ae24-a709f8cdf649",
+        "durationSec": 179.52,
+        "file": "sixties/e60_11_bench_with_a_view_of_nothing_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_11_bench_with_a_view_of_nothing_req.json",
+      "sixties/e60_11_bench_with_a_view_of_nothing_rec.json"
+    ],
+    "cover": "sixties/covers/e60_11_bench_with_a_view_of_nothing.jpg",
+    "cleanCover": "sixties/covers/clean/e60_11_bench_with_a_view_of_nothing.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, G major. A slow, rolling, unhurried soul groove. Easy and settled.\n\nVOICE: Male, warm, weathered and a little hoarse, a Southern soul voice that sings just behind the beat and never forces a note. A slightly stronger push in the bridge. He whistles the tune through the outro.\n\nINSTRUMENTS: A clean electric guitar playing soft chords and small sliding fills. A round, simple bass. A relaxed drum kit with a light snare. A horn section playing long, quiet notes. Acoustic guitar strumming. Street sounds: birds, a bus pulling away.\n\nARRANGEMENT MAP: 0:00 Intro, guitar, bass and street sounds. 0:12 Verse 1. 0:36 Chorus 1, horns. 0:56 Verse 2. 1:20 Chorus 2. 1:40 Bridge. 2:00 Final chorus. 2:20 Outro, the whistled tune over guitar and bass with street sounds, fading by 2:42.\n\nPRODUCTION & MIX: Late-1960s Memphis soul: dry, warm and spare, a small band in a room, the voice close.\n\nSIGNATURE MOMENT: The whistling in the outro at 2:20.\n\nMODERN POINT OF VIEW: The original narrator is young, far from home and going nowhere. This one is old, at home and finished with going anywhere. He gave his watch to his grandson. The stillness is a reward.\n\nEMOTIONAL ARC: Ease, a backward glance, contentment.",
+    "workbookAtAGlance": "Bench With a View of Nothing\n\nBackup titles\nNever Been So On Time / Nothing's Doing Fine\n\nAt a glance\n104 BPM, G major\nVoice: Warm weathered male soul voice, whistled outro\nLength: about 2 minutes 45",
+    "year": 1968,
+    "qa": {
+      "title": "Bench With a View of Nothing",
+      "id": "e60_11",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 180.0,
+          "measuredBpm": 99.4,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 4.4,
+          "lufs": -13.3,
+          "peakDbfs": -0.15,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 177.6,
+          "vocalCoverage": 0.544,
+          "vocalSpanSec": [
+            2.0,
+            169.1
+          ],
+          "vocalF0MedianHz": 197,
+          "vocalF0P25Hz": 158,
+          "lyricLineRecall": 0.958,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 179.5,
+          "measuredBpm": 103.4,
+          "bpmFactor": 1,
+          "targetBpm": 104,
+          "bpmErrPct": 0.6,
+          "lufs": -12.9,
+          "peakDbfs": -0.36,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.3,
+          "contentEndSec": 178.7,
+          "vocalCoverage": 0.632,
+          "vocalSpanSec": [
+            2.6,
+            173.3
+          ],
+          "vocalF0MedianHz": 264,
+          "vocalF0P25Hz": 197,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Soul"
+  },
+  {
+    "id": "e60_12",
+    "title": "Meet Me at the Jukebox",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 12,
+    "slug": "e60_12_meet_me_at_the_jukebox",
+    "inspiredBy": "Be My Baby (The Ronettes, 1963)",
+    "leadVoice": "A young woman with a bright, nasal, slightly tough New York voice and a fast, trembling vibrato on held notes. Three more women sing the echoes and the wordless 'whoa' hook behind her, soaked in echo. She ad-libs over the last chorus.",
+    "model": "V6",
+    "style": "1963 girl group wall of sound, young woman lead with a bright nasal slightly tough voice and fast trembling vibrato, three women singing echoes and a wordless whoa hook behind her in heavy echo, 130 BPM, E major, grand swaying beat with a Latin lilt, opens with four solo drum hits, then several pianos, guitars, basses, horns and a full string section all playing together in a large echo chamber, castanets, maracas, tambourine, drum break before the last chorus, mono dense echo-drenched mix, innocent, romantic, enormous",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, male lead vocals, rap, dry modern mix, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 175,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: four drum hits, boom, ba-boom, crack, then wall of sound]\n\n[Verse 1: young lead, trembling vibrato, castanets]\nFirst time I saw you by the record machine\nYou had a nickel and I had a dream\nYou played the one I would have played\nI knew right then the plans I'd made\n\n[Pre-Chorus: backing voices rise, strings swell]\nSo if you want to find me\nYou know the place\n\n[Chorus: lead and backing voices, the full wall]\nMeet me, meet me at the jukebox\n(Meet me at the jukebox)\nPick the one we know\n(Whoa, oh, oh, oh)\nMeet me at the jukebox\nAnd don't let go\n\n[Verse 2: same voice, the same tune, decades later]\nFifty years and the diner's gone\nSomebody else's name is on\nThe sign, but I still know the spot\nWhere you said \"yes\" and I said \"what?\"\n\n[Pre-Chorus: backing voices rise, strings swell]\nSo if you want to find me\nYou know the place\n\n[Chorus: lead and backing voices, the full wall]\nMeet me, meet me at the jukebox\n(Meet me at the jukebox)\nPick the one we know\n(Whoa, oh, oh, oh)\nMeet me at the jukebox\nAnd don't let go\n\n[Instrumental: strings play the chorus melody, castanets]\n\n[Break: everything stops, the four drum hits again]\n\n[Final Chorus: everyone, lead ad-libbing over the top]\nMeet me, meet me at the jukebox\n(Meet me at the jukebox)\nPick the one we know\n(Whoa, oh, oh, oh)\nMeet me at the jukebox\nAnd don't let go\n\n[Outro: backing hook repeating, long echo, fade]\n(Whoa, oh, oh, oh)",
+    "taskId": "b376ce963d651d9e0a6c2288de27d80e",
+    "sunoClipIds": [
+      "80954b96-b97f-442a-a2fe-8b3dac530b0e",
+      "eb07ba7b-14fa-4199-9e56-80ab17fc97db"
+    ],
+    "created": "Nov 17, 2026 10:17 AM ET",
+    "createTimeMs": 1794928638268,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "80954b96-b97f-442a-a2fe-8b3dac530b0e",
+        "durationSec": 175.8,
+        "file": "sixties/e60_12_meet_me_at_the_jukebox_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "eb07ba7b-14fa-4199-9e56-80ab17fc97db",
+        "durationSec": 174.8,
+        "file": "sixties/e60_12_meet_me_at_the_jukebox_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_12_meet_me_at_the_jukebox_req.json",
+      "sixties/e60_12_meet_me_at_the_jukebox_rec.json"
+    ],
+    "cover": "sixties/covers/e60_12_meet_me_at_the_jukebox.jpg",
+    "cleanCover": "sixties/covers/clean/e60_12_meet_me_at_the_jukebox.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 130 BPM, 4/4, E major. A grand, swaying beat with a Latin lilt. Enormous and innocent at once.\n\nVOICE: A young woman with a bright, nasal, slightly tough New York voice and a fast, trembling vibrato on held notes. Three more women sing the echoes and the wordless 'whoa' hook behind her, soaked in echo. She ad-libs over the last chorus.\n\nINSTRUMENTS: A drum kit that opens the record alone with four hits: kick, two kicks, and a snare with a handclap. Then a 'wall of sound': several pianos, several guitars, two basses, horns and a full string section all playing together in a large echo chamber. Castanets, maracas and tambourine throughout.\n\nARRANGEMENT MAP: 0:00 Intro, the four drum hits twice, then everything. 0:08 Verse 1. 0:30 Pre-chorus. 0:38 Chorus 1. 1:00 Verse 2. 1:22 Pre-chorus. 1:30 Chorus 2. 1:52 Instrumental, strings on the tune. 2:06 Break: everything stops for the four drum hits. 2:10 Final chorus with ad-libs. 2:30 Outro, the backing hook in a long echo, fading by 2:40.\n\nPRODUCTION & MIX: Early-1960s Los Angeles wall of sound: mono, dense and drenched in echo, with instruments blended into one roar and the voice riding on top.\n\nSIGNATURE MOMENT: The four drum hits at the very start, and again at 2:06.\n\nMODERN POINT OF VIEW: The second verse is sung fifty years on in the same girlish melody. That is the experience of hearing the original now: the voice stays seventeen and the listener does not.\n\nEMOTIONAL ARC: Hope, a leap of half a century, constancy.",
+    "workbookAtAGlance": "Meet Me at the Jukebox\n\nBackup titles\nYou Had a Nickel / And I Said 'What?'\n\nAt a glance\n130 BPM, E major\nVoice: Young female lead with a quick vibrato, girl-group backing\nLength: about 2 minutes 40",
+    "year": 1963,
+    "qa": {
+      "title": "Meet Me at the Jukebox",
+      "id": "e60_12",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.22 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 175.8,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 0.6,
+          "lufs": -13.2,
+          "peakDbfs": 0.22,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 175.5,
+          "vocalCoverage": 0.813,
+          "vocalSpanSec": [
+            7.9,
+            163.8
+          ],
+          "vocalF0MedianHz": 439,
+          "vocalF0P25Hz": 333,
+          "lyricLineRecall": 0.871,
+          "lyricUnclearSections": [
+            "Outro"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 174.8,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 0.6,
+          "lufs": -12.3,
+          "peakDbfs": -0.21,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.9,
+          "contentEndSec": 174.1,
+          "vocalCoverage": 0.763,
+          "vocalSpanSec": [
+            8.1,
+            173.2
+          ],
+          "vocalF0MedianHz": 417,
+          "vocalF0P25Hz": 372,
+          "lyricLineRecall": 0.871,
+          "lyricUnclearSections": [
+            "Outro"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other"
+  },
+  {
+    "id": "e60_13",
+    "title": "Well, Hello There",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 13,
+    "slug": "e60_13_well_hello_there",
+    "inspiredBy": "Oh, Pretty Woman (Roy Orbison, 1964)",
+    "leadVoice": "Female alto, warm and amused, with good comic timing. She sings the verses as if narrating to herself, drops in a playful growl and spoken asides, softens for the bridge, and sounds delighted at the end.",
+    "model": "V6",
+    "style": "1964 Nashville rock and roll story song, warm amused female alto vocal with comic timing, narrating to herself, a playful growl and spoken asides, softer bridge, delighted ending, 127 BPM, A major, confident strutting beat, twangy electric guitar riff that builds a few notes at a time and keeps stopping and starting, second guitar doubling, snare hit hard on every beat, electric bass, strings in the bridge, piano, handclaps, a spoken break before the final verse, clean punchy bright mix with slapback echo, playful, suspenseful, charming",
+    "negativeTags": "synthesizer, drum machine, male lead vocals, rap, heavy distortion, dark mood, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 185,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: stop-start guitar riff, snare hits, building]\n\n[Verse 1: playful, watching, full band]\nThere he goes, crossing at the light\nNewspaper folded, collar right\nI've seen that walk before somewhere\nGoodness\nWell, hello there\n\n[Verse 2: playful, a little bolder]\nThere he goes, slowing by the shop\nLooking in the window, coming to a stop\nIs he lost or is he shy?\nSay something, don't just stand and sigh\n\n[Growl: spoken aside, riff underneath]\nGrrr\nOh, behave\n\n[Bridge: softer, strings, hopeful]\nIf he turns left, I'll let it be\nIf he turns right, he's coming for tea\nI've got a kettle and a second cup\nI've got a lot of time to make up\n\n[Verse 3: band drops, resigned]\nThere he goes, down toward the square\nI should have waved, I should have dared\nIt's getting late, the bench is cold\nOh well, that's that, I'm far too old\n\n[Break: riff stops, one drum, spoken]\nHang on\nIs that his paper?\nHe's left his paper\n\n[Final Verse: riff returns, full band, delighted]\nThere he is, turning at the light\nPatting his pockets, what a sight\nHe's crossing over, coming near\nWell\nHello there\n\n[Outro: riff, final chord, a laugh]",
+    "taskId": "0cfc3e90af667f35fa1834d1abc4b0ef",
+    "sunoClipIds": [
+      "c4d8dbb6-2f59-4867-bec8-36269049db86",
+      "78e7a4fb-27fc-4ff6-99c9-7eb2558461f8"
+    ],
+    "created": "Nov 17, 2026 10:17 AM ET",
+    "createTimeMs": 1794928648808,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "c4d8dbb6-2f59-4867-bec8-36269049db86",
+        "durationSec": 184.52,
+        "file": "sixties/e60_13_well_hello_there_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "78e7a4fb-27fc-4ff6-99c9-7eb2558461f8",
+        "durationSec": 184.8,
+        "file": "sixties/e60_13_well_hello_there_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_13_well_hello_there_req.json",
+      "sixties/e60_13_well_hello_there_rec.json"
+    ],
+    "cover": "sixties/covers/e60_13_well_hello_there.jpg",
+    "cleanCover": "sixties/covers/clean/e60_13_well_hello_there.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 127 BPM, 4/4, A major. A confident, strutting beat with a riff that keeps stopping and starting. Playful and suspenseful.\n\nVOICE: Female alto, warm and amused, with good comic timing. She sings the verses as if narrating to herself, drops in a playful growl and spoken asides, softens for the bridge, and sounds delighted at the end.\n\nINSTRUMENTS: An electric guitar playing a twangy, climbing riff that builds a few notes at a time, stops, and starts again. A second guitar doubling it. A snare drum hit hard on every beat. Electric bass. A string section in the bridge. Piano. Handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, the riff building in stages. 0:14 Verse 1. 0:36 Verse 2. 0:56 The growl and a spoken aside over the riff. 1:04 Bridge with strings. 1:28 Verse 3, the band drops back. 1:52 Break: the riff stops, one drum, three spoken lines. 2:02 Final verse with the riff and full band. 2:28 Outro, the riff, a final chord and a laugh at 2:45.\n\nPRODUCTION & MIX: Mid-1960s Nashville rock and roll: clean, punchy and bright, guitars twangy, snare loud, a little slapback echo on the voice.\n\nSIGNATURE MOMENT: The break at 1:52, when the riff stops and she notices the newspaper.\n\nMODERN POINT OF VIEW: The watcher is a woman of a certain age, the object of interest has silver hair, and she has 'a lot of time to make up'. The original's fantasy becomes something that could happen on any high street.\n\nEMOTIONAL ARC: Interest, hope, resignation, delight.",
+    "workbookAtAGlance": "Well, Hello There\n\nBackup titles\nHe Forgot His Paper / Collar Right\n\nAt a glance\n127 BPM, A major\nVoice: Playful female alto with a growl\nLength: about 2 minutes 50",
+    "year": 1964,
+    "qa": {
+      "title": "Well, Hello There",
+      "id": "e60_13",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "hard stop (intended by the brief)"
+          ],
+          "durationSec": 184.5,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 127,
+          "bpmErrPct": 1.7,
+          "lufs": -13.9,
+          "peakDbfs": -0.32,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.2,
+          "contentEndSec": 183.3,
+          "vocalCoverage": 0.492,
+          "vocalSpanSec": [
+            7.8,
+            182.2
+          ],
+          "vocalF0MedianHz": 292,
+          "vocalF0P25Hz": 251,
+          "lyricLineRecall": 0.905,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 184.8,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 127,
+          "bpmErrPct": 1.7,
+          "lufs": -13.7,
+          "peakDbfs": -0.78,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.0,
+          "contentEndSec": 183.9,
+          "vocalCoverage": 0.48,
+          "vocalSpanSec": [
+            9.0,
+            178.9
+          ],
+          "vocalF0MedianHz": 292,
+          "vocalF0P25Hz": 257,
+          "lyricLineRecall": 0.905,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other"
+  },
+  {
+    "id": "e60_14",
+    "title": "Let Me Stare a Little",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 14,
+    "slug": "e60_14_let_me_stare_a_little",
+    "inspiredBy": "Can't Take My Eyes Off You (Frankie Valli, 1967)",
+    "leadVoice": "Male tenor. In the verses he sings softly and close, almost shyly, in a light head voice. In the chorus he opens into a full, ringing, joyful belt. A crowd of voices sings the horn build and the last chorus with him.",
+    "model": "V6",
+    "style": "1967 big band pop, male tenor singing hushed close almost shy verses in a light head voice then opening into a full ringing joyful belt for the chorus, crowd of voices singing along on the horn build and final chorus, 124 BPM, E major, quiet swaying verses and a brassy striding chorus, electric piano and brushed drums in the verses, big horn section playing a climbing clap-along figure then blazing through the chorus, electric bass, strings, rhythm guitar, tambourine, warm intimate then wide bright brassy mix, adoring, joyful",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, dark mood, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 195,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: soft electric piano, brushed drums, a low string note]\n\n[Verse 1: hushed, close, almost shy]\nYou walked in like a matinee\nI forgot what I came to say\nPardon me if I lose my place\nI've been reading the same line of your face\n\n[Verse 2: hushed, a little warmer]\nThirty years across a table\nStill can't look away, still not able\nPass the butter, pass the news\nI keep on looking, I can't choose\n\n[Horn Build: horns climb step by step, drums push, crowd sings]\nBa-da, ba-da, ba-da-da-da-da\nBa-da, ba-da, ba-da-da-da-da\n\n[Chorus: explosive, full band and horns, shouted with joy]\nOh, let me stare a little\nLet me look a while\nI've waited all my life, it seems\nTo catch that kind of smile\nOh, let me stare a little\nDon't you turn away\nIf looking is a crime, then lock me up\nAnd throw away the day\n\n[Verse 3: hushed again, strings]\nYou'll say \"what?\" and I'll say \"nothing\"\nYou'll say \"stop\" and you'll be bluffing\nThere's a grey now in your hair\nI put some of it there\n\n[Horn Build: horns climb step by step, drums push, crowd sings]\nBa-da, ba-da, ba-da-da-da-da\nBa-da, ba-da, ba-da-da-da-da\n\n[Final Chorus: everything, crowd singing, horns blazing]\nOh, let me stare a little\nLet me look a while\nI've waited all my life, it seems\nTo catch that kind of smile\nOh, let me stare a little\nDon't you turn away\nIf looking is a crime, then lock me up\nAnd throw away the day\n\n[Outro: horn figure repeats, crowd, fade]",
+    "taskId": "2a8429b7a0daa7cacd935463b8b34e5f",
+    "sunoClipIds": [
+      "5cc401cc-a750-4735-ae90-1ef0a5799f29",
+      "d2d81f6e-9eba-447c-afe2-4e99d5f382d1"
+    ],
+    "created": "Nov 17, 2026 10:17 AM ET",
+    "createTimeMs": 1794928656804,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "5cc401cc-a750-4735-ae90-1ef0a5799f29",
+        "durationSec": 195.6,
+        "file": "sixties/e60_14_let_me_stare_a_little_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "d2d81f6e-9eba-447c-afe2-4e99d5f382d1",
+        "durationSec": 194.76,
+        "file": "sixties/e60_14_let_me_stare_a_little_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_14_let_me_stare_a_little_req.json",
+      "sixties/e60_14_let_me_stare_a_little_rec.json"
+    ],
+    "cover": "sixties/covers/e60_14_let_me_stare_a_little.jpg",
+    "cleanCover": "sixties/covers/clean/e60_14_let_me_stare_a_little.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, E major. Hushed and swaying in the verses, then a brassy, striding shout. Two moods joined by a fanfare.\n\nVOICE: Male tenor. In the verses he sings softly and close, almost shyly, in a light head voice. In the chorus he opens into a full, ringing, joyful belt. A crowd of voices sings the horn build and the last chorus with him.\n\nINSTRUMENTS: Electric piano and a soft, brushed drum kit in the verses. A big horn section (trumpets, trombones, saxophones) that plays a climbing figure in a clear, clap-along rhythm and then blazes through the chorus. Electric bass. A string section. Rhythm guitar. Tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, electric piano. 0:10 Verse 1. 0:34 Verse 2. 0:58 Horn build. 1:10 Chorus 1. 1:42 Verse 3, hushed. 2:06 Horn build. 2:18 Final chorus with the crowd. 2:50 Outro, the horn figure repeating, fading by 3:00.\n\nPRODUCTION & MIX: Late-1960s big-band pop: warm and intimate in the verses, wide, bright and brassy in the chorus.\n\nSIGNATURE MOMENT: The horn build at 0:58, which tells every listener when to come in.\n\nMODERN POINT OF VIEW: The disbelief is not at a stranger's beauty. It is that after thirty years across a table he still cannot look away. The line about grey hair is the kind of joke long marriages run on.\n\nEMOTIONAL ARC: Shy wonder, an outburst, tenderness, a bigger outburst.",
+    "workbookAtAGlance": "Let Me Stare a Little\n\nBackup titles\nLock Me Up / Thirty Years Across a Table\n\nAt a glance\n124 BPM, E major\nVoice: Male tenor, hushed then full-throated\nLength: about 3 minutes",
+    "year": 1967,
+    "qa": {
+      "title": "Let Me Stare a Little",
+      "id": "e60_14",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 195.6,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -12.6,
+          "peakDbfs": -0.76,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 195.5,
+          "vocalCoverage": 0.811,
+          "vocalSpanSec": [
+            8.9,
+            178.8
+          ],
+          "vocalF0MedianHz": 311,
+          "vocalF0P25Hz": 245,
+          "lyricLineRecall": 0.969,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "ending cut at the length limit (last chord clipped)"
+          ],
+          "durationSec": 194.8,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -13.2,
+          "peakDbfs": -0.49,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.0,
+          "contentEndSec": 194.7,
+          "vocalCoverage": 0.795,
+          "vocalSpanSec": [
+            12.5,
+            194.8
+          ],
+          "vocalF0MedianHz": 312,
+          "vocalF0P25Hz": 261,
+          "lyricLineRecall": 0.906,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Pop"
+  },
+  {
+    "id": "e60_15",
+    "title": "So Long, Miss Abernathy",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 15,
+    "slug": "e60_15_so_long_miss_abernathy",
+    "inspiredBy": "Mrs. Robinson (Simon & Garfunkel, 1968)",
+    "leadVoice": "Two men singing in very close harmony, one high and pure, one lower and drier, so tightly matched that they sound like one voice with two edges. The verses are delivered quickly and lightly. Nonsense syllables at the start and end.",
+    "model": "V6",
+    "style": "1968 New York folk rock, two men in very close harmony, one high and pure, one lower and drier, sounding like one voice with two edges, quick light verses, nonsense syllables at the start and end, 92 BPM, F-sharp major, light chugging shuffle, two acoustic guitars strummed percussively with a chugging low-string figure, congas, electric bass, brushed drums, tambourine, soft electric guitar fills, crisp dry close mix, wry, wistful, affectionate",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, heavy drums, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 190,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: chugging acoustic guitars, congas, nonsense syllables]\nDoo-da-lee, doo-da-lee-dee\nDoo-da-lee, doo-da-lee-dee\n\n[Chorus: two voices in close harmony]\nWe see you there, Miss Abernathy\nThe kettle's on for more than only you\n(Ooh, ooh, ooh)\nStay as you are, Miss Abernathy\nThe avenue is leaning on you\n(Hey, hey, hey)\n\n[Verse 1: quick, sly, guitars and bass]\nShe taught the whole of Elm Street how to find a middle C\nShe kept a tin of buttons and a list of who owed tea\nShe knew which kids were hungry and she never said a word\nJust left a plate, and nobody heard\n\n[Chorus: two voices in close harmony]\nWe see you there, Miss Abernathy\nThe kettle's on for more than only you\n(Ooh, ooh, ooh)\nStay as you are, Miss Abernathy\nThe avenue is leaning on you\n(Hey, hey, hey)\n\n[Verse 2: quick, wistful]\nWhere did they go, the ones who knew our names?\nThe milkman and the crossing guard, the man who fixed the trains\nThe lady at the library who saved the book for you\nThe street is asking, and it's overdue\n\n[Verse 3: slower, guitars soften]\nThe van came on a Thursday and the piano went downstairs\nShe waved from the back window like a queen with other cares\nShe left the tin of buttons on the wall beside the gate\nWe shared them out, we stayed up late\n\n[Final Chorus: two voices, fuller, tambourine]\nSo long, so long, Miss Abernathy\nThe kettle's on, it's on for only you\n(Ooh, ooh, ooh)\nGo as you are, Miss Abernathy\nThe avenue will try to carry through\n(Hey, hey, hey)\n\n[Outro: guitars and nonsense syllables, fading]\nDoo-da-lee, doo-da-lee-dee",
+    "taskId": "c4407e30c5bf5994e2c9257d460d63fa",
+    "sunoClipIds": [
+      "d0dd0731-edc1-4f0c-bee8-448537872a60",
+      "6b1837ed-7cba-4fb5-8c92-1cc0a92ceef1"
+    ],
+    "created": "Nov 17, 2026 10:17 AM ET",
+    "createTimeMs": 1794928647105,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "d0dd0731-edc1-4f0c-bee8-448537872a60",
+        "durationSec": 189.4,
+        "file": "sixties/e60_15_so_long_miss_abernathy_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "6b1837ed-7cba-4fb5-8c92-1cc0a92ceef1",
+        "durationSec": 189.56,
+        "file": "sixties/e60_15_so_long_miss_abernathy_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_15_so_long_miss_abernathy_req.json",
+      "sixties/e60_15_so_long_miss_abernathy_rec.json"
+    ],
+    "cover": "sixties/covers/e60_15_so_long_miss_abernathy.jpg",
+    "cleanCover": "sixties/covers/clean/e60_15_so_long_miss_abernathy.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 92 BPM, 4/4, F-sharp major. A light, chugging folk-rock shuffle. Wry on the surface and wistful underneath.\n\nVOICE: Two men singing in very close harmony, one high and pure, one lower and drier, so tightly matched that they sound like one voice with two edges. The verses are delivered quickly and lightly. Nonsense syllables at the start and end.\n\nINSTRUMENTS: Two acoustic guitars strummed percussively, one playing a chugging low-string figure. Congas. Electric bass. A light drum kit with brushes. Tambourine. A soft electric guitar adding small fills.\n\nARRANGEMENT MAP: 0:00 Intro, guitars, congas and syllables. 0:12 Chorus. 0:34 Verse 1. 0:54 Chorus. 1:16 Verse 2. 1:36 Verse 3, slower and softer. 2:00 Final chorus with changed words. 2:24 Outro, guitars and syllables fading by 2:50.\n\nPRODUCTION & MIX: Late-1960s New York folk-rock: crisp, dry and close, acoustic guitars bright, the two voices blended and centred.\n\nSIGNATURE MOMENT: The turn at 1:16, when a song about one woman suddenly asks where everyone like her has gone.\n\nMODERN POINT OF VIEW: The watchers in the original are cold and the woman is being managed. Here the watchers are grateful neighbours, and the vanished heroes are local. It is the view of people who now are the old ones on the street.\n\nEMOTIONAL ARC: Affection, a wider sadness, a fond farewell.",
+    "workbookAtAGlance": "So Long, Miss Abernathy\n\nBackup titles\nA Plate, and Nobody Heard / The Ones Who Knew Our Names\n\nAt a glance\n92 BPM, F-sharp major\nVoice: Two male voices in close harmony\nLength: about 2 minutes 55",
+    "year": 1968,
+    "qa": {
+      "title": "So Long, Miss Abernathy",
+      "id": "e60_15",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 108 BPM vs 92 target (~17% off)"
+          ],
+          "durationSec": 189.4,
+          "measuredBpm": 107.7,
+          "bpmFactor": 1,
+          "targetBpm": 92,
+          "bpmErrPct": 17.0,
+          "lufs": -14.0,
+          "peakDbfs": -0.12,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 187.6,
+          "vocalCoverage": 0.743,
+          "vocalSpanSec": [
+            5.5,
+            179.9
+          ],
+          "vocalF0MedianHz": 261,
+          "vocalF0P25Hz": 220,
+          "lyricLineRecall": 0.818,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.21 dBFS (5 clipped sample, inaudible)"
+          ],
+          "durationSec": 189.6,
+          "measuredBpm": 129.2,
+          "bpmFactor": 0.67,
+          "targetBpm": 92,
+          "bpmErrPct": 6.4,
+          "lufs": -13.7,
+          "peakDbfs": 0.21,
+          "clipSamples": 5,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 187.4,
+          "vocalCoverage": 0.777,
+          "vocalSpanSec": [
+            4.9,
+            184.1
+          ],
+          "vocalF0MedianHz": 233,
+          "vocalF0P25Hz": 196,
+          "lyricLineRecall": 0.818,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Folk Rock"
+  },
+  {
+    "id": "e60_16",
+    "title": "L-I-S-T-E-N",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 16,
+    "slug": "e60_16_l_i_s_t_e_n",
+    "inspiredBy": "Respect (Aretha Franklin, 1967)",
+    "leadVoice": "A woman with a commanding, gospel-trained voice: huge, bright and completely in control, with shouts, slides and growls. Three backing singers answer her with tight 'ooh's and short phrases, then fire off a repeated phrase very fast in the vamp.",
+    "model": "V6",
+    "style": "1967 soul cut live in the studio, commanding gospel-trained female lead vocal, huge bright and in control with shouts, slides and growls, three female backing singers answering with tight oohs and firing off a rapid repeated phrase in the vamp, 115 BPM, C major, hard-driving strutting groove, punchy horn section, stinging electric guitar lick, driving drums with busy hi-hat, fat walking electric bass, hammered piano, gritty tenor saxophone solo, a break where the band stops and a word is spelled out over drums, raw tight loud mix, proud, sharp, triumphant",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, male lead vocals, slow ballad, autotune, EDM, strings",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 165,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: horn stabs, guitar lick, driving drums]\n\n[Verse 1: commanding, the backing singers answer]\nI've been talking since you walked in (ooh)\nYou've been nodding at your chin (ooh)\nI told you twice about my day\nYou said \"uh-huh\" and looked away\n\n[Chorus: lead and backing singers trading]\nAll I'm asking (ooh)\nIs for you to listen (just a minute)\nWhen I'm talking (just a minute)\nPut it down (put it down, put it down)\n\n[Verse 2: commanding, more heat]\nI don't need you to fix a thing (ooh)\nI don't need flowers, I don't need a ring (ooh)\nI need two ears and a little time\nYou give me yours, I'll give you mine\n\n[Chorus: lead and backing singers trading]\nAll I'm asking (ooh)\nIs for you to listen (just a minute)\nWhen I'm talking (just a minute)\nPut it down (put it down, put it down)\n\n[Saxophone Solo: tenor sax, gritty, eight bars]\n\n[Break: band stops, spelled out over drums only]\nL-I-S-T-E-N\nSay it back to me again\nL-I-S-T-E-N\nEars before your mouth, my friend\n\n[Vamp: full band, backing singers rapid-fire, lead ad-libbing]\n(Hear me out, hear me out, hear me out, hear me out)\nA little listening\n(Just a minute, just a minute)\nOh, is that so hard?\n(Hear me out, hear me out, hear me out, hear me out)\n\n[Outro: vamp continues, fast fade]",
+    "taskId": "92d37cf7c0114c0be3f4ec3696888a71",
+    "sunoClipIds": [
+      "892e679e-f336-4c00-842f-4d9b089809d4",
+      "754a8dda-97b4-4f24-bf1c-3b6812baddc1"
+    ],
+    "created": "Nov 17, 2026 10:17 AM ET",
+    "createTimeMs": 1794928651109,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "892e679e-f336-4c00-842f-4d9b089809d4",
+        "durationSec": 164.76,
+        "file": "sixties/e60_16_l_i_s_t_e_n_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "754a8dda-97b4-4f24-bf1c-3b6812baddc1",
+        "durationSec": 164.4,
+        "file": "sixties/e60_16_l_i_s_t_e_n_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_16_l_i_s_t_e_n_req.json",
+      "sixties/e60_16_l_i_s_t_e_n_rec.json"
+    ],
+    "cover": "sixties/covers/e60_16_l_i_s_t_e_n.jpg",
+    "cleanCover": "sixties/covers/clean/e60_16_l_i_s_t_e_n.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 115 BPM, 4/4, C major. A hard-driving, strutting soul groove. Proud, sharp and impossible to argue with.\n\nVOICE: A woman with a commanding, gospel-trained voice: huge, bright and completely in control, with shouts, slides and growls. Three backing singers answer her with tight 'ooh's and short phrases, then fire off a repeated phrase very fast in the vamp.\n\nINSTRUMENTS: A punchy horn section (trumpets and saxophones). A stinging electric guitar lick. A driving drum kit with a snare on the backbeat and a busy hi-hat. A fat, walking electric bass. Piano hammering chords. A gritty tenor saxophone for the solo. Tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, horns and guitar. 0:08 Verse 1. 0:28 Chorus 1. 0:42 Verse 2. 1:02 Chorus 2. 1:16 Saxophone solo. 1:32 Break: the band stops and the word is spelled out over drums. 1:48 Vamp, with the backing singers' rapid phrase and the lead ad-libbing. 2:14 Outro, the vamp fading quickly by 2:28.\n\nPRODUCTION & MIX: Late-1960s soul cut live in the studio: raw, tight and loud, horns and voice in front, everything recorded together.\n\nSIGNATURE MOMENT: The spelling at 1:32, with the band stopped.\n\nMODERN POINT OF VIEW: The thing demanded is attention, in an age when nobody looks up. 'I don't need you to fix a thing' is the line people in long relationships recognise instantly.\n\nEMOTIONAL ARC: Irritation, authority, triumph.",
+    "workbookAtAGlance": "L-I-S-T-E-N\n\nBackup titles\nEars Before Your Mouth / Just a Minute\n\nAt a glance\n115 BPM, C major\nVoice: Commanding female soul voice, sharp backing singers\nLength: about 2 minutes 30",
+    "year": 1967,
+    "qa": {
+      "title": "L-I-S-T-E-N",
+      "id": "e60_16",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 164.8,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 115,
+          "bpmErrPct": 2.3,
+          "lufs": -14.1,
+          "peakDbfs": -0.38,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.8,
+          "contentEndSec": 163.1,
+          "vocalCoverage": 0.668,
+          "vocalSpanSec": [
+            6.4,
+            151.2
+          ],
+          "vocalF0MedianHz": 573,
+          "vocalF0P25Hz": 522,
+          "lyricLineRecall": 0.96,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 164.4,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 115,
+          "bpmErrPct": 2.3,
+          "lufs": -13.5,
+          "peakDbfs": -1.17,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.8,
+          "contentEndSec": 162.8,
+          "vocalCoverage": 0.682,
+          "vocalSpanSec": [
+            7.5,
+            146.8
+          ],
+          "vocalF0MedianHz": 580,
+          "vocalF0P25Hz": 493,
+          "lyricLineRecall": 0.96,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Soul"
+  },
+  {
+    "id": "e60_17",
+    "title": "Hey, Freckles",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 17,
+    "slug": "e60_17_hey_freckles",
+    "inspiredBy": "Brown Eyed Girl (Van Morrison, 1967)",
+    "leadVoice": "Male tenor, warm and raspy with a soul singer's phrasing and an Irish colour, sliding around the beat as if making it up. Backing voices join on the sung syllables in the last chorus.",
+    "model": "V6",
+    "style": "1967 pop soul, warm raspy male tenor vocal with a soul singer's loose phrasing sliding around the beat, backing voices joining on sung syllables in the last chorus, 150 BPM, G major, light skipping beat with a Caribbean lilt, two electric guitars playing a bright lilting figure in harmony a third apart, melodic electric bass with a short solo break, light drums with a skipping pattern, acoustic rhythm guitar, tambourine, bright warm slightly rough live-feel mix, sunny, nostalgic, carefree",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, dark mood, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 190,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: lilting electric guitar figure in harmony, bass, light drums]\n\n[Verse 1: warm, raspy, quick]\nDown by the reservoir, shoes in the grass\nA bottle of pop and a bus pass\nSkipping every stone we found\nSun going down, sun going down\n\n[Chorus: band lifts, tambourine]\nHey, Freckles, you and me\nHalfway up the cherry tree\nHey, Freckles\nI can still hear the two of us go\nLa-la, la-la-dee-dah\nLa-la, la-la-dee-dah\n\n[Verse 2: warm, a little faster]\nBehind the bandstand, sharing a coat\nYou wrote your name on my hand, and I wrote\nMine on yours, and it wouldn't come clean\nWe were ten, or we might have been thirteen\n\n[Chorus: band lifts, tambourine]\nHey, Freckles, you and me\nHalfway up the cherry tree\nHey, Freckles\nI can still hear the two of us go\nLa-la, la-la-dee-dah\nLa-la, la-la-dee-dah\n\n[Bass Break: bass plays the melody alone, then guitar answers]\n\n[Verse 3: slower start, then picking up]\nNow I'm sixty-eight and the tree's a stump\nThe reservoir's a car park with a speed bump\nBut a kid went by with a nose like yours\nAll dots, and I was back outdoors\n\n[Final Chorus: full band, backing voices on the syllables]\nHey, Freckles, you and me\nHalfway up the cherry tree\nHey, Freckles\nI can still hear the two of us go\nLa-la, la-la-dee-dah\nLa-la, la-la-dee-dah\n\n[Outro: guitar figure, syllables, fade]\nLa-la, la-la-dee-dah",
+    "taskId": "2f7cd174e8714f2d502be324e7bdbc76",
+    "sunoClipIds": [
+      "572cfec5-2dc2-4a1f-9106-f8451fae40fd",
+      "94979e45-c3ff-4b9d-8b9c-3a83a17a9370"
+    ],
+    "created": "Nov 17, 2026 10:27 AM ET",
+    "createTimeMs": 1794929270217,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "572cfec5-2dc2-4a1f-9106-f8451fae40fd",
+        "durationSec": 189.88,
+        "file": "sixties/e60_17_hey_freckles_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "94979e45-c3ff-4b9d-8b9c-3a83a17a9370",
+        "durationSec": 190.04,
+        "file": "sixties/e60_17_hey_freckles_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_17_hey_freckles_req.json",
+      "sixties/e60_17_hey_freckles_rec.json"
+    ],
+    "cover": "sixties/covers/e60_17_hey_freckles.jpg",
+    "cleanCover": "sixties/covers/clean/e60_17_hey_freckles.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 150 BPM, 4/4, G major. A light, skipping beat with a Caribbean lilt. Sunny, loose and nostalgic.\n\nVOICE: Male tenor, warm and raspy with a soul singer's phrasing and an Irish colour, sliding around the beat as if making it up. Backing voices join on the sung syllables in the last chorus.\n\nINSTRUMENTS: Two electric guitars playing a bright, lilting figure in harmony a third apart. A melodic electric bass that takes a short solo. A light drum kit with a skipping pattern. Acoustic rhythm guitar. Tambourine. Soft backing voices.\n\nARRANGEMENT MAP: 0:00 Intro, the guitar figure. 0:10 Verse 1. 0:28 Chorus 1. 0:50 Verse 2. 1:08 Chorus 2. 1:30 Bass break. 1:44 Verse 3, starting slower and picking up. 2:06 Final chorus with backing voices. 2:30 Outro, the guitar figure and syllables fading by 2:50.\n\nPRODUCTION & MIX: Late-1960s pop-soul single: bright, warm and slightly rough, recorded quickly with a live feel.\n\nSIGNATURE MOMENT: The guitar figure in the first three seconds.\n\nMODERN POINT OF VIEW: The original looks back a few years. This looks back nearly sixty, at places that are now a car park, and is set off by a stranger's child. It keeps the tune of happiness and adds the distance.\n\nEMOTIONAL ARC: Memory, joy, a jolt of the present, joy again.",
+    "workbookAtAGlance": "Hey, Freckles\n\nBackup titles\nShoes in the Grass / A Nose Like Yours\n\nAt a glance\n150 BPM, G major\nVoice: Warm raspy male tenor\nLength: about 2 minutes 55",
+    "year": 1967,
+    "qa": {
+      "title": "Hey, Freckles",
+      "id": "e60_17",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 189.9,
+          "measuredBpm": 152.0,
+          "bpmFactor": 1,
+          "targetBpm": 150,
+          "bpmErrPct": 1.3,
+          "lufs": -12.2,
+          "peakDbfs": -0.39,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 188.1,
+          "vocalCoverage": 0.356,
+          "vocalSpanSec": [
+            12.0,
+            177.7
+          ],
+          "vocalF0MedianHz": 196,
+          "vocalF0P25Hz": 147,
+          "lyricLineRecall": 0.679,
+          "lyricUnclearSections": [
+            "Verse 2",
+            "Outro"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.08 dBFS (3 clipped sample, inaudible)"
+          ],
+          "durationSec": 190.1,
+          "measuredBpm": 152.0,
+          "bpmFactor": 1,
+          "targetBpm": 150,
+          "bpmErrPct": 1.3,
+          "lufs": -12.7,
+          "peakDbfs": 0.08,
+          "clipSamples": 3,
+          "midGaps": [],
+          "endFadeSec": 1.3,
+          "contentEndSec": 188.4,
+          "vocalCoverage": 0.431,
+          "vocalSpanSec": [
+            13.3,
+            187.8
+          ],
+          "vocalF0MedianHz": 247,
+          "vocalF0P25Hz": 220,
+          "lyricLineRecall": 0.964,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Soul"
+  },
+  {
+    "id": "e60_18",
+    "title": "Hey, Rosalie",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 18,
+    "slug": "e60_18_hey_rosalie",
+    "inspiredBy": "Sweet Caroline (Neil Diamond, 1969)",
+    "leadVoice": "Male baritone, warm, grainy and close in the verses, almost talking. He opens up to a broad, full-voiced, friendly shout in the chorus. A crowd sings the horn notes ('da, da, da') and shouts the bracketed replies.",
+    "model": "V6",
+    "style": "1969 pop singalong, warm grainy male baritone vocal, close almost talking verses and a broad full-voiced friendly chorus, crowd singing the horn notes and shouting replies in the gaps, 126 BPM, B major lifting a step for the final chorus, quiet careful verse and big open swaying chorus, electric piano, soft bass, horn section playing a rising figure and three bright notes after the title, drums building step by step through the pre-chorus, strings, acoustic guitar strum, tambourine, handclaps, warm then wide brassy mix, joyful, communal, romantic",
+    "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, dark mood, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 195,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: soft electric piano, bass, a quiet horn figure]\n\n[Verse 1: warm, low, hesitant]\nCouldn't say when the morning turned to you\nIt was grey, then it wasn't, that's all I knew\nOne day a coat on the hook that wasn't mine\nNext day a second cup, a second line\n\n[Pre-Chorus: climbing step by step, drums building]\nStep\nBy step\nCloser\nOne more step\n\n[Chorus: full band, horns answer, crowd shouts the replies]\nHey, Rosalie (da, da, da)\nMonday never looked so fine\n(That's right, that's right)\nI've got a mind (da, da, da)\nTo tell the whole street you're mine\n(Go on, then)\n\n[Verse 2: warm, a little bolder]\nNow the hallway's got two umbrellas in the stand\nAnd I'm learning how to walk while holding a hand\nI was quiet, I was careful, I was fine\nThen you laughed in my kitchen, and it's been a long time\n\n[Pre-Chorus: climbing step by step, drums building]\nStep\nBy step\nCloser\nOne more step\n\n[Chorus: full band, horns answer, crowd shouts the replies]\nHey, Rosalie (da, da, da)\nMonday never looked so fine\n(That's right, that's right)\nI've got a mind (da, da, da)\nTo tell the whole street you're mine\n(Go on, then)\n\n[Instrumental: horns play the chorus melody, crowd clapping]\n\n[Final Chorus: everyone, key up a step, crowd at full voice]\nHey, Rosalie (da, da, da)\nMonday never looked so fine\n(That's right, that's right)\nI've got a mind (da, da, da)\nTo tell the whole street you're mine\n(Go on, then)\nHey, Rosalie\n\n[Outro: horns, crowd cheering, fade]",
+    "taskId": "fc3e93b09c67ec888754dbd13b44e6c2",
+    "sunoClipIds": [
+      "57cbcac0-0bc3-4097-b4e4-2c3394ae6796",
+      "2feeb2da-1887-4d35-bff9-67a29ef59822"
+    ],
+    "created": "Nov 17, 2026 10:17 AM ET",
+    "createTimeMs": 1794928676233,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "57cbcac0-0bc3-4097-b4e4-2c3394ae6796",
+        "durationSec": 194.36,
+        "file": "sixties/e60_18_hey_rosalie_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "2feeb2da-1887-4d35-bff9-67a29ef59822",
+        "durationSec": 195.0,
+        "file": "sixties/e60_18_hey_rosalie_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_18_hey_rosalie_req.json",
+      "sixties/e60_18_hey_rosalie_rec.json"
+    ],
+    "cover": "sixties/covers/e60_18_hey_rosalie.jpg",
+    "cleanCover": "sixties/covers/clean/e60_18_hey_rosalie.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 126 BPM, 4/4, B major, lifting a step for the last chorus. A quiet, careful verse and a big, open, swaying chorus built for a crowd.\n\nVOICE: Male baritone, warm, grainy and close in the verses, almost talking. He opens up to a broad, full-voiced, friendly shout in the chorus. A crowd sings the horn notes ('da, da, da') and shouts the bracketed replies.\n\nINSTRUMENTS: Electric piano and a soft bass in the verses. A horn section (trumpets and trombones) that plays a quiet rising figure and then three bright notes after the title in each chorus. A drum kit that builds through the pre-chorus. A string section. Acoustic guitar strum. Tambourine and handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, electric piano and a quiet horn figure. 0:12 Verse 1. 0:36 Pre-chorus, four steps upward. 0:46 Chorus 1 with crowd replies. 1:08 Verse 2. 1:32 Pre-chorus. 1:42 Chorus 2. 2:04 Instrumental, horns on the tune with clapping. 2:18 The key lifts for the final chorus. 2:44 Outro, horns and cheering, fading by 2:58.\n\nPRODUCTION & MIX: Late-1960s pop: warm and intimate in the verse, wide and brassy in the chorus, with the crowd mixed in as part of the band.\n\nSIGNATURE MOMENT: The first three horn notes and the crowd's reply at 0:48.\n\nMODERN POINT OF VIEW: The love arrives as household evidence: a coat, a cup, two umbrellas. He was 'quiet, careful and fine' before. It reads as a second chance later in life, and the day celebrated is a Monday.\n\nEMOTIONAL ARC: Hesitation, growing nerve, public joy.",
+    "workbookAtAGlance": "Hey, Rosalie\n\nBackup titles\nA Second Cup / Go On, Then\n\nAt a glance\n126 BPM, B major\nVoice: Warm male baritone, crowd responses\nLength: about 3 minutes",
+    "year": 1969,
+    "qa": {
+      "title": "Hey, Rosalie",
+      "id": "e60_18",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 194.4,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 126,
+          "bpmErrPct": 2.5,
+          "lufs": -13.3,
+          "peakDbfs": -0.32,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 194.3,
+          "vocalCoverage": 0.76,
+          "vocalSpanSec": [
+            8.8,
+            192.8
+          ],
+          "vocalF0MedianHz": 263,
+          "vocalF0P25Hz": 211,
+          "lyricLineRecall": 0.964,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "ending cut at the length limit (last chord clipped)"
+          ],
+          "durationSec": 195.0,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 126,
+          "bpmErrPct": 2.5,
+          "lufs": -13.5,
+          "peakDbfs": -0.27,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.7,
+          "contentEndSec": 194.9,
+          "vocalCoverage": 0.785,
+          "vocalSpanSec": [
+            16.1,
+            194.9
+          ],
+          "vocalF0MedianHz": 496,
+          "vocalF0P25Hz": 207,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Pop"
+  },
+  {
+    "id": "e60_19",
+    "title": "Wait, Did You Hear That",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 19,
+    "slug": "e60_19_wait_did_you_hear_that",
+    "inspiredBy": "For What It's Worth (Buffalo Springfield, 1966)",
+    "leadVoice": "Male tenor, calm, young and level, almost conversational, with no vibrato. He does not raise his voice at any point. A small group of voices delivers the chorus in a hushed near-speech with handclaps.",
+    "model": "V6",
+    "style": "1966 Los Angeles folk rock, calm young level male tenor vocal with no vibrato, almost conversational and never raised, small group delivering the chorus in hushed near-speech with handclaps, 98 BPM, E major, slow spare and watchful, electric guitar playing two ringing bell-like harmonic notes over and over, second guitar with slow tremolo, plain soft bass, drums playing only a slow kick and snare tap, fuzzy restrained lead guitar answering the vocal, acoustic guitar, dry sparse clear mix, tense, uneasy, thoughtful",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, loud heavy drums, bright happy pop, autotune, EDM",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 175,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: two ringing guitar harmonics repeating, slow kick, tremolo]\n\n[Verse 1: calm, quiet, close]\nSomething's shifted on our street\nCouldn't tell you what or who\nPeople talking through their teeth\nEverybody's sure, and nobody knew\n\n[Chorus: group voices, nearly spoken, handclaps]\nHold on, hush\nWait, did you hear that?\nEverybody listen to the ground\n\n[Verse 2: calm, bass and drums steady]\nUsed to wave across the hedges\nNow we check each other's signs\nSomebody moved all the edges\nSomebody redrew the lines\n\n[Chorus: group voices, nearly spoken, handclaps]\nHold on, hush\nWait, did you hear that?\nEverybody listen to the ground\n\n[Verse 3: calm, lead guitar answering]\nEvery pocket's got a siren\nEvery siren wants a crowd\nIt's a business, being frightened\nAnd the business is loud\n\n[Chorus: group voices, nearly spoken, handclaps]\nHold on, hush\nWait, did you hear that?\nEverybody listen to the ground\n\n[Guitar Solo: fuzzy, restrained, over the two-note figure]\n\n[Verse 4: quietest, almost whispered]\nPut the kettle on for someone\nKnock on a door you never do\nIt's a small thing, and it's some one\nAnd it might be me or you\n\n[Final Chorus: group voices, repeating, fading]\nHold on, hush\nWait, did you hear that?\nEverybody listen to the ground\nHold on, hush",
+    "taskId": "7b7192da89a7d0ee60affe8192190355",
+    "sunoClipIds": [
+      "c5a2b47e-964d-490f-8c3c-51b8bb0f4903",
+      "9037dbe6-4ce9-4132-a689-c002c9b71644"
+    ],
+    "created": "Nov 17, 2026 10:18 AM ET",
+    "createTimeMs": 1794928683252,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "c5a2b47e-964d-490f-8c3c-51b8bb0f4903",
+        "durationSec": 174.76,
+        "file": "sixties/e60_19_wait_did_you_hear_that_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "9037dbe6-4ce9-4132-a689-c002c9b71644",
+        "durationSec": 174.36,
+        "file": "sixties/e60_19_wait_did_you_hear_that_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_19_wait_did_you_hear_that_req.json",
+      "sixties/e60_19_wait_did_you_hear_that_rec.json"
+    ],
+    "cover": "sixties/covers/e60_19_wait_did_you_hear_that.jpg",
+    "cleanCover": "sixties/covers/clean/e60_19_wait_did_you_hear_that.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 98 BPM, 4/4, E major. Slow, spare and watchful. Tense because it is so quiet.\n\nVOICE: Male tenor, calm, young and level, almost conversational, with no vibrato. He does not raise his voice at any point. A small group of voices delivers the chorus in a hushed near-speech with handclaps.\n\nINSTRUMENTS: An electric guitar playing two ringing, bell-like harmonic notes over and over, the song's signal. A second guitar with a slow tremolo effect. A plain, soft bass. A drum kit playing only a slow kick and a tap on the snare. A lead guitar with a fuzzy but restrained tone answering the vocal. Acoustic guitar.\n\nARRANGEMENT MAP: 0:00 Intro, the two ringing notes and a slow kick. 0:10 Verse 1. 0:30 Chorus 1. 0:42 Verse 2. 1:02 Chorus 2. 1:14 Verse 3. 1:34 Chorus 3. 1:46 Guitar solo. 2:00 Verse 4, the quietest. 2:20 Final chorus, repeating and fading by 2:38.\n\nPRODUCTION & MIX: Mid-1960s Los Angeles folk-rock: dry, sparse and clear, with a lot of empty space around a few sounds.\n\nSIGNATURE MOMENT: The two ringing guitar notes in the first three seconds.\n\nMODERN POINT OF VIEW: The original only says stop and look. The last verse here offers something to do: put the kettle on for someone, knock on a door. That is an older person's answer to unrest, and it is small on purpose.\n\nEMOTIONAL ARC: Unease, observation, a quiet suggestion.",
+    "workbookAtAGlance": "Wait, Did You Hear That\n\nBackup titles\nSomebody Redrew the Lines / Business Is Loud\n\nAt a glance\n98 BPM, E major\nVoice: Calm male tenor, group on the chorus\nLength: about 2 minutes 40",
+    "year": 1966,
+    "qa": {
+      "title": "Wait, Did You Hear That",
+      "id": "e60_19",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 174.8,
+          "measuredBpm": 99.4,
+          "bpmFactor": 1,
+          "targetBpm": 98,
+          "bpmErrPct": 1.4,
+          "lufs": -14.1,
+          "peakDbfs": -0.4,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 173.2,
+          "vocalCoverage": 0.514,
+          "vocalSpanSec": [
+            10.9,
+            164.6
+          ],
+          "vocalF0MedianHz": 209,
+          "vocalF0P25Hz": 165,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 174.4,
+          "measuredBpm": 99.4,
+          "bpmFactor": 1,
+          "targetBpm": 98,
+          "bpmErrPct": 1.4,
+          "lufs": -13.9,
+          "peakDbfs": -0.01,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 172.2,
+          "vocalCoverage": 0.428,
+          "vocalSpanSec": [
+            11.1,
+            157.8
+          ],
+          "vocalF0MedianHz": 209,
+          "vocalF0P25Hz": 165,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Folk Rock"
+  },
+  {
+    "id": "e60_20",
+    "title": "Sixty-Five and Unsupervised",
+    "collection": "sixties",
+    "album": "60s Reimagined",
+    "track": 20,
+    "slug": "e60_20_sixty_five_and_unsupervised",
+    "inspiredBy": "Born to Be Wild (Steppenwolf, 1968)",
+    "leadVoice": "Male, gravelly and deep-chested with a rough, barking edge, sounding like someone who has shouted over engines. He grins through the second verse. A gang of voices shouts the chorus with him.",
+    "model": "V6",
+    "style": "1968 hard rock road anthem, gravelly deep-chested male rock voice with a rough barking edge and a grin, gang of voices shouting the chorus, 146 BPM, E minor, hard driving beat, distorted electric guitar playing a short growling engine-like riff, swirling gritty overdriven electric organ taking the solo, thick driving bass, hard-hit drums with rolling toms into each chorus, second guitar on chords, engine sound at the end, raw loud slightly overdriven mix, gleeful, rebellious, comic",
+    "negativeTags": "synthesizer, drum machine, female lead vocals, rap, ballad, strings, autotune, EDM, saxophone",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 190,
+    "customMode": true,
+    "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: growling distorted guitar riff, snare crack, swirling organ]\n\n[Verse 1: gravelly, urgent, full band]\nHand me down the road map, the paper kind, the big one\nSold the house in April and we bought a thing with wheels on\nKids think we've gone crazy and the dog thinks we're divine\nThere's forty thousand miles of road and every inch is mine\n\n[Pre-Chorus: organ climbs, drums rolling]\nLike a couple of kids with the keys\nWe're gone on the first good breeze\n\n[Chorus: gang vocals, riff underneath]\nSixty-five and unsupervised\nGot a full tank, got a discount, got the wind and the sky\nSixty-five and unsupervised\nWe were good for forty years, now watch us fly\n\n[Verse 2: gravelly, grinning]\nI like the smell of diesel and a diner at the dawn\nPension-funded thunder with the cruise control on\nNobody needs a report and nobody's keeping score\nWe'll be home when we're home, and we might not be before\n\n[Pre-Chorus: organ climbs, drums rolling]\nLike a couple of kids with the keys\nWe're gone on the first good breeze\n\n[Chorus: gang vocals, riff underneath]\nSixty-five and unsupervised\nGot a full tank, got a discount, got the wind and the sky\nSixty-five and unsupervised\nWe were good for forty years, now watch us fly\n\n[Organ Solo: swirling, distorted, then guitar joins]\n\n[Final Chorus: everything, voice shouting over the gang]\nSixty-five and unsupervised\nGot a full tank, got a discount, got the wind and the sky\nSixty-five and unsupervised\nWe were good for forty years, now watch us fly\nWatch us fly\n\n[Outro: riff, organ, an engine pulling away, fade]",
+    "taskId": "c64ed876851e635d47f79dca62abf445",
+    "sunoClipIds": [
+      "bd9c8813-46db-4130-9957-a6b6672a830e",
+      "d2784cf1-9bc3-4d09-aa1a-5a4dc635fd20"
+    ],
+    "created": "Nov 17, 2026 10:17 AM ET",
+    "createTimeMs": 1794928667272,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "bd9c8813-46db-4130-9957-a6b6672a830e",
+        "durationSec": 189.96,
+        "file": "sixties/e60_20_sixty_five_and_unsupervised_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "d2784cf1-9bc3-4d09-aa1a-5a4dc635fd20",
+        "durationSec": 189.28,
+        "file": "sixties/e60_20_sixty_five_and_unsupervised_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "sixties/e60_20_sixty_five_and_unsupervised_req.json",
+      "sixties/e60_20_sixty_five_and_unsupervised_rec.json"
+    ],
+    "cover": "sixties/covers/e60_20_sixty_five_and_unsupervised.jpg",
+    "cleanCover": "sixties/covers/clean/e60_20_sixty_five_and_unsupervised.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 146 BPM, 4/4, E minor. A hard, driving rock beat. Loud, gleeful and in a hurry.\n\nVOICE: Male, gravelly and deep-chested with a rough, barking edge, sounding like someone who has shouted over engines. He grins through the second verse. A gang of voices shouts the chorus with him.\n\nINSTRUMENTS: A distorted electric guitar playing a short, growling, engine-like riff. A swirling electric organ with a gritty, overdriven tone that takes the solo. A thick, driving bass. A drum kit hit hard, with rolling toms into each chorus. A second guitar on chords. The sound of an engine at the end.\n\nARRANGEMENT MAP: 0:00 Intro, the riff, a snare crack and the organ. 0:10 Verse 1. 0:36 Pre-chorus. 0:44 Chorus 1. 1:02 Verse 2. 1:28 Pre-chorus. 1:36 Chorus 2. 1:54 Organ solo, with guitar joining. 2:16 Final chorus. 2:38 Outro, riff and organ under an engine pulling away, fading by 2:52.\n\nPRODUCTION & MIX: Late-1960s hard rock: raw, loud and slightly overdriven everywhere, guitar and organ fighting for the front.\n\nSIGNATURE MOMENT: The riff and the snare crack in the first two seconds.\n\nMODERN POINT OF VIEW: The wild ones are retired, have a discount card and use cruise control. The joke is affectionate and the freedom is real: forty years of being good, and then the road.\n\nEMOTIONAL ARC: Glee, more glee, departure.",
+    "workbookAtAGlance": "Sixty-Five and Unsupervised\n\nBackup titles\nA Thing With Wheels On / Watch Us Fly\n\nAt a glance\n146 BPM, E minor\nVoice: Gravelly male rock voice, gang chorus\nLength: about 2 minutes 55",
+    "year": 1968,
+    "qa": {
+      "title": "Sixty-Five and Unsupervised",
+      "id": "e60_20",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 190.0,
+          "measuredBpm": 143.6,
+          "bpmFactor": 1,
+          "targetBpm": 146,
+          "bpmErrPct": 1.7,
+          "lufs": -13.4,
+          "peakDbfs": -0.8,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.8,
+          "contentEndSec": 188.9,
+          "vocalCoverage": 0.542,
+          "vocalSpanSec": [
+            16.4,
+            176.1
+          ],
+          "vocalF0MedianHz": 923,
+          "vocalF0P25Hz": 826,
+          "lyricLineRecall": 0.96,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 189.3,
+          "measuredBpm": 143.6,
+          "bpmFactor": 1,
+          "targetBpm": 146,
+          "bpmErrPct": 1.7,
+          "lufs": -13.9,
+          "peakDbfs": -2.11,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.9,
+          "contentEndSec": 186.5,
+          "vocalCoverage": 0.54,
+          "vocalSpanSec": [
+            16.9,
+            168.6
+          ],
+          "vocalF0MedianHz": 329,
+          "vocalF0P25Hz": 256,
+          "lyricLineRecall": 0.96,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hard Rock"
   }
 ]

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Dim the Whole World",
+  "prompt": "[Intro: droning sitar riff alone, then galloping tom-toms]\n\n[Verse 1: sneering, low, driving beat]\nDraw the curtains on the garden, put a cloth across the glass\nUnplug the coloured lights and let the summer pass\nSomebody's laughing on the street outside my door\nI can't be doing with the brightness any more\n\n[Chorus: sitar doubles the voice, bass pounding]\nDim it, dim it, dim the whole world down\nTurn the sun to embers, turn the sky to brown\nI'll come back to colour when the colour's mine\nTill then, dim the whole world down\n\n[Verse 2: sneering, more urgent]\nThe telephone keeps lighting like a window in the night\nEvery little picture is too happy and too bright\nI walk among the neighbours and I nod and look away\nThere's nothing in the world I've got to say\n\n[Chorus: sitar doubles the voice, bass pounding]\nDim it, dim it, dim the whole world down\nTurn the sun to embers, turn the sky to brown\nI'll come back to colour when the colour's mine\nTill then, dim the whole world down\n\n[Bridge: drums drop to a heartbeat, voice close]\nNobody said the light would hurt\nNobody said\n\n[Final Chorus: full band, organ, voice shouting]\nDim it, dim it, dim the whole world down\nTurn the sun to embers, turn the sky to brown\nI'll come back to colour when the colour's mine\nTill then, dim the whole world down\n\n[Outro: humming over the sitar riff, drums gallop, fade]\nHmm, hmm-hmm, hmm\nHmm, hmm-hmm, hmm",
+  "style": "1966 British rock with raga influence, nasal sneering male vocal half sung and half snarled, low verses and a shouted last chorus, hummed outro, 159 BPM, E minor with an Eastern modal flavour, relentless gallop, sitar playing a droning winding riff that doubles the vocal melody, galloping tom-tom drums with almost no cymbals, pounding bass doubled on organ pedals, hard-strummed acoustic guitar, organ, castanets, raw dense slightly distorted mono-ish mix, dark, hypnotic, driven",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, bright happy pop, autotune, EDM, saxophone",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "callBackUrl": "https://example.com/cb"
+}

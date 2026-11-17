@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "L-I-S-T-E-N",
+  "prompt": "[Intro: horn stabs, guitar lick, driving drums]\n\n[Verse 1: commanding, the backing singers answer]\nI've been talking since you walked in (ooh)\nYou've been nodding at your chin (ooh)\nI told you twice about my day\nYou said \"uh-huh\" and looked away\n\n[Chorus: lead and backing singers trading]\nAll I'm asking (ooh)\nIs for you to listen (just a minute)\nWhen I'm talking (just a minute)\nPut it down (put it down, put it down)\n\n[Verse 2: commanding, more heat]\nI don't need you to fix a thing (ooh)\nI don't need flowers, I don't need a ring (ooh)\nI need two ears and a little time\nYou give me yours, I'll give you mine\n\n[Chorus: lead and backing singers trading]\nAll I'm asking (ooh)\nIs for you to listen (just a minute)\nWhen I'm talking (just a minute)\nPut it down (put it down, put it down)\n\n[Saxophone Solo: tenor sax, gritty, eight bars]\n\n[Break: band stops, spelled out over drums only]\nL-I-S-T-E-N\nSay it back to me again\nL-I-S-T-E-N\nEars before your mouth, my friend\n\n[Vamp: full band, backing singers rapid-fire, lead ad-libbing]\n(Hear me out, hear me out, hear me out, hear me out)\nA little listening\n(Just a minute, just a minute)\nOh, is that so hard?\n(Hear me out, hear me out, hear me out, hear me out)\n\n[Outro: vamp continues, fast fade]",
+  "style": "1967 soul cut live in the studio, commanding gospel-trained female lead vocal, huge bright and in control with shouts, slides and growls, three female backing singers answering with tight oohs and firing off a rapid repeated phrase in the vamp, 115 BPM, C major, hard-driving strutting groove, punchy horn section, stinging electric guitar lick, driving drums with busy hi-hat, fat walking electric bass, hammered piano, gritty tenor saxophone solo, a break where the band stops and a word is spelled out over drums, raw tight loud mix, proud, sharp, triumphant",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, male lead vocals, slow ballad, autotune, EDM, strings",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 165,
+  "callBackUrl": "https://example.com/cb"
+}

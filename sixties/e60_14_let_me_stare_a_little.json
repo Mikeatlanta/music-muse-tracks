@@ -1,0 +1,117 @@
+{
+  "id": "e60_14",
+  "title": "Let Me Stare a Little",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 14,
+  "slug": "e60_14_let_me_stare_a_little",
+  "inspiredBy": "Can't Take My Eyes Off You (Frankie Valli, 1967)",
+  "leadVoice": "Male tenor. In the verses he sings softly and close, almost shyly, in a light head voice. In the chorus he opens into a full, ringing, joyful belt. A crowd of voices sings the horn build and the last chorus with him.",
+  "model": "V6",
+  "style": "1967 big band pop, male tenor singing hushed close almost shy verses in a light head voice then opening into a full ringing joyful belt for the chorus, crowd of voices singing along on the horn build and final chorus, 124 BPM, E major, quiet swaying verses and a brassy striding chorus, electric piano and brushed drums in the verses, big horn section playing a climbing clap-along figure then blazing through the chorus, electric bass, strings, rhythm guitar, tambourine, warm intimate then wide bright brassy mix, adoring, joyful",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, dark mood, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft electric piano, brushed drums, a low string note]\n\n[Verse 1: hushed, close, almost shy]\nYou walked in like a matinee\nI forgot what I came to say\nPardon me if I lose my place\nI've been reading the same line of your face\n\n[Verse 2: hushed, a little warmer]\nThirty years across a table\nStill can't look away, still not able\nPass the butter, pass the news\nI keep on looking, I can't choose\n\n[Horn Build: horns climb step by step, drums push, crowd sings]\nBa-da, ba-da, ba-da-da-da-da\nBa-da, ba-da, ba-da-da-da-da\n\n[Chorus: explosive, full band and horns, shouted with joy]\nOh, let me stare a little\nLet me look a while\nI've waited all my life, it seems\nTo catch that kind of smile\nOh, let me stare a little\nDon't you turn away\nIf looking is a crime, then lock me up\nAnd throw away the day\n\n[Verse 3: hushed again, strings]\nYou'll say \"what?\" and I'll say \"nothing\"\nYou'll say \"stop\" and you'll be bluffing\nThere's a grey now in your hair\nI put some of it there\n\n[Horn Build: horns climb step by step, drums push, crowd sings]\nBa-da, ba-da, ba-da-da-da-da\nBa-da, ba-da, ba-da-da-da-da\n\n[Final Chorus: everything, crowd singing, horns blazing]\nOh, let me stare a little\nLet me look a while\nI've waited all my life, it seems\nTo catch that kind of smile\nOh, let me stare a little\nDon't you turn away\nIf looking is a crime, then lock me up\nAnd throw away the day\n\n[Outro: horn figure repeats, crowd, fade]",
+  "taskId": "2a8429b7a0daa7cacd935463b8b34e5f",
+  "sunoClipIds": [
+    "5cc401cc-a750-4735-ae90-1ef0a5799f29",
+    "d2d81f6e-9eba-447c-afe2-4e99d5f382d1"
+  ],
+  "created": "Nov 17, 2026 10:17 AM ET",
+  "createTimeMs": 1794928656804,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "5cc401cc-a750-4735-ae90-1ef0a5799f29",
+      "durationSec": 195.6,
+      "file": "sixties/e60_14_let_me_stare_a_little_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d2d81f6e-9eba-447c-afe2-4e99d5f382d1",
+      "durationSec": 194.76,
+      "file": "sixties/e60_14_let_me_stare_a_little_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_14_let_me_stare_a_little_req.json",
+    "sixties/e60_14_let_me_stare_a_little_rec.json"
+  ],
+  "cover": "sixties/covers/e60_14_let_me_stare_a_little.jpg",
+  "cleanCover": "sixties/covers/clean/e60_14_let_me_stare_a_little.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, E major. Hushed and swaying in the verses, then a brassy, striding shout. Two moods joined by a fanfare.\n\nVOICE: Male tenor. In the verses he sings softly and close, almost shyly, in a light head voice. In the chorus he opens into a full, ringing, joyful belt. A crowd of voices sings the horn build and the last chorus with him.\n\nINSTRUMENTS: Electric piano and a soft, brushed drum kit in the verses. A big horn section (trumpets, trombones, saxophones) that plays a climbing figure in a clear, clap-along rhythm and then blazes through the chorus. Electric bass. A string section. Rhythm guitar. Tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, electric piano. 0:10 Verse 1. 0:34 Verse 2. 0:58 Horn build. 1:10 Chorus 1. 1:42 Verse 3, hushed. 2:06 Horn build. 2:18 Final chorus with the crowd. 2:50 Outro, the horn figure repeating, fading by 3:00.\n\nPRODUCTION & MIX: Late-1960s big-band pop: warm and intimate in the verses, wide, bright and brassy in the chorus.\n\nSIGNATURE MOMENT: The horn build at 0:58, which tells every listener when to come in.\n\nMODERN POINT OF VIEW: The disbelief is not at a stranger's beauty. It is that after thirty years across a table he still cannot look away. The line about grey hair is the kind of joke long marriages run on.\n\nEMOTIONAL ARC: Shy wonder, an outburst, tenderness, a bigger outburst.",
+  "workbookAtAGlance": "Let Me Stare a Little\n\nBackup titles\nLock Me Up / Thirty Years Across a Table\n\nAt a glance\n124 BPM, E major\nVoice: Male tenor, hushed then full-throated\nLength: about 3 minutes",
+  "year": 1967,
+  "qa": {
+    "title": "Let Me Stare a Little",
+    "id": "e60_14",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 195.6,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 4.2,
+        "lufs": -12.6,
+        "peakDbfs": -0.76,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 195.5,
+        "vocalCoverage": 0.811,
+        "vocalSpanSec": [
+          8.9,
+          178.8
+        ],
+        "vocalF0MedianHz": 311,
+        "vocalF0P25Hz": 245,
+        "lyricLineRecall": 0.969,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)"
+        ],
+        "durationSec": 194.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 4.2,
+        "lufs": -13.2,
+        "peakDbfs": -0.49,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.0,
+        "contentEndSec": 194.7,
+        "vocalCoverage": 0.795,
+        "vocalSpanSec": [
+          12.5,
+          194.8
+        ],
+        "vocalF0MedianHz": 312,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.906,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

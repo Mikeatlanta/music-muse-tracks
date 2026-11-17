@@ -1,0 +1,115 @@
+{
+  "id": "e60_04",
+  "title": "Say the Word and I'm Driving",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 4,
+  "slug": "e60_04_say_the_word_and_im_driving",
+  "inspiredBy": "Ain't No Mountain High Enough (Marvin Gaye & Tammi Terrell, 1967)",
+  "leadVoice": "A man with a smooth, sweet, agile tenor and a woman with a bright, clear soprano. They take a verse each, sing the chorus together, and trade short lines in the bridge, each finishing the other's thought. Ad-libs over the last chorus.",
+  "model": "V6",
+  "style": "1967 Detroit Motown soul duet, smooth sweet agile male tenor and bright clear female soprano, a verse each, chorus together, trading short lines in the bridge, ad-libs at the end, 130 BPM, D major, bright driving beat, melodic busy electric bass, snare on every beat with tambourine, baritone saxophone doubling the bass line, horn section, piano, vibraphone, chiming backbeat rhythm guitar, strings in the last chorus, punchy bright dense mix with natural echo, joyful, devoted, uplifting",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, rap, slow ballad, dark mood, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 170,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: tambourine, bass and drums driving, a horn stab]\n\n[Verse 1: male tenor, warm and quick]\nNow if you ever need me, I don't care about the hour\nI don't care about the weather or the miles\nYou've got my number written on the wall beside the phone\nOne ring and I'm reaching for the keys\n\n[Chorus: both voices, horns and tambourine]\nSay the word and I'm driving\nThrough the dark and the rain\nPick a town, name a time\nI've already left the lane\nSay the word\n\n[Verse 2: female soprano, bright and sure]\nWhen we said goodbye at the station gate\nI made you a promise I don't break\nYou call, I come, it's a simple thing\nYou don't even have to let it ring\n\n[Chorus: both voices, horns and tambourine]\nSay the word and I'm driving\nThrough the dark and the rain\nPick a town, name a time\nI've already left the lane\nSay the word\n\n[Bridge: voices trading short lines, drums pushing]\n(If the bridge is out) I'll find a boat\n(If the road is closed) I'll walk\n(If you can't speak) I'll hear you anyway\nJust knock\n\n[Final Chorus: both voices ad-libbing, strings on top]\nSay the word and I'm driving\nThrough the dark and the rain\nPick a town, name a time\nI've already left the lane\nSay the word\nOh, say the word\n\n[Outro: band vamps, voices trading \"say it\", fade]",
+  "taskId": "b220d73e8f2f607c839caf36caa350a7",
+  "sunoClipIds": [
+    "0c2016a3-1425-44b1-997e-92b7139c0373",
+    "2cddf8ba-f2de-4694-8816-7e4b781d3895"
+  ],
+  "created": "Nov 17, 2026 10:16 AM ET",
+  "createTimeMs": 1794928600486,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0c2016a3-1425-44b1-997e-92b7139c0373",
+      "durationSec": 169.24,
+      "file": "sixties/e60_04_say_the_word_and_im_driving_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "2cddf8ba-f2de-4694-8816-7e4b781d3895",
+      "durationSec": 169.56,
+      "file": "sixties/e60_04_say_the_word_and_im_driving_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_04_say_the_word_and_im_driving_req.json",
+    "sixties/e60_04_say_the_word_and_im_driving_rec.json"
+  ],
+  "cover": "sixties/covers/e60_04_say_the_word_and_im_driving.jpg",
+  "cleanCover": "sixties/covers/clean/e60_04_say_the_word_and_im_driving.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 130 BPM, 4/4, D major. A bright, driving Motown beat that never lets up. Joyful and sure.\n\nVOICE: A man with a smooth, sweet, agile tenor and a woman with a bright, clear soprano. They take a verse each, sing the chorus together, and trade short lines in the bridge, each finishing the other's thought. Ad-libs over the last chorus.\n\nINSTRUMENTS: A melodic, busy electric bass. A snare on every beat with a tambourine. A baritone saxophone doubling the bass line. A horn section. Piano and vibraphone. Chiming rhythm guitar on the backbeat. A string section in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, tambourine, bass and a horn stab. 0:08 Verse 1, the man. 0:30 Chorus 1. 0:48 Verse 2, the woman. 1:10 Chorus 2. 1:28 Bridge, traded lines. 1:46 Final chorus with strings and ad-libs. 2:10 Outro, the band vamps as the voices trade two words, fading by 2:30.\n\nPRODUCTION & MIX: Mid-1960s Detroit soul: punchy, bright and dense, bass and tambourine loud, voices on top, a little natural echo.\n\nSIGNATURE MOMENT: The first chorus, when the second voice joins at 0:30.\n\nMODERN POINT OF VIEW: The mountain and the river become a car, a number on the wall and a long road at night. It is the promise families make across distance, said by people old enough to have kept it.\n\nEMOTIONAL ARC: Assurance, answered assurance, joy.",
+  "workbookAtAGlance": "Say the Word and I'm Driving\n\nBackup titles\nAlready Left the Lane / Don't Even Let It Ring\n\nAt a glance\n130 BPM, D major\nVoice: Duet: smooth male tenor, bright female soprano\nLength: about 2 minutes 35",
+  "year": 1967,
+  "qa": {
+    "title": "Say the Word and I'm Driving",
+    "id": "e60_04",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 169.3,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 130,
+        "bpmErrPct": 0.6,
+        "lufs": -13.6,
+        "peakDbfs": -0.81,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 167.6,
+        "vocalCoverage": 0.689,
+        "vocalSpanSec": [
+          10.5,
+          154.1
+        ],
+        "vocalF0MedianHz": 372,
+        "vocalF0P25Hz": 297,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 169.6,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 130,
+        "bpmErrPct": 0.6,
+        "lufs": -14.3,
+        "peakDbfs": -1.0,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.5,
+        "contentEndSec": 167.8,
+        "vocalCoverage": 0.754,
+        "vocalSpanSec": [
+          8.8,
+          161.5
+        ],
+        "vocalF0MedianHz": 329,
+        "vocalF0P25Hz": 292,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Soul"
+}

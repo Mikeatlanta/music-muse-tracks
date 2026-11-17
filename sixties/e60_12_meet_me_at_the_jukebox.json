@@ -1,0 +1,121 @@
+{
+  "id": "e60_12",
+  "title": "Meet Me at the Jukebox",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 12,
+  "slug": "e60_12_meet_me_at_the_jukebox",
+  "inspiredBy": "Be My Baby (The Ronettes, 1963)",
+  "leadVoice": "A young woman with a bright, nasal, slightly tough New York voice and a fast, trembling vibrato on held notes. Three more women sing the echoes and the wordless 'whoa' hook behind her, soaked in echo. She ad-libs over the last chorus.",
+  "model": "V6",
+  "style": "1963 girl group wall of sound, young woman lead with a bright nasal slightly tough voice and fast trembling vibrato, three women singing echoes and a wordless whoa hook behind her in heavy echo, 130 BPM, E major, grand swaying beat with a Latin lilt, opens with four solo drum hits, then several pianos, guitars, basses, horns and a full string section all playing together in a large echo chamber, castanets, maracas, tambourine, drum break before the last chorus, mono dense echo-drenched mix, innocent, romantic, enormous",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, male lead vocals, rap, dry modern mix, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 175,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: four drum hits, boom, ba-boom, crack, then wall of sound]\n\n[Verse 1: young lead, trembling vibrato, castanets]\nFirst time I saw you by the record machine\nYou had a nickel and I had a dream\nYou played the one I would have played\nI knew right then the plans I'd made\n\n[Pre-Chorus: backing voices rise, strings swell]\nSo if you want to find me\nYou know the place\n\n[Chorus: lead and backing voices, the full wall]\nMeet me, meet me at the jukebox\n(Meet me at the jukebox)\nPick the one we know\n(Whoa, oh, oh, oh)\nMeet me at the jukebox\nAnd don't let go\n\n[Verse 2: same voice, the same tune, decades later]\nFifty years and the diner's gone\nSomebody else's name is on\nThe sign, but I still know the spot\nWhere you said \"yes\" and I said \"what?\"\n\n[Pre-Chorus: backing voices rise, strings swell]\nSo if you want to find me\nYou know the place\n\n[Chorus: lead and backing voices, the full wall]\nMeet me, meet me at the jukebox\n(Meet me at the jukebox)\nPick the one we know\n(Whoa, oh, oh, oh)\nMeet me at the jukebox\nAnd don't let go\n\n[Instrumental: strings play the chorus melody, castanets]\n\n[Break: everything stops, the four drum hits again]\n\n[Final Chorus: everyone, lead ad-libbing over the top]\nMeet me, meet me at the jukebox\n(Meet me at the jukebox)\nPick the one we know\n(Whoa, oh, oh, oh)\nMeet me at the jukebox\nAnd don't let go\n\n[Outro: backing hook repeating, long echo, fade]\n(Whoa, oh, oh, oh)",
+  "taskId": "b376ce963d651d9e0a6c2288de27d80e",
+  "sunoClipIds": [
+    "80954b96-b97f-442a-a2fe-8b3dac530b0e",
+    "eb07ba7b-14fa-4199-9e56-80ab17fc97db"
+  ],
+  "created": "Nov 17, 2026 10:17 AM ET",
+  "createTimeMs": 1794928638268,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "80954b96-b97f-442a-a2fe-8b3dac530b0e",
+      "durationSec": 175.8,
+      "file": "sixties/e60_12_meet_me_at_the_jukebox_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "eb07ba7b-14fa-4199-9e56-80ab17fc97db",
+      "durationSec": 174.8,
+      "file": "sixties/e60_12_meet_me_at_the_jukebox_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_12_meet_me_at_the_jukebox_req.json",
+    "sixties/e60_12_meet_me_at_the_jukebox_rec.json"
+  ],
+  "cover": "sixties/covers/e60_12_meet_me_at_the_jukebox.jpg",
+  "cleanCover": "sixties/covers/clean/e60_12_meet_me_at_the_jukebox.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 130 BPM, 4/4, E major. A grand, swaying beat with a Latin lilt. Enormous and innocent at once.\n\nVOICE: A young woman with a bright, nasal, slightly tough New York voice and a fast, trembling vibrato on held notes. Three more women sing the echoes and the wordless 'whoa' hook behind her, soaked in echo. She ad-libs over the last chorus.\n\nINSTRUMENTS: A drum kit that opens the record alone with four hits: kick, two kicks, and a snare with a handclap. Then a 'wall of sound': several pianos, several guitars, two basses, horns and a full string section all playing together in a large echo chamber. Castanets, maracas and tambourine throughout.\n\nARRANGEMENT MAP: 0:00 Intro, the four drum hits twice, then everything. 0:08 Verse 1. 0:30 Pre-chorus. 0:38 Chorus 1. 1:00 Verse 2. 1:22 Pre-chorus. 1:30 Chorus 2. 1:52 Instrumental, strings on the tune. 2:06 Break: everything stops for the four drum hits. 2:10 Final chorus with ad-libs. 2:30 Outro, the backing hook in a long echo, fading by 2:40.\n\nPRODUCTION & MIX: Early-1960s Los Angeles wall of sound: mono, dense and drenched in echo, with instruments blended into one roar and the voice riding on top.\n\nSIGNATURE MOMENT: The four drum hits at the very start, and again at 2:06.\n\nMODERN POINT OF VIEW: The second verse is sung fifty years on in the same girlish melody. That is the experience of hearing the original now: the voice stays seventeen and the listener does not.\n\nEMOTIONAL ARC: Hope, a leap of half a century, constancy.",
+  "workbookAtAGlance": "Meet Me at the Jukebox\n\nBackup titles\nYou Had a Nickel / And I Said 'What?'\n\nAt a glance\n130 BPM, E major\nVoice: Young female lead with a quick vibrato, girl-group backing\nLength: about 2 minutes 40",
+  "year": 1963,
+  "qa": {
+    "title": "Meet Me at the Jukebox",
+    "id": "e60_12",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.22 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 175.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 130,
+        "bpmErrPct": 0.6,
+        "lufs": -13.2,
+        "peakDbfs": 0.22,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 175.5,
+        "vocalCoverage": 0.813,
+        "vocalSpanSec": [
+          7.9,
+          163.8
+        ],
+        "vocalF0MedianHz": 439,
+        "vocalF0P25Hz": 333,
+        "lyricLineRecall": 0.871,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 174.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 130,
+        "bpmErrPct": 0.6,
+        "lufs": -12.3,
+        "peakDbfs": -0.21,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 174.1,
+        "vocalCoverage": 0.763,
+        "vocalSpanSec": [
+          8.1,
+          173.2
+        ],
+        "vocalF0MedianHz": 417,
+        "vocalF0P25Hz": 372,
+        "lyricLineRecall": 0.871,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other"
+}

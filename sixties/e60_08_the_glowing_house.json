@@ -1,0 +1,115 @@
+{
+  "id": "e60_08",
+  "title": "The Glowing House",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 8,
+  "slug": "e60_08_the_glowing_house",
+  "inspiredBy": "The House of the Rising Sun (The Animals, 1964)",
+  "leadVoice": "Male baritone with a deep, rough, bluesy tone and a Newcastle edge, sounding much older than his years. He begins low and restrained, howls verses 4 and 5 at the top of his voice, and drops back for the last.",
+  "model": "V6",
+  "style": "1964 British rhythm and blues folk ballad, deep rough bluesy male baritone sounding older than his years, low restrained opening rising to a howl and dropping back, 117 BPM counted in six with a rolling feel, A minor, slow-burning and swelling, electric guitar playing each chord as a slow even arpeggio, thin reedy electric organ starting as a hum and building to a swirling solo, electric bass, drums growing from soft cymbals to a heavy beat, raw mono one-take mix, haunted, warning, desperate",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, bright happy pop, autotune, EDM, horns",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: slow arpeggiated electric guitar chords, bass]\n\n[Verse 1: low, bluesy, guitar and bass]\nThere is a little house of light\nIt fits inside my hand\nIt's been the end of many a day\nAnd many a thing I planned\n\n[Verse 2: organ enters, drums soft]\nMy mother kept a garden\nShe grew her beans in rows\nMy father was a talking man\nHe knew what a neighbour knows\n\n[Verse 3: voice rising, organ swirling]\nNow all a body needs to live\nIs a charger and a chair\nAnd the only time he's satisfied\nIs when he isn't there\n\n[Organ Solo: swirling, building, drums louder]\n\n[Verse 4: howled, full band]\nSo tell the little ones for me\nTo lift their eyes and run\nOut to the yard and the daylight\nWhile there's still a sun\n\n[Verse 5: loud, desperate]\nI've one foot on the doorstep\nThe other in the glow\nI only meant to check the time\nThat was hours ago\n\n[Verse 6: quieter, the first verse again]\nThere is a little house of light\nIt fits inside my hand\nIt's been the end of many a day\nAnd Lord, I know I'm damned\n\n[Outro: organ and guitar, slowing, final chord]",
+  "taskId": "89667e20263f447af8cd2658dad2d310",
+  "sunoClipIds": [
+    "29e97b90-59d7-403f-8bfa-450f81dc7dc2",
+    "e0e47ff8-03b3-4d94-a944-64fff16a81b8"
+  ],
+  "created": "Nov 17, 2026 10:17 AM ET",
+  "createTimeMs": 1794928632726,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "29e97b90-59d7-403f-8bfa-450f81dc7dc2",
+      "durationSec": 224.84,
+      "file": "sixties/e60_08_the_glowing_house_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "e0e47ff8-03b3-4d94-a944-64fff16a81b8",
+      "durationSec": 224.44,
+      "file": "sixties/e60_08_the_glowing_house_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_08_the_glowing_house_req.json",
+    "sixties/e60_08_the_glowing_house_rec.json"
+  ],
+  "cover": "sixties/covers/e60_08_the_glowing_house.jpg",
+  "cleanCover": "sixties/covers/clean/e60_08_the_glowing_house.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 117 BPM counted in six, so it rolls, in A minor. A slow-burning blues ballad that swells from a murmur to a howl and back.\n\nVOICE: Male baritone with a deep, rough, bluesy tone and a Newcastle edge, sounding much older than his years. He begins low and restrained, howls verses 4 and 5 at the top of his voice, and drops back for the last.\n\nINSTRUMENTS: An electric guitar playing each chord as a slow, even arpeggio, the song's signature. An electric organ with a thin, reedy tone that starts as a hum and builds to a swirling solo. Electric bass. A drum kit that grows from soft cymbals to a heavy beat. Nothing else.\n\nARRANGEMENT MAP: 0:00 Intro, guitar arpeggios. 0:12 Verse 1. 0:36 Verse 2, organ. 1:00 Verse 3, rising. 1:24 Organ solo. 1:54 Verse 4, howled. 2:18 Verse 5. 2:42 Verse 6, quieter. 3:06 Outro, organ and guitar slowing to a final chord at 3:25.\n\nPRODUCTION & MIX: Mid-1960s British rhythm and blues recorded in one take: raw, mono and close, organ and voice fighting for the front.\n\nSIGNATURE MOMENT: The guitar arpeggio in the first four seconds.\n\nMODERN POINT OF VIEW: The house of ruin is in everyone's pocket now, and the warning is to children. The verse about the mother's garden and the father who knew his neighbours is the world the house replaced.\n\nEMOTIONAL ARC: Confession, warning, relapse.",
+  "workbookAtAGlance": "The Glowing House\n\nBackup titles\nIt Fits Inside My Hand / Only Meant to Check the Time\n\nAt a glance\n117 BPM (in six), A minor\nVoice: Bluesy male baritone, howling\nLength: about 3 minutes 30",
+  "year": 1964,
+  "qa": {
+    "title": "The Glowing House",
+    "id": "e60_08",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.9,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 117,
+        "bpmErrPct": 0.4,
+        "lufs": -13.1,
+        "peakDbfs": -0.64,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 223.7,
+        "vocalCoverage": 0.376,
+        "vocalSpanSec": [
+          18.5,
+          196.7
+        ],
+        "vocalF0MedianHz": 224,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.833,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.5,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 117,
+        "bpmErrPct": 0.4,
+        "lufs": -13.9,
+        "peakDbfs": -2.15,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 223.1,
+        "vocalCoverage": 0.482,
+        "vocalSpanSec": [
+          6.9,
+          210.8
+        ],
+        "vocalF0MedianHz": 329,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.917,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other"
+}

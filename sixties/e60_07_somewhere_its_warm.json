@@ -1,0 +1,115 @@
+{
+  "id": "e60_07",
+  "title": "Somewhere It's Warm",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 7,
+  "slug": "e60_07_somewhere_its_warm",
+  "inspiredBy": "California Dreamin' (The Mamas & The Papas, 1965)",
+  "leadVoice": "Two men and two women. A male tenor sings each line of the verse and the other three echo it a moment later in harmony, with a strong, clear female alto prominent. The choruses are full four-part harmony, bright on top and warm underneath, ending on a long held chord.",
+  "model": "V6",
+  "style": "1965 Los Angeles folk rock, two men and two women in four-part harmony, a male tenor singing each verse line and the other three echoing it a moment later, a strong clear female alto prominent, full bright harmony choruses ending on a long held chord, 112 BPM, C-sharp minor, brisk pulse under a cool wistful tune, fingerpicked acoustic twelve-string guitar, breathy alto flute solo, steady simple drums, electric bass, strummed acoustic guitar, tremolo electric guitar, tambourine, bright slightly reverberant mix, wistful, longing",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, rap, heavy drums, bright major-key pop, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 175,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: fingerpicked twelve-string guitar, a soft cymbal]\n\n[Verse 1: lead voice, the group echoes each line]\nIce on the inside (ice on the inside)\nOf the window pane (of the window pane)\nI put on two sweaters (I put on two sweaters)\nAnd I walk in the rain (walk in the rain)\n\n[Chorus: four-part harmony, full band]\nSomewhere it's warm (somewhere it's warm)\nSomebody's sleeves are rolled\nSomewhere it's warm\nAnd I'm here in the cold\nDreaming of somewhere, somewhere it's warm\n\n[Verse 2: lead voice, the group echoes]\nThere's a laundromat on Fourth Street (laundromat on Fourth Street)\nWith the dryers going round (the dryers going round)\nI sit there with a paperback (sit there with a paperback)\nThe lady lets me stay (she lets me stay)\n\n[Chorus: four-part harmony, full band]\nSomewhere it's warm (somewhere it's warm)\nSomebody's sleeves are rolled\nSomewhere it's warm\nAnd I'm here in the cold\nDreaming of somewhere, somewhere it's warm\n\n[Flute Solo: breathy alto flute, over the verse chords]\n\n[Verse 3: lead voice, the group echoes, more urgent]\nIf I had the bus fare (if I had the bus fare)\nI'd be gone today (I'd be gone today)\nBut somebody needs me (somebody needs me)\nSo I guess I'll stay (I guess I'll stay)\n\n[Final Chorus: four-part harmony, held last chord]\nSomewhere it's warm (somewhere it's warm)\nSomebody's sleeves are rolled\nSomewhere it's warm\nAnd I'm here in the cold\nDreaming of somewhere\nSomewhere it's warm",
+  "taskId": "110e2eca64e9f1540cd8a8929a39d8da",
+  "sunoClipIds": [
+    "531fa598-075d-42a5-b7b6-0ad2a09cb58b",
+    "c4017cb2-0aa0-467a-aced-2a5386742bba"
+  ],
+  "created": "Nov 17, 2026 10:17 AM ET",
+  "createTimeMs": 1794928630639,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "531fa598-075d-42a5-b7b6-0ad2a09cb58b",
+      "durationSec": 174.8,
+      "file": "sixties/e60_07_somewhere_its_warm_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c4017cb2-0aa0-467a-aced-2a5386742bba",
+      "durationSec": 174.76,
+      "file": "sixties/e60_07_somewhere_its_warm_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_07_somewhere_its_warm_req.json",
+    "sixties/e60_07_somewhere_its_warm_rec.json"
+  ],
+  "cover": "sixties/covers/e60_07_somewhere_its_warm.jpg",
+  "cleanCover": "sixties/covers/clean/e60_07_somewhere_its_warm.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 112 BPM, 4/4, C-sharp minor. A brisk folk-rock pulse under a cool, wistful minor-key tune.\n\nVOICE: Two men and two women. A male tenor sings each line of the verse and the other three echo it a moment later in harmony, with a strong, clear female alto prominent. The choruses are full four-part harmony, bright on top and warm underneath, ending on a long held chord.\n\nINSTRUMENTS: A fingerpicked acoustic twelve-string guitar. A breathy alto flute for the solo. A steady, simple drum kit. Electric bass. A second, strummed acoustic guitar. A little electric guitar with tremolo. Tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, twelve-string guitar. 0:10 Verse 1 with echoes. 0:34 Chorus 1. 0:56 Verse 2. 1:20 Chorus 2. 1:42 Flute solo. 1:58 Verse 3. 2:16 Final chorus, ending on a held chord at 2:38.\n\nPRODUCTION & MIX: Mid-1960s Los Angeles folk-rock: bright guitars, voices stacked and slightly reverberant, a clean, simple rhythm section.\n\nSIGNATURE MOMENT: The first echoed line at 0:12.\n\nMODERN POINT OF VIEW: Verse 3 is the adult reason for staying: somebody needs me. The original's narrator is free to go and only lacks the nerve. This one has obligations, and dreams anyway.\n\nEMOTIONAL ARC: Cold, longing, duty, longing still.",
+  "workbookAtAGlance": "Somewhere It's Warm\n\nBackup titles\nIce on the Inside / The Dryers Going Round\n\nAt a glance\n112 BPM, C-sharp minor\nVoice: Four-part mixed harmony, call and response\nLength: about 2 minutes 40",
+  "year": 1965,
+  "qa": {
+    "title": "Somewhere It's Warm",
+    "id": "e60_07",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 174.8,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 0.3,
+        "lufs": -13.4,
+        "peakDbfs": -0.09,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 173.0,
+        "vocalCoverage": 0.737,
+        "vocalSpanSec": [
+          4.6,
+          171.7
+        ],
+        "vocalF0MedianHz": 314,
+        "vocalF0P25Hz": 251,
+        "lyricLineRecall": 0.75,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 174.8,
+        "measuredBpm": 112.3,
+        "bpmFactor": 1,
+        "targetBpm": 112,
+        "bpmErrPct": 0.3,
+        "lufs": -14.5,
+        "peakDbfs": -0.16,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 173.8,
+        "vocalCoverage": 0.647,
+        "vocalSpanSec": [
+          12.3,
+          163.0
+        ],
+        "vocalF0MedianHz": 277,
+        "vocalF0P25Hz": 239,
+        "lyricLineRecall": 0.786,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Folk Rock"
+}

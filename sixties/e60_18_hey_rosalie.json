@@ -1,0 +1,117 @@
+{
+  "id": "e60_18",
+  "title": "Hey, Rosalie",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 18,
+  "slug": "e60_18_hey_rosalie",
+  "inspiredBy": "Sweet Caroline (Neil Diamond, 1969)",
+  "leadVoice": "Male baritone, warm, grainy and close in the verses, almost talking. He opens up to a broad, full-voiced, friendly shout in the chorus. A crowd sings the horn notes ('da, da, da') and shouts the bracketed replies.",
+  "model": "V6",
+  "style": "1969 pop singalong, warm grainy male baritone vocal, close almost talking verses and a broad full-voiced friendly chorus, crowd singing the horn notes and shouting replies in the gaps, 126 BPM, B major lifting a step for the final chorus, quiet careful verse and big open swaying chorus, electric piano, soft bass, horn section playing a rising figure and three bright notes after the title, drums building step by step through the pre-chorus, strings, acoustic guitar strum, tambourine, handclaps, warm then wide brassy mix, joyful, communal, romantic",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, dark mood, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft electric piano, bass, a quiet horn figure]\n\n[Verse 1: warm, low, hesitant]\nCouldn't say when the morning turned to you\nIt was grey, then it wasn't, that's all I knew\nOne day a coat on the hook that wasn't mine\nNext day a second cup, a second line\n\n[Pre-Chorus: climbing step by step, drums building]\nStep\nBy step\nCloser\nOne more step\n\n[Chorus: full band, horns answer, crowd shouts the replies]\nHey, Rosalie (da, da, da)\nMonday never looked so fine\n(That's right, that's right)\nI've got a mind (da, da, da)\nTo tell the whole street you're mine\n(Go on, then)\n\n[Verse 2: warm, a little bolder]\nNow the hallway's got two umbrellas in the stand\nAnd I'm learning how to walk while holding a hand\nI was quiet, I was careful, I was fine\nThen you laughed in my kitchen, and it's been a long time\n\n[Pre-Chorus: climbing step by step, drums building]\nStep\nBy step\nCloser\nOne more step\n\n[Chorus: full band, horns answer, crowd shouts the replies]\nHey, Rosalie (da, da, da)\nMonday never looked so fine\n(That's right, that's right)\nI've got a mind (da, da, da)\nTo tell the whole street you're mine\n(Go on, then)\n\n[Instrumental: horns play the chorus melody, crowd clapping]\n\n[Final Chorus: everyone, key up a step, crowd at full voice]\nHey, Rosalie (da, da, da)\nMonday never looked so fine\n(That's right, that's right)\nI've got a mind (da, da, da)\nTo tell the whole street you're mine\n(Go on, then)\nHey, Rosalie\n\n[Outro: horns, crowd cheering, fade]",
+  "taskId": "fc3e93b09c67ec888754dbd13b44e6c2",
+  "sunoClipIds": [
+    "57cbcac0-0bc3-4097-b4e4-2c3394ae6796",
+    "2feeb2da-1887-4d35-bff9-67a29ef59822"
+  ],
+  "created": "Nov 17, 2026 10:17 AM ET",
+  "createTimeMs": 1794928676233,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "57cbcac0-0bc3-4097-b4e4-2c3394ae6796",
+      "durationSec": 194.36,
+      "file": "sixties/e60_18_hey_rosalie_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "2feeb2da-1887-4d35-bff9-67a29ef59822",
+      "durationSec": 195.0,
+      "file": "sixties/e60_18_hey_rosalie_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_18_hey_rosalie_req.json",
+    "sixties/e60_18_hey_rosalie_rec.json"
+  ],
+  "cover": "sixties/covers/e60_18_hey_rosalie.jpg",
+  "cleanCover": "sixties/covers/clean/e60_18_hey_rosalie.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 126 BPM, 4/4, B major, lifting a step for the last chorus. A quiet, careful verse and a big, open, swaying chorus built for a crowd.\n\nVOICE: Male baritone, warm, grainy and close in the verses, almost talking. He opens up to a broad, full-voiced, friendly shout in the chorus. A crowd sings the horn notes ('da, da, da') and shouts the bracketed replies.\n\nINSTRUMENTS: Electric piano and a soft bass in the verses. A horn section (trumpets and trombones) that plays a quiet rising figure and then three bright notes after the title in each chorus. A drum kit that builds through the pre-chorus. A string section. Acoustic guitar strum. Tambourine and handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, electric piano and a quiet horn figure. 0:12 Verse 1. 0:36 Pre-chorus, four steps upward. 0:46 Chorus 1 with crowd replies. 1:08 Verse 2. 1:32 Pre-chorus. 1:42 Chorus 2. 2:04 Instrumental, horns on the tune with clapping. 2:18 The key lifts for the final chorus. 2:44 Outro, horns and cheering, fading by 2:58.\n\nPRODUCTION & MIX: Late-1960s pop: warm and intimate in the verse, wide and brassy in the chorus, with the crowd mixed in as part of the band.\n\nSIGNATURE MOMENT: The first three horn notes and the crowd's reply at 0:48.\n\nMODERN POINT OF VIEW: The love arrives as household evidence: a coat, a cup, two umbrellas. He was 'quiet, careful and fine' before. It reads as a second chance later in life, and the day celebrated is a Monday.\n\nEMOTIONAL ARC: Hesitation, growing nerve, public joy.",
+  "workbookAtAGlance": "Hey, Rosalie\n\nBackup titles\nA Second Cup / Go On, Then\n\nAt a glance\n126 BPM, B major\nVoice: Warm male baritone, crowd responses\nLength: about 3 minutes",
+  "year": 1969,
+  "qa": {
+    "title": "Hey, Rosalie",
+    "id": "e60_18",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 194.4,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 2.5,
+        "lufs": -13.3,
+        "peakDbfs": -0.32,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 194.3,
+        "vocalCoverage": 0.76,
+        "vocalSpanSec": [
+          8.8,
+          192.8
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 211,
+        "lyricLineRecall": 0.964,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)"
+        ],
+        "durationSec": 195.0,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 2.5,
+        "lufs": -13.5,
+        "peakDbfs": -0.27,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 194.9,
+        "vocalCoverage": 0.785,
+        "vocalSpanSec": [
+          16.1,
+          194.9
+        ],
+        "vocalF0MedianHz": 496,
+        "vocalF0P25Hz": 207,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

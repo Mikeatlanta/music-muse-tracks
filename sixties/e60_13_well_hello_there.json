@@ -1,0 +1,117 @@
+{
+  "id": "e60_13",
+  "title": "Well, Hello There",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 13,
+  "slug": "e60_13_well_hello_there",
+  "inspiredBy": "Oh, Pretty Woman (Roy Orbison, 1964)",
+  "leadVoice": "Female alto, warm and amused, with good comic timing. She sings the verses as if narrating to herself, drops in a playful growl and spoken asides, softens for the bridge, and sounds delighted at the end.",
+  "model": "V6",
+  "style": "1964 Nashville rock and roll story song, warm amused female alto vocal with comic timing, narrating to herself, a playful growl and spoken asides, softer bridge, delighted ending, 127 BPM, A major, confident strutting beat, twangy electric guitar riff that builds a few notes at a time and keeps stopping and starting, second guitar doubling, snare hit hard on every beat, electric bass, strings in the bridge, piano, handclaps, a spoken break before the final verse, clean punchy bright mix with slapback echo, playful, suspenseful, charming",
+  "negativeTags": "synthesizer, drum machine, male lead vocals, rap, heavy distortion, dark mood, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: stop-start guitar riff, snare hits, building]\n\n[Verse 1: playful, watching, full band]\nThere he goes, crossing at the light\nNewspaper folded, collar right\nI've seen that walk before somewhere\nGoodness\nWell, hello there\n\n[Verse 2: playful, a little bolder]\nThere he goes, slowing by the shop\nLooking in the window, coming to a stop\nIs he lost or is he shy?\nSay something, don't just stand and sigh\n\n[Growl: spoken aside, riff underneath]\nGrrr\nOh, behave\n\n[Bridge: softer, strings, hopeful]\nIf he turns left, I'll let it be\nIf he turns right, he's coming for tea\nI've got a kettle and a second cup\nI've got a lot of time to make up\n\n[Verse 3: band drops, resigned]\nThere he goes, down toward the square\nI should have waved, I should have dared\nIt's getting late, the bench is cold\nOh well, that's that, I'm far too old\n\n[Break: riff stops, one drum, spoken]\nHang on\nIs that his paper?\nHe's left his paper\n\n[Final Verse: riff returns, full band, delighted]\nThere he is, turning at the light\nPatting his pockets, what a sight\nHe's crossing over, coming near\nWell\nHello there\n\n[Outro: riff, final chord, a laugh]",
+  "taskId": "0cfc3e90af667f35fa1834d1abc4b0ef",
+  "sunoClipIds": [
+    "c4d8dbb6-2f59-4867-bec8-36269049db86",
+    "78e7a4fb-27fc-4ff6-99c9-7eb2558461f8"
+  ],
+  "created": "Nov 17, 2026 10:17 AM ET",
+  "createTimeMs": 1794928648808,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "c4d8dbb6-2f59-4867-bec8-36269049db86",
+      "durationSec": 184.52,
+      "file": "sixties/e60_13_well_hello_there_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "78e7a4fb-27fc-4ff6-99c9-7eb2558461f8",
+      "durationSec": 184.8,
+      "file": "sixties/e60_13_well_hello_there_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_13_well_hello_there_req.json",
+    "sixties/e60_13_well_hello_there_rec.json"
+  ],
+  "cover": "sixties/covers/e60_13_well_hello_there.jpg",
+  "cleanCover": "sixties/covers/clean/e60_13_well_hello_there.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 127 BPM, 4/4, A major. A confident, strutting beat with a riff that keeps stopping and starting. Playful and suspenseful.\n\nVOICE: Female alto, warm and amused, with good comic timing. She sings the verses as if narrating to herself, drops in a playful growl and spoken asides, softens for the bridge, and sounds delighted at the end.\n\nINSTRUMENTS: An electric guitar playing a twangy, climbing riff that builds a few notes at a time, stops, and starts again. A second guitar doubling it. A snare drum hit hard on every beat. Electric bass. A string section in the bridge. Piano. Handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, the riff building in stages. 0:14 Verse 1. 0:36 Verse 2. 0:56 The growl and a spoken aside over the riff. 1:04 Bridge with strings. 1:28 Verse 3, the band drops back. 1:52 Break: the riff stops, one drum, three spoken lines. 2:02 Final verse with the riff and full band. 2:28 Outro, the riff, a final chord and a laugh at 2:45.\n\nPRODUCTION & MIX: Mid-1960s Nashville rock and roll: clean, punchy and bright, guitars twangy, snare loud, a little slapback echo on the voice.\n\nSIGNATURE MOMENT: The break at 1:52, when the riff stops and she notices the newspaper.\n\nMODERN POINT OF VIEW: The watcher is a woman of a certain age, the object of interest has silver hair, and she has 'a lot of time to make up'. The original's fantasy becomes something that could happen on any high street.\n\nEMOTIONAL ARC: Interest, hope, resignation, delight.",
+  "workbookAtAGlance": "Well, Hello There\n\nBackup titles\nHe Forgot His Paper / Collar Right\n\nAt a glance\n127 BPM, A major\nVoice: Playful female alto with a growl\nLength: about 2 minutes 50",
+  "year": 1964,
+  "qa": {
+    "title": "Well, Hello There",
+    "id": "e60_13",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "hard stop (intended by the brief)"
+        ],
+        "durationSec": 184.5,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 127,
+        "bpmErrPct": 1.7,
+        "lufs": -13.9,
+        "peakDbfs": -0.32,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 183.3,
+        "vocalCoverage": 0.492,
+        "vocalSpanSec": [
+          7.8,
+          182.2
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 251,
+        "lyricLineRecall": 0.905,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 184.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 127,
+        "bpmErrPct": 1.7,
+        "lufs": -13.7,
+        "peakDbfs": -0.78,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 183.9,
+        "vocalCoverage": 0.48,
+        "vocalSpanSec": [
+          9.0,
+          178.9
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 257,
+        "lyricLineRecall": 0.905,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Give Me That Yesterday",
+  "prompt": "[Intro: piano slide, busy bass line, guitar chops, strings]\n\n[Verse 1: bright high lead, the group answers softly]\nHad it good and I didn't know\nWalked right by like a picture show\nNow you're laughing with the kid from down the street\nAnd I'm standing here with two left feet\n\n[Pre-Chorus: drums build, group rises]\nOh, I was looking the other way\nWhen the best thing came to stay\n\n[Chorus: lead and group trading, full band]\nOh, give me that yesterday\n(Back in my hands)\nI'd do it another way\n(I'd understand)\nAll I want, all I need\nIs one more go at being me\nWith you\n\n[Verse 2: bright high lead, bass busier]\nEvery corner, I see your face\nEvery song, it's the same old place\nI was busy being cool and being smart\nDidn't know I had a breakable heart\n\n[Pre-Chorus: drums build, group rises]\nOh, I was looking the other way\nWhen the best thing came to stay\n\n[Chorus: lead and group trading, full band]\nOh, give me that yesterday\n(Back in my hands)\nI'd do it another way\n(I'd understand)\nAll I want, all I need\nIs one more go at being me\nWith you\n\n[Breakdown: bass and handclaps, lead ad-libbing, group chanting]\nYesterday (bring it back)\nYesterday (bring it back)\nI'd know it this time\n\n[Final Chorus: everything, lead soaring over the group]\nOh, give me that yesterday\n(Back in my hands)\nI'd do it another way\n(I'd understand)\n\n[Outro: bass line, group chant, fade]",
+  "style": "1969 Motown soul pop, lead voice like a very gifted child, high bright clear and full of feeling with gospel inflections, group of older male voices answering each line in harmony and chanting, 98 BPM, A-flat major, bouncing tightly arranged groove, piano opening with a downward slide, restless melodic electric bass driving the track, clean guitar chops and counter-melody, string section, crisp drums with busy hi-hat, handclaps, tambourine, congas, bass-and-claps breakdown, bright tight detailed mix, joyful, pleading, energetic",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, deep male lead vocals, rap, slow ballad, autotune, EDM",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "e60_09",
+  "title": "Give Me That Yesterday",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 9,
+  "slug": "e60_09_give_me_that_yesterday",
+  "inspiredBy": "I Want You Back (The Jackson 5, 1969)",
+  "leadVoice": "A lead voice that sounds like a very gifted child: high, bright, clear and full of feeling, with gospel inflections well beyond his years. A group of older brothers answers each line in harmony and chants in the breakdown.",
+  "model": "V6",
+  "style": "1969 Motown soul pop, lead voice like a very gifted child, high bright clear and full of feeling with gospel inflections, group of older male voices answering each line in harmony and chanting, 98 BPM, A-flat major, bouncing tightly arranged groove, piano opening with a downward slide, restless melodic electric bass driving the track, clean guitar chops and counter-melody, string section, crisp drums with busy hi-hat, handclaps, tambourine, congas, bass-and-claps breakdown, bright tight detailed mix, joyful, pleading, energetic",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, deep male lead vocals, rap, slow ballad, autotune, EDM",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: piano slide, busy bass line, guitar chops, strings]\n\n[Verse 1: bright high lead, the group answers softly]\nHad it good and I didn't know\nWalked right by like a picture show\nNow you're laughing with the kid from down the street\nAnd I'm standing here with two left feet\n\n[Pre-Chorus: drums build, group rises]\nOh, I was looking the other way\nWhen the best thing came to stay\n\n[Chorus: lead and group trading, full band]\nOh, give me that yesterday\n(Back in my hands)\nI'd do it another way\n(I'd understand)\nAll I want, all I need\nIs one more go at being me\nWith you\n\n[Verse 2: bright high lead, bass busier]\nEvery corner, I see your face\nEvery song, it's the same old place\nI was busy being cool and being smart\nDidn't know I had a breakable heart\n\n[Pre-Chorus: drums build, group rises]\nOh, I was looking the other way\nWhen the best thing came to stay\n\n[Chorus: lead and group trading, full band]\nOh, give me that yesterday\n(Back in my hands)\nI'd do it another way\n(I'd understand)\nAll I want, all I need\nIs one more go at being me\nWith you\n\n[Breakdown: bass and handclaps, lead ad-libbing, group chanting]\nYesterday (bring it back)\nYesterday (bring it back)\nI'd know it this time\n\n[Final Chorus: everything, lead soaring over the group]\nOh, give me that yesterday\n(Back in my hands)\nI'd do it another way\n(I'd understand)\n\n[Outro: bass line, group chant, fade]",
+  "taskId": "50f2eb2141d826d3adc76018b7905fa5",
+  "sunoClipIds": [
+    "674f3e54-d56f-487b-9f9a-b8def143180f",
+    "c9e94f86-cdc7-44e4-9732-50a7d5ba43e2"
+  ],
+  "created": "Nov 17, 2026 10:17 AM ET",
+  "createTimeMs": 1794928639671,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "674f3e54-d56f-487b-9f9a-b8def143180f",
+      "durationSec": 184.36,
+      "file": "sixties/e60_09_give_me_that_yesterday_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c9e94f86-cdc7-44e4-9732-50a7d5ba43e2",
+      "durationSec": 184.8,
+      "file": "sixties/e60_09_give_me_that_yesterday_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_09_give_me_that_yesterday_req.json",
+    "sixties/e60_09_give_me_that_yesterday_rec.json"
+  ],
+  "cover": "sixties/covers/e60_09_give_me_that_yesterday.jpg",
+  "cleanCover": "sixties/covers/clean/e60_09_give_me_that_yesterday.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 98 BPM, 4/4, A-flat major. A bouncing, tightly arranged soul-pop groove. Bursting with energy.\n\nVOICE: A lead voice that sounds like a very gifted child: high, bright, clear and full of feeling, with gospel inflections well beyond his years. A group of older brothers answers each line in harmony and chants in the breakdown.\n\nINSTRUMENTS: A piano that opens with a downward slide. A restless, melodic electric bass, the engine of the track. Clean guitar playing bright chops and a little counter-melody. A string section. A crisp drum kit with a busy hi-hat. Handclaps and tambourine. Congas.\n\nARRANGEMENT MAP: 0:00 Intro, the piano slide and the bass line. 0:12 Verse 1. 0:32 Pre-chorus. 0:42 Chorus 1. 1:04 Verse 2. 1:24 Pre-chorus. 1:34 Chorus 2. 1:56 Breakdown, bass and handclaps. 2:14 Final chorus. 2:30 Outro, bass and chanting, fading by 2:48.\n\nPRODUCTION & MIX: Late-1960s Motown made in Los Angeles: bright, tight and packed with detail, bass and lead voice loudest.\n\nSIGNATURE MOMENT: The piano slide into the bass line in the first three seconds.\n\nMODERN POINT OF VIEW: 'I was busy being cool and being smart' is a line for anyone looking back. The child's voice sings what the adult listener thinks, which is how the original has always worked on grown-ups.\n\nEMOTIONAL ARC: Regret, pleading, hope.",
+  "workbookAtAGlance": "Give Me That Yesterday\n\nBackup titles\nTwo Left Feet / One More Go at Being Me\n\nAt a glance\n98 BPM, A-flat major\nVoice: Very young-sounding high lead, answering group\nLength: about 2 minutes 50",
+  "year": 1969,
+  "qa": {
+    "title": "Give Me That Yesterday",
+    "id": "e60_09",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 184.4,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 98,
+        "bpmErrPct": 1.4,
+        "lufs": -13.7,
+        "peakDbfs": -0.4,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 182.7,
+        "vocalCoverage": 0.768,
+        "vocalSpanSec": [
+          11.1,
+          167.4
+        ],
+        "vocalF0MedianHz": 465,
+        "vocalF0P25Hz": 297,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 184.8,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 98,
+        "bpmErrPct": 1.4,
+        "lufs": -13.7,
+        "peakDbfs": -0.34,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 183.4,
+        "vocalCoverage": 0.772,
+        "vocalSpanSec": [
+          11.1,
+          162.3
+        ],
+        "vocalF0MedianHz": 396,
+        "vocalF0P25Hz": 351,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Soul Pop"
+}

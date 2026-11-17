@@ -2,6 +2,37 @@
  "note": "Site layout for build_fast.py. sections: order = nav/page order; songs whose collection matches a section are added to it (new ones after the listed order). cards: per-song display overrides; new songs can omit them.",
  "sections": [
   {
+   "id": "sixties",
+   "nav": "📼 60s Reimagined",
+   "title": "📼 60s Reimagined",
+   "blurb": "Twenty brand-new originals, each built on the hook mechanics of one of the most enduring songs of the 1960s and written from today's point of view. Folk rock, Motown, British Invasion, sunshine pop and late-sixties soul sounds, all original lyrics.",
+   "collections": [
+    "sixties"
+   ],
+   "order": [
+    "e60_01_dim_the_whole_world",
+    "e60_02_not_on_the_list",
+    "e60_03_stay_where_i_can_see_you",
+    "e60_04_say_the_word_and_im_driving",
+    "e60_05_slow_is_how_i_fell",
+    "e60_06_sunshine_in_a_raincoat",
+    "e60_07_somewhere_its_warm",
+    "e60_08_the_glowing_house",
+    "e60_09_give_me_that_yesterday",
+    "e60_10_look_the_ice_is_leaving",
+    "e60_11_bench_with_a_view_of_nothing",
+    "e60_12_meet_me_at_the_jukebox",
+    "e60_13_well_hello_there",
+    "e60_14_let_me_stare_a_little",
+    "e60_15_so_long_miss_abernathy",
+    "e60_16_l_i_s_t_e_n",
+    "e60_17_hey_freckles",
+    "e60_18_hey_rosalie",
+    "e60_19_wait_did_you_hear_that",
+    "e60_20_sixty_five_and_unsupervised"
+   ]
+  },
+  {
    "id": "poolsidedeep",
    "nav": "🏖️ Poolside Chill Deep Cuts Reimagined",
    "title": "🏖️ Poolside Chill Deep Cuts Reimagined",

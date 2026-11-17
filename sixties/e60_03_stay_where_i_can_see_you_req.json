@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Stay Where I Can See You",
+  "prompt": "[Intro: upright bass line alone, then triangle and a scraped gourd]\n\n[Verse 1: warm, soulful, bass and light percussion]\nLet the power go out all down the street\nLet the phones go quiet in our hands\nI'm alright, I'm alright\nLong as you stay where I can see you\n\n[Chorus: strings enter, voice opens]\nSo stay, stay\nStay where I can see you\nOh, stay\nStay where I can see you\n\n[Verse 2: warm, a little stronger, strings underneath]\nLet the river come up over the road\nLet the wind take the shingles one by one\nI'll be fine, I'll be fine\nLong as you stay where I can see you\n\n[Chorus: strings fuller, backing voices hum]\nSo stay, stay\nStay where I can see you\nOh, stay\nStay where I can see you\n\n[String Break: strings play the melody over the bass line]\n\n[Final Chorus: voice ad-libbing, strings and backing voices]\nSo stay, stay\nStay where I can see you\nWhenever there's trouble, just stay\nStay where I can see you\n\n[Outro: bass line alone again, triangle, fade]",
+  "style": "1961 New York soul, warm smooth soulful male baritone-tenor vocal with a gospel background, restrained verses opening into pleading ad-libs, soft humming backing voices, 118 BPM, A major, calm steady walk with a gentle Latin lilt, upright bass playing a short memorable repeating line alone at the start, triangle, scraped guiro, soft brushed snare, acoustic guitar, lush string section entering at the chorus and taking the melody in a break, warm roomy simple mix, reassuring, tender, dignified",
+  "negativeTags": "synthesizer, drum machine, distorted guitar, female lead vocals, rap, autotune, EDM, heavy drums",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "callBackUrl": "https://example.com/cb"
+}

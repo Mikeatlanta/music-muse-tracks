@@ -1,0 +1,115 @@
+{
+  "id": "e60_20",
+  "title": "Sixty-Five and Unsupervised",
+  "collection": "sixties",
+  "album": "60s Reimagined",
+  "track": 20,
+  "slug": "e60_20_sixty_five_and_unsupervised",
+  "inspiredBy": "Born to Be Wild (Steppenwolf, 1968)",
+  "leadVoice": "Male, gravelly and deep-chested with a rough, barking edge, sounding like someone who has shouted over engines. He grins through the second verse. A gang of voices shouts the chorus with him.",
+  "model": "V6",
+  "style": "1968 hard rock road anthem, gravelly deep-chested male rock voice with a rough barking edge and a grin, gang of voices shouting the chorus, 146 BPM, E minor, hard driving beat, distorted electric guitar playing a short growling engine-like riff, swirling gritty overdriven electric organ taking the solo, thick driving bass, hard-hit drums with rolling toms into each chorus, second guitar on chords, engine sound at the end, raw loud slightly overdriven mix, gleeful, rebellious, comic",
+  "negativeTags": "synthesizer, drum machine, female lead vocals, rap, ballad, strings, autotune, EDM, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 190,
+  "customMode": true,
+  "lyricsSource": "60s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: growling distorted guitar riff, snare crack, swirling organ]\n\n[Verse 1: gravelly, urgent, full band]\nHand me down the road map, the paper kind, the big one\nSold the house in April and we bought a thing with wheels on\nKids think we've gone crazy and the dog thinks we're divine\nThere's forty thousand miles of road and every inch is mine\n\n[Pre-Chorus: organ climbs, drums rolling]\nLike a couple of kids with the keys\nWe're gone on the first good breeze\n\n[Chorus: gang vocals, riff underneath]\nSixty-five and unsupervised\nGot a full tank, got a discount, got the wind and the sky\nSixty-five and unsupervised\nWe were good for forty years, now watch us fly\n\n[Verse 2: gravelly, grinning]\nI like the smell of diesel and a diner at the dawn\nPension-funded thunder with the cruise control on\nNobody needs a report and nobody's keeping score\nWe'll be home when we're home, and we might not be before\n\n[Pre-Chorus: organ climbs, drums rolling]\nLike a couple of kids with the keys\nWe're gone on the first good breeze\n\n[Chorus: gang vocals, riff underneath]\nSixty-five and unsupervised\nGot a full tank, got a discount, got the wind and the sky\nSixty-five and unsupervised\nWe were good for forty years, now watch us fly\n\n[Organ Solo: swirling, distorted, then guitar joins]\n\n[Final Chorus: everything, voice shouting over the gang]\nSixty-five and unsupervised\nGot a full tank, got a discount, got the wind and the sky\nSixty-five and unsupervised\nWe were good for forty years, now watch us fly\nWatch us fly\n\n[Outro: riff, organ, an engine pulling away, fade]",
+  "taskId": "c64ed876851e635d47f79dca62abf445",
+  "sunoClipIds": [
+    "bd9c8813-46db-4130-9957-a6b6672a830e",
+    "d2784cf1-9bc3-4d09-aa1a-5a4dc635fd20"
+  ],
+  "created": "Nov 17, 2026 10:17 AM ET",
+  "createTimeMs": 1794928667272,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "bd9c8813-46db-4130-9957-a6b6672a830e",
+      "durationSec": 189.96,
+      "file": "sixties/e60_20_sixty_five_and_unsupervised_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d2784cf1-9bc3-4d09-aa1a-5a4dc635fd20",
+      "durationSec": 189.28,
+      "file": "sixties/e60_20_sixty_five_and_unsupervised_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "sixties/e60_20_sixty_five_and_unsupervised_req.json",
+    "sixties/e60_20_sixty_five_and_unsupervised_rec.json"
+  ],
+  "cover": "sixties/covers/e60_20_sixty_five_and_unsupervised.jpg",
+  "cleanCover": "sixties/covers/clean/e60_20_sixty_five_and_unsupervised.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 146 BPM, 4/4, E minor. A hard, driving rock beat. Loud, gleeful and in a hurry.\n\nVOICE: Male, gravelly and deep-chested with a rough, barking edge, sounding like someone who has shouted over engines. He grins through the second verse. A gang of voices shouts the chorus with him.\n\nINSTRUMENTS: A distorted electric guitar playing a short, growling, engine-like riff. A swirling electric organ with a gritty, overdriven tone that takes the solo. A thick, driving bass. A drum kit hit hard, with rolling toms into each chorus. A second guitar on chords. The sound of an engine at the end.\n\nARRANGEMENT MAP: 0:00 Intro, the riff, a snare crack and the organ. 0:10 Verse 1. 0:36 Pre-chorus. 0:44 Chorus 1. 1:02 Verse 2. 1:28 Pre-chorus. 1:36 Chorus 2. 1:54 Organ solo, with guitar joining. 2:16 Final chorus. 2:38 Outro, riff and organ under an engine pulling away, fading by 2:52.\n\nPRODUCTION & MIX: Late-1960s hard rock: raw, loud and slightly overdriven everywhere, guitar and organ fighting for the front.\n\nSIGNATURE MOMENT: The riff and the snare crack in the first two seconds.\n\nMODERN POINT OF VIEW: The wild ones are retired, have a discount card and use cruise control. The joke is affectionate and the freedom is real: forty years of being good, and then the road.\n\nEMOTIONAL ARC: Glee, more glee, departure.",
+  "workbookAtAGlance": "Sixty-Five and Unsupervised\n\nBackup titles\nA Thing With Wheels On / Watch Us Fly\n\nAt a glance\n146 BPM, E minor\nVoice: Gravelly male rock voice, gang chorus\nLength: about 2 minutes 55",
+  "year": 1968,
+  "qa": {
+    "title": "Sixty-Five and Unsupervised",
+    "id": "e60_20",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 190.0,
+        "measuredBpm": 143.6,
+        "bpmFactor": 1,
+        "targetBpm": 146,
+        "bpmErrPct": 1.7,
+        "lufs": -13.4,
+        "peakDbfs": -0.8,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 188.9,
+        "vocalCoverage": 0.542,
+        "vocalSpanSec": [
+          16.4,
+          176.1
+        ],
+        "vocalF0MedianHz": 923,
+        "vocalF0P25Hz": 826,
+        "lyricLineRecall": 0.96,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 189.3,
+        "measuredBpm": 143.6,
+        "bpmFactor": 1,
+        "targetBpm": 146,
+        "bpmErrPct": 1.7,
+        "lufs": -13.9,
+        "peakDbfs": -2.11,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 186.5,
+        "vocalCoverage": 0.54,
+        "vocalSpanSec": [
+          16.9,
+          168.6
+        ],
+        "vocalF0MedianHz": 329,
+        "vocalF0P25Hz": 256,
+        "lyricLineRecall": 0.96,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hard Rock"
+}
