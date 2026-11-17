@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Sit With Me a While",
+  "prompt": "[Intro: slow piano chords, soft kick and snap]\n\n[Verse 1: tender male tenor, close]\nI know you've got the drive ahead\nI know the kids are waiting up\nThe nurse came by to dim the lights\nI know I've said enough\n\n[Pre-Chorus: organ under, voice lifting]\nI'm not afraid, I'm not in pain\nI just don't like the door\n\n[Chorus: gospel choir joins, full and warm]\nSit with me a while\nYou don't have to talk\nSit with me a while\nLet the clock just walk\nI won't ask for more than this tonight\nSit with me a while\n\n[Verse 2: voice softer, piano and bass]\nYour mother used to do this, too\nJust sit, and hum, and hold my sleeve\nI never knew how much it was\nTill there was no one who wouldn't leave\n\n[Chorus: gospel choir, handclaps on the backbeat]\nSit with me a while\nYou don't have to talk\nSit with me a while\nLet the clock just walk\nI won't ask for more than this tonight\nSit with me a while\n\n[Bridge: choir alone, humming, then one line]\nTen more minutes\nTen more minutes\n\n[Final Chorus: choir highest, tenor ad-libbing above]\nSit with me a while\nYou don't have to talk\nSit with me a while\nLet the clock just walk\nI won't ask for more than this tonight\nSit with me a while\n\n[Outro: piano, a chair pulled closer, a hand patted]",
+  "style": "2014 gospel-pop ballad, soft vulnerable male tenor with breathy falsetto on high notes and a fuller chorus voice, gospel choir singing every chorus and humming the bridge, ad-libs above the choir at the end, 84 BPM, C major, slow swaying churchy feel, piano, slow kick with finger snap, Hammond organ, warm bass guitar, handclaps, small string section, warm dry close mix, tender, humble, comforting",
+  "negativeTags": "female lead vocals, electric guitar solo, rap, EDM synths, fast tempo, trap hi-hats, heavy rock drums, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

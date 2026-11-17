@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "You Still Know My Hand",
+  "prompt": "[Intro: arpeggiated electric guitar in six, soft organ]\n\n[Verse 1: raw soulful female voice, quiet]\nYou called me by your sister's name\nYou asked me when the war would end\nYou told the nurse I was a kind old lady\nWho comes on Thursdays, like a friend\n\n[Pre-Chorus: backing voices \"ooh\", drums enter]\nAnd I said, \"That's right, baby. That's me.\"\n\n[Chorus: full doo-wop band, voice breaking open]\nBut you still know my hand\nOh, you reach, and there I am\nFifty years, you don't know who I am\nBut you still know my hand\nCall me whoever you want to, man\nYou still know my hand\n\n[Verse 2: voice rougher, piano triplets]\nThey tell me I should rest, go home\nThey say you won't know if I do\nBut I was there when you were handsome\nI was there when you were cruel, when you were kind, when you were you\n\n[Pre-Chorus: backing voices \"ooh\"]\nSo I'll be the lady. That's fine by me.\n\n[Chorus: full doo-wop band, voice breaking open]\n'Cause you still know my hand\nOh, you reach, and there I am\nFifty years, you don't know who I am\nBut you still know my hand\nCall me whoever you want to, man\nYou still know my hand\n\n[Bridge: band drops low, voice nearly a scream]\nI'm tired! Lord, I'm tired!\nAnd I'd do it all again\n\n[Final Chorus: biggest, backing voices answering]\nYou still know my hand (you still know)\nOh, you reach, and there I am\nFifty years, you don't know who I am\nBut you still know my hand\nCall me whoever you want to, man\nYou still know my hand\n\n[Outro: guitar arpeggio, humming, \"It's Thursday, baby.\"]",
+  "style": "Retro 1950s doo-wop soul power ballad in 6/8, older lived-in female soul voice crooning the verses softly, breaking into a rasp in the choruses and almost screaming the bridge, three backing singers on ooh and answers, tender spoken last line, 57 BPM, G major, slow rocking sway, clean electric guitar arpeggios, piano triplets, Hammond organ, upright-style bass, brushed drums with heavy backbeat, string section at the end, warm live slightly distorted mix with plate reverb, devoted, raw, heartbreaking",
+  "negativeTags": "male lead vocals, synths, drum machine, rap, EDM, fast tempo, auto-tune, modern trap production",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "pb_28",
+  "title": "Rain on Hot Pavement",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 28,
+  "slug": "pb_28_rain_on_hot_pavement",
+  "inspiredBy": "It's All Coming Back to Me Now (Céline Dion, 1996)",
+  "leadVoice": "Female, a huge, precise, dramatic soprano. She whispers the verses, belts the choruses with long sustained notes and wide vibrato, and trades lines with a choir in the bridge. One whispered line in the break.",
+  "model": "V6",
+  "style": "Mid-1990s theatrical pop-rock power ballad, huge precise dramatic female soprano whispering the verses and belting the choruses with long sustained notes and wide vibrato, trading lines with a choir in the bridge, 66 BPM, F major with a key change up for the final chorus, slow stormy feel with sudden silences, grand piano with thundering octaves, full orchestra, crashing drums with tom rolls, bass, sustained electric guitar chords, bells, wall of sound with extreme dynamics, nostalgic, overwhelmed, sweeping",
+  "negativeTags": "male lead vocals, rap, trap hi-hats, EDM, acoustic folk, minimal production, lo-fi, auto-tune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 345,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: thunder, pounding piano chords, then silence]\n\n[Verse 1: female voice, whispered]\nI was carrying the shopping\nI was thinking about nothing\nThere were clouds across the car park\nAnd the first drops started coming\n\n[Verse 2: piano rolling, voice rising]\nAnd the tar let go of summer\nAnd the smell came up like steam\nAnd I stood there with my bags down\nIn the middle of a dream\n\n[Chorus: full band and orchestra, belted]\nRain on hot pavement, and there you were\nNineteen, laughing, soaked right through\nRain on hot pavement, and there you were\nI could taste the cigarettes and you\nI had put it all away, I had bricked it in for years\nOne breath of it, one breath of it\nAnd there you were\n\n[Verse 3: sudden quiet, piano alone]\nThere was a bus stop, there was a blue coat\nThere was a song on someone's radio\nThere was a thing you said that I've been saying\nAll my life, and didn't know\n\n[Chorus: full band and orchestra, belted]\nRain on hot pavement, and there you were\nNineteen, laughing, soaked right through\nRain on hot pavement, and there you were\nI could taste the cigarettes and you\nI had put it all away, I had bricked it in for years\nOne breath of it, one breath of it\nAnd there you were\n\n[Bridge: drums crashing, voice and choir trading]\n(Flashes of gold) your hand in the dark\n(Flashes of cold) the last time, the park\nI let you go, I let you go\nI never let you go\n\n[Break: silence, one piano note, whispered]\nI wonder if it rains where you are.\n\n[Final Chorus: everything, key up, held last note]\nRain on hot pavement, and here you are\nNineteen, laughing, soaked right through\nRain on hot pavement, and here you are\nI can taste the cigarettes and you\nI had put it all away, I had bricked it in for years\nOne breath of it, one breath of it\nAnd here you are\n\n[Outro: rain easing, piano, a car alarm far off]",
+  "taskId": "c1b4f891d934c1cc443e26d6fe6a94ec",
+  "sunoClipIds": [
+    "20d55fd5-00b9-4712-90f2-3cf6fe31095d",
+    "ff03acee-6e38-4dd7-b5b4-fc9bfde9c66b"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919213102,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "20d55fd5-00b9-4712-90f2-3cf6fe31095d",
+      "durationSec": 344.68,
+      "file": "powerballads/pb_28_rain_on_hot_pavement_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ff03acee-6e38-4dd7-b5b4-fc9bfde9c66b",
+      "durationSec": 344.84,
+      "file": "powerballads/pb_28_rain_on_hot_pavement_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_28_rain_on_hot_pavement_req.json",
+    "powerballads/pb_28_rain_on_hot_pavement_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_28_rain_on_hot_pavement.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 66 BPM, 4/4, F major, up to G major for the final chorus. Slow, stormy and theatrical, with sudden silences.\n\nVOICE: Female, a huge, precise, dramatic soprano. She whispers the verses, belts the choruses with long sustained notes and wide vibrato, and trades lines with a choir in the bridge. One whispered line in the break.\n\nINSTRUMENTS: A grand piano played with thundering octaves, a full orchestra, crashing drums with tom rolls, bass, electric guitars sustaining chords, a choir, bells, thunder and rain.\n\nARRANGEMENT MAP: 0:00 Intro, thunder and piano. 0:18 Verse 1, whispered. 0:48 Verse 2. 1:18 Chorus 1. 2:04 Verse 3, quiet. 2:36 Chorus 2. 3:22 Bridge. 3:50 Break, silence. 4:04 Final chorus, key up. 4:56 Outro, rain easing, ends 5:28.\n\nPRODUCTION & MIX: Mid-1990s theatrical pop-rock: a wall of sound with extreme dynamics, piano and voice larger than life.\n\nSIGNATURE MOMENT: The whispered 'I wonder if it rains where you are' in the silence at 3:50.\n\nMODERN POINT OF VIEW: The original's memories are set off by a lover's touch. At fifty they are more often set off by a smell in a supermarket car park, with shopping bags in both hands.\n\nEMOTIONAL ARC: Ordinary, ambushed, overwhelmed, wondering.",
+  "workbookAtAGlance": "Rain on Hot Pavement\n\nBackup titles\nAnd There You Were / One Breath of It\n\nAt a glance\n66 BPM, F major\nVoice: Dramatic female voice, whisper to belt\nLength: about 5 minutes 30",
+  "qa": {
+    "title": "Rain on Hot Pavement",
+    "id": "pb_28",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 344.7,
+        "measuredBpm": 66.3,
+        "bpmFactor": 1,
+        "targetBpm": 66,
+        "bpmErrPct": 0.4,
+        "lufs": -14.2,
+        "peakDbfs": -1.26,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 342.8,
+        "vocalCoverage": 0.704,
+        "vocalSpanSec": [
+          19.0,
+          308.6
+        ],
+        "vocalF0MedianHz": 444,
+        "vocalF0P25Hz": 372,
+        "lyricLineRecall": 0.816,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 344.9,
+        "measuredBpm": 66.3,
+        "bpmFactor": 1,
+        "targetBpm": 66,
+        "bpmErrPct": 0.4,
+        "lufs": -14.0,
+        "peakDbfs": -0.57,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 343.2,
+        "vocalCoverage": 0.668,
+        "vocalSpanSec": [
+          17.2,
+          305.4
+        ],
+        "vocalF0MedianHz": 353,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 0.789,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop Rock",
+  "year": 1996
+}

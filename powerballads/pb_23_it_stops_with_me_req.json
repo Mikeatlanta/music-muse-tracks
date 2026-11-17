@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "It Stops With Me",
+  "prompt": "[Intro: solo piano, minor key, a music box phrase]\n\n[Verse 1: female voice, quiet and hurt]\nI learned to read a room before I learned to read\nI learned the sound a key makes when it's angry\nI learned to be the good one, be the small one\nI learned which stair would creak, and how to hang back\n\n[Pre-Chorus: strings enter, voice rising]\nYou gave me what they gave you\nI know. I've seen the pictures.\n\n[Chorus: full band, belted]\nBut it stops with me\nI'm the end of that line\nIt stops with me\nShe will never learn to hide\nI kept your eyes, I kept your laugh, I kept the lullaby\nThe rest of it stops with me\n\n[Verse 2: voice steadier, drums in]\nMy daughter slams a door and I say, \"Tell me\"\nShe cries out loud, in public, in the car\nShe's never had to guess what kind of evening\nShe doesn't flinch. She doesn't know how far\n\n[Pre-Chorus: strings, voice rising]\nI had to go to get her this\nIt cost me. It was worth it.\n\n[Chorus: full band, belted]\n'Cause it stops with me\nI'm the end of that line\nIt stops with me\nShe will never learn to hide\nI kept your eyes, I kept your laugh, I kept the lullaby\nThe rest of it stops with me\n\n[Bridge: piano and voice, nearly spoken]\nI'm not angry anymore\nYou were a scared kid too\nI just couldn't pass it on\n\n[Final Chorus: major key, choir behind, highest note]\nIt stops with me\nI'm the end of that line\nIt stops with me\nListen to her, laughing down the hall\nI kept your eyes, I kept your laugh, I kept the lullaby\nThe rest of it stops with me\n\n[Outro: music box phrase in a major key, a child laughing]",
+  "style": "Mid-2000s pop-rock power ballad, strong emotional female pop-rock voice quiet with a tremor in the verses and belted at full power with a slight rasp in the choruses, nearly spoken bridge, choir in the final chorus, 70 BPM, F minor resolving to major at the end, slow tense building feel, piano, music-box celesta phrase, string section, bass, rock drums entering at verse two, low distorted guitars in the choruses, dramatic polished mix, hurt, determined, triumphant",
+  "negativeTags": "male lead vocals, rap, trap hi-hats, EDM, country twang, lo-fi, fast tempo, auto-tune",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

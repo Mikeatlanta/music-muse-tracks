@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "I Forgot It Felt Like This",
+  "prompt": "[Intro: ticking clock, soft piano, synth pad]\n\n[Verse 1: female voice, hushed]\nIt's midnight and the house is still\nThe phone is face down on the sill\nI turned it over twice to see\nA grown woman, fifty-one. That's me.\n\n[Pre-Chorus: bass enters, voice lifting]\nI'd put all this away\nIn a box marked \"that was then\"\n\n[Chorus: full band explodes, voice at full power]\nI forgot it felt like this\nMy heart's a kid again\nHands are shaking, can't sit still\nI'm counting hours till when\nHow do I get through the night\nTill you write back to me?\nI forgot it felt like this\nI forgot it could be me\n\n[Verse 2: hushed again, piano and clock]\nI've raised two children, buried one man\nI've run a house, I've made a plan\nAnd none of that is any use\nWhen someone's laugh has cut me loose\n\n[Pre-Chorus: bass and drums build]\nI thought the fire went with the years\nIt was only waiting\n\n[Chorus: full band, voice at full power]\nI forgot it felt like this\nMy heart's a kid again\nHands are shaking, can't sit still\nI'm counting hours till when\nHow do I get through the night\nTill you write back to me?\nI forgot it felt like this\nI forgot it could be me\n\n[Guitar Solo: soaring, melodic]\n\n[Bridge: band drops, a phone buzzes, voice breathless]\nOh. Oh, that's him.\n\n[Final Chorus: biggest, top note held]\nI forgot it felt like this\nMy heart's a kid again\nHands are shaking, can't sit still\nI'm counting hours till when\nI don't have to get through the night\nYou wrote right back to me\nI forgot it felt like this\nAnd I'm so glad it's me\n\n[Outro: clock ticking, typing, a small laugh]",
+  "style": "Late-1980s arena rock power ballad, big female rock voice breathy and close in the verses then a full-throated wail at the top of her range in the choruses with a held high note at the end, harmony vocal in the choruses, 88 BPM, B minor verses and D major choruses, hushed tense verses and enormous choruses, piano, ticking clock, warm synth pad, bass, huge 1980s drums entering with the chorus, layered electric guitars, soaring lead guitar solo, reverberant wall-of-sound mix, giddy, yearning, exhilarated",
+  "negativeTags": "male lead vocals, rap, trap hi-hats, EDM, acoustic folk, lo-fi, country twang, auto-tune",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

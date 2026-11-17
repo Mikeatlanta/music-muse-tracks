@@ -1,0 +1,118 @@
+{
+  "id": "pb_13",
+  "title": "I Was the Weather",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 13,
+  "slug": "pb_13_i_was_the_weather",
+  "inspiredBy": "Wrecking Ball (Miley Cyrus, 2013)",
+  "leadVoice": "Female, low and raspy with a country edge. The verses are close and whispered. The choruses are full-throated belts with a crack on the top notes. The bridge is bare and unaccompanied in places. She ends quietly.",
+  "model": "V6",
+  "style": "2013 pop power ballad, low raspy female vocal with a country edge whispered and close in the verses and belted full-throated with a crack on the top notes in the choruses, bare near-unaccompanied bridge, quiet ending, 60 BPM, D minor verses and major choruses, very slow with extreme verse-chorus contrast, soft synth pad, piano, huge compressed drums only in the choruses, distorted synth bass, wall of strings and guitars, tiny dry verses and crushing wide choruses, regretful, raw, cathartic",
+  "negativeTags": "male lead vocals, rap, country twang instruments, jazz, fast tempo, soft chorus, lo-fi, EDM drop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft synth pad, a single piano note repeating]\n\n[Verse 1: raspy female voice, almost whispered]\nI tell people that we drifted\nI say nobody was to blame\nI say it kindly at a party\nWith a drink, and without shame\n\n[Pre-Chorus: drums approaching, voice tightening]\nThat isn't how it went\nYou know it, and I do\n\n[Chorus: explosive, full band, voice belting]\nI was the weather\nI came through every room\nEvery door I slammed, every plate, every word\nYou just lived there, I was the storm\nI was the weather\nAnd you were just trying to stay warm\n\n[Verse 2: whispered again, piano and pad]\nYou'd check my face when I came home\nTo see what kind of night it was\nI thought that you were being careful\nI never asked myself the cause\n\n[Pre-Chorus: drums approaching]\nI called it passion, called it honest\nIt was only loud\n\n[Chorus: explosive, full band, voice belting]\nI was the weather\nI came through every room\nEvery door I slammed, every plate, every word\nYou just lived there, I was the storm\nI was the weather\nAnd you were just trying to stay warm\n\n[Bridge: band drops out, voice bare]\nI'm not asking you back\nI'm not asking for a thing\nI just needed you to hear me say it\nIt was me\n\n[Final Chorus: full, voice cracking, last line quiet]\nI was the weather\nI came through every room\nEvery door I slammed, every plate, every word\nYou just lived there, I was the storm\nI was the weather\nI hope it's quiet where you are\n\n[Outro: piano note repeating, rain stopping]",
+  "taskId": "928cc797486a1b09e1d2b4f05cf88d95",
+  "sunoClipIds": [
+    "bacd93ff-6ef0-4f83-b1a9-9c5c441c9d82",
+    "ab93e3c7-3218-46a4-9541-179fd64cc69c"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919146176,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "bacd93ff-6ef0-4f83-b1a9-9c5c441c9d82",
+      "durationSec": 233.96,
+      "file": "powerballads/pb_13_i_was_the_weather_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ab93e3c7-3218-46a4-9541-179fd64cc69c",
+      "durationSec": 233.6,
+      "file": "powerballads/pb_13_i_was_the_weather_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_13_i_was_the_weather_req.json",
+    "powerballads/pb_13_i_was_the_weather_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_13_i_was_the_weather.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 60 BPM, 4/4, D minor verses and F major choruses. Very slow, with the largest possible contrast between verse and chorus.\n\nVOICE: Female, low and raspy with a country edge. The verses are close and whispered. The choruses are full-throated belts with a crack on the top notes. The bridge is bare and unaccompanied in places. She ends quietly.\n\nINSTRUMENTS: A soft synth pad, piano, a huge, compressed drum kit that enters only in the choruses, distorted synth bass, a wall of strings and guitars in the choruses, a single repeating piano note.\n\nARRANGEMENT MAP: 0:00 Intro. 0:10 Verse 1. 0:42 Pre-chorus. 0:52 Chorus 1. 1:24 Verse 2. 1:56 Pre-chorus. 2:06 Chorus 2. 2:38 Bridge, bare. 3:00 Final chorus. 3:30 Outro, one note and rain stopping, ends 3:40.\n\nPRODUCTION & MIX: 2013 pop power ballad: tiny, dry verses and huge, wide, crushing choruses.\n\nSIGNATURE MOMENT: The first chorus hitting at 0:52.\n\nMODERN POINT OF VIEW: The original is a young woman in the rubble the next morning. This is a woman ten years later who has finally stopped telling the polite version.\n\nEMOTIONAL ARC: Evasive, confessing, bare, wishing him peace.",
+  "workbookAtAGlance": "I Was the Weather\n\nBackup titles\nYou Just Lived Here / Every Door I Slammed\n\nAt a glance\n60 BPM, D minor to F major\nVoice: Raspy female voice, whisper to belt\nLength: about 3 minutes 40",
+  "qa": {
+    "title": "I Was the Weather",
+    "id": "pb_13",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.0,
+        "measuredBpm": 64.6,
+        "bpmFactor": 1,
+        "targetBpm": 60,
+        "bpmErrPct": 7.7,
+        "lufs": -14.0,
+        "peakDbfs": -2.42,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 231.8,
+        "vocalCoverage": 0.64,
+        "vocalSpanSec": [
+          14.8,
+          227.6
+        ],
+        "vocalF0MedianHz": 442,
+        "vocalF0P25Hz": 329,
+        "lyricLineRecall": 0.912,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 66 BPM vs 60 target (~10% off)"
+        ],
+        "durationSec": 233.6,
+        "measuredBpm": 66.3,
+        "bpmFactor": 1,
+        "targetBpm": 60,
+        "bpmErrPct": 10.4,
+        "lufs": -13.9,
+        "peakDbfs": -1.52,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 231.3,
+        "vocalCoverage": 0.6,
+        "vocalSpanSec": [
+          14.2,
+          217.5
+        ],
+        "vocalF0MedianHz": 590,
+        "vocalF0P25Hz": 391,
+        "lyricLineRecall": 0.706,
+        "lyricUnclearSections": [
+          "Pre-Chorus"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Rock",
+  "year": 2013
+}

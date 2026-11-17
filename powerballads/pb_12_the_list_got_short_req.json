@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "The List Got Short",
+  "prompt": "[Intro: fingerpicked open-string electric guitar, alone]\n\n[Verse 1: low weathered male voice, quiet]\nI used to keep a hundred fires\nHad to win, had to be seen\nEvery room a thing to conquer\nEvery man a thing to beat\n\n[Verse 2: second guitar and bass enter]\nThen the years came through like weather\nTook the hair and took the pride\nTook my father, took my hurry\nLeft a few things by my side\n\n[Chorus: strings swell, voice stronger]\nAnd the list got short\nThree names and a dog\nA porch, a little time\nThe list got short\nAnd everything I dropped\nWas never really mine\n\n[Verse 3: drums enter, steady]\nI don't need the last word anymore\nI don't need to hold the floor\nI know who I would run back for\nI don't need a whole lot more\n\n[Chorus: full band and orchestra]\nAnd the list got short\nThree names and a dog\nA porch, a little time\nThe list got short\nAnd everything I dropped\nWas never really mine\n\n[Guitar Solo: long, singing, melodic, over the orchestra]\n\n[Bridge: band drops low, voice close]\nAsk me what I'm proud of\nI'll point across the room\n\n[Final Chorus: biggest, then down to one guitar]\nThe list got short\nThree names and a dog\nA porch, a little time\nThe list got short\nAnd everything I kept\nIs here, and it is mine\n\n[Outro: the opening guitar pattern, alone, slowing]",
+  "style": "Early-1990s rock power ballad with orchestra in 6/8, low rough restrained male baritone sung gently with almost no vibrato, pushing harder later but never screaming, 69 BPM, E minor, slow grave patient build from one guitar to full orchestra, clean electric guitar fingerpicking open strings, second guitar with harmonics, bass, simple late-entry drums, full string section and French horns, long warm sustained melodic guitar solo, warm deep spacious mix, reflective, grounded, moving",
+  "negativeTags": "female lead vocals, synth pop, rap, trap hi-hats, EDM, screaming, fast thrash tempo, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 315,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "pb_30",
+  "title": "Room 214, Yours as Always",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 30,
+  "slug": "pb_30_room_214_yours_as_always",
+  "inspiredBy": "Faithfully (Journey, 1983)",
+  "leadVoice": "Male tenor, high, clear and ringing, with a slight rasp when he pushes. Gentle in the verses, soaring in the choruses, and wordless over the guitar solo. He holds the last word of the final chorus.",
+  "model": "V6",
+  "style": "Early-1980s arena rock power ballad, high clear ringing male tenor with a slight rasp when he pushes, gentle verses and soaring choruses, wordless whoa-oh vocal over the guitar solo, held final word, 65 BPM, B major, slow warm steadily building feel, piano with a simple repeating figure, warm synth pad, bass, drums entering gradually, singing lead guitar with long sustain, string pad, backing harmonies, warm wide polished mix, devoted, homesick, steadfast",
+  "negativeTags": "female lead vocals, rap, trap hi-hats, EDM, harsh distortion, lo-fi, country twang, auto-tune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 275,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: simple piano figure, soft pad]\n\n[Verse 1: high clear male tenor, gentle]\nAnother lobby, another key card in a sleeve\nSame carpet, same painting of the sea\nThe ice machine is humming down the hall\nI'm lying here composing this to you\n\n[Verse 2: bass and light drums enter]\nThey ask me at the bar if I get lonely\nI say I've got a call at nine o'clock\nYou tell me what the dog did, what the mail brought\nAnd I can see the kitchen while you talk\n\n[Chorus: full band, voice soaring]\nRoom two-fourteen, yours as always\nDifferent city, same old vow\nI count the nights in little soaps and coffee\nI'm still yours, I'm still yours now\nHome by Friday\nYours, as always\n\n[Verse 3: voice warmer, guitar answering]\nTwenty years of airports and of rental cars\nOf birthdays on a screen, I know the cost\nBut you have never once asked me to prove it\nAnd I have never once been lost\n\n[Chorus: full band, harmonies]\nRoom two-fourteen, yours as always\nDifferent city, same old vow\nI count the nights in little soaps and coffee\nI'm still yours, I'm still yours now\nHome by Friday\nYours, as always\n\n[Guitar Solo: singing lead guitar, wordless vocal over it]\nWhoa-oh-oh, oh-oh\nWhoa-oh-oh, oh-oh\n\n[Final Chorus: biggest, last word held]\nRoom two-fourteen, yours as always\nDifferent city, same old vow\nI count the nights in little soaps and coffee\nI'm still yours, I'm still yours now\nHome by Friday\nYours, as always\n\n[Outro: piano figure, a phone ringing once, \"Hey. It's nine.\"]",
+  "taskId": "247e83ab9ad6075e3ff3b387c2cde32e",
+  "sunoClipIds": [
+    "9e7b4413-ae54-43c9-807b-583cee79f763",
+    "88b940ab-fad1-486d-ba9b-763bbeec95e0"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919220437,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "9e7b4413-ae54-43c9-807b-583cee79f763",
+      "durationSec": 274.6,
+      "file": "powerballads/pb_30_room_214_yours_as_always_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "88b940ab-fad1-486d-ba9b-763bbeec95e0",
+      "durationSec": 274.2,
+      "file": "powerballads/pb_30_room_214_yours_as_always_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_30_room_214_yours_as_always_req.json",
+    "powerballads/pb_30_room_214_yours_as_always_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_30_room_214_yours_as_always.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 65 BPM, 4/4, B major. Slow, warm and steadily building, the classic shape of the form.\n\nVOICE: Male tenor, high, clear and ringing, with a slight rasp when he pushes. Gentle in the verses, soaring in the choruses, and wordless over the guitar solo. He holds the last word of the final chorus.\n\nINSTRUMENTS: A piano playing a simple repeating figure, a warm synth pad, bass, a drum kit entering gradually and opening up in the choruses, a singing lead guitar with long sustain, a string pad, backing harmonies.\n\nARRANGEMENT MAP: 0:00 Intro piano. 0:16 Verse 1. 0:48 Verse 2. 1:20 Chorus 1. 1:56 Verse 3. 2:28 Chorus 2. 3:04 Guitar solo with wordless vocal. 3:32 Final chorus. 4:08 Outro, one ring and a greeting, ends 4:18.\n\nPRODUCTION & MIX: Early-1980s arena rock ballad: warm, wide and polished, piano and voice leading, guitar and drums growing.\n\nSIGNATURE MOMENT: 'I count the nights in little soaps and coffee' at 1:36.\n\nMODERN POINT OF VIEW: The original is a rock star on a tour bus. Far more people live this life in business hotels with a lanyard and a rental car, and their faithfulness is a phone call at nine.\n\nEMOTIONAL ARC: Lonely, connected, grateful, steadfast.",
+  "workbookAtAGlance": "Room 214, Yours as Always\n\nBackup titles\nAnother Lobby, Another Key Card / Home by Friday\n\nAt a glance\n65 BPM, B major\nVoice: High, clear male tenor\nLength: about 4 minutes 20",
+  "qa": {
+    "title": "Room 214, Yours as Always",
+    "id": "pb_30",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 274.6,
+        "measuredBpm": 66.3,
+        "bpmFactor": 1,
+        "targetBpm": 65,
+        "bpmErrPct": 1.9,
+        "lufs": -13.8,
+        "peakDbfs": -0.59,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 272.9,
+        "vocalCoverage": 0.623,
+        "vocalSpanSec": [
+          16.0,
+          260.6
+        ],
+        "vocalF0MedianHz": 331,
+        "vocalF0P25Hz": 278,
+        "lyricLineRecall": 0.688,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 274.2,
+        "measuredBpm": 64.6,
+        "bpmFactor": 1,
+        "targetBpm": 65,
+        "bpmErrPct": 0.6,
+        "lufs": -13.6,
+        "peakDbfs": -0.68,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 272.4,
+        "vocalCoverage": 0.64,
+        "vocalSpanSec": [
+          17.1,
+          246.8
+        ],
+        "vocalF0MedianHz": 327,
+        "vocalF0P25Hz": 278,
+        "lyricLineRecall": 0.781,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Arena Rock",
+  "year": 1983
+}

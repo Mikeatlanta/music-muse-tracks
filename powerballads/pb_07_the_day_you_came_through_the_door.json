@@ -1,0 +1,118 @@
+{
+  "id": "pb_07",
+  "title": "The Day You Came Through the Door",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 7,
+  "slug": "pb_07_the_day_you_came_through_the_door",
+  "inspiredBy": "Halo (Beyoncé, 2008)",
+  "leadVoice": "Female, a big, agile R&B-pop voice held back in the verses and opened fully in the choruses, with runs and held high notes. Stacked harmonies of her own voice. Free ad-libs over the last chorus. A child speaks the final line.",
+  "model": "V6",
+  "style": "Late-2000s pop-R&B power ballad, big agile female R&B-pop voice held back in the verses and fully open in the choruses with runs and held high notes, stacked self-harmonies, free ad-libs at the end, 80 BPM, A major, slow heavy uplifting feel with a clap on every backbeat, piano, handclaps, deep booming kick and wide snare, sustained bass, string section, choir-like synth pad, wordless vocal motif, huge shimmering mix, tender, overwhelmed, joyful",
+  "negativeTags": "male lead vocals, electric guitar solo, rap, country twang, trap hi-hats, lo-fi, fast tempo, harsh distortion",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft piano, handclaps, a wordless vocal line]\n\n[Verse 1: female voice, low and controlled]\nI had it how I liked it\nWhite couch, quiet, mine\nEvery glass put back in order\nEvery evening on a line\nI'd decided I was finished\nI had told myself I'm fine\n\n[Pre-Chorus: drums enter, voice rising]\nThen a caseworker's car in the drive\nOne backpack and two wide eyes\n\n[Chorus: full band, voice soaring]\nThe day you came through the door\nEvery wall I'd made forgot what it was for\nJelly on the white couch, shoes across the floor\nThe whole house learned your name\nThe day you came through the door\n\n[Verse 2: voice warmer, bass moving]\nYou asked me where the bathroom was\nYou asked me could you leave the light\nYou asked me, very quiet,\nHow long, and I said, \"Tonight,\"\nThen I said, \"As long as you like,\"\nAnd heard my own voice, and it was right\n\n[Pre-Chorus: drums build]\nSeven years old and a paper bag\nYou carried in the only thing I didn't have\n\n[Chorus: full band, voice soaring]\nThe day you came through the door\nEvery wall I'd made forgot what it was for\nJelly on the white couch, shoes across the floor\nThe whole house learned your name\nThe day you came through the door\n\n[Bridge: half-time, choir pad, voice at full power]\nI thought I was the one saying yes\nI thought I was the rescue\nOh, I thought I was the rescue\n\n[Final Chorus: highest, ad-libs, handclaps doubled]\nThe day you came through the door\nEvery wall I'd made forgot what it was for\nDrawings on the fridge now, laughing down the hall\nThe whole house knows your name\nYou came through the door, and you're home\n\n[Outro: piano, a small voice: \"Can I call you Mom?\"]",
+  "taskId": "07705c8d57c61bd917f50b62d0a40e71",
+  "sunoClipIds": [
+    "cb24d175-ab65-4b51-a2a3-4bb9e28aa26f",
+    "b63a293f-cfd4-40d5-a970-ec0b5c2a8d65"
+  ],
+  "created": "Nov 17, 2026 7:38 AM ET",
+  "createTimeMs": 1794919126500,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "cb24d175-ab65-4b51-a2a3-4bb9e28aa26f",
+      "durationSec": 254.76,
+      "file": "powerballads/pb_07_the_day_you_came_through_the_door_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "b63a293f-cfd4-40d5-a970-ec0b5c2a8d65",
+      "durationSec": 254.4,
+      "file": "powerballads/pb_07_the_day_you_came_through_the_door_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_07_the_day_you_came_through_the_door_req.json",
+    "powerballads/pb_07_the_day_you_came_through_the_door_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_07_the_day_you_came_through_the_door.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, A major. Slow, heavy and uplifting, with a steady clap on every backbeat.\n\nVOICE: Female, a big, agile R&B-pop voice held back in the verses and opened fully in the choruses, with runs and held high notes. Stacked harmonies of her own voice. Free ad-libs over the last chorus. A child speaks the final line.\n\nINSTRUMENTS: Piano, handclaps, a deep, booming kick and a wide snare, a sustained bass, a string section, a choir-like synth pad, a wordless vocal sample used as a motif.\n\nARRANGEMENT MAP: 0:00 Intro. 0:14 Verse 1. 0:48 Pre-chorus. 0:58 Chorus 1. 1:28 Verse 2. 2:02 Pre-chorus. 2:12 Chorus 2. 2:42 Bridge, half-time. 3:02 Final chorus. 3:36 Outro, piano and a child's question at 3:54.\n\nPRODUCTION & MIX: Late-2000s pop-R&B power ballad: huge drums, shimmering pads, piano bright, vocal enormous and central.\n\nSIGNATURE MOMENT: 'Oh, I thought I was the rescue' at 2:52.\n\nMODERN POINT OF VIEW: The original praises a lover. A woman in her forties who has arranged a life without need can be undone the same way by a child, and the bridge admits who saved whom.\n\nEMOTIONAL ARC: Guarded, startled, opened, claimed.",
+  "workbookAtAGlance": "The Day You Came Through the Door\n\nBackup titles\nOne Backpack / The House Learned Your Name\n\nAt a glance\n80 BPM, A major\nVoice: Powerful female voice, restrained then soaring\nLength: about 4 minutes",
+  "qa": {
+    "title": "The Day You Came Through the Door",
+    "id": "pb_07",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 65 BPM vs 80 target (~19% off)"
+        ],
+        "durationSec": 254.8,
+        "measuredBpm": 64.6,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 19.3,
+        "lufs": -13.5,
+        "peakDbfs": -0.18,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 253.3,
+        "vocalCoverage": 0.812,
+        "vocalSpanSec": [
+          2.7,
+          236.4
+        ],
+        "vocalF0MedianHz": 434,
+        "vocalF0P25Hz": 257,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 63 BPM vs 80 target (~18% off)"
+        ],
+        "durationSec": 254.4,
+        "measuredBpm": 63.0,
+        "bpmFactor": 1.5,
+        "targetBpm": 80,
+        "bpmErrPct": 18.2,
+        "lufs": -13.9,
+        "peakDbfs": -0.17,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 254.2,
+        "vocalCoverage": 0.808,
+        "vocalSpanSec": [
+          4.6,
+          237.6
+        ],
+        "vocalF0MedianHz": 351,
+        "vocalF0P25Hz": 266,
+        "lyricLineRecall": 0.882,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "R&B",
+  "year": 2008
+}

@@ -1,0 +1,117 @@
+{
+  "id": "pb_23",
+  "title": "It Stops With Me",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 23,
+  "slug": "pb_23_it_stops_with_me",
+  "inspiredBy": "Because of You (Kelly Clarkson, 2004)",
+  "leadVoice": "Female, a strong, emotional pop-rock voice. She sings the verses quietly with a tremor, and belts the choruses with full power and a slight rasp. The bridge is close to speech. A choir joins the final chorus.",
+  "model": "V6",
+  "style": "Mid-2000s pop-rock power ballad, strong emotional female pop-rock voice quiet with a tremor in the verses and belted at full power with a slight rasp in the choruses, nearly spoken bridge, choir in the final chorus, 70 BPM, F minor resolving to major at the end, slow tense building feel, piano, music-box celesta phrase, string section, bass, rock drums entering at verse two, low distorted guitars in the choruses, dramatic polished mix, hurt, determined, triumphant",
+  "negativeTags": "male lead vocals, rap, trap hi-hats, EDM, country twang, lo-fi, fast tempo, auto-tune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: solo piano, minor key, a music box phrase]\n\n[Verse 1: female voice, quiet and hurt]\nI learned to read a room before I learned to read\nI learned the sound a key makes when it's angry\nI learned to be the good one, be the small one\nI learned which stair would creak, and how to hang back\n\n[Pre-Chorus: strings enter, voice rising]\nYou gave me what they gave you\nI know. I've seen the pictures.\n\n[Chorus: full band, belted]\nBut it stops with me\nI'm the end of that line\nIt stops with me\nShe will never learn to hide\nI kept your eyes, I kept your laugh, I kept the lullaby\nThe rest of it stops with me\n\n[Verse 2: voice steadier, drums in]\nMy daughter slams a door and I say, \"Tell me\"\nShe cries out loud, in public, in the car\nShe's never had to guess what kind of evening\nShe doesn't flinch. She doesn't know how far\n\n[Pre-Chorus: strings, voice rising]\nI had to go to get her this\nIt cost me. It was worth it.\n\n[Chorus: full band, belted]\n'Cause it stops with me\nI'm the end of that line\nIt stops with me\nShe will never learn to hide\nI kept your eyes, I kept your laugh, I kept the lullaby\nThe rest of it stops with me\n\n[Bridge: piano and voice, nearly spoken]\nI'm not angry anymore\nYou were a scared kid too\nI just couldn't pass it on\n\n[Final Chorus: major key, choir behind, highest note]\nIt stops with me\nI'm the end of that line\nIt stops with me\nListen to her, laughing down the hall\nI kept your eyes, I kept your laugh, I kept the lullaby\nThe rest of it stops with me\n\n[Outro: music box phrase in a major key, a child laughing]",
+  "taskId": "567d47a7a05d7b6041583b7766655d27",
+  "sunoClipIds": [
+    "154fc93e-4380-4dda-8b7a-e615fe58cf68",
+    "472d910d-3089-45db-a448-cc48e778314a"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919192769,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "154fc93e-4380-4dda-8b7a-e615fe58cf68",
+      "durationSec": 244.76,
+      "file": "powerballads/pb_23_it_stops_with_me_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "472d910d-3089-45db-a448-cc48e778314a",
+      "durationSec": 243.56,
+      "file": "powerballads/pb_23_it_stops_with_me_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_23_it_stops_with_me_req.json",
+    "powerballads/pb_23_it_stops_with_me_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_23_it_stops_with_me.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 70 BPM, 4/4, F minor, resolving to A-flat major in the final chorus. Slow, tense and building, then released.\n\nVOICE: Female, a strong, emotional pop-rock voice. She sings the verses quietly with a tremor, and belts the choruses with full power and a slight rasp. The bridge is close to speech. A choir joins the final chorus.\n\nINSTRUMENTS: Piano, a music-box-like celesta phrase, a string section, bass, a rock drum kit that enters at verse 2, distorted guitars low in the choruses, a choir.\n\nARRANGEMENT MAP: 0:00 Intro, piano and music box. 0:14 Verse 1. 0:48 Pre-chorus. 0:58 Chorus 1. 1:28 Verse 2. 2:02 Pre-chorus. 2:12 Chorus 2. 2:42 Bridge. 3:02 Final chorus, major. 3:34 Outro, music box and laughter, ends 3:48.\n\nPRODUCTION & MIX: Mid-2000s pop-rock ballad: dramatic and polished, piano and strings leading, drums and guitars swelling behind.\n\nSIGNATURE MOMENT: 'I kept your eyes, I kept your laugh, I kept the lullaby' at 1:18.\n\nMODERN POINT OF VIEW: The original is the injured child speaking. Twenty years later she is a mother herself, able to understand the parent, forgive what can be forgiven and report that the damage ended with her.\n\nEMOTIONAL ARC: Wary, angry, understanding, free.",
+  "workbookAtAGlance": "It Stops With Me\n\nBackup titles\nI Kept the Good Parts / My Daughter Laughs Loudly\n\nAt a glance\n70 BPM, F minor to A-flat major\nVoice: Powerful female voice, hurt then resolved\nLength: about 3 minutes 50",
+  "qa": {
+    "title": "It Stops With Me",
+    "id": "pb_23",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.8,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1,
+        "targetBpm": 70,
+        "bpmErrPct": 2.9,
+        "lufs": -14.1,
+        "peakDbfs": -0.26,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 242.5,
+        "vocalCoverage": 0.644,
+        "vocalSpanSec": [
+          15.2,
+          240.2
+        ],
+        "vocalF0MedianHz": 417,
+        "vocalF0P25Hz": 278,
+        "lyricLineRecall": 0.879,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 243.6,
+        "measuredBpm": 69.8,
+        "bpmFactor": 1,
+        "targetBpm": 70,
+        "bpmErrPct": 0.2,
+        "lufs": -14.3,
+        "peakDbfs": -0.82,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 240.7,
+        "vocalCoverage": 0.627,
+        "vocalSpanSec": [
+          15.2,
+          239.8
+        ],
+        "vocalF0MedianHz": 415,
+        "vocalF0P25Hz": 277,
+        "lyricLineRecall": 0.697,
+        "lyricUnclearSections": [
+          "Verse 2",
+          "Pre-Chorus"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop Rock",
+  "year": 2004
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Everything but the Fitted Sheet",
+  "prompt": "[Intro: pounding piano, a motorbike-like guitar roar, choir \"ah\"]\n\n[Verse 1: operatic male rock voice, grand]\nI would drive all night through a blizzard for you\nI would sit through your sister's wedding, part two\nI would learn to like jazz, I would give up my chair\nI would tell you the truth about that thing you did with your hair\n\n[Pre-Chorus: drums build, choir rising]\nI would walk through fire, I would swim through ice\nI would do it tomorrow and I'd do it twice\n\n[Chorus: full band and choir, enormous]\nI'd do everything, everything, everything for you\nThere is nothing on this earth that I would not go through\nI would give you my last breath, my last dime, my last seat\nI'd do everything for love\nBut I won't fold the fitted sheet\n\n[Verse 2: faster, piano driving]\nI have carried your mother's couch up four flights\nI have held your hand through the longest of nights\nI have gone to the store at eleven for cream\nI've pretended to listen while you told me your dream\n\n[Chorus: full band and choir, enormous]\nI'd do everything, everything, everything for you\nThere is nothing on this earth that I would not go through\nI would give you my last breath, my last dime, my last seat\nI'd do everything for love\nBut I won't fold the fitted sheet\n\n[Duet: tempo slows, female voice enters, he answers]\nWill you rub my feet when they're aching? (I will.)\nWill you laugh at my jokes when I'm old? (I do. I will.)\nWill you sit in the chair by the hospital bed?\n(Every night. Every night. Till they send me home instead.)\nWill you still think I'm pretty at ninety? (I'll be blind. And yes.)\nWill you fold the fitted sheet?\n(It has no corners! It's a trick! It's a bag with a dress!)\n\n[Bridge: both voices, choir swelling, sincere]\nThen I'll hold one side, and you hold the other\nThat's how we've done every other thing\n\n[Final Chorus: both voices, everything at full size]\nWe'd do everything, everything, everything for you\nThere is nothing on this earth we would not go through\nI will give you my last breath, my last dime, my last seat\nWe'd do everything for love\nAnd we'll ball up the fitted sheet\n\n[Outro: piano flourish, a linen cupboard door slammed, laughter]",
+  "style": "Early-1990s theatrical rock epic power ballad duet, huge operatic male rock tenor-baritone declaiming with total commitment and humour, a strong clear soulful female voice entering late with calm questions, both together at the end, choir backing every chorus, 76 BPM with a faster second verse and a slower duet section, D major, several dramatic sections, pounding virtuoso grand piano, roaring distorted guitars, bass, thunderous drums, string section, bells and timpani, maximal wide loud mix, comic, passionate, sincere",
+  "negativeTags": "rap, trap hi-hats, EDM, acoustic folk, minimal production, lo-fi, country twang, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 345,
+  "callBackUrl": "https://example.com/cb"
+}

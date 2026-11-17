@@ -1,0 +1,116 @@
+{
+  "id": "pb_25",
+  "title": "Past Forever",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 25,
+  "slug": "pb_25_past_forever",
+  "inspiredBy": "Always (Bon Jovi, 1994)",
+  "leadVoice": "Male tenor, raspy and passionate. He starts low and conversational, then sings the choruses at the very top of his chest range with audible strain, which is the point. Stacked harmonies in the choruses. Two spoken lines at the end, hers then his.",
+  "model": "V6",
+  "style": "Mid-1990s arena rock power ballad, raspy passionate male tenor starting low and conversational then singing the choruses at the very top of his chest range with audible strain, stacked harmonies, 72 BPM, E major with a key change up for the final chorus, slow huge wholehearted feel, piano, string section, chiming and overdriven electric guitars, bass, big reverberant drums, soaring lead guitar solo, Hammond organ, lush loud wide mix, devoted, dramatic, triumphant",
+  "negativeTags": "female lead vocals, rap, synth pop, trap hi-hats, EDM, lo-fi, minimal arrangement, auto-tune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: piano and strings, a lone guitar note sustaining]\n\n[Verse 1: raspy male tenor, low at first]\nI said \"for better and for worse\" in a rented suit\nI didn't know a thing about the worse\nI thought forever was a word you said\nLike \"amen,\" at the end of every verse\n\n[Pre-Chorus: drums build]\nThen came the layoff, and your mother, and the scare\nAnd you, in the waiting room, not going anywhere\n\n[Chorus: full band, voice at the top of its range]\nSo I'll love you past forever\nPast the stars and past the dark\nPast the day they take my name down off the mailbox by the park\nI didn't know what I was saying then\nI know it now, so ask me again\nI'll love you past forever\n\n[Verse 2: voice stronger, guitars chiming]\nYou've seen me broke, you've seen me mean, you've seen me cry\nYou've seen me lose my hair and lose my nerve\nI've seen you carry more than any two should\nAnd never once behave as you deserved\n\n[Pre-Chorus: drums build]\nThis ring's too tight, it's been too tight for years\nI've never had it off. I'm not starting here.\n\n[Chorus: full band, voice at the top of its range]\nSo I'll love you past forever\nPast the stars and past the dark\nPast the day they take my name down off the mailbox by the park\nI didn't know what I was saying then\nI know it now, so ask me again\nI'll love you past forever\n\n[Guitar Solo: soaring, melodic, over the chorus]\n\n[Bridge: band drops to piano, voice close]\nIf you go first, I'll talk to you at breakfast\nIf I go first, check the porch at dusk\n\n[Final Chorus: key up, everything at full stretch]\nI'll love you past forever\nPast the stars and past the dark\nPast the day they take my name down off the mailbox by the park\nI didn't know what I was saying then\nI know it now, so ask me again\nI'll love you past forever\n\n[Outro: piano, \"Do you?\" \"I do. Still.\"]",
+  "taskId": "4a98d98fe91d469f60be87bf4842a3f8",
+  "sunoClipIds": [
+    "4f08cba6-2193-45cd-8c62-11f6c8779906",
+    "d07764b8-8ee9-4ed4-a150-52b160a05113"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919196275,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "4f08cba6-2193-45cd-8c62-11f6c8779906",
+      "durationSec": 285.2,
+      "file": "powerballads/pb_25_past_forever_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d07764b8-8ee9-4ed4-a150-52b160a05113",
+      "durationSec": 284.88,
+      "file": "powerballads/pb_25_past_forever_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_25_past_forever_req.json",
+    "powerballads/pb_25_past_forever_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_25_past_forever.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 72 BPM, 4/4, E major, up to F# major for the last chorus. A slow, huge, wholehearted arena ballad.\n\nVOICE: Male tenor, raspy and passionate. He starts low and conversational, then sings the choruses at the very top of his chest range with audible strain, which is the point. Stacked harmonies in the choruses. Two spoken lines at the end, hers then his.\n\nINSTRUMENTS: Piano, a string section, two electric guitars (one chiming, one overdriven), bass, a big, reverberant drum kit, a soaring lead guitar solo, a Hammond organ.\n\nARRANGEMENT MAP: 0:00 Intro. 0:16 Verse 1. 0:48 Pre-chorus. 1:00 Chorus 1. 1:36 Verse 2. 2:08 Pre-chorus. 2:20 Chorus 2. 2:56 Guitar solo. 3:16 Bridge. 3:34 Final chorus, key up. 4:12 Outro, two spoken lines, ends 4:28.\n\nPRODUCTION & MIX: Mid-1990s arena rock ballad: lush, loud and wide, strings and guitars together, drums enormous.\n\nSIGNATURE MOMENT: 'I didn't know what I was saying then. I know it now, so ask me again.' at 1:22.\n\nMODERN POINT OF VIEW: The original swears forever from inside a fresh heartbreak. This swears it after thirty-five years of evidence, including all the parts the first vow did not imagine.\n\nEMOTIONAL ARC: Rueful, proven, vowing, answered.",
+  "workbookAtAGlance": "Past Forever\n\nBackup titles\nAsk Me Again at Ninety / I Meant the Small Print\n\nAt a glance\n72 BPM, E major\nVoice: Raspy male tenor at the top of his range\nLength: about 4 minutes 30",
+  "qa": {
+    "title": "Past Forever",
+    "id": "pb_25",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 285.2,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1,
+        "targetBpm": 72,
+        "bpmErrPct": 5.6,
+        "lufs": -13.8,
+        "peakDbfs": -0.9,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 285.2,
+        "vocalCoverage": 0.621,
+        "vocalSpanSec": [
+          3.4,
+          269.6
+        ],
+        "vocalF0MedianHz": 331,
+        "vocalF0P25Hz": 249,
+        "lyricLineRecall": 0.781,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.9,
+        "measuredBpm": 69.8,
+        "bpmFactor": 1,
+        "targetBpm": 72,
+        "bpmErrPct": 3.0,
+        "lufs": -14.2,
+        "peakDbfs": -1.67,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 282.7,
+        "vocalCoverage": 0.624,
+        "vocalSpanSec": [
+          13.6,
+          263.3
+        ],
+        "vocalF0MedianHz": 522,
+        "vocalF0P25Hz": 278,
+        "lyricLineRecall": 0.875,
+        "lyricUnclearSections": [
+          "Verse 2"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Arena Rock",
+  "year": 1994
+}

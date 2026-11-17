@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Where the Wall Was",
+  "prompt": "[Intro: whistled melody over clean electric guitar]\n\n[Verse 1: high clear male tenor, gentle]\nI take her by the hand along the river\nThere's a line of stones set in the ground\nShe hops across it on her scooter\nNever looks down, never slows down\n\n[Verse 2: bass and soft drums enter]\nI was twenty when I stood here\nWith a hammer and a stranger's wine\nWe sang until our voices went\nI kept a piece. It's on a shelf of mine.\n\n[Chorus: full band, soaring, whistle answering]\nWhere the wall was\nThere are bicycles and trees\nWhere the wall was\nThere's a kid who can't believe\nThat anybody ever stopped a street\nShe asked me what a border is\nWhere the wall was\n\n[Verse 3: voice warmer, guitars chiming]\nI tell her there were soldiers\nI tell her there were lights\nShe says, \"But why?\" and I've got nothing\nShe says, \"That's silly.\" She is right.\n\n[Chorus: full band, soaring, whistle answering]\nWhere the wall was\nThere are bicycles and trees\nWhere the wall was\nThere's a kid who can't believe\nThat anybody ever stopped a street\nShe asked me what a border is\nWhere the wall was\n\n[Guitar Solo: lyrical, over the chorus chords]\n\n[Bridge: half-time, voice and acoustic guitar]\nThey told us it would stand a hundred years\nThey told us nothing ever moves\nRemember that, the next time\n\n[Final Chorus: biggest, crowd singing, whistle on top]\nWhere the wall was\nThere are bicycles and trees\nWhere the wall was\nThere's a kid who can't believe\nThat anybody ever stopped a street\nShe asked me what a border is\nWhere the wall was\n\n[Outro: whistled melody alone, a scooter rolling away]",
+  "style": "1990 European rock power ballad with a whistled hook, high clear slightly accented male tenor gentle in the verses and ringing in the choruses, whistled main tune at the start and end, crowd joining the final chorus, 76 BPM, C major, slow hopeful stately feel, clean electric guitar arpeggio, acoustic guitar, bass, steady stately drums, singing lead guitar solo, string pad, clean wide anthemic mix, nostalgic, hopeful, uplifting",
+  "negativeTags": "female lead vocals, rap, synth pop, trap hi-hats, EDM, harsh metal distortion, lo-fi, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "callBackUrl": "https://example.com/cb"
+}

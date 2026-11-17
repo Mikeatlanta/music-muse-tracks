@@ -2,6 +2,47 @@
  "note": "Site layout for build_fast.py. sections: order = nav/page order; songs whose collection matches a section are added to it (new ones after the listed order). cards: per-song display overrides; new songs can omit them.",
  "sections": [
   {
+   "id": "powerballads",
+   "nav": "💫 Power Ballads Reimagined",
+   "title": "💫 Power Ballads Reimagined",
+   "blurb": "Thirty new songs, each built on the mechanics of one of the thirty most popular power ballads released from the 1980s to 2020, in rock, metal, pop, soul and R&B, and written from the point of view of someone who has lived a few more decades than the original singer had. All original lyrics.",
+   "collections": [
+    "powerballads"
+   ],
+   "order": [
+    "pb_01_sit_with_me_a_while",
+    "pb_02_running_on_fumes",
+    "pb_03_still_got_your_number",
+    "pb_04_leave_the_mess_come_home",
+    "pb_05_you_still_know_my_hand",
+    "pb_06_tired_isnt_over",
+    "pb_07_the_day_you_came_through_the_door",
+    "pb_08_teach_me_how_to_stay",
+    "pb_09_the_night_the_power_went_out",
+    "pb_10_keep_this_one",
+    "pb_11_march_thaw",
+    "pb_12_the_list_got_short",
+    "pb_13_i_was_the_weather",
+    "pb_14_it_was_real_and_its_done",
+    "pb_15_i_was_new_at_this",
+    "pb_16_where_the_wall_was",
+    "pb_17_amber_hour",
+    "pb_18_right_here_was_always_it",
+    "pb_19_unguarded",
+    "pb_20_whoevers_got_the_night_shift",
+    "pb_21_i_forgot_it_felt_like_this",
+    "pb_22_stay_and_see_me",
+    "pb_23_it_stops_with_me",
+    "pb_24_everything_but_the_fitted_sheet",
+    "pb_25_past_forever",
+    "pb_26_every_summer_has_a_sunday_night",
+    "pb_27_your_coats_still_on_the_hook",
+    "pb_28_rain_on_hot_pavement",
+    "pb_29_thumbtack_holes",
+    "pb_30_room_214_yours_as_always"
+   ]
+  },
+  {
    "id": "popcountry",
    "nav": "🤠 Pop-Country Reimagined",
    "title": "🤠 Pop-Country Reimagined",

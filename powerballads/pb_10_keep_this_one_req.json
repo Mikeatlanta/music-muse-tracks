@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Keep This One",
+  "prompt": "[Intro: plain piano chords, soft pedal steel]\n\n[Verse 1: warm female alto, close]\nOnions burning, radio low\nYour shirt's on inside out\nOur girl is laughing at her phone\nNobody's in a hurry, nobody's left the house\n\n[Pre-Chorus: drums enter softly]\nThere's nothing here to photograph\nThat's how I know\n\n[Chorus: full band, voice opening wide]\nKeep this one\nWhen the rest go soft and gray\nThe steam, the light, the way you turn around\nDon't anybody move today\nIf I only get to carry one thing out\nKeep this one\n\n[Verse 2: voice fuller, guitar answering]\nShe'll be gone in two more summers\nYou'll be grayer, so will I\nThe dog won't make it to her wedding\nAnd this window won't face this sky\n\n[Pre-Chorus: drums build]\nI'm not sad. I'm paying attention.\nThat's all it is\n\n[Chorus: full band, voice opening wide]\nKeep this one\nWhen the rest go soft and gray\nThe steam, the light, the way you turn around\nDon't anybody move today\nIf I only get to carry one thing out\nKeep this one\n\n[Bridge: piano and voice, breaking on the high note]\nI've lost the big days, lost whole years\nI couldn't tell you what I wore\nBut I will have this till I'm ash\nYou, a wooden spoon, a kitchen floor\n\n[Final Chorus: biggest, held last note]\nKeep this one\nWhen the rest go soft and gray\nThe steam, the light, the way you turn around\nDon't anybody move today\nIf I only get to carry one thing out\nKeep this one\n\n[Outro: piano, a smoke alarm chirps, everybody laughs]",
+  "style": "2018 film-soundtrack country-rock power ballad, rich slightly husky female alto almost spoken in the verses then belting with a controlled break at the top, long held final note, 65 BPM, A minor verses opening to C major choruses, slow warm wide feel, upright piano, pedal steel guitar, acoustic guitar, warm electric guitar, restrained drums with cymbal swells, small string section, Hammond organ, live warm unpolished mix, tender, bittersweet, grateful",
+  "negativeTags": "male lead vocals, synths, drum machine, rap, EDM, trap hi-hats, auto-tune, fast tempo",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

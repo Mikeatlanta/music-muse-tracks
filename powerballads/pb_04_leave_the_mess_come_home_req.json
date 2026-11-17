@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Leave the Mess, Come Home",
+  "prompt": "[Intro: soft church organ, held chords]\n\n[Verse 1: gentle male voice, organ only]\nWhen the job is gone and the lease is up\nAnd you can't make the numbers reach\nWhen you gave it everything you had\nAnd it still fell out of reach\n\n[Verse 2: piano joins, voice a little fuller]\nWhen you're on the floor of a rented room\nWith your whole life in a bag\nWhen you're too ashamed to dial the phone\nAnd you dial it, and I'm glad\n\n[Chorus: falsetto, acoustic guitar entering]\nLeave the mess, come home\nThe key's where it always was\nLeave the mess, come home\nYou don't have to say because\nI'll put the kettle on\n\n[Verse 3: voice steadier, bass in]\nYou can sleep in your old bed\nThere's a dent there shaped like you\nWe don't have to make a plan\nThere is nothing you have to do\n\n[Chorus: falsetto, band gathering]\nLeave the mess, come home\nThe key's where it always was\nLeave the mess, come home\nYou don't have to say because\nI'll put the kettle on\n\n[Build: chiming electric guitar figure, drums crash in]\n\n[Chant: whole band, gang vocals, loud]\nNothing's ruined, nothing's ruined\nYou are not what fell apart\nNothing's ruined, nothing's ruined\nCome back to the start\nNothing's ruined, nothing's ruined\nI have got you. I have got you.\n\n[Final Chorus: everything drops to organ and voice]\nLeave the mess, come home\nThe key's where it always was\nI'll put the kettle on\n\n[Outro: organ, a car door, a kettle beginning to boil]",
+  "style": "Mid-2000s arena rock power ballad, soft slightly husky male vocal in a low register for the verses moving into fragile falsetto for the chorus, a full-strength chant with gang vocals at the peak, near-whisper ending, 69 BPM, E-flat major, very slow and hushed then a huge steady surge, church organ, piano, acoustic guitar, chiming delayed electric guitar four-note figure, drums entering all at once with crashing cymbals, string pad, intimate then wide bright loud mix, consoling, patient, uplifting",
+  "negativeTags": "female lead vocals, rap, synth pop, trap hi-hats, EDM drop, fast tempo, harsh distortion, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "callBackUrl": "https://example.com/cb"
+}

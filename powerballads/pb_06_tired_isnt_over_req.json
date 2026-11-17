@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Tired Isn't Over",
+  "prompt": "[Intro: marching piano figure, soft kick]\n\n[Verse 1: female voice, worried]\nYou fell asleep at eight again\nThe dishes and the news still on\nWe haven't had a conversation\nThat wasn't schedules since the fall\nI lie here doing the arithmetic\nOf when we last were us at all\n\n[Pre-Chorus: female, drums entering]\nTell me that it's still in there\nTell me I'm not making it up\n\n[Chorus: both voices, full band]\nTired isn't over\nQuiet isn't gone\nWe're not broken, baby, we're just behind on sleep\nAnd it's been so long\nGive me a morning, one slow morning, and we'll count again\nTired isn't over\nWe just have to get to the weekend\n\n[Verse 2: male voice, gentle, a little amused]\nYou've been reading into silence\nI've been dead on my two feet\nI still look at you in the kitchen\nWhen you think I'm half asleep\nI know the nights have all been short ones\nYou're still the one I'd stay up to keep\n\n[Pre-Chorus: male, drums pushing]\nIt's still in there, I swear it is\nYou're not making it up\n\n[Chorus: both voices, full band]\nTired isn't over\nQuiet isn't gone\nWe're not broken, baby, we're just behind on sleep\nAnd it's been so long\nGive me a morning, one slow morning, and we'll count again\nTired isn't over\nWe just have to get to the weekend\n\n[Bridge: piano alone, voices trading]\nYour mother takes the kids on Friday\nWe turn our phones face down\nI'll make the coffee. You sleep till ten.\nAnd then we look around.\n\n[Final Chorus: key up a step, both voices at full strength]\nTired isn't over\nQuiet isn't gone\nWe're not broken, baby, we're just behind on sleep\nAnd it's been so long\nGive me a morning, one slow morning, and we'll count again\nTired isn't over\nWe just have to get to the weekend\n\n[Outro: piano figure, a yawn, a laugh]",
+  "style": "Early-2010s pop-rock duet power ballad, strong raspy direct female pop-rock voice on the first verse and a high clear theatrical male tenor on the second, both in harmony at full strength on the choruses, traded lines in the bridge, 95 BPM, G major with a key change up for the final chorus, steady marching mid-tempo feel, piano with a marching eighth-note figure, military-style kick and snare, bass, acoustic guitar, string section, electric guitar chords at the end, bright punchy clean mix, anxious, warm, hopeful",
+  "negativeTags": "rap, EDM synths, trap hi-hats, country twang, slow doo-wop, harsh distortion, auto-tune, solo voice only",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

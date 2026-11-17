@@ -1,0 +1,118 @@
+{
+  "id": "pb_21",
+  "title": "I Forgot It Felt Like This",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 21,
+  "slug": "pb_21_i_forgot_it_felt_like_this",
+  "inspiredBy": "Alone (Heart, 1987)",
+  "leadVoice": "Female, one of those big rock voices: breathy and close in the verses, then a full-throated wail at the top of her range in the choruses, with a held high note at the end. One breathless spoken line in the bridge.",
+  "model": "V6",
+  "style": "Late-1980s arena rock power ballad, big female rock voice breathy and close in the verses then a full-throated wail at the top of her range in the choruses with a held high note at the end, harmony vocal in the choruses, 88 BPM, B minor verses and D major choruses, hushed tense verses and enormous choruses, piano, ticking clock, warm synth pad, bass, huge 1980s drums entering with the chorus, layered electric guitars, soaring lead guitar solo, reverberant wall-of-sound mix, giddy, yearning, exhilarated",
+  "negativeTags": "male lead vocals, rap, trap hi-hats, EDM, acoustic folk, lo-fi, country twang, auto-tune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: ticking clock, soft piano, synth pad]\n\n[Verse 1: female voice, hushed]\nIt's midnight and the house is still\nThe phone is face down on the sill\nI turned it over twice to see\nA grown woman, fifty-one. That's me.\n\n[Pre-Chorus: bass enters, voice lifting]\nI'd put all this away\nIn a box marked \"that was then\"\n\n[Chorus: full band explodes, voice at full power]\nI forgot it felt like this\nMy heart's a kid again\nHands are shaking, can't sit still\nI'm counting hours till when\nHow do I get through the night\nTill you write back to me?\nI forgot it felt like this\nI forgot it could be me\n\n[Verse 2: hushed again, piano and clock]\nI've raised two children, buried one man\nI've run a house, I've made a plan\nAnd none of that is any use\nWhen someone's laugh has cut me loose\n\n[Pre-Chorus: bass and drums build]\nI thought the fire went with the years\nIt was only waiting\n\n[Chorus: full band, voice at full power]\nI forgot it felt like this\nMy heart's a kid again\nHands are shaking, can't sit still\nI'm counting hours till when\nHow do I get through the night\nTill you write back to me?\nI forgot it felt like this\nI forgot it could be me\n\n[Guitar Solo: soaring, melodic]\n\n[Bridge: band drops, a phone buzzes, voice breathless]\nOh. Oh, that's him.\n\n[Final Chorus: biggest, top note held]\nI forgot it felt like this\nMy heart's a kid again\nHands are shaking, can't sit still\nI'm counting hours till when\nI don't have to get through the night\nYou wrote right back to me\nI forgot it felt like this\nAnd I'm so glad it's me\n\n[Outro: clock ticking, typing, a small laugh]",
+  "taskId": "c749dce920e455389893d61c12f43d9d",
+  "sunoClipIds": [
+    "55a072e0-6dcb-4179-b4f0-aa4a920e4662",
+    "8734ab88-ba96-4e15-a0d4-d4351b1f73ed"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919193991,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "55a072e0-6dcb-4179-b4f0-aa4a920e4662",
+      "durationSec": 244.36,
+      "file": "powerballads/pb_21_i_forgot_it_felt_like_this_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "8734ab88-ba96-4e15-a0d4-d4351b1f73ed",
+      "durationSec": 243.72,
+      "file": "powerballads/pb_21_i_forgot_it_felt_like_this_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_21_i_forgot_it_felt_like_this_req.json",
+    "powerballads/pb_21_i_forgot_it_felt_like_this_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_21_i_forgot_it_felt_like_this.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 88 BPM, 4/4, B minor verses and D major choruses. Hushed and tense, then enormous.\n\nVOICE: Female, one of those big rock voices: breathy and close in the verses, then a full-throated wail at the top of her range in the choruses, with a held high note at the end. One breathless spoken line in the bridge.\n\nINSTRUMENTS: Piano, a ticking clock, a warm synth pad, bass, a huge 1980s drum kit that enters with the chorus, layered electric guitars, a soaring lead guitar solo, a second harmony vocal in the choruses.\n\nARRANGEMENT MAP: 0:00 Intro, clock and piano. 0:14 Verse 1. 0:44 Pre-chorus. 0:54 Chorus 1. 1:26 Verse 2. 1:56 Pre-chorus. 2:06 Chorus 2. 2:38 Guitar solo. 2:54 Bridge, the buzz. 3:02 Final chorus. 3:36 Outro, typing and a laugh, ends 3:48.\n\nPRODUCTION & MIX: Late-1980s arena ballad: very quiet verses, huge reverberant choruses, guitars and drums like a wall.\n\nSIGNATURE MOMENT: The phone buzzing in the silence at 2:54.\n\nMODERN POINT OF VIEW: The original is a young woman's first secret longing. The same sleepless night at fifty-one is funnier and braver, and this one ends with a reply.\n\nEMOTIONAL ARC: Embarrassed, thrilled, undone, delighted.",
+  "workbookAtAGlance": "I Forgot It Felt Like This\n\nBackup titles\nFifty-One and Checking My Phone / Like a Kid Again\n\nAt a glance\n88 BPM, B minor to D major\nVoice: Powerful female rock voice, hush to scream\nLength: about 3 minutes 50",
+  "qa": {
+    "title": "I Forgot It Felt Like This",
+    "id": "pb_21",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.4,
+        "measuredBpm": 83.4,
+        "bpmFactor": 1,
+        "targetBpm": 88,
+        "bpmErrPct": 5.3,
+        "lufs": -14.5,
+        "peakDbfs": -1.68,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 242.6,
+        "vocalCoverage": 0.684,
+        "vocalSpanSec": [
+          15.0,
+          232.2
+        ],
+        "vocalF0MedianHz": 442,
+        "vocalF0P25Hz": 351,
+        "lyricLineRecall": 0.73,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 243.7,
+        "measuredBpm": 89.1,
+        "bpmFactor": 1,
+        "targetBpm": 88,
+        "bpmErrPct": 1.3,
+        "lufs": -13.6,
+        "peakDbfs": -0.97,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.7,
+        "contentEndSec": 241.9,
+        "vocalCoverage": 0.722,
+        "vocalSpanSec": [
+          8.7,
+          223.7
+        ],
+        "vocalF0MedianHz": 536,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.757,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Arena Rock",
+  "year": 1987
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Whoever's Got the Night Shift",
+  "prompt": "[Intro: piano, soft strings, a distant train]\n\n[Verse 1: warm male voice, conversational]\nThree a.m., the motorway's all mine\nOne light on in a signal box, one sign\nSomebody's in there with a flask and a chair\nI'll never know their name, and they don't care\n\n[Pre-Chorus: drums enter softly]\nMy kids are sleeping forty miles ahead\nUnder a roof somebody's watching instead\n\n[Chorus: full band, built to be sung by a crowd]\nSo whoever's got the night shift\nWhoever's on the line\nWhoever kept the lights on\nAnd the water running fine\nI'll never get to thank you, so I'm singing it instead\nWhoever's got the night shift\nGod bless you. Go to bed.\n\n[Verse 2: voice fuller, guitar chiming]\nA nurse who's on her feet since yesterday\nA lad who's gritting roads to clear my way\nA woman on a switchboard in the dark\nWho'll send the right ones if I miss my mark\n\n[Pre-Chorus: drums build]\nI used to think I'd made it on my own\nI never drove a mile of this alone\n\n[Chorus: full band, crowd joining]\nSo whoever's got the night shift\nWhoever's on the line\nWhoever kept the lights on\nAnd the water running fine\nI'll never get to thank you, so I'm singing it instead\nWhoever's got the night shift\nGod bless you. Go to bed.\n\n[Guitar Solo: big, lyrical, strings behind]\n\n[Bridge: band drops, piano and voice]\nAnd when it's me who's needed\nI hope I'm half as good\n\n[Final Chorus: key up, everyone singing]\nWhoever's got the night shift\nWhoever's on the line\nWhoever kept the lights on\nAnd the water running fine\nI'll never get to thank you, so I'm singing it instead\nWhoever's got the night shift\nGod bless you. Go to bed.\n\n[Outro: piano, a key in a front door, a hall light switched off]",
+  "style": "Late-1990s British pop-rock power ballad, warm male baritone-tenor with an English accent half-talking the verses with humour and tenderness then a big plain tuneful singalong chorus, crowd voices joining later, 76 BPM, E major with a key change up for the final chorus, slow warm feel, piano, string section, acoustic and chiming electric guitars, bass, steady drums, lyrical lead guitar solo, brass pad, warm big unfussy mix, grateful, humble, anthemic",
+  "negativeTags": "female lead vocals, rap, trap hi-hats, EDM, harsh distortion, lo-fi, country twang, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 275,
+  "callBackUrl": "https://example.com/cb"
+}

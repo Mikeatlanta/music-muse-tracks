@@ -1,0 +1,118 @@
+{
+  "id": "pb_12",
+  "title": "The List Got Short",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 12,
+  "slug": "pb_12_the_list_got_short",
+  "inspiredBy": "Nothing Else Matters (Metallica, 1991)",
+  "leadVoice": "Male baritone, low, rough and restrained, sung gently with almost no vibrato, as if he does not usually sing this quietly. He pushes harder in the later choruses but never screams.",
+  "model": "V6",
+  "style": "Early-1990s rock power ballad with orchestra in 6/8, low rough restrained male baritone sung gently with almost no vibrato, pushing harder later but never screaming, 69 BPM, E minor, slow grave patient build from one guitar to full orchestra, clean electric guitar fingerpicking open strings, second guitar with harmonics, bass, simple late-entry drums, full string section and French horns, long warm sustained melodic guitar solo, warm deep spacious mix, reflective, grounded, moving",
+  "negativeTags": "female lead vocals, synth pop, rap, trap hi-hats, EDM, screaming, fast thrash tempo, auto-tune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 315,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: fingerpicked open-string electric guitar, alone]\n\n[Verse 1: low weathered male voice, quiet]\nI used to keep a hundred fires\nHad to win, had to be seen\nEvery room a thing to conquer\nEvery man a thing to beat\n\n[Verse 2: second guitar and bass enter]\nThen the years came through like weather\nTook the hair and took the pride\nTook my father, took my hurry\nLeft a few things by my side\n\n[Chorus: strings swell, voice stronger]\nAnd the list got short\nThree names and a dog\nA porch, a little time\nThe list got short\nAnd everything I dropped\nWas never really mine\n\n[Verse 3: drums enter, steady]\nI don't need the last word anymore\nI don't need to hold the floor\nI know who I would run back for\nI don't need a whole lot more\n\n[Chorus: full band and orchestra]\nAnd the list got short\nThree names and a dog\nA porch, a little time\nThe list got short\nAnd everything I dropped\nWas never really mine\n\n[Guitar Solo: long, singing, melodic, over the orchestra]\n\n[Bridge: band drops low, voice close]\nAsk me what I'm proud of\nI'll point across the room\n\n[Final Chorus: biggest, then down to one guitar]\nThe list got short\nThree names and a dog\nA porch, a little time\nThe list got short\nAnd everything I kept\nIs here, and it is mine\n\n[Outro: the opening guitar pattern, alone, slowing]",
+  "taskId": "6dfe28c58a7e4dfb2b387b66707df31f",
+  "sunoClipIds": [
+    "8bbeaa6a-fc35-45b2-b32d-6622c6c16ec9",
+    "95a0cbfb-8146-41a6-9ca3-f17dafea8969"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919144540,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "8bbeaa6a-fc35-45b2-b32d-6622c6c16ec9",
+      "durationSec": 314.24,
+      "file": "powerballads/pb_12_the_list_got_short_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "95a0cbfb-8146-41a6-9ca3-f17dafea8969",
+      "durationSec": 314.4,
+      "file": "powerballads/pb_12_the_list_got_short_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_12_the_list_got_short_req.json",
+    "powerballads/pb_12_the_list_got_short_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_12_the_list_got_short.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 69 BPM, 6/8, E minor. Slow, grave and patient, growing from one guitar to a full orchestra.\n\nVOICE: Male baritone, low, rough and restrained, sung gently with almost no vibrato, as if he does not usually sing this quietly. He pushes harder in the later choruses but never screams.\n\nINSTRUMENTS: A clean electric guitar fingerpicking open strings, a second guitar with harmonics, bass, a drum kit that enters late and plays simply, a full string section and French horns, a lead guitar with a warm, sustained tone for the solo.\n\nARRANGEMENT MAP: 0:00 Intro, guitar alone. 0:28 Verse 1. 1:00 Verse 2. 1:30 Chorus 1. 2:00 Verse 3, drums in. 2:30 Chorus 2. 3:00 Guitar solo. 3:44 Bridge. 4:02 Final chorus. 4:36 Outro, guitar alone, ends 4:58.\n\nPRODUCTION & MIX: Early-1990s rock ballad with orchestra: warm, deep and spacious, guitars clean, drums big and slow.\n\nSIGNATURE MOMENT: The guitar solo entering at 3:00.\n\nMODERN POINT OF VIEW: The original is a young man discovering that one relationship matters more than his armour. This is the same discovery made at fifty-five, when it applies to nearly everything he once chased.\n\nEMOTIONAL ARC: Restless, stripped, clear, content.",
+  "workbookAtAGlance": "The List Got Short\n\nBackup titles\nThree Names and a Dog / What I Would Run Back For\n\nAt a glance\n69 BPM, E minor\nVoice: Low, weathered male voice\nLength: about 5 minutes",
+  "qa": {
+    "title": "The List Got Short",
+    "id": "pb_12",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 314.3,
+        "measuredBpm": 69.8,
+        "bpmFactor": 1,
+        "targetBpm": 69,
+        "bpmErrPct": 1.2,
+        "lufs": -12.4,
+        "peakDbfs": -0.24,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 312.5,
+        "vocalCoverage": 0.421,
+        "vocalSpanSec": [
+          25.2,
+          265.0
+        ],
+        "vocalF0MedianHz": 245,
+        "vocalF0P25Hz": 197,
+        "lyricLineRecall": 0.906,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.02 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 314.4,
+        "measuredBpm": 69.8,
+        "bpmFactor": 1,
+        "targetBpm": 69,
+        "bpmErrPct": 1.2,
+        "lufs": -12.7,
+        "peakDbfs": 0.02,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 312.4,
+        "vocalCoverage": 0.388,
+        "vocalSpanSec": [
+          28.6,
+          264.8
+        ],
+        "vocalF0MedianHz": 220,
+        "vocalF0P25Hz": 196,
+        "lyricLineRecall": 0.812,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Rock",
+  "year": 1991
+}

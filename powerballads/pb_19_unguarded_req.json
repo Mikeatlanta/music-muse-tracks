@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Unguarded",
+  "prompt": "[Intro: church organ chords, heartbeat kick drum]\n\n[Verse 1: female voice, breathy and low]\nClosed for three years, lights off, sign turned round\nI'd learned to live inside the quiet I had found\nMy sister says it's early, says be careful, says go slow\nMy friends all say they've seen this, and they know\n\n[Pre-Chorus: strings enter, voice rising]\nBut something in me's knocking from within\nAnd I am so tired of being safe\n\n[Chorus: full, falsetto ringing, drums heavy]\nI'm unguarded, I'm unguarded\nI took the fence down with my hands\nLet it hurt me, if it's going to\nI would rather feel than stand\nBehind a wall with nothing in it\nI'm unguarded, gate wide open\nCome in\n\n[Verse 2: voice stronger, bass in]\nHe doesn't ask about the ring I wear on the other hand\nHe just leaves a little room, he seems to understand\nThere are days I talk to you, the one I buried, in the car\nYou'd have liked him. Or you'd tell me. I know just how you are.\n\n[Pre-Chorus: strings, voice rising]\nThey keep saying guard your heart, protect it\nI did. It didn't keep.\n\n[Chorus: full, falsetto ringing, drums heavy]\nI'm unguarded, I'm unguarded\nI took the fence down with my hands\nLet it hurt me, if it's going to\nI would rather feel than stand\nBehind a wall with nothing in it\nI'm unguarded, gate wide open\nCome in\n\n[Bridge: organ and voice, building to a held note]\nI know exactly what it costs\nI have paid it\nI'd pay it again\n\n[Final Chorus: choir behind, voice at its highest]\nI'm unguarded, I'm unguarded\nI took the fence down with my hands\nLet it hurt me, if it's going to\nI would rather feel than stand\nBehind a wall with nothing in it\nI'm unguarded, gate wide open\nCome in\n\n[Outro: heartbeat drum alone, slowing, a gate latch]",
+  "style": "Late-2000s pop-soul power ballad, wide-ranging agile female voice breathy and low in the verses climbing to strong ringing falsetto and head voice with runs in the choruses, choir in the last chorus, 52 BPM with a double-time heartbeat pulse, F major, slow steady swelling feel, church organ, deep kick playing a heartbeat pattern, marching snare, strings, sustained bass, wooden percussion, acoustic guitar picking, warm upfront mix, brave, tender, soaring",
+  "negativeTags": "male lead vocals, electric guitar solo, rap, country twang, trap hi-hats, EDM, fast tempo, harsh distortion",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

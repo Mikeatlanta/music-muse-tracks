@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Room 214, Yours as Always",
+  "prompt": "[Intro: simple piano figure, soft pad]\n\n[Verse 1: high clear male tenor, gentle]\nAnother lobby, another key card in a sleeve\nSame carpet, same painting of the sea\nThe ice machine is humming down the hall\nI'm lying here composing this to you\n\n[Verse 2: bass and light drums enter]\nThey ask me at the bar if I get lonely\nI say I've got a call at nine o'clock\nYou tell me what the dog did, what the mail brought\nAnd I can see the kitchen while you talk\n\n[Chorus: full band, voice soaring]\nRoom two-fourteen, yours as always\nDifferent city, same old vow\nI count the nights in little soaps and coffee\nI'm still yours, I'm still yours now\nHome by Friday\nYours, as always\n\n[Verse 3: voice warmer, guitar answering]\nTwenty years of airports and of rental cars\nOf birthdays on a screen, I know the cost\nBut you have never once asked me to prove it\nAnd I have never once been lost\n\n[Chorus: full band, harmonies]\nRoom two-fourteen, yours as always\nDifferent city, same old vow\nI count the nights in little soaps and coffee\nI'm still yours, I'm still yours now\nHome by Friday\nYours, as always\n\n[Guitar Solo: singing lead guitar, wordless vocal over it]\nWhoa-oh-oh, oh-oh\nWhoa-oh-oh, oh-oh\n\n[Final Chorus: biggest, last word held]\nRoom two-fourteen, yours as always\nDifferent city, same old vow\nI count the nights in little soaps and coffee\nI'm still yours, I'm still yours now\nHome by Friday\nYours, as always\n\n[Outro: piano figure, a phone ringing once, \"Hey. It's nine.\"]",
+  "style": "Early-1980s arena rock power ballad, high clear ringing male tenor with a slight rasp when he pushes, gentle verses and soaring choruses, wordless whoa-oh vocal over the guitar solo, held final word, 65 BPM, B major, slow warm steadily building feel, piano with a simple repeating figure, warm synth pad, bass, drums entering gradually, singing lead guitar with long sustain, string pad, backing harmonies, warm wide polished mix, devoted, homesick, steadfast",
+  "negativeTags": "female lead vocals, rap, trap hi-hats, EDM, harsh distortion, lo-fi, country twang, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 275,
+  "callBackUrl": "https://example.com/cb"
+}

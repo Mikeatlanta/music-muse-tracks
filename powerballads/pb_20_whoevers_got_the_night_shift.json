@@ -1,0 +1,121 @@
+{
+  "id": "pb_20",
+  "title": "Whoever's Got the Night Shift",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 20,
+  "slug": "pb_20_whoevers_got_the_night_shift",
+  "inspiredBy": "Angels (Robbie Williams, 1997)",
+  "leadVoice": "Male, a warm baritone-tenor with an English accent, half-talking the verses with humour and tenderness and opening into a big, plain, tuneful chorus that a crowd can sing. Crowd voices join from the second chorus.",
+  "model": "V6",
+  "style": "Late-1990s British pop-rock power ballad, warm male baritone-tenor with an English accent half-talking the verses with humour and tenderness then a big plain tuneful singalong chorus, crowd voices joining later, 76 BPM, E major with a key change up for the final chorus, slow warm feel, piano, string section, acoustic and chiming electric guitars, bass, steady drums, lyrical lead guitar solo, brass pad, warm big unfussy mix, grateful, humble, anthemic",
+  "negativeTags": "female lead vocals, rap, trap hi-hats, EDM, harsh distortion, lo-fi, country twang, auto-tune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 275,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: piano, soft strings, a distant train]\n\n[Verse 1: warm male voice, conversational]\nThree a.m., the motorway's all mine\nOne light on in a signal box, one sign\nSomebody's in there with a flask and a chair\nI'll never know their name, and they don't care\n\n[Pre-Chorus: drums enter softly]\nMy kids are sleeping forty miles ahead\nUnder a roof somebody's watching instead\n\n[Chorus: full band, built to be sung by a crowd]\nSo whoever's got the night shift\nWhoever's on the line\nWhoever kept the lights on\nAnd the water running fine\nI'll never get to thank you, so I'm singing it instead\nWhoever's got the night shift\nGod bless you. Go to bed.\n\n[Verse 2: voice fuller, guitar chiming]\nA nurse who's on her feet since yesterday\nA lad who's gritting roads to clear my way\nA woman on a switchboard in the dark\nWho'll send the right ones if I miss my mark\n\n[Pre-Chorus: drums build]\nI used to think I'd made it on my own\nI never drove a mile of this alone\n\n[Chorus: full band, crowd joining]\nSo whoever's got the night shift\nWhoever's on the line\nWhoever kept the lights on\nAnd the water running fine\nI'll never get to thank you, so I'm singing it instead\nWhoever's got the night shift\nGod bless you. Go to bed.\n\n[Guitar Solo: big, lyrical, strings behind]\n\n[Bridge: band drops, piano and voice]\nAnd when it's me who's needed\nI hope I'm half as good\n\n[Final Chorus: key up, everyone singing]\nWhoever's got the night shift\nWhoever's on the line\nWhoever kept the lights on\nAnd the water running fine\nI'll never get to thank you, so I'm singing it instead\nWhoever's got the night shift\nGod bless you. Go to bed.\n\n[Outro: piano, a key in a front door, a hall light switched off]",
+  "taskId": "6c12cf045edc153ceb51e76f9bd677f8",
+  "sunoClipIds": [
+    "8d15c903-8d5f-4828-a797-6a42f4b46df6",
+    "6fb0a532-d2c2-4f78-bc4f-3517e8a59800"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919175299,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "8d15c903-8d5f-4828-a797-6a42f4b46df6",
+      "durationSec": 270.76,
+      "file": "powerballads/pb_20_whoevers_got_the_night_shift_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "6fb0a532-d2c2-4f78-bc4f-3517e8a59800",
+      "durationSec": 271.56,
+      "file": "powerballads/pb_20_whoevers_got_the_night_shift_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_20_whoevers_got_the_night_shift_req.json",
+    "powerballads/pb_20_whoevers_got_the_night_shift_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_20_whoevers_got_the_night_shift.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 76 BPM, 4/4, E major, up to F# major for the last chorus. A slow, warm, British pop-rock ballad with a singalong chorus.\n\nVOICE: Male, a warm baritone-tenor with an English accent, half-talking the verses with humour and tenderness and opening into a big, plain, tuneful chorus that a crowd can sing. Crowd voices join from the second chorus.\n\nINSTRUMENTS: Piano, a string section, acoustic and chiming electric guitars, bass, a steady drum kit, a lyrical lead guitar solo, a brass pad, crowd voices, a distant train and domestic sounds.\n\nARRANGEMENT MAP: 0:00 Intro. 0:14 Verse 1. 0:44 Pre-chorus. 0:56 Chorus 1. 1:30 Verse 2. 2:00 Pre-chorus. 2:12 Chorus 2. 2:46 Guitar solo. 3:06 Bridge. 3:20 Final chorus, key up. 3:56 Outro, a key and a light switch, ends 4:18.\n\nPRODUCTION & MIX: Late-1990s British pop-rock: warm, big and unfussy, piano and strings leading, a chorus mixed like a football crowd.\n\nSIGNATURE MOMENT: 'God bless you. Go to bed.' at 1:24.\n\nMODERN POINT OF VIEW: The original thanks angels he cannot see. A man with children knows who the unseen protectors are, and that they have names and shifts.\n\nEMOTIONAL ARC: Alone, noticing, grateful, home.",
+  "workbookAtAGlance": "Whoever's Got the Night Shift\n\nBackup titles\nSomebody Kept the Lights On / Thank You, Stranger\n\nAt a glance\n76 BPM, E major\nVoice: Warm male voice, conversational to full\nLength: about 4 minutes 20",
+  "qa": {
+    "title": "Whoever's Got the Night Shift",
+    "id": "pb_20",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)",
+          "tempo measured 68 BPM vs 76 target (~10% off)"
+        ],
+        "durationSec": 270.8,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 10.5,
+        "lufs": -13.6,
+        "peakDbfs": -0.31,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.0,
+        "contentEndSec": 270.8,
+        "vocalCoverage": 0.655,
+        "vocalSpanSec": [
+          14.8,
+          270.6
+        ],
+        "vocalF0MedianHz": 329,
+        "vocalF0P25Hz": 210,
+        "lyricLineRecall": 0.886,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)"
+        ],
+        "durationSec": 271.6,
+        "measuredBpm": 71.8,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 5.6,
+        "lufs": -13.5,
+        "peakDbfs": -0.7,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 271.6,
+        "vocalCoverage": 0.61,
+        "vocalSpanSec": [
+          17.7,
+          269.9
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.943,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop Rock",
+  "year": 1997
+}

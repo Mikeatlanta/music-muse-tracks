@@ -1,0 +1,117 @@
+{
+  "id": "pb_22",
+  "title": "Stay and See Me",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 22,
+  "slug": "pb_22_stay_and_see_me",
+  "inspiredBy": "I Have Nothing (Whitney Houston, 1992)",
+  "leadVoice": "Female, a commanding gospel-trained soprano with enormous range and control. Soft and precise in verse 1, growing in each section, with melismatic runs and a final note held at full power. A man speaks three words at the very end.",
+  "model": "V6",
+  "style": "Early-1990s film-soundtrack power ballad, commanding gospel-trained female soprano with enormous range and control, soft and precise at first and growing in each section with melismatic runs and a final note held at full power, 60 BPM, G major rising through two key changes, slow grand exposed feel, electric piano, full orchestra with strings brass and harp, fretless-style bass, restrained drums with big tom fills, tenor saxophone in the bridge, timpani, lavish polished mix with the voice far in front, vulnerable, proud, overwhelming",
+  "negativeTags": "male lead vocals, rap, rock guitar distortion, trap hi-hats, EDM, lo-fi, country twang, auto-tune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: electric piano, soft strings, a harp glissando]\n\n[Verse 1: female voice, controlled and quiet]\nYou've started knocking on the bathroom door\nYou've started asking if I'm warm\nYou fold my scarves, you bring me tea\nYou've stopped looking straight at me\n\n[Pre-Chorus: drums enter, voice lifting]\nI am not a thing that breaks\nI am not a careful place\n\n[Chorus: full orchestra, voice soaring]\nStay and see me\nAll the rooms, even that one\nDon't be gentle, don't be kind\nBe here, and don't run\nI can stand the truth of this\nIf you are standing in it, too\nStay and see me\nThe way I still see you\n\n[Verse 2: key up a step, voice stronger]\nThere's a scar now where there wasn't\nThere are mornings I can't stand\nThere's a girl you met at twenty\nIn here, holding out her hand\n\n[Pre-Chorus: drums build, brass in]\nDon't you dare go polite on me\nDon't you dare go away\n\n[Chorus: full orchestra, voice soaring]\nStay and see me\nAll the rooms, even that one\nDon't be gentle, don't be kind\nBe here, and don't run\nI can stand the truth of this\nIf you are standing in it, too\nStay and see me\nThe way I still see you\n\n[Bridge: band drops, saxophone and voice]\nLook at me. No, look.\nThere. That's all I want.\n\n[Final Chorus: key up again, biggest, held last note]\nStay and see me\nAll the rooms, even that one\nDon't be gentle, don't be kind\nBe here, and don't run\nI can stand the truth of this\nIf you are standing in it, too\nStay and see me\nThe way I still see you\n\n[Outro: electric piano, a held breath let go, \"I see you.\"]",
+  "taskId": "2f71ce4dbd0c255b108d0bc55b66c406",
+  "sunoClipIds": [
+    "9bfa1b01-e0a6-4058-a489-c5f24ef38f01",
+    "4ff38502-f2a2-4986-b370-e866988db460"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919194231,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "9bfa1b01-e0a6-4058-a489-c5f24ef38f01",
+      "durationSec": 284.76,
+      "file": "powerballads/pb_22_stay_and_see_me_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "4ff38502-f2a2-4986-b370-e866988db460",
+      "durationSec": 284.56,
+      "file": "powerballads/pb_22_stay_and_see_me_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_22_stay_and_see_me_req.json",
+    "powerballads/pb_22_stay_and_see_me_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_22_stay_and_see_me.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 60 BPM, 4/4, G major, rising to A major at verse 2 and to B-flat major for the last chorus. Slow, grand and exposed.\n\nVOICE: Female, a commanding gospel-trained soprano with enormous range and control. Soft and precise in verse 1, growing in each section, with melismatic runs and a final note held at full power. A man speaks three words at the very end.\n\nINSTRUMENTS: Electric piano, a full orchestra with strings, brass and harp, a fretless-style bass, a restrained drum kit with big tom fills into each chorus, a tenor saxophone in the bridge, timpani at the key changes.\n\nARRANGEMENT MAP: 0:00 Intro. 0:16 Verse 1. 0:48 Pre-chorus. 1:00 Chorus 1. 1:40 Verse 2, key up. 2:12 Pre-chorus. 2:24 Chorus 2. 3:04 Bridge, saxophone. 3:22 Final chorus, key up again. 4:06 Outro, three spoken words at 4:22.\n\nPRODUCTION & MIX: Early-1990s film ballad: lavish, polished and orchestral, the voice far in front of everything.\n\nSIGNATURE MOMENT: The second key change into the final chorus at 3:22.\n\nMODERN POINT OF VIEW: The original asks a lover not to walk away. A woman of fifty with a new scar is asking for something more exact: not to be handled, and not to be looked past.\n\nEMOTIONAL ARC: Hurt, insisting, exposed, seen.",
+  "workbookAtAGlance": "Stay and See Me\n\nBackup titles\nAll the Rooms, Even That One / Don't Look Away\n\nAt a glance\n60 BPM, G major, rising twice\nVoice: Powerhouse female voice\nLength: about 4 minutes 30",
+  "qa": {
+    "title": "Stay and See Me",
+    "id": "pb_22",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.8,
+        "measuredBpm": 63.0,
+        "bpmFactor": 1,
+        "targetBpm": 60,
+        "bpmErrPct": 5.0,
+        "lufs": -13.9,
+        "peakDbfs": -0.36,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 283.0,
+        "vocalCoverage": 0.651,
+        "vocalSpanSec": [
+          6.3,
+          268.2
+        ],
+        "vocalF0MedianHz": 417,
+        "vocalF0P25Hz": 297,
+        "lyricLineRecall": 0.789,
+        "lyricUnclearSections": [
+          "Pre-Chorus",
+          "Bridge"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.6,
+        "measuredBpm": 63.0,
+        "bpmFactor": 1,
+        "targetBpm": 60,
+        "bpmErrPct": 5.0,
+        "lufs": -13.6,
+        "peakDbfs": -0.46,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 283.5,
+        "vocalCoverage": 0.648,
+        "vocalSpanSec": [
+          17.4,
+          268.5
+        ],
+        "vocalF0MedianHz": 351,
+        "vocalF0P25Hz": 314,
+        "lyricLineRecall": 0.921,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Rock",
+  "year": 1992
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Teach Me How to Stay",
+  "prompt": "[Intro: soft synthesizer pad, slow kick, a single bell tone]\n\n[Verse 1: weathered male tenor, hushed]\nI've got a bag that's always packed\nI've got a talent for the door\nEvery town I ever lived in\nI was gone a year before\n\n[Verse 2: bass enters, voice a little stronger]\nI told myself that I was free\nI told myself I travel light\nTruth is, I never learned the thing\nYou do when it's the second night\n\n[Pre-Chorus: synths rising]\nI'm tired of the highway\nI'm tired of my own advice\n\n[Chorus: gospel choir enters, full]\nTeach me how to stay\nI know how to leave\nShow me what you do\nWhen it's hard, and it's Tuesday, and you don't believe\nI want to learn the other thing\nTeach me how to stay\n\n[Verse 3: voice open, drums fuller]\nYou've been in this house for thirty years\nSame street, same people, same old tree\nI used to think that was a cage\nI think it might have been the key\n\n[Chorus: gospel choir, lead soaring above]\nTeach me how to stay\nI know how to leave\nShow me what you do\nWhen it's hard, and it's Tuesday, and you don't believe\nI want to learn the other thing\nTeach me how to stay\n\n[Bridge: choir and lead trading]\n(Put the bag down) I'm putting it down\n(Take your coat off) It's off, it's off\n(Sit) I'm sitting\n\n[Final Chorus: choir at full power, lead ad-libbing]\nTeach me how to stay\nI know how to leave\nShow me what you do\nWhen it's hard, and it's Tuesday, and you don't believe\nI want to learn the other thing\nTeach me how to stay\n\n[Outro: choir humming, a suitcase unzipped]",
+  "style": "Mid-1980s rock power ballad with a gospel choir, worn slightly hoarse male tenor quiet and low in the verses climbing to a strong strained high register in the choruses, large gospel choir joining from the first chorus and trading lines in the bridge, 58 BPM, E-flat minor verses rising to major choruses, very slow hushed then radiant, warm 1980s synthesizer pads, slow heavy kick and gated snare, fretless-style bass, bell-like keyboard, clean sustained electric guitar, organ, glossy reverberant mix, weary, sincere, uplifting",
+  "negativeTags": "female lead vocals, rap, trap hi-hats, EDM, acoustic folk, fast tempo, harsh distortion, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 295,
+  "callBackUrl": "https://example.com/cb"
+}

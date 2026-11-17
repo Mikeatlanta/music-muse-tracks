@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "It Was Real, and It's Done",
+  "prompt": "[Intro: piano and synth bells, soft snowfall of notes]\n\n[Verse 1: cool clear female voice]\nFound the box behind the winter coats\nA ticket stub, a key, a note\nYour handwriting still leans that way\nI read it standing in the hall today\n\n[Pre-Chorus: drums enter, guitar chiming]\nI waited for the ache to come\nAnd something gentler did\n\n[Chorus: full band, voice open]\nIt was real, and it's done\nBoth of those are true\nIt was real, and it's done\nI don't have to choose\nI can keep the summer and still let go of you\nIt was real, and it's done\n\n[Verse 2: voice warmer]\nFor years I thought I had to pick\nEither it was nothing, or I'm sick\nWith missing something I should mourn\nI never knew there was a third thing: warm\n\n[Pre-Chorus: drums build]\nI hope you kept a box like this\nI hope it makes you smile\n\n[Chorus: full band, voice open]\nIt was real, and it's done\nBoth of those are true\nIt was real, and it's done\nI don't have to choose\nI can keep the summer and still let go of you\nIt was real, and it's done\n\n[Guitar Solo: melodic, clean tone]\n\n[Bridge: piano and voice]\nPut the lid back on\nPut it on the shelf, not in the bin\n\n[Final Chorus: key up a step, biggest]\nIt was real, and it's done\nBoth of those are true\nIt was real, and it's done\nI don't have to choose\nI can keep the summer and still let go of you\nIt was real, and it's done\n\n[Outro: synth bells, a closet door closing gently]",
+  "style": "Late-1980s Swedish pop-rock power ballad, cool clear precise female voice restrained in the verses and open and strong in the choruses without oversinging, 81 BPM, C major lifting to D major for the final chorus, mid-slow polished calm feel, piano, glassy synth bells, chiming clean electric guitar, bass, big 1980s drums with reverbed snare, string pad, melodic clean guitar solo, glossy bright precise mix, wistful, peaceful, graceful",
+  "negativeTags": "male lead vocals, rap, trap hi-hats, EDM, harsh distortion, lo-fi, country twang, auto-tune",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Your Coat's Still on the Hook",
+  "prompt": "[Intro: solo piano, slow, a clock ticking]\n\n[Verse 1: clear mournful female voice]\nI set two cups, I catch myself\nI leave the hall light on at ten\nYour glasses folded on the shelf\nI move them, and I put them back again\n\n[Chorus: piano and strings, voice lifting]\nYour coat's still on the hook\nYour boots are by the door\nThe dog still waits at six o'clock\nI haven't told him anymore\nI know you're gone. I know.\nNobody's told the house\n\n[Verse 2: cello enters, voice closer]\nI slept on your side for a month\nTo keep it from going cold\nI play your messages for the voice\nNot for anything they told\n\n[Chorus: piano and strings, voice lifting]\nYour coat's still on the hook\nYour boots are by the door\nThe dog still waits at six o'clock\nI haven't told him anymore\nI know you're gone. I know.\nNobody's told the house\n\n[Bridge: piano alone, nearly whispered]\nI put my hand inside the sleeve\nIt's just a coat\nIt's just a coat\n\n[Final Chorus: full band enters, heavy guitars, voice soaring]\nYour coat's still on the hook\nYour boots are by the door\nThe dog still waits at six o'clock\nI'll never tell him anymore\nI know you're gone. I know.\nBut I'm not telling the house\n\n[Outro: band drops away, piano, the clock, a coat brushed past]",
+  "style": "Early-2000s gothic rock piano power ballad, clear classically tinged pure mournful female mezzo-soprano sung softly with little vibrato for most of the song then soaring at full power over the band, 79 BPM, A major with minor-key colour, slow fragile feel that becomes enormous, solo piano for the first two minutes, cello and string section, full rock band with heavy down-tuned guitars and crashing drums arriving all at once for the final chorus, long reverb, grieving, tender, haunting",
+  "negativeTags": "male lead vocals, rap, synth pop, trap hi-hats, EDM, upbeat tempo, country twang, auto-tune",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 275,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Past Forever",
+  "prompt": "[Intro: piano and strings, a lone guitar note sustaining]\n\n[Verse 1: raspy male tenor, low at first]\nI said \"for better and for worse\" in a rented suit\nI didn't know a thing about the worse\nI thought forever was a word you said\nLike \"amen,\" at the end of every verse\n\n[Pre-Chorus: drums build]\nThen came the layoff, and your mother, and the scare\nAnd you, in the waiting room, not going anywhere\n\n[Chorus: full band, voice at the top of its range]\nSo I'll love you past forever\nPast the stars and past the dark\nPast the day they take my name down off the mailbox by the park\nI didn't know what I was saying then\nI know it now, so ask me again\nI'll love you past forever\n\n[Verse 2: voice stronger, guitars chiming]\nYou've seen me broke, you've seen me mean, you've seen me cry\nYou've seen me lose my hair and lose my nerve\nI've seen you carry more than any two should\nAnd never once behave as you deserved\n\n[Pre-Chorus: drums build]\nThis ring's too tight, it's been too tight for years\nI've never had it off. I'm not starting here.\n\n[Chorus: full band, voice at the top of its range]\nSo I'll love you past forever\nPast the stars and past the dark\nPast the day they take my name down off the mailbox by the park\nI didn't know what I was saying then\nI know it now, so ask me again\nI'll love you past forever\n\n[Guitar Solo: soaring, melodic, over the chorus]\n\n[Bridge: band drops to piano, voice close]\nIf you go first, I'll talk to you at breakfast\nIf I go first, check the porch at dusk\n\n[Final Chorus: key up, everything at full stretch]\nI'll love you past forever\nPast the stars and past the dark\nPast the day they take my name down off the mailbox by the park\nI didn't know what I was saying then\nI know it now, so ask me again\nI'll love you past forever\n\n[Outro: piano, \"Do you?\" \"I do. Still.\"]",
+  "style": "Mid-1990s arena rock power ballad, raspy passionate male tenor starting low and conversational then singing the choruses at the very top of his chest range with audible strain, stacked harmonies, 72 BPM, E major with a key change up for the final chorus, slow huge wholehearted feel, piano, string section, chiming and overdriven electric guitars, bass, big reverberant drums, soaring lead guitar solo, Hammond organ, lush loud wide mix, devoted, dramatic, triumphant",
+  "negativeTags": "female lead vocals, rap, synth pop, trap hi-hats, EDM, lo-fi, minimal arrangement, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "callBackUrl": "https://example.com/cb"
+}

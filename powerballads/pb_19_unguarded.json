@@ -1,0 +1,125 @@
+{
+  "id": "pb_19",
+  "title": "Unguarded",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 19,
+  "slug": "pb_19_unguarded",
+  "inspiredBy": "Bleeding Love (Leona Lewis, 2007)",
+  "leadVoice": "Female, wide-ranging and agile. She sings the verses in a breathy low register, climbs through the pre-chorus and rings out in a strong falsetto and head voice in the choruses, with runs. A choir supports the last chorus.",
+  "model": "V6",
+  "style": "Late-2000s pop-soul power ballad, wide-ranging agile female voice breathy and low in the verses climbing to strong ringing falsetto and head voice with runs in the choruses, choir in the last chorus, 52 BPM with a double-time heartbeat pulse, F major, slow steady swelling feel, church organ, deep kick playing a heartbeat pattern, marching snare, strings, sustained bass, wooden percussion, acoustic guitar picking, warm upfront mix, brave, tender, soaring",
+  "negativeTags": "male lead vocals, electric guitar solo, rap, country twang, trap hi-hats, EDM, fast tempo, harsh distortion",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: church organ chords, heartbeat kick drum]\n\n[Verse 1: female voice, breathy and low]\nClosed for three years, lights off, sign turned round\nI'd learned to live inside the quiet I had found\nMy sister says it's early, says be careful, says go slow\nMy friends all say they've seen this, and they know\n\n[Pre-Chorus: strings enter, voice rising]\nBut something in me's knocking from within\nAnd I am so tired of being safe\n\n[Chorus: full, falsetto ringing, drums heavy]\nI'm unguarded, I'm unguarded\nI took the fence down with my hands\nLet it hurt me, if it's going to\nI would rather feel than stand\nBehind a wall with nothing in it\nI'm unguarded, gate wide open\nCome in\n\n[Verse 2: voice stronger, bass in]\nHe doesn't ask about the ring I wear on the other hand\nHe just leaves a little room, he seems to understand\nThere are days I talk to you, the one I buried, in the car\nYou'd have liked him. Or you'd tell me. I know just how you are.\n\n[Pre-Chorus: strings, voice rising]\nThey keep saying guard your heart, protect it\nI did. It didn't keep.\n\n[Chorus: full, falsetto ringing, drums heavy]\nI'm unguarded, I'm unguarded\nI took the fence down with my hands\nLet it hurt me, if it's going to\nI would rather feel than stand\nBehind a wall with nothing in it\nI'm unguarded, gate wide open\nCome in\n\n[Bridge: organ and voice, building to a held note]\nI know exactly what it costs\nI have paid it\nI'd pay it again\n\n[Final Chorus: choir behind, voice at its highest]\nI'm unguarded, I'm unguarded\nI took the fence down with my hands\nLet it hurt me, if it's going to\nI would rather feel than stand\nBehind a wall with nothing in it\nI'm unguarded, gate wide open\nCome in\n\n[Outro: heartbeat drum alone, slowing, a gate latch]",
+  "taskId": "e7d4413a4d3d3f23dd5decdf3771bc0f",
+  "sunoClipIds": [
+    "140b03da-d3d0-4675-b7ff-76ccef43663b",
+    "4cee7bb1-a51a-4601-be4e-14bd71b39072"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919178484,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "140b03da-d3d0-4675-b7ff-76ccef43663b",
+      "durationSec": 254.88,
+      "file": "powerballads/pb_19_unguarded_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "4cee7bb1-a51a-4601-be4e-14bd71b39072",
+      "durationSec": 254.8,
+      "file": "powerballads/pb_19_unguarded_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_19_unguarded_req.json",
+    "powerballads/pb_19_unguarded_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_19_unguarded.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 52 BPM with a double-time heartbeat pulse, 4/4, F major. Slow, steady and swelling.\n\nVOICE: Female, wide-ranging and agile. She sings the verses in a breathy low register, climbs through the pre-chorus and rings out in a strong falsetto and head voice in the choruses, with runs. A choir supports the last chorus.\n\nINSTRUMENTS: A church organ, a deep kick drum playing a heartbeat pattern, a marching snare, strings, a sustained bass, wooden percussion, a choir, acoustic guitar picking.\n\nARRANGEMENT MAP: 0:00 Intro, organ and heartbeat. 0:14 Verse 1. 0:50 Pre-chorus. 1:02 Chorus 1. 1:40 Verse 2. 2:16 Pre-chorus. 2:28 Chorus 2. 3:04 Bridge. 3:22 Final chorus. 3:50 Outro, heartbeat and a latch, ends 3:58.\n\nPRODUCTION & MIX: Late-2000s pop-soul ballad: warm organ, thudding drums up front, vocal clear and soaring.\n\nSIGNATURE MOMENT: 'They keep saying guard your heart. I did. It didn't keep.' at 2:16.\n\nMODERN POINT OF VIEW: The original defends a first great love against doubters. This defends a second one, by a woman who knows precisely what the risk is because she has already paid it.\n\nEMOTIONAL ARC: Shut, stirring, defiant, open.",
+  "workbookAtAGlance": "Unguarded\n\nBackup titles\nI Took the Fence Down / Gate Wide Open\n\nAt a glance\n52 BPM, F major\nVoice: Agile female voice, breathy low to ringing high\nLength: about 4 minutes",
+  "qa": {
+    "title": "Unguarded",
+    "id": "pb_19",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.9,
+        "measuredBpm": 56.2,
+        "bpmFactor": 1,
+        "targetBpm": 52,
+        "bpmErrPct": 8.0,
+        "lufs": -14.0,
+        "peakDbfs": -0.16,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 253.1,
+        "vocalCoverage": 0.782,
+        "vocalSpanSec": [
+          16.9,
+          248.4
+        ],
+        "vocalF0MedianHz": 349,
+        "vocalF0P25Hz": 272,
+        "lyricLineRecall": 0.879,
+        "lyricUnclearSections": [
+          "Pre-Chorus"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "fail",
+        "reasons": [
+          "silence gap >2s at [235.8]s",
+          "tempo measured 65 BPM vs 52 target (~17% off)",
+          "lyric check partial: 55% of lines recognised (unclear: Verse 2, Pre-Chorus)"
+        ],
+        "durationSec": 254.8,
+        "measuredBpm": 64.6,
+        "bpmFactor": 0.67,
+        "targetBpm": 52,
+        "bpmErrPct": 17.2,
+        "lufs": -14.0,
+        "peakDbfs": -0.37,
+        "clipSamples": 0,
+        "midGaps": [
+          235.8
+        ],
+        "endFadeSec": 2.0,
+        "contentEndSec": 253.0,
+        "vocalCoverage": 0.798,
+        "vocalSpanSec": [
+          15.1,
+          251.0
+        ],
+        "vocalF0MedianHz": 349,
+        "vocalF0P25Hz": 290,
+        "lyricLineRecall": 0.545,
+        "lyricUnclearSections": [
+          "Verse 2",
+          "Pre-Chorus"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Soul",
+  "year": 2007
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "March Thaw",
+  "prompt": "[Intro: solo piano, strings entering, a flute line]\n\n[Verse 1: high raspy male tenor, gentle]\nWhen the snow came in October\nI thought it would be gone by noon\nIt was April of the next year\nAnd I'd forgotten how to look at you\n\n[Verse 2: drums enter softly, bass]\nWe stopped talking about summer\nWe just talked about the pills\nAnd the windows wore their plastic\nAnd the drifts came up the sills\n\n[Chorus: orchestra full, voice soaring]\nBut nothing holds forever\nNot the dark, not the cold\nI heard the river breaking\nAnd I felt my chest unfold\nIt's a March thaw, darling\nEven the long ones end\n\n[Guitar Solo 1: melodic, singing, over the orchestra]\n\n[Verse 3: voice warmer, piano leading]\nYou walked out to the mailbox\nIn a coat that didn't fit\nYou were thin, and you were laughing\nAnd the sun was all of it\n\n[Chorus: orchestra full, backing voices]\n'Cause nothing holds forever\nNot the dark, not the cold\nI heard the river breaking\nAnd I felt my chest unfold\nIt's a March thaw, darling\nEven the long ones end\n\n[Bridge: piano alone, slower]\nI know it comes again\nI know how winters are\nI'll take the one we've got\n\n[Guitar Solo 2: higher, faster, drums building]\n\n[Coda: tempo doubles, minor key, choir and full band]\nDon't you think that we could use a little warm?\nEverybody needs a little warm\nIce on the river, ice on the river breaking\n\n[Outro: orchestra fades, water running, one piano note]",
+  "style": "Early-1990s orchestral hard rock epic power ballad, high raspy male tenor tender and conversational in the verses and wailing at the top of his range in the choruses and coda, backing voices and a small choir later, 76 BPM, C major with a faster minor-key coda, long slow three-part build, grand piano, full string orchestra with flute and French horn, hard-rock rhythm section, two thick singing sustained lead guitar solos, grand wide dramatic mix, sorrowful, patient, triumphant",
+  "negativeTags": "female lead vocals, synth pop, rap, trap hi-hats, EDM, short pop structure, auto-tune, lo-fi",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 345,
+  "callBackUrl": "https://example.com/cb"
+}

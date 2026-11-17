@@ -1,0 +1,114 @@
+{
+  "id": "pb_04",
+  "title": "Leave the Mess, Come Home",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 4,
+  "slug": "pb_04_leave_the_mess_come_home",
+  "inspiredBy": "Fix You (Coldplay, 2005)",
+  "leadVoice": "Male, soft and slightly husky in a low register for the verses, moving into a fragile falsetto for the chorus. The chant is sung at full strength with the whole band shouting along. He returns to a near-whisper for the last lines.",
+  "model": "V6",
+  "style": "Mid-2000s arena rock power ballad, soft slightly husky male vocal in a low register for the verses moving into fragile falsetto for the chorus, a full-strength chant with gang vocals at the peak, near-whisper ending, 69 BPM, E-flat major, very slow and hushed then a huge steady surge, church organ, piano, acoustic guitar, chiming delayed electric guitar four-note figure, drums entering all at once with crashing cymbals, string pad, intimate then wide bright loud mix, consoling, patient, uplifting",
+  "negativeTags": "female lead vocals, rap, synth pop, trap hi-hats, EDM drop, fast tempo, harsh distortion, auto-tune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: soft church organ, held chords]\n\n[Verse 1: gentle male voice, organ only]\nWhen the job is gone and the lease is up\nAnd you can't make the numbers reach\nWhen you gave it everything you had\nAnd it still fell out of reach\n\n[Verse 2: piano joins, voice a little fuller]\nWhen you're on the floor of a rented room\nWith your whole life in a bag\nWhen you're too ashamed to dial the phone\nAnd you dial it, and I'm glad\n\n[Chorus: falsetto, acoustic guitar entering]\nLeave the mess, come home\nThe key's where it always was\nLeave the mess, come home\nYou don't have to say because\nI'll put the kettle on\n\n[Verse 3: voice steadier, bass in]\nYou can sleep in your old bed\nThere's a dent there shaped like you\nWe don't have to make a plan\nThere is nothing you have to do\n\n[Chorus: falsetto, band gathering]\nLeave the mess, come home\nThe key's where it always was\nLeave the mess, come home\nYou don't have to say because\nI'll put the kettle on\n\n[Build: chiming electric guitar figure, drums crash in]\n\n[Chant: whole band, gang vocals, loud]\nNothing's ruined, nothing's ruined\nYou are not what fell apart\nNothing's ruined, nothing's ruined\nCome back to the start\nNothing's ruined, nothing's ruined\nI have got you. I have got you.\n\n[Final Chorus: everything drops to organ and voice]\nLeave the mess, come home\nThe key's where it always was\nI'll put the kettle on\n\n[Outro: organ, a car door, a kettle beginning to boil]",
+  "taskId": "80753a9196df19b90afc616450bcbbab",
+  "sunoClipIds": [
+    "16a0718b-7b28-44c1-95ff-3fbfbd46e6d7",
+    "8a3abdfe-92d1-43da-9ca7-639ab17e0f90"
+  ],
+  "created": "Nov 17, 2026 7:38 AM ET",
+  "createTimeMs": 1794919111800,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "16a0718b-7b28-44c1-95ff-3fbfbd46e6d7",
+      "durationSec": 284.4,
+      "file": "powerballads/pb_04_leave_the_mess_come_home_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "8a3abdfe-92d1-43da-9ca7-639ab17e0f90",
+      "durationSec": 284.0,
+      "file": "powerballads/pb_04_leave_the_mess_come_home_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_04_leave_the_mess_come_home_req.json",
+    "powerballads/pb_04_leave_the_mess_come_home_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_04_leave_the_mess_come_home.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 69 BPM, 4/4, E-flat major. Very slow and hushed for two minutes, then a huge, steady surge.\n\nVOICE: Male, soft and slightly husky in a low register for the verses, moving into a fragile falsetto for the chorus. The chant is sung at full strength with the whole band shouting along. He returns to a near-whisper for the last lines.\n\nINSTRUMENTS: A church organ, piano, acoustic guitar, a chiming, delayed electric guitar playing a repeating four-note figure, bass, a drum kit that enters all at once with crashing cymbals, a string pad, gang vocals.\n\nARRANGEMENT MAP: 0:00 Intro organ. 0:14 Verse 1. 0:46 Verse 2. 1:18 Chorus 1. 1:46 Verse 3. 2:16 Chorus 2. 2:44 Build, guitar figure and drums. 3:02 Chant. 3:44 Final chorus, organ and voice. 4:10 Outro, a car door and a kettle, ends 4:28.\n\nPRODUCTION & MIX: Mid-2000s arena rock: intimate and dry at first, then wide, bright and loud, guitars ringing over everything.\n\nSIGNATURE MOMENT: The drums and guitar arriving at 2:44.\n\nMODERN POINT OF VIEW: The original offers to mend someone. A parent of an adult knows they cannot, so this offers the things they can: a key, a bed, a kettle and no questions.\n\nEMOTIONAL ARC: Ashamed, received, lifted, home.",
+  "workbookAtAGlance": "Leave the Mess, Come Home\n\nBackup titles\nNothing's Ruined / I'll Put the Kettle On\n\nAt a glance\n69 BPM, E-flat major\nVoice: Gentle male voice rising to full\nLength: about 4 minutes 30",
+  "qa": {
+    "title": "Leave the Mess, Come Home",
+    "id": "pb_04",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.4,
+        "measuredBpm": 69.8,
+        "bpmFactor": 1,
+        "targetBpm": 69,
+        "bpmErrPct": 1.2,
+        "lufs": -13.7,
+        "peakDbfs": -0.42,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 282.3,
+        "vocalCoverage": 0.683,
+        "vocalSpanSec": [
+          15.4,
+          259.7
+        ],
+        "vocalF0MedianHz": 410,
+        "vocalF0P25Hz": 311,
+        "lyricLineRecall": 0.774,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.0,
+        "measuredBpm": 69.8,
+        "bpmFactor": 1,
+        "targetBpm": 69,
+        "bpmErrPct": 1.2,
+        "lufs": -13.3,
+        "peakDbfs": -0.38,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.6,
+        "contentEndSec": 282.3,
+        "vocalCoverage": 0.649,
+        "vocalSpanSec": [
+          14.4,
+          261.6
+        ],
+        "vocalF0MedianHz": 314,
+        "vocalF0P25Hz": 311,
+        "lyricLineRecall": 0.806,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Arena Rock",
+  "year": 2005
+}

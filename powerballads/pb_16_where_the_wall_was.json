@@ -1,0 +1,114 @@
+{
+  "id": "pb_16",
+  "title": "Where the Wall Was",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 16,
+  "slug": "pb_16_where_the_wall_was",
+  "inspiredBy": "Wind of Change (Scorpions, 1990)",
+  "leadVoice": "Male tenor, high, clear and slightly accented, gentle in the verses and ringing in the choruses. He whistles the main tune at the start and end, and a crowd joins the final chorus.",
+  "model": "V6",
+  "style": "1990 European rock power ballad with a whistled hook, high clear slightly accented male tenor gentle in the verses and ringing in the choruses, whistled main tune at the start and end, crowd joining the final chorus, 76 BPM, C major, slow hopeful stately feel, clean electric guitar arpeggio, acoustic guitar, bass, steady stately drums, singing lead guitar solo, string pad, clean wide anthemic mix, nostalgic, hopeful, uplifting",
+  "negativeTags": "female lead vocals, rap, synth pop, trap hi-hats, EDM, harsh metal distortion, lo-fi, auto-tune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: whistled melody over clean electric guitar]\n\n[Verse 1: high clear male tenor, gentle]\nI take her by the hand along the river\nThere's a line of stones set in the ground\nShe hops across it on her scooter\nNever looks down, never slows down\n\n[Verse 2: bass and soft drums enter]\nI was twenty when I stood here\nWith a hammer and a stranger's wine\nWe sang until our voices went\nI kept a piece. It's on a shelf of mine.\n\n[Chorus: full band, soaring, whistle answering]\nWhere the wall was\nThere are bicycles and trees\nWhere the wall was\nThere's a kid who can't believe\nThat anybody ever stopped a street\nShe asked me what a border is\nWhere the wall was\n\n[Verse 3: voice warmer, guitars chiming]\nI tell her there were soldiers\nI tell her there were lights\nShe says, \"But why?\" and I've got nothing\nShe says, \"That's silly.\" She is right.\n\n[Chorus: full band, soaring, whistle answering]\nWhere the wall was\nThere are bicycles and trees\nWhere the wall was\nThere's a kid who can't believe\nThat anybody ever stopped a street\nShe asked me what a border is\nWhere the wall was\n\n[Guitar Solo: lyrical, over the chorus chords]\n\n[Bridge: half-time, voice and acoustic guitar]\nThey told us it would stand a hundred years\nThey told us nothing ever moves\nRemember that, the next time\n\n[Final Chorus: biggest, crowd singing, whistle on top]\nWhere the wall was\nThere are bicycles and trees\nWhere the wall was\nThere's a kid who can't believe\nThat anybody ever stopped a street\nShe asked me what a border is\nWhere the wall was\n\n[Outro: whistled melody alone, a scooter rolling away]",
+  "taskId": "428bf2be66d119cbfe522775e205547a",
+  "sunoClipIds": [
+    "c91c42d3-3a25-49c9-bf78-e1b9444367d3",
+    "ed7222c1-f01c-4efb-92cf-8405b626b481"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919175700,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "c91c42d3-3a25-49c9-bf78-e1b9444367d3",
+      "durationSec": 284.4,
+      "file": "powerballads/pb_16_where_the_wall_was_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ed7222c1-f01c-4efb-92cf-8405b626b481",
+      "durationSec": 284.36,
+      "file": "powerballads/pb_16_where_the_wall_was_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_16_where_the_wall_was_req.json",
+    "powerballads/pb_16_where_the_wall_was_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_16_where_the_wall_was.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 76 BPM, 4/4, C major. A slow, hopeful rock ballad with a march in its step.\n\nVOICE: Male tenor, high, clear and slightly accented, gentle in the verses and ringing in the choruses. He whistles the main tune at the start and end, and a crowd joins the final chorus.\n\nINSTRUMENTS: A whistled melody, a clean electric guitar arpeggio, acoustic guitar, bass, a drum kit with a steady, stately beat, a second electric guitar with a singing lead tone, a string pad, crowd voices.\n\nARRANGEMENT MAP: 0:00 Intro, whistle. 0:22 Verse 1. 0:52 Verse 2. 1:22 Chorus 1. 1:56 Verse 3. 2:26 Chorus 2. 3:00 Guitar solo. 3:22 Bridge. 3:40 Final chorus. 4:12 Outro, whistle and a scooter, ends 4:28.\n\nPRODUCTION & MIX: 1990 European rock ballad: clean, wide and anthemic, guitars bright, whistle dry and close.\n\nSIGNATURE MOMENT: 'She asked me what a border is' at 1:46.\n\nMODERN POINT OF VIEW: The original stands in the moment of change, hoping. This stands thirty-five years later on the same ground with a child for whom the change is so complete that it has to be explained.\n\nEMOTIONAL ARC: Remembering, amazed, humbled, hopeful.",
+  "workbookAtAGlance": "Where the Wall Was\n\nBackup titles\nShe Asked Me What a Border Is / Bicycles Now\n\nAt a glance\n76 BPM, C major\nVoice: High, clear male tenor with a whistled hook\nLength: about 4 minutes 30",
+  "qa": {
+    "title": "Where the Wall Was",
+    "id": "pb_16",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.4,
+        "measuredBpm": 73.8,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 2.9,
+        "lufs": -13.5,
+        "peakDbfs": -0.68,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 283.0,
+        "vocalCoverage": 0.692,
+        "vocalSpanSec": [
+          0.3,
+          269.0
+        ],
+        "vocalF0MedianHz": 710,
+        "vocalF0P25Hz": 292,
+        "lyricLineRecall": 0.833,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 284.4,
+        "measuredBpm": 76.0,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 0.0,
+        "lufs": -13.3,
+        "peakDbfs": -0.18,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 282.6,
+        "vocalCoverage": 0.574,
+        "vocalSpanSec": [
+          0.9,
+          250.0
+        ],
+        "vocalF0MedianHz": 394,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.944,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Rock",
+  "year": 1990
+}

@@ -1,0 +1,116 @@
+{
+  "id": "pb_18",
+  "title": "Right Here Was Always It",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 18,
+  "slug": "pb_18_right_here_was_always_it",
+  "inspiredBy": "Heaven (Bryan Adams, 1984)",
+  "leadVoice": "Male, raspy and sincere, sung softly in the verses with a catch in the throat and pushed hard in the choruses. Harmonies above him in the later choruses, and a long held note at the end.",
+  "model": "V6",
+  "style": "Mid-1980s arena rock power ballad, raspy sincere male vocal soft in the verses with a catch in the throat and pushed hard in the choruses, harmonies above later, long held final note, 70 BPM, C major with a key change up for the final chorus, slow warm classic feel, piano, chiming chorused electric guitar, bass, big 1980s drums entering with the first chorus, warm synth pad, melodic lead guitar solo, acoustic guitar, glossy wide warm mix, nostalgic, contented, romantic",
+  "negativeTags": "female lead vocals, rap, trap hi-hats, EDM, synth-only arrangement, lo-fi, harsh distortion, auto-tune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: piano and chiming guitar]\n\n[Verse 1: raspy warm male voice]\nWe were twenty, we were certain\nThat the real thing was somewhere else\nA bigger town, a better year\nA different version of ourselves\n\n[Pre-Chorus: bass enters]\nWe'd sit out here and make the plans\nWith our backs against this wall\n\n[Chorus: drums crash in, full band]\nAnd right here was always it\nSame porch, same sky, same you\nWe kept looking past it for the place it starts\nIt was started, and we never knew\nBaby, I've quit looking\nRight here was always it\n\n[Verse 2: voice closer, guitar answering]\nNow the kids have come and gone\nAnd the plans are in a drawer\nI don't know when I stopped wanting\nWhat I wanted so much more\n\n[Pre-Chorus: band building]\nI just know I looked at you tonight\nAnd had nowhere else to be\n\n[Chorus: full band, harmonies]\nAnd right here was always it\nSame porch, same sky, same you\nWe kept looking past it for the place it starts\nIt was started, and we never knew\nBaby, I've quit looking\nRight here was always it\n\n[Guitar Solo: melodic, over the chorus chords]\n\n[Bridge: piano and voice]\nIf I could tell those two kids anything\nI'd tell them, look down. Look around.\n\n[Final Chorus: biggest, key up, held last note]\nRight here was always it\nSame porch, same sky, same you\nWe kept looking past it for the place it starts\nIt was started, and we never knew\nBaby, I've quit looking\nRight here was always it\n\n[Outro: chiming guitar, a porch board creaking, crickets]",
+  "taskId": "879b534bc99e1418f5b9eca14748951c",
+  "sunoClipIds": [
+    "d6db2d68-d947-429a-8fda-6720cd2997c8",
+    "299377bb-1c2d-4e4e-b0e7-a28d89a9ccc2"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919166188,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "d6db2d68-d947-429a-8fda-6720cd2997c8",
+      "durationSec": 254.6,
+      "file": "powerballads/pb_18_right_here_was_always_it_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "299377bb-1c2d-4e4e-b0e7-a28d89a9ccc2",
+      "durationSec": 254.36,
+      "file": "powerballads/pb_18_right_here_was_always_it_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_18_right_here_was_always_it_req.json",
+    "powerballads/pb_18_right_here_was_always_it_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_18_right_here_was_always_it.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 70 BPM, 4/4, C major, up to D major for the final chorus. A slow, warm, classic rock ballad.\n\nVOICE: Male, raspy and sincere, sung softly in the verses with a catch in the throat and pushed hard in the choruses. Harmonies above him in the later choruses, and a long held note at the end.\n\nINSTRUMENTS: Piano, a chiming, chorused electric guitar, bass, a big 1980s drum kit that enters with the first chorus, a warm synth pad, a melodic lead guitar solo, an acoustic guitar.\n\nARRANGEMENT MAP: 0:00 Intro. 0:14 Verse 1. 0:44 Pre-chorus. 0:54 Chorus 1, drums in. 1:26 Verse 2. 1:56 Pre-chorus. 2:06 Chorus 2. 2:38 Guitar solo. 2:56 Bridge. 3:12 Final chorus, key up. 3:44 Outro, a porch and crickets, ends 3:58.\n\nPRODUCTION & MIX: Mid-1980s arena ballad: glossy, wide and warm, big drums with reverb, guitars chiming, voice gritty in front.\n\nSIGNATURE MOMENT: 'It was started, and we never knew' at 1:10.\n\nMODERN POINT OF VIEW: The original, written at twenty-four, already looks back fondly. From sixty the same look takes in forty years, and the discovery is that the search itself was the mistake.\n\nEMOTIONAL ARC: Remembering, wondering, arriving, staying put.",
+  "workbookAtAGlance": "Right Here Was Always It\n\nBackup titles\nWe Kept Looking Past It / Same Porch\n\nAt a glance\n70 BPM, C major\nVoice: Raspy, warm male voice\nLength: about 4 minutes",
+  "qa": {
+    "title": "Right Here Was Always It",
+    "id": "pb_18",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.15 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 254.6,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1,
+        "targetBpm": 70,
+        "bpmErrPct": 2.9,
+        "lufs": -14.0,
+        "peakDbfs": 0.15,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 253.8,
+        "vocalCoverage": 0.652,
+        "vocalSpanSec": [
+          8.0,
+          236.6
+        ],
+        "vocalF0MedianHz": 264,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.938,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.4,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1,
+        "targetBpm": 70,
+        "bpmErrPct": 2.9,
+        "lufs": -13.6,
+        "peakDbfs": -0.42,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 253.1,
+        "vocalCoverage": 0.632,
+        "vocalSpanSec": [
+          3.5,
+          237.4
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.875,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Arena Rock",
+  "year": 1984
+}

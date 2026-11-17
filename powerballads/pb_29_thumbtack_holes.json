@@ -1,0 +1,125 @@
+{
+  "id": "pb_29",
+  "title": "Thumbtack Holes",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 29,
+  "slug": "pb_29_thumbtack_holes",
+  "inspiredBy": "Black (Pearl Jam, 1991)",
+  "leadVoice": "Male baritone, deep and trembling. He murmurs the verses almost under his breath, opens up in the first chorus and howls the second chorus and bridge with his voice breaking. The outro is a wordless melody sung softly, joined by other voices.",
+  "model": "V6",
+  "style": "Early-1990s Seattle rock power ballad, deep trembling male baritone murmuring the verses almost under his breath then opening up and howling with his voice breaking, soft wordless doo-doo melody outro joined by other voices, 76 BPM, E minor, slow heavy aching feel with a long loose build, clean electric guitar arpeggio, Hammond organ, piano, bass, drums from brushes to sticks, distorted guitar with long feedback notes, slide guitar, warm live unpolished mix, grieving, tender, raw",
+  "negativeTags": "female lead vocals, synth pop, rap, trap hi-hats, EDM, glossy pop production, auto-tune, fast tempo",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 315,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: clean guitar arpeggio, soft organ, room tone]\n\n[Verse 1: deep male baritone, murmured]\nSheets of paper, curled and yellow\nCame down easy, one by one\nCrayon horses, purple fellows\nA house, a tree, a square of sun\n\n[Verse 2: bass and brushed drums enter]\nNow the wall's a field of pinholes\nEighteen years of little stars\nI could fill them, I could paint it\nI just stand here where you are\n\n[Chorus: band rises, voice opening]\nAll I've got is thumbtack holes\nWhere your drawings were\nEvery one a day you handed me\nAnd I said, \"That's nice,\" and stirred\nI'd give anything to look again\nAll I've got is thumbtack holes\n\n[Verse 3: voice rougher, electric guitar in]\nYour room still smells like your shampoo\nThere's a sock behind the door\nYour mother's on the phone with you\nI can't. I'll call. I'm on the floor.\n\n[Chorus: full band, voice howling]\nAll I've got is thumbtack holes\nWhere your drawings were\nEvery one a day you handed me\nAnd I said, \"That's nice,\" and stirred\nI'd give anything to look again\nAll I've got is thumbtack holes\n\n[Bridge: band crashing, voice at its limit]\nI know you're fine! I know it's right!\nI know this is the thing we raised you for!\nI know! I know!\n\n[Outro: band drops to piano and guitar, wordless vocal, crowd joining]\nDoo doo doo, doo doo doo doo\nDoo doo doo, doo doo doo doo\n(I'm not going to paint it)\nDoo doo doo, doo doo doo doo",
+  "taskId": "6eeb9a809c719c9e3c7970e751cb4af3",
+  "sunoClipIds": [
+    "2f8ccbb5-0401-4cff-9971-ffb790a5d37c",
+    "3a4a1bf6-223e-4924-b0ae-906cf1896823"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919228549,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "2f8ccbb5-0401-4cff-9971-ffb790a5d37c",
+      "durationSec": 314.4,
+      "file": "powerballads/pb_29_thumbtack_holes_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "3a4a1bf6-223e-4924-b0ae-906cf1896823",
+      "durationSec": 311.96,
+      "file": "powerballads/pb_29_thumbtack_holes_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_29_thumbtack_holes_req.json",
+    "powerballads/pb_29_thumbtack_holes_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_29_thumbtack_holes.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 76 BPM, 4/4, E minor. Slow, heavy and aching, with a long, loose build.\n\nVOICE: Male baritone, deep and trembling. He murmurs the verses almost under his breath, opens up in the first chorus and howls the second chorus and bridge with his voice breaking. The outro is a wordless melody sung softly, joined by other voices.\n\nINSTRUMENTS: A clean electric guitar arpeggio, Hammond organ, piano, bass, a drum kit played with brushes and then sticks, a second distorted guitar with long feedback notes, a slide guitar.\n\nARRANGEMENT MAP: 0:00 Intro. 0:20 Verse 1. 0:52 Verse 2. 1:24 Chorus 1. 2:00 Verse 3. 2:32 Chorus 2. 3:08 Bridge. 3:36 Outro, wordless melody building and fading to 4:58.\n\nPRODUCTION & MIX: Early-1990s Seattle rock: warm, live and unpolished, a band in a room, vocal raw and loud.\n\nSIGNATURE MOMENT: The murmured '(I'm not going to paint it)' under the outro at 4:20.\n\nMODERN POINT OF VIEW: The original mourns a lover with a young man's intensity. A father's version of that grief is quieter and comes with an argument against itself: he knows this is what was supposed to happen.\n\nEMOTIONAL ARC: Numb, remembering, breaking, letting the wall stay.",
+  "workbookAtAGlance": "Thumbtack Holes\n\nBackup titles\nWhere Your Drawings Were / Paint Over Nothing\n\nAt a glance\n76 BPM, E minor\nVoice: Deep, emotional male baritone, murmur to howl\nLength: about 5 minutes",
+  "qa": {
+    "title": "Thumbtack Holes",
+    "id": "pb_29",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.28 dBFS (1 clipped sample, inaudible)",
+          "tempo measured 70 BPM vs 76 target (~8% off)"
+        ],
+        "durationSec": 314.4,
+        "measuredBpm": 69.8,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 8.1,
+        "lufs": -13.8,
+        "peakDbfs": 0.28,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 312.4,
+        "vocalCoverage": 0.532,
+        "vocalSpanSec": [
+          2.6,
+          288.2
+        ],
+        "vocalF0MedianHz": 331,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.774,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)",
+          "peak 0.33 dBFS (2 clipped sample, inaudible)",
+          "tempo measured 68 BPM vs 76 target (~10% off)"
+        ],
+        "durationSec": 312.0,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 10.5,
+        "lufs": -13.3,
+        "peakDbfs": 0.33,
+        "clipSamples": 2,
+        "midGaps": [],
+        "endFadeSec": 0.0,
+        "contentEndSec": 312.0,
+        "vocalCoverage": 0.636,
+        "vocalSpanSec": [
+          19.7,
+          310.3
+        ],
+        "vocalF0MedianHz": 439,
+        "vocalF0P25Hz": 327,
+        "lyricLineRecall": 0.645,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Rock",
+  "year": 1991
+}

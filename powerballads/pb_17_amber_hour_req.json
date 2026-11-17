@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Amber Hour",
+  "prompt": "[Intro: slow chorused guitar chords, soft drums, strings]\n\n[Verse 1: soulful male tenor, tender]\nI never meant to make you carry me\nI never meant to take the best you had\nI only wanted, one time, to see you easy\nSitting in the amber hour, glad\n\n[Chorus: full band, voice rising]\nAmber hour, amber hour\nOne more evening in the amber hour\nI only want to see you\nIn the light before it goes\n\n[Verse 2: voice stronger, piano fills]\nI never wanted to be your teacher\nI only wanted to be some kind of friend\nI talked too long, I didn't listen\nI'm listening now, right at the end\n\n[Chorus: full band, backing voices]\nAmber hour, amber hour\nOne more evening in the amber hour\nI only want to see you\nIn the light before it goes\n\n[Verse 3: voice in falsetto, breaking]\nChild, I know the times are changing\nI can't lead you where you need to be\nTake what's useful, leave the rest here\nWalk out in the gold. Don't wait for me.\n\n[Chorus: biggest, choir joining]\nAmber hour, amber hour\nOne more evening in the amber hour\nI only want to see you\nIn the light before it goes\n\n[Guitar Solo: long, crying, melodic, crowd singing \"ooh\"]\n\n[Crowd: wordless melody, strings swelling]\nOoh, ooh, ooh, ooh\n\n[Outro: guitar feedback fading, piano, the last light]",
+  "style": "1984 live arena gospel-rock power ballad, soulful flexible male tenor preaching gently in the verses, crying out in the choruses and rising into ragged falsetto, choir and crowd singing a wordless melody under the solo, 58 BPM, B-flat major, very slow wide reverent feel, chorused shimmering electric guitar open chords, live drums with deep snare, bass, piano, string section, very long crying overdriven lead guitar solo, big natural reverb, apologetic, spiritual, majestic",
+  "negativeTags": "female lead vocals, rap, synth pop, trap hi-hats, EDM, short pop structure, auto-tune, lo-fi",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 345,
+  "callBackUrl": "https://example.com/cb"
+}

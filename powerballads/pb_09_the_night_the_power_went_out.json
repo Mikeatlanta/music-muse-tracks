@@ -1,0 +1,116 @@
+{
+  "id": "pb_09",
+  "title": "The Night the Power Went Out",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 9,
+  "slug": "pb_09_the_night_the_power_went_out",
+  "inspiredBy": "Total Eclipse of the Heart (Bonnie Tyler, 1983)",
+  "leadVoice": "Female lead, husky, cracked and dramatic, quiet in the verses and belting in the choruses. A high, pure male tenor answers her with two sung words before each verse line and overlaps with her in the bridge. A choir fills the choruses.",
+  "model": "V6",
+  "style": "1983 theatrical gothic rock power ballad, husky cracked dramatic female lead quiet in the verses and belting in the choruses, a high pure male tenor answering with two sung words before each verse line, choir filling the choruses, 65 BPM, A-flat major with a key change up for the final chorus, slow stormy feel with huge swells, grand piano, thunderous tom-heavy drums, bass, wall of electric guitars and synthesizers, glockenspiel and bells, enormous reverb and wall of sound, melodramatic, romantic, sweeping",
+  "negativeTags": "rap, trap hi-hats, EDM, acoustic folk, minimal production, lo-fi, country twang, auto-tune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 315,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: solo piano, distant thunder, wind]\n\n[Verse 1: husky female voice; male voice answers]\n(Come closer) Every light went at eleven\n(Come closer) I can't even see my hand\n(Come closer) There's a candle in a jam jar\n(Come closer) And a quiet I can't stand\n\n[Verse 2: drums enter softly]\n(Come closer) We've had ten years of the weather\n(Come closer) Of the news, and of the screen\n(Come closer) I forgot you had a voice like that\n(Come closer) I forgot what it could mean\n\n[Pre-Chorus: building, both voices]\nAnd I've missed you in plain sight\nLet me look at you by this light\n\n[Chorus: full band and choir, enormous]\nOn the night the power went out\nI found you in the dark\nWe were sitting on the kitchen floor\nLike two kids in a park\nThirty years, and I had lost the way to start\nThe night the power went out\nYou lit up every part\n\n[Verse 3: quieter, piano and voice]\n(Come closer) I've been lonely in the next room\n(Come closer) I've been angry, I've been small\n(Come closer) I was waiting for a reason\n(Come closer) And it only took a squall\n\n[Chorus: full band and choir, enormous]\nOn the night the power went out\nI found you in the dark\nWe were sitting on the kitchen floor\nLike two kids in a park\nThirty years, and I had lost the way to start\nThe night the power went out\nYou lit up every part\n\n[Bridge: thunder, band drops, voices overlapping]\nDon't let them fix it yet\n(Come closer)\nDon't let them fix it yet\n\n[Final Chorus: biggest, key up a step, choir soaring]\nOn the night the power went out\nI found you in the dark\nWe were sitting on the kitchen floor\nLike two kids in a park\nThirty years, and I had lost the way to start\nThe night the power went out\nYou lit up every part\n\n[Outro: piano, a hum as the lights return, \"Leave them off.\"]",
+  "taskId": "5ec49fa1c8e12970f8421636485cefe0",
+  "sunoClipIds": [
+    "572650ac-e8b2-4098-86a2-bdce1754b789",
+    "5d9346fa-c924-4d2b-8806-3f429744c5fe"
+  ],
+  "created": "Nov 17, 2026 7:38 AM ET",
+  "createTimeMs": 1794919135228,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "572650ac-e8b2-4098-86a2-bdce1754b789",
+      "durationSec": 314.56,
+      "file": "powerballads/pb_09_the_night_the_power_went_out_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5d9346fa-c924-4d2b-8806-3f429744c5fe",
+      "durationSec": 314.32,
+      "file": "powerballads/pb_09_the_night_the_power_went_out_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_09_the_night_the_power_went_out_req.json",
+    "powerballads/pb_09_the_night_the_power_went_out_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_09_the_night_the_power_went_out.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 65 BPM, 4/4, A-flat major, up to B-flat major for the final chorus. Slow, theatrical and stormy, with several huge swells.\n\nVOICE: Female lead, husky, cracked and dramatic, quiet in the verses and belting in the choruses. A high, pure male tenor answers her with two sung words before each verse line and overlaps with her in the bridge. A choir fills the choruses.\n\nINSTRUMENTS: Grand piano, thunderous tom-heavy drums, bass, a wall of electric guitars and synthesizers, a choir, glockenspiel and bells, storm sounds, and a hum of electricity at the end.\n\nARRANGEMENT MAP: 0:00 Intro, piano and thunder. 0:16 Verse 1. 0:48 Verse 2. 1:20 Pre-chorus. 1:32 Chorus 1. 2:10 Verse 3. 2:42 Chorus 2. 3:20 Bridge. 3:42 Final chorus, key up. 4:24 Outro, lights humming on and a spoken line at 4:52.\n\nPRODUCTION & MIX: 1983 theatrical rock: enormous reverb, a wall of sound, quiet passages very quiet and loud ones overwhelming.\n\nSIGNATURE MOMENT: The male voice's first '(Come closer)' at 0:16.\n\nMODERN POINT OF VIEW: The original is a young woman's gothic despair. This is a couple of thirty years for whom the drama is ordinary distance, and the eclipse is a power cut that removes every screen in the house.\n\nEMOTIONAL ARC: Uneasy, confessing, found, not wanting the lights back.",
+  "workbookAtAGlance": "The Night the Power Went Out\n\nBackup titles\nCome Closer / Candle in a Jar\n\nAt a glance\n65 BPM, A-flat major\nVoice: Husky female lead with a male answering voice\nLength: about 5 minutes",
+  "qa": {
+    "title": "The Night the Power Went Out",
+    "id": "pb_09",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 314.6,
+        "measuredBpm": 64.6,
+        "bpmFactor": 1,
+        "targetBpm": 65,
+        "bpmErrPct": 0.6,
+        "lufs": -13.8,
+        "peakDbfs": -0.28,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 311.8,
+        "vocalCoverage": 0.715,
+        "vocalSpanSec": [
+          19.6,
+          283.4
+        ],
+        "vocalF0MedianHz": 420,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.811,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 314.3,
+        "measuredBpm": 66.3,
+        "bpmFactor": 1,
+        "targetBpm": 65,
+        "bpmErrPct": 1.9,
+        "lufs": -13.8,
+        "peakDbfs": -1.65,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 313.0,
+        "vocalCoverage": 0.707,
+        "vocalSpanSec": [
+          17.0,
+          291.7
+        ],
+        "vocalF0MedianHz": 396,
+        "vocalF0P25Hz": 270,
+        "lyricLineRecall": 0.919,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Rock",
+  "year": 1983
+}

@@ -1,0 +1,114 @@
+{
+  "id": "pb_11",
+  "title": "March Thaw",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 11,
+  "slug": "pb_11_march_thaw",
+  "inspiredBy": "November Rain (Guns N' Roses, 1991)",
+  "leadVoice": "Male tenor, high and raspy, tender and almost conversational in the verses, wailing at the top of his range in the choruses and coda. Backing voices and a small choir join later.",
+  "model": "V6",
+  "style": "Early-1990s orchestral hard rock epic power ballad, high raspy male tenor tender and conversational in the verses and wailing at the top of his range in the choruses and coda, backing voices and a small choir later, 76 BPM, C major with a faster minor-key coda, long slow three-part build, grand piano, full string orchestra with flute and French horn, hard-rock rhythm section, two thick singing sustained lead guitar solos, grand wide dramatic mix, sorrowful, patient, triumphant",
+  "negativeTags": "female lead vocals, synth pop, rap, trap hi-hats, EDM, short pop structure, auto-tune, lo-fi",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 345,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: solo piano, strings entering, a flute line]\n\n[Verse 1: high raspy male tenor, gentle]\nWhen the snow came in October\nI thought it would be gone by noon\nIt was April of the next year\nAnd I'd forgotten how to look at you\n\n[Verse 2: drums enter softly, bass]\nWe stopped talking about summer\nWe just talked about the pills\nAnd the windows wore their plastic\nAnd the drifts came up the sills\n\n[Chorus: orchestra full, voice soaring]\nBut nothing holds forever\nNot the dark, not the cold\nI heard the river breaking\nAnd I felt my chest unfold\nIt's a March thaw, darling\nEven the long ones end\n\n[Guitar Solo 1: melodic, singing, over the orchestra]\n\n[Verse 3: voice warmer, piano leading]\nYou walked out to the mailbox\nIn a coat that didn't fit\nYou were thin, and you were laughing\nAnd the sun was all of it\n\n[Chorus: orchestra full, backing voices]\n'Cause nothing holds forever\nNot the dark, not the cold\nI heard the river breaking\nAnd I felt my chest unfold\nIt's a March thaw, darling\nEven the long ones end\n\n[Bridge: piano alone, slower]\nI know it comes again\nI know how winters are\nI'll take the one we've got\n\n[Guitar Solo 2: higher, faster, drums building]\n\n[Coda: tempo doubles, minor key, choir and full band]\nDon't you think that we could use a little warm?\nEverybody needs a little warm\nIce on the river, ice on the river breaking\n\n[Outro: orchestra fades, water running, one piano note]",
+  "taskId": "14a7b1697b0857e82d419cd057a862bb",
+  "sunoClipIds": [
+    "8d586d6c-0013-47e5-9469-972e3bcf097d",
+    "e96d92d3-8cce-4bbb-9e9c-cf2c5234bb42"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919148934,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "8d586d6c-0013-47e5-9469-972e3bcf097d",
+      "durationSec": 344.08,
+      "file": "powerballads/pb_11_march_thaw_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "e96d92d3-8cce-4bbb-9e9c-cf2c5234bb42",
+      "durationSec": 345.0,
+      "file": "powerballads/pb_11_march_thaw_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_11_march_thaw_req.json",
+    "powerballads/pb_11_march_thaw_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_11_march_thaw.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 76 BPM, 4/4, C major, with a faster coda in C minor. A long, slow, orchestral rock epic in three movements.\n\nVOICE: Male tenor, high and raspy, tender and almost conversational in the verses, wailing at the top of his range in the choruses and coda. Backing voices and a small choir join later.\n\nINSTRUMENTS: Grand piano, a full string orchestra with flute and French horn, a hard-rock rhythm section, two lead guitar solos with a thick, singing, sustained tone, a choir in the coda, the sound of ice cracking and running water.\n\nARRANGEMENT MAP: 0:00 Intro, piano and strings. 0:30 Verse 1. 1:00 Verse 2. 1:30 Chorus 1. 2:04 Guitar solo 1. 2:32 Verse 3. 3:02 Chorus 2. 3:36 Bridge. 3:56 Guitar solo 2. 4:24 Coda, double time. 5:06 Outro, water and one note, ends 5:28.\n\nPRODUCTION & MIX: Early-1990s orchestral hard rock: grand, wide and dramatic, piano and orchestra as large as the band.\n\nSIGNATURE MOMENT: The first guitar solo entering at 2:04.\n\nMODERN POINT OF VIEW: The original warns that warmth does not last. Someone who has sat through a year of illness beside a spouse knows the other half of that truth, and this song is about the thaw.\n\nEMOTIONAL ARC: Numb, enduring, breaking open, grateful.",
+  "workbookAtAGlance": "March Thaw\n\nBackup titles\nEven the Long Ones End / Ice on the River Breaking\n\nAt a glance\n76 BPM, C major, ending in C minor\nVoice: High, raspy male tenor\nLength: about 5 minutes 30",
+  "qa": {
+    "title": "March Thaw",
+    "id": "pb_11",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 344.1,
+        "measuredBpm": 71.8,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 5.6,
+        "lufs": -13.3,
+        "peakDbfs": -1.1,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 343.1,
+        "vocalCoverage": 0.588,
+        "vocalSpanSec": [
+          17.2,
+          314.8
+        ],
+        "vocalF0MedianHz": 476,
+        "vocalF0P25Hz": 311,
+        "lyricLineRecall": 0.833,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 345.0,
+        "measuredBpm": 71.8,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 5.6,
+        "lufs": -13.5,
+        "peakDbfs": -2.14,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 344.2,
+        "vocalCoverage": 0.542,
+        "vocalSpanSec": [
+          14.9,
+          304.0
+        ],
+        "vocalF0MedianHz": 391,
+        "vocalF0P25Hz": 297,
+        "lyricLineRecall": 0.767,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hard Rock",
+  "year": 1991
+}

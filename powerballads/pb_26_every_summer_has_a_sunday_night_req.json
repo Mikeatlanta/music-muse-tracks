@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Every Summer Has a Sunday Night",
+  "prompt": "[Intro: strummed acoustic guitar, a sigh, crickets]\n\n[Verse 1: raspy male voice, quiet]\nTowels on the railing, fire's burning low\nThe kids are getting quiet, 'cause they know\nThe cooler's by the door, the bags are by the stair\nYou're looking at the water like it's already not there\n\n[Chorus: second voice in harmony, band enters softly]\nEvery summer has a Sunday night\nEvery party has a kitchen light\nEvery kid has got a driveway and a wave goodbye\nEvery summer has a Sunday night\n\n[Verse 2: voice warmer, bass and brushes]\nI used to fight it, used to sulk the whole way home\nUsed to waste the last day wishing it would slow\nMy father did the same, he'd go quiet by noon\nTook me forty years to hear a different tune\n\n[Chorus: fuller, electric guitar answering]\nEvery summer has a Sunday night\nEvery party has a kitchen light\nEvery kid has got a driveway and a wave goodbye\nEvery summer has a Sunday night\n\n[Guitar Solo: slow, bluesy, electric]\n\n[Bridge: acoustic and voice, almost spoken]\nThat's not the sad part. That's the frame.\nYou don't hang a picture without one.\n\n[Verse 3: quiet, to her]\nSo come sit down. There's an hour left of gold.\nI'm not gonna spend it getting old.\n\n[Final Chorus: full band, crowd of family voices]\nEvery summer has a Sunday night\nEvery party has a kitchen light\nEvery kid has got a driveway and a wave goodbye\nEvery summer has a Sunday night\nAnd tonight's a good one\n\n[Outro: acoustic guitar, a screen door, a loon on the lake]",
+  "style": "Late-1980s acoustic rock power ballad with a country ache, raspy slightly nasal male rock singer singing quietly, second voice in close harmony on the choruses, a family of voices on the last chorus, nearly spoken bridge, 70 BPM, G major, slow easy feel, strummed and picked acoustic guitars, bass, drums with brushes then light sticks, clean bluesy sustained electric guitar solo, a little pedal steel, warm dry simple mix, wistful, accepting, tender",
+  "negativeTags": "female lead vocals, synths, rap, trap hi-hats, EDM, heavy distortion, fast tempo, auto-tune",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

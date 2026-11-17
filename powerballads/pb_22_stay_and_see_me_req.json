@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Stay and See Me",
+  "prompt": "[Intro: electric piano, soft strings, a harp glissando]\n\n[Verse 1: female voice, controlled and quiet]\nYou've started knocking on the bathroom door\nYou've started asking if I'm warm\nYou fold my scarves, you bring me tea\nYou've stopped looking straight at me\n\n[Pre-Chorus: drums enter, voice lifting]\nI am not a thing that breaks\nI am not a careful place\n\n[Chorus: full orchestra, voice soaring]\nStay and see me\nAll the rooms, even that one\nDon't be gentle, don't be kind\nBe here, and don't run\nI can stand the truth of this\nIf you are standing in it, too\nStay and see me\nThe way I still see you\n\n[Verse 2: key up a step, voice stronger]\nThere's a scar now where there wasn't\nThere are mornings I can't stand\nThere's a girl you met at twenty\nIn here, holding out her hand\n\n[Pre-Chorus: drums build, brass in]\nDon't you dare go polite on me\nDon't you dare go away\n\n[Chorus: full orchestra, voice soaring]\nStay and see me\nAll the rooms, even that one\nDon't be gentle, don't be kind\nBe here, and don't run\nI can stand the truth of this\nIf you are standing in it, too\nStay and see me\nThe way I still see you\n\n[Bridge: band drops, saxophone and voice]\nLook at me. No, look.\nThere. That's all I want.\n\n[Final Chorus: key up again, biggest, held last note]\nStay and see me\nAll the rooms, even that one\nDon't be gentle, don't be kind\nBe here, and don't run\nI can stand the truth of this\nIf you are standing in it, too\nStay and see me\nThe way I still see you\n\n[Outro: electric piano, a held breath let go, \"I see you.\"]",
+  "style": "Early-1990s film-soundtrack power ballad, commanding gospel-trained female soprano with enormous range and control, soft and precise at first and growing in each section with melismatic runs and a final note held at full power, 60 BPM, G major rising through two key changes, slow grand exposed feel, electric piano, full orchestra with strings brass and harp, fretless-style bass, restrained drums with big tom fills, tenor saxophone in the bridge, timpani, lavish polished mix with the voice far in front, vulnerable, proud, overwhelming",
+  "negativeTags": "male lead vocals, rap, rock guitar distortion, trap hi-hats, EDM, lo-fi, country twang, auto-tune",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 285,
+  "callBackUrl": "https://example.com/cb"
+}

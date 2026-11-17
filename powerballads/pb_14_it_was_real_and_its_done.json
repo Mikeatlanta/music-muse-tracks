@@ -1,0 +1,117 @@
+{
+  "id": "pb_14",
+  "title": "It Was Real, and It's Done",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 14,
+  "slug": "pb_14_it_was_real_and_its_done",
+  "inspiredBy": "It Must Have Been Love (Roxette, 1987)",
+  "leadVoice": "Female, cool, clear and precise with a Scandinavian evenness, restrained in the verses and open and strong in the choruses. She does not oversing; the emotion comes from the key change.",
+  "model": "V6",
+  "style": "Late-1980s Swedish pop-rock power ballad, cool clear precise female voice restrained in the verses and open and strong in the choruses without oversinging, 81 BPM, C major lifting to D major for the final chorus, mid-slow polished calm feel, piano, glassy synth bells, chiming clean electric guitar, bass, big 1980s drums with reverbed snare, string pad, melodic clean guitar solo, glossy bright precise mix, wistful, peaceful, graceful",
+  "negativeTags": "male lead vocals, rap, trap hi-hats, EDM, harsh distortion, lo-fi, country twang, auto-tune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: piano and synth bells, soft snowfall of notes]\n\n[Verse 1: cool clear female voice]\nFound the box behind the winter coats\nA ticket stub, a key, a note\nYour handwriting still leans that way\nI read it standing in the hall today\n\n[Pre-Chorus: drums enter, guitar chiming]\nI waited for the ache to come\nAnd something gentler did\n\n[Chorus: full band, voice open]\nIt was real, and it's done\nBoth of those are true\nIt was real, and it's done\nI don't have to choose\nI can keep the summer and still let go of you\nIt was real, and it's done\n\n[Verse 2: voice warmer]\nFor years I thought I had to pick\nEither it was nothing, or I'm sick\nWith missing something I should mourn\nI never knew there was a third thing: warm\n\n[Pre-Chorus: drums build]\nI hope you kept a box like this\nI hope it makes you smile\n\n[Chorus: full band, voice open]\nIt was real, and it's done\nBoth of those are true\nIt was real, and it's done\nI don't have to choose\nI can keep the summer and still let go of you\nIt was real, and it's done\n\n[Guitar Solo: melodic, clean tone]\n\n[Bridge: piano and voice]\nPut the lid back on\nPut it on the shelf, not in the bin\n\n[Final Chorus: key up a step, biggest]\nIt was real, and it's done\nBoth of those are true\nIt was real, and it's done\nI don't have to choose\nI can keep the summer and still let go of you\nIt was real, and it's done\n\n[Outro: synth bells, a closet door closing gently]",
+  "taskId": "84e6507a22050d8b228d9ee10d479474",
+  "sunoClipIds": [
+    "ce8f1113-cc6c-474f-bf9d-13b518f607d1",
+    "1abfe938-de24-424f-a0f9-6340a89be82f"
+  ],
+  "created": "Nov 17, 2026 7:39 AM ET",
+  "createTimeMs": 1794919157225,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ce8f1113-cc6c-474f-bf9d-13b518f607d1",
+      "durationSec": 254.8,
+      "file": "powerballads/pb_14_it_was_real_and_its_done_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "1abfe938-de24-424f-a0f9-6340a89be82f",
+      "durationSec": 254.4,
+      "file": "powerballads/pb_14_it_was_real_and_its_done_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_14_it_was_real_and_its_done_req.json",
+    "powerballads/pb_14_it_was_real_and_its_done_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_14_it_was_real_and_its_done.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 81 BPM, 4/4, C major, lifting to D major for the final chorus. A mid-slow, polished pop-rock ballad, calm on the surface.\n\nVOICE: Female, cool, clear and precise with a Scandinavian evenness, restrained in the verses and open and strong in the choruses. She does not oversing; the emotion comes from the key change.\n\nINSTRUMENTS: Piano, glassy synth bells, a chiming clean electric guitar, bass, a big 1980s drum kit with reverb on the snare, a string pad, a melodic guitar solo with a clean tone.\n\nARRANGEMENT MAP: 0:00 Intro. 0:14 Verse 1. 0:42 Pre-chorus. 0:52 Chorus 1. 1:22 Verse 2. 1:50 Pre-chorus. 2:00 Chorus 2. 2:30 Guitar solo. 2:46 Bridge. 3:00 Final chorus, key up. 3:32 Outro, bells and a closet door, ends 3:58.\n\nPRODUCTION & MIX: Late-1980s Swedish pop-rock: glossy, bright and precise, every part clean, drums big.\n\nSIGNATURE MOMENT: 'I never knew there was a third thing: warm' at 1:44.\n\nMODERN POINT OF VIEW: The original is the first winter after the break, still raw. This is twenty winters later, when a person can finally say both halves of the sentence without either hurting.\n\nEMOTIONAL ARC: Braced, surprised, settled, kind.",
+  "workbookAtAGlance": "It Was Real, and It's Done\n\nBackup titles\nBoth Things / I Checked\n\nAt a glance\n81 BPM, C major, lifting to D major\nVoice: Cool, clear female voice\nLength: about 4 minutes",
+  "qa": {
+    "title": "It Was Real, and It's Done",
+    "id": "pb_14",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.8,
+        "measuredBpm": 83.4,
+        "bpmFactor": 1,
+        "targetBpm": 81,
+        "bpmErrPct": 2.9,
+        "lufs": -13.9,
+        "peakDbfs": -1.04,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 252.9,
+        "vocalCoverage": 0.543,
+        "vocalSpanSec": [
+          14.4,
+          231.0
+        ],
+        "vocalF0MedianHz": 297,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.75,
+        "lyricUnclearSections": [
+          "Verse 2",
+          "Pre-Chorus"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.4,
+        "measuredBpm": 80.7,
+        "bpmFactor": 1,
+        "targetBpm": 81,
+        "bpmErrPct": 0.3,
+        "lufs": -13.7,
+        "peakDbfs": -0.71,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 252.9,
+        "vocalCoverage": 0.606,
+        "vocalSpanSec": [
+          20.2,
+          228.6
+        ],
+        "vocalF0MedianHz": 329,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.781,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop Rock",
+  "year": 1987
+}

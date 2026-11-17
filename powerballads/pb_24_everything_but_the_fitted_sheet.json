@@ -1,0 +1,118 @@
+{
+  "id": "pb_24",
+  "title": "Everything but the Fitted Sheet",
+  "collection": "powerballads",
+  "album": "Power Ballads Reimagined",
+  "track": 24,
+  "slug": "pb_24_everything_but_the_fitted_sheet",
+  "inspiredBy": "I'd Do Anything for Love (But I Won't Do That) (Meat Loaf, 1993)",
+  "leadVoice": "Male, a huge, operatic rock tenor-baritone, declaiming with total commitment and a wink. Female, a strong, clear, soulful voice who enters two-thirds of the way through and asks her questions calmly. They sing the bridge and last chorus together. A choir backs every chorus.",
+  "model": "V6",
+  "style": "Early-1990s theatrical rock epic power ballad duet, huge operatic male rock tenor-baritone declaiming with total commitment and humour, a strong clear soulful female voice entering late with calm questions, both together at the end, choir backing every chorus, 76 BPM with a faster second verse and a slower duet section, D major, several dramatic sections, pounding virtuoso grand piano, roaring distorted guitars, bass, thunderous drums, string section, bells and timpani, maximal wide loud mix, comic, passionate, sincere",
+  "negativeTags": "rap, trap hi-hats, EDM, acoustic folk, minimal production, lo-fi, country twang, auto-tune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 345,
+  "customMode": true,
+  "lyricsSource": "Power Ballads Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: pounding piano, a motorbike-like guitar roar, choir \"ah\"]\n\n[Verse 1: operatic male rock voice, grand]\nI would drive all night through a blizzard for you\nI would sit through your sister's wedding, part two\nI would learn to like jazz, I would give up my chair\nI would tell you the truth about that thing you did with your hair\n\n[Pre-Chorus: drums build, choir rising]\nI would walk through fire, I would swim through ice\nI would do it tomorrow and I'd do it twice\n\n[Chorus: full band and choir, enormous]\nI'd do everything, everything, everything for you\nThere is nothing on this earth that I would not go through\nI would give you my last breath, my last dime, my last seat\nI'd do everything for love\nBut I won't fold the fitted sheet\n\n[Verse 2: faster, piano driving]\nI have carried your mother's couch up four flights\nI have held your hand through the longest of nights\nI have gone to the store at eleven for cream\nI've pretended to listen while you told me your dream\n\n[Chorus: full band and choir, enormous]\nI'd do everything, everything, everything for you\nThere is nothing on this earth that I would not go through\nI would give you my last breath, my last dime, my last seat\nI'd do everything for love\nBut I won't fold the fitted sheet\n\n[Duet: tempo slows, female voice enters, he answers]\nWill you rub my feet when they're aching? (I will.)\nWill you laugh at my jokes when I'm old? (I do. I will.)\nWill you sit in the chair by the hospital bed?\n(Every night. Every night. Till they send me home instead.)\nWill you still think I'm pretty at ninety? (I'll be blind. And yes.)\nWill you fold the fitted sheet?\n(It has no corners! It's a trick! It's a bag with a dress!)\n\n[Bridge: both voices, choir swelling, sincere]\nThen I'll hold one side, and you hold the other\nThat's how we've done every other thing\n\n[Final Chorus: both voices, everything at full size]\nWe'd do everything, everything, everything for you\nThere is nothing on this earth we would not go through\nI will give you my last breath, my last dime, my last seat\nWe'd do everything for love\nAnd we'll ball up the fitted sheet\n\n[Outro: piano flourish, a linen cupboard door slammed, laughter]",
+  "taskId": "16ff9993593c6582ac13f0eb272330f4",
+  "sunoClipIds": [
+    "7364df04-a644-4bd5-98c2-6bbd8755f677",
+    "af17894a-7610-4589-9fea-096c37306f06"
+  ],
+  "created": "Nov 17, 2026 7:40 AM ET",
+  "createTimeMs": 1794919209971,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "7364df04-a644-4bd5-98c2-6bbd8755f677",
+      "durationSec": 344.52,
+      "file": "powerballads/pb_24_everything_but_the_fitted_sheet_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "af17894a-7610-4589-9fea-096c37306f06",
+      "durationSec": 344.48,
+      "file": "powerballads/pb_24_everything_but_the_fitted_sheet_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "powerballads/pb_24_everything_but_the_fitted_sheet_req.json",
+    "powerballads/pb_24_everything_but_the_fitted_sheet_rec.json"
+  ],
+  "cover": "powerballads/covers/pb_24_everything_but_the_fitted_sheet.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 76 BPM, with verse 2 pushed to about 120 and the duet slowed to 66, 4/4, D major. A theatrical rock epic in several sections.\n\nVOICE: Male, a huge, operatic rock tenor-baritone, declaiming with total commitment and a wink. Female, a strong, clear, soulful voice who enters two-thirds of the way through and asks her questions calmly. They sing the bridge and last chorus together. A choir backs every chorus.\n\nINSTRUMENTS: A pounding, virtuoso grand piano, roaring distorted guitars that imitate a motorbike, a choir, bass, thunderous drums, a string section, bells and timpani, and a slammed cupboard door at the end.\n\nARRANGEMENT MAP: 0:00 Intro, piano and guitar roar. 0:18 Verse 1. 0:50 Pre-chorus. 1:02 Chorus 1. 1:40 Verse 2, faster. 2:08 Chorus 2. 2:46 Duet, slower. 3:46 Bridge, both. 4:08 Final chorus. 4:54 Outro, piano, a door and laughter, ends 5:28.\n\nPRODUCTION & MIX: Early-1990s theatrical rock: maximal, wide and loud, piano and choir as big as the guitars, every transition dramatic.\n\nSIGNATURE MOMENT: '(It has no corners! It's a trick! It's a bag with a dress!)' at 3:40.\n\nMODERN POINT OF VIEW: The original's mysterious exception is a lover's fear of failing. Thirty years into a marriage the exceptions are known, small and funny, and the vow underneath them has been tested and holds.\n\nEMOTIONAL ARC: Grandiose, boastful, questioned, united.",
+  "workbookAtAGlance": "Everything but the Fitted Sheet\n\nBackup titles\nAsk Me Anything Else / I'll Hold a Corner\n\nAt a glance\n76 BPM, with a faster middle, D major\nVoice: Operatic male rock voice and a female duet voice\nLength: about 5 minutes 30",
+  "qa": {
+    "title": "Everything but the Fitted Sheet",
+    "id": "pb_24",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 344.5,
+        "measuredBpm": 76.0,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 0.0,
+        "lufs": -13.5,
+        "peakDbfs": -0.89,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 343.2,
+        "vocalCoverage": 0.737,
+        "vocalSpanSec": [
+          6.4,
+          329.9
+        ],
+        "vocalF0MedianHz": 372,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.824,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 32% of lines recognised (unclear: Chorus)"
+        ],
+        "durationSec": 344.5,
+        "measuredBpm": 76.0,
+        "bpmFactor": 1,
+        "targetBpm": 76,
+        "bpmErrPct": 0.0,
+        "lufs": -12.7,
+        "peakDbfs": -0.53,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 342.7,
+        "vocalCoverage": 0.701,
+        "vocalSpanSec": [
+          19.3,
+          332.9
+        ],
+        "vocalF0MedianHz": 460,
+        "vocalF0P25Hz": 264,
+        "lyricLineRecall": 0.324,
+        "lyricUnclearSections": [
+          "Chorus"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Rock",
+  "year": 1993
+}

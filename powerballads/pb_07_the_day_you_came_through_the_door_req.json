@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "The Day You Came Through the Door",
+  "prompt": "[Intro: soft piano, handclaps, a wordless vocal line]\n\n[Verse 1: female voice, low and controlled]\nI had it how I liked it\nWhite couch, quiet, mine\nEvery glass put back in order\nEvery evening on a line\nI'd decided I was finished\nI had told myself I'm fine\n\n[Pre-Chorus: drums enter, voice rising]\nThen a caseworker's car in the drive\nOne backpack and two wide eyes\n\n[Chorus: full band, voice soaring]\nThe day you came through the door\nEvery wall I'd made forgot what it was for\nJelly on the white couch, shoes across the floor\nThe whole house learned your name\nThe day you came through the door\n\n[Verse 2: voice warmer, bass moving]\nYou asked me where the bathroom was\nYou asked me could you leave the light\nYou asked me, very quiet,\nHow long, and I said, \"Tonight,\"\nThen I said, \"As long as you like,\"\nAnd heard my own voice, and it was right\n\n[Pre-Chorus: drums build]\nSeven years old and a paper bag\nYou carried in the only thing I didn't have\n\n[Chorus: full band, voice soaring]\nThe day you came through the door\nEvery wall I'd made forgot what it was for\nJelly on the white couch, shoes across the floor\nThe whole house learned your name\nThe day you came through the door\n\n[Bridge: half-time, choir pad, voice at full power]\nI thought I was the one saying yes\nI thought I was the rescue\nOh, I thought I was the rescue\n\n[Final Chorus: highest, ad-libs, handclaps doubled]\nThe day you came through the door\nEvery wall I'd made forgot what it was for\nDrawings on the fridge now, laughing down the hall\nThe whole house knows your name\nYou came through the door, and you're home\n\n[Outro: piano, a small voice: \"Can I call you Mom?\"]",
+  "style": "Late-2000s pop-R&B power ballad, big agile female R&B-pop voice held back in the verses and fully open in the choruses with runs and held high notes, stacked self-harmonies, free ad-libs at the end, 80 BPM, A major, slow heavy uplifting feel with a clap on every backbeat, piano, handclaps, deep booming kick and wide snare, sustained bass, string section, choir-like synth pad, wordless vocal motif, huge shimmering mix, tender, overwhelmed, joyful",
+  "negativeTags": "male lead vocals, electric guitar solo, rap, country twang, trap hi-hats, lo-fi, fast tempo, harsh distortion",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}
