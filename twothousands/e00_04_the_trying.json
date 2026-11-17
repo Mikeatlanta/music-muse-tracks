@@ -1,0 +1,115 @@
+{
+  "id": "e00_04",
+  "title": "The Trying",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 4,
+  "slug": "e00_04_the_trying",
+  "inspiredBy": "In the End (Linkin Park, 2000)",
+  "leadVoice": "Two men. A rapper with a clear, even, unhurried delivery who sounds like he is reading out evidence. A singer with a raspy tenor who starts the chorus melodically and pushes into a rough, powerful shout, and screams two lines in the bridge. They overlap in the last chorus.",
+  "model": "V6",
+  "style": "2001 nu-metal rap rock, male rapper with a clear even unhurried delivery on the verses, raspy male tenor singing the chorus and pushing into a powerful shout, screamed bridge lines, 105 BPM, E-flat minor, measured and heavy, simple repeating high piano figure as the signature, thick down-tuned distorted guitars only in the choruses, deep bass, tight dry hip-hop influenced drums, turntable scratches, vinyl hiss, string pad, narrow dry verses and enormous wide choruses, sad, defiant, cathartic",
+  "negativeTags": "female lead vocals, acoustic guitar, upbeat party, trap hi-hats, autotune, EDM drop, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: ticking piano figure, vinyl hiss, distant scratches]\n\n[Verse 1: male rap, steady, drums and bass enter]\nI built it out of weekends, out of favours, out of nerve\nDrew the plans on a napkin, learned the rest on the curve\nPut my name on the door and my savings in the floor\nTold my mother it was working when I couldn't tell her more\nEvery year a little louder, every year a little thin\nKept on pouring in the hours where the cracks were getting in\nAnd I held it, and I held it, till my hands forgot the rest\nThen I watched it fold on a Tuesday, no alarm and no protest\n\n[Chorus: raspy tenor sings, wall of guitars]\nI gave it all I had\nAnd I watched it fall\nAnd for the longest time\nI thought that that was all\nBut I'd do it the same\nI'd lose it again\nIt turns out the trying\nIs the part that I keep\n\n[Verse 2: male rap, more personal, piano answers]\nSame thing with the two of us, I'll say it while I can\nI learned your coffee order, I learned your mother's plans\nShowed up for the hard days, showed up for the worse\nRead the books and did the work and said the sorry first\nStill, you can do it right and watch it walk away\nThere isn't any scoreboard, there isn't any pay\nI used to think that meant the whole thing was a lie\nNow I think it means I'm someone who will try\n\n[Chorus: raspy tenor sings, wall of guitars]\nI gave it all I had\nAnd I watched it fall\nAnd for the longest time\nI thought that that was all\nBut I'd do it the same\nI'd lose it again\nIt turns out the trying\nIs the part that I keep\n\n[Bridge: quiet piano, then building to screamed lines]\nNobody keeps the trophy\nNobody keeps the room\nYou only keep the reaching\nSo reach\nSo reach\n\n[Final Chorus: both voices, heaviest, rap ad-libs between lines]\nI gave it all I had\nAnd I watched it fall\nAnd for the longest time\nI thought that that was all\nBut I'd do it the same\nI'd lose it again\nIt turns out the trying\nIs the part that I keep\n\n[Outro: piano figure alone, slowing, last note left hanging]\nThe part that I keep",
+  "taskId": "3c480cb222248a25ff72b90ca56f7060",
+  "sunoClipIds": [
+    "294a81ef-bef6-4b62-b88c-e0e4e8b92d82",
+    "7ae30483-2b19-486b-a4ac-7243a6d24d3a"
+  ],
+  "created": "Nov 17, 2026 10:18 AM ET",
+  "createTimeMs": 1794928690791,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "294a81ef-bef6-4b62-b88c-e0e4e8b92d82",
+      "durationSec": 234.36,
+      "file": "twothousands/e00_04_the_trying_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "7ae30483-2b19-486b-a4ac-7243a6d24d3a",
+      "durationSec": 234.0,
+      "file": "twothousands/e00_04_the_trying_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_04_the_trying_req.json",
+    "twothousands/e00_04_the_trying_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_04_the_trying.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_04_the_trying.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 105 BPM, 4/4, E-flat minor. Measured and heavy, with a steady tick underneath. Sad, then defiant.\n\nVOICE: Two men. A rapper with a clear, even, unhurried delivery who sounds like he is reading out evidence. A singer with a raspy tenor who starts the chorus melodically and pushes into a rough, powerful shout, and screams two lines in the bridge. They overlap in the last chorus.\n\nINSTRUMENTS: A simple, repeating piano figure in a high register, the song's signature. Thick, down-tuned distorted guitars that enter only for the choruses. Deep bass. A tight hip-hop-influenced drum kit with a dry snare. Turntable scratches and vinyl hiss. A soft string pad. A filtered electronic beat under the verses.\n\nARRANGEMENT MAP: 0:00 Intro, the piano figure alone with hiss and scratches. 0:18 Verse 1, drums and bass. 0:55 Chorus 1, the guitars arrive. 1:22 Verse 2. 1:59 Chorus 2. 2:26 Bridge, piano alone for two lines, then a build to two screamed words. 2:46 Final chorus, both voices. 3:13 Outro, everything stops except the piano, which slows and leaves its last note hanging at 3:35.\n\nPRODUCTION & MIX: Turn-of-the-century nu-metal with pop precision: verses dry and narrow, choruses enormous and wide, every transition sharp.\n\nSIGNATURE MOMENT: The piano figure alone at the start. Three notes in, anyone who was a teenager in 2001 knows what kind of song it is.\n\nMODERN POINT OF VIEW: The original says effort came to nothing. This is the same man twenty-five years on, who has lost more and has changed his mind about what counts.\n\nEMOTIONAL ARC: Inventory, loss, a second look, resolve.",
+  "workbookAtAGlance": "The Trying\n\nBackup titles\nFolded on a Tuesday / The Part That I Keep\n\nAt a glance\n105 BPM, E-flat minor\nVoice: Male rap verses, raspy male tenor chorus\nLength: about 3 minutes 40",
+  "year": 2000,
+  "qa": {
+    "title": "The Trying",
+    "id": "e00_04",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.4,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 105,
+        "bpmErrPct": 1.6,
+        "lufs": -13.6,
+        "peakDbfs": -0.39,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 232.6,
+        "vocalCoverage": 0.734,
+        "vocalSpanSec": [
+          3.4,
+          213.0
+        ],
+        "vocalF0MedianHz": 369,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.0,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 105,
+        "bpmErrPct": 1.6,
+        "lufs": -13.8,
+        "peakDbfs": -0.44,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 232.3,
+        "vocalCoverage": 0.749,
+        "vocalSpanSec": [
+          4.3,
+          224.0
+        ],
+        "vocalF0MedianHz": 312,
+        "vocalF0P25Hz": 309,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop"
+}

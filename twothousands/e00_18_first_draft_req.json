@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "First Draft",
+  "prompt": "[Intro: acoustic guitar strum, plucked string stabs, light beat]\n\n[Verse 1: warm, husky, conversational]\nI am a sentence with the ending left off\nA house with the paint still wet\nEvery year they ask me what I'm going to be\nI haven't decided yet\n\n[Pre-Chorus: bass enters, strings climb]\nStaring at the cursor, blinking like a dare\nNobody else can put me there\n\n[Chorus: full band, open, voice soars]\nI'm still a first draft\nCross it out and start again\nInk on my fingers, sky in my head\nNo one's read the ending 'cause the ending isn't penned\nLet the wind come through the pages\nLet them turn\nI'm still a first draft\nAnd I'm good with that\n\n[Verse 2: warm, a little bolder]\nI've got chapters that I'd rather you would skip\nA few I wrote in pencil, in a mood\nThere's a coffee ring on thirty-five\nAnd a page where I was rude\n\n[Pre-Chorus: bass and strings climb]\nStaring at the margin, something I can't name\nNobody gets to hold the pen the same\n\n[Chorus: full band, open, voice soars]\nI'm still a first draft\nCross it out and start again\nInk on my fingers, sky in my head\nNo one's read the ending 'cause the ending isn't penned\nLet the wind come through the pages\nLet them turn\nI'm still a first draft\nAnd I'm good with that\n\n[Bridge: gospel choir enters, handclaps, lead ad-libs]\n(Not finished, not finished, not finished yet)\nI've been waiting on a perfect line\n(Not finished, not finished, not finished yet)\nTurns out the messy ones are mine\n(Not finished, not finished, not finished yet)\n\n[Final Chorus: choir and lead together, key hits, tambourine]\nI'm still a first draft\nCross it out and start again\nInk on my fingers, sky in my head\nNo one's read the ending 'cause the ending isn't penned\nLet the wind come through the pages\nLet them turn\nI'm still a first draft\nAnd I'm good with that\n\n[Outro: choir alone, claps, a pen scratching]\n(Not finished, not finished, not finished yet)",
+  "style": "2004 British pop soul, warm slightly husky female vocal with an English accent, relaxed conversational verses and an open soaring chorus, mixed gospel choir joining for the bridge and final chorus, 100 BPM, F major, easy bright and lifting, steadily strummed acoustic guitar, plucked and bowed string stabs in a hip-hop rhythm, simple crisp drums, round bass, handclaps, tambourine, Hammond organ, electric piano, clean sunny organic mix, encouraging, hopeful, joyful",
+  "negativeTags": "male lead vocals, distorted guitar, dark mood, heavy metal, trap hi-hats, autotune, EDM drop",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

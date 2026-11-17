@@ -1,0 +1,115 @@
+{
+  "id": "e00_01",
+  "title": "Mister Unbothered",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 1,
+  "slug": "e00_01_mister_unbothered",
+  "inspiredBy": "Mr. Brightside (The Killers, 2003)",
+  "leadVoice": "Male tenor, urgent and slightly strained, as if singing while running. Verses are tumbling and breathless with no gaps between lines. The chorus is held high and pushed. Doubled in the chorus. No harmonies until the outro.",
+  "model": "V6",
+  "style": "2004 indie rock with new wave synths, urgent strained male tenor vocal, breathless tumbling verses and a high soaring chorus, 148 BPM, D-flat major, fast bright relentless, chiming electric guitar playing a rapid climbing single-note riff throughout, big ringing second guitar chords, driving eighth-note bass, glossy synth pad and string-synth line, tight fast drums with busy hi-hats, half-time pre-chorus, dense bright compressed mix, anxious, euphoric, anthemic, crowd singalong",
+  "negativeTags": "female lead vocals, rap, slow ballad, acoustic guitar, trap hi-hats, autotune, EDM drop, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: chiming fast electric guitar riff alone, then driving bass]\n\n[Verse 1: urgent, breathless, drums enter]\nBack in the kitchen and I'm perfectly okay\nFed the cat and put the day away\nIt started with a ping, a little lit-up square\nNow I'm picturing a room and I'm not in there\nAnd he's leaning in and you're tucking your hair\nAnd the playlist's on, the one that we share\nAnd somebody laughs and it's going so well\nAnd I can't breathe and I'm fine, can't you tell?\n\n[Pre-Chorus: half-time, synth pad swells]\nBut it's only my head\nIt's only my head\nPainting it in\nPainting it red\n\n[Chorus: full band, soaring, guitar riff on top]\nParanoia\nTurning water into fire\nDrowning in a lullaby\nCall me Mister Unbothered\nI'm calm, I'm cool, I'm clawing at the sky\n'Cause I'm Mister Unbothered\n\n[Verse 2: identical words, more desperate]\nBack in the kitchen and I'm perfectly okay\nFed the cat and put the day away\nIt started with a ping, a little lit-up square\nNow I'm picturing a room and I'm not in there\nAnd he's leaning in and you're tucking your hair\nAnd the playlist's on, the one that we share\nAnd somebody laughs and it's going so well\nAnd I can't breathe and I'm fine, can't you tell?\n\n[Pre-Chorus: half-time, synth pad swells]\nBut it's only my head\nIt's only my head\nPainting it in\nPainting it red\n\n[Chorus: full band, soaring, guitar riff on top]\nParanoia\nTurning water into fire\nDrowning in a lullaby\nCall me Mister Unbothered\nI'm calm, I'm cool, I'm clawing at the sky\n'Cause I'm Mister Unbothered\n\n[Outro: band at full tilt, one phrase repeated, sudden stop]\nI'm fine\nI'm fine\nI'm fine\nI'm fine\nI'm fine\nI'm fine",
+  "taskId": "98c390283dd33c7d5e79b20f3a4e2247",
+  "sunoClipIds": [
+    "0d3e184c-e008-4293-85cd-33b5f2d255a3",
+    "a3e5a44b-44cf-4b7f-b83d-34f273e5c7e9"
+  ],
+  "created": "Nov 17, 2026 10:17 AM ET",
+  "createTimeMs": 1794928676695,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0d3e184c-e008-4293-85cd-33b5f2d255a3",
+      "durationSec": 234.0,
+      "file": "twothousands/e00_01_mister_unbothered_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a3e5a44b-44cf-4b7f-b83d-34f273e5c7e9",
+      "durationSec": 234.16,
+      "file": "twothousands/e00_01_mister_unbothered_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_01_mister_unbothered_req.json",
+    "twothousands/e00_01_mister_unbothered_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_01_mister_unbothered.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_01_mister_unbothered.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 148 BPM, 4/4, D-flat major. Fast, bright and relentless. It starts at full speed and never eases off.\n\nVOICE: Male tenor, urgent and slightly strained, as if singing while running. Verses are tumbling and breathless with no gaps between lines. The chorus is held high and pushed. Doubled in the chorus. No harmonies until the outro.\n\nINSTRUMENTS: A chiming electric guitar playing a rapid, climbing single-note riff that never stops. A second guitar on big ringing chords. Bass playing driving eighth notes. A glossy synth pad and a string-like synth line in the chorus. Tight, fast drums with busy hi-hats and a snare on every backbeat.\n\nARRANGEMENT MAP: 0:00 Intro, the guitar riff alone, bass joins after two bars. 0:13 Verse 1, drums in. 0:39 Pre-chorus in half time. 0:52 Chorus 1. 1:18 Riff, 4 bars. 1:24 Verse 2, the same words, sung harder. 1:50 Pre-chorus. 2:03 Chorus 2. 2:29 Instrumental, the riff with the synth line. 2:42 Chorus repeated. 3:08 Outro, the last phrase six times over the full band, then a dead stop at 3:35.\n\nPRODUCTION & MIX: Early-2000s indie rock with new-wave gloss: bright, dense and slightly over-compressed, guitars wide, synths shining over the top.\n\nSIGNATURE MOMENT: The guitar riff in the first two seconds, before anything else enters.\n\nMODERN POINT OF VIEW: The trigger is a notification, the scene is a kitchen, and the narrator has a cat to feed. The spiral is the same at forty as it was at twenty, and the outro says the quiet part out loud six times.\n\nEMOTIONAL ARC: Forced calm, spiral, denial, and denial again.",
+  "workbookAtAGlance": "Mister Unbothered\n\nBackup titles\nI'm Fine, Can't You Tell / A Little Lit-Up Square\n\nAt a glance\n148 BPM, D-flat major\nVoice: Urgent male tenor, strained\nLength: about 3 minutes 40",
+  "year": 2003,
+  "qa": {
+    "title": "Mister Unbothered",
+    "id": "e00_01",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.0,
+        "measuredBpm": 152.0,
+        "bpmFactor": 1,
+        "targetBpm": 148,
+        "bpmErrPct": 2.7,
+        "lufs": -13.6,
+        "peakDbfs": -1.66,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 231.8,
+        "vocalCoverage": 0.618,
+        "vocalSpanSec": [
+          29.0,
+          216.0
+        ],
+        "vocalF0MedianHz": 349,
+        "vocalF0P25Hz": 311,
+        "lyricLineRecall": 0.824,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.2,
+        "measuredBpm": 152.0,
+        "bpmFactor": 1,
+        "targetBpm": 148,
+        "bpmErrPct": 2.7,
+        "lufs": -12.6,
+        "peakDbfs": -0.44,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 231.9,
+        "vocalCoverage": 0.592,
+        "vocalSpanSec": [
+          28.5,
+          225.3
+        ],
+        "vocalF0MedianHz": 372,
+        "vocalF0P25Hz": 297,
+        "lyricLineRecall": 0.824,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "New Wave"
+}

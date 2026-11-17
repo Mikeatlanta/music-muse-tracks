@@ -1,0 +1,115 @@
+{
+  "id": "e00_19",
+  "title": "Windshield Vipers",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 19,
+  "slug": "e00_19_windshield_vipers",
+  "inspiredBy": "Seven Nation Army (The White Stripes, 2003)",
+  "leadVoice": "Male, high, raw and nasal, with a blues yelp at the top. Verses are muttered close to the microphone, almost conspiratorial. Verse 2 is shouted. A crowd chants the riff on a wordless syllable, recorded to sound like a stadium.",
+  "model": "V6",
+  "style": "2003 garage rock blues-punk duo, raw high nasal male vocal with a blues yelp, muttered verses and shouted lines, stadium crowd chanting the riff on a wordless syllable, 124 BPM, E minor, stalking stomping march, one electric guitar through an octave-down effect sounding like a bass playing a slow simple riff, heavy fuzz distortion on the riff sections, screaming slide guitar solo, deliberately simple drums with kick on every beat and crashing cymbals, no bass guitar, raw dry loud tape-recorded mix, menacing, defiant",
+  "negativeTags": "synthesizer, keyboards, piano, female lead vocals, polished pop, autotune, EDM, strings, rap",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: low guitar riff alone, like a bass, then stomping kick]\n\n[Verse 1: muttered, close, riff and kick drum only]\nEverybody in this town has got a mouth and half a story\nPassing it from porch to porch like plates of someone's glory\nI heard it at the gas pump, I heard it in the pew\nBy the time it got to me I didn't know that it was you\n\n[Riff Chorus: distorted guitar plays the riff, crowd chants it]\nOh, oh-oh-oh oh, oh\nOh, oh-oh-oh oh, oh\nAnd the windshield vipers go\nBack and forth, back and forth\n\n[Verse 2: louder, yelping, cymbals crash]\nSo I'm going to load the car up with a blanket and a thermos\nDrive until the radio forgets the way to find us\nLet them have the gossip, let them have the square\nI'll be somewhere in the weather with the rain in my hair\n\n[Riff Chorus: distorted guitar plays the riff, crowd chants it]\nOh, oh-oh-oh oh, oh\nOh, oh-oh-oh oh, oh\nAnd the windshield vipers go\nBack and forth, back and forth\n\n[Guitar Solo: slide guitar, screaming and simple, over the riff]\n\n[Verse 3: quiet again, almost spoken, riff and kick]\nWhen I was five I thought the wipers were alive\nTwo thin snakes that kept the weather off the drive\nNow I'm older and I know what things are called\nBut I liked it better when the world was strange and tall\n\n[Final Riff Chorus: loudest, crowd chant, crashing drums]\nOh, oh-oh-oh oh, oh\nOh, oh-oh-oh oh, oh\nAnd the windshield vipers go\nBack and forth, back and forth\nOh, oh-oh-oh oh, oh\nOh, oh-oh-oh oh, oh\n\n[Outro: riff alone again, rain, wipers, stop]\nBack and forth",
+  "taskId": "1ce285b2c8008436008e0f23d4790fc5",
+  "sunoClipIds": [
+    "112d8a73-412f-447e-a9ef-e2b20f0eb2a5",
+    "d9a0cfcd-76aa-4ac4-88d9-196449697a7b"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928778880,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "112d8a73-412f-447e-a9ef-e2b20f0eb2a5",
+      "durationSec": 244.88,
+      "file": "twothousands/e00_19_windshield_vipers_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d9a0cfcd-76aa-4ac4-88d9-196449697a7b",
+      "durationSec": 239.72,
+      "file": "twothousands/e00_19_windshield_vipers_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_19_windshield_vipers_req.json",
+    "twothousands/e00_19_windshield_vipers_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_19_windshield_vipers.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_19_windshield_vipers.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, E minor. A stalking, stomping march. Menacing in the verses, explosive in the riff sections.\n\nVOICE: Male, high, raw and nasal, with a blues yelp at the top. Verses are muttered close to the microphone, almost conspiratorial. Verse 2 is shouted. A crowd chants the riff on a wordless syllable, recorded to sound like a stadium.\n\nINSTRUMENTS: One electric guitar run through an octave-down effect so it sounds like a bass, playing a slow riff of a few notes. The same guitar with heavy fuzz distortion for the riff sections, and with a slide for the solo. A drum kit played with deliberate simplicity: a kick on every beat, then crashing cymbals and a pounding floor tom. No bass guitar. Nothing else.\n\nARRANGEMENT MAP: 0:00 Intro, the riff alone, then the kick. 0:16 Verse 1. 0:47 Riff chorus 1, distortion and chant. 1:10 Verse 2, louder. 1:41 Riff chorus 2. 2:04 Slide guitar solo over the riff. 2:27 Verse 3, dropped back to riff and kick. 2:58 Final riff chorus, twice as long. 3:29 Outro, the low riff alone, rain and wipers, stopping at 3:42.\n\nPRODUCTION & MIX: Early-2000s garage rock recorded to tape: raw, dry and loud, two instruments in a room, no polish and no overdubs beyond the chant.\n\nSIGNATURE MOMENT: The riff alone in the first four seconds.\n\nMODERN POINT OF VIEW: Verse 3 looks back at a five-year-old's version of the world and prefers it. The gossip of the original is updated only lightly, because it has not changed.\n\nEMOTIONAL ARC: Irritation, defiance, escape, and a moment of wonder.",
+  "workbookAtAGlance": "Windshield Vipers\n\nBackup titles\nA Mouth and Half a Story / Back and Forth\n\nAt a glance\n124 BPM, E minor\nVoice: Raw high male voice, yelping\nLength: about 3 minutes 45",
+  "year": 2003,
+  "qa": {
+    "title": "Windshield Vipers",
+    "id": "e00_19",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.9,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 0.8,
+        "lufs": -14.2,
+        "peakDbfs": -1.01,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 244.2,
+        "vocalCoverage": 0.491,
+        "vocalSpanSec": [
+          18.2,
+          243.5
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 235,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 239.7,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 0.8,
+        "lufs": -13.5,
+        "peakDbfs": -0.26,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 238.5,
+        "vocalCoverage": 0.491,
+        "vocalSpanSec": [
+          18.2,
+          238.4
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 235,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Garage Rock"
+}

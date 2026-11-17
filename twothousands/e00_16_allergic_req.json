@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Allergic",
+  "prompt": "[Intro: shrieking high string stabs, twangy surf guitar, fast beat]\n\n[Verse 1: breathy, close, half whispered]\nDoctor, doctor, I've been reading all the signs\nHives on my good sense, itching in my mind\nEvery time you call me I come up in a rash\nEvery time I answer I'm a little more attached\n\n[Pre-Chorus: bass drops out, voice rises]\nI should stay away\nFar, far away\nBut I keep leaning in\n\n[Chorus: high falsetto, strings shriek between lines]\nI'm allergic to you\nBreaking out and I can't stop\nOne more look and my heart goes pop\nAllergic, allergic\nAnd I keep coming back for more\nSomebody tell me what the pills are for\n\n[Verse 2: breathy, playful, surf guitar answers]\nRead the label, read it twice, it said avoid\nMy friends all say there's something for it, I say I'm paranoid\nGot a fever, got a flutter, got a tingle in my hands\nGot an appointment Thursday and a whole lot of other plans\n\n[Pre-Chorus: bass drops out, voice rises]\nI should stay away\nFar, far away\nBut I keep leaning in\n\n[Chorus: high falsetto, strings shriek between lines]\nI'm allergic to you\nBreaking out and I can't stop\nOne more look and my heart goes pop\nAllergic, allergic\nAnd I keep coming back for more\nSomebody tell me what the pills are for\n\n[Bridge: beat halves, wordless falsetto, strings slide down]\nAh, ah-ah, ah\nI'm old enough to know\nAh, ah-ah, ah\nAnd I still go\n\n[Breakdown: surf guitar solo, handclaps]\n\n[Final Chorus: everything, extra string line, ad-libs]\nI'm allergic to you\nBreaking out and I can't stop\nOne more look and my heart goes pop\nAllergic, allergic\nAnd I keep coming back for more\nSomebody tell me what the pills are for\nI'm allergic to you\n\n[Outro: string stab, a sneeze, a giggle]",
+  "style": "2003 electro-pop dance, breathy close half-whispered female vocal in the verses, thin bright layered falsetto chorus, wordless falsetto bridge, 143 BPM, C minor, fast tense slinky spy-film feel, high orchestral strings playing short shrieking sliding stabs in a Bollywood film style, twangy reverb-heavy surf electric guitar, fast tight electronic drums, driving synth bass, handclaps, short surf guitar solo, bright tight dense mix, playful, seductive, urgent",
+  "negativeTags": "male lead vocals, slow ballad, heavy metal guitar, acoustic folk, trap hi-hats, dubstep, saxophone",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Best Part's the Before",
+  "prompt": "[Intro: one bright guitar chord pulsing, filtered synth rising]\n\n[Verse 1: male lead, lightly tuned, no drums yet]\nI've got a hunch about the evening\nThe mirror says we're looking right\nSomebody's ironing in the hallway\nSomebody's singing to the light\n\n[Chorus: group vocals, kick drum enters]\nThe best part's the before\nShoes by the door\nSomebody's playlist, somebody pour\nWe haven't even left yet\nAnd I couldn't ask for more\nThe best part's the before\n\n[Verse 2: female lead, full beat, claps]\nThe cab's been waiting twenty minutes\nMy sister's on her second dress\nThere's glitter on the bathroom ceiling\nAnd I don't want to clean this mess\n\n[Chorus: group vocals, full beat, synth stabs]\nThe best part's the before\nShoes by the door\nSomebody's playlist, somebody pour\nWe haven't even left yet\nAnd I couldn't ask for more\nThe best part's the before\n\n[Chant: counting the hours, everyone shouting]\nFive o'clock (what?) six o'clock (what?)\nSeven, eight, nine and we're still not out the door\nTen o'clock (what?) who cares (what?)\nTurn it up and do it all once more\n\n[Bridge: beat drops out, toast, glasses clinking]\nFill it up (fill it up)\nRaise it high (raise it high)\nSalud, cheers, skol, slainte\nTo the ones who showed up tonight\n\n[Build: snare roll, synth rising, one line repeated]\nWe haven't even left yet\nWe haven't even left yet\nWe haven't even left yet\n\n[Final Chorus: biggest, everyone, synths wide open]\nThe best part's the before\nShoes by the door\nSomebody's playlist, somebody pour\nWe haven't even left yet\nAnd I couldn't ask for more\nThe best part's the before\nThe best part's the before\n\n[Outro: guitar chord alone, door slam, car horn]\nOkay. Now we can go.",
+  "style": "2009 electro-pop party anthem, mixed group vocals, smooth lightly pitch-corrected male lead and bright brassy female lead, everyone shouting the choruses and chants with crowd replies, 128 BPM, G major, same four chords throughout, building in stages, clean electric guitar pulsing bright chords, filtered synth opening up, four-on-the-floor house kick, claps, off-beat hi-hats, big saw-wave synth bass, wide synth stabs, beatless toast bridge, snare-roll build, glossy loud wide mix, joyful, rising, communal",
+  "negativeTags": "distorted guitar, slow ballad, dark mood, acoustic folk, trap hi-hats, heavy metal, saxophone",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 240,
+  "callBackUrl": "https://example.com/cb"
+}

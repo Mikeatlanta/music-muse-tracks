@@ -1,0 +1,125 @@
+{
+  "id": "e00_11",
+  "title": "Camera Off",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 11,
+  "slug": "e00_11_camera_off",
+  "inspiredBy": "Poker Face (Lady Gaga, 2008)",
+  "leadVoice": "Female lead with a low, dark, slightly androgynous tone in the verses, delivered half spoken with a raised eyebrow. A bigger, brighter, belted sound in the chorus, layered many times. A pitched-down robotic male-sounding voice performs the chant. The bridge is spoken flat and deadpan.",
+  "model": "V6",
+  "style": "2008 electro-pop dance, low dark cool female lead vocal half spoken in the verses, bright belted layered chorus with a stuttered consonant hook, pitched-down robotic voice chant, deadpan spoken bridge, 119 BPM, G-sharp minor, stomping mechanical dance pulse, thick buzzing pulsing synth bass, hard four-on-the-floor kick with sharp clap, staccato synth stabs, bright detuned lead synth, noise sweeps, no acoustic instruments, hard glossy compressed mix, sly, theatrical, catchy",
+  "negativeTags": "acoustic guitar, live drums, male lead vocals, slow ballad, rock guitar, trap hi-hats, saxophone",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 230,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: robotic low chant, pulsing synth bass, four-on-the-floor kick]\nCam, cam, cam, ah\nCam, cam, cam, ah\n\n[Verse 1: low, half spoken, cool]\nI can run a meeting with a storm inside my chest\nNod along and take the notes and tell them I'm impressed\nLittle green light watching and I'm framed from here to here\nWhat you can't see can't hurt me, dear\n\n[Pre-Chorus: synths rise, voice lifts]\nOh, oh-oh-oh\nI'll smile until the hour's up\nOh, oh-oh-oh\nAnd then I'll come undone\n\n[Chorus: big, stacked vocals, stuttered hook]\nYou'll never see, never see\nWhat I'm doing with my c-c-camera off\n(Muted, I'm muted)\nC-c-camera off, c-c-camera off\n(Muted, I'm muted)\nC-c-camera off, c-c-camera off\n\n[Verse 2: low, half spoken, a little wicked]\nYou ask me how I'm feeling and I tell you that I'm fine\nI've got a perfect background and a ring light and a line\nBut if you saw the kitchen, if you saw the state of me\nI'm crying or I'm dancing or it's secret number three\n\n[Pre-Chorus: synths rise, voice lifts]\nOh, oh-oh-oh\nI'll smile until the hour's up\nOh, oh-oh-oh\nAnd then I'll come undone\n\n[Chorus: big, stacked vocals, stuttered hook]\nYou'll never see, never see\nWhat I'm doing with my c-c-camera off\n(Muted, I'm muted)\nC-c-camera off, c-c-camera off\n(Muted, I'm muted)\nC-c-camera off, c-c-camera off\n\n[Bridge: beat drops to kick and bass, spoken deadpan]\nIs she crying?\nIs she dancing?\nIs she even wearing shoes?\nYou'll never know\nYou'll never know\n\n[Chant: robotic voices, building, claps]\nCam, cam, cam, ah\nCam, cam, cam, ah\nCam, cam, cam, ah\n\n[Final Chorus: everything, ad-libs, extra synth lead]\nYou'll never see, never see\nWhat I'm doing with my c-c-camera off\n(Muted, I'm muted)\nC-c-camera off, c-c-camera off\n(Muted, I'm muted)\nC-c-camera off, c-c-camera off\n\n[Outro: chant alone, a call-ending tone]\nCam, cam, cam, ah",
+  "taskId": "bdae7d06168fba22749ce229fa755dd6",
+  "sunoClipIds": [
+    "b24bed1d-6352-4510-a4af-1eaed24a8219",
+    "401643d7-566d-4aa1-81e0-e4378ec1b329"
+  ],
+  "created": "Nov 17, 2026 10:18 AM ET",
+  "createTimeMs": 1794928719342,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "b24bed1d-6352-4510-a4af-1eaed24a8219",
+      "durationSec": 229.6,
+      "file": "twothousands/e00_11_camera_off_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "401643d7-566d-4aa1-81e0-e4378ec1b329",
+      "durationSec": 229.96,
+      "file": "twothousands/e00_11_camera_off_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_11_camera_off_req.json",
+    "twothousands/e00_11_camera_off_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_11_camera_off.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_11_camera_off.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 119 BPM, 4/4, G-sharp minor. A stomping, mechanical dance pulse. Cool, sly and theatrical.\n\nVOICE: Female lead with a low, dark, slightly androgynous tone in the verses, delivered half spoken with a raised eyebrow. A bigger, brighter, belted sound in the chorus, layered many times. A pitched-down robotic male-sounding voice performs the chant. The bridge is spoken flat and deadpan.\n\nINSTRUMENTS: A thick, buzzing synth bass playing a pulsing pattern. A hard four-on-the-floor kick with a sharp clap. Staccato synth stabs. A bright, slightly detuned lead synth in the chorus. Filtered noise sweeps. Almost no acoustic sounds at all.\n\nARRANGEMENT MAP: 0:00 Intro, the robotic chant over kick and bass. 0:16 Verse 1. 0:32 Pre-chorus. 0:48 Chorus 1 with the stutter. 1:12 Verse 2. 1:28 Pre-chorus. 1:44 Chorus 2. 2:08 Bridge, kick and bass, spoken. 2:24 Chant, building with claps. 2:36 Final chorus with ad-libs and an extra synth line. 3:08 Outro, the chant alone, ending on a video-call hang-up tone at 3:30.\n\nPRODUCTION & MIX: Late-2000s electro-pop: hard, glossy and compressed, bass and kick dominant, vocals processed and wide.\n\nSIGNATURE MOMENT: The first stutter on the title in the chorus at 0:52.\n\nMODERN POINT OF VIEW: The mask is a video call. The song's joke and its sadness are both familiar to anyone who has kept a camera off, and the secret is left for each listener to name.\n\nEMOTIONAL ARC: Control, mischief, a glimpse of strain, control again.",
+  "workbookAtAGlance": "Camera Off\n\nBackup titles\nFramed From Here to Here / One of Three\n\nAt a glance\n119 BPM, G-sharp minor\nVoice: Low cool female lead, robotic chant\nLength: about 3 minutes 35",
+  "year": 2008,
+  "qa": {
+    "title": "Camera Off",
+    "id": "e00_11",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 229.6,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 119,
+        "bpmErrPct": 3.4,
+        "lufs": -13.6,
+        "peakDbfs": -0.51,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 227.4,
+        "vocalCoverage": 0.609,
+        "vocalSpanSec": [
+          0.1,
+          219.0
+        ],
+        "vocalF0MedianHz": 245,
+        "vocalF0P25Hz": 207,
+        "lyricLineRecall": 0.733,
+        "lyricUnclearSections": [
+          "Intro",
+          "Chant",
+          "Outro"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 230.0,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 119,
+        "bpmErrPct": 3.4,
+        "lufs": -13.5,
+        "peakDbfs": -0.54,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 228.4,
+        "vocalCoverage": 0.778,
+        "vocalSpanSec": [
+          0.2,
+          228.5
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 207,
+        "lyricLineRecall": 0.644,
+        "lyricUnclearSections": [
+          "Intro",
+          "Chant",
+          "Outro"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

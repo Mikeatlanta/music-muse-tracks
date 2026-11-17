@@ -1,0 +1,119 @@
+{
+  "id": "e00_13",
+  "title": "Okay!",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 13,
+  "slug": "e00_13_okay",
+  "inspiredBy": "Yeah! (Usher feat. Lil Jon & Ludacris, 2004)",
+  "leadVoice": "Three men. A smooth R&B tenor who sings the verses lightly and quickly, with little runs at the ends of lines. A hype man with a hoarse shout who yells the hook word and the ad-libs. A guest rapper with a fast, bouncing, comic delivery and exaggerated consonants. A crowd repeats the hook.",
+  "model": "V6",
+  "style": "2004 Atlanta crunk and R&B club anthem, smooth male R&B tenor singing quick light verses with runs, hoarse shouting hype man yelling a one-word hook and ad-libs, fast comic male guest rap verse, crowd answering, 105 BPM, G minor, hard bouncing club groove, high piercing three-note synth figure repeating throughout, heavy 808 kick and sub-bass, loud layered handclaps, whistle synth, sparse string stabs, soft half-time bridge, enormous low end, dry upfront vocals, rowdy, funny, energetic",
+  "negativeTags": "female lead vocals, acoustic guitar, rock drums, slow ballad, EDM drop, dubstep, saxophone, country",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: three-note synth whistle riff, heavy claps, hype man shouts]\nOkay! Okay!\nLet's go\n\n[Verse 1: smooth male tenor, sung low and quick]\nI was heading for the exit with my jacket on my arm\nSaid I'd be in bed by ten, I set a real alarm\nThen the lights went low and the bass came through the floor\nAnd my boy said \"one more song,\" and I said\n\n[Chorus: shouted hook, the crowd answers]\nOkay! (Okay!)\nShe said \"you dancing?\" I said okay! (Okay!)\nOne more hour? Okay! (Okay!)\nI'll regret it in the morning and that's okay\nOkay, okay, okay\n\n[Verse 2: smooth male tenor, more playful]\nNow I've got a meeting and a dentist and a plan\nI've been so responsible I don't know who I am\nBut the DJ's got a record that I haven't heard in years\nAnd my feet have made a motion and my common sense agrees\n\n[Chorus: shouted hook, the crowd answers]\nOkay! (Okay!)\nShe said \"you dancing?\" I said okay! (Okay!)\nOne more hour? Okay! (Okay!)\nI'll regret it in the morning and that's okay\nOkay, okay, okay\n\n[Rap Verse: fast male guest, comic, beat strips to bass and claps]\nI got a babysitter billing by the minute and I'm in it\nTold her back by half past ten and now I'm pushing every limit\nGot a text that says \"where are you,\" got a tab I didn't open\nGot a knee that isn't working and a hip that's barely coping\nBut I'm sliding to the left like it's two thousand and four\nSomebody call my chiropractor, tell him clear the floor\nIf you came here with your coat on, go ahead and check it\nIf you said you're leaving early, then you already wrecked it\n\n[Bridge: half-time, sung softly, pad and finger snaps]\nBeen saying no so long\nI forgot the other word\nSomebody asked me nicely\nAnd this is what they heard\n\n[Final Chorus: everyone, synth riff louder, whistles]\nOkay! (Okay!)\nShe said \"you dancing?\" I said okay! (Okay!)\nOne more hour? Okay! (Okay!)\nI'll regret it in the morning and that's okay\nOkay, okay, okay\n\n[Outro: synth riff alone, an alarm going off, laughter]\nOkay",
+  "taskId": "0dc599154b3964b4c8471f15ac22da26",
+  "sunoClipIds": [
+    "23c4ed8e-106a-41c6-92d4-8aa6f8b40092",
+    "2bf3b438-462d-4068-82e0-ed2a15f60a1b"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928740344,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "23c4ed8e-106a-41c6-92d4-8aa6f8b40092",
+      "durationSec": 186.76,
+      "file": "twothousands/e00_13_okay_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "2bf3b438-462d-4068-82e0-ed2a15f60a1b",
+      "durationSec": 244.0,
+      "file": "twothousands/e00_13_okay_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_13_okay_req.json",
+    "twothousands/e00_13_okay_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_13_okay.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_13_okay.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 105 BPM, 4/4, G minor. A hard, bouncing club groove with a lot of low end. Loud and funny.\n\nVOICE: Three men. A smooth R&B tenor who sings the verses lightly and quickly, with little runs at the ends of lines. A hype man with a hoarse shout who yells the hook word and the ad-libs. A guest rapper with a fast, bouncing, comic delivery and exaggerated consonants. A crowd repeats the hook.\n\nINSTRUMENTS: A high, piercing synth playing a three-note figure that repeats for the whole song. Heavy 808 kick and bass. Loud layered handclaps. A whistle-like second synth. Sparse string stabs. A soft pad and finger snaps in the bridge. An alarm tone at the end.\n\nARRANGEMENT MAP: 0:00 Intro, the synth figure, claps and shouts. 0:14 Verse 1. 0:36 Chorus 1. 0:55 Verse 2. 1:17 Chorus 2. 1:36 Rap verse, eight lines over bass and claps. 2:00 Bridge, half time and sung softly. 2:18 Final chorus, twice through. 2:56 The synth figure rides with ad-libs. 3:30 Outro, the synth alone, an alarm clock, laughter, one word at 3:45.\n\nPRODUCTION & MIX: Mid-2000s Atlanta crunk-and-R&B: enormous sub-bass, bright piercing synth, claps wide, vocals dry and upfront.\n\nSIGNATURE MOMENT: The synth figure with the first shout in the opening two seconds.\n\nMODERN POINT OF VIEW: The temptation is to stay out past ten. The narrator has a dentist appointment and a babysitter, and the bridge says what is really going on: he had forgotten how to say yes.\n\nEMOTIONAL ARC: Resistance, surrender, comedy, a moment of truth, celebration.",
+  "workbookAtAGlance": "Okay!\n\nBackup titles\nA Real Alarm / Billing by the Minute\n\nAt a glance\n105 BPM, G minor\nVoice: Smooth male tenor, shouting hype man, fast guest rap\nLength: about 3 minutes 50",
+  "year": 2004,
+  "qa": {
+    "title": "Okay!",
+    "id": "e00_13",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "short (3:06 vs 4:05 requested)",
+          "ending cut at the length limit (last chord clipped)",
+          "peak 0.27 dBFS (3 clipped sample, inaudible)"
+        ],
+        "durationSec": 186.8,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 105,
+        "bpmErrPct": 1.6,
+        "lufs": -13.8,
+        "peakDbfs": 0.27,
+        "clipSamples": 3,
+        "midGaps": [],
+        "endFadeSec": 0.0,
+        "contentEndSec": 186.7,
+        "vocalCoverage": 0.716,
+        "vocalSpanSec": [
+          0.1,
+          174.8
+        ],
+        "vocalF0MedianHz": 427,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.938,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.0,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 105,
+        "bpmErrPct": 1.6,
+        "lufs": -13.4,
+        "peakDbfs": -0.43,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.5,
+        "contentEndSec": 242.9,
+        "vocalCoverage": 0.62,
+        "vocalSpanSec": [
+          0.1,
+          242.5
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.969,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "R&B"
+}

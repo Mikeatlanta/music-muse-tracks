@@ -1,0 +1,117 @@
+{
+  "id": "e00_20",
+  "title": "Herding Clouds",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 20,
+  "slug": "e00_20_herding_clouds",
+  "inspiredBy": "Chasing Cars (Snow Patrol, 2006)",
+  "leadVoice": "Male tenor, soft, plain and close, with a gentle Northern Irish colour to the vowels. Almost no vibrato. He does not raise his voice until the final chorus, where he sings at full chest strength, then returns to a near-spoken murmur.",
+  "model": "V6",
+  "style": "2006 anthemic indie rock slow build, soft plain close male tenor vocal with almost no vibrato, murmured verses and a full-strength final chorus, 104 BPM, A major, three chords never changing, patient and still, clean electric guitar picking single repeated notes, second guitar an octave up, layers of ringing overdriven guitars arriving late, simple root-note bass, drums growing from a soft kick to crashing cymbals, strings fading in, glockenspiel, sudden drop to one guitar at the end, intimate then huge, tender, peaceful",
+  "negativeTags": "female lead vocals, rap, synth-pop, drum machine, fast tempo, trap hi-hats, autotune, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: one clean electric guitar, single repeated notes]\n\n[Verse 1: soft, close, guitar only]\nWe could do nothing\nWe could do it well\nTurn off the porch light\nDon't answer the bell\n\n[Verse 2: second guitar joins, still quiet]\nI don't have the right words\nI only have these\nThey're small and they're simple\nThey're \"stay with me, please\"\n\n[Chorus: bass and soft drums enter]\nCome lie down in the long grass\nLet the whole day slide\nWe'll just lie here herding clouds\nAnd let them all get by\n\n[Verse 3: fuller, steady kick drum]\nForget what we promised\nThe people we owe\nThe phone in the kitchen\nCan ring, let it go\n\n[Chorus: band building, strings begin]\nCome lie down in the long grass\nLet the whole day slide\nWe'll just lie here herding clouds\nAnd let them all get by\n\n[Verse 4: louder, the family saying explained]\nMy grandad had a saying that I never understood\n\"You're herding clouds, boy,\" and he meant it wasn't good\nBut I've done the useful things and I have got the scars\nAnd nothing ever felt as right as this, right where we are\n\n[Final Chorus: full band, crashing cymbals, voice at full strength]\nCome lie down in the long grass\nLet the whole day slide\nWe'll just lie here herding clouds\nAnd let them all get by\nCome lie down in the long grass\nLet the whole day slide\nWe'll just lie here herding clouds\n\n[Outro: everything stops, one guitar, voice almost spoken]\nWe could do nothing\nWe could do it well",
+  "taskId": "1a06c06ac357789800fa14687c8ed208",
+  "sunoClipIds": [
+    "d0224ebb-af65-41df-8345-18c38915a323",
+    "488c42a5-c042-4314-bc38-40dc65b5f63f"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928755344,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "d0224ebb-af65-41df-8345-18c38915a323",
+      "durationSec": 254.52,
+      "file": "twothousands/e00_20_herding_clouds_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "488c42a5-c042-4314-bc38-40dc65b5f63f",
+      "durationSec": 253.8,
+      "file": "twothousands/e00_20_herding_clouds_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_20_herding_clouds_req.json",
+    "twothousands/e00_20_herding_clouds_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_20_herding_clouds.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_20_herding_clouds.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, A major. Three chords, never changing. Patient and still, swelling to something very large and then back to nothing.\n\nVOICE: Male tenor, soft, plain and close, with a gentle Northern Irish colour to the vowels. Almost no vibrato. He does not raise his voice until the final chorus, where he sings at full chest strength, then returns to a near-spoken murmur.\n\nINSTRUMENTS: A clean electric guitar picking single repeated notes. A second guitar doubling it an octave up. Later, layers of ringing, overdriven guitars. Simple bass on root notes. Drums that begin as a soft kick and end with crashing cymbals. A string section that fades in during the second chorus. Glockenspiel in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, one guitar. 0:18 Verse 1. 0:37 Verse 2, second guitar. 0:55 Chorus 1, bass and soft drums. 1:14 Verse 3, steady kick. 1:32 Chorus 2, strings begin. 1:51 Instrumental build, guitars thickening. 2:09 Verse 4, louder, the saying explained. 2:37 Final chorus at full size, sung nearly twice through. 3:23 Outro, everything stops at once, one guitar and two murmured lines, ending at 3:55.\n\nPRODUCTION & MIX: Mid-2000s anthemic indie: clean and intimate at the start, a wide wall of sound at the end, with the vocal kept dry and close the whole way.\n\nSIGNATURE MOMENT: The sudden drop from the full band to one guitar at 3:23.\n\nMODERN POINT OF VIEW: Verse 4 is told by someone who has done the useful things and has the scars. Wasting a day is a decision made with full knowledge of what days are worth.\n\nEMOTIONAL ARC: Stillness, tenderness, defiance of the clock, stillness again.",
+  "workbookAtAGlance": "Herding Clouds\n\nBackup titles\nDo Nothing Well / Don't Answer the Bell\n\nAt a glance\n104 BPM, A major\nVoice: Soft male tenor, plain and close\nLength: about 4 minutes",
+  "year": 2006,
+  "qa": {
+    "title": "Herding Clouds",
+    "id": "e00_20",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.5,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 3.5,
+        "lufs": -14.2,
+        "peakDbfs": -2.44,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.8,
+        "contentEndSec": 252.6,
+        "vocalCoverage": 0.515,
+        "vocalSpanSec": [
+          17.4,
+          214.6
+        ],
+        "vocalF0MedianHz": 277,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 253.8,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 3.5,
+        "lufs": -13.9,
+        "peakDbfs": -0.88,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 252.5,
+        "vocalCoverage": 0.463,
+        "vocalSpanSec": [
+          17.4,
+          252.5
+        ],
+        "vocalF0MedianHz": 248,
+        "vocalF0P25Hz": 222,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Slower Deeper Kinder",
+  "prompt": "[Intro: vocoder robot voice alone, then massive synth chords]\nSlower, deeper\nKinder, longer\nSlower, deeper\nKinder, longer\n\n[Hook: vocoder and rapper together, pounding drums]\nWhat nearly broke me\nMade me softer\n(Slower, deeper, kinder, longer)\nWhat nearly broke me\nMade me softer\nI should have got here sooner\n\n[Verse 1: male rap, confident, synth bass]\nI used to sprint through the years like the finish was a prize\nSkipping breakfast, skipping birthdays, skipping blinks of my eyes\nHad a watch that cost a car and never knew the time\nHad a calendar so full it should have been a crime\nNow I take the long way, let the engine tick\nI've got nowhere to be and I'm getting there quick\nThey said \"what happened to the hunger?\" and I said \"I ate\"\nTurns out the thing I was chasing could wait\n\n[Hook: vocoder and rapper together, pounding drums]\nWhat nearly broke me\nMade me softer\n(Slower, deeper, kinder, longer)\nWhat nearly broke me\nMade me softer\nI should have got here sooner\n\n[Verse 2: male rap, more personal]\nMy phone says I averaged nine hours on a screen\nMy doctor says my numbers are the worst he's ever seen\nMy daughter drew a picture of the back of my head\nSo I put it on the fridge and then I went to bed\nWoke up with the sun like a thing that people do\nMade a breakfast with a vegetable, maybe even two\nI'm not saying I'm enlightened, I'm not saying I'm reformed\nI'm just saying that I noticed that the weather had warmed\n\n[Bridge: beat drops, vocoder alone over strings]\nSlower\nDeeper\nKinder\nLonger\nIs this thing still on?\n\n[Verse 3: male rap, half-time, relaxed]\nSo here's to going second, here's to letting people in\nHere's to losing on purpose so the kid can win\nUsed to want my name in lights across the sky\nNow I want it in a lunchbox note, signed \"love, your guy\"\n\n[Final Hook: biggest synths, choir, vocoder ad-libs]\nWhat nearly broke me\nMade me softer\n(Slower, deeper, kinder, longer)\nWhat nearly broke me\nMade me softer\nI should have got here sooner\n\n[Outro: vocoder alone, powering down]\nSlower\nSlower\nSlow",
+  "style": "2007 electro hip-hop stadium anthem, confident conversational male rapper, robotic flat vocoder voice chanting a four-word hook, rapper and vocoder layered together on the hook, choir pad at the end, 104 BPM, E-flat minor, heavy mechanical and grand, massive detuned saw-wave synth chords, pounding distorted kick and huge snare, buzzing synth bass, chopped filtered synth arpeggio, strings in the beatless bridge, half-time third verse, enormous bright compressed mix, no guitars, bold, wry, uplifting",
+  "negativeTags": "female lead vocals, acoustic guitar, electric guitar, slow ballad, country, saxophone, reggaeton",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 240,
+  "callBackUrl": "https://example.com/cb"
+}

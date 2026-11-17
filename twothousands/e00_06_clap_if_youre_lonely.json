@@ -1,0 +1,119 @@
+{
+  "id": "e00_06",
+  "title": "Clap If You're Lonely",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 6,
+  "slug": "e00_06_clap_if_youre_lonely",
+  "inspiredBy": "Hey Ya! (OutKast, 2003)",
+  "leadVoice": "Male tenor, elastic and playful, sliding between singing, shouting and a comic spoken aside. Backing vocals are the same voice stacked many times, plus a group of men and women for the call-and-response.",
+  "model": "V6",
+  "style": "2003 genre-blending funk pop with a 1960s TV-show energy, elastic playful male tenor vocal sliding between singing, shouting and spoken asides, the same voice stacked as backing vocals, group call-and-response, 159 BPM, G major, sprinting bright groove with a tripping short bar, hard-strummed acoustic guitar leading, constant handclaps, buzzing rubbery synth bass, dry fast simple drums, cheap combo organ, squiggly synth fills, dry bright crowded mix, joyful on top, lonely underneath, irresistible",
+  "negativeTags": "female lead vocals, slow ballad, heavy metal guitar, dark mood, trap hi-hats, autotune, EDM drop",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: count-in shout, acoustic guitar strum, handclaps]\nFive, six, seven, go\n\n[Verse 1: quick, bright, synth bass and drums]\nMy baby still laughs at the jokes I tell\nShe knows them all by heart and she laughs as well\nBut there's a little pause before the laugh comes in\nAnd I've been living in that pause since I don't know when\n\n[Chorus: stacked voices, claps on every answer]\nHey, clap (clap, clap)\nClap if you're lonely\nHey, clap (clap, clap)\nClap if you're only here for the beat\nHey, clap (clap, clap)\nLook at all those hands\n\n[Verse 2: quick, a little quieter underneath]\nWe built a life from a list on the fridge\nPaint and a mortgage and a dog named Midge\nEverything's working and the lawn is green\nSo what's this draught coming in between?\n\n[Aside: spoken, band keeps going]\nIs anybody hearing the words?\nNo? Okay.\nClap\n\n[Chorus: stacked voices, claps on every answer]\nHey, clap (clap, clap)\nClap if you're lonely\nHey, clap (clap, clap)\nClap if you're only here for the beat\nHey, clap (clap, clap)\nLook at all those hands\n\n[Breakdown: drums and bass only, call and response]\nLeft side of the room (present)\nRight side of the room (present)\nHands up if the house is quiet\n(Every single night)\nHands up if the house is quiet\n(Every single night)\n\n[Bridge: playful instruction, claps and organ]\nNow wind it like a disposable camera\nWind it, wind it\nWind it like a disposable camera\nWind it, wind it\nAnd flash\n\n[Final Chorus: everything, whoops, organ on top]\nHey, clap (clap, clap)\nClap if you're lonely\nHey, clap (clap, clap)\nClap if you're only here for the beat\nHey, clap (clap, clap)\nLook at all those hands\nLook at all those hands\n\n[Outro: guitar strum and claps, voices drop out one by one]\nClap\nClap",
+  "taskId": "9b1f936aa8a93b676e829d5e5ba62af5",
+  "sunoClipIds": [
+    "bd9f3cfd-abb9-40cd-89d4-3692dec32a4d",
+    "03a219f6-d8e5-496d-935f-6e88d08cbc7b"
+  ],
+  "created": "Nov 17, 2026 10:18 AM ET",
+  "createTimeMs": 1794928693105,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "bd9f3cfd-abb9-40cd-89d4-3692dec32a4d",
+      "durationSec": 233.6,
+      "file": "twothousands/e00_06_clap_if_youre_lonely_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "03a219f6-d8e5-496d-935f-6e88d08cbc7b",
+      "durationSec": 234.08,
+      "file": "twothousands/e00_06_clap_if_youre_lonely_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_06_clap_if_youre_lonely_req.json",
+    "twothousands/e00_06_clap_if_youre_lonely_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_06_clap_if_youre_lonely.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_06_clap_if_youre_lonely.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 159 BPM, 4/4 with one short two-beat bar in each cycle, so the pattern trips forward. G major. A sprint, bright and unstoppable.\n\nVOICE: Male tenor, elastic and playful, sliding between singing, shouting and a comic spoken aside. Backing vocals are the same voice stacked many times, plus a group of men and women for the call-and-response.\n\nINSTRUMENTS: A hard-strummed acoustic guitar leading the track. Constant handclaps. A buzzing, rubbery synth bass. A simple, dry, fast drum kit. A cheap-sounding combo organ. Squiggly synth fills. No electric guitar solo.\n\nARRANGEMENT MAP: 0:00 Intro, a shouted count and the strum with claps. 0:07 Verse 1. 0:27 Chorus 1. 0:47 Verse 2. 1:07 Aside, three spoken lines over the groove. 1:17 Chorus 2. 1:37 Instrumental with organ. 1:52 Breakdown, drums and bass with call-and-response. 2:17 Bridge, the camera instruction. 2:42 Final chorus with whoops. 3:12 Outro, the voices drop out until only strum and claps remain, ending at 3:35.\n\nPRODUCTION & MIX: Early-2000s genre-blur made to sound like a 1960s TV performance through modern speakers: dry, bright, mono-ish drums, voices crowded together.\n\nSIGNATURE MOMENT: The spoken aside at 1:07, when the singer checks whether anyone is listening and then gives up.\n\nMODERN POINT OF VIEW: The couple are settled, with a mortgage and a dog. The question is no longer whether love lasts but what a full, quiet house means. The obsolete gadget is now a disposable camera.\n\nEMOTIONAL ARC: Cheer, a crack in it, a shrug, and louder cheer.",
+  "workbookAtAGlance": "Clap If You're Lonely\n\nBackup titles\nLiving in the Pause / Wind It\n\nAt a glance\n159 BPM, G major\nVoice: Elastic male tenor, stacked backing voices\nLength: about 3 minutes 40",
+  "year": 2003,
+  "qa": {
+    "title": "Clap If You're Lonely",
+    "id": "e00_06",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 233.6,
+        "measuredBpm": 152.0,
+        "bpmFactor": 1,
+        "targetBpm": 159,
+        "bpmErrPct": 4.4,
+        "lufs": -13.3,
+        "peakDbfs": -1.11,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 232.0,
+        "vocalCoverage": 0.594,
+        "vocalSpanSec": [
+          8.1,
+          232.1
+        ],
+        "vocalF0MedianHz": 389,
+        "vocalF0P25Hz": 292,
+        "lyricLineRecall": 0.949,
+        "lyricUnclearSections": [
+          "Intro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.1,
+        "measuredBpm": 152.0,
+        "bpmFactor": 1,
+        "targetBpm": 159,
+        "bpmErrPct": 4.4,
+        "lufs": -14.2,
+        "peakDbfs": -0.4,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 233.6,
+        "vocalCoverage": 0.52,
+        "vocalSpanSec": [
+          4.0,
+          222.9
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.974,
+        "lyricUnclearSections": [
+          "Intro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Funk"
+}

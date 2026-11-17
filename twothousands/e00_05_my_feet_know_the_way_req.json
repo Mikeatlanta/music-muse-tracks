@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "My Feet Know the Way",
+  "prompt": "[Intro: bright trumpet fanfare, male hype voice, crowd whoops]\nLadies up, gentlemen too\nThis one is for the ones who thought they forgot\nDale\n\n[Verse 1: male voice, half rapped, congas and bass]\nI never really planned on getting up tonight\nMy knees filed a complaint and my back's not right\nBut she walked to the floor like the tide comes in\nAnd the room rearranged itself around her spin\n\n[Pre-Chorus: female lead, breathy, guitar plucks]\nOh, I haven't done this in so long\nBut the body keeps the song\n\n[Chorus: female lead, full band, trumpets answer]\nMy feet know the way (como?)\nMy feet know the way\nI can't remember names but I remember this sway\nMira, the head forgets, the heart delays\nBut my feet, my feet know the way\n\n[Verse 2: female lead, playful, percussion busy]\nAbuela in the kitchen with the radio high\nTaught me one-two-three before I learned to tie\nMy shoes, and now the years are on my hips\nBut the count comes back like a word to my lips\n\n[Pre-Chorus: female lead, breathy, guitar plucks]\nOh, I haven't done this in so long\nBut the body keeps the song\n\n[Chorus: female lead, full band, trumpets answer]\nMy feet know the way (como?)\nMy feet know the way\nI can't remember names but I remember this sway\nMira, the head forgets, the heart delays\nBut my feet, my feet know the way\n\n[Bridge: Spanish, drums and handclaps only, crowd joins]\nBaila, que la vida es corta\nBaila, que nadie nos mira\nY si nos miran, no importa\nBaila, baila, mi vida\n\n[Verse 3: male voice, hype, trumpets stab]\nFrom the east side to the islands, from the valley to the bay\nFor my mother and her sisters and the ones who went away\nPut your hand up if your people ever cleared a kitchen floor\nOne more time for mi gente, then we do it all once more\n\n[Final Chorus: both voices, trumpets on top, whistles]\nMy feet know the way (como?)\nMy feet know the way\nI can't remember names but I remember this sway\nMira, the head forgets, the heart delays\nBut my feet, my feet know the way\n\n[Outro: trumpet fanfare, laughter, last drum hit]\nOtra vez",
+  "style": "2006 Latin pop with reggaeton, cumbia and salsa percussion, agile slightly husky female lead vocal with quick head-voice flips, male hype voice half rapping and shouting ad-libs, English with Spanish lines, 100 BPM, B-flat minor, rolling physical dance groove, bright trumpet section fanfare riff, congas, timbales, guiro, cowbell, reggaeton kick pattern, bouncing bass, nylon-string guitar plucks, handclaps, whistles, Spanish crowd-sung bridge, punchy bright wide mix, joyful, warm, celebratory",
+  "negativeTags": "distorted guitar, rock drums, slow ballad, dark mood, trap hi-hats, autotune, dubstep, country",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

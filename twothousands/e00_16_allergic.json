@@ -1,0 +1,117 @@
+{
+  "id": "e00_16",
+  "title": "Allergic",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 16,
+  "slug": "e00_16_allergic",
+  "inspiredBy": "Toxic (Britney Spears, 2003)",
+  "leadVoice": "Female, breathy and close, nearly whispered in the verses with a little nasal edge. The chorus is sung in a thin, bright falsetto, layered several times. Wordless falsetto 'ah's in the bridge. Playful, not tragic.",
+  "model": "V6",
+  "style": "2003 electro-pop dance, breathy close half-whispered female vocal in the verses, thin bright layered falsetto chorus, wordless falsetto bridge, 143 BPM, C minor, fast tense slinky spy-film feel, high orchestral strings playing short shrieking sliding stabs in a Bollywood film style, twangy reverb-heavy surf electric guitar, fast tight electronic drums, driving synth bass, handclaps, short surf guitar solo, bright tight dense mix, playful, seductive, urgent",
+  "negativeTags": "male lead vocals, slow ballad, heavy metal guitar, acoustic folk, trap hi-hats, dubstep, saxophone",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: shrieking high string stabs, twangy surf guitar, fast beat]\n\n[Verse 1: breathy, close, half whispered]\nDoctor, doctor, I've been reading all the signs\nHives on my good sense, itching in my mind\nEvery time you call me I come up in a rash\nEvery time I answer I'm a little more attached\n\n[Pre-Chorus: bass drops out, voice rises]\nI should stay away\nFar, far away\nBut I keep leaning in\n\n[Chorus: high falsetto, strings shriek between lines]\nI'm allergic to you\nBreaking out and I can't stop\nOne more look and my heart goes pop\nAllergic, allergic\nAnd I keep coming back for more\nSomebody tell me what the pills are for\n\n[Verse 2: breathy, playful, surf guitar answers]\nRead the label, read it twice, it said avoid\nMy friends all say there's something for it, I say I'm paranoid\nGot a fever, got a flutter, got a tingle in my hands\nGot an appointment Thursday and a whole lot of other plans\n\n[Pre-Chorus: bass drops out, voice rises]\nI should stay away\nFar, far away\nBut I keep leaning in\n\n[Chorus: high falsetto, strings shriek between lines]\nI'm allergic to you\nBreaking out and I can't stop\nOne more look and my heart goes pop\nAllergic, allergic\nAnd I keep coming back for more\nSomebody tell me what the pills are for\n\n[Bridge: beat halves, wordless falsetto, strings slide down]\nAh, ah-ah, ah\nI'm old enough to know\nAh, ah-ah, ah\nAnd I still go\n\n[Breakdown: surf guitar solo, handclaps]\n\n[Final Chorus: everything, extra string line, ad-libs]\nI'm allergic to you\nBreaking out and I can't stop\nOne more look and my heart goes pop\nAllergic, allergic\nAnd I keep coming back for more\nSomebody tell me what the pills are for\nI'm allergic to you\n\n[Outro: string stab, a sneeze, a giggle]",
+  "taskId": "6f3a9b85a2db04dcb4c58d6aced6b145",
+  "sunoClipIds": [
+    "988ffe09-fbda-4b58-8639-5de4016d424f",
+    "1703bd14-6eb4-4d9b-bb8d-47727d1c442d"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928743787,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "988ffe09-fbda-4b58-8639-5de4016d424f",
+      "durationSec": 214.8,
+      "file": "twothousands/e00_16_allergic_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "1703bd14-6eb4-4d9b-bb8d-47727d1c442d",
+      "durationSec": 213.92,
+      "file": "twothousands/e00_16_allergic_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_16_allergic_req.json",
+    "twothousands/e00_16_allergic_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_16_allergic.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_16_allergic.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 143 BPM, 4/4, C minor. Fast, tense and slinky. A spy-film chase on a dance floor.\n\nVOICE: Female, breathy and close, nearly whispered in the verses with a little nasal edge. The chorus is sung in a thin, bright falsetto, layered several times. Wordless falsetto 'ah's in the bridge. Playful, not tragic.\n\nINSTRUMENTS: High orchestral strings playing short, shrieking, sliding stabs, the song's signature. A twangy, reverb-heavy surf electric guitar. A fast, tight electronic drum pattern. A driving synth bass. Acoustic guitar strums buried in the chorus. Handclaps.\n\nARRANGEMENT MAP: 0:00 Intro, string stabs and surf guitar. 0:10 Verse 1. 0:27 Pre-chorus, the bass drops out. 0:37 Chorus 1. 0:57 Verse 2. 1:14 Pre-chorus. 1:24 Chorus 2. 1:44 Bridge, the beat halves. 2:04 Breakdown, a short surf-guitar solo over claps. 2:17 Final chorus with an extra string line. 2:50 The hook repeats with ad-libs. 3:05 Outro, one last string stab, a sneeze and a giggle at 3:15.\n\nPRODUCTION & MIX: Early-2000s Swedish electro-pop: bright, tight and dense, strings and guitar hard left and right, vocal breathy and very close.\n\nSIGNATURE MOMENT: The string stabs in the first two seconds.\n\nMODERN POINT OF VIEW: The bridge is the difference: 'I'm old enough to know, and I still go.' It is the same temptation with twenty more years of evidence, played for a smile.\n\nEMOTIONAL ARC: Mock alarm, giving in, self-knowledge, giving in again.",
+  "workbookAtAGlance": "Allergic\n\nBackup titles\nWhat the Pills Are For / My Heart Goes Pop\n\nAt a glance\n143 BPM, C minor\nVoice: Breathy female voice, high falsetto chorus\nLength: about 3 minutes 20",
+  "year": 2003,
+  "qa": {
+    "title": "Allergic",
+    "id": "e00_16",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 143.6,
+        "bpmFactor": 1,
+        "targetBpm": 143,
+        "bpmErrPct": 0.4,
+        "lufs": -12.8,
+        "peakDbfs": -2.08,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 213.9,
+        "vocalCoverage": 0.754,
+        "vocalSpanSec": [
+          23.4,
+          213.9
+        ],
+        "vocalF0MedianHz": 468,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.794,
+        "lyricUnclearSections": [
+          "Verse 2"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 213.9,
+        "measuredBpm": 143.6,
+        "bpmFactor": 1,
+        "targetBpm": 143,
+        "bpmErrPct": 0.4,
+        "lufs": -12.8,
+        "peakDbfs": -1.45,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 213.7,
+        "vocalCoverage": 0.706,
+        "vocalSpanSec": [
+          11.5,
+          208.5
+        ],
+        "vocalF0MedianHz": 526,
+        "vocalF0P25Hz": 394,
+        "lyricLineRecall": 0.824,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

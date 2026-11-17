@@ -2,6 +2,37 @@
  "note": "Site layout for build_fast.py. sections: order = nav/page order; songs whose collection matches a section are added to it (new ones after the listed order). cards: per-song display overrides; new songs can omit them.",
  "sections": [
   {
+   "id": "twothousands",
+   "nav": "📼 2000s Reimagined",
+   "title": "📼 2000s Reimagined",
+   "blurb": "Twenty brand-new originals, each built on the hook mechanics of one of the most enduring songs of the 2000s and written from today's point of view. Pop, R&B, indie, rock and dance sounds, all original lyrics.",
+   "collections": [
+    "twothousands"
+   ],
+   "order": [
+    "e00_01_mister_unbothered",
+    "e00_02_one_take",
+    "e00_03_the_parade_went_home",
+    "e00_04_the_trying",
+    "e00_05_my_feet_know_the_way",
+    "e00_06_clap_if_youre_lonely",
+    "e00_07_best_parts_the_before",
+    "e00_08_half_birthday",
+    "e00_09_spare_key",
+    "e00_10_and_then_my_song_came_on",
+    "e00_11_camera_off",
+    "e00_12_sensible_shoes",
+    "e00_13_okay",
+    "e00_14_shock_me_back",
+    "e00_15_water_tower_town",
+    "e00_16_allergic",
+    "e00_17_slower_deeper_kinder",
+    "e00_18_first_draft",
+    "e00_19_windshield_vipers",
+    "e00_20_herding_clouds"
+   ]
+  },
+  {
    "id": "sixties",
    "nav": "📼 60s Reimagined",
    "title": "📼 60s Reimagined",

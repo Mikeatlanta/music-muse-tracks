@@ -1,0 +1,117 @@
+{
+  "id": "e00_17",
+  "title": "Slower Deeper Kinder",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 17,
+  "slug": "e00_17_slower_deeper_kinder",
+  "inspiredBy": "Stronger (Kanye West, 2007)",
+  "leadVoice": "A male rapper with a confident, conversational, slightly boastful tone that warms up as the song goes on. A vocoder voice, robotic and flat, chants the four words. The two are layered on the hook. A choir pad joins at the end.",
+  "model": "V6",
+  "style": "2007 electro hip-hop stadium anthem, confident conversational male rapper, robotic flat vocoder voice chanting a four-word hook, rapper and vocoder layered together on the hook, choir pad at the end, 104 BPM, E-flat minor, heavy mechanical and grand, massive detuned saw-wave synth chords, pounding distorted kick and huge snare, buzzing synth bass, chopped filtered synth arpeggio, strings in the beatless bridge, half-time third verse, enormous bright compressed mix, no guitars, bold, wry, uplifting",
+  "negativeTags": "female lead vocals, acoustic guitar, electric guitar, slow ballad, country, saxophone, reggaeton",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: vocoder robot voice alone, then massive synth chords]\nSlower, deeper\nKinder, longer\nSlower, deeper\nKinder, longer\n\n[Hook: vocoder and rapper together, pounding drums]\nWhat nearly broke me\nMade me softer\n(Slower, deeper, kinder, longer)\nWhat nearly broke me\nMade me softer\nI should have got here sooner\n\n[Verse 1: male rap, confident, synth bass]\nI used to sprint through the years like the finish was a prize\nSkipping breakfast, skipping birthdays, skipping blinks of my eyes\nHad a watch that cost a car and never knew the time\nHad a calendar so full it should have been a crime\nNow I take the long way, let the engine tick\nI've got nowhere to be and I'm getting there quick\nThey said \"what happened to the hunger?\" and I said \"I ate\"\nTurns out the thing I was chasing could wait\n\n[Hook: vocoder and rapper together, pounding drums]\nWhat nearly broke me\nMade me softer\n(Slower, deeper, kinder, longer)\nWhat nearly broke me\nMade me softer\nI should have got here sooner\n\n[Verse 2: male rap, more personal]\nMy phone says I averaged nine hours on a screen\nMy doctor says my numbers are the worst he's ever seen\nMy daughter drew a picture of the back of my head\nSo I put it on the fridge and then I went to bed\nWoke up with the sun like a thing that people do\nMade a breakfast with a vegetable, maybe even two\nI'm not saying I'm enlightened, I'm not saying I'm reformed\nI'm just saying that I noticed that the weather had warmed\n\n[Bridge: beat drops, vocoder alone over strings]\nSlower\nDeeper\nKinder\nLonger\nIs this thing still on?\n\n[Verse 3: male rap, half-time, relaxed]\nSo here's to going second, here's to letting people in\nHere's to losing on purpose so the kid can win\nUsed to want my name in lights across the sky\nNow I want it in a lunchbox note, signed \"love, your guy\"\n\n[Final Hook: biggest synths, choir, vocoder ad-libs]\nWhat nearly broke me\nMade me softer\n(Slower, deeper, kinder, longer)\nWhat nearly broke me\nMade me softer\nI should have got here sooner\n\n[Outro: vocoder alone, powering down]\nSlower\nSlower\nSlow",
+  "taskId": "78937d72ca6f51bdab777fa9c7c06fe2",
+  "sunoClipIds": [
+    "eb6ba9e0-d854-43ef-a1fa-da22b0ff80fb",
+    "e0ec5b3b-d383-4207-b0d9-10b981fc509d"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928747719,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "eb6ba9e0-d854-43ef-a1fa-da22b0ff80fb",
+      "durationSec": 238.8,
+      "file": "twothousands/e00_17_slower_deeper_kinder_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "e0ec5b3b-d383-4207-b0d9-10b981fc509d",
+      "durationSec": 238.88,
+      "file": "twothousands/e00_17_slower_deeper_kinder_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_17_slower_deeper_kinder_req.json",
+    "twothousands/e00_17_slower_deeper_kinder_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_17_slower_deeper_kinder.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_17_slower_deeper_kinder.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, E-flat minor. Heavy, mechanical and grand, like a factory floor with stadium lights.\n\nVOICE: A male rapper with a confident, conversational, slightly boastful tone that warms up as the song goes on. A vocoder voice, robotic and flat, chants the four words. The two are layered on the hook. A choir pad joins at the end.\n\nINSTRUMENTS: Massive detuned saw-wave synth chords. A pounding, distorted kick drum and a huge snare. A buzzing synth bass. The vocoder used as an instrument. A string section in the bridge. A filtered, chopped synth arpeggio. No guitars.\n\nARRANGEMENT MAP: 0:00 Intro, the vocoder alone, then the synth chords. 0:18 Hook 1 with drums. 0:41 Verse 1. 1:04 Hook 2. 1:27 Verse 2. 1:50 Bridge, the beat drops and the vocoder speaks over strings, ending on a dry joke. 2:13 Verse 3 in half time. 2:36 Final hook, biggest, twice through. 3:22 Outro, the vocoder alone, slowing down and dropping in pitch like a machine switching off at 3:40.\n\nPRODUCTION & MIX: Late-2000s electro hip-hop: enormous, bright and compressed, synths wide, drums distorted and central, rap vocal dry.\n\nSIGNATURE MOMENT: The vocoder chanting the four words alone in the first four seconds.\n\nMODERN POINT OF VIEW: The whole song is the modern point of view. The 2007 creed was harder, better, faster. This is what the same person says after the doctor's numbers and the drawing on the fridge.\n\nEMOTIONAL ARC: Swagger, a turn, plain honesty, contentment.",
+  "workbookAtAGlance": "Slower Deeper Kinder\n\nBackup titles\nNearly Broke Me / Back of My Head\n\nAt a glance\n104 BPM, E-flat minor\nVoice: Male rapper, vocoder robot hook\nLength: about 3 minutes 45",
+  "year": 2007,
+  "qa": {
+    "title": "Slower Deeper Kinder",
+    "id": "e00_17",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.04 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 238.8,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 0.6,
+        "lufs": -12.5,
+        "peakDbfs": 0.04,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 237.4,
+        "vocalCoverage": 0.548,
+        "vocalSpanSec": [
+          0.2,
+          222.9
+        ],
+        "vocalF0MedianHz": 156,
+        "vocalF0P25Hz": 104,
+        "lyricLineRecall": 0.769,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 238.9,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 0.6,
+        "lufs": -13.5,
+        "peakDbfs": -0.35,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 237.9,
+        "vocalCoverage": 0.602,
+        "vocalSpanSec": [
+          0.2,
+          193.9
+        ],
+        "vocalF0MedianHz": 247,
+        "vocalF0P25Hz": 123,
+        "lyricLineRecall": 0.949,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop"
+}

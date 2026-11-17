@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "And Then My Song Came On",
+  "prompt": "[Intro: clipped off-beat electric guitar, bubbly synth bass, claps]\n\n[Verse 1: conversational, twangy, light beat]\nPulled up to the place in a borrowed dress\nForty-one, first night out since the whole big mess\nEverybody's shiny, everybody knows the host\nI'm holding up the wall like a second coat\n\n[Pre-Chorus: drums build, voice tightens]\nMy stomach's doing cartwheels, I'm checking the door\nThinking \"what did I even come here for?\"\nThen the DJ fades one out, and oh\n\n[Chorus: big, bright, gang vocals on the title]\nAnd then my song came on\nAnd my shoulders came down\nAnd my hips said yes\nAnd I forgot this town\nPut my drink in the air\nLike I'm seventeen\nYeah, and then my song came on\nAnd it was all okay\nIt was all okay\n\n[Verse 2: conversational, more confident]\nNow my dad wants Motown and my niece wants the new\nThe DJ's got a headache and I've lost a shoe\nSome guy in a waistcoat wants to teach me how to spin\nI say \"honey, I invented it,\" and pull my sister in\n\n[Pre-Chorus: drums build, voice tightens]\nWas a minute I was sinking, I was halfway out\nHad the car keys in my fingers and a head full of doubt\nThen the speakers gave a crackle, and oh\n\n[Chorus: big, bright, gang vocals on the title]\nAnd then my song came on\nAnd my shoulders came down\nAnd my hips said yes\nAnd I forgot this town\nPut my drink in the air\nLike I'm seventeen\nYeah, and then my song came on\nAnd it was all okay\nIt was all okay\n\n[Bridge: half-time, soft, electric piano]\nThree minutes and a half\nThat's all it ever takes\nTo put me back together\nIn all the broken places\n\n[Final Chorus: full band, key hits, crowd singing]\nAnd then my song came on\nAnd my shoulders came down\nAnd my hips said yes\nAnd I forgot this town\nPut my drink in the air\nLike I'm seventeen\nYeah, and then my song came on\nAnd it was all okay\nIt was all okay\n\n[Outro: guitar and claps, shouted over the music]\nPlay it again",
+  "style": "2009 pop with a reggae-style off-beat guitar, bright slightly raspy female vocal with a southern country twang, conversational storytelling verses, big open chorus with friends shouting the title line, 96 BPM, F-sharp major, sunny mid-tempo bounce, clean clipped off-beat electric guitar chords, bubbly bouncing synth bass, simple pop drums with fat snare and handclaps, glossy synth pads, soft half-time electric piano bridge, clean bright friendly mix, nervous then joyful, feel-good, singalong",
+  "negativeTags": "male lead vocals, dark mood, heavy metal, slow ballad, trap hi-hats, EDM drop, dubstep, saxophone",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 220,
+  "callBackUrl": "https://example.com/cb"
+}

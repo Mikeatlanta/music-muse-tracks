@@ -1,0 +1,125 @@
+{
+  "id": "e00_18",
+  "title": "First Draft",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 18,
+  "slug": "e00_18_first_draft",
+  "inspiredBy": "Unwritten (Natasha Bedingfield, 2004)",
+  "leadVoice": "Female, warm and a little husky, with an English accent audible in the vowels. Relaxed and conversational in the verses, open and strong in the chorus, improvising over the choir at the end. A gospel choir of mixed voices sings the bridge line and joins the last chorus.",
+  "model": "V6",
+  "style": "2004 British pop soul, warm slightly husky female vocal with an English accent, relaxed conversational verses and an open soaring chorus, mixed gospel choir joining for the bridge and final chorus, 100 BPM, F major, easy bright and lifting, steadily strummed acoustic guitar, plucked and bowed string stabs in a hip-hop rhythm, simple crisp drums, round bass, handclaps, tambourine, Hammond organ, electric piano, clean sunny organic mix, encouraging, hopeful, joyful",
+  "negativeTags": "male lead vocals, distorted guitar, dark mood, heavy metal, trap hi-hats, autotune, EDM drop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: acoustic guitar strum, plucked string stabs, light beat]\n\n[Verse 1: warm, husky, conversational]\nI am a sentence with the ending left off\nA house with the paint still wet\nEvery year they ask me what I'm going to be\nI haven't decided yet\n\n[Pre-Chorus: bass enters, strings climb]\nStaring at the cursor, blinking like a dare\nNobody else can put me there\n\n[Chorus: full band, open, voice soars]\nI'm still a first draft\nCross it out and start again\nInk on my fingers, sky in my head\nNo one's read the ending 'cause the ending isn't penned\nLet the wind come through the pages\nLet them turn\nI'm still a first draft\nAnd I'm good with that\n\n[Verse 2: warm, a little bolder]\nI've got chapters that I'd rather you would skip\nA few I wrote in pencil, in a mood\nThere's a coffee ring on thirty-five\nAnd a page where I was rude\n\n[Pre-Chorus: bass and strings climb]\nStaring at the margin, something I can't name\nNobody gets to hold the pen the same\n\n[Chorus: full band, open, voice soars]\nI'm still a first draft\nCross it out and start again\nInk on my fingers, sky in my head\nNo one's read the ending 'cause the ending isn't penned\nLet the wind come through the pages\nLet them turn\nI'm still a first draft\nAnd I'm good with that\n\n[Bridge: gospel choir enters, handclaps, lead ad-libs]\n(Not finished, not finished, not finished yet)\nI've been waiting on a perfect line\n(Not finished, not finished, not finished yet)\nTurns out the messy ones are mine\n(Not finished, not finished, not finished yet)\n\n[Final Chorus: choir and lead together, key hits, tambourine]\nI'm still a first draft\nCross it out and start again\nInk on my fingers, sky in my head\nNo one's read the ending 'cause the ending isn't penned\nLet the wind come through the pages\nLet them turn\nI'm still a first draft\nAnd I'm good with that\n\n[Outro: choir alone, claps, a pen scratching]\n(Not finished, not finished, not finished yet)",
+  "taskId": "917d705d0e9859dfc09ae6d597e2923c",
+  "sunoClipIds": [
+    "56651d9e-de3f-412e-9b99-aebba8c0b200",
+    "00724672-cf80-42b6-ac2e-3d272df75eac"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928775315,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "56651d9e-de3f-412e-9b99-aebba8c0b200",
+      "durationSec": 337.2,
+      "file": "twothousands/e00_18_first_draft_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "00724672-cf80-42b6-ac2e-3d272df75eac",
+      "durationSec": 244.84,
+      "file": "twothousands/e00_18_first_draft_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_18_first_draft_req.json",
+    "twothousands/e00_18_first_draft_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_18_first_draft.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_18_first_draft.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 100 BPM, 4/4, F major. Easy, bright and steadily lifting. A walk that turns into a march with friends.\n\nVOICE: Female, warm and a little husky, with an English accent audible in the vowels. Relaxed and conversational in the verses, open and strong in the chorus, improvising over the choir at the end. A gospel choir of mixed voices sings the bridge line and joins the last chorus.\n\nINSTRUMENTS: A steadily strummed acoustic guitar. Plucked and bowed string stabs in a hip-hop rhythm. A simple, crisp drum beat. Round bass. Handclaps and tambourine. Hammond-style organ under the choir. Light electric piano.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and string stabs. 0:12 Verse 1. 0:36 Pre-chorus. 0:48 Chorus 1. 1:17 Verse 2. 1:41 Pre-chorus. 1:53 Chorus 2. 2:22 Bridge, the choir enters and repeats one line while the lead answers. 2:51 Final chorus with the choir. 3:20 Outro, the choir alone with claps, and the sound of a pen at 3:45.\n\nPRODUCTION & MIX: Mid-2000s British pop-soul: clean, sunny and organic, acoustic guitar and strings up front, the choir wide and roomy.\n\nSIGNATURE MOMENT: The choir's entrance at 2:22.\n\nMODERN POINT OF VIEW: The original tells a teenager the page is blank. This singer has thirty-five pages with coffee rings on them and says the same thing about the rest. Being unfinished is the good news at any age.\n\nEMOTIONAL ARC: Self-deprecation, acceptance, then celebration with company.",
+  "workbookAtAGlance": "First Draft\n\nBackup titles\nInk on My Fingers / Not Finished Yet\n\nAt a glance\n100 BPM, F major\nVoice: Warm husky female voice, gospel choir\nLength: about 3 minutes 50",
+  "year": 2004,
+  "qa": {
+    "title": "First Draft",
+    "id": "e00_18",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "fail",
+        "reasons": [
+          "silence gap >2s at [206.6, 281.8, 289.8, 296.5, 326.8]s"
+        ],
+        "durationSec": 337.2,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 100,
+        "bpmErrPct": 3.4,
+        "lufs": -14.9,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [
+          206.6,
+          281.8,
+          289.8,
+          296.5,
+          326.8
+        ],
+        "endFadeSec": 0.0,
+        "contentEndSec": 336.0,
+        "vocalCoverage": 0.723,
+        "vocalSpanSec": [
+          7.3,
+          335.6
+        ],
+        "vocalF0MedianHz": 314,
+        "vocalF0P25Hz": 276,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.42 dBFS (2 clipped sample, inaudible)"
+        ],
+        "durationSec": 244.9,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 100,
+        "bpmErrPct": 0.6,
+        "lufs": -13.5,
+        "peakDbfs": 0.42,
+        "clipSamples": 2,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 243.4,
+        "vocalCoverage": 0.826,
+        "vocalSpanSec": [
+          2.0,
+          241.1
+        ],
+        "vocalF0MedianHz": 347,
+        "vocalF0P25Hz": 288,
+        "lyricLineRecall": 0.952,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Soul"
+}

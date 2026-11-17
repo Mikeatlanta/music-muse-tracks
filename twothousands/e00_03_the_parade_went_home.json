@@ -1,0 +1,119 @@
+{
+  "id": "e00_03",
+  "title": "The Parade Went Home",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 3,
+  "slug": "e00_03_the_parade_went_home",
+  "inspiredBy": "Viva la Vida (Coldplay, 2008)",
+  "leadVoice": "Male tenor, earnest and open, slightly breathy at the bottom and bright at the top. No falsetto until the last chorus. A large mixed crowd sings the wordless chant, recorded to sound like a stadium.",
+  "model": "V6",
+  "style": "2008 orchestral art-pop anthem, earnest open male tenor vocal, stadium crowd singing a wordless oh-oh-oh chant, 138 BPM, A-flat major, stately but driving procession, short stabbing syncopated string section chords driving the rhythm, church bell on chorus downbeats, timpani rolls and hits, deep bass, four-on-the-floor kick with tambourine and marching snare, choir pad, no guitars, wide bright cathedral reverb, grand, bittersweet, uplifting",
+  "negativeTags": "electric guitar, guitar solo, female lead vocals, rap, trap hi-hats, autotune, EDM drop, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: stabbing string pattern, four bars, no drums]\n\n[Verse 1: earnest, strings only, soft kick]\nThere was a year they closed the street for me\nPaper in the air, a brass band in the key\nNow I fold the chairs and stack the cones\nAnd I walk the route alone\n\n[Verse 2: bass and timpani enter]\nI had the keys, I cut the ribbon twice\nShook the hands and never checked the price\nFound the banners rolled up in the rain\nOne of them still had my name\n\n[Chorus: church bell, timpani, full strings, voice lifts]\nOh, the parade went home\nAnd left the street to me\nThere's glitter in the gutter\nWhere the crown used to be\nAnd I never knew how light I'd feel\nWith nobody to wave to\nWhen the parade went home\n\n[Verse 3: driving, tambourine, strings stabbing]\nIt was the noise that held me up, not love\nApplause is weather, it's a passing dove\nThey took the plaque and named it for a bank\nI've only got myself to thank\n\n[Verse 4: fuller, choir pad]\nThe marching band is someone's kids by now\nThe girl who threw the flowers runs the town\nAnd I'm the one who clears it all away\nI like the quiet, I might stay\n\n[Chorus: church bell, timpani, full strings, voice lifts]\nOh, the parade went home\nAnd left the street to me\nThere's glitter in the gutter\nWhere the crown used to be\nAnd I never knew how light I'd feel\nWith nobody to wave to\nWhen the parade went home\n\n[Chant: crowd sings wordless oh-oh-oh, timpani and bell]\nOh-oh-oh, oh-oh\nOh-oh-oh, oh-oh\nOh-oh-oh, oh-oh\nOh-oh-oh, oh-oh\n\n[Final Chorus: everything, crowd chant continues under the lead]\nOh, the parade went home\nAnd left the street to me\nThere's glitter in the gutter\nWhere the crown used to be\nAnd I never knew how light I'd feel\nWith nobody to wave to\nWhen the parade went home\n\n[Outro: strings alone, one bell, a broom on pavement]",
+  "taskId": "87e07d240865779aa0c6702173d03abf",
+  "sunoClipIds": [
+    "9f137fdd-c9dd-4745-9510-4c7343841959",
+    "47c48091-8b9d-4f3f-a07d-76668688509e"
+  ],
+  "created": "Nov 17, 2026 10:18 AM ET",
+  "createTimeMs": 1794928693648,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "9f137fdd-c9dd-4745-9510-4c7343841959",
+      "durationSec": 244.04,
+      "file": "twothousands/e00_03_the_parade_went_home_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "47c48091-8b9d-4f3f-a07d-76668688509e",
+      "durationSec": 244.36,
+      "file": "twothousands/e00_03_the_parade_went_home_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_03_the_parade_went_home_req.json",
+    "twothousands/e00_03_the_parade_went_home_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_03_the_parade_went_home.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_03_the_parade_went_home.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 138 BPM, 4/4, A-flat major. Stately but driving, a procession at a brisk walk. Grand and bittersweet.\n\nVOICE: Male tenor, earnest and open, slightly breathy at the bottom and bright at the top. No falsetto until the last chorus. A large mixed crowd sings the wordless chant, recorded to sound like a stadium.\n\nINSTRUMENTS: A string section playing short, stabbing, syncopated chords that drive the whole song like a rhythm guitar. A church bell on the downbeat of each chorus. Timpani rolls and hits. Deep bass. A four-on-the-floor kick drum with no snare for the first half, then tambourine and a marching snare. A choir pad. No electric guitar.\n\nARRANGEMENT MAP: 0:00 Intro, the string pattern alone. 0:14 Verse 1. 0:28 Verse 2, bass and timpani. 0:42 Chorus 1, the bell. 1:10 Verse 3. 1:24 Verse 4. 1:38 Chorus 2. 2:06 Chant, the crowd alone with timpani and bell for eight bars. 2:34 Final chorus with the chant running underneath. 3:02 The chant continues and thins out. 3:30 Outro, strings alone, one last bell, and the sound of a broom at 3:45.\n\nPRODUCTION & MIX: Late-2000s art-pop with an orchestral palette: wide, bright and reverberant, like a cathedral with the doors open.\n\nSIGNATURE MOMENT: The church bell landing on the first chorus at 0:42.\n\nMODERN POINT OF VIEW: The original's king mourns his throne. This narrator finds that being nobody's hero is restful. That is a view from the far side of ambition, and the broom at the end is not a punishment.\n\nEMOTIONAL ARC: Wistful memory, wry inventory, then lightness.",
+  "workbookAtAGlance": "The Parade Went Home\n\nBackup titles\nGlitter in the Gutter / Nobody to Wave To\n\nAt a glance\n138 BPM, A-flat major\nVoice: Earnest male tenor, crowd chant\nLength: about 3 minutes 50",
+  "year": 2008,
+  "qa": {
+    "title": "The Parade Went Home",
+    "id": "e00_03",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.1,
+        "measuredBpm": 143.6,
+        "bpmFactor": 1,
+        "targetBpm": 138,
+        "bpmErrPct": 4.0,
+        "lufs": -13.7,
+        "peakDbfs": -1.43,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 242.6,
+        "vocalCoverage": 0.754,
+        "vocalSpanSec": [
+          7.3,
+          218.7
+        ],
+        "vocalF0MedianHz": 349,
+        "vocalF0P25Hz": 311,
+        "lyricLineRecall": 0.902,
+        "lyricUnclearSections": [
+          "Chant"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.4,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 138,
+        "bpmErrPct": 1.4,
+        "lufs": -13.7,
+        "peakDbfs": -1.37,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 242.8,
+        "vocalCoverage": 0.748,
+        "vocalSpanSec": [
+          7.2,
+          231.0
+        ],
+        "vocalF0MedianHz": 351,
+        "vocalF0P25Hz": 233,
+        "lyricLineRecall": 0.854,
+        "lyricUnclearSections": [
+          "Chant"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Art Pop"
+}

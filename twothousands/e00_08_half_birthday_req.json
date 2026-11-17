@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Half Birthday",
+  "prompt": "[Intro: staccato orchestral string stabs, handclaps, deep bass]\nGo on, go on, it's your half birthday\nSix months in and it's your day anyway\nWe don't need a reason, we don't need a date\nPull a candle out the drawer, let's celebrate\n\n[Verse 1: laid-back male rap, melodic drawl]\nI got a cake in the car and it's leaning to the left\nFrosting on the seat belt, nothing I regret\nStopped for balloons and they only had two\nOne says \"Get Well\" and the other one's blue\nCalled up your people and they're coming in their slippers\nYour neighbour brought a casserole, your uncle brought the kippers\nNo one knows the reason and nobody's keeping score\nWe're just glad you made it halfway, so we're knocking on the door\n\n[Chorus: sung drawl, claps on every beat]\nGo on, go on, it's your half birthday\nSix months in and it's your day anyway\nWe don't need a reason, we don't need a date\nPull a candle out the drawer, let's celebrate\n\n[Verse 2: laid-back male rap, a little quieter]\nSee, a year's too long to wait to say you're doing fine\nI've lost a couple friends who thought they had the time\nSo I'm ringing every bell on every ordinary Tuesday\nIf you woke up this morning then it's good news day\nHalf a glass, half a chance, half a life to go\nHalf of what we worry on, we'll never even know\nSo blow out the one candle, make half a wish\nAnd I'll be back in six months with another dish\n\n[Chorus: sung drawl, claps on every beat]\nGo on, go on, it's your half birthday\nSix months in and it's your day anyway\nWe don't need a reason, we don't need a date\nPull a candle out the drawer, let's celebrate\n\n[Bridge: strings drop out, bass and claps, crowd sings along]\nHalfway there (halfway there)\nAnd you're still right here (still right here)\nHalfway there (halfway there)\nSee you next half year\n\n[Final Chorus: full beat, crowd, ad-libs]\nGo on, go on, it's your half birthday\nSix months in and it's your day anyway\nWe don't need a reason, we don't need a date\nPull a candle out the drawer, let's celebrate\n\n[Outro: stabs and claps, a party horn, laughter]\nMake a wish\nHalf a wish",
+  "style": "2003 club hip-hop, laid-back slightly slurred male baritone sliding between rap and a sing-song melodic drawl, crowd of friends answering in the bridge, 90 BPM, C-sharp minor, slow heavy bounce with lots of space, staccato orchestral string stabs as the riff, handclaps on every backbeat, deep simple 808 bass, sparse kick and snare, high synth whistle line, thin guitar pluck, party horn and laughter, very clean sparse sub-heavy mix, relaxed, warm, celebratory, funny",
+  "negativeTags": "female lead vocals, distorted guitar, fast tempo, rock drums, EDM drop, autotune, saxophone, country",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

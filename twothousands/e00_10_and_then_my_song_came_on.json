@@ -1,0 +1,117 @@
+{
+  "id": "e00_10",
+  "title": "And Then My Song Came On",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 10,
+  "slug": "e00_10_and_then_my_song_came_on",
+  "inspiredBy": "Party in the U.S.A. (Miley Cyrus, 2009)",
+  "leadVoice": "Female, bright and slightly raspy with a southern country twang, conversational in the verses as if telling a friend the story. Stronger and more open in the chorus, where a group of friends shouts the title line with her.",
+  "model": "V6",
+  "style": "2009 pop with a reggae-style off-beat guitar, bright slightly raspy female vocal with a southern country twang, conversational storytelling verses, big open chorus with friends shouting the title line, 96 BPM, F-sharp major, sunny mid-tempo bounce, clean clipped off-beat electric guitar chords, bubbly bouncing synth bass, simple pop drums with fat snare and handclaps, glossy synth pads, soft half-time electric piano bridge, clean bright friendly mix, nervous then joyful, feel-good, singalong",
+  "negativeTags": "male lead vocals, dark mood, heavy metal, slow ballad, trap hi-hats, EDM drop, dubstep, saxophone",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 220,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: clipped off-beat electric guitar, bubbly synth bass, claps]\n\n[Verse 1: conversational, twangy, light beat]\nPulled up to the place in a borrowed dress\nForty-one, first night out since the whole big mess\nEverybody's shiny, everybody knows the host\nI'm holding up the wall like a second coat\n\n[Pre-Chorus: drums build, voice tightens]\nMy stomach's doing cartwheels, I'm checking the door\nThinking \"what did I even come here for?\"\nThen the DJ fades one out, and oh\n\n[Chorus: big, bright, gang vocals on the title]\nAnd then my song came on\nAnd my shoulders came down\nAnd my hips said yes\nAnd I forgot this town\nPut my drink in the air\nLike I'm seventeen\nYeah, and then my song came on\nAnd it was all okay\nIt was all okay\n\n[Verse 2: conversational, more confident]\nNow my dad wants Motown and my niece wants the new\nThe DJ's got a headache and I've lost a shoe\nSome guy in a waistcoat wants to teach me how to spin\nI say \"honey, I invented it,\" and pull my sister in\n\n[Pre-Chorus: drums build, voice tightens]\nWas a minute I was sinking, I was halfway out\nHad the car keys in my fingers and a head full of doubt\nThen the speakers gave a crackle, and oh\n\n[Chorus: big, bright, gang vocals on the title]\nAnd then my song came on\nAnd my shoulders came down\nAnd my hips said yes\nAnd I forgot this town\nPut my drink in the air\nLike I'm seventeen\nYeah, and then my song came on\nAnd it was all okay\nIt was all okay\n\n[Bridge: half-time, soft, electric piano]\nThree minutes and a half\nThat's all it ever takes\nTo put me back together\nIn all the broken places\n\n[Final Chorus: full band, key hits, crowd singing]\nAnd then my song came on\nAnd my shoulders came down\nAnd my hips said yes\nAnd I forgot this town\nPut my drink in the air\nLike I'm seventeen\nYeah, and then my song came on\nAnd it was all okay\nIt was all okay\n\n[Outro: guitar and claps, shouted over the music]\nPlay it again",
+  "taskId": "86480330f448ba49f2a508aa14972d93",
+  "sunoClipIds": [
+    "60f7e481-5544-4a60-8efa-8f7cbd404b5e",
+    "7c9d6c3c-742e-485d-afac-4320de4fa4e4"
+  ],
+  "created": "Nov 17, 2026 10:18 AM ET",
+  "createTimeMs": 1794928717943,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "60f7e481-5544-4a60-8efa-8f7cbd404b5e",
+      "durationSec": 219.6,
+      "file": "twothousands/e00_10_and_then_my_song_came_on_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "7c9d6c3c-742e-485d-afac-4320de4fa4e4",
+      "durationSec": 217.96,
+      "file": "twothousands/e00_10_and_then_my_song_came_on_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_10_and_then_my_song_came_on_req.json",
+    "twothousands/e00_10_and_then_my_song_came_on_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_10_and_then_my_song_came_on.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_10_and_then_my_song_came_on.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4, F-sharp major. A mid-tempo bounce with a reggae-style off-beat guitar. Sunny, easy and a bit nervous at first.\n\nVOICE: Female, bright and slightly raspy with a southern country twang, conversational in the verses as if telling a friend the story. Stronger and more open in the chorus, where a group of friends shouts the title line with her.\n\nINSTRUMENTS: A clean electric guitar playing clipped chords on the off-beats. A bubbly, bouncing synth bass. A simple pop drum kit with a fat snare and handclaps. Glossy synth pads. An electric piano in the bridge. A second guitar with light crunch in the final chorus.\n\nARRANGEMENT MAP: 0:00 Intro, guitar, bass and claps. 0:10 Verse 1. 0:30 Pre-chorus. 0:45 Chorus 1. 1:10 Verse 2. 1:30 Pre-chorus. 1:45 Chorus 2. 2:10 Bridge, half time and soft. 2:30 Final chorus with the crowd. 2:55 Tag, the last two lines repeated. 3:08 Outro, guitar and claps, a shouted request at 3:20.\n\nPRODUCTION & MIX: Late-2000s pop: clean, bright and friendly, guitar and bass tightly locked, vocal up front with the twang left in.\n\nSIGNATURE MOMENT: The half-second of near silence after 'and oh', before the chorus lands.\n\nMODERN POINT OF VIEW: She is forty-one and it is her first night out after something hard. The song that saves her is an old one. Listeners who were teenagers in 2009 will recognise both the feeling and the age.\n\nEMOTIONAL ARC: Dread, rescue, swagger, gratitude.",
+  "workbookAtAGlance": "And Then My Song Came On\n\nBackup titles\nHolding Up the Wall / Lost a Shoe\n\nAt a glance\n96 BPM, F-sharp major\nVoice: Bright female voice with a country twang\nLength: about 3 minutes 25",
+  "year": 2009,
+  "qa": {
+    "title": "And Then My Song Came On",
+    "id": "e00_10",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 219.6,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 3.5,
+        "lufs": -14.1,
+        "peakDbfs": -0.36,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.4,
+        "contentEndSec": 217.9,
+        "vocalCoverage": 0.763,
+        "vocalSpanSec": [
+          4.3,
+          203.2
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 234,
+        "lyricLineRecall": 0.891,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)"
+        ],
+        "durationSec": 218.0,
+        "measuredBpm": 95.7,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 0.3,
+        "lufs": -14.3,
+        "peakDbfs": -0.66,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 217.9,
+        "vocalCoverage": 0.789,
+        "vocalSpanSec": [
+          4.1,
+          218.0
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 233,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "e00_02",
+  "title": "One Take",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 2,
+  "slug": "e00_02_one_take",
+  "inspiredBy": "Lose Yourself (Eminem, 2002)",
+  "leadVoice": "Male rapper with a sharp, slightly nasal tone and very precise diction. Verse 1 is controlled and narrated, verse 2 faster and more personal, verse 3 calmer. Internal rhymes are stressed like drum hits. The hook is half sung, half shouted, doubled and gritty.",
+  "model": "V6",
+  "style": "2002 cinematic rap rock, male rapper with a sharp precise slightly nasal delivery and dense internal rhymes, gritty half-sung half-shouted doubled hook, 86 BPM, D minor, tense and coiled, lonely detuned piano intro with spoken lines, palm-muted electric guitar chugging eighth notes throughout, cinematic strings, hard simple drums with heavy kick and slamming snare, deep bass, soft choir pad in the last chorus, dry close vocal, loud punchy mix, determined, urgent, motivational",
+  "negativeTags": "female lead vocals, party rap, trap hi-hats, autotune, EDM drop, comedy, saxophone, reggaeton",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: lonely piano figure, vinyl crackle, spoken low]\nSay you get one take. One.\nNo edit. No undo.\nYou going to flinch, or you going to roll?\n\n[Verse 1: male rap, tense, palm-muted guitar chug begins]\nThere's coffee on the collar of the only shirt he ironed\nForty-three years old with a resume retired\nHe rehearsed it in the mirror, in the shower, in the car\nBut the lobby's made of marble and he's forgotten who they are\nThe names, the game, the fifteen bullet points\nHis knee is bouncing double-time, he's cracking all his joints\nThe clock above reception says he's nineteen minutes early\nThere's a kid across the carpet looking brand new and unhurried\nHalf his age and twice his calm, scrolling like he's bored\nWhile he's sweating through the lining, saying \"steady\" to the floor\nHe thinks about the mortgage, thinks about his daughter\nWho believes he hung the moon and walked across the water\nDoor opens, \"we're ready,\" and the hallway starts to tilt\nEverything he ever was is everything he built\nOne breath, pick it up, there's no rerun of this scene\nSo he stands\n\n[Chorus: sung-shouted, big drums, strings and guitars]\nOne take, roll it\nNo cut, no second pass\nThe red light's on, so hold it\nSteady, make it last\nOne take, that's all there is\nSay it like you mean to stay\nNobody hands you one take twice\nSo don't you look away\n\n[Verse 2: male rap, first person now, faster]\nThey ask about the gap and I can feel the ceiling pressing\nI could give them the rehearsed one, the buzzwords and the dressing\nInstead I hear my mouth say, \"I was home, my dad was dying\nI learned more in that one year than in twenty years of trying\"\nSilence. Then the one on the left puts down her pen\nSays \"tell me more about it,\" and I'm breathing again\nFunny how the truth was the only thing I never practised\nAll that polish on the surface and the real thing was the fastest\nNow my hands have quit their shaking and my voice has found its floor\nI'm not asking for a favour, I know what I'm good for\nIf it's yes then it's a yes, if it's no then it's a no\nBut I said it like I meant it, and I'm ready, so\n\n[Chorus: sung-shouted, big drums, strings and guitars]\nOne take, roll it\nNo cut, no second pass\nThe red light's on, so hold it\nSteady, make it last\nOne take, that's all there is\nSay it like you mean to stay\nNobody hands you one take twice\nSo don't you look away\n\n[Verse 3: male rap, calmer, drums drop to kick and piano]\nThis is for the late shift, the last chance, the long shot\nThe ones who got the callback when they figured they would not\nIt was never now or never, that's a line they sell the young\nIt's now, and then it's later, and then another one\nBut every single one of them, you only get it once\nSo roll\n\n[Final Chorus: full band, choir pad, ad-libs]\nOne take, roll it\nNo cut, no second pass\nThe red light's on, so hold it\nSteady, make it last\n\n[Outro: piano figure alone, a door closing]",
+  "taskId": "e125f6869920e0df1f9bcd88bb1467d4",
+  "sunoClipIds": [
+    "3ed65d27-bb94-42d8-9079-4e402269bd7e",
+    "32af5db5-ef88-4ca9-b81f-f056723c5786"
+  ],
+  "created": "Nov 17, 2026 10:17 AM ET",
+  "createTimeMs": 1794928675534,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "3ed65d27-bb94-42d8-9079-4e402269bd7e",
+      "durationSec": 254.52,
+      "file": "twothousands/e00_02_one_take_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "32af5db5-ef88-4ca9-b81f-f056723c5786",
+      "durationSec": 254.32,
+      "file": "twothousands/e00_02_one_take_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_02_one_take_req.json",
+    "twothousands/e00_02_one_take_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_02_one_take.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_02_one_take.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 86 BPM, 4/4, D minor. Tense, coiled and forward-leaning. A march that keeps tightening.\n\nVOICE: Male rapper with a sharp, slightly nasal tone and very precise diction. Verse 1 is controlled and narrated, verse 2 faster and more personal, verse 3 calmer. Internal rhymes are stressed like drum hits. The hook is half sung, half shouted, doubled and gritty.\n\nINSTRUMENTS: A lonely, slightly detuned piano figure. A palm-muted electric guitar chugging eighth notes on one low chord for almost the whole song. A cinematic string section. Hard, simple drums with a heavy kick and a snare like a slammed door. Deep bass following the guitar. A soft choir pad in the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, piano and three spoken lines. 0:22 Verse 1, the guitar chug starts and the drums build over sixteen lines. 1:07 Chorus 1. 1:29 Verse 2, in the first person, a little faster. 2:03 Chorus 2. 2:25 Verse 3, the drums drop to a kick and piano. 2:42 One bar of silence after 'So roll', then the final chorus at full size. 3:06 The chorus instrumental continues with strings. 3:30 Outro, the piano alone, and a door closing at 3:50.\n\nPRODUCTION & MIX: Early-2000s cinematic rap-rock: dry, close vocal, guitar tight in the centre, strings wide, kick and snare very loud.\n\nSIGNATURE MOMENT: The first bar of the guitar chug under the line about the coffee stain.\n\nMODERN POINT OF VIEW: The contender is middle-aged, the arena is an interview, and the win comes from honesty about a hard year, not from bravado. Verse 3 corrects the myth of the single chance.\n\nEMOTIONAL ARC: Fear, near-collapse, a true sentence, steadiness.",
+  "workbookAtAGlance": "One Take\n\nBackup titles\nNineteen Minutes Early / Roll It\n\nAt a glance\n86 BPM, D minor\nVoice: Male rapper, intense and precise; sung-shouted hook\nLength: about 4 minutes",
+  "year": 2002,
+  "qa": {
+    "title": "One Take",
+    "id": "e00_02",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.5,
+        "measuredBpm": 86.1,
+        "bpmFactor": 1,
+        "targetBpm": 86,
+        "bpmErrPct": 0.2,
+        "lufs": -14.2,
+        "peakDbfs": -0.89,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 252.9,
+        "vocalCoverage": 0.728,
+        "vocalSpanSec": [
+          4.0,
+          227.2
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 221,
+        "lyricLineRecall": 0.946,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.3,
+        "measuredBpm": 86.1,
+        "bpmFactor": 1,
+        "targetBpm": 86,
+        "bpmErrPct": 0.2,
+        "lufs": -14.2,
+        "peakDbfs": -0.63,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 252.4,
+        "vocalCoverage": 0.748,
+        "vocalSpanSec": [
+          3.9,
+          234.7
+        ],
+        "vocalF0MedianHz": 391,
+        "vocalF0P25Hz": 240,
+        "lyricLineRecall": 0.929,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other"
+}

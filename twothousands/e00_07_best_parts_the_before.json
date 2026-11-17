@@ -1,0 +1,117 @@
+{
+  "id": "e00_07",
+  "title": "Best Part's the Before",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 7,
+  "slug": "e00_07_best_parts_the_before",
+  "inspiredBy": "I Gotta Feeling (Black Eyed Peas, 2009)",
+  "leadVoice": "A mixed group. A male lead with a smooth, lightly pitch-corrected tone opens. A female lead with a bright, brassy voice takes verse 2. Choruses and chants are sung and shouted by everyone, with crowd-style replies in brackets.",
+  "model": "V6",
+  "style": "2009 electro-pop party anthem, mixed group vocals, smooth lightly pitch-corrected male lead and bright brassy female lead, everyone shouting the choruses and chants with crowd replies, 128 BPM, G major, same four chords throughout, building in stages, clean electric guitar pulsing bright chords, filtered synth opening up, four-on-the-floor house kick, claps, off-beat hi-hats, big saw-wave synth bass, wide synth stabs, beatless toast bridge, snare-roll build, glossy loud wide mix, joyful, rising, communal",
+  "negativeTags": "distorted guitar, slow ballad, dark mood, acoustic folk, trap hi-hats, heavy metal, saxophone",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: one bright guitar chord pulsing, filtered synth rising]\n\n[Verse 1: male lead, lightly tuned, no drums yet]\nI've got a hunch about the evening\nThe mirror says we're looking right\nSomebody's ironing in the hallway\nSomebody's singing to the light\n\n[Chorus: group vocals, kick drum enters]\nThe best part's the before\nShoes by the door\nSomebody's playlist, somebody pour\nWe haven't even left yet\nAnd I couldn't ask for more\nThe best part's the before\n\n[Verse 2: female lead, full beat, claps]\nThe cab's been waiting twenty minutes\nMy sister's on her second dress\nThere's glitter on the bathroom ceiling\nAnd I don't want to clean this mess\n\n[Chorus: group vocals, full beat, synth stabs]\nThe best part's the before\nShoes by the door\nSomebody's playlist, somebody pour\nWe haven't even left yet\nAnd I couldn't ask for more\nThe best part's the before\n\n[Chant: counting the hours, everyone shouting]\nFive o'clock (what?) six o'clock (what?)\nSeven, eight, nine and we're still not out the door\nTen o'clock (what?) who cares (what?)\nTurn it up and do it all once more\n\n[Bridge: beat drops out, toast, glasses clinking]\nFill it up (fill it up)\nRaise it high (raise it high)\nSalud, cheers, skol, slainte\nTo the ones who showed up tonight\n\n[Build: snare roll, synth rising, one line repeated]\nWe haven't even left yet\nWe haven't even left yet\nWe haven't even left yet\n\n[Final Chorus: biggest, everyone, synths wide open]\nThe best part's the before\nShoes by the door\nSomebody's playlist, somebody pour\nWe haven't even left yet\nAnd I couldn't ask for more\nThe best part's the before\nThe best part's the before\n\n[Outro: guitar chord alone, door slam, car horn]\nOkay. Now we can go.",
+  "taskId": "c6f22d9f3759f66766095408f9748401",
+  "sunoClipIds": [
+    "6c63973a-a370-4811-ae01-91c8bedf925c",
+    "10055dc4-70b3-4809-9b28-47b29f4485aa"
+  ],
+  "created": "Nov 17, 2026 10:18 AM ET",
+  "createTimeMs": 1794928701840,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "6c63973a-a370-4811-ae01-91c8bedf925c",
+      "durationSec": 238.4,
+      "file": "twothousands/e00_07_best_parts_the_before_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "10055dc4-70b3-4809-9b28-47b29f4485aa",
+      "durationSec": 239.52,
+      "file": "twothousands/e00_07_best_parts_the_before_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_07_best_parts_the_before_req.json",
+    "twothousands/e00_07_best_parts_the_before_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_07_best_parts_the_before.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_07_best_parts_the_before.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 128 BPM, 4/4, G major. The same four chords from start to finish. Bright, rising, communal.\n\nVOICE: A mixed group. A male lead with a smooth, lightly pitch-corrected tone opens. A female lead with a bright, brassy voice takes verse 2. Choruses and chants are sung and shouted by everyone, with crowd-style replies in brackets.\n\nINSTRUMENTS: A clean electric guitar pulsing one bright chord at a time. A filtered synth that opens up through the song. A four-on-the-floor house kick, claps and off-beat hi-hats. A big, simple saw-wave synth bass. Wide synth stabs in the choruses. Clinking glasses, a door and a car horn as effects.\n\nARRANGEMENT MAP: 0:00 Intro, guitar chord and rising filter. 0:15 Verse 1, no drums. 0:30 Chorus 1, the kick enters. 0:52 Verse 2, full beat. 1:07 Chorus 2. 1:30 Chant, counting the hours. 1:45 Bridge, the beat drops for the toast. 2:07 Build, one line over a snare roll. 2:15 Final chorus, twice through. 3:00 Instrumental ride-out. 3:22 Outro, the guitar chord alone, a door, a horn and a spoken line at 3:40.\n\nPRODUCTION & MIX: Late-2000s electro-pop: glossy, loud and wide, vocals tuned and layered, low end built for a hall PA.\n\nSIGNATURE MOMENT: The kick drum arriving under the first chorus at 0:30.\n\nMODERN POINT OF VIEW: The original promises a great night. This one notices, as people do with age, that the anticipation is the great part, and that the people in the hallway are the point.\n\nEMOTIONAL ARC: Anticipation, more anticipation, gratitude, departure.",
+  "workbookAtAGlance": "Best Part's the Before\n\nBackup titles\nStill Not Out the Door / Shoes by the Door\n\nAt a glance\n128 BPM, G major\nVoice: Mixed group, tuned male and female leads\nLength: about 3 minutes 45",
+  "year": 2009,
+  "qa": {
+    "title": "Best Part's the Before",
+    "id": "e00_07",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 238.4,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 128,
+        "bpmErrPct": 6.2,
+        "lufs": -13.2,
+        "peakDbfs": -1.3,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.4,
+        "contentEndSec": 238.3,
+        "vocalCoverage": 0.764,
+        "vocalSpanSec": [
+          0.6,
+          224.9
+        ],
+        "vocalF0MedianHz": 783,
+        "vocalF0P25Hz": 454,
+        "lyricLineRecall": 0.949,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 239.5,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 128,
+        "bpmErrPct": 6.2,
+        "lufs": -13.2,
+        "peakDbfs": -0.31,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 237.9,
+        "vocalCoverage": 0.728,
+        "vocalSpanSec": [
+          1.0,
+          222.7
+        ],
+        "vocalF0MedianHz": 479,
+        "vocalF0P25Hz": 394,
+        "lyricLineRecall": 0.872,
+        "lyricUnclearSections": [
+          "Verse 2"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

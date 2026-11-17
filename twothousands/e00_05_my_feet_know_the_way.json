@@ -1,0 +1,122 @@
+{
+  "id": "e00_05",
+  "title": "My Feet Know the Way",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 5,
+  "slug": "e00_05_my_feet_know_the_way",
+  "inspiredBy": "Hips Don't Lie (Shakira feat. Wyclef Jean, 2006)",
+  "leadVoice": "A female lead with a flexible, slightly husky voice, quick flips into head voice and a rapid vibrato on held notes. A male voice who half raps the first verse, narrates and shouts encouragement between her lines. A party crowd singing the bridge.",
+  "model": "V6",
+  "style": "2006 Latin pop with reggaeton, cumbia and salsa percussion, agile slightly husky female lead vocal with quick head-voice flips, male hype voice half rapping and shouting ad-libs, English with Spanish lines, 100 BPM, B-flat minor, rolling physical dance groove, bright trumpet section fanfare riff, congas, timbales, guiro, cowbell, reggaeton kick pattern, bouncing bass, nylon-string guitar plucks, handclaps, whistles, Spanish crowd-sung bridge, punchy bright wide mix, joyful, warm, celebratory",
+  "negativeTags": "distorted guitar, rock drums, slow ballad, dark mood, trap hi-hats, autotune, dubstep, country",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bright trumpet fanfare, male hype voice, crowd whoops]\nLadies up, gentlemen too\nThis one is for the ones who thought they forgot\nDale\n\n[Verse 1: male voice, half rapped, congas and bass]\nI never really planned on getting up tonight\nMy knees filed a complaint and my back's not right\nBut she walked to the floor like the tide comes in\nAnd the room rearranged itself around her spin\n\n[Pre-Chorus: female lead, breathy, guitar plucks]\nOh, I haven't done this in so long\nBut the body keeps the song\n\n[Chorus: female lead, full band, trumpets answer]\nMy feet know the way (como?)\nMy feet know the way\nI can't remember names but I remember this sway\nMira, the head forgets, the heart delays\nBut my feet, my feet know the way\n\n[Verse 2: female lead, playful, percussion busy]\nAbuela in the kitchen with the radio high\nTaught me one-two-three before I learned to tie\nMy shoes, and now the years are on my hips\nBut the count comes back like a word to my lips\n\n[Pre-Chorus: female lead, breathy, guitar plucks]\nOh, I haven't done this in so long\nBut the body keeps the song\n\n[Chorus: female lead, full band, trumpets answer]\nMy feet know the way (como?)\nMy feet know the way\nI can't remember names but I remember this sway\nMira, the head forgets, the heart delays\nBut my feet, my feet know the way\n\n[Bridge: Spanish, drums and handclaps only, crowd joins]\nBaila, que la vida es corta\nBaila, que nadie nos mira\nY si nos miran, no importa\nBaila, baila, mi vida\n\n[Verse 3: male voice, hype, trumpets stab]\nFrom the east side to the islands, from the valley to the bay\nFor my mother and her sisters and the ones who went away\nPut your hand up if your people ever cleared a kitchen floor\nOne more time for mi gente, then we do it all once more\n\n[Final Chorus: both voices, trumpets on top, whistles]\nMy feet know the way (como?)\nMy feet know the way\nI can't remember names but I remember this sway\nMira, the head forgets, the heart delays\nBut my feet, my feet know the way\n\n[Outro: trumpet fanfare, laughter, last drum hit]\nOtra vez",
+  "taskId": "ff7a173982a65c6c14c1b24861dfab50",
+  "sunoClipIds": [
+    "e263b50e-896e-4582-bb56-d3a7e67891b9",
+    "c3ee25a3-fabe-42d0-960c-6f25d2399b3d"
+  ],
+  "created": "Nov 17, 2026 10:18 AM ET",
+  "createTimeMs": 1794928695870,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "e263b50e-896e-4582-bb56-d3a7e67891b9",
+      "durationSec": 234.92,
+      "file": "twothousands/e00_05_my_feet_know_the_way_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c3ee25a3-fabe-42d0-960c-6f25d2399b3d",
+      "durationSec": 233.96,
+      "file": "twothousands/e00_05_my_feet_know_the_way_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_05_my_feet_know_the_way_req.json",
+    "twothousands/e00_05_my_feet_know_the_way_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_05_my_feet_know_the_way.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_05_my_feet_know_the_way.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 100 BPM, 4/4, B-flat minor. A rolling Latin-pop groove that mixes reggaeton's kick pattern with cumbia and salsa percussion. Warm, loud and physical.\n\nVOICE: A female lead with a flexible, slightly husky voice, quick flips into head voice and a rapid vibrato on held notes. A male voice who half raps the first verse, narrates and shouts encouragement between her lines. A party crowd singing the bridge.\n\nINSTRUMENTS: A bright trumpet section playing a fanfare that opens the song and answers the chorus. Congas, timbales, guiro and cowbell. A reggaeton-style kick and snare pattern. Round, bouncing bass. Nylon-string guitar plucks. Accordion-like synth in the verses. Handclaps and whistles.\n\nARRANGEMENT MAP: 0:00 Intro, trumpet fanfare and the hype voice. 0:12 Verse 1, male voice. 0:31 Pre-chorus, female lead. 0:41 Chorus 1. 1:05 Verse 2, female lead. 1:24 Pre-chorus. 1:34 Chorus 2. 1:58 Bridge in Spanish over drums and claps, the crowd joining line by line. 2:22 Verse 3, the dedications. 2:41 Final chorus with both voices and the trumpets on top. 3:10 Outro, the fanfare again, laughter, a final drum hit at 3:30.\n\nPRODUCTION & MIX: Mid-2000s global pop: punchy low end, bright horns, percussion spread wide, vocals close and lively with the ad-libs left in.\n\nSIGNATURE MOMENT: The trumpet fanfare in the first two seconds.\n\nMODERN POINT OF VIEW: The dancers are not twenty-two. Their knees complain, they learned the steps from a grandmother, and the joy is in finding it all still there. The dedication is to families and kitchens, not to one city.\n\nEMOTIONAL ARC: Reluctance, surprise, memory, shared joy.",
+  "workbookAtAGlance": "My Feet Know the Way\n\nBackup titles\nThe Body Keeps the Song / Nobody's Watching\n\nAt a glance\n100 BPM, B-flat minor\nVoice: Agile female lead, male hype voice\nLength: about 3 minutes 40",
+  "year": 2006,
+  "qa": {
+    "title": "My Feet Know the Way",
+    "id": "e00_05",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)",
+          "peak 0.04 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 234.9,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 100,
+        "bpmErrPct": 0.6,
+        "lufs": -13.7,
+        "peakDbfs": 0.04,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 0.5,
+        "contentEndSec": 234.8,
+        "vocalCoverage": 0.669,
+        "vocalSpanSec": [
+          0.9,
+          235.0
+        ],
+        "vocalF0MedianHz": 349,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.865,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)"
+        ],
+        "durationSec": 234.0,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 100,
+        "bpmErrPct": 0.6,
+        "lufs": -13.6,
+        "peakDbfs": -0.04,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.5,
+        "contentEndSec": 233.9,
+        "vocalCoverage": 0.646,
+        "vocalSpanSec": [
+          3.6,
+          233.4
+        ],
+        "vocalF0MedianHz": 349,
+        "vocalF0P25Hz": 312,
+        "lyricLineRecall": 0.892,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

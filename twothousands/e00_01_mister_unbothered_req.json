@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Mister Unbothered",
+  "prompt": "[Intro: chiming fast electric guitar riff alone, then driving bass]\n\n[Verse 1: urgent, breathless, drums enter]\nBack in the kitchen and I'm perfectly okay\nFed the cat and put the day away\nIt started with a ping, a little lit-up square\nNow I'm picturing a room and I'm not in there\nAnd he's leaning in and you're tucking your hair\nAnd the playlist's on, the one that we share\nAnd somebody laughs and it's going so well\nAnd I can't breathe and I'm fine, can't you tell?\n\n[Pre-Chorus: half-time, synth pad swells]\nBut it's only my head\nIt's only my head\nPainting it in\nPainting it red\n\n[Chorus: full band, soaring, guitar riff on top]\nParanoia\nTurning water into fire\nDrowning in a lullaby\nCall me Mister Unbothered\nI'm calm, I'm cool, I'm clawing at the sky\n'Cause I'm Mister Unbothered\n\n[Verse 2: identical words, more desperate]\nBack in the kitchen and I'm perfectly okay\nFed the cat and put the day away\nIt started with a ping, a little lit-up square\nNow I'm picturing a room and I'm not in there\nAnd he's leaning in and you're tucking your hair\nAnd the playlist's on, the one that we share\nAnd somebody laughs and it's going so well\nAnd I can't breathe and I'm fine, can't you tell?\n\n[Pre-Chorus: half-time, synth pad swells]\nBut it's only my head\nIt's only my head\nPainting it in\nPainting it red\n\n[Chorus: full band, soaring, guitar riff on top]\nParanoia\nTurning water into fire\nDrowning in a lullaby\nCall me Mister Unbothered\nI'm calm, I'm cool, I'm clawing at the sky\n'Cause I'm Mister Unbothered\n\n[Outro: band at full tilt, one phrase repeated, sudden stop]\nI'm fine\nI'm fine\nI'm fine\nI'm fine\nI'm fine\nI'm fine",
+  "style": "2004 indie rock with new wave synths, urgent strained male tenor vocal, breathless tumbling verses and a high soaring chorus, 148 BPM, D-flat major, fast bright relentless, chiming electric guitar playing a rapid climbing single-note riff throughout, big ringing second guitar chords, driving eighth-note bass, glossy synth pad and string-synth line, tight fast drums with busy hi-hats, half-time pre-chorus, dense bright compressed mix, anxious, euphoric, anthemic, crowd singalong",
+  "negativeTags": "female lead vocals, rap, slow ballad, acoustic guitar, trap hi-hats, autotune, EDM drop, saxophone",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

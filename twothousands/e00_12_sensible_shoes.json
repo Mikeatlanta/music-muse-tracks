@@ -1,0 +1,117 @@
+{
+  "id": "e00_12",
+  "title": "Sensible Shoes",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 12,
+  "slug": "e00_12_sensible_shoes",
+  "inspiredBy": "Crazy in Love (Beyoncé feat. JAY-Z, 2003)",
+  "leadVoice": "A female lead with a huge, agile voice: rapid, rhythmic and exact in the verses, full-throated in the chorus, with gospel runs and shouted ad-libs at the end. She also sings the wordless chant, stacked into a gang. A male guest raps one verse in a relaxed, conversational baritone.",
+  "model": "V6",
+  "style": "2003 R&B funk pop built on a blaring 1970s soul horn fanfare loop, powerhouse agile female lead vocal, rapid precise verses, full-throated chorus, gospel runs and ad-libs, stacked wordless chant hook, relaxed conversational male guest rap verse, 99 BPM, D minor, strutting syncopated groove, go-go style live drums with rolling toms and cowbell, deep bouncing bass, handclaps, strings in the half-time bridge, gritty horns, punchy drums, brassy, urgent, joyful",
+  "negativeTags": "slow ballad, acoustic folk, distorted rock guitar, dark mood, trap hi-hats, EDM drop, autotune",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 240,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: blaring horn fanfare loop, go-go drums, male voice]\nYes. History in the making, part two\nTell them\n\n[Hook: female lead, wordless chant over horns]\nOh no, oh no, oh no, no-no\nOh no, oh no, oh no, no-no\n\n[Verse 1: female lead, quick and precise]\nI had a five-year plan and a filing system\nColour-coded Sundays, never missed one\nThen you said my name like a song I knew\nNow I'm barefoot on a table and it's quarter past two\n\n[Pre-Chorus: drums roll, harmonies stack]\nI don't do this, this isn't me\nAsk anybody, ask my family\n\n[Chorus: full power, horns, the chant answers]\nLook what you've done to me\nKicked off my sensible shoes\nLook what you've done to me\nI've got nothing left to lose\nGot me acting like a rumour\nGot me dancing like the news\nLook what you've done\nI kicked off my sensible shoes\n(Oh no, oh no, oh no, no-no)\n\n[Verse 2: female lead, laughing through it]\nI used to check the weather, I used to read the label\nNow I'm ordering dessert before I'm even at the table\nMy mother says \"who is this?\" and my sister says \"at last\"\nI say I'm only passing through, and I'm not moving fast\n\n[Pre-Chorus: drums roll, harmonies stack]\nI don't do this, this isn't me\nAsk anybody, ask my family\n\n[Chorus: full power, horns, the chant answers]\nLook what you've done to me\nKicked off my sensible shoes\nLook what you've done to me\nI've got nothing left to lose\nGot me acting like a rumour\nGot me dancing like the news\nLook what you've done\nI kicked off my sensible shoes\n(Oh no, oh no, oh no, no-no)\n\n[Rap Verse: male guest, relaxed, horns drop to bass and drums]\nShe had a planner, I had a plan, and neither one survived\nShowed up to say hello and now I'm learning how to jive\nI'm a grown man with a mortgage and a lower-back complaint\nDoing moves from ninety-seven like a saint without restraint\nThey said act your age, I said which one, I've had a few\nThe best of them's the one I'm having standing next to you\n\n[Bridge: half-time, strings, voice soars]\nAnd I could put them on again\nI could find the door\nBut I like the floor beneath my feet\nI never felt the floor before\n\n[Final Chorus: horns, key hits, big ad-libs and runs]\nLook what you've done to me\nKicked off my sensible shoes\nLook what you've done to me\nI've got nothing left to lose\nGot me acting like a rumour\nGot me dancing like the news\nLook what you've done\nI kicked off my sensible shoes\n\n[Outro: horn fanfare, chant fading]\nOh no, oh no, oh no, no-no",
+  "taskId": "ac51d7ad484e046bd4ec24c9645fe011",
+  "sunoClipIds": [
+    "56e17a85-f6c9-48da-8d95-49fcc9b77d66",
+    "c7721a5b-924c-47a6-b965-a85ab05ee2a1"
+  ],
+  "created": "Nov 17, 2026 10:18 AM ET",
+  "createTimeMs": 1794928739003,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "56e17a85-f6c9-48da-8d95-49fcc9b77d66",
+      "durationSec": 238.48,
+      "file": "twothousands/e00_12_sensible_shoes_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c7721a5b-924c-47a6-b965-a85ab05ee2a1",
+      "durationSec": 238.76,
+      "file": "twothousands/e00_12_sensible_shoes_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_12_sensible_shoes_req.json",
+    "twothousands/e00_12_sensible_shoes_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_12_sensible_shoes.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_12_sensible_shoes.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 99 BPM, 4/4, D minor. A strutting, syncopated funk groove. Brassy, urgent and joyful.\n\nVOICE: A female lead with a huge, agile voice: rapid, rhythmic and exact in the verses, full-throated in the chorus, with gospel runs and shouted ad-libs at the end. She also sings the wordless chant, stacked into a gang. A male guest raps one verse in a relaxed, conversational baritone.\n\nINSTRUMENTS: A sampled-style horn section playing a blaring, triumphant fanfare on a loop. Go-go style live drums with rolling toms and a cowbell. A deep, bouncing bass. Handclaps. A string section in the bridge. Stabbing rhythm guitar low in the mix.\n\nARRANGEMENT MAP: 0:00 Intro, the horn fanfare and a spoken introduction. 0:10 Hook, the wordless chant. 0:20 Verse 1. 0:39 Pre-chorus. 0:49 Chorus 1. 1:13 Verse 2. 1:32 Pre-chorus. 1:42 Chorus 2. 2:06 Rap verse, horns out. 2:30 Bridge, half time with strings. 2:50 Final chorus with ad-libs. 3:19 Outro, fanfare and chant fading by 3:40.\n\nPRODUCTION & MIX: Early-2000s R&B built on an old soul sample: gritty horns, punchy live-sounding drums, a polished modern vocal on top.\n\nSIGNATURE MOMENT: The horn fanfare in the first second.\n\nMODERN POINT OF VIEW: Both singers are adults with plans, mortgages and bad backs. The recklessness is chosen, late, and enjoyed, and the bridge makes clear she could stop and does not want to.\n\nEMOTIONAL ARC: Mock alarm, delight, a guest's agreement, then full commitment.",
+  "workbookAtAGlance": "Sensible Shoes\n\nBackup titles\nQuarter Past Two / Colour-Coded Sundays\n\nAt a glance\n99 BPM, D minor\nVoice: Powerhouse female lead, male rap guest\nLength: about 3 minutes 45",
+  "year": 2003,
+  "qa": {
+    "title": "Sensible Shoes",
+    "id": "e00_12",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)"
+        ],
+        "durationSec": 238.5,
+        "measuredBpm": 95.7,
+        "bpmFactor": 1,
+        "targetBpm": 99,
+        "bpmErrPct": 3.3,
+        "lufs": -13.8,
+        "peakDbfs": -0.32,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 238.4,
+        "vocalCoverage": 0.811,
+        "vocalSpanSec": [
+          1.7,
+          217.7
+        ],
+        "vocalF0MedianHz": 444,
+        "vocalF0P25Hz": 391,
+        "lyricLineRecall": 0.981,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 238.8,
+        "measuredBpm": 95.7,
+        "bpmFactor": 1,
+        "targetBpm": 99,
+        "bpmErrPct": 3.3,
+        "lufs": -13.3,
+        "peakDbfs": -0.24,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 237.4,
+        "vocalCoverage": 0.821,
+        "vocalSpanSec": [
+          2.8,
+          225.6
+        ],
+        "vocalF0MedianHz": 437,
+        "vocalF0P25Hz": 300,
+        "lyricLineRecall": 0.942,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "R&B"
+}

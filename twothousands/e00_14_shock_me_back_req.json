@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Shock Me Back",
+  "prompt": "[Intro: lone piano figure, distant strings]\n\n[Verse 1: female voice, hushed and pure]\nHow long have I been standing at this window with the light off?\nI answer when I'm spoken to, I laugh on cue, I log off\nSomewhere in the years I put myself away for keeping\nNow I can't find where\n\n[Pre-Chorus: strings swell, drums build]\nI go through the day like a house with no one home\n\n[Chorus: wall of guitars, male shouts answer each line]\n(Shock me) Shock me back\n(I can't feel it) I've been gone too long\n(Shock me) Shock me back\nTell me something true and loud\nBefore I'm furniture\nBefore I'm stone\n(Shock me back) Bring the weather in\n\n[Verse 2: female voice, fuller, guitars held under]\nNow that I can see how much of me was only waiting\nI can't go back to quiet, I can't go back to fading\nOpen every window, turn the sirens and the rain up\nI want all of it\n\n[Pre-Chorus: strings swell, drums build]\nI go through the day like a house with no one home\n\n[Chorus: wall of guitars, male shouts answer each line]\n(Shock me) Shock me back\n(I can't feel it) I've been gone too long\n(Shock me) Shock me back\nTell me something true and loud\nBefore I'm furniture\nBefore I'm stone\n(Shock me back) Bring the weather in\n\n[Bridge: male voice shouts and raps, female voice soars over it]\nAll this time I thought that I was resting\n(I was rusting)\nAll this time I called it getting by\n(I was hiding)\nNobody's coming with a key\nSo break it, break it, break it\nOpen\n\n[Breakdown: piano and female voice alone]\nBring the weather in\n\n[Final Chorus: heaviest, both voices, choir pad]\n(Shock me) Shock me back\n(I can't feel it) I've been gone too long\n(Shock me) Shock me back\nTell me something true and loud\nBefore I'm furniture\nBefore I'm stone\n(Shock me back) Bring the weather in\n\n[Outro: piano figure, a window opening, rain]",
+  "style": "2003 gothic nu-metal with piano and strings, pure classical soaring female mezzo-soprano lead vocal, rough urgent male voice shouting short answering lines and a rap-rock bridge, 95 BPM, E minor, fragile then crushing, solitary piano figure intro, string section, thick down-tuned distorted guitars on slow heavy chords, deep bass, powerful drums with double-kick bursts, choir-like synth pad, electronic pulses, piano-and-voice breakdown, cinematic dense mix with the vocal bright on top, dramatic, yearning, cathartic",
+  "negativeTags": "upbeat pop, acoustic folk, funk, saxophone, trap hi-hats, autotune, EDM drop, reggaeton, country",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

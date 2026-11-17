@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Okay!",
+  "prompt": "[Intro: three-note synth whistle riff, heavy claps, hype man shouts]\nOkay! Okay!\nLet's go\n\n[Verse 1: smooth male tenor, sung low and quick]\nI was heading for the exit with my jacket on my arm\nSaid I'd be in bed by ten, I set a real alarm\nThen the lights went low and the bass came through the floor\nAnd my boy said \"one more song,\" and I said\n\n[Chorus: shouted hook, the crowd answers]\nOkay! (Okay!)\nShe said \"you dancing?\" I said okay! (Okay!)\nOne more hour? Okay! (Okay!)\nI'll regret it in the morning and that's okay\nOkay, okay, okay\n\n[Verse 2: smooth male tenor, more playful]\nNow I've got a meeting and a dentist and a plan\nI've been so responsible I don't know who I am\nBut the DJ's got a record that I haven't heard in years\nAnd my feet have made a motion and my common sense agrees\n\n[Chorus: shouted hook, the crowd answers]\nOkay! (Okay!)\nShe said \"you dancing?\" I said okay! (Okay!)\nOne more hour? Okay! (Okay!)\nI'll regret it in the morning and that's okay\nOkay, okay, okay\n\n[Rap Verse: fast male guest, comic, beat strips to bass and claps]\nI got a babysitter billing by the minute and I'm in it\nTold her back by half past ten and now I'm pushing every limit\nGot a text that says \"where are you,\" got a tab I didn't open\nGot a knee that isn't working and a hip that's barely coping\nBut I'm sliding to the left like it's two thousand and four\nSomebody call my chiropractor, tell him clear the floor\nIf you came here with your coat on, go ahead and check it\nIf you said you're leaving early, then you already wrecked it\n\n[Bridge: half-time, sung softly, pad and finger snaps]\nBeen saying no so long\nI forgot the other word\nSomebody asked me nicely\nAnd this is what they heard\n\n[Final Chorus: everyone, synth riff louder, whistles]\nOkay! (Okay!)\nShe said \"you dancing?\" I said okay! (Okay!)\nOne more hour? Okay! (Okay!)\nI'll regret it in the morning and that's okay\nOkay, okay, okay\n\n[Outro: synth riff alone, an alarm going off, laughter]\nOkay",
+  "style": "2004 Atlanta crunk and R&B club anthem, smooth male R&B tenor singing quick light verses with runs, hoarse shouting hype man yelling a one-word hook and ad-libs, fast comic male guest rap verse, crowd answering, 105 BPM, G minor, hard bouncing club groove, high piercing three-note synth figure repeating throughout, heavy 808 kick and sub-bass, loud layered handclaps, whistle synth, sparse string stabs, soft half-time bridge, enormous low end, dry upfront vocals, rowdy, funny, energetic",
+  "negativeTags": "female lead vocals, acoustic guitar, rock drums, slow ballad, EDM drop, dubstep, saxophone, country",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

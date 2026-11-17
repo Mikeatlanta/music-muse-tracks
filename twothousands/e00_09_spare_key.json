@@ -1,0 +1,142 @@
+{
+  "id": "e00_09",
+  "title": "Spare Key",
+  "collection": "twothousands",
+  "album": "2000s Reimagined",
+  "track": 9,
+  "slug": "e00_09_spare_key",
+  "inspiredBy": "Umbrella (Rihanna feat. JAY-Z, 2007)",
+  "leadVoice": "A female lead with a cool, slightly nasal, island-accented tone and very little vibrato. Low and steady in the verses, stronger and higher in the chorus, with the last word of the hook stretched into repeated syllables. A male rapper with a calm, authoritative voice delivers the introduction.",
+  "model": "V6",
+  "style": "2007 pop R&B with rock weight, cool slightly nasal island-accented female lead vocal with little vibrato, chorus hook word stretched into repeated echoing syllables, calm authoritative male rap introduction, 87 BPM, B-flat minor, slow heavy swinging march, loud crashing looped hi-hat and drum break, thick distorted synth bass, growing string section, dark piano, heavy electric guitars in the bridge and final chorus, synth pad, big drums, wide strings, dry present vocal, loyal, tough, warm",
+  "negativeTags": "male lead singing, acoustic folk, fast tempo, trap hi-hats, EDM drop, autotune, saxophone, country",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "2000s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: crashing hi-hat loop, male rap, distorted synth bass]\nUh-huh, uh-huh, good people\nStorms come, storms go, the locks stay the same\nWhole world gets cold, you remember this name\nNo doorbell, no code, no waiting in the rain\nYou know where it's hidden\n\n[Verse 1: female lead, cool and low]\nYou've got the code to the gate and the dog knows your name\nYou know which stair creaks and which window sticks in rain\nWhen the world locks you out and there's nowhere to be\nThere's one under the flowerpot and that one's from me\n\n[Pre-Chorus: strings rise, voice lifts]\nFriends come round for the weather\nI come round for the worst\n\n[Chorus: full beat, strings, stretched syllables]\n'Cause you've got my spare key\nCome in when it's late\nYou've got my spare key\nYou don't have to wait\nWhen the night's got no place for you\nYou know what to do\nYou've got my spare key\nKey, key, ey, ey, ey\nMy spare key\nKey, key, ey, ey, ey\n\n[Verse 2: female lead, a little warmer]\nThe numbers change, the fair-weather go\nThe ones with the cameras, the ones in the know\nBut I've seen you with nothing and I'd see you again\nLeave your shoes in the hallway and tell me when\n\n[Pre-Chorus: strings rise, voice lifts]\nFriends come round for the weather\nI come round for the worst\n\n[Chorus: full beat, strings, stretched syllables]\n'Cause you've got my spare key\nCome in when it's late\nYou've got my spare key\nYou don't have to wait\nWhen the night's got no place for you\nYou know what to do\nYou've got my spare key\nKey, key, ey, ey, ey\nMy spare key\nKey, key, ey, ey, ey\n\n[Bridge: beat thins, electric guitar, voice close]\nYou can let yourself in\nThe kettle's where it's always been\nYou don't need to say a thing\nJust come on in\n\n[Final Chorus: biggest, guitars, ad-libs over the syllables]\n'Cause you've got my spare key\nCome in when it's late\nYou've got my spare key\nYou don't have to wait\nWhen the night's got no place for you\nYou know what to do\nYou've got my spare key\nKey, key, ey, ey, ey\nMy spare key\nKey, key, ey, ey, ey\n\n[Outro: hi-hat loop alone, a key turning in a lock]\nCome on in",
+  "taskId": "09c70d0b2f5020b5c387792cad417156",
+  "sunoClipIds": [
+    "dcc88c45-5d62-40ef-937f-7a15d594191a",
+    "a17340ff-9e87-440f-9aac-bda53f9a9e72"
+  ],
+  "created": "Nov 17, 2026 10:19 AM ET",
+  "createTimeMs": 1794928771156,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "dcc88c45-5d62-40ef-937f-7a15d594191a",
+      "durationSec": 480.0,
+      "file": "twothousands/e00_09_spare_key_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a17340ff-9e87-440f-9aac-bda53f9a9e72",
+      "durationSec": 244.4,
+      "file": "twothousands/e00_09_spare_key_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twothousands/e00_09_spare_key_req.json",
+    "twothousands/e00_09_spare_key_rec.json"
+  ],
+  "cover": "twothousands/covers/e00_09_spare_key.jpg",
+  "cleanCover": "twothousands/covers/clean/e00_09_spare_key.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 87 BPM, 4/4, B-flat minor. A slow, heavy, swinging march. Tough on the outside and warm inside.\n\nVOICE: A female lead with a cool, slightly nasal, island-accented tone and very little vibrato. Low and steady in the verses, stronger and higher in the chorus, with the last word of the hook stretched into repeated syllables. A male rapper with a calm, authoritative voice delivers the introduction.\n\nINSTRUMENTS: A loud, crashing hi-hat and drum loop that sounds like a rock drummer sampled and looped. A thick, distorted synth bass. A string section that grows through the song. Heavy electric guitars that arrive in the bridge and final chorus. A dark piano under the verses. A synth pad.\n\nARRANGEMENT MAP: 0:00 Intro, the drum loop and the rap. 0:22 Verse 1. 0:44 Pre-chorus. 0:55 Chorus 1 with the stretched syllables. 1:28 Verse 2. 1:50 Pre-chorus. 2:01 Chorus 2. 2:34 Bridge, the beat thins and a guitar enters. 2:56 Final chorus with guitars and ad-libs. 3:29 Outro, the loop alone, a key turning in a lock, and one spoken line at 3:45.\n\nPRODUCTION & MIX: Late-2000s pop-R&B with rock weight: big drums, wide strings, a dry and very present lead vocal, deep sub.\n\nSIGNATURE MOMENT: The stretched syllables at the end of the first chorus.\n\nMODERN POINT OF VIEW: The pledge is domestic and middle-aged: a creaking stair, a flowerpot, a kettle. It is sung by someone who has already been through a few storms with the other person.\n\nEMOTIONAL ARC: Cool reassurance, loyalty, then an open door.",
+  "workbookAtAGlance": "Spare Key\n\nBackup titles\nUnder the Flowerpot / Kettle's Where It's Been\n\nAt a glance\n87 BPM, B-flat minor\nVoice: Cool female lead, male rap intro\nLength: about 3 minutes 50",
+  "year": 2007,
+  "qa": {
+    "title": "Spare Key",
+    "id": "e00_09",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "fail",
+        "reasons": [
+          "silence gap >2s at [201.5, 216.4, 230.9, 237.2, 270.2, 290.7, 310.8, 328.4, 333.6, 338.9, 354.4, 366.6, 376.6, 383.1, 391.3, 402.5, 414.6, 418.0, 421.2, 425.4, 440.6, 445.7, 450.9]s",
+          "abrupt ending"
+        ],
+        "durationSec": 480.0,
+        "measuredBpm": 86.1,
+        "bpmFactor": 1,
+        "targetBpm": 87,
+        "bpmErrPct": 1.0,
+        "lufs": -14.7,
+        "peakDbfs": -1.17,
+        "clipSamples": 0,
+        "midGaps": [
+          201.5,
+          216.4,
+          230.9,
+          237.2,
+          270.2,
+          290.7,
+          310.8,
+          328.4,
+          333.6,
+          338.9,
+          354.4,
+          366.6,
+          376.6,
+          383.1,
+          391.3,
+          402.5,
+          414.6,
+          418.0,
+          421.2,
+          425.4,
+          440.6,
+          445.7,
+          450.9
+        ],
+        "endFadeSec": 0.0,
+        "contentEndSec": 479.8,
+        "vocalCoverage": 0.365,
+        "vocalSpanSec": [
+          6.7,
+          479.7
+        ],
+        "vocalF0MedianHz": 349,
+        "vocalF0P25Hz": 275,
+        "lyricLineRecall": 0.808,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.4,
+        "measuredBpm": 86.1,
+        "bpmFactor": 1,
+        "targetBpm": 87,
+        "bpmErrPct": 1.0,
+        "lufs": -13.1,
+        "peakDbfs": -1.36,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 242.4,
+        "vocalCoverage": 0.715,
+        "vocalSpanSec": [
+          9.5,
+          229.1
+        ],
+        "vocalF0MedianHz": 347,
+        "vocalF0P25Hz": 309,
+        "lyricLineRecall": 0.808,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "R&B"
+}
