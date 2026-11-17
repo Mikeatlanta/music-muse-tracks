@@ -1,0 +1,115 @@
+{
+  "id": "e20_20",
+  "title": "That Zip Code",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 20,
+  "slug": "e20_20_that_zip_code",
+  "inspiredBy": "End of Beginning (Djo, 2022)",
+  "leadVoice": "Male baritone, gentle and slightly hazy in the verses, as if thinking aloud. In the chorus he lifts into a higher, stronger, sustained line with a slight strain that makes it feel reached for. Doubled in the chorus. A held note at the end of the last chorus.",
+  "model": "V6",
+  "style": "2022 psychedelic synth rock slow builder, gentle slightly hazy male baritone vocal in the verses, lifting into a higher stronger sustained chorus line with a slight strain, doubled chorus, held last note, 80 BPM, D major, slow warm and patient, warm slightly wobbly analog synthesizer chords, soft drum machine giving way to live drums in the chorus, round steady bass, clean chiming electric guitar, fuzzy lead guitar and feedback in the bridge, simple high synth melody, warm soft-focus wide mix, nostalgic, tender, bittersweet",
+  "negativeTags": "female lead vocals, rap, fast tempo, trap hi-hats, EDM drop, dubstep, country, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 190,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: warm analog synth chords, soft drum machine]\n\n[Verse 1: gentle, low, reflective]\nJust one more look before I merge\nThe water tower, the college church\nI knew a kid who lived round here\nHe had my face and half my fear\n\n[Pre-Chorus: bass enters, drums build]\nHe's on the corner in a coat too thin\nI slow the car to let him in\n\n[Chorus: full band, one long soaring line]\nAnd when I'm back in that zip code, I see him\nAnother one of me, still dreaming\nHe's twenty-four and he's got no idea\nI honk the horn and I wave\nAnd I leave him here\n\n[Verse 2: gentle, a little warmer]\nThe bar's a bank, the bank's a gym\nThe song they played still sounds like him\nI could tell him how it all turns out\nHe wouldn't listen, he'd find out\n\n[Pre-Chorus: bass and drums build]\nHe's on the corner looking at the sky\nI think he saw me driving by\n\n[Chorus: full band, one long soaring line]\nAnd when I'm back in that zip code, I see him\nAnother one of me, still dreaming\nHe's twenty-four and he's got no idea\nI honk the horn and I wave\nAnd I leave him here\n\n[Bridge: synths swell, guitar feedback, voice rising]\nYou take the man out of the town\nYou take the town out of the man\nYou can't, you can't\n\n[Final Chorus: biggest, guitars, held last note]\nAnd when I'm back in that zip code, I see him\nAnother one of me, still dreaming\nHe's twenty-four and he's got no idea\nI honk the horn and I wave\nAnd I leave him here\n\n[Outro: synth chords, a car indicator ticking, fade]",
+  "taskId": "111edd1ebed62989a4def3d7eb23e1c3",
+  "sunoClipIds": [
+    "a70fdd7c-3f50-415b-bed4-6abec9a877b1",
+    "8465913c-4c1e-470f-a994-23220020052b"
+  ],
+  "created": "Nov 17, 2026 10:22 AM ET",
+  "createTimeMs": 1794928923224,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "a70fdd7c-3f50-415b-bed4-6abec9a877b1",
+      "durationSec": 189.6,
+      "file": "twentytwenties/e20_20_that_zip_code_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "8465913c-4c1e-470f-a994-23220020052b",
+      "durationSec": 188.6,
+      "file": "twentytwenties/e20_20_that_zip_code_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_20_that_zip_code_req.json",
+    "twentytwenties/e20_20_that_zip_code_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_20_that_zip_code.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_20_that_zip_code.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, D major. Slow, warm and patient, growing into something wide and bright.\n\nVOICE: Male baritone, gentle and slightly hazy in the verses, as if thinking aloud. In the chorus he lifts into a higher, stronger, sustained line with a slight strain that makes it feel reached for. Doubled in the chorus. A held note at the end of the last chorus.\n\nINSTRUMENTS: Warm, slightly wobbly analog synthesiser chords. A soft drum machine that gives way to a live kit in the choruses. A round, steady bass. Clean, chiming electric guitar. A fuzzy lead guitar and feedback in the bridge and final chorus. A high, simple synth melody.\n\nARRANGEMENT MAP: 0:00 Intro, synth chords and drum machine. 0:12 Verse 1. 0:36 Pre-chorus. 0:48 Chorus 1. 1:12 Verse 2. 1:36 Pre-chorus. 1:48 Chorus 2. 2:12 Bridge, building with feedback. 2:24 Final chorus with guitars and a held last note. 2:44 Outro, synth chords and a car indicator ticking, fading by 2:55.\n\nPRODUCTION & MIX: Early-2020s psychedelic synth-rock: warm, soft-focus and wide, with tape-like wobble on the keys and a big, open chorus.\n\nSIGNATURE MOMENT: The first line of the chorus, when the voice lifts and the live drums arrive at 0:48.\n\nMODERN POINT OF VIEW: The original was written a few years after leaving. This is thirty years after: the bar is a bank, and he knows the kid would not listen. He waves and drives on, which is kinder than going back.\n\nEMOTIONAL ARC: Curiosity, tenderness toward a younger self, letting go.",
+  "workbookAtAGlance": "That Zip Code\n\nBackup titles\nHalf My Fear / I Leave Him Here\n\nAt a glance\n80 BPM, D major\nVoice: Gentle male baritone, soaring chorus\nLength: about 2 minutes 55",
+  "year": 2022,
+  "qa": {
+    "title": "That Zip Code",
+    "id": "e20_20",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 189.6,
+        "measuredBpm": 83.4,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 4.2,
+        "lufs": -12.9,
+        "peakDbfs": -1.09,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 188.3,
+        "vocalCoverage": 0.669,
+        "vocalSpanSec": [
+          9.9,
+          178.8
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 224,
+        "lyricLineRecall": 0.933,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 188.6,
+        "measuredBpm": 80.7,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 0.9,
+        "lufs": -13.0,
+        "peakDbfs": -0.1,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 187.9,
+        "vocalCoverage": 0.636,
+        "vocalSpanSec": [
+          18.5,
+          174.6
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.9,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other"
+}

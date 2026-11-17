@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Main Character Energy Drink",
+  "prompt": "[Intro: bouncy funk guitar, bubbly synth bass, a can opening]\n\n[Verse 1: deadpan, breathy, light beat]\nOh, he's rearranged his week\nLearned my coffee, learned my street\nTold his mother, told his priest\nI said hi, at least\n\n[Pre-Chorus: claps, voice sweetens]\nI can't relate to wanting more\nI'm what the wanting's for\n\n[Chorus: full disco-funk groove, stacked harmonies]\nI'm a main character energy drink\nOne sip and he forgets how to think\nZero sugar, a hundred per cent\nSide effects include commitment\nIs it me? It's me, it's the fizz\nLimited edition, and it is what it is\n\n[Verse 2: deadpan, quicker]\nI can't talk, I've got a thing (it's a nap)\nHe sent flowers, sent a ring (sent it back)\nSaid I'm cruel, I said I'm booked\nHe said \"please,\" I said \"look\"\n\n[Pre-Chorus: claps, voice sweetens]\nI can't relate to wanting more\nI'm what the wanting's for\n\n[Chorus: full disco-funk groove, stacked harmonies]\nI'm a main character energy drink\nOne sip and he forgets how to think\nZero sugar, a hundred per cent\nSide effects include commitment\nIs it me? It's me, it's the fizz\nLimited edition, and it is what it is\n\n[Bridge: beat thins, spoken-sung like a label being read]\nShake well\nServe cold\nDo not operate heavy machinery\nKeep out of reach of exes\n\n[Final Chorus: everything, ad-libs, extra guitar]\nI'm a main character energy drink\nOne sip and he forgets how to think\nZero sugar, a hundred per cent\nSide effects include commitment\nIs it me? It's me, it's the fizz\nLimited edition, and it is what it is\n\n[Outro: guitar lick, a sip, a satisfied sigh]\nMm. That's me.",
+  "style": "2024 retro disco-funk pop, bright sweet female vocal with a breathy top and a completely deadpan comic delivery, tight airy stacked chorus harmonies, muttered asides, half-spoken bridge, 104 BPM, C major, bouncy sunny mid-tempo strut, clean choppy funk guitar, bubbly bouncing synth bass, crisp disco drums with tight hi-hat, handclaps, glossy synth chords, small string swells, glossy bright airy mix with a close vocal, flirty, witty, confident, light",
+  "negativeTags": "male lead vocals, slow ballad, distorted guitar, dark mood, trap hi-hats, dubstep, heavy drums",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 190,
+  "callBackUrl": "https://example.com/cb"
+}

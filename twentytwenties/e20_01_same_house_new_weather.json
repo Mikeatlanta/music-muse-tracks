@@ -1,0 +1,115 @@
+{
+  "id": "e20_01",
+  "title": "Same House, New Weather",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 1,
+  "slug": "e20_01_same_house_new_weather",
+  "inspiredBy": "As It Was (Harry Styles, 2022)",
+  "leadVoice": "Male tenor, light, airy and close, with no strain. He sings quietly even though the track is fast, and uses a soft falsetto on the ends of lines. The bridge is a quick, rhythmic patter in one breath. Spoken voices at the start and end.",
+  "model": "V6",
+  "style": "2022 indie pop with a 1980s synth-pop gloss, light airy close male tenor vocal with soft falsetto, singing quietly over a fast track, quick rhythmic patter bridge, spoken phone message at the start and end, 174 BPM, A major, fast bright and light, chiming music-box-like synthesizer riff, fast steady live drums, melodic picked bass guitar, jangling clean guitar, soft pads, tubular bells in the final chorus, bright tight airy mix, wistful, lonely, bittersweet, short",
+  "negativeTags": "female lead vocals, rap, heavy distortion, slow ballad, trap hi-hats, dubstep, saxophone, belting",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: phone message beep, a grown child's voice, then synth riff]\nDad, it's me. You don't have to pick up.\nJust checking.\n\n[Verse 1: light, airy, driving drums and bass]\nHanging pictures on a nail that isn't there\nTalking to the kettle and the stairs\nSame key, same door, same number on the gate\nEverything's in place and nothing's straight\n\n[Chorus: chiming synth riff answers each line]\nSame house, new weather\nSame street, different sky\nYou'd know it and you wouldn't\nAnd neither would I\nSame house, new weather\n\n[Verse 2: light, a little lower]\nKids call Sundays, ask me if I'm fine\nI say the garden's good, I say I'm sleeping right\nYour side of the closet, my side of the bed\nAll the words I've got are words you said\n\n[Chorus: chiming synth riff answers each line]\nSame house, new weather\nSame street, different sky\nYou'd know it and you wouldn't\nAnd neither would I\nSame house, new weather\n\n[Bridge: fast patter, drums pushing, one breath]\nBins on Thursday, pills at eight, the neighbour's dog, the garden gate\nYour handwriting on every jar, the radio still in your car\nI leave it, I leave it, I leave it where you are\n\n[Final Chorus: full band, tubular bells on top]\nSame house, new weather\nSame street, different sky\nYou'd know it and you wouldn't\nAnd neither would I\nSame house, new weather\n\n[Outro: tubular bells, synth riff, phone ringing, picked up]\nHi. Yeah. I'm here.",
+  "taskId": "74301afed5ab507ce06d74f2b3c97896",
+  "sunoClipIds": [
+    "28a68bec-8b2a-4d12-802c-b2817534d02a",
+    "b0a2602d-f389-411b-9c5b-a6040a121470"
+  ],
+  "created": "Nov 17, 2026 10:20 AM ET",
+  "createTimeMs": 1794928857387,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "28a68bec-8b2a-4d12-802c-b2817534d02a",
+      "durationSec": 184.28,
+      "file": "twentytwenties/e20_01_same_house_new_weather_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "b0a2602d-f389-411b-9c5b-a6040a121470",
+      "durationSec": 184.16,
+      "file": "twentytwenties/e20_01_same_house_new_weather_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_01_same_house_new_weather_req.json",
+    "twentytwenties/e20_01_same_house_new_weather_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_01_same_house_new_weather.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_01_same_house_new_weather.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 174 BPM, 4/4, A major. Fast, bright and light on its feet. It sounds like running and feels like standing still.\n\nVOICE: Male tenor, light, airy and close, with no strain. He sings quietly even though the track is fast, and uses a soft falsetto on the ends of lines. The bridge is a quick, rhythmic patter in one breath. Spoken voices at the start and end.\n\nINSTRUMENTS: A bright, chiming synthesiser playing a short riff like a music box crossed with a 1985 keyboard. A fast, steady live drum beat. A melodic, picked bass guitar. Jangling clean guitar. Soft pads. Tubular bells ringing out in the last chorus. Phone sounds.\n\nARRANGEMENT MAP: 0:00 Intro, a message beep, two spoken lines, then the riff. 0:13 Verse 1. 0:35 Chorus 1. 0:57 Verse 2. 1:19 Chorus 2. 1:41 Bridge, fast patter. 1:58 Final chorus with tubular bells. 2:20 The riff and bells play out. 2:38 Outro, a phone rings and is answered, three spoken words at 2:48.\n\nPRODUCTION & MIX: Early-2020s indie pop with a 1980s gloss: bright, tight and airy, drums dry, synth and bells shining on top.\n\nSIGNATURE MOMENT: The synth riff entering under the voicemail at 0:07.\n\nMODERN POINT OF VIEW: The original is a young man's loneliness. Here the voice message is from a grown child, the house is a long marriage's house, and in the last three seconds he answers the phone.\n\nEMOTIONAL ARC: Numb routine, missing someone, a rush of small memories, picking up.",
+  "workbookAtAGlance": "Same House, New Weather\n\nBackup titles\nNothing's Straight / Nobody Told the Kettle\n\nAt a glance\n174 BPM, A major\nVoice: Light airy male tenor\nLength: about 2 minutes 50",
+  "year": 2022,
+  "qa": {
+    "title": "Same House, New Weather",
+    "id": "e20_01",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 184.3,
+        "measuredBpm": 172.3,
+        "bpmFactor": 1,
+        "targetBpm": 174,
+        "bpmErrPct": 1.0,
+        "lufs": -13.9,
+        "peakDbfs": -0.24,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 181.8,
+        "vocalCoverage": 0.65,
+        "vocalSpanSec": [
+          9.9,
+          181.7
+        ],
+        "vocalF0MedianHz": 309,
+        "vocalF0P25Hz": 277,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 184.2,
+        "measuredBpm": 172.3,
+        "bpmFactor": 1,
+        "targetBpm": 174,
+        "bpmErrPct": 1.0,
+        "lufs": -13.7,
+        "peakDbfs": -0.51,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 181.7,
+        "vocalCoverage": 0.581,
+        "vocalSpanSec": [
+          13.3,
+          177.5
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 234,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Synth-Pop"
+}

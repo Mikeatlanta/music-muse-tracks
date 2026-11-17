@@ -1,0 +1,115 @@
+{
+  "id": "e20_02",
+  "title": "Cold Snap in July",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 2,
+  "slug": "e20_02_cold_snap_in_july",
+  "inspiredBy": "Heat Waves (Glass Animals, 2020)",
+  "leadVoice": "Male tenor, soft and intimate, with a breathy falsetto on the chorus top line. His voice is doubled with copies that are pitched down or wobble slightly out of tune. The intro and outro use a slowed, warped version of the same voice.",
+  "model": "V6",
+  "style": "2020 psychedelic pop with hip-hop drums, soft intimate male tenor vocal with breathy falsetto on the chorus, voice doubled by pitched-down and slightly detuned copies, slowed warped voice in the intro and outro, 81 BPM, B major, slow heavy and hazy, wobbling detuned synthesizer chords, slow hard-hitting drum beat with deep kick and snappy snare, heavy sub-bass, clean twanging electric guitar line, vinyl crackle, tape flutter, beatless bridge, thick warm unstable mix, woozy, nostalgic, aching",
+  "negativeTags": "female lead vocals, fast tempo, rock distortion, bright clean pop, EDM drop, saxophone, country",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: pitched-down warped voice, hazy synth, vinyl crackle]\nOut of the blue\nOut of the blue\n\n[Verse 1: soft, close, slow heavy beat enters]\nRoad shimmer, ice-cream van\nI was laughing with a drink in my hand\nThen a song from a passing car\nAnd I'm back, I'm back where you are\n\n[Chorus: falsetto on top, warped synths, deep bass]\nCold snap in July, out of the blue\nSunburn and a shiver, that's you\nEverybody's swimming and I'm wearing your sweater\nCan't make it warmer, can't make it better\nCold snap in July\n\n[Verse 2: soft, a little heavier]\nYou'd want me happy, I can hear you say it\nI've got the summer and I don't know how to play it\nGarden full of people, table full of food\nAnd a draught only I walk through\n\n[Chorus: falsetto on top, warped synths, deep bass]\nCold snap in July, out of the blue\nSunburn and a shiver, that's you\nEverybody's swimming and I'm wearing your sweater\nCan't make it warmer, can't make it better\nCold snap in July\n\n[Bridge: beat drops out, voice and guitar, tape wobble]\nIt passes\nIt always passes\nI let it stay a while\nI let it\n\n[Final Chorus: full, extra harmonies, guitar line]\nCold snap in July, out of the blue\nSunburn and a shiver, that's you\nEverybody's swimming and I'm wearing your sweater\nCan't make it warmer, can't make it better\nCold snap in July\n\n[Outro: warped voice, crackle, children playing far off]\nOut of the blue",
+  "taskId": "cb244b43203745528a0722026d5c5574",
+  "sunoClipIds": [
+    "16273840-5bfe-4fbb-9c8b-9953978e4f70",
+    "e37ff14f-a6d8-4f63-92cb-0b2d03bd820e"
+  ],
+  "created": "Nov 17, 2026 10:21 AM ET",
+  "createTimeMs": 1794928862297,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "16273840-5bfe-4fbb-9c8b-9953978e4f70",
+      "durationSec": 204.76,
+      "file": "twentytwenties/e20_02_cold_snap_in_july_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "e37ff14f-a6d8-4f63-92cb-0b2d03bd820e",
+      "durationSec": 203.96,
+      "file": "twentytwenties/e20_02_cold_snap_in_july_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_02_cold_snap_in_july_req.json",
+    "twentytwenties/e20_02_cold_snap_in_july_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_02_cold_snap_in_july.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_02_cold_snap_in_july.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 81 BPM, 4/4, B major. Slow, heavy and hazy. Everything bends slightly, like air over hot tarmac.\n\nVOICE: Male tenor, soft and intimate, with a breathy falsetto on the chorus top line. His voice is doubled with copies that are pitched down or wobble slightly out of tune. The intro and outro use a slowed, warped version of the same voice.\n\nINSTRUMENTS: Wobbling, detuned synthesiser chords. A slow, hard-hitting hip-hop drum beat with a deep kick and a snappy snare. Heavy sub-bass. A clean, twanging electric guitar line. Vinyl crackle and tape flutter. Distant outdoor sounds.\n\nARRANGEMENT MAP: 0:00 Intro, the warped voice and hazy synth. 0:15 Verse 1, the beat enters. 0:45 Chorus 1. 1:15 Verse 2. 1:45 Chorus 2. 2:15 Bridge, no beat, voice and guitar with tape wobble. 2:30 Final chorus with harmonies. 3:00 Outro, the warped voice and far-off children playing, ending at 3:10.\n\nPRODUCTION & MIX: Early-2020s psychedelic pop with hip-hop drums: thick, warm and deliberately unstable in pitch, bass very deep, vocals close.\n\nSIGNATURE MOMENT: The slowed, warped voice in the first five seconds.\n\nMODERN POINT OF VIEW: The bridge is the older voice: it passes, it always passes, and he lets it stay a while. That is how grief is carried decades on, at a garden party with a full table.\n\nEMOTIONAL ARC: Ease, ambush, ache, acceptance.",
+  "workbookAtAGlance": "Cold Snap in July\n\nBackup titles\nSunburn and a Shiver / Wearing Your Sweater\n\nAt a glance\n81 BPM, B major\nVoice: Soft male tenor with falsetto, pitch-bent doubles\nLength: about 3 minutes 10",
+  "year": 2020,
+  "qa": {
+    "title": "Cold Snap in July",
+    "id": "e20_02",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.8,
+        "measuredBpm": 80.7,
+        "bpmFactor": 1,
+        "targetBpm": 81,
+        "bpmErrPct": 0.3,
+        "lufs": -12.2,
+        "peakDbfs": -0.4,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 201.9,
+        "vocalCoverage": 0.619,
+        "vocalSpanSec": [
+          1.7,
+          182.7
+        ],
+        "vocalF0MedianHz": 282,
+        "vocalF0P25Hz": 249,
+        "lyricLineRecall": 0.897,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.0,
+        "measuredBpm": 80.7,
+        "bpmFactor": 1,
+        "targetBpm": 81,
+        "bpmErrPct": 0.3,
+        "lufs": -13.3,
+        "peakDbfs": -1.29,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.8,
+        "contentEndSec": 202.6,
+        "vocalCoverage": 0.774,
+        "vocalSpanSec": [
+          1.8,
+          197.9
+        ],
+        "vocalF0MedianHz": 283,
+        "vocalF0P25Hz": 186,
+        "lyricLineRecall": 0.897,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop"
+}

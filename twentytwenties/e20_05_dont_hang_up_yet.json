@@ -1,0 +1,119 @@
+{
+  "id": "e20_05",
+  "title": "Don't Hang Up Yet",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 5,
+  "slug": "e20_05_dont_hang_up_yet",
+  "inspiredBy": "STAY (The Kid LAROI & Justin Bieber, 2021)",
+  "leadVoice": "Two men. The first is young with a rough, cracked, slightly nasal tenor and an Australian edge, half singing and half shouting. The second is smooth, polished and higher, with clean runs and a falsetto harmony. They sing the choruses together.",
+  "model": "V6",
+  "style": "2021 hyper-compact synth pop with pop-punk energy, two male voices, a rough cracked slightly nasal young tenor half singing and half shouting, and a smooth polished higher tenor with clean runs and falsetto harmony, choruses together, 170 BPM, D-flat major, flat-out sprint, buzzing distorted synthesizer playing a fast simple riff, punchy fast drums, thick synth bass, bright pads, filter sweeps, two-bar dropped bridge, abrupt ending, loud bright tightly compressed mix, urgent, pleading, catchy, very short",
+  "negativeTags": "female lead vocals, slow ballad, acoustic guitar, long intro, jazz, saxophone, country, strings",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 160,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: buzzing fast synth riff, straight into the hook]\nOh-oh, don't hang up yet\n\n[Verse 1: rough young tenor, fast, punchy drums]\nI said I'd change and I meant it for a week\nI said I'd call and I waited till you'd sleep\nI know the script, I'm the one who always bends it\nEvery sorry that I send, you could have penned it\n\n[Chorus: both voices, full synths, driving beat]\nOh-oh, don't hang up yet\nI've got one more thing and I haven't said it\nOh-oh, give me ten more seconds\nI'll get it right, I swear I'm getting better\nDon't hang up yet\n\n[Verse 2: smooth tenor, higher, melodic]\nI can hear you breathing, I can hear the television\nI can hear you weighing up a very fair decision\nI've been every kind of late and every kind of wrong\nBut I'm here, and I am asking, and it won't take long\n\n[Chorus: both voices, full synths, driving beat]\nOh-oh, don't hang up yet\nI've got one more thing and I haven't said it\nOh-oh, give me ten more seconds\nI'll get it right, I swear I'm getting better\nDon't hang up yet\n\n[Bridge: beat drops for two bars, voices close]\nNine, eight, seven\nStill there?\n\n[Final Chorus: everything, falsetto harmony on top]\nOh-oh, don't hang up yet\nI've got one more thing and I haven't said it\nOh-oh, give me ten more seconds\nI'll get it right, I swear I'm getting better\nDon't hang up yet\n\n[Outro: synth riff cuts off, a dial tone]",
+  "taskId": "da6dc3fe9e4542988129e9d669bd9a64",
+  "sunoClipIds": [
+    "66bbd11d-2091-4138-8f35-96cb21356350",
+    "1c836a24-d947-4211-85e8-893a8a3088c3"
+  ],
+  "created": "Nov 17, 2026 10:20 AM ET",
+  "createTimeMs": 1794928857534,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "66bbd11d-2091-4138-8f35-96cb21356350",
+      "durationSec": 159.6,
+      "file": "twentytwenties/e20_05_dont_hang_up_yet_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "1c836a24-d947-4211-85e8-893a8a3088c3",
+      "durationSec": 159.48,
+      "file": "twentytwenties/e20_05_dont_hang_up_yet_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_05_dont_hang_up_yet_req.json",
+    "twentytwenties/e20_05_dont_hang_up_yet_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_05_dont_hang_up_yet.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_05_dont_hang_up_yet.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 170 BPM, 4/4, D-flat major. A flat-out sprint. Urgent, bright and over quickly.\n\nVOICE: Two men. The first is young with a rough, cracked, slightly nasal tenor and an Australian edge, half singing and half shouting. The second is smooth, polished and higher, with clean runs and a falsetto harmony. They sing the choruses together.\n\nINSTRUMENTS: A buzzing, distorted synthesiser playing a fast, simple riff, the main hook. A punchy, fast drum beat between pop-punk and synth-pop. A thick synth bass. Bright pads. A filtered sweep before each chorus. A phone dial tone at the end.\n\nARRANGEMENT MAP: 0:00 Intro, the synth riff and one line of the hook. 0:08 Verse 1. 0:30 Chorus 1. 0:52 Verse 2, the second voice. 1:14 Chorus 2. 1:36 Bridge, two bars with the beat dropped. 1:44 Final chorus with a falsetto harmony. 2:10 Outro, the riff cuts off mid-phrase into a dial tone at 2:20.\n\nPRODUCTION & MIX: Early-2020s hyper-compact pop: loud, bright and tightly compressed, no intro to speak of, no wasted bars.\n\nSIGNATURE MOMENT: The abrupt cut to a dial tone at the end.\n\nMODERN POINT OF VIEW: Verse 2 listens to the other end of the line: the television, the breathing, a fair decision being weighed. The second singer sounds like someone who has learned that the other person owes him nothing.\n\nEMOTIONAL ARC: Excuses, honesty, a countdown, an open ending.",
+  "workbookAtAGlance": "Don't Hang Up Yet\n\nBackup titles\nTen More Seconds / You Could Have Penned It\n\nAt a glance\n170 BPM, D-flat major\nVoice: Two male voices: rough young tenor, smooth tenor\nLength: about 2 minutes 25",
+  "year": 2021,
+  "qa": {
+    "title": "Don't Hang Up Yet",
+    "id": "e20_05",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 159.6,
+        "measuredBpm": 172.3,
+        "bpmFactor": 1,
+        "targetBpm": 170,
+        "bpmErrPct": 1.3,
+        "lufs": -13.0,
+        "peakDbfs": -0.72,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 3.5,
+        "contentEndSec": 158.4,
+        "vocalCoverage": 0.815,
+        "vocalSpanSec": [
+          0.1,
+          149.4
+        ],
+        "vocalF0MedianHz": 311,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.96,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 185 BPM vs 170 target (~9% off)"
+        ],
+        "durationSec": 159.5,
+        "measuredBpm": 184.6,
+        "bpmFactor": 1,
+        "targetBpm": 170,
+        "bpmErrPct": 8.6,
+        "lufs": -14.0,
+        "peakDbfs": -0.66,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 158.1,
+        "vocalCoverage": 0.803,
+        "vocalSpanSec": [
+          0.4,
+          154.5
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 234,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Synth-Pop"
+}

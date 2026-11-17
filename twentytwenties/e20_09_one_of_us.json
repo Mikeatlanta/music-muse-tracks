@@ -1,0 +1,117 @@
+{
+  "id": "e20_09",
+  "title": "One of Us",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 9,
+  "slug": "e20_09_one_of_us",
+  "inspiredBy": "Not Like Us (Kendrick Lamar, 2024)",
+  "leadVoice": "A male rapper with a nimble, slightly high, animated voice who changes tone from line to line: teasing, warm, declamatory. A large crowd of all ages shouts the answers. In the bridge he stretches the first word of the title over a long, sliding held note and the crowd joins in.",
+  "model": "V6",
+  "style": "2024 West Coast party hip-hop, nimble animated slightly high male rapper changing tone line by line, large crowd of all ages shouting call-and-response answers, one long sliding held note in the bridge with the crowd joining, 101 BPM, C minor, loose bouncing party groove, short stabbing string hits in a repeating pattern, finger snaps on the backbeat, fat bouncing 808 bass, sparse kick, crowd handclaps, high synth whine, block party sounds, clean sparse bass-heavy mix, proud, funny, communal, celebratory",
+  "negativeTags": "female lead vocals, slow ballad, rock guitar, autotune singing, EDM drop, dubstep, country, piano",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: string stabs, finger snaps, bouncing bass, a voice calling]\nWho's that? Who's that?\nCome on over\n\n[Verse 1: male rap, relaxed bounce, clear diction]\nPull up where the taco truck parks by the light\nKids doing wheelies in the last of the night\nMiss Loretta on the stoop with the news and a fan\nIf you grew up on this block then you know who I am\nGot the barber and the baker and the coach from the Y\nGot an uncle with the stories that are forty per cent lie\nWe don't check your shoes and we don't check your plates\nIf you carry in the groceries, you're one of the greats\n\n[Chorus: crowd call and response, claps on every beat]\nHey (hey), who's that?\nOne of us\nFrom the east side?\nOne of us\nWith the bad knees?\nOne of us\nBrought a plate?\nThen you're one of us\n\n[Verse 2: male rap, faster, playful]\nNew folks on the corner with the paint still wet\nWave when you see us, we ain't met you yet\nGot a kid who needs a ride? Got a cat up a tree?\nGot a cousin getting married? Bring the chairs, call me\nWe been here through the floods and the freeze and the fights\nThrough the landlords and the layoffs and the long summer nights\nYou can keep your gated driveway and your doorbell with a lens\nWe got eyes on every porch, and every porch is full of friends\n\n[Chorus: crowd call and response, claps on every beat]\nHey (hey), who's that?\nOne of us\nFrom the west side?\nOne of us\nWith the loud laugh?\nOne of us\nStayed to clean?\nThen you're one of us\n\n[Bridge: beat drops to snaps, one long held note, crowd joins]\nO-o-o-o-o-o-one\nOf us\nSay it with your chest\n\n[Final Chorus: full beat, whole block shouting, whistles]\nHey (hey), who's that?\nOne of us\nGot a story?\nOne of us\nGot nobody?\nOne of us\nCome on in\nNow you're one of us\n\n[Outro: snaps and strings, children laughing, a grill hissing]\nOne of us",
+  "taskId": "a0f82dbb6f3ca4db308ab7f2f100d765",
+  "sunoClipIds": [
+    "ef5cc4c3-d001-4367-9db9-0fa0404d4cea",
+    "ef62ec68-025b-4fc3-8c07-dd925231ec8b"
+  ],
+  "created": "Nov 17, 2026 10:21 AM ET",
+  "createTimeMs": 1794928874273,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ef5cc4c3-d001-4367-9db9-0fa0404d4cea",
+      "durationSec": 214.8,
+      "file": "twentytwenties/e20_09_one_of_us_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ef62ec68-025b-4fc3-8c07-dd925231ec8b",
+      "durationSec": 214.28,
+      "file": "twentytwenties/e20_09_one_of_us_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_09_one_of_us_req.json",
+    "twentytwenties/e20_09_one_of_us_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_09_one_of_us.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_09_one_of_us.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 101 BPM, 4/4, C minor. A loose, bouncing West Coast party groove. Proud, funny and communal.\n\nVOICE: A male rapper with a nimble, slightly high, animated voice who changes tone from line to line: teasing, warm, declamatory. A large crowd of all ages shouts the answers. In the bridge he stretches the first word of the title over a long, sliding held note and the crowd joins in.\n\nINSTRUMENTS: Short, stabbing string hits in a repeating pattern. Finger snaps on the backbeat. A fat, bouncing 808 bass. A sparse kick. Handclaps from the crowd. A high synth whine in the chorus. Party sounds: whistles, laughter, a grill.\n\nARRANGEMENT MAP: 0:00 Intro, string stabs, snaps and a call. 0:10 Verse 1. 0:48 Chorus 1, call and response. 1:07 Verse 2. 1:45 Chorus 2. 2:04 Bridge, the beat drops to snaps and the long held note. 2:23 Final chorus with the whole block. 2:52 The beat rides with ad-libs. 3:08 Outro, snaps and strings with street sounds, one last shout at 3:16.\n\nPRODUCTION & MIX: Mid-2020s West Coast club rap: clean, sparse and bass-heavy, with the voice dry in the centre and the crowd wide around it.\n\nSIGNATURE MOMENT: The long, sliding held note at 2:04.\n\nMODERN POINT OF VIEW: The original draws a line to keep someone out. This one uses the same chant to count people in, including the new neighbours with wet paint. It is what the song became when crowds took it over.\n\nEMOTIONAL ARC: Pride, welcome, unity.",
+  "workbookAtAGlance": "One of Us\n\nBackup titles\nBrought a Plate / Forty Per Cent Lie\n\nAt a glance\n101 BPM, C minor\nVoice: Male rapper, crowd call-and-response\nLength: about 3 minutes 20",
+  "year": 2024,
+  "qa": {
+    "title": "One of Us",
+    "id": "e20_09",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 101,
+        "bpmErrPct": 2.3,
+        "lufs": -13.7,
+        "peakDbfs": -0.37,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 213.8,
+        "vocalCoverage": 0.614,
+        "vocalSpanSec": [
+          0.9,
+          213.6
+        ],
+        "vocalF0MedianHz": 769,
+        "vocalF0P25Hz": 391,
+        "lyricLineRecall": 0.955,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.14 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 214.3,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 101,
+        "bpmErrPct": 1.6,
+        "lufs": -13.9,
+        "peakDbfs": 0.14,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 214.2,
+        "vocalCoverage": 0.717,
+        "vocalSpanSec": [
+          0.4,
+          212.6
+        ],
+        "vocalF0MedianHz": 372,
+        "vocalF0P25Hz": 258,
+        "lyricLineRecall": 0.932,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop"
+}

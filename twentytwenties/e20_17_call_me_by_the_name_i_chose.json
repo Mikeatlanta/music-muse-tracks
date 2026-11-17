@@ -1,0 +1,124 @@
+{
+  "id": "e20_17",
+  "title": "Call Me by the Name I Chose",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 17,
+  "slug": "e20_17_call_me_by_the_name_i_chose",
+  "inspiredBy": "MONTERO (Call Me by Your Name) (Lil Nas X, 2021)",
+  "leadVoice": "Male, low and relaxed in the verses, half sung with a smile, then a light, bright falsetto in the pre-chorus. A deep, wordless hum is the main hook and returns between chorus lines. Falsetto harmonies in the last chorus. Spoken-sung and close in the bridge.",
+  "model": "V6",
+  "style": "2021 pop rap with flamenco guitar, low relaxed male vocal half sung with a smile, light bright falsetto pre-chorus and harmonies, a deep wordless hummed hook between lines, spoken-sung bridge, 89 BPM with a double-time sway, G-sharp minor with a Spanish Phrygian colour, nylon-string guitar playing fast flamenco-style runs and strums, syncopated flamenco handclaps, heavy sliding 808 sub-bass, sparse trap kick and snare with rattling hi-hats, dark synth pad, guitar and claps dry and upfront, sultry, confident, proud",
+  "negativeTags": "female lead vocals, rock drums, distorted guitar, slow piano ballad, country, saxophone, big choir",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 175,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: flamenco-style guitar run, handclaps, a low hum]\nMm-mm, mm-mm\n\n[Verse 1: low, relaxed, half sung]\nI was a good kid in a borrowed shirt\nSaid the right things so nobody got hurt\nKept the real one folded in a drawer\nI'm not folding any more\n\n[Pre-Chorus: 808 bass slides in, falsetto]\nYou can keep the one they gave me\nIt was never mine to wear\n\n[Chorus: heavy bass, handclaps, hummed hook between lines]\nCall me by the name I chose\nSay it like you mean it, say it slow\nI don't answer to the old one, no\nMm-mm, mm-mm\nCall me when you're ready, call me bold\nCall me by the name I chose\n\n[Verse 2: low, playful, a grin in it]\nShowed up to the party in my grandmother's ring\nSomebody said \"who's that?\" and I said \"everything\"\nI've been underlined, I've been crossed out too\nNow I sign it how I want, in blue\n\n[Pre-Chorus: 808 bass slides, falsetto]\nYou can keep the one they gave me\nIt was never mine to wear\n\n[Chorus: heavy bass, handclaps, hummed hook between lines]\nCall me by the name I chose\nSay it like you mean it, say it slow\nI don't answer to the old one, no\nMm-mm, mm-mm\nCall me when you're ready, call me bold\nCall me by the name I chose\n\n[Bridge: guitar and claps only, spoken-sung, close]\nTo the kid in the borrowed shirt\nI kept your drawer\nThere's nothing in it now\n\n[Final Chorus: full, falsetto harmonies, guitar flourishes]\nCall me by the name I chose\nSay it like you mean it, say it slow\nI don't answer to the old one, no\nMm-mm, mm-mm\nCall me by the name I chose\n\n[Outro: hum, a final guitar flourish, handclap]\nMm-mm",
+  "taskId": "dcfe39365793e68294ff152876e52205",
+  "sunoClipIds": [
+    "1d4da248-c2c1-4764-af24-78c9ec943301",
+    "d1f07e06-16ff-48c9-804f-75f7e95b539e"
+  ],
+  "created": "Nov 17, 2026 10:21 AM ET",
+  "createTimeMs": 1794928911843,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "1d4da248-c2c1-4764-af24-78c9ec943301",
+      "durationSec": 174.76,
+      "file": "twentytwenties/e20_17_call_me_by_the_name_i_chose_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d1f07e06-16ff-48c9-804f-75f7e95b539e",
+      "durationSec": 174.32,
+      "file": "twentytwenties/e20_17_call_me_by_the_name_i_chose_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_17_call_me_by_the_name_i_chose_req.json",
+    "twentytwenties/e20_17_call_me_by_the_name_i_chose_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_17_call_me_by_the_name_i_chose.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_17_call_me_by_the_name_i_chose.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 89 BPM with a double-time sway, G-sharp minor with a Spanish, Phrygian colour. Sultry, loose and confident.\n\nVOICE: Male, low and relaxed in the verses, half sung with a smile, then a light, bright falsetto in the pre-chorus. A deep, wordless hum is the main hook and returns between chorus lines. Falsetto harmonies in the last chorus. Spoken-sung and close in the bridge.\n\nINSTRUMENTS: A nylon-string guitar playing fast flamenco-style runs and strums. Flamenco handclaps in a syncopated pattern. A heavy, sliding 808 sub-bass. A sparse trap-style kick and snare with rattling hi-hats. A dark synth pad. A plucked string figure in the chorus.\n\nARRANGEMENT MAP: 0:00 Intro, a guitar run, handclaps and the hum. 0:11 Verse 1. 0:33 Pre-chorus. 0:44 Chorus 1. 1:06 Verse 2. 1:28 Pre-chorus. 1:39 Chorus 2. 2:01 Bridge, guitar and claps, three lines. 2:12 Final chorus, five lines with falsetto harmonies. 2:30 Outro, the hum, a guitar flourish and one clap at 2:38.\n\nPRODUCTION & MIX: Early-2020s pop-rap: guitar and claps dry and upfront, the bass enormous underneath, vocals close and lightly tuned.\n\nSIGNATURE MOMENT: The hummed hook over the guitar in the first five seconds.\n\nMODERN POINT OF VIEW: The bridge speaks to the younger self directly and reports that the drawer is empty. The name could be chosen at twenty or at sixty, and the song is written to hold either.\n\nEMOTIONAL ARC: Remembered hiding, play, pride, peace with the past.",
+  "workbookAtAGlance": "Call Me by the Name I Chose\n\nBackup titles\nNot Folding Any More / Say It Slow\n\nAt a glance\n89 BPM (double-time feel), G-sharp minor\nVoice: Low male voice with falsetto, hums\nLength: about 2 minutes 40",
+  "year": 2021,
+  "qa": {
+    "title": "Call Me by the Name I Chose",
+    "id": "e20_17",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 174.8,
+        "measuredBpm": 89.1,
+        "bpmFactor": 1,
+        "targetBpm": 89,
+        "bpmErrPct": 0.1,
+        "lufs": -14.0,
+        "peakDbfs": -0.34,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 173.1,
+        "vocalCoverage": 0.54,
+        "vocalSpanSec": [
+          13.5,
+          168.2
+        ],
+        "vocalF0MedianHz": 168,
+        "vocalF0P25Hz": 156,
+        "lyricLineRecall": 0.848,
+        "lyricUnclearSections": [
+          "Intro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.08 dBFS (3 clipped sample, inaudible)",
+          "tempo measured 68 BPM vs 89 target (~15% off)"
+        ],
+        "durationSec": 174.3,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1.5,
+        "targetBpm": 89,
+        "bpmErrPct": 14.6,
+        "lufs": -14.2,
+        "peakDbfs": 0.08,
+        "clipSamples": 3,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 174.0,
+        "vocalCoverage": 0.526,
+        "vocalSpanSec": [
+          16.8,
+          165.2
+        ],
+        "vocalF0MedianHz": 156,
+        "vocalF0P25Hz": 138,
+        "lyricLineRecall": 0.848,
+        "lyricUnclearSections": [
+          "Intro"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "That Zip Code",
+  "prompt": "[Intro: warm analog synth chords, soft drum machine]\n\n[Verse 1: gentle, low, reflective]\nJust one more look before I merge\nThe water tower, the college church\nI knew a kid who lived round here\nHe had my face and half my fear\n\n[Pre-Chorus: bass enters, drums build]\nHe's on the corner in a coat too thin\nI slow the car to let him in\n\n[Chorus: full band, one long soaring line]\nAnd when I'm back in that zip code, I see him\nAnother one of me, still dreaming\nHe's twenty-four and he's got no idea\nI honk the horn and I wave\nAnd I leave him here\n\n[Verse 2: gentle, a little warmer]\nThe bar's a bank, the bank's a gym\nThe song they played still sounds like him\nI could tell him how it all turns out\nHe wouldn't listen, he'd find out\n\n[Pre-Chorus: bass and drums build]\nHe's on the corner looking at the sky\nI think he saw me driving by\n\n[Chorus: full band, one long soaring line]\nAnd when I'm back in that zip code, I see him\nAnother one of me, still dreaming\nHe's twenty-four and he's got no idea\nI honk the horn and I wave\nAnd I leave him here\n\n[Bridge: synths swell, guitar feedback, voice rising]\nYou take the man out of the town\nYou take the town out of the man\nYou can't, you can't\n\n[Final Chorus: biggest, guitars, held last note]\nAnd when I'm back in that zip code, I see him\nAnother one of me, still dreaming\nHe's twenty-four and he's got no idea\nI honk the horn and I wave\nAnd I leave him here\n\n[Outro: synth chords, a car indicator ticking, fade]",
+  "style": "2022 psychedelic synth rock slow builder, gentle slightly hazy male baritone vocal in the verses, lifting into a higher stronger sustained chorus line with a slight strain, doubled chorus, held last note, 80 BPM, D major, slow warm and patient, warm slightly wobbly analog synthesizer chords, soft drum machine giving way to live drums in the chorus, round steady bass, clean chiming electric guitar, fuzzy lead guitar and feedback in the bridge, simple high synth melody, warm soft-focus wide mix, nostalgic, tender, bittersweet",
+  "negativeTags": "female lead vocals, rap, fast tempo, trap hi-hats, EDM drop, dubstep, country, saxophone",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 190,
+  "callBackUrl": "https://example.com/cb"
+}

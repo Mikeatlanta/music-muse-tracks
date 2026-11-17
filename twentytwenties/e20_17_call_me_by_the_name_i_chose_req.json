@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Call Me by the Name I Chose",
+  "prompt": "[Intro: flamenco-style guitar run, handclaps, a low hum]\nMm-mm, mm-mm\n\n[Verse 1: low, relaxed, half sung]\nI was a good kid in a borrowed shirt\nSaid the right things so nobody got hurt\nKept the real one folded in a drawer\nI'm not folding any more\n\n[Pre-Chorus: 808 bass slides in, falsetto]\nYou can keep the one they gave me\nIt was never mine to wear\n\n[Chorus: heavy bass, handclaps, hummed hook between lines]\nCall me by the name I chose\nSay it like you mean it, say it slow\nI don't answer to the old one, no\nMm-mm, mm-mm\nCall me when you're ready, call me bold\nCall me by the name I chose\n\n[Verse 2: low, playful, a grin in it]\nShowed up to the party in my grandmother's ring\nSomebody said \"who's that?\" and I said \"everything\"\nI've been underlined, I've been crossed out too\nNow I sign it how I want, in blue\n\n[Pre-Chorus: 808 bass slides, falsetto]\nYou can keep the one they gave me\nIt was never mine to wear\n\n[Chorus: heavy bass, handclaps, hummed hook between lines]\nCall me by the name I chose\nSay it like you mean it, say it slow\nI don't answer to the old one, no\nMm-mm, mm-mm\nCall me when you're ready, call me bold\nCall me by the name I chose\n\n[Bridge: guitar and claps only, spoken-sung, close]\nTo the kid in the borrowed shirt\nI kept your drawer\nThere's nothing in it now\n\n[Final Chorus: full, falsetto harmonies, guitar flourishes]\nCall me by the name I chose\nSay it like you mean it, say it slow\nI don't answer to the old one, no\nMm-mm, mm-mm\nCall me by the name I chose\n\n[Outro: hum, a final guitar flourish, handclap]\nMm-mm",
+  "style": "2021 pop rap with flamenco guitar, low relaxed male vocal half sung with a smile, light bright falsetto pre-chorus and harmonies, a deep wordless hummed hook between lines, spoken-sung bridge, 89 BPM with a double-time sway, G-sharp minor with a Spanish Phrygian colour, nylon-string guitar playing fast flamenco-style runs and strums, syncopated flamenco handclaps, heavy sliding 808 sub-bass, sparse trap kick and snare with rattling hi-hats, dark synth pad, guitar and claps dry and upfront, sultry, confident, proud",
+  "negativeTags": "female lead vocals, rock drums, distorted guitar, slow piano ballad, country, saxophone, big choir",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 175,
+  "callBackUrl": "https://example.com/cb"
+}

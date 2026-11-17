@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Same House, New Weather",
+  "prompt": "[Intro: phone message beep, a grown child's voice, then synth riff]\nDad, it's me. You don't have to pick up.\nJust checking.\n\n[Verse 1: light, airy, driving drums and bass]\nHanging pictures on a nail that isn't there\nTalking to the kettle and the stairs\nSame key, same door, same number on the gate\nEverything's in place and nothing's straight\n\n[Chorus: chiming synth riff answers each line]\nSame house, new weather\nSame street, different sky\nYou'd know it and you wouldn't\nAnd neither would I\nSame house, new weather\n\n[Verse 2: light, a little lower]\nKids call Sundays, ask me if I'm fine\nI say the garden's good, I say I'm sleeping right\nYour side of the closet, my side of the bed\nAll the words I've got are words you said\n\n[Chorus: chiming synth riff answers each line]\nSame house, new weather\nSame street, different sky\nYou'd know it and you wouldn't\nAnd neither would I\nSame house, new weather\n\n[Bridge: fast patter, drums pushing, one breath]\nBins on Thursday, pills at eight, the neighbour's dog, the garden gate\nYour handwriting on every jar, the radio still in your car\nI leave it, I leave it, I leave it where you are\n\n[Final Chorus: full band, tubular bells on top]\nSame house, new weather\nSame street, different sky\nYou'd know it and you wouldn't\nAnd neither would I\nSame house, new weather\n\n[Outro: tubular bells, synth riff, phone ringing, picked up]\nHi. Yeah. I'm here.",
+  "style": "2022 indie pop with a 1980s synth-pop gloss, light airy close male tenor vocal with soft falsetto, singing quietly over a fast track, quick rhythmic patter bridge, spoken phone message at the start and end, 174 BPM, A major, fast bright and light, chiming music-box-like synthesizer riff, fast steady live drums, melodic picked bass guitar, jangling clean guitar, soft pads, tubular bells in the final chorus, bright tight airy mix, wistful, lonely, bittersweet, short",
+  "negativeTags": "female lead vocals, rap, heavy distortion, slow ballad, trap hi-hats, dubstep, saxophone, belting",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "callBackUrl": "https://example.com/cb"
+}

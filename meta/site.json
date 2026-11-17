@@ -2,6 +2,37 @@
  "note": "Site layout for build_fast.py. sections: order = nav/page order; songs whose collection matches a section are added to it (new ones after the listed order). cards: per-song display overrides; new songs can omit them.",
  "sections": [
   {
+   "id": "twentytwenties",
+   "nav": "📼 2020s Reimagined",
+   "title": "📼 2020s Reimagined",
+   "blurb": "Twenty brand-new originals, each built on the hook mechanics of one of the most enduring songs of the 2020s and written from today's point of view. Pop, indie, dance and bedroom-era sounds, all original lyrics.",
+   "collections": [
+    "twentytwenties"
+   ],
+   "order": [
+    "e20_01_same_house_new_weather",
+    "e20_02_cold_snap_in_july",
+    "e20_03_thick_as_thieves",
+    "e20_04_if_the_sky_falls_on_a_tuesday",
+    "e20_05_dont_hang_up_yet",
+    "e20_06_i_got_the_keys",
+    "e20_07_main_character_energy_drink",
+    "e20_08_table_for_one",
+    "e20_09_one_of_us",
+    "e20_10_louder_than_my_secret",
+    "e20_11_rock_paper_kiss",
+    "e20_12_otra_foto",
+    "e20_13_zero_gravity_kitchen",
+    "e20_14_home_alone",
+    "e20_15_too_good_to_hold",
+    "e20_16_confetti_in_the_living_room",
+    "e20_17_call_me_by_the_name_i_chose",
+    "e20_18_problems_can_wait_till_monday",
+    "e20_19_you_looked_right_through_me",
+    "e20_20_that_zip_code"
+   ]
+  },
+  {
    "id": "twentytens",
    "nav": "📼 2010s Reimagined",
    "title": "📼 2010s Reimagined",

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Rock Paper Kiss",
+  "prompt": "[Intro: stomp-clap beat, gang chant, no instruments yet]\nRock, paper, rock, paper\nRock, paper, kiss\nRock, paper, rock, paper\nRock, paper, kiss\n\n[Verse 1: female lead, bright and teasing, guitars crash in]\nBest of three and the loser buys the round\nYou throw scissors every time, I've got you figured out\nHands behind your back and a look across the booth\nCount it down, I dare you, tell the truth\n\n[Pre-Chorus: drums build, both voices]\nOne, two, three, shoot\n\n[Chorus: gang chant, stomping beat, power chords]\nRock, paper, rock, paper\nRock, paper, kiss\nRock, paper, rock, paper\nRock, paper, kiss\nWhoever wins, whoever wins\nNobody's losing this\n\n[Verse 2: male tenor, soulful and playful]\nCall your friends and tell them it's a tournament\nWinner stays on, and I'm feeling confident\nPaper covers rock but nothing covers you\nThrow whatever, darling, I'll throw it too\n\n[Pre-Chorus: drums build, both voices]\nOne, two, three, shoot\n\n[Chorus: gang chant, stomping beat, power chords]\nRock, paper, rock, paper\nRock, paper, kiss\nRock, paper, rock, paper\nRock, paper, kiss\nWhoever wins, whoever wins\nNobody's losing this\n\n[Bridge: half-time, handclaps, both voices sweet]\nHold up, hold up\nIs it a tie?\nThen we go again\nAll night\n\n[Final Chorus: full speed, everyone shouting, guitar lead]\nRock, paper, rock, paper\nRock, paper, kiss\nRock, paper, rock, paper\nRock, paper, kiss\nWhoever wins, whoever wins\nNobody's losing this\n\n[Outro: stomp-clap alone, one last shout]\nShoot",
+  "style": "2024 pop-punk revival with early-1980s new wave cheerleader stomp, duet, bright sweet slightly nasal female pop voice on the first verse and a soulful agile male tenor on the second, gang of voices shouting a playground-style chant in unison, 149 BPM, A-flat major, stomp-clap drum pattern with huge dry snare, crunchy palm-muted guitars opening into power chords, buzzing synth bass, bright new-wave synth line, handclaps throughout, half-time bridge, squealing guitar lead, loud dry punchy mix, playful, bratty, flirty, chantable",
+  "negativeTags": "slow ballad, acoustic folk, dark mood, trap hi-hats, autotune, dubstep, saxophone, strings, jazz",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 185,
+  "callBackUrl": "https://example.com/cb"
+}

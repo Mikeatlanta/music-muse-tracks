@@ -1,0 +1,117 @@
+{
+  "id": "e20_15",
+  "title": "Too Good to Hold",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 15,
+  "slug": "e20_15_too_good_to_hold",
+  "inspiredBy": "Beautiful Things (Benson Boone, 2024)",
+  "leadVoice": "Male tenor with a very wide range. Verses are soft, warm and close with a slight tremble. The chorus is roared from the chest at the top of his range, with a rough edge and a yelp on the high notes. Wordless yelps in the bridge. The last two lines are nearly spoken.",
+  "model": "V6",
+  "style": "2024 folk rock that detonates into arena rock, powerful wide-range male tenor vocal, soft warm trembling verses and a roared full-chest chorus at the top of his range with yelps, wordless yelping bridge, near-spoken last lines, 105 BPM with a lilting sway, B-flat major, fingerpicked acoustic guitar verses, sudden loud overdriven electric guitars, pounding live drums with crashing cymbals, driving bass, piano, extreme quiet-to-loud contrast, dry intimate verse and huge wide chorus, grateful, afraid, pleading, cathartic",
+  "negativeTags": "female lead vocals, rap, synth-pop, drum machine, dance beat, trap hi-hats, autotune, saxophone",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: fingerpicked acoustic guitar, soft hum]\n\n[Verse 1: quiet, gentle, close]\nFor a while there it was rough\nI'll be honest, I'd had enough\nNow there's coffee on at six\nAnd a kid who's learning tricks\nAnd my mother calls to laugh\nAnd you sleep on my bad half\n\n[Pre-Chorus: guitar strums harder, voice rising]\nAnd I know how these things go\nI've seen a good thing overthrown\n\n[Chorus: explosive, full rock band, roared]\nSo don't move a thing\nLeave it, leave it like it is\nIf there's somebody keeping count\nI'm asking, I'm asking\nLet me keep the lot\nIt's too good to hold\nAnd it's all I've got\n\n[Verse 2: quiet again, a little shaken]\nGot a roof and a garden bed\nGot a calm inside my head\nAnd I catch myself at night\nChecking every lock and light\n'Cause the best that I have known\nHas a way of being loaned\n\n[Pre-Chorus: guitar strums harder, voice rising]\nAnd I know how these things go\nI've seen a good thing overthrown\n\n[Chorus: explosive, full rock band, roared]\nSo don't move a thing\nLeave it, leave it like it is\nIf there's somebody keeping count\nI'm asking, I'm asking\nLet me keep the lot\nIt's too good to hold\nAnd it's all I've got\n\n[Bridge: band pounding, wordless yelps, building]\nOh, oh-oh\nPlease\nOh, oh-oh\nPlease\n\n[Final Chorus: loudest, voice at the top of its range]\nSo don't move a thing\nLeave it, leave it like it is\nIf there's somebody keeping count\nI'm asking, I'm asking\nLet me keep the lot\n\n[Outro: sudden quiet, acoustic guitar, almost spoken]\nIt's too good to hold\nI'm holding it",
+  "taskId": "25b46ec35c3b6edce5702f31e4472227",
+  "sunoClipIds": [
+    "433ced3f-376c-4ac5-b06e-747e46889c2a",
+    "960a3395-db7e-4a91-983a-2223bcb90467"
+  ],
+  "created": "Nov 17, 2026 10:21 AM ET",
+  "createTimeMs": 1794928907735,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "433ced3f-376c-4ac5-b06e-747e46889c2a",
+      "durationSec": 204.52,
+      "file": "twentytwenties/e20_15_too_good_to_hold_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "960a3395-db7e-4a91-983a-2223bcb90467",
+      "durationSec": 204.8,
+      "file": "twentytwenties/e20_15_too_good_to_hold_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_15_too_good_to_hold_req.json",
+    "twentytwenties/e20_15_too_good_to_hold_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_15_too_good_to_hold.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_15_too_good_to_hold.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 105 BPM with a lilting, swaying feel, B-flat major. Hushed folk that detonates into arena rock.\n\nVOICE: Male tenor with a very wide range. Verses are soft, warm and close with a slight tremble. The chorus is roared from the chest at the top of his range, with a rough edge and a yelp on the high notes. Wordless yelps in the bridge. The last two lines are nearly spoken.\n\nINSTRUMENTS: A fingerpicked acoustic guitar. Then, all at once, loud overdriven electric guitars, pounding live drums with crashing cymbals, and a driving bass. Piano doubling the chords. A soft hum of backing voices. The band drops out completely for the last lines.\n\nARRANGEMENT MAP: 0:00 Intro, acoustic guitar. 0:10 Verse 1. 0:38 Pre-chorus. 0:48 Chorus 1, the band explodes in. 1:14 Verse 2, quiet again. 1:42 Pre-chorus. 1:52 Chorus 2. 2:18 Bridge, pounding with yelps. 2:34 Final chorus, loudest. 2:54 Outro, sudden quiet, guitar and two near-spoken lines at 3:06.\n\nPRODUCTION & MIX: Mid-2020s folk-rock built for a dramatic clip: the verse dry and intimate, the chorus huge, wide and slightly distorted, the contrast as large as possible.\n\nSIGNATURE MOMENT: The first word of the first chorus at 0:48, when the whole band arrives at once.\n\nMODERN POINT OF VIEW: The fear that good things are 'loaned' belongs to someone who has already lost a few. The last line answers the title: it is too good to hold, and he is holding it anyway.\n\nEMOTIONAL ARC: Gratitude, dread, pleading, a steady hand.",
+  "workbookAtAGlance": "Too Good to Hold\n\nBackup titles\nLeave It Like It Is / Let Me Keep the Lot\n\nAt a glance\n105 BPM (lilting), B-flat major\nVoice: Powerful male tenor, quiet then roaring\nLength: about 3 minutes 10",
+  "year": 2024,
+  "qa": {
+    "title": "Too Good to Hold",
+    "id": "e20_15",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.5,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 105,
+        "bpmErrPct": 2.5,
+        "lufs": -14.3,
+        "peakDbfs": -0.63,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 204.4,
+        "vocalCoverage": 0.746,
+        "vocalSpanSec": [
+          4.3,
+          204.3
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 264,
+        "lyricLineRecall": 0.897,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 204.8,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 105,
+        "bpmErrPct": 2.5,
+        "lufs": -13.7,
+        "peakDbfs": -0.11,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 204.3,
+        "vocalCoverage": 0.707,
+        "vocalSpanSec": [
+          7.5,
+          203.6
+        ],
+        "vocalF0MedianHz": 297,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.949,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Arena Rock"
+}

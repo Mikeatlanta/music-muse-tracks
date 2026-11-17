@@ -1,0 +1,117 @@
+{
+  "id": "e20_04",
+  "title": "If the Sky Falls on a Tuesday",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 4,
+  "slug": "e20_04_if_the_sky_falls_on_a_tuesday",
+  "inspiredBy": "Die With A Smile (Lady Gaga & Bruno Mars, 2024)",
+  "leadVoice": "A male tenor with a sweet, soulful, slightly raspy tone and an easy falsetto. A female voice with great power and a theatrical edge, warm low down and blazing at the top. They take a verse each, sing the choruses in harmony, and reach a shared high note at the end of the bridge.",
+  "model": "V6",
+  "style": "2024 retro soul rock ballad duet in a mid-1970s style, sweet soulful slightly raspy male tenor with easy falsetto and a powerful theatrical female voice, a verse each, choruses in harmony, a shared high note at the end of the bridge, 79 BPM slow swaying triplet swing, A major, warm clean electric guitar arpeggios, electric bass, live drums with a slow heavy backbeat, piano, Hammond organ, string section, bluesy lead guitar solo, live band in a room, warm tape tone, romantic, devoted, epic",
+  "negativeTags": "synth-pop, drum machine, rap, fast tempo, trap hi-hats, autotune, EDM drop, dance beat",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: warm electric guitar arpeggio, soft organ, slow swing]\n\n[Verse 1: male tenor, tender, guitar and bass]\nI had a dream the news came on\nSaid we had until the dawn\nAnd I didn't pack a thing\nI just drove to where you've been\n\n[Chorus: both voices, full band, slow sway]\nIf the sky falls on a Tuesday\nI'll be standing at your door\nWith nothing but a record\nAnd the shoes I had before\nWe'll push the couch back to the wall\nAnd dance until it's through\nIf the sky falls on a Tuesday\nI'd spend it slow with you\n\n[Verse 2: female voice, strong and warm, piano joins]\nLet the sirens do their singing\nLet the neighbours board the glass\nI've been saving up a slow one\nFor a night I knew would pass\n\n[Chorus: both voices, strings join]\nIf the sky falls on a Tuesday\nI'll be standing at your door\nWith nothing but a record\nAnd the shoes I had before\nWe'll push the couch back to the wall\nAnd dance until it's through\nIf the sky falls on a Tuesday\nI'd spend it slow with you\n\n[Guitar Solo: bluesy, singing tone, over the chorus chords]\n\n[Bridge: voices trading, building to a shared high note]\nOne more turn\n(One more turn)\nHold me there\n(Hold me there)\nLet it fall\n\n[Final Chorus: both at full power, harmonies, drums crashing]\nIf the sky falls on a Tuesday\nI'll be standing at your door\nWith nothing but a record\nAnd the shoes I had before\nWe'll push the couch back to the wall\nAnd dance until it's through\nIf the sky falls on a Tuesday\nI'd spend it slow with you\n\n[Outro: guitar arpeggio, needle lifting off a record]\nSlow, with you",
+  "taskId": "34bca67943f042863612239688a58d8a",
+  "sunoClipIds": [
+    "caa528ad-08c0-4e76-aee3-ad0a22175f89",
+    "a08529de-72d4-423d-a698-699c95cf6e50"
+  ],
+  "created": "Nov 17, 2026 10:21 AM ET",
+  "createTimeMs": 1794928884983,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "caa528ad-08c0-4e76-aee3-ad0a22175f89",
+      "durationSec": 244.92,
+      "file": "twentytwenties/e20_04_if_the_sky_falls_on_a_tuesday_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a08529de-72d4-423d-a698-699c95cf6e50",
+      "durationSec": 244.8,
+      "file": "twentytwenties/e20_04_if_the_sky_falls_on_a_tuesday_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_04_if_the_sky_falls_on_a_tuesday_req.json",
+    "twentytwenties/e20_04_if_the_sky_falls_on_a_tuesday_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_04_if_the_sky_falls_on_a_tuesday.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_04_if_the_sky_falls_on_a_tuesday.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 79 BPM with a slow, swaying triplet swing, A major. A last-dance ballad that builds from a murmur to a roar.\n\nVOICE: A male tenor with a sweet, soulful, slightly raspy tone and an easy falsetto. A female voice with great power and a theatrical edge, warm low down and blazing at the top. They take a verse each, sing the choruses in harmony, and reach a shared high note at the end of the bridge.\n\nINSTRUMENTS: A warm, clean electric guitar playing arpeggios. Electric bass. A live drum kit with a slow, heavy backbeat. Piano. Hammond-style organ. A string section from the second chorus. A bluesy lead guitar solo. The sound of a record needle.\n\nARRANGEMENT MAP: 0:00 Intro, guitar and organ. 0:12 Verse 1, the man. 0:36 Chorus 1, both voices and the band. 1:12 Verse 2, the woman. 1:36 Chorus 2, with strings. 2:12 Guitar solo. 2:30 Bridge, voices trading, rising to a shared high note. 2:48 Final chorus at full power. 3:24 Outro, the guitar arpeggio, a needle lifting from a record, three sung words at 3:42.\n\nPRODUCTION & MIX: A 2020s recording made to sound like a mid-1970s soul-rock single: live band in a room, warm tape tone, voices big and slightly saturated.\n\nSIGNATURE MOMENT: The first chorus, when the second voice joins and the drums come in at 0:36.\n\nMODERN POINT OF VIEW: The end of the world arrives on an ordinary weekday, and the plan is a couch pushed back and an old record. It is devotion as people with a long shared history would spend it.\n\nEMOTIONAL ARC: Calm decision, tenderness, abandon, peace.",
+  "workbookAtAGlance": "If the Sky Falls on a Tuesday\n\nBackup titles\nPush the Couch Back / Saving Up a Slow One\n\nAt a glance\n79 BPM (slow swing), A major\nVoice: Duet: soulful male tenor, powerhouse female\nLength: about 3 minutes 50",
+  "year": 2024,
+  "qa": {
+    "title": "If the Sky Falls on a Tuesday",
+    "id": "e20_04",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 60 BPM vs 79 target (~14% off)"
+        ],
+        "durationSec": 244.9,
+        "measuredBpm": 60.1,
+        "bpmFactor": 1.5,
+        "targetBpm": 79,
+        "bpmErrPct": 14.1,
+        "lufs": -13.6,
+        "peakDbfs": -0.58,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 244.4,
+        "vocalCoverage": 0.647,
+        "vocalSpanSec": [
+          17.5,
+          225.0
+        ],
+        "vocalF0MedianHz": 365,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.974,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.8,
+        "measuredBpm": 73.8,
+        "bpmFactor": 1,
+        "targetBpm": 79,
+        "bpmErrPct": 6.5,
+        "lufs": -14.1,
+        "peakDbfs": -0.08,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 244.4,
+        "vocalCoverage": 0.638,
+        "vocalSpanSec": [
+          6.8,
+          242.4
+        ],
+        "vocalF0MedianHz": 323,
+        "vocalF0P25Hz": 267,
+        "lyricLineRecall": 0.947,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Soul"
+}

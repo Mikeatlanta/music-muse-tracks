@@ -1,0 +1,117 @@
+{
+  "id": "e20_07",
+  "title": "Main Character Energy Drink",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 7,
+  "slug": "e20_07_main_character_energy_drink",
+  "inspiredBy": "Espresso (Sabrina Carpenter, 2024)",
+  "leadVoice": "Female, bright and sweet with a breathy top and a completely deadpan delivery. She never oversells a joke. The chorus is stacked in tight, airy harmonies. The bracketed asides are muttered. The bridge is half spoken, like reading a label.",
+  "model": "V6",
+  "style": "2024 retro disco-funk pop, bright sweet female vocal with a breathy top and a completely deadpan comic delivery, tight airy stacked chorus harmonies, muttered asides, half-spoken bridge, 104 BPM, C major, bouncy sunny mid-tempo strut, clean choppy funk guitar, bubbly bouncing synth bass, crisp disco drums with tight hi-hat, handclaps, glossy synth chords, small string swells, glossy bright airy mix with a close vocal, flirty, witty, confident, light",
+  "negativeTags": "male lead vocals, slow ballad, distorted guitar, dark mood, trap hi-hats, dubstep, heavy drums",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 190,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bouncy funk guitar, bubbly synth bass, a can opening]\n\n[Verse 1: deadpan, breathy, light beat]\nOh, he's rearranged his week\nLearned my coffee, learned my street\nTold his mother, told his priest\nI said hi, at least\n\n[Pre-Chorus: claps, voice sweetens]\nI can't relate to wanting more\nI'm what the wanting's for\n\n[Chorus: full disco-funk groove, stacked harmonies]\nI'm a main character energy drink\nOne sip and he forgets how to think\nZero sugar, a hundred per cent\nSide effects include commitment\nIs it me? It's me, it's the fizz\nLimited edition, and it is what it is\n\n[Verse 2: deadpan, quicker]\nI can't talk, I've got a thing (it's a nap)\nHe sent flowers, sent a ring (sent it back)\nSaid I'm cruel, I said I'm booked\nHe said \"please,\" I said \"look\"\n\n[Pre-Chorus: claps, voice sweetens]\nI can't relate to wanting more\nI'm what the wanting's for\n\n[Chorus: full disco-funk groove, stacked harmonies]\nI'm a main character energy drink\nOne sip and he forgets how to think\nZero sugar, a hundred per cent\nSide effects include commitment\nIs it me? It's me, it's the fizz\nLimited edition, and it is what it is\n\n[Bridge: beat thins, spoken-sung like a label being read]\nShake well\nServe cold\nDo not operate heavy machinery\nKeep out of reach of exes\n\n[Final Chorus: everything, ad-libs, extra guitar]\nI'm a main character energy drink\nOne sip and he forgets how to think\nZero sugar, a hundred per cent\nSide effects include commitment\nIs it me? It's me, it's the fizz\nLimited edition, and it is what it is\n\n[Outro: guitar lick, a sip, a satisfied sigh]\nMm. That's me.",
+  "taskId": "1ee5a5679daa2221656b9dfe7a020568",
+  "sunoClipIds": [
+    "c29c60f1-1d78-42d7-9b5d-1ed0620838c6",
+    "df2dde68-c231-46a0-8a31-d1bdb4942e84"
+  ],
+  "created": "Nov 17, 2026 10:21 AM ET",
+  "createTimeMs": 1794928865487,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "c29c60f1-1d78-42d7-9b5d-1ed0620838c6",
+      "durationSec": 189.56,
+      "file": "twentytwenties/e20_07_main_character_energy_drink_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "df2dde68-c231-46a0-8a31-d1bdb4942e84",
+      "durationSec": 188.76,
+      "file": "twentytwenties/e20_07_main_character_energy_drink_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_07_main_character_energy_drink_req.json",
+    "twentytwenties/e20_07_main_character_energy_drink_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_07_main_character_energy_drink.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_07_main_character_energy_drink.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 104 BPM, 4/4, C major. A bouncy, sunny, mid-tempo disco-funk strut. Light as a feather.\n\nVOICE: Female, bright and sweet with a breathy top and a completely deadpan delivery. She never oversells a joke. The chorus is stacked in tight, airy harmonies. The bracketed asides are muttered. The bridge is half spoken, like reading a label.\n\nINSTRUMENTS: A clean, choppy funk guitar. A bubbly, bouncing synth bass. A crisp disco drum beat with a tight hi-hat. Handclaps. Glossy synth chords. A little string swell into each chorus. Sound effects: a can opening, a sip.\n\nARRANGEMENT MAP: 0:00 Intro, funk guitar, bass and a can opening. 0:09 Verse 1. 0:27 Pre-chorus. 0:36 Chorus 1. 0:59 Verse 2. 1:17 Pre-chorus. 1:26 Chorus 2. 1:49 Bridge, the label read aloud. 2:07 Final chorus with ad-libs. 2:30 The groove rides with a guitar lick. 2:45 Outro, a sip, a sigh and three words at 2:52.\n\nPRODUCTION & MIX: Mid-2020s retro-funk pop: glossy, bright and airy, tight low end, vocals very close and lightly doubled.\n\nSIGNATURE MOMENT: The first chorus line, delivered without a smile.\n\nMODERN POINT OF VIEW: The joke borrows the language of wellness cans and warning labels. Sung by someone older it becomes a statement about no longer shrinking, and the asides ('it's a nap') are honest about energy levels.\n\nEMOTIONAL ARC: Amusement, more amusement, a wink.",
+  "workbookAtAGlance": "Main Character Energy Drink\n\nBackup titles\nSide Effects Include Commitment / It Is What It Is\n\nAt a glance\n104 BPM, C major\nVoice: Bright deadpan female voice\nLength: about 2 minutes 55",
+  "year": 2024,
+  "qa": {
+    "title": "Main Character Energy Drink",
+    "id": "e20_07",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 189.6,
+        "measuredBpm": 107.7,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 3.5,
+        "lufs": -14.3,
+        "peakDbfs": -0.98,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 188.8,
+        "vocalCoverage": 0.648,
+        "vocalSpanSec": [
+          2.4,
+          180.4
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.909,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 188.8,
+        "measuredBpm": 103.4,
+        "bpmFactor": 1,
+        "targetBpm": 104,
+        "bpmErrPct": 0.6,
+        "lufs": -14.6,
+        "peakDbfs": -0.45,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.4,
+        "contentEndSec": 187.0,
+        "vocalCoverage": 0.662,
+        "vocalSpanSec": [
+          3.3,
+          186.0
+        ],
+        "vocalF0MedianHz": 309,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.909,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Funk"
+}

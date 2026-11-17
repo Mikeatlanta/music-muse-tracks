@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Thick as Thieves",
+  "prompt": "[Intro: bright glassy guitar chords, soft drum machine]\n\n[Verse 1: breathy, close, almost whispered]\nI want you with me when they come\nI'll take the blame for what we've done\nIf they ask, I never knew your name\nI'll say it sweetly, all the same\n\n[Pre-Chorus: bass enters, harmonies bloom]\nWe stole a little time\nI'd steal it twice\n\n[Chorus: fuller beat, layered breathy voices]\nWe're thick as thieves, you and I\nGot away, got away with our lives\nIf they catch us, let them try\nI'd do the years and I wouldn't ask why\nThick as thieves\nTill the light leaves\nSay you'll stay\nDon't say you'll leave\n\n[Verse 2: breathy, a little darker]\nI'd take the fall, I'd take the weather\nDig a hole and lie in it together\nBury me where you can see the door\nI'll wait a hundred years, then more\n\n[Pre-Chorus: bass and harmonies]\nWe stole a little time\nI'd steal it twice\n\n[Chorus: fuller beat, layered breathy voices]\nWe're thick as thieves, you and I\nGot away, got away with our lives\nIf they catch us, let them try\nI'd do the years and I wouldn't ask why\nThick as thieves\nTill the light leaves\nSay you'll stay\nDon't say you'll leave\n\n[Bridge: voice opens up, one long belted high note]\nI knew you in another life\nYou had the same look in your eyes\nOh\n\n[Final Chorus: full, belted ad-libs over breathy layers]\nThick as thieves\nTill the light leaves\nSay you'll stay\nDon't say you'll leave\n\n[Outro: guitar chords, a whisper]\nI'd steal it twice",
+  "style": "2024 soft pop with a 1980s shimmer, very breathy close almost whispered female vocal with many soft self-harmonies, opening into full chest voice for one long high held note in the bridge and powerful ad-libs after it, 105 BPM, D major, gentle bright and gliding, bright glassy chorus-effected electric guitar chords, soft drum machine with light snare, warm simple synth bass, shimmering pads, bell-like synth melody, clean bright airy mix with a dry very close vocal, tender, devoted, bittersweet",
+  "negativeTags": "male lead vocals, rap, distorted guitar, heavy drums, EDM drop, trap hi-hats, saxophone, country",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

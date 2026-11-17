@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Home Alone",
+  "prompt": "[Intro: dreamy flute-like synth, soft boom-bap beat, a hum]\n\n[Verse 1: soft, floating, sweetly sung]\nI'm doing great, I'm doing yoga\nI told my therapist it's over\nShe said \"journal,\" so I drew a map\nOf your new place and a little trap\n\n[Pre-Chorus: harmonies bloom, bass slides]\nI'm so evolved, I'm so serene\nI only think about it when I breathe\n\n[Chorus: sweetest melody, gentle beat, stacked voices]\nI might booby-trap your porch\nPaint cans on a string\nMarbles on the stairs\nA feather and a spring\nI'm so mature, I've grown so much\nI'd never do a thing\nBut I might booby-trap your porch\nIt's healthier than texting you, I'm sure\n\n[Verse 2: soft, a little wicked]\nShe seems nice, I checked her page\nShe likes hiking and she's half my age\nI wish them well, I wish them rain\nI wish their smoke alarm a low battery\n\n[Pre-Chorus: harmonies bloom, bass slides]\nI'm so evolved, I'm so serene\nI only think about it when I breathe\n\n[Chorus: sweetest melody, gentle beat, stacked voices]\nI might booby-trap your porch\nPaint cans on a string\nMarbles on the stairs\nA feather and a spring\nI'm so mature, I've grown so much\nI'd never do a thing\nBut I might booby-trap your porch\nIt's healthier than texting you, I'm sure\n\n[Bridge: beat drops, voice alone with the flute synth]\nI won't, I won't\nI returned the string\nI'm fine\nI kept one marble\n\n[Final Chorus: full, high ad-libs floating on top]\nI might booby-trap your porch\nPaint cans on a string\nMarbles on the stairs\nA feather and a spring\nI'm so mature, I've grown so much\nI'd never do a thing\n\n[Outro: hum, flute synth, one marble rolling across a floor]",
+  "style": "2022 alternative R&B, soft airy floating female soprano vocal with relaxed sliding R&B phrasing, everything sung sweetly like a lullaby, stacked chorus harmonies, high wordless ad-libs at the end, 89 BPM, A-flat major, dreamy and swaying, breathy flute-like synth melody, soft dusty boom-bap drum beat, warm sliding bass, mellow electric piano chords, faint vinyl crackle, plucked guitar, beatless bridge, soft warm hazy mix with a close layered vocal, sweet, mischievous, wry, comic",
+  "negativeTags": "male lead vocals, fast tempo, distorted guitar, heavy drums, EDM drop, dubstep, country, belting",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 190,
+  "callBackUrl": "https://example.com/cb"
+}

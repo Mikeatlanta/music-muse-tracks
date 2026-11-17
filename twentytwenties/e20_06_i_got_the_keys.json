@@ -1,0 +1,117 @@
+{
+  "id": "e20_06",
+  "title": "I Got the Keys",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 6,
+  "slug": "e20_06_i_got_the_keys",
+  "inspiredBy": "drivers license (Olivia Rodrigo, 2021)",
+  "leadVoice": "Young female soprano. Verses are breathy and conversational, sung close with small catches in the voice. The chorus is fuller. In the bridge her voice is stacked many times and she belts the top line at full strength. The final chorus drops to a near whisper.",
+  "model": "V6",
+  "style": "2021 bedroom-to-arena piano pop ballad, young female soprano vocal, breathy conversational verses with small catches, fuller chorus, a bridge of many stacked voices with a belted top line, near-whispered final chorus, 72 BPM, B-flat major, slow and spacious, a doorbell tone that becomes a single repeating piano note, solo piano, soft synth pads, muted kick and handclaps, big reverberant drums and sub-bass arriving only for the bridge, intimate dry mix that becomes cathedral-sized, heartbroken, wistful, cathartic",
+  "negativeTags": "male lead vocals, rap, fast tempo, distorted guitar, dance beat, trap hi-hats, saxophone, country",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: a doorbell note repeating, becoming a single piano note]\n\n[Verse 1: breathy, close, piano only]\nI signed the lease on Tuesday\nTop floor, the one with the light\nLike we said, with the window seat\nAnd the kitchen painted white\nI carried up the boxes\nI counted every stair\nI said \"we're home\" to no one\nOut of habit, to the air\n\n[Chorus: fuller voice, soft kick, pads]\nAnd I got the keys\nTwo of them, on a ring\nOne's still warm from the cutting\nIt doesn't open anything\nI walk from room to room\nSaying \"this is where you'd be\"\nI got the keys\nNobody told the keys\n\n[Verse 2: breathy, a little bitter]\nI guess you're in the suburbs\nWith someone who can park\nSomeone who likes the quiet\nAnd is frightened of the dark\nI hope the fence is perfect\nI hope the lawn is green\nI've got a view of rooftops\nAnd a couch you've never seen\n\n[Chorus: fuller voice, handclaps, pads]\nAnd I got the keys\nTwo of them, on a ring\nOne's still warm from the cutting\nIt doesn't open anything\nI walk from room to room\nSaying \"this is where you'd be\"\nI got the keys\nNobody told the keys\n\n[Bridge: stacked voices building, drums crash in, belted]\nEmpty boxes, your handwriting\n\"Kitchen,\" \"books\" and \"fragile things\"\nI keep hearing the buzzer ring\nI keep running to let you in\nAnd it's the wind, it's the wind, it's the wind\n\n[Final Chorus: quiet again, piano and one voice]\nI got the keys\nTwo of them, on a ring\nI walk from room to room\nI'm learning where I'll be\nI got the keys\n\n[Outro: doorbell note, a key turning, door closing softly]",
+  "taskId": "344038872dbcb895870d3dd97016d11b",
+  "sunoClipIds": [
+    "2a24d7af-7e78-4a35-a5c1-9ded2ec78a85",
+    "1816d3ab-e65d-427e-8521-9719257a3d73"
+  ],
+  "created": "Nov 17, 2026 10:31 AM ET",
+  "createTimeMs": 1794929489651,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "2a24d7af-7e78-4a35-a5c1-9ded2ec78a85",
+      "durationSec": 234.68,
+      "file": "twentytwenties/e20_06_i_got_the_keys_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "1816d3ab-e65d-427e-8521-9719257a3d73",
+      "durationSec": 234.8,
+      "file": "twentytwenties/e20_06_i_got_the_keys_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_06_i_got_the_keys_req.json",
+    "twentytwenties/e20_06_i_got_the_keys_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_06_i_got_the_keys.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_06_i_got_the_keys.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 72 BPM, 4/4, B-flat major. Slow, spacious and private, rising to one very large moment.\n\nVOICE: Young female soprano. Verses are breathy and conversational, sung close with small catches in the voice. The chorus is fuller. In the bridge her voice is stacked many times and she belts the top line at full strength. The final chorus drops to a near whisper.\n\nINSTRUMENTS: A doorbell tone that repeats and is taken over by a single piano note in the same rhythm. Solo piano. Soft synth pads. A muted kick and handclaps from the first chorus. A big, reverberant drum kit and sub-bass that arrive only for the bridge. Sounds of a key and a door.\n\nARRANGEMENT MAP: 0:00 Intro, the doorbell note becoming piano. 0:12 Verse 1. 0:52 Chorus 1. 1:25 Verse 2. 2:05 Chorus 2. 2:38 Bridge, voices stacking, drums crashing in on the third line. 3:05 Final chorus, suddenly quiet, piano and one voice. 3:28 Outro, the doorbell note, a key turning and a door closing at 3:38.\n\nPRODUCTION & MIX: Early-2020s bedroom-to-arena ballad: intimate and dry at the start, cathedral-sized in the bridge, intimate again at the end.\n\nSIGNATURE MOMENT: The bridge at 2:38, when the single voice becomes a crowd of her own voices.\n\nMODERN POINT OF VIEW: The milestone is a lease, not a licence, and the last chorus changes one line: she is learning where she will be. The song lets the singer be seventeen or forty-five.\n\nEMOTIONAL ARC: Numb achievement, bitterness, a wave of grief, the first step into her own place.",
+  "workbookAtAGlance": "I Got the Keys\n\nBackup titles\nNobody Told the Keys / Top Floor With the Light\n\nAt a glance\n72 BPM, B-flat major\nVoice: Young female soprano, breathy to belted\nLength: about 3 minutes 40",
+  "year": 2021,
+  "qa": {
+    "title": "I Got the Keys",
+    "id": "e20_06",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.7,
+        "measuredBpm": 69.8,
+        "bpmFactor": 1,
+        "targetBpm": 72,
+        "bpmErrPct": 3.0,
+        "lufs": -14.5,
+        "peakDbfs": -1.29,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 232.7,
+        "vocalCoverage": 0.651,
+        "vocalSpanSec": [
+          14.4,
+          208.6
+        ],
+        "vocalF0MedianHz": 349,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 1.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 234.8,
+        "measuredBpm": 71.8,
+        "bpmFactor": 1,
+        "targetBpm": 72,
+        "bpmErrPct": 0.3,
+        "lufs": -14.0,
+        "peakDbfs": -0.31,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 232.4,
+        "vocalCoverage": 0.613,
+        "vocalSpanSec": [
+          12.5,
+          207.5
+        ],
+        "vocalF0MedianHz": 311,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.905,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Table for One",
+  "prompt": "[Intro: relaxed disco bass line, soft strings, finger snaps]\n\n[Verse 1: low, husky, unhurried]\nWe were a postcard, we were a view\nA dinner party's favourite two\nBuilt a place and watched it sell\nMm, we wished each other well\n\n[Pre-Chorus: strings rise, voice lifts a little]\nI didn't want to go, I didn't want to stay\nI sat a while, and then I found a way\n\n[Chorus: steady groove, calm, doubled voice]\nI can book a table for one\nWindow seat, the good red, the long lunch\nI can order both desserts\nLaugh at my own jokes until it hurts\nI can walk me home\nI know the way\nI can love me fine on a weekday\n\n[Verse 2: low, a little brighter]\nPainted the bedroom the colour you hated\nKept the dog and the chair, donated\nThe rest, and I learned how the boiler works\nMm, it has its quirks\n\n[Pre-Chorus: strings rise, voice lifts a little]\nI didn't want to go, I didn't want to stay\nI sat a while, and then I found a way\n\n[Chorus: steady groove, calm, doubled voice]\nI can book a table for one\nWindow seat, the good red, the long lunch\nI can order both desserts\nLaugh at my own jokes until it hurts\nI can walk me home\nI know the way\nI can love me fine on a weekday\n\n[Bridge: bass and snaps only, voice close]\nI didn't want to learn this\nI'm glad I did\nI didn't want to learn this\n\n[Final Chorus: fullest, strings soaring, voice opens]\nI can book a table for one\nWindow seat, the good red, the long lunch\nI can order both desserts\nLaugh at my own jokes until it hurts\nI can walk me home\nI know the way\nI can love me fine on a weekday\n\n[Outro: bass line, a glass set down, soft laugh]\nTable for one, please",
+  "style": "2023 soft disco pop, low husky grainy female alto vocal with a country-rock edge, measured almost conversational delivery, opening up only in the final chorus, doubled choruses, 118 BPM, A minor, relaxed steady disco walk, round melodic electric bass line leading, four-on-the-floor kick with soft snare, string section, clean muted rhythm guitar, finger snaps, electric piano, light congas, bass-and-snaps bridge, warm clean uncluttered mix, composed, self-possessed, rueful, warm",
+  "negativeTags": "male lead vocals, rap, heavy distortion, trap hi-hats, EDM drop, dubstep, fast punk, screaming",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "callBackUrl": "https://example.com/cb"
+}

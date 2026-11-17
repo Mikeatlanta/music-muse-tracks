@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Confetti in the Living Room",
+  "prompt": "[Intro: disco guitar, handclaps, a party popper]\n\n[Verse 1: first voice, bright and bouncy]\nPyjama top and a paper crown\nThe weekend's cancelled and the blinds are down\nSo I made a disco from the kitchen light\nAnd I'm headlining here tonight\n\n[Pre-Chorus: second voice, falsetto, bass walks up]\nDon't need a ticket, don't need a queue\nGot a hairbrush and a view\n\n[Chorus: whole group, horns, claps on every beat]\nThrow confetti in the living room\nWe don't need a reason, we don't need a tune\nTorn-up bills and a magazine\nMake it rain like a movie scene\nDa-na-na, na-na-na, hey\nSmall room, big day\nDa-na-na, na-na-na, hey\nConfetti in the living room\n\n[Verse 2: third voice, half rapped, playful]\nNeighbour banged the wall so I banged it back in time\nNow she's in the doorway with a tambourine and wine\nCat's on the speaker, dog's on the chair\nEverybody's welcome, there's a spare\n\n[Pre-Chorus: second voice, falsetto, bass walks up]\nDon't need a ticket, don't need a queue\nGot a hairbrush and a view\n\n[Chorus: whole group, horns, claps on every beat]\nThrow confetti in the living room\nWe don't need a reason, we don't need a tune\nTorn-up bills and a magazine\nMake it rain like a movie scene\nDa-na-na, na-na-na, hey\nSmall room, big day\nDa-na-na, na-na-na, hey\nConfetti in the living room\n\n[Bridge: breakdown, bass and claps, voices trading]\nSweep it up tomorrow\n(Tomorrow)\nSweep it up tomorrow\nTonight we throw\n\n[Final Chorus: key up a step, everyone, horn runs]\nThrow confetti in the living room\nWe don't need a reason, we don't need a tune\nTorn-up bills and a magazine\nMake it rain like a movie scene\nDa-na-na, na-na-na, hey\nSmall room, big day\nDa-na-na, na-na-na, hey\nConfetti in the living room\n\n[Outro: claps, a party popper, laughter]\nHey",
+  "style": "2020 retro disco pop, male vocal group with distinct voices, a bright clean lead, a sweet high falsetto and a playful half-rapped verse, unison and harmony choruses ending on a da-na-na syllable chant, 114 BPM, E major stepping up a key for the final chorus, bright bouncy and carefree, funky clean disco guitar, bouncing slap-style bass, disco drums with open hi-hats, joyful horn section stabs and runs, handclaps on every beat, electric piano, string pad, tambourine, glossy bright tight mix, joyful, sparkling, feel-good",
+  "negativeTags": "female lead vocals, slow ballad, distorted guitar, dark mood, trap hi-hats, dubstep, country",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 210,
+  "callBackUrl": "https://example.com/cb"
+}

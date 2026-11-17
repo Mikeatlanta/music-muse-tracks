@@ -1,0 +1,122 @@
+{
+  "id": "e20_12",
+  "title": "Otra Foto",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 12,
+  "slug": "e20_12_otra_foto",
+  "inspiredBy": "DtMF (Bad Bunny, 2025)",
+  "leadVoice": "Male, warm, low and relaxed, half singing and half speaking in a conversational murmur, with a Caribbean Spanish accent on the Spanish lines. The choruses are sung by a loose crowd of friends, men and women, not polished, with laughter and shouts left in.",
+  "model": "V6",
+  "style": "2025 Latin pop rooted in Puerto Rican plena street percussion, warm low relaxed male voice half singing and half speaking, English with short Spanish lines, choruses sung by a loose unpolished crowd of friends with laughter left in, 136 BPM, A major, lively street-party rhythm with a wistful melody, interlocking hand-held frame drums, scraped gourd, deep simple bass with a light reggaeton kick, bright synth chords, small horn section at the end, handclaps, back-yard party ambience, warm live crowded mix, nostalgic, joyful, bittersweet",
+  "negativeTags": "distorted guitar, rock drums, slow piano ballad, trap hi-hats, dubstep, country, heavy autotune",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: hand drums and a scraped gourd, friends talking, a laugh]\nOtra, otra\n\n[Verse 1: warm, low, half sung over hand drums]\nDominoes slapping on a folding table\nSomebody's cousin fixing someone's cable\nThe radio's old and the beer is warm\nAnd I had no idea that this was the whole thing\n\n[Pre-Chorus: bass enters, voice lifts]\nI took the sunset\nI took the sea\nI never took the people next to me\n\n[Chorus: crowd of friends singing, full percussion]\nShould have taken one more picture\nOf the nothing-special days\nUncle sleeping in the lawn chair\nGrandma's hands, the way she prays\nOtra foto, otra foto\nBefore the light went low\nI've got a thousand of the sunsets\nAnd none of the people I know\n\n[Verse 2: warm, a little faster]\nHalf of the block moved north for the money\nHalf of the rest went quiet and funny\nThe corner store's a place that sells candles now\nAnd I'd give it all back for one loud afternoon\n\n[Pre-Chorus: bass and voice lift]\nI took the skyline\nI took the food\nI never took the room with all of you\n\n[Chorus: crowd of friends singing, full percussion]\nShould have taken one more picture\nOf the nothing-special days\nUncle sleeping in the lawn chair\nGrandma's hands, the way she prays\nOtra foto, otra foto\nBefore the light went low\nI've got a thousand of the sunsets\nAnd none of the people I know\n\n[Bridge: drums and voices only, Spanish, clapping]\nQuédate un ratito más\n(Quédate, quédate)\nMi gente, mi barrio\n(Otra foto, por favor)\n\n[Final Chorus: everyone, horns join, shouting and laughing]\nShould have taken one more picture\nOf the nothing-special days\nUncle sleeping in the lawn chair\nGrandma's hands, the way she prays\nOtra foto, otra foto\nBefore the light went low\nSo everybody get together\nNow, before you go\n\n[Outro: hand drums, a camera shutter, cheering]\nOtra",
+  "taskId": "4aeb4cdc7a9dd19a51c4843141e711c6",
+  "sunoClipIds": [
+    "6cf6b770-36f0-4021-ac48-af71b163970b",
+    "175659ab-4007-4ee5-8def-022077cdf3fd"
+  ],
+  "created": "Nov 17, 2026 10:21 AM ET",
+  "createTimeMs": 1794928896679,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "6cf6b770-36f0-4021-ac48-af71b163970b",
+      "durationSec": 215.2,
+      "file": "twentytwenties/e20_12_otra_foto_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "175659ab-4007-4ee5-8def-022077cdf3fd",
+      "durationSec": 214.76,
+      "file": "twentytwenties/e20_12_otra_foto_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_12_otra_foto_req.json",
+    "twentytwenties/e20_12_otra_foto_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_12_otra_foto.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_12_otra_foto.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 136 BPM, 4/4, A major. A lively street-party rhythm with a wistful melody over it. Joy and ache together.\n\nVOICE: Male, warm, low and relaxed, half singing and half speaking in a conversational murmur, with a Caribbean Spanish accent on the Spanish lines. The choruses are sung by a loose crowd of friends, men and women, not polished, with laughter and shouts left in.\n\nINSTRUMENTS: Hand-held frame drums in interlocking patterns (the plena rhythm). A scraped gourd. A deep, simple bass with a light reggaeton kick underneath. Bright synth chords. A small horn section in the last chorus. Handclaps. Party ambience and a camera shutter.\n\nARRANGEMENT MAP: 0:00 Intro, hand drums, voices and a laugh. 0:12 Verse 1. 0:36 Pre-chorus. 0:48 Chorus 1, the crowd. 1:16 Verse 2. 1:40 Pre-chorus. 1:52 Chorus 2. 2:20 Bridge in Spanish over drums and clapping. 2:36 Final chorus with horns, the last two lines changed. 3:04 Outro, drums, a shutter click and cheering at 3:16.\n\nPRODUCTION & MIX: Mid-2020s Latin pop rooted in folk percussion: warm, live-sounding and crowded, drums and voices close, as if recorded in a back yard.\n\nSIGNATURE MOMENT: The crowd entering on the first chorus at 0:48.\n\nMODERN POINT OF VIEW: The last chorus stops regretting and gives an instruction: everybody get together, now. That is the lesson people over fifty took from the original, and the shutter at the end is someone acting on it.\n\nEMOTIONAL ARC: Fond memory, regret, longing, a group photograph.",
+  "workbookAtAGlance": "Otra Foto\n\nBackup titles\nNone of the People I Know / The Nothing-Special Days\n\nAt a glance\n136 BPM, A major\nVoice: Warm low male voice, crowd of friends\nLength: about 3 minutes 20",
+  "year": 2025,
+  "qa": {
+    "title": "Otra Foto",
+    "id": "e20_12",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)",
+          "peak 0.2 dBFS (3 clipped sample, inaudible)"
+        ],
+        "durationSec": 215.2,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 136,
+        "bpmErrPct": 0.0,
+        "lufs": -14.0,
+        "peakDbfs": 0.2,
+        "clipSamples": 3,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 215.1,
+        "vocalCoverage": 0.619,
+        "vocalSpanSec": [
+          1.0,
+          215.2
+        ],
+        "vocalF0MedianHz": 278,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.738,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 136,
+        "bpmErrPct": 0.0,
+        "lufs": -13.9,
+        "peakDbfs": -0.4,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 212.9,
+        "vocalCoverage": 0.714,
+        "vocalSpanSec": [
+          3.4,
+          211.1
+        ],
+        "vocalF0MedianHz": 261,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.738,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

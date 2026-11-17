@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "If the Sky Falls on a Tuesday",
+  "prompt": "[Intro: warm electric guitar arpeggio, soft organ, slow swing]\n\n[Verse 1: male tenor, tender, guitar and bass]\nI had a dream the news came on\nSaid we had until the dawn\nAnd I didn't pack a thing\nI just drove to where you've been\n\n[Chorus: both voices, full band, slow sway]\nIf the sky falls on a Tuesday\nI'll be standing at your door\nWith nothing but a record\nAnd the shoes I had before\nWe'll push the couch back to the wall\nAnd dance until it's through\nIf the sky falls on a Tuesday\nI'd spend it slow with you\n\n[Verse 2: female voice, strong and warm, piano joins]\nLet the sirens do their singing\nLet the neighbours board the glass\nI've been saving up a slow one\nFor a night I knew would pass\n\n[Chorus: both voices, strings join]\nIf the sky falls on a Tuesday\nI'll be standing at your door\nWith nothing but a record\nAnd the shoes I had before\nWe'll push the couch back to the wall\nAnd dance until it's through\nIf the sky falls on a Tuesday\nI'd spend it slow with you\n\n[Guitar Solo: bluesy, singing tone, over the chorus chords]\n\n[Bridge: voices trading, building to a shared high note]\nOne more turn\n(One more turn)\nHold me there\n(Hold me there)\nLet it fall\n\n[Final Chorus: both at full power, harmonies, drums crashing]\nIf the sky falls on a Tuesday\nI'll be standing at your door\nWith nothing but a record\nAnd the shoes I had before\nWe'll push the couch back to the wall\nAnd dance until it's through\nIf the sky falls on a Tuesday\nI'd spend it slow with you\n\n[Outro: guitar arpeggio, needle lifting off a record]\nSlow, with you",
+  "style": "2024 retro soul rock ballad duet in a mid-1970s style, sweet soulful slightly raspy male tenor with easy falsetto and a powerful theatrical female voice, a verse each, choruses in harmony, a shared high note at the end of the bridge, 79 BPM slow swaying triplet swing, A major, warm clean electric guitar arpeggios, electric bass, live drums with a slow heavy backbeat, piano, Hammond organ, string section, bluesy lead guitar solo, live band in a room, warm tape tone, romantic, devoted, epic",
+  "negativeTags": "synth-pop, drum machine, rap, fast tempo, trap hi-hats, autotune, EDM drop, dance beat",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

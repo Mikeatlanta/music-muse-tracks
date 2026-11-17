@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Don't Hang Up Yet",
+  "prompt": "[Intro: buzzing fast synth riff, straight into the hook]\nOh-oh, don't hang up yet\n\n[Verse 1: rough young tenor, fast, punchy drums]\nI said I'd change and I meant it for a week\nI said I'd call and I waited till you'd sleep\nI know the script, I'm the one who always bends it\nEvery sorry that I send, you could have penned it\n\n[Chorus: both voices, full synths, driving beat]\nOh-oh, don't hang up yet\nI've got one more thing and I haven't said it\nOh-oh, give me ten more seconds\nI'll get it right, I swear I'm getting better\nDon't hang up yet\n\n[Verse 2: smooth tenor, higher, melodic]\nI can hear you breathing, I can hear the television\nI can hear you weighing up a very fair decision\nI've been every kind of late and every kind of wrong\nBut I'm here, and I am asking, and it won't take long\n\n[Chorus: both voices, full synths, driving beat]\nOh-oh, don't hang up yet\nI've got one more thing and I haven't said it\nOh-oh, give me ten more seconds\nI'll get it right, I swear I'm getting better\nDon't hang up yet\n\n[Bridge: beat drops for two bars, voices close]\nNine, eight, seven\nStill there?\n\n[Final Chorus: everything, falsetto harmony on top]\nOh-oh, don't hang up yet\nI've got one more thing and I haven't said it\nOh-oh, give me ten more seconds\nI'll get it right, I swear I'm getting better\nDon't hang up yet\n\n[Outro: synth riff cuts off, a dial tone]",
+  "style": "2021 hyper-compact synth pop with pop-punk energy, two male voices, a rough cracked slightly nasal young tenor half singing and half shouting, and a smooth polished higher tenor with clean runs and falsetto harmony, choruses together, 170 BPM, D-flat major, flat-out sprint, buzzing distorted synthesizer playing a fast simple riff, punchy fast drums, thick synth bass, bright pads, filter sweeps, two-bar dropped bridge, abrupt ending, loud bright tightly compressed mix, urgent, pleading, catchy, very short",
+  "negativeTags": "female lead vocals, slow ballad, acoustic guitar, long intro, jazz, saxophone, country, strings",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 160,
+  "callBackUrl": "https://example.com/cb"
+}

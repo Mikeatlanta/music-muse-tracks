@@ -1,0 +1,115 @@
+{
+  "id": "e20_19",
+  "title": "You Looked Right Through Me",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 19,
+  "slug": "e20_19_you_looked_right_through_me",
+  "inspiredBy": "Save Your Tears (The Weeknd, 2020)",
+  "leadVoice": "Male tenor, smooth, light and clear, with an effortless falsetto in the pre-chorus and bridge. He sings gently and without self-pity. The chorus is doubled. Falsetto ad-libs over the last chorus.",
+  "model": "V6",
+  "style": "2020 synth-pop in a mid-1980s style, smooth light clear male tenor vocal with effortless falsetto, gentle and without self-pity, doubled chorus, falsetto ad-libs at the end, 118 BPM, C major, steady mid-tempo bittersweet glide, bright simple soft-attack synthesizer hook, steady drum machine with crisp lightly gated snare, pulsing synth bass, wide warm pads, clean chorus-effected guitar doubling the hook, drumless falsetto bridge, clean bright wide mix, regretful, bittersweet, melodic",
+  "negativeTags": "female lead vocals, rap, distorted guitar, live rock drums, trap hi-hats, dubstep, country, piano",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bright synth hook, steady drum machine, pulsing bass]\n\n[Verse 1: smooth, light, rueful]\nYou were laughing at a table by the door\nWearing something I had never seen before\nI raised a hand like a fool who'd been forgiven\nYou looked right through me like a window\n\n[Pre-Chorus: pads swell, falsetto]\nAnd I stood there with my drink and my nerve\nGetting just what I deserve\n\n[Chorus: full beat, synth hook answers, doubled voice]\nYou looked right through me\nLike I was weather, like I was glass\nI had it coming, I know, I know\nI made you cry and I let it pass\nNow I'm the ghost at the party\nYou looked right through me\nGood for you\n\n[Verse 2: smooth, lower]\nI remember what I said and how I said it\nI remember that you asked and I just let it\nGo, like it was nothing, like a coat I didn't need\nFunny what a person leaves\n\n[Pre-Chorus: pads swell, falsetto]\nAnd I stood there with my drink and my nerve\nGetting just what I deserve\n\n[Chorus: full beat, synth hook answers, doubled voice]\nYou looked right through me\nLike I was weather, like I was glass\nI had it coming, I know, I know\nI made you cry and I let it pass\nNow I'm the ghost at the party\nYou looked right through me\nGood for you\n\n[Bridge: drums drop out, falsetto over pads]\nI won't come over\nI won't say your name\nI'll finish this and go\n\n[Final Chorus: everything, falsetto ad-libs, extra synth line]\nYou looked right through me\nLike I was weather, like I was glass\nI had it coming, I know, I know\nI made you cry and I let it pass\nNow I'm the ghost at the party\nYou looked right through me\nGood for you\n\n[Outro: synth hook alone, a door, street noise]",
+  "taskId": "f51f04a968c72b0a9009c86ae64bdad0",
+  "sunoClipIds": [
+    "55b26936-7c25-419e-8ea2-553c64a3298b",
+    "50b727f8-1dc0-4cb1-9b1e-b43d62af1374"
+  ],
+  "created": "Nov 17, 2026 10:22 AM ET",
+  "createTimeMs": 1794928938733,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "55b26936-7c25-419e-8ea2-553c64a3298b",
+      "durationSec": 214.4,
+      "file": "twentytwenties/e20_19_you_looked_right_through_me_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "50b727f8-1dc0-4cb1-9b1e-b43d62af1374",
+      "durationSec": 214.76,
+      "file": "twentytwenties/e20_19_you_looked_right_through_me_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_19_you_looked_right_through_me_req.json",
+    "twentytwenties/e20_19_you_looked_right_through_me_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_19_you_looked_right_through_me.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_19_you_looked_right_through_me.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, C major. A steady, mid-tempo, bittersweet glide. Bright sound, heavy heart.\n\nVOICE: Male tenor, smooth, light and clear, with an effortless falsetto in the pre-chorus and bridge. He sings gently and without self-pity. The chorus is doubled. Falsetto ad-libs over the last chorus.\n\nINSTRUMENTS: A bright, simple synthesiser hook with a soft attack. A steady drum machine with a crisp snare and light gated reverb. Pulsing synth bass. Wide, warm pads. A clean, chorus-effected guitar doubling the hook. A second, higher synth line in the final chorus.\n\nARRANGEMENT MAP: 0:00 Intro, the synth hook, drums and bass. 0:12 Verse 1. 0:36 Pre-chorus. 0:48 Chorus 1. 1:17 Verse 2. 1:41 Pre-chorus. 1:53 Chorus 2. 2:22 Bridge, no drums, falsetto over pads. 2:36 Final chorus with ad-libs. 3:05 Outro, the hook alone, a door opening and street noise at 3:16.\n\nPRODUCTION & MIX: Early-2020s synth-pop in a mid-1980s style: clean, bright and wide, soft-edged synths, vocal smooth and forward.\n\nSIGNATURE MOMENT: The two words that end each chorus.\n\nMODERN POINT OF VIEW: The original tells her to save her tears. This man asks for nothing, says she is right, finishes his drink and leaves. That restraint is what the passing of years adds.\n\nEMOTIONAL ARC: Hope, a snub, acceptance, a quiet exit.",
+  "workbookAtAGlance": "You Looked Right Through Me\n\nBackup titles\nThe Ghost at the Party / Like I Was Weather\n\nAt a glance\n118 BPM, C major\nVoice: Smooth male tenor with falsetto\nLength: about 3 minutes 20",
+  "year": 2020,
+  "qa": {
+    "title": "You Looked Right Through Me",
+    "id": "e20_19",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.4,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 0.5,
+        "lufs": -13.2,
+        "peakDbfs": -0.89,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 212.3,
+        "vocalCoverage": 0.775,
+        "vocalSpanSec": [
+          15.7,
+          198.8
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.75,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 0.5,
+        "lufs": -13.8,
+        "peakDbfs": -1.33,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 212.4,
+        "vocalCoverage": 0.734,
+        "vocalSpanSec": [
+          18.8,
+          195.5
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.972,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Synth-Pop"
+}

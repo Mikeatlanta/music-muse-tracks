@@ -1,0 +1,117 @@
+{
+  "id": "e20_14",
+  "title": "Home Alone",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 14,
+  "slug": "e20_14_home_alone",
+  "inspiredBy": "Kill Bill (SZA, 2022)",
+  "leadVoice": "Female soprano, soft, airy and floating, with a relaxed, slightly slurred R&B phrasing that slides between notes. She sings everything prettily, including the worst ideas. Stacked harmonies in the chorus and high, wordless ad-libs at the end.",
+  "model": "V6",
+  "style": "2022 alternative R&B, soft airy floating female soprano vocal with relaxed sliding R&B phrasing, everything sung sweetly like a lullaby, stacked chorus harmonies, high wordless ad-libs at the end, 89 BPM, A-flat major, dreamy and swaying, breathy flute-like synth melody, soft dusty boom-bap drum beat, warm sliding bass, mellow electric piano chords, faint vinyl crackle, plucked guitar, beatless bridge, soft warm hazy mix with a close layered vocal, sweet, mischievous, wry, comic",
+  "negativeTags": "male lead vocals, fast tempo, distorted guitar, heavy drums, EDM drop, dubstep, country, belting",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 190,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: dreamy flute-like synth, soft boom-bap beat, a hum]\n\n[Verse 1: soft, floating, sweetly sung]\nI'm doing great, I'm doing yoga\nI told my therapist it's over\nShe said \"journal,\" so I drew a map\nOf your new place and a little trap\n\n[Pre-Chorus: harmonies bloom, bass slides]\nI'm so evolved, I'm so serene\nI only think about it when I breathe\n\n[Chorus: sweetest melody, gentle beat, stacked voices]\nI might booby-trap your porch\nPaint cans on a string\nMarbles on the stairs\nA feather and a spring\nI'm so mature, I've grown so much\nI'd never do a thing\nBut I might booby-trap your porch\nIt's healthier than texting you, I'm sure\n\n[Verse 2: soft, a little wicked]\nShe seems nice, I checked her page\nShe likes hiking and she's half my age\nI wish them well, I wish them rain\nI wish their smoke alarm a low battery\n\n[Pre-Chorus: harmonies bloom, bass slides]\nI'm so evolved, I'm so serene\nI only think about it when I breathe\n\n[Chorus: sweetest melody, gentle beat, stacked voices]\nI might booby-trap your porch\nPaint cans on a string\nMarbles on the stairs\nA feather and a spring\nI'm so mature, I've grown so much\nI'd never do a thing\nBut I might booby-trap your porch\nIt's healthier than texting you, I'm sure\n\n[Bridge: beat drops, voice alone with the flute synth]\nI won't, I won't\nI returned the string\nI'm fine\nI kept one marble\n\n[Final Chorus: full, high ad-libs floating on top]\nI might booby-trap your porch\nPaint cans on a string\nMarbles on the stairs\nA feather and a spring\nI'm so mature, I've grown so much\nI'd never do a thing\n\n[Outro: hum, flute synth, one marble rolling across a floor]",
+  "taskId": "f96410a126f33f9883dfbc36f0e37f3d",
+  "sunoClipIds": [
+    "d58c39b9-d0c9-4378-9ecb-f08e7ab0a0af",
+    "453f42fd-15c6-4fb3-9657-64bf957c3707"
+  ],
+  "created": "Nov 17, 2026 10:21 AM ET",
+  "createTimeMs": 1794928913021,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "d58c39b9-d0c9-4378-9ecb-f08e7ab0a0af",
+      "durationSec": 189.16,
+      "file": "twentytwenties/e20_14_home_alone_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "453f42fd-15c6-4fb3-9657-64bf957c3707",
+      "durationSec": 189.6,
+      "file": "twentytwenties/e20_14_home_alone_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_14_home_alone_req.json",
+    "twentytwenties/e20_14_home_alone_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_14_home_alone.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_14_home_alone.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 89 BPM, 4/4, A-flat major. Dreamy, swaying and sweet. A lullaby with a raised eyebrow.\n\nVOICE: Female soprano, soft, airy and floating, with a relaxed, slightly slurred R&B phrasing that slides between notes. She sings everything prettily, including the worst ideas. Stacked harmonies in the chorus and high, wordless ad-libs at the end.\n\nINSTRUMENTS: A breathy, flute-like synth melody. A soft, dusty boom-bap drum beat. A warm, sliding bass. Mellow electric piano chords. Faint vinyl crackle. A plucked guitar in the second verse. Sound effect: a marble rolling.\n\nARRANGEMENT MAP: 0:00 Intro, the flute synth and beat. 0:11 Verse 1. 0:33 Pre-chorus. 0:44 Chorus 1. 1:11 Verse 2. 1:33 Pre-chorus. 1:44 Chorus 2. 2:11 Bridge, no beat, four short lines. 2:25 Final chorus, six lines with ad-libs. 2:45 Outro, a hum and a marble rolling across a wooden floor at 2:52.\n\nPRODUCTION & MIX: Early-2020s alternative R&B: soft, warm and hazy, drums gentle, voice close and layered.\n\nSIGNATURE MOMENT: The first chorus line, sung as sweetly as a nursery rhyme.\n\nMODERN POINT OF VIEW: The film reference is a 1990 family comedy that today's parents grew up on, and the revenge is slapstick. The bridge is the grown-up part: she returns the string and keeps one marble.\n\nEMOTIONAL ARC: Fake serenity, mischief, restraint, one small exception.",
+  "workbookAtAGlance": "Home Alone\n\nBackup titles\nPaint Cans on a String / So Mature\n\nAt a glance\n89 BPM, A-flat major\nVoice: Soft floating female soprano\nLength: about 2 minutes 55",
+  "year": 2022,
+  "qa": {
+    "title": "Home Alone",
+    "id": "e20_14",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 189.2,
+        "measuredBpm": 89.1,
+        "bpmFactor": 1,
+        "targetBpm": 89,
+        "bpmErrPct": 0.1,
+        "lufs": -14.0,
+        "peakDbfs": -0.19,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.5,
+        "contentEndSec": 188.3,
+        "vocalCoverage": 0.601,
+        "vocalSpanSec": [
+          11.9,
+          176.2
+        ],
+        "vocalF0MedianHz": 309,
+        "vocalF0P25Hz": 267,
+        "lyricLineRecall": 0.865,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 189.6,
+        "measuredBpm": 89.1,
+        "bpmFactor": 1,
+        "targetBpm": 89,
+        "bpmErrPct": 0.1,
+        "lufs": -13.6,
+        "peakDbfs": -0.12,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 187.7,
+        "vocalCoverage": 0.616,
+        "vocalSpanSec": [
+          11.3,
+          169.1
+        ],
+        "vocalF0MedianHz": 295,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.973,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "R&B"
+}

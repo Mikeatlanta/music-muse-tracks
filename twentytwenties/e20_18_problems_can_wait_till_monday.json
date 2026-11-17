@@ -1,0 +1,119 @@
+{
+  "id": "e20_18",
+  "title": "Problems Can Wait Till Monday",
+  "collection": "twentytwenties",
+  "album": "2020s Reimagined",
+  "track": 18,
+  "slug": "e20_18_problems_can_wait_till_monday",
+  "inspiredBy": "I Ain't Worried (OneRepublic, 2022)",
+  "leadVoice": "Male tenor, relaxed and conversational, almost speaking the verses with a smile. The chorus is sung in an easy, open voice with friends joining in. The main hook is a clear, tuneful whistle. The bridge is a simple round sung by several voices.",
+  "model": "V6",
+  "style": "2022 breezy soundtrack pop with a whistled hook, relaxed conversational male tenor almost speaking the verses, easy open chorus with friends joining, clear tuneful human whistle as the main melody, voices in a round on the bridge, 140 BPM, C major, light stomping sunlit strut, stomping kick and handclap beat, bouncing melodic bass guitar, light acoustic guitar strums, tambourine, soft organ pad, sparse bright dry mix with open space, carefree, sunny, easygoing, short",
+  "negativeTags": "female lead vocals, heavy distortion, dark mood, slow ballad, trap hi-hats, dubstep, big synths",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 175,
+  "customMode": true,
+  "lyricsSource": "2020s Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: whistled melody, stomping kick, handclaps, bass]\n\n[Verse 1: relaxed, half spoken, light and dry]\nMy inbox has a number that I can't pronounce\nThe roof has got a leak and the cheque might bounce\nI wrote it all down on the back of my hand\nThen I washed it in the ocean, wasn't that the plan?\n\n[Chorus: whistle answers each line, gang vocals]\nProblems can wait till Monday\nThey'll still be there, they always are\nI've got a towel and a cheap guitar\nSun's out, I'm not home\nProblems can wait till Monday\n\n[Whistle Hook: whistled melody, claps, bass]\n\n[Verse 2: relaxed, a little quieter]\nI used to lie awake and count them like sheep\nTurns out they don't get smaller if you don't sleep\nThere's a kid with a kite and a dog in the sea\nAnd nobody here needs a thing from me\n\n[Chorus: whistle answers each line, gang vocals]\nProblems can wait till Monday\nThey'll still be there, they always are\nI've got a towel and a cheap guitar\nSun's out, I'm not home\nProblems can wait till Monday\n\n[Bridge: beat drops to claps, voices in a round]\nNot now, not now\nLater, later\nNot now, not now\nLater\n\n[Final Chorus: everyone, whistle on top, tambourine]\nProblems can wait till Monday\nThey'll still be there, they always are\nI've got a towel and a cheap guitar\nSun's out, I'm not home\nProblems can wait till Monday\n\n[Outro: whistle alone, waves, a phone buzzing in a bag]",
+  "taskId": "35ee091014221dd3f441eaf030a3c6d6",
+  "sunoClipIds": [
+    "b2f70baa-26e4-4e20-933a-5d9a6914bb13",
+    "5fcd978b-f09f-430d-a6fc-f4fdc7e587cc"
+  ],
+  "created": "Nov 17, 2026 10:22 AM ET",
+  "createTimeMs": 1794928930823,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "b2f70baa-26e4-4e20-933a-5d9a6914bb13",
+      "durationSec": 174.76,
+      "file": "twentytwenties/e20_18_problems_can_wait_till_monday_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5fcd978b-f09f-430d-a6fc-f4fdc7e587cc",
+      "durationSec": 174.0,
+      "file": "twentytwenties/e20_18_problems_can_wait_till_monday_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "twentytwenties/e20_18_problems_can_wait_till_monday_req.json",
+    "twentytwenties/e20_18_problems_can_wait_till_monday_rec.json"
+  ],
+  "cover": "twentytwenties/covers/e20_18_problems_can_wait_till_monday.jpg",
+  "cleanCover": "twentytwenties/covers/clean/e20_18_problems_can_wait_till_monday.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 140 BPM, 4/4, C major. A light, stomping, sunlit strut. Carefree with a wink.\n\nVOICE: Male tenor, relaxed and conversational, almost speaking the verses with a smile. The chorus is sung in an easy, open voice with friends joining in. The main hook is a clear, tuneful whistle. The bridge is a simple round sung by several voices.\n\nINSTRUMENTS: A human whistle carrying the melody. A stomping kick and handclap beat. A bouncing, melodic bass guitar that is almost a second lead. Light acoustic guitar strums. Tambourine. A soft organ pad. Very little else. Waves and a buzzing phone at the end.\n\nARRANGEMENT MAP: 0:00 Intro, the whistle over stomp, claps and bass. 0:14 Verse 1. 0:34 Chorus 1. 0:55 Whistle hook. 1:09 Verse 2. 1:29 Chorus 2. 1:50 Bridge, claps and a round. 2:04 Final chorus with whistle and tambourine. 2:25 Outro, the whistle alone with waves and an ignored phone, ending at 2:38.\n\nPRODUCTION & MIX: Early-2020s soundtrack pop: sparse, bright and dry, bass and whistle up front, lots of open air.\n\nSIGNATURE MOMENT: The whistle in the first two seconds.\n\nMODERN POINT OF VIEW: Verse 2 is the wisdom: he used to count his problems like sheep and found they do not shrink with lost sleep. The phone buzzing unanswered in the bag is the modern detail.\n\nEMOTIONAL ARC: Worry listed, worry set down, an afternoon enjoyed.",
+  "workbookAtAGlance": "Problems Can Wait Till Monday\n\nBackup titles\nWashed It in the Ocean / A Towel and a Cheap Guitar\n\nAt a glance\n140 BPM, C major\nVoice: Relaxed male tenor, whistled hook\nLength: about 2 minutes 40",
+  "year": 2022,
+  "qa": {
+    "title": "Problems Can Wait Till Monday",
+    "id": "e20_18",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 174.8,
+        "measuredBpm": 143.6,
+        "bpmFactor": 1,
+        "targetBpm": 140,
+        "bpmErrPct": 2.5,
+        "lufs": -13.5,
+        "peakDbfs": -0.23,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 173.2,
+        "vocalCoverage": 0.635,
+        "vocalSpanSec": [
+          0.9,
+          168.7
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 220,
+        "lyricLineRecall": 0.8,
+        "lyricUnclearSections": [
+          "Verse 2"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 174.0,
+        "measuredBpm": 143.6,
+        "bpmFactor": 1,
+        "targetBpm": 140,
+        "bpmErrPct": 2.5,
+        "lufs": -12.9,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 173.2,
+        "vocalCoverage": 0.5,
+        "vocalSpanSec": [
+          7.3,
+          172.5
+        ],
+        "vocalF0MedianHz": 166,
+        "vocalF0P25Hz": 131,
+        "lyricLineRecall": 0.92,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop"
+}

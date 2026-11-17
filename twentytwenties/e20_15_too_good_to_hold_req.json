@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Too Good to Hold",
+  "prompt": "[Intro: fingerpicked acoustic guitar, soft hum]\n\n[Verse 1: quiet, gentle, close]\nFor a while there it was rough\nI'll be honest, I'd had enough\nNow there's coffee on at six\nAnd a kid who's learning tricks\nAnd my mother calls to laugh\nAnd you sleep on my bad half\n\n[Pre-Chorus: guitar strums harder, voice rising]\nAnd I know how these things go\nI've seen a good thing overthrown\n\n[Chorus: explosive, full rock band, roared]\nSo don't move a thing\nLeave it, leave it like it is\nIf there's somebody keeping count\nI'm asking, I'm asking\nLet me keep the lot\nIt's too good to hold\nAnd it's all I've got\n\n[Verse 2: quiet again, a little shaken]\nGot a roof and a garden bed\nGot a calm inside my head\nAnd I catch myself at night\nChecking every lock and light\n'Cause the best that I have known\nHas a way of being loaned\n\n[Pre-Chorus: guitar strums harder, voice rising]\nAnd I know how these things go\nI've seen a good thing overthrown\n\n[Chorus: explosive, full rock band, roared]\nSo don't move a thing\nLeave it, leave it like it is\nIf there's somebody keeping count\nI'm asking, I'm asking\nLet me keep the lot\nIt's too good to hold\nAnd it's all I've got\n\n[Bridge: band pounding, wordless yelps, building]\nOh, oh-oh\nPlease\nOh, oh-oh\nPlease\n\n[Final Chorus: loudest, voice at the top of its range]\nSo don't move a thing\nLeave it, leave it like it is\nIf there's somebody keeping count\nI'm asking, I'm asking\nLet me keep the lot\n\n[Outro: sudden quiet, acoustic guitar, almost spoken]\nIt's too good to hold\nI'm holding it",
+  "style": "2024 folk rock that detonates into arena rock, powerful wide-range male tenor vocal, soft warm trembling verses and a roared full-chest chorus at the top of his range with yelps, wordless yelping bridge, near-spoken last lines, 105 BPM with a lilting sway, B-flat major, fingerpicked acoustic guitar verses, sudden loud overdriven electric guitars, pounding live drums with crashing cymbals, driving bass, piano, extreme quiet-to-loud contrast, dry intimate verse and huge wide chorus, grateful, afraid, pleading, cathartic",
+  "negativeTags": "female lead vocals, rap, synth-pop, drum machine, dance beat, trap hi-hats, autotune, saxophone",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 205,
+  "callBackUrl": "https://example.com/cb"
+}
