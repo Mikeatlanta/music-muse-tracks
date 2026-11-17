@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Some of It Moved",
+  "prompt": "[Intro: bright piano figure, soft kick, street sounds]\n\n[Verse 1: conversational male rap]\nI was fifteen when I heard a dead man say it wouldn't shift\nThirty years I've walked this block, so let me tell you how I lived\nCorner store's a pharmacy, the pharmacy's a bank\nThe bank became a coffee place, so I don't know who to thank\nMy son's got friends in every shade, they don't think twice\nThat's real. I didn't have that. That's nice.\nBut he still gets the talk before he drives at night\nSame words my mother used. Hands in sight.\n\n[Chorus: sung, male tenor with a small choir]\nSome of it moved\nAnd some of it stayed\nSome of it's better than the day I was made\nI'm not gonna lie to you either way\nSome of it moved, and some of it stayed\n\n[Verse 2: rap, a little more heat]\nThey closed the rec, then built it back with glass\nThe rent went up so fast my neighbors couldn't last\nWe got a mayor looks like us, and potholes just the same\nI learned that faces change before the game\nBut I've seen a kid from here go be a judge\nI've seen the old heads teaching, holding no grudge\nI've seen a funeral turn into a vote\nI keep the wins. I write 'em down. I keep the note.\n\n[Chorus: sung, male tenor with a small choir]\nSome of it moved\nAnd some of it stayed\nSome of it's better than the day I was made\nI'm not gonna lie to you either way\nSome of it moved, and some of it stayed\n\n[Verse 3: quieter, to his son]\nSo, son, don't let 'em tell you nothing gives\nAnd don't let 'em tell you it's all fixed\nBoth of those are easy. Both are lies.\nYou push the part in front of you. That's how it's sized.\n\n[Final Chorus: full choir, piano brighter]\nSome of it moved\nAnd some of it stayed\nSome of it's better than the day I was made\nI'm not gonna lie to you either way\nSome of it moved, 'cause somebody pushed\n\n[Outro: piano figure, a basketball bouncing, fading]",
+  "style": "Late-1990s West Coast conscious hip-hop, relaxed conversational mid-range male rap as if talking across a kitchen table, chorus sung by a smooth male tenor with a small mixed gospel choir, 88 BPM, G minor with a hopeful lift in the chorus, mid-slow steady warm feel, bright rolling acoustic piano figure, boom-bap kick and snare, round bass guitar, soft strings, a little wah guitar, warm clear piano-led mix, reflective, honest, hopeful",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, aggressive shouting, EDM synths, rock guitars, mumble rap",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

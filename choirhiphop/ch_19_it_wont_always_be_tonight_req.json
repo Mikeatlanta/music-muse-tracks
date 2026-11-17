@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "It Won't Always Be Tonight",
+  "prompt": "[Intro: slow string orchestra, baroque-style air, soft organ]\n\n[Verse 1: soft female rap, close and calm]\nI know that floor. I know that bathroom light.\nI know the way the phone feels in your hand tonight\nNineteen, and he's gone, and the rent, and the shame\nAnd you think that this is who you are. It ain't your name.\nYou're gonna cry until you're empty, then you'll sleep\nI won't tell you not to. Go on. That's yours to keep.\nBut I'm standing twenty years away from where you are\nWith a kitchen and a garden and a paid-off car\n\n[Chorus: female voice, sung, strings swelling]\nIt won't always be tonight\nBreathe like the strings, slow and wide\nMorning has your name on it\nIt won't always be tonight\n\n[Verse 2: rap, a little brighter, beat fuller]\nYou'll get a job you hate and then a job you don't\nYou'll swear you'll never trust again, and then you won't\nAnd then you will. He's kind. He's not the first you try.\nYou'll bury Mama, and you'll think you'll die. You don't die.\nYou'll have a girl who has your temper and your nose\nShe'll slam a door at fifteen. You'll know how it goes.\nYou'll sit outside it on the floor and you'll say this\nThe same words I'm saying. Then a kiss.\n\n[Chorus: female voice, sung, strings swelling]\nIt won't always be tonight\nBreathe like the strings, slow and wide\nMorning has your name on it\nIt won't always be tonight\n\n[Bridge: orchestra alone, then voice spoken]\nLook. It's getting gray at the window.\nThat's it. That's all it ever is.\n\n[Final Chorus: sung, choir behind, strings highest]\nIt won't always be tonight\nBreathe like the strings, slow and wide\nMorning has your name on it\nIt won't always be tonight\n\n[Outro: strings resolve to major, a kettle, birds]",
+  "style": "Late-1990s European classical hip-hop, one woman rapping softly and warmly close to the microphone with a gentle flow and singing the chorus in a clear light soprano with simple harmonies, small choir at the end, 80 BPM, B minor resolving to major, slow serene consoling feel, string orchestra playing a slow stepwise baroque-style melody over a descending bass, soft pipe organ, gentle hip-hop kick and snare with rim click, deep warm bass, harp, lush clean soft mix, comforting, tender, hopeful",
+  "negativeTags": "male lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, aggressive shouting, club beat",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

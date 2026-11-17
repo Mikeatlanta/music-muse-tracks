@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Save You a Plate",
+  "prompt": "[Intro: gospel quartet humming, church organ, soft]\n\n[Chorus: female gospel-soul voice, choir answering]\nWe save you a plate (every Sunday)\nYour chair's still yours (at the head)\nWe say your grace the way you said it\nWe pass your cornbread\nTill I see you again, till I pull up to that gate\nMama, we save you a plate\n\n[Verse 1: male rap, gentle, direct address]\nFour o'clock. I got the big pot out, the dented one\nYour recipe's a napkin and it's faded in the sun\nI called your sister twice to ask how much is \"some\"\nShe laughed and cried and said, \"Baby, till it's done\"\nKids set the table, put a fork down at your spot\nNobody told them to. They just know what's what.\nI tried to say the blessing and my voice went thin\nYour grandson finished it. He sounds like you. He grinned.\n\n[Chorus: female gospel-soul voice, choir answering]\nWe save you a plate (every Sunday)\nYour chair's still yours (at the head)\nWe say your grace the way you said it\nWe pass your cornbread\nTill I see you again, till I pull up to that gate\nMama, we save you a plate\n\n[Verse 2: rap, steadier, strings in]\nYou raised four of us on one check and a prayer\nWorked the early shift and still did all our hair\nI never saw you sit until the last of us was fed\nThen you'd eat standing at the counter. That's what you did.\nI'm fifty and I only now can see the cost\nI'd give a year to tell you nothing that you gave was lost\nThe house is loud. The baby's got your laugh.\nWe're alright, Mama. You did that. Do the math.\n\n[Bridge: quartet in harmony, organ rising]\nThere's a table where you are\nLonger than this one, set with stars\nSave me a seat like I save yours\n\n[Final Chorus: full choir, voice soaring]\nWe save you a plate (every Sunday)\nYour chair's still yours (at the head)\nWe say your grace the way you said it\nWe pass your cornbread\nTill I see you again, till I pull up to that gate\nMama, we save you a plate\n\n[Outro: organ, dishes, a child saying \"Amen\"]",
+  "style": "Late-1990s pop-rap elegy with real gospel voices, soft-spoken steady mid-range male rap addressed to his mother, chorus sung by a rich controlled female gospel-soul voice with a choir answering, male gospel quartet humming the intro and singing the bridge, 84 BPM, F minor resolving to major in the chorus, slow warm swaying feel, church organ, gentle boom-bap kick and snare, walking bass guitar, acoustic guitar picking, string section, tambourine, warm glossy wide mix, mournful, grateful, comforting",
+  "negativeTags": "trap hi-hats, auto-tune, fast tempo, club synths, aggressive shouting, rock guitars, EDM, playful mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

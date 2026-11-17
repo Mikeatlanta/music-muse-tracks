@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Don't Dive There",
+  "prompt": "[Intro: muted horns, slow warm bassline, rim click]\n\n[Verse 1: female lead, smoky and low]\nLittle brother's got a system on his phone\nTwenty on the late game, he's in the zone\nWon on a Tuesday, told the whole block\nLost it on a Wednesday with the rent and the clock\nMama sees the notice and she doesn't say a word\nHe says one more parlay and he's back, haven't you heard?\n\n[Chorus: three-part female harmony, horns answering]\nDon't dive there, baby, you can't see the bottom\nShiny on the top don't mean it's deep\nStay where your feet know the ground they've got\nSome water only wants to keep\nDon't dive there\n\n[Verse 2: second female voice, gentle]\nPretty girl, sixteen, with a ring light glow\nTen thousand strangers telling her what they know\nShe shows a little more and the number climbs\nShe can't remember what she looked like last time\nDoor's locked. Dinner's cold. Daddy knocks.\nShe's somebody everywhere except the place she's got.\n\n[Chorus: three-part female harmony, horns answering]\nDon't dive there, baby, you can't see the bottom\nShiny on the top don't mean it's deep\nStay where your feet know the ground they've got\nSome water only wants to keep\nDon't dive there\n\n[Rap Verse: third female voice, bright and quick]\nI've been in it, I ain't judging from the shore\nChased a thing so hard I couldn't feel the floor\nSomebody threw a rope and didn't ask me why\nJust said, \"Kick. I got you. Look up at the sky.\"\nSo if you're under, I'm not gonna preach\nI'm standing in the shallow with a hand in reach\nThe good stuff's slower and it don't go viral\nCome on in where it's clear. Break the spiral.\n\n[Final Chorus: full harmony, horns and organ]\nDon't dive there, baby, you can't see the bottom\nShiny on the top don't mean it's deep\nStay where your feet know the ground they've got\nSome water only wants to keep\nDon't dive there\n\n[Outro: horns fade, one voice: \"I got you.\"]",
+  "style": "Mid-1990s Atlanta R&B with a rap verse, three women: a low smoky lead on verse one, a lighter gentler voice on verse two and a quick bright female rapper on the final verse, tight three-part harmony choruses, 86 BPM, E-flat minor, slow warm swaying serious feel, muted trumpet and saxophone lines, slow melodic live bass guitar, laid-back drums with rim click, wah-wah guitar, electric piano, Hammond organ, turntable scratches, warm live bass-rich mix, cautionary, compassionate, soulful",
+  "negativeTags": "male lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, aggressive shouting, club beat",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

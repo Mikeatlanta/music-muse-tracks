@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Roll Call at the Gate",
+  "prompt": "[Intro: soft organ, slow bass, wordless group harmony]\n\n[Hook: group in close harmony, sung]\nRoll call at the gate, say them out loud\nEverybody that we love who's gone ahead now\nCall a name, hear a \"present\" from the cloud\nRoll call at the gate, say them out loud\n\n[Verse 1: rapid harmonised rap, two voices trading]\nUncle Ray, with the hat and the toothpick, present\nTaught me how to tie a tie and never be a peasant\nMiss Bea from the fourth grade, red pen, present\nSaid I'd be a writer when I couldn't spell a sentence\nLittle Dre from the building, gone at nineteen, present\nStill got his jacket and I wear it for the blessing\nAuntie with the peppermints in church on Sunday, present\nEvery name's a light, and I can see by the reflection\n\n[Hook: group in close harmony, sung]\nRoll call at the gate, say them out loud\nEverybody that we love who's gone ahead now\nCall a name, hear a \"present\" from the cloud\nRoll call at the gate, say them out loud\n\n[Verse 2: rapid harmonised rap, three voices]\nGranddaddy with the garden and the radio, present\nCoach who drove the van and never asked us for a penny\nCousin from the summer with the bike, I see you, present\nNeighbor lady fed us when the fridge was looking empty\nSaid I wouldn't cry, and I'm a liar, I'm a mess\nGot a list here longer than the ones I got left\nBut I say 'em and they're standing, and I say 'em and they're here\nSay 'em every morning, say 'em every year\n\n[Bridge: voices a cappella, slow]\nAnd when it's my name\nSomebody say it\nSomebody say it out loud\n\n[Final Hook: full group, choir, organ swelling]\nRoll call at the gate, say them out loud\nEverybody that we love who's gone ahead now\nCall a name, hear a \"present\" from the cloud\nRoll call at the gate, say them out loud\n\n[Outro: organ, voices overlapping softly: \"Present. Present.\"]",
+  "style": "Mid-1990s Midwest harmony rap, four or five men rapping in rapid rolling triplets while holding sung pitches in close gospel-quartet harmony, trading lines and joining on the last words, slow smooth sung hook and a cappella bridge, 72 BPM with double-time flows, B-flat minor, slow swaying groove with fast fluttering vocals, soft church organ, slow deep bass line, laid-back kick and reverbed snare, gentle synth bell melody, string pad, choir at the end, smooth deep reverberant mix, mournful, loving, hopeful",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, rock guitars, EDM synths, aggressive shouting, club beat, fast dance tempo",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

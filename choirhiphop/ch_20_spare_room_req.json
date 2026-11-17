@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Spare Room",
+  "prompt": "[Intro: cold piano notes, slow kick, a phone vibrating]\n\n[Chorus: female soul voice, sung, aching]\nI got a spare room and a key cut for you\nNo questions tonight, no \"I told you\"\nBring the baby, bring a bag, bring nothing at all\nThere's a light on down the hall\nSpare room\n\n[Verse 1: female rap, controlled, direct]\nYou said you walked into a door. Girl, I know that door.\nI know the long sleeves in July and what they're for\nI saw you flinch at dinner when he reached across for salt\nAnd the way you said, \"I'm sorry,\" like the weather was your fault\nI ain't gonna say his name. I ain't gonna make you choose\nNot on the phone, not while he's listening in the next room\nI'm just saying where I live. You know the street.\nSecond floor. I'm up. I got clean sheets.\n\n[Chorus: female soul voice, sung, aching]\nI got a spare room and a key cut for you\nNo questions tonight, no \"I told you\"\nBring the baby, bring a bag, bring nothing at all\nThere's a light on down the hall\nSpare room\n\n[Verse 2: rap, urgent, strings rising]\nThey say it takes a few tries. I can wait for all of them.\nI'll be the same address in March and then again\nI put a number in your shoe. It's a lady, she's a pro.\nShe'll tell you what to pack and when to go\nYou are not stupid. You are not weak. You are not what he said.\nYou're the girl who beat me in the hundred, by a head\nYou taught my son to read. You held me when my mother passed.\nNow let somebody hold you. I'm asking. I'm the last to ask.\n\n[Verse 3: quieter, the beat nearly gone]\nThree a.m. A knock. I'm already at the door.\nYou, the baby and a backpack, shaking, on my floor\nI don't say a word. I put the kettle on.\nYou sleep until it's noon. He calls. Your phone is off.\n\n[Final Chorus: soul voice and choir, major lift]\nYou got a spare room and a key that's yours\nNo questions today, just open doors\nYou brought the baby and a bag, that's all you need\nStay as long as you want with me\nSpare room\n\n[Outro: piano, a baby laughing, a lock turning from inside]",
+  "style": "Late-1990s East Coast hip-hop with a soul hook, strong clear controlled female rap steady then urgent then almost whispering, hook sung by a second woman with a powerful aching soul voice and gospel runs joined by a small choir at the end, 78 BPM, G minor lifting to major in the final chorus, slow cold tense feel that turns warm, sparse cold piano notes, slow heavy kick and sharp snare, deep bass, rising string section, Rhodes electric piano, dark sparse dry mix with a lush hook, protective, urgent, tender",
+  "negativeTags": "male lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, club beat, playful mood",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

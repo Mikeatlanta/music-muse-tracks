@@ -24730,5 +24730,2346 @@
     },
     "genre": "House",
     "year": 2025
+  },
+  {
+    "id": "ch_01",
+    "title": "Three Voicemails",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 1,
+    "slug": "ch_01_three_voicemails",
+    "inspiredBy": "Stan (Eminem feat. Dido, 2000)",
+    "leadVoice": "Two rappers. The father: an older man, gravelly, plain and unhurried, more spoken than rhymed, softer in his second verse. The son: younger, tighter, hesitant. The hook is a woman's soft, breathy, folk-like voice, close and sad. No shouting.",
+    "model": "V6",
+    "style": "Turn-of-the-century storytelling hip-hop with a sung folk-pop hook, older gravelly plain male rap voice more spoken than rhymed for two verses and a younger hesitant male rapper for the third, soft breathy sad female voice singing the chorus, 80 BPM, B minor, slow heavy intimate feel, minor-key piano figure, deep slow kick and dry snare, warm bass guitar, small string section late, rain and room sound, dry close mix, regretful, tender, redemptive",
+    "negativeTags": "trap hi-hats, auto-tune, fast tempo, club beat, aggressive shouting, EDM synths, rock guitars, cheerful mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 275,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: rain on a window, soft piano, a voicemail beep]\n\n[Chorus: soft female voice, sung]\nThe line's still open, I never changed the number\nSame old ring in the same old hall\nThe kettle's on and the porch light's burning\nWhenever you're ready to call\n\n[Verse 1: male rap, older voice, steady]\nHey, it's your dad. It's the first of the year.\nI know you said don't call. I know. I hear.\nI was hard on you, harder than my father was on me\nThought that was love. That's the only kind I'd seen.\nYour mother says you're working, got a place across the bay\nI drove past once. I didn't stay.\nI'm not asking you to say it's fine\nI'm just leaving this here. Take your time.\n\n[Chorus: soft female voice, sung]\nThe line's still open, I never changed the number\nSame old ring in the same old hall\nThe kettle's on and the porch light's burning\nWhenever you're ready to call\n\n[Verse 2: same voice, a year on, slower]\nMe again. It's been a while. I counted. It's been two.\nI quit the drinking. March. I thought I'd tell you.\nFound your baseball glove out in the shed\nOiled it. Don't know why. Put it on your bed.\nI go to meetings Thursdays, say the things I did out loud\nMan, you'd laugh. Or you wouldn't. Either way, you'd be proud?\nNo. Scratch that. That's not mine to say.\nI'm just leaving this here. It's okay.\n\n[Verse 3: son's voice, younger, hesitant]\nDad. It's me. Don't pick up. Let it record.\nI got all of them. I played them in the car.\nI've got a boy now. He's got your stupid chin.\nI yelled at him last week and I heard you coming in.\nSo I stopped. I knelt down. I said sorry to a kid.\nThat's the thing you never did. And then you did.\nWe're coming Sunday. He likes trains. He's four.\nDon't clean up. Just be home. Leave the light on by the door.\n\n[Final Chorus: female voice, strings, both men humming]\nThe line's still open, I never changed the number\nSame old ring in the same old hall\nThe kettle's on and the porch light's burning\nWhenever you're ready to call\n\n[Outro: rain easing, a phone picked up mid-ring]",
+    "taskId": "5c866d7c7f3029dc22e24c8c69da4be3",
+    "sunoClipIds": [
+      "042df9fd-326c-445e-a6c5-c70664826005",
+      "40597bf9-157c-415c-9a43-0a63f613fcca"
+    ],
+    "created": "Nov 17, 2026 7:41 AM ET",
+    "createTimeMs": 1794919291813,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "042df9fd-326c-445e-a6c5-c70664826005",
+        "durationSec": 274.32,
+        "file": "choirhiphop/ch_01_three_voicemails_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "40597bf9-157c-415c-9a43-0a63f613fcca",
+        "durationSec": 274.8,
+        "file": "choirhiphop/ch_01_three_voicemails_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_01_three_voicemails_req.json",
+      "choirhiphop/ch_01_three_voicemails_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_01_three_voicemails.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, B minor. Slow, heavy and intimate, like talking in a parked car.\n\nVOICE: Two rappers. The father: an older man, gravelly, plain and unhurried, more spoken than rhymed, softer in his second verse. The son: younger, tighter, hesitant. The hook is a woman's soft, breathy, folk-like voice, close and sad. No shouting.\n\nINSTRUMENTS: A minor-key piano figure, a deep, slow kick and a dry snare, a warm bass guitar, a small string section entering at verse 3, rain and room sounds, a voicemail beep before each verse.\n\nARRANGEMENT MAP: 0:00 Intro, rain and piano. 0:14 Chorus 1. 0:38 Verse 1. 1:26 Chorus 2. 1:50 Verse 2. 2:38 Verse 3, the son, strings in. 3:26 Final chorus. 3:52 Outro, a phone picked up at 4:14.\n\nPRODUCTION & MIX: Turn-of-the-century storytelling rap: dry, close vocals, soft boom-bap drums, a lot of room sound.\n\nSIGNATURE MOMENT: 'That's the thing you never did. And then you did.' at 3:10.\n\nMODERN POINT OF VIEW: The original is a young star hearing too late from a fan. This is told from the other end of life, by a father, and it lets the answer come in time.\n\nEMOTIONAL ARC: Stiff apology, humility, a held breath, reconciliation.",
+    "workbookAtAGlance": "Three Voicemails\n\nBackup titles\nI Never Changed the Number / Beep\n\nAt a glance\n80 BPM, B minor\nVoice: Male rap, older voice; soft female sung hook\nLength: about 4 minutes 20",
+    "qa": {
+      "title": "Three Voicemails",
+      "id": "ch_01",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending"
+          ],
+          "durationSec": 274.3,
+          "measuredBpm": 80.7,
+          "bpmFactor": 1,
+          "targetBpm": 80,
+          "bpmErrPct": 0.9,
+          "lufs": -14.4,
+          "peakDbfs": -0.56,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.0,
+          "contentEndSec": 272.0,
+          "vocalCoverage": 0.503,
+          "vocalSpanSec": [
+            1.6,
+            223.8
+          ],
+          "vocalF0MedianHz": 298,
+          "vocalF0P25Hz": 278,
+          "lyricLineRecall": 0.833,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 274.8,
+          "measuredBpm": 78.3,
+          "bpmFactor": 1,
+          "targetBpm": 80,
+          "bpmErrPct": 2.1,
+          "lufs": -14.7,
+          "peakDbfs": -1.19,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.3,
+          "contentEndSec": 273.0,
+          "vocalCoverage": 0.459,
+          "vocalSpanSec": [
+            1.7,
+            237.9
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 277,
+          "lyricLineRecall": 0.667,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 2000
+  },
+  {
+    "id": "ch_02",
+    "title": "Day One (Again)",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 2,
+    "slug": "ch_02_day_one_again",
+    "inspiredBy": "Not Afraid (Eminem, 2010)",
+    "leadVoice": "Male. The verses are rapped plainly and seriously, with no tricks. The chorus is sung in a rough, strained chest voice with a mixed gospel choir behind it. A small crowd speaks one line of welcome in the bridge.",
+    "model": "V6",
+    "style": "2010 arena hip-hop anthem with a gospel choir, plain serious male rap verses, chorus sung in a rough strained chest voice with a mixed gospel choir behind, a small crowd speaking one line in the bridge, 86 BPM, C minor, slow heavy march that builds, church organ, marching snare rolls over a deep kick, low piano, string section, sub bass, handclaps at the end, huge drums and wide choir with a dry upfront vocal, determined, humble, uplifting",
+    "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, club synths, jazz, playful mood, mumble rap",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: organ swell, marching snare, a room murmuring]\n\n[Chorus: male voice rough, choir behind]\nIt's day one again\nI know this room, I know that door\nIt's day one again\nAnd I've stood up here before\nCount me from today\nI'm not ashamed to start\nDay one again\nHand me the chip, I know my part\n\n[Verse 1: male rap, plain and direct]\nFirst time I got ninety days, I framed it\nSecond time, six months, and then I stained it\nTold myself one wouldn't hurt, I'd earned it\nOne turned into a week before I learned it\nWife took the kids to her mother's in the spring\nI don't blame her. I'd have done the same thing.\nSo here's the folding chair, the coffee, and the creed\nA stranger nods at me like he knows what I need\n\n[Chorus: male voice rough, choir behind]\nIt's day one again\nI know this room, I know that door\nIt's day one again\nAnd I've stood up here before\nCount me from today\nI'm not ashamed to start\nDay one again\nHand me the chip, I know my part\n\n[Verse 2: rap, more force, strings rising]\nThey say the opposite of using ain't just quitting\nIt's the phone calls, and the showing up, and sitting\nWith the boredom and the shame and the receipt\nFor every dinner missed and every lie you had to keep\nI ain't here because I'm strong. I'm here because I'm through.\nIf you're listening in your car and this is you\nPark it. Come inside. There's a chair.\nNobody in this basement's gonna stare.\n\n[Bridge: choir alone, then the room speaking]\nThey won again? No.\nDay one again.\n(Hi. Welcome back.)\n\n[Final Chorus: full choir, drums marching, voice breaking]\nIt's day one again\nI know this room, I know that door\nIt's day one again\nAnd I've stood up here before\nCount me from today\nI'm not ashamed to start\nDay one again\nHand me the chip, I know my part\n\n[Outro: organ, chairs scraping, quiet applause]",
+    "taskId": "1df7d14c8b6b13a63acce8b486158534",
+    "sunoClipIds": [
+      "e7f2606b-02b4-4eef-a090-c1497dd378a5",
+      "c886709d-e0b7-449a-a756-3523405bee20"
+    ],
+    "created": "Nov 17, 2026 7:41 AM ET",
+    "createTimeMs": 1794919294739,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "e7f2606b-02b4-4eef-a090-c1497dd378a5",
+        "durationSec": 243.68,
+        "file": "choirhiphop/ch_02_day_one_again_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "c886709d-e0b7-449a-a756-3523405bee20",
+        "durationSec": 244.72,
+        "file": "choirhiphop/ch_02_day_one_again_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_02_day_one_again_req.json",
+      "choirhiphop/ch_02_day_one_again_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_02_day_one_again.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 86 BPM, 4/4, C minor. A slow, heavy march that builds into an anthem.\n\nVOICE: Male. The verses are rapped plainly and seriously, with no tricks. The chorus is sung in a rough, strained chest voice with a mixed gospel choir behind it. A small crowd speaks one line of welcome in the bridge.\n\nINSTRUMENTS: A church organ, marching snare rolls over a deep kick, a low piano, a string section, a mixed choir, a sub bass, handclaps on the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, organ and snare. 0:14 Chorus 1. 0:46 Verse 1. 1:30 Chorus 2. 2:02 Verse 2. 2:46 Bridge, choir and the room. 3:02 Final chorus. 3:34 Outro, chairs and applause, ends 3:48.\n\nPRODUCTION & MIX: 2010 arena hip-hop: huge drums, wide choir and strings, vocal dry and up front.\n\nSIGNATURE MOMENT: The room's '(Hi. Welcome back.)' at 2:58.\n\nMODERN POINT OF VIEW: The original is a first declaration. Most people who get sober declare it more than once, and this song is for the second, third and fourth time.\n\nEMOTIONAL ARC: Ashamed, honest, inviting, welcomed.",
+    "workbookAtAGlance": "Day One (Again)\n\nBackup titles\nI Know This Room / Count Me from Today\n\nAt a glance\n86 BPM, C minor\nVoice: Male rap with a choir hook\nLength: about 3 minutes 50",
+    "qa": {
+      "title": "Day One (Again)",
+      "id": "ch_02",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check partial: 56% of lines recognised (unclear: Bridge)"
+          ],
+          "durationSec": 243.7,
+          "measuredBpm": 86.1,
+          "bpmFactor": 1,
+          "targetBpm": 86,
+          "bpmErrPct": 0.2,
+          "lufs": -13.7,
+          "peakDbfs": -0.23,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 242.6,
+          "vocalCoverage": 0.616,
+          "vocalSpanSec": [
+            1.4,
+            215.2
+          ],
+          "vocalF0MedianHz": 351,
+          "vocalF0P25Hz": 295,
+          "lyricLineRecall": 0.558,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.16 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 244.7,
+          "measuredBpm": 80.7,
+          "bpmFactor": 1,
+          "targetBpm": 86,
+          "bpmErrPct": 6.1,
+          "lufs": -13.2,
+          "peakDbfs": 0.16,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 2.7,
+          "contentEndSec": 243.6,
+          "vocalCoverage": 0.63,
+          "vocalSpanSec": [
+            7.1,
+            179.1
+          ],
+          "vocalF0MedianHz": 297,
+          "vocalF0P25Hz": 293,
+          "lyricLineRecall": 0.721,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 2010
+  },
+  {
+    "id": "ch_03",
+    "title": "Save You a Plate",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 3,
+    "slug": "ch_03_save_you_a_plate",
+    "inspiredBy": "I'll Be Missing You (Puff Daddy & Faith Evans feat. 112, 1997)",
+    "leadVoice": "Male rapper: soft-spoken, mid-range, steady, talking to his mother. The hook is a woman with a rich gospel-soul voice, full and controlled, with a choir answering in parentheses. A male gospel quartet hums the intro and sings the bridge.",
+    "model": "V6",
+    "style": "Late-1990s pop-rap elegy with real gospel voices, soft-spoken steady mid-range male rap addressed to his mother, chorus sung by a rich controlled female gospel-soul voice with a choir answering, male gospel quartet humming the intro and singing the bridge, 84 BPM, F minor resolving to major in the chorus, slow warm swaying feel, church organ, gentle boom-bap kick and snare, walking bass guitar, acoustic guitar picking, string section, tambourine, warm glossy wide mix, mournful, grateful, comforting",
+    "negativeTags": "trap hi-hats, auto-tune, fast tempo, club synths, aggressive shouting, rock guitars, EDM, playful mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: gospel quartet humming, church organ, soft]\n\n[Chorus: female gospel-soul voice, choir answering]\nWe save you a plate (every Sunday)\nYour chair's still yours (at the head)\nWe say your grace the way you said it\nWe pass your cornbread\nTill I see you again, till I pull up to that gate\nMama, we save you a plate\n\n[Verse 1: male rap, gentle, direct address]\nFour o'clock. I got the big pot out, the dented one\nYour recipe's a napkin and it's faded in the sun\nI called your sister twice to ask how much is \"some\"\nShe laughed and cried and said, \"Baby, till it's done\"\nKids set the table, put a fork down at your spot\nNobody told them to. They just know what's what.\nI tried to say the blessing and my voice went thin\nYour grandson finished it. He sounds like you. He grinned.\n\n[Chorus: female gospel-soul voice, choir answering]\nWe save you a plate (every Sunday)\nYour chair's still yours (at the head)\nWe say your grace the way you said it\nWe pass your cornbread\nTill I see you again, till I pull up to that gate\nMama, we save you a plate\n\n[Verse 2: rap, steadier, strings in]\nYou raised four of us on one check and a prayer\nWorked the early shift and still did all our hair\nI never saw you sit until the last of us was fed\nThen you'd eat standing at the counter. That's what you did.\nI'm fifty and I only now can see the cost\nI'd give a year to tell you nothing that you gave was lost\nThe house is loud. The baby's got your laugh.\nWe're alright, Mama. You did that. Do the math.\n\n[Bridge: quartet in harmony, organ rising]\nThere's a table where you are\nLonger than this one, set with stars\nSave me a seat like I save yours\n\n[Final Chorus: full choir, voice soaring]\nWe save you a plate (every Sunday)\nYour chair's still yours (at the head)\nWe say your grace the way you said it\nWe pass your cornbread\nTill I see you again, till I pull up to that gate\nMama, we save you a plate\n\n[Outro: organ, dishes, a child saying \"Amen\"]",
+    "taskId": "60f2be6df7b98d191e393f2840363352",
+    "sunoClipIds": [
+      "ac73af58-37b9-4c37-9354-44841ccded31",
+      "e7017732-e84a-458e-89d3-3eb8924ebdee"
+    ],
+    "created": "Nov 17, 2026 7:41 AM ET",
+    "createTimeMs": 1794919299758,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "ac73af58-37b9-4c37-9354-44841ccded31",
+        "durationSec": 254.08,
+        "file": "choirhiphop/ch_03_save_you_a_plate_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "e7017732-e84a-458e-89d3-3eb8924ebdee",
+        "durationSec": 254.4,
+        "file": "choirhiphop/ch_03_save_you_a_plate_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_03_save_you_a_plate_req.json",
+      "choirhiphop/ch_03_save_you_a_plate_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_03_save_you_a_plate.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 84 BPM, 4/4, F minor resolving to major in the chorus. Slow, warm and swaying, a hymn with a backbeat.\n\nVOICE: Male rapper: soft-spoken, mid-range, steady, talking to his mother. The hook is a woman with a rich gospel-soul voice, full and controlled, with a choir answering in parentheses. A male gospel quartet hums the intro and sings the bridge.\n\nINSTRUMENTS: Church organ, a gentle boom-bap kick and snare, a walking bass guitar, acoustic guitar picking, a string section from verse 2, a gospel choir, tambourine, kitchen sounds at the end.\n\nARRANGEMENT MAP: 0:00 Intro, quartet and organ. 0:18 Chorus 1. 0:46 Verse 1. 1:30 Chorus 2. 1:58 Verse 2. 2:42 Bridge. 3:00 Final chorus. 3:30 Outro, dishes and 'Amen' at 3:54.\n\nPRODUCTION & MIX: Late-1990s pop-rap elegy with real gospel voices: warm, glossy and wide, vocals forward, drums soft.\n\nSIGNATURE MOMENT: 'Your grandson finished it. He sounds like you.' at 1:24.\n\nMODERN POINT OF VIEW: The original mourns a young man killed at twenty-four. Most grief is for a parent who lived a long, hard-working life, and it is kept at a kitchen table.\n\nEMOTIONAL ARC: Raw, remembering, understanding, at peace.",
+    "workbookAtAGlance": "Save You a Plate\n\nBackup titles\nSunday at Four / Your Chair's Still Yours\n\nAt a glance\n84 BPM, F minor\nVoice: Male rap; female gospel-soul hook with a choir\nLength: about 4 minutes",
+    "qa": {
+      "title": "Save You a Plate",
+      "id": "ch_03",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check partial: 49% of lines recognised (unclear: Bridge)"
+          ],
+          "durationSec": 254.1,
+          "measuredBpm": 83.4,
+          "bpmFactor": 1,
+          "targetBpm": 84,
+          "bpmErrPct": 0.8,
+          "lufs": -13.8,
+          "peakDbfs": -0.38,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 252.8,
+          "vocalCoverage": 0.897,
+          "vocalSpanSec": [
+            0.2,
+            251.4
+          ],
+          "vocalF0MedianHz": 313,
+          "vocalF0P25Hz": 258,
+          "lyricLineRecall": 0.486,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.4,
+          "measuredBpm": 83.4,
+          "bpmFactor": 1,
+          "targetBpm": 84,
+          "bpmErrPct": 0.8,
+          "lufs": -13.8,
+          "peakDbfs": -0.61,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 252.6,
+          "vocalCoverage": 0.826,
+          "vocalSpanSec": [
+            3.4,
+            251.4
+          ],
+          "vocalF0MedianHz": 309,
+          "vocalF0P25Hz": 242,
+          "lyricLineRecall": 0.946,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 1997
+  },
+  {
+    "id": "ch_04",
+    "title": "Some of It Moved",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 4,
+    "slug": "ch_04_some_of_it_moved",
+    "inspiredBy": "Changes (2Pac feat. Talent, 1998)",
+    "leadVoice": "Male, mid-range, relaxed and conversational, rapped as if talking across a kitchen table, with some heat in verse 2 and tenderness in verse 3. The chorus is sung by a smooth male tenor with a small mixed choir.",
+    "model": "V6",
+    "style": "Late-1990s West Coast conscious hip-hop, relaxed conversational mid-range male rap as if talking across a kitchen table, chorus sung by a smooth male tenor with a small mixed gospel choir, 88 BPM, G minor with a hopeful lift in the chorus, mid-slow steady warm feel, bright rolling acoustic piano figure, boom-bap kick and snare, round bass guitar, soft strings, a little wah guitar, warm clear piano-led mix, reflective, honest, hopeful",
+    "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, aggressive shouting, EDM synths, rock guitars, mumble rap",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bright piano figure, soft kick, street sounds]\n\n[Verse 1: conversational male rap]\nI was fifteen when I heard a dead man say it wouldn't shift\nThirty years I've walked this block, so let me tell you how I lived\nCorner store's a pharmacy, the pharmacy's a bank\nThe bank became a coffee place, so I don't know who to thank\nMy son's got friends in every shade, they don't think twice\nThat's real. I didn't have that. That's nice.\nBut he still gets the talk before he drives at night\nSame words my mother used. Hands in sight.\n\n[Chorus: sung, male tenor with a small choir]\nSome of it moved\nAnd some of it stayed\nSome of it's better than the day I was made\nI'm not gonna lie to you either way\nSome of it moved, and some of it stayed\n\n[Verse 2: rap, a little more heat]\nThey closed the rec, then built it back with glass\nThe rent went up so fast my neighbors couldn't last\nWe got a mayor looks like us, and potholes just the same\nI learned that faces change before the game\nBut I've seen a kid from here go be a judge\nI've seen the old heads teaching, holding no grudge\nI've seen a funeral turn into a vote\nI keep the wins. I write 'em down. I keep the note.\n\n[Chorus: sung, male tenor with a small choir]\nSome of it moved\nAnd some of it stayed\nSome of it's better than the day I was made\nI'm not gonna lie to you either way\nSome of it moved, and some of it stayed\n\n[Verse 3: quieter, to his son]\nSo, son, don't let 'em tell you nothing gives\nAnd don't let 'em tell you it's all fixed\nBoth of those are easy. Both are lies.\nYou push the part in front of you. That's how it's sized.\n\n[Final Chorus: full choir, piano brighter]\nSome of it moved\nAnd some of it stayed\nSome of it's better than the day I was made\nI'm not gonna lie to you either way\nSome of it moved, 'cause somebody pushed\n\n[Outro: piano figure, a basketball bouncing, fading]",
+    "taskId": "c0babf098df06ed34e689440548695ce",
+    "sunoClipIds": [
+      "241cc8f9-ecee-4028-8e13-4f1014d03294",
+      "9ebc694b-b787-44fa-8c85-a7607fe02b83"
+    ],
+    "created": "Nov 17, 2026 7:41 AM ET",
+    "createTimeMs": 1794919303037,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "241cc8f9-ecee-4028-8e13-4f1014d03294",
+        "durationSec": 254.4,
+        "file": "choirhiphop/ch_04_some_of_it_moved_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "9ebc694b-b787-44fa-8c85-a7607fe02b83",
+        "durationSec": 253.84,
+        "file": "choirhiphop/ch_04_some_of_it_moved_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_04_some_of_it_moved_req.json",
+      "choirhiphop/ch_04_some_of_it_moved_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_04_some_of_it_moved.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 88 BPM, 4/4, G minor with a hopeful lift in the chorus. Mid-slow, steady and warm.\n\nVOICE: Male, mid-range, relaxed and conversational, rapped as if talking across a kitchen table, with some heat in verse 2 and tenderness in verse 3. The chorus is sung by a smooth male tenor with a small mixed choir.\n\nINSTRUMENTS: A bright, rolling acoustic piano figure, a boom-bap kick and snare, a round bass guitar, soft strings, a gospel choir, a little wah guitar, street and playground sounds.\n\nARRANGEMENT MAP: 0:00 Intro, piano. 0:12 Verse 1. 0:56 Chorus 1. 1:20 Verse 2. 2:04 Chorus 2. 2:28 Verse 3, quieter. 2:52 Final chorus, last line changed. 3:20 Outro, piano and a basketball, ends 3:58.\n\nPRODUCTION & MIX: Late-1990s West Coast conscious rap: warm, clear and piano-led, drums soft, vocal natural.\n\nSIGNATURE MOMENT: The last chorus ending ''cause somebody pushed' at 3:14.\n\nMODERN POINT OF VIEW: The original, from the 1990s, doubts anything will change. A man who has lived the thirty years since can report exactly what did and did not, and tell his son both halves.\n\nEMOTIONAL ARC: Weary, fair, stirred, instructing.",
+    "workbookAtAGlance": "Some of It Moved\n\nBackup titles\nThirty Years on This Block / And Some of It Stayed\n\nAt a glance\n88 BPM, G minor\nVoice: Conversational male rap with a sung hook\nLength: about 4 minutes",
+    "qa": {
+      "title": "Some of It Moved",
+      "id": "ch_04",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.4,
+          "measuredBpm": 89.1,
+          "bpmFactor": 1,
+          "targetBpm": 88,
+          "bpmErrPct": 1.3,
+          "lufs": -14.9,
+          "peakDbfs": -0.79,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.5,
+          "contentEndSec": 252.7,
+          "vocalCoverage": 0.467,
+          "vocalSpanSec": [
+            8.3,
+            194.7
+          ],
+          "vocalF0MedianHz": 198,
+          "vocalF0P25Hz": 174,
+          "lyricLineRecall": 0.829,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 253.9,
+          "measuredBpm": 89.1,
+          "bpmFactor": 1,
+          "targetBpm": 88,
+          "bpmErrPct": 1.3,
+          "lufs": -13.9,
+          "peakDbfs": -0.28,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 3.0,
+          "contentEndSec": 252.1,
+          "vocalCoverage": 0.432,
+          "vocalSpanSec": [
+            16.7,
+            147.2
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 186,
+          "lyricLineRecall": 0.914,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 1998
+  },
+  {
+    "id": "ch_05",
+    "title": "Don't Dive There",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 5,
+    "slug": "ch_05_dont_dive_there",
+    "inspiredBy": "Waterfalls (TLC, 1995)",
+    "leadVoice": "Three women. One sings verse 1 in a low, smoky tone; a second sings verse 2 lighter and gentler; the third raps the final verse quickly and brightly. They sing the choruses in tight three-part harmony.",
+    "model": "V6",
+    "style": "Mid-1990s Atlanta R&B with a rap verse, three women: a low smoky lead on verse one, a lighter gentler voice on verse two and a quick bright female rapper on the final verse, tight three-part harmony choruses, 86 BPM, E-flat minor, slow warm swaying serious feel, muted trumpet and saxophone lines, slow melodic live bass guitar, laid-back drums with rim click, wah-wah guitar, electric piano, Hammond organ, turntable scratches, warm live bass-rich mix, cautionary, compassionate, soulful",
+    "negativeTags": "male lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, aggressive shouting, club beat",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: muted horns, slow warm bassline, rim click]\n\n[Verse 1: female lead, smoky and low]\nLittle brother's got a system on his phone\nTwenty on the late game, he's in the zone\nWon on a Tuesday, told the whole block\nLost it on a Wednesday with the rent and the clock\nMama sees the notice and she doesn't say a word\nHe says one more parlay and he's back, haven't you heard?\n\n[Chorus: three-part female harmony, horns answering]\nDon't dive there, baby, you can't see the bottom\nShiny on the top don't mean it's deep\nStay where your feet know the ground they've got\nSome water only wants to keep\nDon't dive there\n\n[Verse 2: second female voice, gentle]\nPretty girl, sixteen, with a ring light glow\nTen thousand strangers telling her what they know\nShe shows a little more and the number climbs\nShe can't remember what she looked like last time\nDoor's locked. Dinner's cold. Daddy knocks.\nShe's somebody everywhere except the place she's got.\n\n[Chorus: three-part female harmony, horns answering]\nDon't dive there, baby, you can't see the bottom\nShiny on the top don't mean it's deep\nStay where your feet know the ground they've got\nSome water only wants to keep\nDon't dive there\n\n[Rap Verse: third female voice, bright and quick]\nI've been in it, I ain't judging from the shore\nChased a thing so hard I couldn't feel the floor\nSomebody threw a rope and didn't ask me why\nJust said, \"Kick. I got you. Look up at the sky.\"\nSo if you're under, I'm not gonna preach\nI'm standing in the shallow with a hand in reach\nThe good stuff's slower and it don't go viral\nCome on in where it's clear. Break the spiral.\n\n[Final Chorus: full harmony, horns and organ]\nDon't dive there, baby, you can't see the bottom\nShiny on the top don't mean it's deep\nStay where your feet know the ground they've got\nSome water only wants to keep\nDon't dive there\n\n[Outro: horns fade, one voice: \"I got you.\"]",
+    "taskId": "59f989f49f533a3c285887f50edc5605",
+    "sunoClipIds": [
+      "55d918e5-2e7e-466d-80e5-fd697c39e9d7",
+      "002c1443-edf8-4b6c-bd7d-3fa4193780d9"
+    ],
+    "created": "Nov 17, 2026 7:41 AM ET",
+    "createTimeMs": 1794919303737,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "55d918e5-2e7e-466d-80e5-fd697c39e9d7",
+        "durationSec": 254.36,
+        "file": "choirhiphop/ch_05_dont_dive_there_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "002c1443-edf8-4b6c-bd7d-3fa4193780d9",
+        "durationSec": 254.52,
+        "file": "choirhiphop/ch_05_dont_dive_there_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_05_dont_dive_there_req.json",
+      "choirhiphop/ch_05_dont_dive_there_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_05_dont_dive_there.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 86 BPM, 4/4, E-flat minor. Slow, warm and swaying, serious without being heavy.\n\nVOICE: Three women. One sings verse 1 in a low, smoky tone; a second sings verse 2 lighter and gentler; the third raps the final verse quickly and brightly. They sing the choruses in tight three-part harmony.\n\nINSTRUMENTS: Muted trumpet and saxophone lines, a slow, melodic live bass guitar, a laid-back drum kit with a rim click and soft snare, a wah-wah guitar, an electric piano, a Hammond organ in the last chorus, turntable scratches in the rap verse.\n\nARRANGEMENT MAP: 0:00 Intro, horns and bass. 0:14 Verse 1. 0:48 Chorus 1. 1:16 Verse 2. 1:50 Chorus 2. 2:18 Rap verse. 3:02 Final chorus. 3:30 Outro, horns and a spoken line at 3:52.\n\nPRODUCTION & MIX: Mid-1990s Atlanta R&B: warm, live and bass-rich, horns soft, harmonies smooth and wide.\n\nSIGNATURE MOMENT: 'She's somebody everywhere except the place she's got' at 1:46.\n\nMODERN POINT OF VIEW: The original warned about the dangers of its decade. These are the ones a parent worries about now, and the rap verse is by someone who went under herself.\n\nEMOTIONAL ARC: Watching, worrying, pleading, reaching.",
+    "workbookAtAGlance": "Don't Dive There\n\nBackup titles\nCan't See the Bottom / Shallow, Shiny Water\n\nAt a glance\n86 BPM, E-flat minor\nVoice: Female R&B trio with a female rap verse\nLength: about 4 minutes",
+    "qa": {
+      "title": "Don't Dive There",
+      "id": "ch_05",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.29 dBFS (5 clipped sample, inaudible)"
+          ],
+          "durationSec": 254.4,
+          "measuredBpm": 123.0,
+          "bpmFactor": 0.67,
+          "targetBpm": 86,
+          "bpmErrPct": 4.6,
+          "lufs": -13.5,
+          "peakDbfs": 0.29,
+          "clipSamples": 5,
+          "midGaps": [],
+          "endFadeSec": 1.2,
+          "contentEndSec": 253.2,
+          "vocalCoverage": 0.644,
+          "vocalSpanSec": [
+            7.3,
+            248.1
+          ],
+          "vocalF0MedianHz": 277,
+          "vocalF0P25Hz": 231,
+          "lyricLineRecall": 0.829,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.14 dBFS (5 clipped sample, inaudible)"
+          ],
+          "durationSec": 254.5,
+          "measuredBpm": 61.5,
+          "bpmFactor": 1.5,
+          "targetBpm": 86,
+          "bpmErrPct": 7.3,
+          "lufs": -13.3,
+          "peakDbfs": 0.14,
+          "clipSamples": 5,
+          "midGaps": [],
+          "endFadeSec": 1.3,
+          "contentEndSec": 252.8,
+          "vocalCoverage": 0.643,
+          "vocalSpanSec": [
+            5.6,
+            235.4
+          ],
+          "vocalF0MedianHz": 306,
+          "vocalF0P25Hz": 233,
+          "lyricLineRecall": 0.714,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "R&B",
+    "year": 1995
+  },
+  {
+    "id": "ch_06",
+    "title": "They Brought Me Back",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 6,
+    "slug": "ch_06_they_brought_me_back",
+    "inspiredBy": "Many Men (Wish Death) (50 Cent, 2003)",
+    "leadVoice": "Male, low and calm, rapped almost conversationally with a slight slur, never raised. He sings the chorus himself in a soft, plain voice, doubled, with a small choir humming and then singing behind.",
+    "model": "V6",
+    "style": "Early-2000s East Coast rap ballad with a hymn-like hook, low calm conversational male rap with a slight slur and never raised, chorus sung by the same man in a soft plain doubled voice with a small choir behind, 92 BPM, A minor, slow mournful steady feel with a heavy backbeat, sad piano loop, low strings, deep kick and cracking snare, sub bass, church organ at the end, choir, dark warm spacious mix, grateful, sober, reflective",
+    "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, club synths, shouting, rock guitars, playful mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: slow piano, heart monitor in time, low strings]\n\n[Chorus: male voice sung, hymn-like, voices behind]\nThey brought me back, they brought me back\nFour minutes gone, and they brought me back\nI heard my name from a long way off\nLord, I wasn't ready, and they brought me back\n\n[Verse 1: calm male rap, matter-of-fact]\nTuesday, half past six, I'm making eggs\nFelt a hand close up inside my chest\nNext thing is the ceiling and the tile\nMy daughter on the phone, eleven, dialed\nShe did the counting like they told her on the line\nThirty and two, thirty and two, the whole time\nSirens. Boots. A stranger's hands, a shout\nSomebody said \"clear\" and the lights went out\n\n[Chorus: male voice sung, hymn-like, voices behind]\nThey brought me back, they brought me back\nFour minutes gone, and they brought me back\nI heard my name from a long way off\nLord, I wasn't ready, and they brought me back\n\n[Verse 2: same calm, a little warmer]\nWoke up Thursday with a tube and a scar\nA nurse named Dee said, \"There you are\"\nI asked her what I owed. She laughed. She said\n\"Walk. Eat green things. Go to bed.\"\nNow I take the stairs. I take the pills. I take my time.\nI learned the medic's name. I sent her wine.\nMy girl won't talk about it. She just checks\nMy breathing through the door. I let her. That's respect.\n\n[Bridge: choir humming, voice spoken low]\nForty-four. Every day since is extra.\nI don't waste extra.\n\n[Final Chorus: full choir, organ]\nThey brought me back, they brought me back\nFour minutes gone, and they brought me back\nI heard my name from a long way off\nLord, I wasn't ready, and they brought me back\n\n[Outro: monitor steady, piano, a door opening softly]",
+    "taskId": "6b2ea5aadaa7fbde6469a2da831e6a6d",
+    "sunoClipIds": [
+      "00f57b72-7cbe-4eb2-b555-d0763faaeb1e",
+      "9df02cb9-b64f-477f-9a79-256559ab2ac3"
+    ],
+    "created": "Nov 17, 2026 7:41 AM ET",
+    "createTimeMs": 1794919308714,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "00f57b72-7cbe-4eb2-b555-d0763faaeb1e",
+        "durationSec": 243.56,
+        "file": "choirhiphop/ch_06_they_brought_me_back_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "9df02cb9-b64f-477f-9a79-256559ab2ac3",
+        "durationSec": 244.76,
+        "file": "choirhiphop/ch_06_they_brought_me_back_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_06_they_brought_me_back_req.json",
+      "choirhiphop/ch_06_they_brought_me_back_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_06_they_brought_me_back.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 92 BPM, 4/4, A minor. Slow, mournful and steady, with a heavy backbeat.\n\nVOICE: Male, low and calm, rapped almost conversationally with a slight slur, never raised. He sings the chorus himself in a soft, plain voice, doubled, with a small choir humming and then singing behind.\n\nINSTRUMENTS: A sad piano loop, low strings, a deep kick and a cracking snare, a sub bass, a church organ in the last chorus, a choir, a heart monitor beeping in time at the start and end.\n\nARRANGEMENT MAP: 0:00 Intro, piano and monitor. 0:14 Chorus 1. 0:40 Verse 1. 1:22 Chorus 2. 1:48 Verse 2. 2:30 Bridge. 2:46 Final chorus. 3:14 Outro, monitor and a door, ends 3:46.\n\nPRODUCTION & MIX: Early-2000s East Coast rap ballad: dark, warm and spacious, drums heavy, vocal dry and close.\n\nSIGNATURE MOMENT: 'My daughter on the phone, eleven, dialed' at 0:52.\n\nMODERN POINT OF VIEW: The original survives enemies. Most men who nearly die in their forties are attacked by their own hearts, and are saved by a child with a phone and strangers in uniform.\n\nEMOTIONAL ARC: Shock, darkness, waking, gratitude.",
+    "workbookAtAGlance": "They Brought Me Back\n\nBackup titles\nFour Minutes Gone / Tuesday on the Kitchen Floor\n\nAt a glance\n92 BPM, A minor\nVoice: Calm male rap with a sung hook\nLength: about 3 minutes 50",
+    "qa": {
+      "title": "They Brought Me Back",
+      "id": "ch_06",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 243.6,
+          "measuredBpm": 89.1,
+          "bpmFactor": 1,
+          "targetBpm": 92,
+          "bpmErrPct": 3.1,
+          "lufs": -13.9,
+          "peakDbfs": -0.35,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 241.9,
+          "vocalCoverage": 0.413,
+          "vocalSpanSec": [
+            12.1,
+            236.8
+          ],
+          "vocalF0MedianHz": 164,
+          "vocalF0P25Hz": 146,
+          "lyricLineRecall": 0.8,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.8,
+          "measuredBpm": 89.1,
+          "bpmFactor": 1,
+          "targetBpm": 92,
+          "bpmErrPct": 3.1,
+          "lufs": -13.7,
+          "peakDbfs": -0.03,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.8,
+          "contentEndSec": 242.8,
+          "vocalCoverage": 0.526,
+          "vocalSpanSec": [
+            12.2,
+            218.0
+          ],
+          "vocalF0MedianHz": 162,
+          "vocalF0P25Hz": 134,
+          "lyricLineRecall": 0.867,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other",
+    "year": 2003
+  },
+  {
+    "id": "ch_07",
+    "title": "D.U.E.",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 7,
+    "slug": "ch_07_d_u_e",
+    "inspiredBy": "C.R.E.A.M. (Wu-Tang Clan, 1993)",
+    "leadVoice": "Two male rappers. The first is calm and precise; the second is rougher and lower. Neither raises his voice. The hook is chanted in unison by five or six men, low and tired, with one voice singing the last line.",
+    "model": "V6",
+    "style": "Early-1990s New York boom-bap, two male rappers, one calm and precise and one rougher and lower, neither raising his voice, hook chanted in unison by a group of men low and tired, 90 BPM, C# minor, slow dusty heavy feel with an unchanging loop, melancholy slightly out-of-tune piano loop, dusty sampled drum break with hard snare, deep bass notes, vinyl crackle, faint soul-vocal texture, strings at the end, gritty lo-fi mid-range mix, weary, dignified, redemptive",
+    "negativeTags": "female lead vocals, trap hi-hats, auto-tune, glossy pop production, fast tempo, EDM synths, rock guitars, sung pop chorus",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: mournful piano loop, vinyl crackle, soft kick]\n\n[Hook: chanted by a group, low]\nD-U-E\nDollars under everything\nD-U-E\nRed ink, phone ring\nDollar dollar bill, who's it for?\nD-U-E, at the door\n\n[Verse 1: male rap, steady, unsentimental]\nI learned to read on envelopes my mother wouldn't open\n\"Final\" was a word I knew before I knew \"hoping\"\nLights went off in March, we played a game called camping\nCandles on the stove and Mama's hands were shaking, stamping\nFree lunch ticket, different color, everybody knew\nWore my cousin's sneakers with the name still on the shoe\nLandlord at the door, we'd hold our breath and count\nWhole childhood was a whisper and a past-due amount\n\n[Hook: chanted by a group, low]\nD-U-E\nDollars under everything\nD-U-E\nRed ink, phone ring\nDollar dollar bill, who's it for?\nD-U-E, at the door\n\n[Verse 2: second male voice, grainier]\nFourteen, bagging groceries, sixteen, working nights\nGave it all to Mama, never once put up a fight\nGot a scholarship, a loan, another loan for that\nGraduated owing more than everything we had\nNow I got a salary, a desk, a little view\nFirst of every month, I pay hers before I do\nShe says, \"Baby, keep it.\" I say, \"Ma, I can't.\"\nThere's a kid inside me holding his breath in the dark\n\n[Bridge: piano alone, spoken]\nPaid her house off in the spring.\nShe opened the letter herself.\n\n[Final Hook: group louder, strings added]\nD-U-E\nDollars under everything\nD-U-E\nRed ink, phone ring\nDollar dollar bill, who's it for?\nPaid in full. Open the door.\n\n[Outro: piano loop, an envelope torn, a laugh]",
+    "taskId": "ecce586c6796a0eaaff6fa59fe529535",
+    "sunoClipIds": [
+      "0da170d1-40d2-4ef9-b1d0-8cb751f5102a",
+      "25e66319-897c-499b-9177-b94ebeedc34b"
+    ],
+    "created": "Nov 17, 2026 7:41 AM ET",
+    "createTimeMs": 1794919311694,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "0da170d1-40d2-4ef9-b1d0-8cb751f5102a",
+        "durationSec": 244.32,
+        "file": "choirhiphop/ch_07_d_u_e_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "25e66319-897c-499b-9177-b94ebeedc34b",
+        "durationSec": 244.36,
+        "file": "choirhiphop/ch_07_d_u_e_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_07_d_u_e_req.json",
+      "choirhiphop/ch_07_d_u_e_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_07_d_u_e.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 90 BPM, 4/4, C# minor. Slow, dusty and heavy, with a loop that never moves.\n\nVOICE: Two male rappers. The first is calm and precise; the second is rougher and lower. Neither raises his voice. The hook is chanted in unison by five or six men, low and tired, with one voice singing the last line.\n\nINSTRUMENTS: A melancholy, slightly out-of-tune piano loop, a dusty sampled drum break with a hard snare, a deep bass note under each bar, vinyl crackle, a faint soul-vocal texture, strings joining for the final hook.\n\nARRANGEMENT MAP: 0:00 Intro, piano loop. 0:12 Hook 1. 0:36 Verse 1. 1:20 Hook 2. 1:44 Verse 2. 2:28 Bridge, spoken. 2:42 Final hook. 3:10 Outro, an envelope and a laugh, ends 3:46.\n\nPRODUCTION & MIX: Early-1990s New York boom-bap: gritty, lo-fi and mid-range, drums loud and dry, voices close.\n\nSIGNATURE MOMENT: 'She opened the letter herself.' at 2:36.\n\nMODERN POINT OF VIEW: The original is told by young men still inside the story. This is a man of forty looking back, and it ends with the one thing the first song could not show: the debt cleared.\n\nEMOTIONAL ARC: Shame, grind, duty, release.",
+    "workbookAtAGlance": "D.U.E.\n\nBackup titles\nDollars Under Everything / Final Notice\n\nAt a glance\n90 BPM, C# minor\nVoice: Two male rappers with a chanted acronym hook\nLength: about 3 minutes 50",
+    "qa": {
+      "title": "D.U.E.",
+      "id": "ch_07",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending",
+            "tempo measured 81 BPM vs 90 target (~10% off)",
+            "lyric check partial: 56% of lines recognised"
+          ],
+          "durationSec": 244.3,
+          "measuredBpm": 80.7,
+          "bpmFactor": 1,
+          "targetBpm": 90,
+          "bpmErrPct": 10.3,
+          "lufs": -13.8,
+          "peakDbfs": -0.01,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.1,
+          "contentEndSec": 242.9,
+          "vocalCoverage": 0.409,
+          "vocalSpanSec": [
+            23.8,
+            154.4
+          ],
+          "vocalF0MedianHz": 314,
+          "vocalF0P25Hz": 288,
+          "lyricLineRecall": 0.556,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.4,
+          "measuredBpm": 83.4,
+          "bpmFactor": 1,
+          "targetBpm": 90,
+          "bpmErrPct": 7.4,
+          "lufs": -14.3,
+          "peakDbfs": -0.85,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 242.8,
+          "vocalCoverage": 0.394,
+          "vocalSpanSec": [
+            8.1,
+            177.1
+          ],
+          "vocalF0MedianHz": 311,
+          "vocalF0P25Hz": 188,
+          "lyricLineRecall": 0.639,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Soul",
+    "year": 1993
+  },
+  {
+    "id": "ch_08",
+    "title": "Late, But I'm Coming",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 8,
+    "slug": "ch_08_late_but_im_coming",
+    "inspiredBy": "Ready or Not (Fugees, 1996)",
+    "leadVoice": "A woman sings the hook in a rich, steady alto and raps verse 1 in a measured, unhurried flow. A younger man raps verse 2 with warmth and pride. Her stacked harmonies fill the last chorus.",
+    "model": "V6",
+    "style": "Mid-1990s East Coast hip-hop and neo-soul, a woman singing the hook in a rich steady alto and rapping the first verse in a measured unhurried flow, a younger warm proud male rapper on the second verse, stacked female harmonies at the end, 82 BPM, D minor, slow heavy haunting spacious feel, floating wordless choir pad with long reverb, slow heavy kick and snapping snare, deep simple bass line, muted guitar pluck, low string drone, dark bass-heavy mix, determined, proud, haunting",
+    "negativeTags": "trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, club beat, aggressive shouting, bright pop",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: eerie wordless choir pad, slow heavy kick]\n\n[Chorus: female voice, sung, calm and sure]\nLate, but I'm coming\nYou can start, I'll catch you up\nLate, but I'm coming\nTwenty years is long enough\nSave a seat or don't, I'll stand\nLate, but I'm coming\n\n[Verse 1: female rap, measured]\nForty-one, front row, with a pen and a doubt\nKid beside me's younger than the car I got out\nRaised three, buried one, worked a register and nights\nPut everybody first and called it doing right\nDean said, \"Any questions?\" Yeah. Where've I been?\nHolding up a ceiling so my kids could get in\nNow the last one's got her own key and her own rent\nAnd I got a syllabus and no time left to vent\n\n[Chorus: female voice, sung, calm and sure]\nLate, but I'm coming\nYou can start, I'll catch you up\nLate, but I'm coming\nTwenty years is long enough\nSave a seat or don't, I'll stand\nLate, but I'm coming\n\n[Verse 2: male rap, her son, proud]\nThat's my mother with the highlighter, look\nShe used to read to me from library books\nFell asleep mid-sentence in her uniform\nWoke up, clocked in, kept us fed and warm\nI got my degree, she clapped until she cried\nNow I'm in the bleachers on the other side\nQuiz on Friday. She's got flash cards on the fridge.\nTell the honor roll to make a little room. She's rich.\n\n[Bridge: choir pad swells, female voice spoken]\nRoll call. Say my name.\nHere.\n\n[Final Chorus: female voice, harmonies stacked]\nLate, but I'm coming\nYou can start, I'll catch you up\nLate, but I'm coming\nTwenty years is long enough\nSave a seat or don't, I'll stand\nLate, and I'm here\n\n[Outro: choir pad, a pen clicking, a page turned]",
+    "taskId": "775320ea0a4abf6c40d3b12c6ce36ec1",
+    "sunoClipIds": [
+      "eb7bdf09-ba84-45c8-be02-79969d13e776",
+      "00ad94c2-c071-47c9-b61e-deaeed951ce8"
+    ],
+    "created": "Nov 17, 2026 7:41 AM ET",
+    "createTimeMs": 1794919316712,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "eb7bdf09-ba84-45c8-be02-79969d13e776",
+        "durationSec": 254.4,
+        "file": "choirhiphop/ch_08_late_but_im_coming_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "00ad94c2-c071-47c9-b61e-deaeed951ce8",
+        "durationSec": 254.36,
+        "file": "choirhiphop/ch_08_late_but_im_coming_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_08_late_but_im_coming_req.json",
+      "choirhiphop/ch_08_late_but_im_coming_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_08_late_but_im_coming.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 82 BPM, 4/4, D minor. Slow, heavy and haunting, with a great deal of space.\n\nVOICE: A woman sings the hook in a rich, steady alto and raps verse 1 in a measured, unhurried flow. A younger man raps verse 2 with warmth and pride. Her stacked harmonies fill the last chorus.\n\nINSTRUMENTS: A floating, wordless choir pad with long reverb, a slow, heavy kick and a snapping snare, a deep, simple bass line, a muted guitar pluck, a low string drone, a few piano notes.\n\nARRANGEMENT MAP: 0:00 Intro, choir pad and kick. 0:16 Chorus 1. 0:44 Verse 1. 1:30 Chorus 2. 1:58 Verse 2. 2:44 Bridge. 2:58 Final chorus. 3:28 Outro, pad, a pen and a page, ends 3:56.\n\nPRODUCTION & MIX: Mid-1990s East Coast: dark, spacious and bass-heavy, drums dry, the choir pad far away like fog.\n\nSIGNATURE MOMENT: The single spoken 'Here.' at 2:54.\n\nMODERN POINT OF VIEW: The original is young people announcing they are coming for the crown. This is a woman of forty-one announcing she is coming for a chair in a classroom, which takes more nerve.\n\nEMOTIONAL ARC: Nervous, resolved, celebrated, present.",
+    "workbookAtAGlance": "Late, But I'm Coming\n\nBackup titles\nCount Me In at Forty / Hold the Door\n\nAt a glance\n82 BPM, D minor\nVoice: Female sung hook and rap; male rap verse\nLength: about 4 minutes",
+    "qa": {
+      "title": "Late, But I'm Coming",
+      "id": "ch_08",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending",
+            "peak 0.04 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 254.4,
+          "measuredBpm": 78.3,
+          "bpmFactor": 1,
+          "targetBpm": 82,
+          "bpmErrPct": 4.5,
+          "lufs": -13.0,
+          "peakDbfs": 0.04,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 0.1,
+          "contentEndSec": 252.5,
+          "vocalCoverage": 0.712,
+          "vocalSpanSec": [
+            0.3,
+            246.2
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 264,
+          "lyricLineRecall": 0.8,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.4,
+          "measuredBpm": 80.7,
+          "bpmFactor": 1,
+          "targetBpm": 82,
+          "bpmErrPct": 1.5,
+          "lufs": -13.3,
+          "peakDbfs": -0.44,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.4,
+          "contentEndSec": 252.4,
+          "vocalCoverage": 0.764,
+          "vocalSpanSec": [
+            0.3,
+            235.3
+          ],
+          "vocalF0MedianHz": 297,
+          "vocalF0P25Hz": 287,
+          "lyricLineRecall": 0.914,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 1996
+  },
+  {
+    "id": "ch_09",
+    "title": "Roll Call at the Gate",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 9,
+    "slug": "ch_09_roll_call_at_the_gate",
+    "inspiredBy": "Tha Crossroads (Bone Thugs-N-Harmony, 1996)",
+    "leadVoice": "Four or five men who rap in rapid, rolling triplets while holding sung pitches, in close three- and four-part harmony like a gospel quartet at double speed. They trade lines and join on the last word of each. The hook and bridge are sung slowly and smoothly.",
+    "model": "V6",
+    "style": "Mid-1990s Midwest harmony rap, four or five men rapping in rapid rolling triplets while holding sung pitches in close gospel-quartet harmony, trading lines and joining on the last words, slow smooth sung hook and a cappella bridge, 72 BPM with double-time flows, B-flat minor, slow swaying groove with fast fluttering vocals, soft church organ, slow deep bass line, laid-back kick and reverbed snare, gentle synth bell melody, string pad, choir at the end, smooth deep reverberant mix, mournful, loving, hopeful",
+    "negativeTags": "female lead vocals, trap hi-hats, auto-tune, rock guitars, EDM synths, aggressive shouting, club beat, fast dance tempo",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: soft organ, slow bass, wordless group harmony]\n\n[Hook: group in close harmony, sung]\nRoll call at the gate, say them out loud\nEverybody that we love who's gone ahead now\nCall a name, hear a \"present\" from the cloud\nRoll call at the gate, say them out loud\n\n[Verse 1: rapid harmonised rap, two voices trading]\nUncle Ray, with the hat and the toothpick, present\nTaught me how to tie a tie and never be a peasant\nMiss Bea from the fourth grade, red pen, present\nSaid I'd be a writer when I couldn't spell a sentence\nLittle Dre from the building, gone at nineteen, present\nStill got his jacket and I wear it for the blessing\nAuntie with the peppermints in church on Sunday, present\nEvery name's a light, and I can see by the reflection\n\n[Hook: group in close harmony, sung]\nRoll call at the gate, say them out loud\nEverybody that we love who's gone ahead now\nCall a name, hear a \"present\" from the cloud\nRoll call at the gate, say them out loud\n\n[Verse 2: rapid harmonised rap, three voices]\nGranddaddy with the garden and the radio, present\nCoach who drove the van and never asked us for a penny\nCousin from the summer with the bike, I see you, present\nNeighbor lady fed us when the fridge was looking empty\nSaid I wouldn't cry, and I'm a liar, I'm a mess\nGot a list here longer than the ones I got left\nBut I say 'em and they're standing, and I say 'em and they're here\nSay 'em every morning, say 'em every year\n\n[Bridge: voices a cappella, slow]\nAnd when it's my name\nSomebody say it\nSomebody say it out loud\n\n[Final Hook: full group, choir, organ swelling]\nRoll call at the gate, say them out loud\nEverybody that we love who's gone ahead now\nCall a name, hear a \"present\" from the cloud\nRoll call at the gate, say them out loud\n\n[Outro: organ, voices overlapping softly: \"Present. Present.\"]",
+    "taskId": "04e2ea0e77fbbf11274fdc0eb50e7166",
+    "sunoClipIds": [
+      "82e8ad33-1f3d-49a1-9420-58557326c454",
+      "8260862f-f27a-4a5c-a75f-ba2bdbcbfbce"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919320877,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "82e8ad33-1f3d-49a1-9420-58557326c454",
+        "durationSec": 244.72,
+        "file": "choirhiphop/ch_09_roll_call_at_the_gate_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "8260862f-f27a-4a5c-a75f-ba2bdbcbfbce",
+        "durationSec": 244.76,
+        "file": "choirhiphop/ch_09_roll_call_at_the_gate_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_09_roll_call_at_the_gate_req.json",
+      "choirhiphop/ch_09_roll_call_at_the_gate_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_09_roll_call_at_the_gate.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 72 BPM with double-time flows, 4/4, B-flat minor. Slow and swaying underneath, fast and fluttering on top.\n\nVOICE: Four or five men who rap in rapid, rolling triplets while holding sung pitches, in close three- and four-part harmony like a gospel quartet at double speed. They trade lines and join on the last word of each. The hook and bridge are sung slowly and smoothly.\n\nINSTRUMENTS: A soft church organ, a slow, deep bass line, a laid-back kick and snare with a long reverb, a gentle synth bell melody, a string pad, a choir in the final hook.\n\nARRANGEMENT MAP: 0:00 Intro, organ and harmony. 0:16 Hook 1. 0:44 Verse 1. 1:30 Hook 2. 1:58 Verse 2. 2:44 Bridge, a cappella. 3:02 Final hook. 3:30 Outro, overlapping 'Present', ends 3:48.\n\nPRODUCTION & MIX: Mid-1990s Midwest harmony rap: smooth, deep and reverberant, voices blended into one instrument, bass heavy.\n\nSIGNATURE MOMENT: The first answered name, 'Uncle Ray... present', at 0:46.\n\nMODERN POINT OF VIEW: The original mourns people lost young. By fifty the list has teachers, coaches and grandparents on it too, and the song gives each of them one line.\n\nEMOTIONAL ARC: Solemn, remembering, breaking, comforted.",
+    "workbookAtAGlance": "Roll Call at the Gate\n\nBackup titles\nSay Them Out Loud / Present\n\nAt a glance\n72 BPM, B-flat minor\nVoice: Male group, rapid harmonised rap-singing\nLength: about 3 minutes 50",
+    "qa": {
+      "title": "Roll Call at the Gate",
+      "id": "ch_09",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.25 dBFS (4 clipped sample, inaudible)"
+          ],
+          "durationSec": 244.7,
+          "measuredBpm": 68.0,
+          "bpmFactor": 1,
+          "targetBpm": 72,
+          "bpmErrPct": 5.6,
+          "lufs": -12.4,
+          "peakDbfs": 0.25,
+          "clipSamples": 4,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 243.0,
+          "vocalCoverage": 0.682,
+          "vocalSpanSec": [
+            0.4,
+            204.1
+          ],
+          "vocalF0MedianHz": 278,
+          "vocalF0P25Hz": 174,
+          "lyricLineRecall": 0.774,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.8,
+          "measuredBpm": 68.0,
+          "bpmFactor": 1,
+          "targetBpm": 72,
+          "bpmErrPct": 5.6,
+          "lufs": -12.6,
+          "peakDbfs": -0.05,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 243.6,
+          "vocalCoverage": 0.628,
+          "vocalSpanSec": [
+            14.7,
+            208.0
+          ],
+          "vocalF0MedianHz": 311,
+          "vocalF0P25Hz": 174,
+          "lyricLineRecall": 0.71,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other",
+    "year": 1996
+  },
+  {
+    "id": "ch_10",
+    "title": "Monday Psalm",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 10,
+    "slug": "ch_10_monday_psalm",
+    "inspiredBy": "Jesus Walks (Kanye West, 2004)",
+    "leadVoice": "Male rapper, mid-range, urgent and clear, riding the march rhythm. A large mixed gospel choir chants the hook in unison and shouts the weekdays, and sings the bridge unaccompanied.",
+    "model": "V6",
+    "style": "2004 Chicago soul-rap with a marching gospel choir, urgent clear mid-range male rap riding a march rhythm, large mixed gospel choir chanting the hook in unison and shouting answers, a cappella choir bridge, 87 BPM, E-flat minor, stomping heavy determined march, marching snare with rolls, deep stomping kick, male-voice bass hum, stabbing strings, brass section at the end, sub bass, handclaps, big warm dramatic mix, prayerful, defiant, uplifting",
+    "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, playful mood, lo-fi",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: marching snare, low choir hum, boots on pavement]\n\n[Hook: choir chanting, drums marching]\nWalk me through the week\n(Monday, Tuesday)\nWalk me through the week\n(Wednesday, Thursday)\nLord, I ain't asking for the mountain moved\nJust walk me through the week\n\n[Verse 1: male rap, urgent, on the march]\nFive a.m., the bus stop, breath like smoke\nName tag on my jacket and I'm almost broke\nI ain't been to service since the schedule changed\nSunday's when they need me on the loading range\nSo this is church: a bench, a route, a transfer slip\nA psalm I half remember on my lip\nYou said the last come first. I'm holding you to that.\nI'm last in every line they got. So where you at?\n\n[Hook: choir chanting, drums marching]\nWalk me through the week\n(Monday, Tuesday)\nWalk me through the week\n(Wednesday, Thursday)\nLord, I ain't asking for the mountain moved\nJust walk me through the week\n\n[Verse 2: rap, wider, strings stabbing]\nPray for the cashier standing ten hours on a sprain\nPray for the driver, for the nurse's aide, the man out in the rain\nThe single dad who's learning how to braid his daughter's hair\nThe woman counting quarters at the laundry, say a prayer\nThey don't put us in the windows made of glass\nBut I read that book. We're in it. First and last.\nA carpenter, some fishermen, a girl without a room\nYou've always walked with people on the morning shift. Resume.\n\n[Bridge: drums drop, choir a cappella]\nFriday, I can see you\nSaturday, I rest\nSunday, if I'm working\nHear this anyway. Amen.\n\n[Final Hook: full choir, brass, drums loudest]\nWalk me through the week\n(Monday, Tuesday)\nWalk me through the week\n(Wednesday, Thursday)\nLord, I ain't asking for the mountain moved\nJust walk me through the week\n\n[Outro: snare alone, a bus door opening, \"Morning.\"]",
+    "taskId": "73508438ff56d63195e78b887628d75e",
+    "sunoClipIds": [
+      "1b053932-b80b-4bf0-8f31-ae3e817539e1",
+      "8e298446-9944-4f9d-86da-299d744720ce"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919327320,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "1b053932-b80b-4bf0-8f31-ae3e817539e1",
+        "durationSec": 233.88,
+        "file": "choirhiphop/ch_10_monday_psalm_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "8e298446-9944-4f9d-86da-299d744720ce",
+        "durationSec": 234.8,
+        "file": "choirhiphop/ch_10_monday_psalm_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_10_monday_psalm_req.json",
+      "choirhiphop/ch_10_monday_psalm_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_10_monday_psalm.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 87 BPM, 4/4, E-flat minor. A stomping march, heavy and determined.\n\nVOICE: Male rapper, mid-range, urgent and clear, riding the march rhythm. A large mixed gospel choir chants the hook in unison and shouts the weekdays, and sings the bridge unaccompanied.\n\nINSTRUMENTS: A marching snare with rolls, a deep stomping kick, a male-voice bass hum, stabbing strings, a brass section in the final hook, a sub bass, handclaps, the sound of boots.\n\nARRANGEMENT MAP: 0:00 Intro, snare and hum. 0:14 Hook 1. 0:40 Verse 1. 1:24 Hook 2. 1:50 Verse 2. 2:34 Bridge, choir alone. 2:52 Final hook. 3:20 Outro, snare and a bus door, ends 3:38.\n\nPRODUCTION & MIX: 2004 Chicago soul-rap: big, warm and dramatic, choir and drums huge, vocal crisp.\n\nSIGNATURE MOMENT: 'I'm last in every line they got. So where you at?' at 1:18.\n\nMODERN POINT OF VIEW: The original takes faith to the club and the corner. This takes it to the 5 a.m. bus, for people whose shifts keep them out of the pews.\n\nEMOTIONAL ARC: Tired, demanding, interceding, carried.",
+    "workbookAtAGlance": "Monday Psalm\n\nBackup titles\nWalk Me Through the Week / Lord, It's the Fifteenth\n\nAt a glance\n87 BPM, E-flat minor\nVoice: Male rap with a marching choir\nLength: about 3 minutes 40",
+    "qa": {
+      "title": "Monday Psalm",
+      "id": "ch_10",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 233.9,
+          "measuredBpm": 83.4,
+          "bpmFactor": 1,
+          "targetBpm": 87,
+          "bpmErrPct": 4.2,
+          "lufs": -13.7,
+          "peakDbfs": -0.47,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.7,
+          "contentEndSec": 231.9,
+          "vocalCoverage": 0.7,
+          "vocalSpanSec": [
+            3.0,
+            207.1
+          ],
+          "vocalF0MedianHz": 415,
+          "vocalF0P25Hz": 311,
+          "lyricLineRecall": 0.875,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak -0.01 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 234.8,
+          "measuredBpm": 89.1,
+          "bpmFactor": 1,
+          "targetBpm": 87,
+          "bpmErrPct": 2.4,
+          "lufs": -13.1,
+          "peakDbfs": -0.01,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 0.7,
+          "contentEndSec": 232.8,
+          "vocalCoverage": 0.659,
+          "vocalSpanSec": [
+            2.6,
+            214.2
+          ],
+          "vocalF0MedianHz": 372,
+          "vocalF0P25Hz": 234,
+          "lyricLineRecall": 0.844,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Soul",
+    "year": 2004
+  },
+  {
+    "id": "ch_11",
+    "title": "No Snow Days",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 11,
+    "slug": "ch_11_no_snow_days",
+    "inspiredBy": "Hard Knock Life (Ghetto Anthem) (JAY-Z, 1998)",
+    "leadVoice": "The rapper is a working man in his forties, rough-voiced, plain and proud, with a Northeastern edge. The hook is sung by a choir of eight to ten children, loud, bright and slightly ragged, like a school assembly. They shout the bridge as a call and response.",
+    "model": "V6",
+    "style": "Late-1990s New York hip-hop with a children's choir hook, rough-voiced plain proud male rap by a working man in his forties, hook sung by a loud bright slightly ragged choir of children like a school assembly, shouted call-and-response bridge, 90 BPM, A minor, hard-hitting bouncing feel, music-box-style piano figure, hard dry kick and snare, heavy bass, strings, brass section at the end, handclaps, dry punchy mix, tough, tender, proud",
+    "negativeTags": "female lead vocals, trap hi-hats, auto-tune, slow piano ballad, EDM synths, rock guitars, jazz, lo-fi",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: music-box piano, hard kick and snare, kids laughing]\n\n[Hook: children's choir, bright and loud]\nWe don't get no snow days\nDaddy goes in anyway\nBoots by the door at four a.m.\nSomebody's gotta clear the way\nNo snow days, no snow days\nHe goes in anyway\n\n[Verse 1: male rap, rough and proud]\nRadio says school's out, hear 'em cheering down the hall\nI'm already in the truck, I got the call\nTwelve on, twelve off, then twelve again\nSalt in my beard and a thermos for a friend\nMy old man drove a bus through every storm they named\nI didn't get it then. I get it now. Same.\nYou never see my face, you just see the road is black\nThat's the job. You wake up and I've been there and back.\n\n[Hook: children's choir, bright and loud]\nWe don't get no snow days\nDaddy goes in anyway\nBoots by the door at four a.m.\nSomebody's gotta clear the way\nNo snow days, no snow days\nHe goes in anyway\n\n[Verse 2: rap, warmer, strings in]\nMissed a recital, missed a game, I missed a tooth\nI ain't gonna dress that up. That's just the truth.\nBut the lights are on, there's cereal, the heat stays warm\nAnd every kid on this route gets to school after the storm\nMy daughter drew a picture, me, a cape, a plow\nStuck it on the dash. I'm looking at it now.\nCome spring I'm taking Fridays. That's a vow I'm gonna keep.\nTonight I got the hill by the hospital. Go to sleep.\n\n[Bridge: kids alone, clapping game rhythm]\nNurses! (No snow days)\nDrivers! (No snow days)\nLinemen! (No snow days)\nMy dad! (No snow days)\n\n[Final Hook: children's choir, brass, drums loudest]\nWe don't get no snow days\nDaddy goes in anyway\nBoots by the door at four a.m.\nSomebody's gotta clear the way\nNo snow days, no snow days\nHe goes in anyway\n\n[Outro: plough blade scraping, a door, small voice: \"He's home!\"]",
+    "taskId": "8b717833a35026b41aa481ceba572ed4",
+    "sunoClipIds": [
+      "dcb4e2c1-5ac9-4df6-a37e-5bc893ea1252",
+      "bd06da2e-882d-41f7-abc5-a0398cbfe5f9"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919340795,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "dcb4e2c1-5ac9-4df6-a37e-5bc893ea1252",
+        "durationSec": 234.2,
+        "file": "choirhiphop/ch_11_no_snow_days_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "bd06da2e-882d-41f7-abc5-a0398cbfe5f9",
+        "durationSec": 234.12,
+        "file": "choirhiphop/ch_11_no_snow_days_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_11_no_snow_days_req.json",
+      "choirhiphop/ch_11_no_snow_days_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_11_no_snow_days.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 90 BPM, 4/4, A minor. Hard-hitting and bouncing, tough and sweet at once.\n\nVOICE: The rapper is a working man in his forties, rough-voiced, plain and proud, with a Northeastern edge. The hook is sung by a choir of eight to ten children, loud, bright and slightly ragged, like a school assembly. They shout the bridge as a call and response.\n\nINSTRUMENTS: A music-box-style piano figure, a hard, dry kick and snare, a heavy bass, strings from verse 2, a brass section in the final hook, handclaps, a plough blade and winter sounds.\n\nARRANGEMENT MAP: 0:00 Intro, piano and beat. 0:12 Hook 1. 0:38 Verse 1. 1:22 Hook 2. 1:48 Verse 2. 2:32 Bridge, kids. 2:48 Final hook. 3:14 Outro, plough, door and a child's voice at 3:34.\n\nPRODUCTION & MIX: Late-1990s New York rap: drums hard and loud, the children's voices bright on top, everything dry and punchy.\n\nSIGNATURE MOMENT: 'Stuck it on the dash. I'm looking at it now.' at 2:16.\n\nMODERN POINT OF VIEW: The original tells of escaping a hard life. This is about a man who stayed in one, on purpose, so that a town's children could get to school.\n\nEMOTIONAL ARC: Tired, proud, honest about the cost, home.",
+    "workbookAtAGlance": "No Snow Days\n\nBackup titles\nWe Go In Anyway / Boots by the Door\n\nAt a glance\n90 BPM, A minor\nVoice: Male rap with a children's choir hook\nLength: about 3 minutes 40",
+    "qa": {
+      "title": "No Snow Days",
+      "id": "ch_11",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 234.2,
+          "measuredBpm": 95.7,
+          "bpmFactor": 1,
+          "targetBpm": 90,
+          "bpmErrPct": 6.3,
+          "lufs": -14.5,
+          "peakDbfs": -0.33,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 233.5,
+          "vocalCoverage": 0.555,
+          "vocalSpanSec": [
+            5.6,
+            220.3
+          ],
+          "vocalF0MedianHz": 305,
+          "vocalF0P25Hz": 290,
+          "lyricLineRecall": 0.789,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 234.1,
+          "measuredBpm": 92.3,
+          "bpmFactor": 1,
+          "targetBpm": 90,
+          "bpmErrPct": 2.5,
+          "lufs": -13.7,
+          "peakDbfs": -0.25,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 233.0,
+          "vocalCoverage": 0.484,
+          "vocalSpanSec": [
+            7.9,
+            177.9
+          ],
+          "vocalF0MedianHz": 415,
+          "vocalF0P25Hz": 337,
+          "lyricLineRecall": 0.737,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 1998
+  },
+  {
+    "id": "ch_12",
+    "title": "New Name on the Mailbox",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 12,
+    "slug": "ch_12_new_name_on_the_mailbox",
+    "inspiredBy": "Dead and Gone (T.I. feat. Justin Timberlake, 2009)",
+    "leadVoice": "The rapper is a man with a deep Georgia drawl, slow and deliberate, almost conversational. The chorus is sung by a different man in a high, clean, pop tenor, doubled, with a choir behind in the last chorus.",
+    "model": "V6",
+    "style": "Late-2000s Atlanta pop-rap ballad, deep slow deliberate male rap with a Georgia drawl, chorus sung by a different man in a high clean doubled pop tenor with a choir at the end, 68 BPM with double-time hi-hats, A minor, slow wide solemn feel with a pop-sized chorus, sad piano figure, whistled counter-melody, deep 808 kick and bass, crisp hi-hats, snare with long tail, string section, acoustic guitar, glossy wide clean mix, resolute, reflective, redemptive",
+    "negativeTags": "female lead vocals, fast tempo, rock guitars, EDM drop, jazz, aggressive shouting, lo-fi, playful mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: solo piano, whistled phrase, slow kick]\n\n[Chorus: high male voice, sung, clean]\nThere's a new name on the mailbox\nThe man you want don't live here now\nHe left one night with what he did\nI couldn't tell you where or how\nNew name on the mailbox\nDifferent man inside the house\n\n[Verse 1: Southern male rap, slow and heavy]\nOld partner pulled up in a rental, tinted\nSaid, \"I got a thing, one night, come get it\"\nI said, \"You got the wrong address, my friend\nFella you remember met his end\"\nNot in a box, not on the news\nIn a visiting room with his little girl's shoes\nToo small for her now, on the table, in a bag\nThat's the night he died. I ain't seen him since. Don't ask.\n\n[Chorus: high male voice, sung, clean]\nThere's a new name on the mailbox\nThe man you want don't live here now\nHe left one night with what he did\nI couldn't tell you where or how\nNew name on the mailbox\nDifferent man inside the house\n\n[Verse 2: rap, steadier, strings under]\nI coach on Saturdays, I'm early every time\nI say \"yes ma'am\" to a boss half my age, that's fine\nParole's done. I still call in. That's just me.\nI like somebody knowing where I'll be\nThe old me's got some friends who want him back\nThey can't have him. He don't get to see my kids. That's that.\nI keep his picture so I don't forget his face\nI don't hate him. He just can't come in this place.\n\n[Bridge: piano and whistle, voice low]\nIf he knocks, I don't answer\nIf he knocks, I'm not home\n\n[Final Chorus: high voice, choir behind, drums fuller]\nThere's a new name on the mailbox\nThe man you want don't live here now\nHe left one night with what he did\nI couldn't tell you where or how\nNew name on the mailbox\nDifferent man inside the house\n\n[Outro: piano, a mailbox lid, a child calling \"Dad!\"]",
+    "taskId": "c8c943f17d2868f63c3e9ad889c624e2",
+    "sunoClipIds": [
+      "4ea27c39-03b7-42ec-931a-588a31792d9d",
+      "fb1cba02-7974-409e-81b7-6142e9b326a6"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919338938,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "4ea27c39-03b7-42ec-931a-588a31792d9d",
+        "durationSec": 254.56,
+        "file": "choirhiphop/ch_12_new_name_on_the_mailbox_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "fb1cba02-7974-409e-81b7-6142e9b326a6",
+        "durationSec": 254.4,
+        "file": "choirhiphop/ch_12_new_name_on_the_mailbox_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_12_new_name_on_the_mailbox_req.json",
+      "choirhiphop/ch_12_new_name_on_the_mailbox_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_12_new_name_on_the_mailbox.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 68 BPM with double-time hi-hats, 4/4, A minor. Slow, wide and solemn, with a pop-sized chorus.\n\nVOICE: The rapper is a man with a deep Georgia drawl, slow and deliberate, almost conversational. The chorus is sung by a different man in a high, clean, pop tenor, doubled, with a choir behind in the last chorus.\n\nINSTRUMENTS: A sad piano figure, a whistled counter-melody, a deep 808 kick and bass, crisp hi-hats, a snare with a long tail, a string section from verse 2, a choir, an acoustic guitar.\n\nARRANGEMENT MAP: 0:00 Intro, piano and whistle. 0:16 Chorus 1. 0:50 Verse 1. 1:36 Chorus 2. 2:10 Verse 2. 2:56 Bridge. 3:12 Final chorus. 3:44 Outro, a mailbox and a child's voice at 3:56.\n\nPRODUCTION & MIX: Late-2000s Atlanta pop-rap: glossy, wide and clean, piano and vocal up front, low end deep.\n\nSIGNATURE MOMENT: 'I don't hate him. He just can't come in this place.' at 2:50.\n\nMODERN POINT OF VIEW: The original declares the change at the moment it happens. This is fifteen years later, when the hard part is no longer changing but keeping the door shut.\n\nEMOTIONAL ARC: Tested, firm, settled, home.",
+    "workbookAtAGlance": "New Name on the Mailbox\n\nBackup titles\nHe Doesn't Live Here / Forwarding Address\n\nAt a glance\n68 BPM, A minor\nVoice: Southern male rap with a high male sung hook\nLength: about 4 minutes",
+    "qa": {
+      "title": "New Name on the Mailbox",
+      "id": "ch_12",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.6,
+          "measuredBpm": 68.0,
+          "bpmFactor": 1,
+          "targetBpm": 68,
+          "bpmErrPct": 0.0,
+          "lufs": -13.9,
+          "peakDbfs": -0.34,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 252.7,
+          "vocalCoverage": 0.528,
+          "vocalSpanSec": [
+            13.9,
+            225.1
+          ],
+          "vocalF0MedianHz": 147,
+          "vocalF0P25Hz": 133,
+          "lyricLineRecall": 0.75,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "ending cut at the length limit (last chord clipped)"
+          ],
+          "durationSec": 254.4,
+          "measuredBpm": 66.3,
+          "bpmFactor": 1,
+          "targetBpm": 68,
+          "bpmErrPct": 2.6,
+          "lufs": -14.6,
+          "peakDbfs": -0.43,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.1,
+          "contentEndSec": 254.2,
+          "vocalCoverage": 0.571,
+          "vocalSpanSec": [
+            14.1,
+            253.2
+          ],
+          "vocalF0MedianHz": 153,
+          "vocalF0P25Hz": 147,
+          "lyricLineRecall": 0.806,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 2009
+  },
+  {
+    "id": "ch_13",
+    "title": "Sing It for the Corner",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 13,
+    "slug": "ch_13_sing_it_for_the_corner",
+    "inspiredBy": "Ghetto Gospel (2Pac feat. Elton John, 2004)",
+    "leadVoice": "The rapper is an older man, husky and urgent, pressing every line. The chorus is sung by a clear, emotional male tenor in a 1970s singer-songwriter style, joined by a gospel choir.",
+    "model": "V6",
+    "style": "Mid-2000s rap ballad with a 1970s singer-songwriter hook, older husky urgent male rap pressing every line, chorus sung by a clear emotional male tenor joined by a gospel choir, 80 BPM, G minor, slow pleading tender feel, grand piano with slow rolling chords, deep kick and crisp snare, warm bass guitar, string section, gospel choir, acoustic guitar, polished wide emotional mix, compassionate, urgent, hopeful",
+    "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, club beat, playful mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: slow piano chords, distant sirens, soft choir]\n\n[Chorus: male tenor, sung, piano and choir]\nSing it for the corner, sing it for the block\nSing it for the boys who never heard the clock\nLay it down, lay it down\nBefore the candles and the flowers on the ground\nSing it for the corner now\n\n[Verse 1: male rap, urgent, older voice]\nI stood right there in ninety-four with something in my coat\nSeventeen and certain, with a lump inside my throat\nSomebody's grandma called me by my government name\nSaid, \"Your mother raised you better.\" Lord, the shame.\nI walked. That's all I did. I walked. I'm here.\nHalf the boys I stood with never saw another year\nSo when I pull up slow and roll the window, that ain't hate\nI'm somebody's grandma now. I'm telling you: it ain't too late.\n\n[Chorus: male tenor, sung, piano and choir]\nSing it for the corner, sing it for the block\nSing it for the boys who never heard the clock\nLay it down, lay it down\nBefore the candles and the flowers on the ground\nSing it for the corner now\n\n[Verse 2: rap, pleading, strings in]\nYou think nobody sees you. I see you. I was you.\nYou think there ain't a door. I'll walk you through.\nGot a shop that needs a hand, got a cousin with a truck\nIt's slow money. Slow money don't get you shot up.\nYour little sister's watching from the window on the third\nShe's gonna be whatever she just saw and what she heard\nI can't make you. I can stand here. I can ask.\nI can come back tomorrow. I ain't got a harder task.\n\n[Bridge: choir alone, hushed]\nMothers, sing it\nFathers, sing it\nWhile they're here to hear it\n\n[Final Chorus: tenor and full choir]\nSing it for the corner, sing it for the block\nSing it for the boys who never heard the clock\nLay it down, lay it down\nBefore the candles and the flowers on the ground\nSing it for the corner now\n\n[Outro: piano, a car door, footsteps walking away together]",
+    "taskId": "56129d77b14b1217e31a23093a737ee0",
+    "sunoClipIds": [
+      "3b644fe0-c4bb-4c63-a6a3-3d359fa884dd",
+      "1e93a96b-febf-40c0-b2a7-cef2f33f84f4"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919336803,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3b644fe0-c4bb-4c63-a6a3-3d359fa884dd",
+        "durationSec": 244.56,
+        "file": "choirhiphop/ch_13_sing_it_for_the_corner_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "1e93a96b-febf-40c0-b2a7-cef2f33f84f4",
+        "durationSec": 244.88,
+        "file": "choirhiphop/ch_13_sing_it_for_the_corner_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_13_sing_it_for_the_corner_req.json",
+      "choirhiphop/ch_13_sing_it_for_the_corner_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_13_sing_it_for_the_corner.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, G minor. Slow, pleading and tender, a piano ballad with a heavy beat.\n\nVOICE: The rapper is an older man, husky and urgent, pressing every line. The chorus is sung by a clear, emotional male tenor in a 1970s singer-songwriter style, joined by a gospel choir.\n\nINSTRUMENTS: A grand piano playing slow, rolling chords, a deep kick and a crisp snare, a warm bass guitar, a string section, a gospel choir, a little acoustic guitar, street sounds at the ends.\n\nARRANGEMENT MAP: 0:00 Intro, piano and sirens. 0:16 Chorus 1. 0:46 Verse 1. 1:32 Chorus 2. 2:02 Verse 2. 2:48 Bridge, choir. 3:02 Final chorus. 3:32 Outro, a car door and footsteps, ends 3:48.\n\nPRODUCTION & MIX: Mid-2000s rap ballad: polished, wide and emotional, piano and tenor bright, drums heavy underneath.\n\nSIGNATURE MOMENT: 'I'm somebody's grandma now. I'm telling you: it ain't too late.' at 1:26.\n\nMODERN POINT OF VIEW: The original is a young man pleading from inside the danger. This is one of the few who walked away, thirty years on, coming back to the same corner to say so.\n\nEMOTIONAL ARC: Remembering, ashamed, pleading, staying.",
+    "workbookAtAGlance": "Sing It for the Corner\n\nBackup titles\nBefore the Candles / Lay It Down\n\nAt a glance\n80 BPM, G minor\nVoice: Male rap with a male tenor sung hook\nLength: about 3 minutes 50",
+    "qa": {
+      "title": "Sing It for the Corner",
+      "id": "ch_13",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.6,
+          "measuredBpm": 76.0,
+          "bpmFactor": 1,
+          "targetBpm": 80,
+          "bpmErrPct": 5.0,
+          "lufs": -14.0,
+          "peakDbfs": -0.08,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 242.6,
+          "vocalCoverage": 0.618,
+          "vocalSpanSec": [
+            23.3,
+            205.3
+          ],
+          "vocalF0MedianHz": 247,
+          "vocalF0P25Hz": 198,
+          "lyricLineRecall": 0.824,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.28 dBFS (2 clipped sample, inaudible)",
+            "tempo measured 70 BPM vs 80 target (~13% off)"
+          ],
+          "durationSec": 244.9,
+          "measuredBpm": 69.8,
+          "bpmFactor": 1,
+          "targetBpm": 80,
+          "bpmErrPct": 12.7,
+          "lufs": -13.7,
+          "peakDbfs": 0.28,
+          "clipSamples": 2,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 243.4,
+          "vocalCoverage": 0.709,
+          "vocalSpanSec": [
+            13.0,
+            235.0
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 235,
+          "lyricLineRecall": 0.853,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Singer-Songwriter",
+    "year": 2004
+  },
+  {
+    "id": "ch_14",
+    "title": "Keys to the City",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 14,
+    "slug": "ch_14_keys_to_the_city",
+    "inspiredBy": "If I Ruled the World (Imagine That) (Nas feat. Lauryn Hill, 1996)",
+    "leadVoice": "The rapper is a man with a calm, slightly raspy, precise delivery, every word clear. The chorus and bridge are sung by a woman with a warm, soulful, slightly smoky voice, with a small choir in the last chorus.",
+    "model": "V6",
+    "style": "Mid-1990s New York radio hip-hop with a soul hook, calm slightly raspy precise male rap with every word clear, chorus and bridge sung by a warm soulful slightly smoky female voice with a small choir at the end, 88 BPM, F# minor, smooth laid-back thoughtful head-nod, warm Rhodes electric piano, soft string section, relaxed boom-bap drums with crisp snare, melodic bass guitar, muted horns, polished warm smooth mix, hopeful, practical, generous",
+    "negativeTags": "trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, aggressive shouting, club beat, dark horror mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 245,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: warm electric piano, soft strings, laid-back drums]\n\n[Chorus: female voice, sung, hopeful]\nIf they gave me the keys to the city\nJust for a weekend, just for a day\nI'd open every door that they painted shut\nAnd I'd give the keys away\n\n[Verse 1: male rap, smooth and deliberate]\nFirst thing: public pool on Ninth, been dry since ninety-eight\nI'd fill it up by noon and prop the gate\nSecond: every fine that's older than the kid who's paying\nGone. Clean. No more court dates, no more praying\nLibrary stays open till the last one leaves\nBus runs all night for the folks with keys\nTo other people's offices they mop at three\nFree ride home. That one's for my auntie.\n\n[Chorus: female voice, sung, hopeful]\nIf they gave me the keys to the city\nJust for a weekend, just for a day\nI'd open every door that they painted shut\nAnd I'd give the keys away\n\n[Verse 2: rap, warmer, horns in]\nStreetlight on my mother's block, been out a year\nFixed. And the one by the school. Make it clear.\nGrocery with real vegetables in walking range\nA bench at every stop. That ain't strange.\nNo statue, no parade, don't name a thing for me\nPut a tree where there's a lot. Let it be.\nSunday night I'd drop the ring back on the desk\nWith a list for Monday. You can do the rest.\n\n[Bridge: female voice over strings]\nIt wouldn't take a king\nIt wouldn't take a crown\nJust somebody who's walked it\nWalking it around\n\n[Final Chorus: female voice, choir behind]\nIf they gave me the keys to the city\nJust for a weekend, just for a day\nI'd open every door that they painted shut\nAnd I'd give the keys away\n\n[Outro: electric piano, kids splashing, a bus pulling up]",
+    "taskId": "ab4a7632e6c17558acf12bae2e7ec552",
+    "sunoClipIds": [
+      "6a8c19ba-0e3d-4418-90e9-5888b8825fe4",
+      "1a151701-1a37-4dec-877f-e76508363c14"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919340563,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "6a8c19ba-0e3d-4418-90e9-5888b8825fe4",
+        "durationSec": 244.4,
+        "file": "choirhiphop/ch_14_keys_to_the_city_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "1a151701-1a37-4dec-877f-e76508363c14",
+        "durationSec": 243.96,
+        "file": "choirhiphop/ch_14_keys_to_the_city_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_14_keys_to_the_city_req.json",
+      "choirhiphop/ch_14_keys_to_the_city_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_14_keys_to_the_city.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 88 BPM, 4/4, F# minor. Smooth, laid-back and thoughtful, a head-nod with strings.\n\nVOICE: The rapper is a man with a calm, slightly raspy, precise delivery, every word clear. The chorus and bridge are sung by a woman with a warm, soulful, slightly smoky voice, with a small choir in the last chorus.\n\nINSTRUMENTS: A warm Rhodes electric piano, a soft string section, a relaxed boom-bap drum pattern with a crisp snare, a melodic bass guitar, muted horns from verse 2, a choir, city sounds at the end.\n\nARRANGEMENT MAP: 0:00 Intro, electric piano and strings. 0:14 Chorus 1. 0:40 Verse 1. 1:24 Chorus 2. 1:50 Verse 2. 2:34 Bridge. 2:52 Final chorus. 3:18 Outro, splashing and a bus, ends 3:46.\n\nPRODUCTION & MIX: Mid-1990s New York radio rap: polished, warm and smooth, vocals clear, drums soft-edged.\n\nSIGNATURE MOMENT: 'And I'd give the keys away' at 0:36.\n\nMODERN POINT OF VIEW: The original dreams as a young man does, of freedom and plenty. A man in middle age dreams smaller and more exactly: a pool, a bus, a streetlight, a bench.\n\nEMOTIONAL ARC: Wishing, listing, modest, handing it on.",
+    "workbookAtAGlance": "Keys to the City\n\nBackup titles\nJust for a Weekend / First Thing I'd Open\n\nAt a glance\n88 BPM, F# minor\nVoice: Male rap with a female sung hook\nLength: about 3 minutes 50",
+    "qa": {
+      "title": "Keys to the City",
+      "id": "ch_14",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.4,
+          "measuredBpm": 89.1,
+          "bpmFactor": 1,
+          "targetBpm": 88,
+          "bpmErrPct": 1.3,
+          "lufs": -14.2,
+          "peakDbfs": -0.63,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 244.4,
+          "vocalCoverage": 0.519,
+          "vocalSpanSec": [
+            5.9,
+            177.3
+          ],
+          "vocalF0MedianHz": 374,
+          "vocalF0P25Hz": 277,
+          "lyricLineRecall": 0.688,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 244.0,
+          "measuredBpm": 89.1,
+          "bpmFactor": 1,
+          "targetBpm": 88,
+          "bpmErrPct": 1.3,
+          "lufs": -14.4,
+          "peakDbfs": -0.13,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.9,
+          "contentEndSec": 242.3,
+          "vocalCoverage": 0.494,
+          "vocalSpanSec": [
+            11.6,
+            233.4
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 277,
+          "lyricLineRecall": 0.906,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 1996
+  },
+  {
+    "id": "ch_15",
+    "title": "Lay the Next Stone",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 15,
+    "slug": "ch_15_lay_the_next_stone",
+    "inspiredBy": "Glory (Common & John Legend, 2014)",
+    "leadVoice": "The rapper is a man with a calm, warm, deliberate voice, speaking each line with weight. The chorus is sung by a gospel-trained tenor with a slight rasp, accompanying himself on piano, joined by a large choir that grows through the song.",
+    "model": "V6",
+    "style": "Orchestral film-score hip-hop with a gospel chorus, calm warm deliberate male rap spoken with weight, chorus sung by a gospel-trained male tenor with a slight rasp at the piano joined by a large growing choir, 76 BPM, D minor lifting to F major for the last chorus, slow stately rising march, grand piano, full string orchestra, timpani and slow marching snare, deep bass, French horns at the end, slow handclaps, wide reverent orchestral mix, dignified, moving, hopeful",
+    "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, club beat, playful mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 265,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: solo piano, low strings, a choir breathing in]\n\n[Chorus: gospel tenor at the piano, choir joining]\nOne day the roof goes on\nI won't be there to see\nSo I lay the next stone\nOn the one she laid for me\nOne course higher, one day long\nLay the next stone\n\n[Verse 1: male rap, measured, dignified]\nMy grandmother cleaned a building she could not walk in the front of\nSaved a dollar every week inside a coffee can she wrote \"for\"\nFor what? For me. She never said it. I just know.\nShe died the year before I walked that stage and shook a hand, though\nSo I don't get to say I did it. I just got the height\nShe stacked beneath my feet with every floor she scrubbed at night\nThe ones who start it never see it. That's the deal.\nYou build because somebody's coming. That's what makes it real.\n\n[Chorus: gospel tenor, choir fuller, strings]\nOne day the roof goes on\nI won't be there to see\nSo I lay the next stone\nOn the one she laid for me\nOne course higher, one day long\nLay the next stone\n\n[Verse 2: rap, rising, drums marching]\nMy daughter's nine, she thinks the world was always how it is\nI let her think it for a minute. Let her be a kid.\nThen I show her Grandma's can. It's on the kitchen shelf.\nI say, \"This is why you're tall. You didn't grow yourself.\"\nShe put a quarter in it. I had to leave the room.\nI teach, I vote, I coach, I show up, I sweep with my own broom\nI won't see what she builds. I don't need to. I can tell.\nI felt it in the quarter when it fell.\n\n[Bridge: choir alone, hands clapping slow]\nStone on stone on stone\nName on name on name\nNobody builds alone\n\n[Final Chorus: tenor soaring, full choir and orchestra, major key]\nOne day the roof goes on\nAnd we won't be there to see\nSo we lay the next stone\nOn the ones they laid for me\nOne course higher, one day long\nLay the next stone\n\n[Outro: piano, one coin dropped in a can]",
+    "taskId": "123ea78716098889159ce28c924809cd",
+    "sunoClipIds": [
+      "a43a395f-3f82-4feb-a3ab-7a24f90d68a0",
+      "c877dd72-6bbd-40c3-a8b5-08d3a1e7d505"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919379090,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "a43a395f-3f82-4feb-a3ab-7a24f90d68a0",
+        "durationSec": 264.64,
+        "file": "choirhiphop/ch_15_lay_the_next_stone_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "c877dd72-6bbd-40c3-a8b5-08d3a1e7d505",
+        "durationSec": 264.32,
+        "file": "choirhiphop/ch_15_lay_the_next_stone_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_15_lay_the_next_stone_req.json",
+      "choirhiphop/ch_15_lay_the_next_stone_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_15_lay_the_next_stone.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 76 BPM, 4/4, D minor, lifting to F major for the last chorus. Slow, stately and rising, a march at walking pace.\n\nVOICE: The rapper is a man with a calm, warm, deliberate voice, speaking each line with weight. The chorus is sung by a gospel-trained tenor with a slight rasp, accompanying himself on piano, joined by a large choir that grows through the song.\n\nINSTRUMENTS: A grand piano, a full string orchestra, timpani and a slow marching snare, a deep bass, a large gospel choir, French horns in the last chorus, slow handclaps in the bridge.\n\nARRANGEMENT MAP: 0:00 Intro, piano and strings. 0:18 Chorus 1. 0:52 Verse 1. 1:40 Chorus 2. 2:14 Verse 2. 3:02 Bridge, choir. 3:18 Final chorus, major. 3:54 Outro, piano and a coin at 4:06.\n\nPRODUCTION & MIX: Film-score hip-hop: orchestral, wide and reverent, piano and voices clear at the centre, drums restrained.\n\nSIGNATURE MOMENT: 'I felt it in the quarter when it fell.' at 2:58.\n\nMODERN POINT OF VIEW: The original ties one historic march to the present day. This shrinks the same idea to a family: a grandmother's coffee can, a father, a nine-year-old with a quarter.\n\nEMOTIONAL ARC: Reverent, grateful, moved, resolved.",
+    "workbookAtAGlance": "Lay the Next Stone\n\nBackup titles\nI Won't See the Roof / One Course Higher\n\nAt a glance\n76 BPM, D minor rising to F major\nVoice: Male rap with a gospel tenor and choir\nLength: about 4 minutes 10",
+    "qa": {
+      "title": "Lay the Next Stone",
+      "id": "ch_15",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 264.7,
+          "measuredBpm": 73.8,
+          "bpmFactor": 1,
+          "targetBpm": 76,
+          "bpmErrPct": 2.9,
+          "lufs": -13.9,
+          "peakDbfs": -0.62,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 263.4,
+          "vocalCoverage": 0.726,
+          "vocalSpanSec": [
+            13.8,
+            252.0
+          ],
+          "vocalF0MedianHz": 293,
+          "vocalF0P25Hz": 233,
+          "lyricLineRecall": 0.73,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 264.3,
+          "measuredBpm": 76.0,
+          "bpmFactor": 1,
+          "targetBpm": 76,
+          "bpmErrPct": 0.0,
+          "lufs": -14.3,
+          "peakDbfs": -0.4,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 262.3,
+          "vocalCoverage": 0.628,
+          "vocalSpanSec": [
+            26.1,
+            250.7
+          ],
+          "vocalF0MedianHz": 263,
+          "vocalF0P25Hz": 195,
+          "lyricLineRecall": 0.892,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 2014
+  },
+  {
+    "id": "ch_16",
+    "title": "The Ceiling Knows",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 16,
+    "slug": "ch_16_the_ceiling_knows",
+    "inspiredBy": "Mind Playing Tricks on Me (Geto Boys, 1991)",
+    "leadVoice": "Male, deep Texas drawl, rapped slowly and plainly with long pauses, as if talking to himself. The refrain is sung low and soft by the same man, and a second voice (his brother) harmonises on the last one.",
+    "model": "V6",
+    "style": "Early-1990s Houston Southern hip-hop over a soul loop, deep male Texas drawl rapped slowly and plainly with long pauses as if talking to himself, refrain sung low and soft by the same man with a second male harmony at the end, 84 BPM, E minor, slow warm heavy-lidded late-night feel, warm clean soul guitar loop with a little wah, slow dusty drum break, deep bass guitar, Hammond organ, soft strings, vinyl crackle, bass-heavy analogue mix, anxious, honest, relieved",
+    "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, big pop chorus, aggressive shouting",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: warm soul guitar loop, vinyl crackle, slow drums]\n\n[Refrain: low sung male voice, almost murmured]\nThree a.m., the ceiling knows\nEverything I don't let show\nI lie here counting\nThe ceiling knows\n\n[Verse 1: Southern male rap, slow and plain]\nHeart going like I ran, and I ain't moved\nGot a list in my head and it's all bad news\nWhat if the plant shuts? What if the truck quits?\nWhat if that cough the baby's got is something that sticks?\nI check the locks twice, then I check 'em again\nStand in the hall like I'm waiting on a friend\nMy wife says, \"Come to bed.\" I say, \"I'm fine.\"\nBeen saying that since I was nine.\n\n[Refrain: low sung male voice, almost murmured]\nThree a.m., the ceiling knows\nEverything I don't let show\nI lie here counting\nThe ceiling knows\n\n[Verse 2: rap, heavier, organ under]\nMy daddy never said a word about his nerves\nHe'd sit out on the porch and smoke and watch the curve\nI thought that he was strong. I think he was scared.\nI think nobody asked him, and nobody dared\nAt work I'm the one everybody leans on\nGot jokes, got answers, got my game face on\nThen I'm in the truck in the lot with my hands on my knees\nBreathing like the doctor on the video. Lord, please.\n\n[Verse 3: quieter, lighter]\nTuesday I told my brother on the phone\nHe said, \"Man, me too. I thought I was alone.\"\nWe laughed till we coughed. Then he gave me a name.\nA lady with an office. I went. No shame.\nIt ain't gone. I ain't fixed. That ain't how it goes.\nBut I slept six hours. And somebody knows.\n\n[Final Refrain: sung, a second voice in harmony]\nThree a.m., the ceiling knows\nBut I ain't the only one it's told\nI said it out loud\nNow somebody knows\n\n[Outro: guitar loop, a long breath, a lamp clicked off]",
+    "taskId": "db23a912ce6bb09bf4b5618b3451399f",
+    "sunoClipIds": [
+      "13e5e7f0-31dc-4a13-85da-13003aeede7f",
+      "244c70c8-a720-4d3f-8dc3-84f056eb75dc"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919350509,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "13e5e7f0-31dc-4a13-85da-13003aeede7f",
+        "durationSec": 254.4,
+        "file": "choirhiphop/ch_16_the_ceiling_knows_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "244c70c8-a720-4d3f-8dc3-84f056eb75dc",
+        "durationSec": 254.36,
+        "file": "choirhiphop/ch_16_the_ceiling_knows_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_16_the_ceiling_knows_req.json",
+      "choirhiphop/ch_16_the_ceiling_knows_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_16_the_ceiling_knows.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 84 BPM, 4/4, E minor. Slow, warm and heavy-lidded, a late-night soul loop.\n\nVOICE: Male, deep Texas drawl, rapped slowly and plainly with long pauses, as if talking to himself. The refrain is sung low and soft by the same man, and a second voice (his brother) harmonises on the last one.\n\nINSTRUMENTS: A warm, clean soul guitar loop with a little wah, a slow, dusty drum break, a deep bass guitar, a Hammond organ from verse 2, soft strings, vinyl crackle.\n\nARRANGEMENT MAP: 0:00 Intro, guitar loop. 0:14 Refrain 1. 0:36 Verse 1. 1:20 Refrain 2. 1:42 Verse 2. 2:26 Verse 3, lighter. 3:00 Final refrain, in harmony. 3:28 Outro, a breath and a lamp, ends 3:56.\n\nPRODUCTION & MIX: Early-1990s Houston rap: slow, bass-heavy and analogue, sampled soul warmth, vocals dry and close.\n\nSIGNATURE MOMENT: 'He said, \"Man, me too. I thought I was alone.\"' at 2:36.\n\nMODERN POINT OF VIEW: The original admits the fear and stops there. Thirty-five years on, the song can go one step further: he tells his brother, and then a professional.\n\nEMOTIONAL ARC: Racing, hiding, breaking the silence, resting.",
+    "workbookAtAGlance": "The Ceiling Knows\n\nBackup titles\nThree A.M. Inventory / I Told Somebody\n\nAt a glance\n84 BPM, E minor\nVoice: Southern male rap with a low sung refrain\nLength: about 4 minutes",
+    "qa": {
+      "title": "The Ceiling Knows",
+      "id": "ch_16",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.35 dBFS (3 clipped sample, inaudible)",
+            "tempo measured 65 BPM vs 84 target (~15% off)"
+          ],
+          "durationSec": 254.4,
+          "measuredBpm": 64.6,
+          "bpmFactor": 1.5,
+          "targetBpm": 84,
+          "bpmErrPct": 15.4,
+          "lufs": -13.3,
+          "peakDbfs": 0.35,
+          "clipSamples": 3,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 252.6,
+          "vocalCoverage": 0.481,
+          "vocalSpanSec": [
+            10.7,
+            196.8
+          ],
+          "vocalF0MedianHz": 166,
+          "vocalF0P25Hz": 125,
+          "lyricLineRecall": 0.882,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "tempo measured 65 BPM vs 84 target (~15% off)",
+            "lyric check partial: 56% of lines recognised"
+          ],
+          "durationSec": 254.4,
+          "measuredBpm": 64.6,
+          "bpmFactor": 1.5,
+          "targetBpm": 84,
+          "bpmErrPct": 15.4,
+          "lufs": -13.8,
+          "peakDbfs": -0.02,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.2,
+          "contentEndSec": 252.9,
+          "vocalCoverage": 0.548,
+          "vocalSpanSec": [
+            5.3,
+            229.6
+          ],
+          "vocalF0MedianHz": 163,
+          "vocalF0P25Hz": 112,
+          "lyricLineRecall": 0.559,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 1991
+  },
+  {
+    "id": "ch_17",
+    "title": "Text When You Land",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 17,
+    "slug": "ch_17_text_when_you_land",
+    "inspiredBy": "You Got Me (The Roots feat. Erykah Badu & Eve, 1999)",
+    "leadVoice": "A man raps verse 1 in a relaxed, weary, good-humoured voice. A woman raps verse 2 quickly and confidently. A second woman sings the chorus in a calm, warm, slightly nasal neo-soul voice with jazz phrasing. The two rappers trade short lines in the bridge.",
+    "model": "V6",
+    "style": "Late-1990s Philadelphia live-band hip-hop and neo-soul, relaxed weary good-humoured male rap on the first verse, quick confident female rap on the second, chorus sung by a calm warm slightly nasal female neo-soul voice with jazz phrasing, traded lines in the bridge, 82 BPM, C minor, warm live intimate feel with a fast double-time drum break at the very end, tight dry live drum kit, upright bass, pizzicato and bowed strings, electric piano, muted guitar, organic warm dry mix, devoted, wry, steady",
+    "negativeTags": "trap hi-hats, auto-tune, EDM synths, rock guitars, aggressive shouting, drum machine, club beat, lo-fi",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: live drums, upright bass, pizzicato strings]\n\n[Chorus: female neo-soul voice, calm and warm]\nText when you land, call when you're in\nI'll leave the light on low\nDifferent time zones, same old house\nBaby, I got us, you know\nI got us\n\n[Verse 1: male rap, relaxed, a little tired]\nMile marker ninety, coffee's gone cold\nEighteen wheels and a podcast getting old\nYou're clocking in right when I'm pulling off the road\nWe high-five in the driveway, that's the code\nFolks at the diner asking how we make it work\nI say she's got my back and I got hers\nFriday I'm home and the kids got a game\nI'll be the loud one yelling your last name\n\n[Chorus: female neo-soul voice, calm and warm]\nText when you land, call when you're in\nI'll leave the light on low\nDifferent time zones, same old house\nBaby, I got us, you know\nI got us\n\n[Verse 2: female rap, quick and sure]\nThird floor, night shift, charts in my hand\nLady in bed nine asking 'bout my man\nI say he's somewhere outside Tulsa, eating bad\nShe says, \"You trust him?\" I say, \"Ma'am, he's all I've had.\"\nYour mother thinks I'm crazy, mine thinks you're gone\nThey ain't in the group chat, they don't know what's going on\nLunch at three a.m., I send a picture of my tray\nYou send a sunrise back. That's the whole day.\n\n[Bridge: strings swell, both voices trading]\nMiss you. (Miss you more.)\nEat something. (You first.)\nLock the door. (It's locked.)\nLove you. (I know. Drive.)\n\n[Final Chorus: female voice, harmonies, drums double-time]\nText when you land, call when you're in\nI'll leave the light on low\nDifferent time zones, same old house\nBaby, I got us, you know\nI got us\n\n[Outro: fast breakbeat ending, strings racing, a message chime]",
+    "taskId": "5061a5feedce7ef13d13e2642ff6c768",
+    "sunoClipIds": [
+      "3376f636-dea9-40da-807e-bc9e6b908766",
+      "b2855a79-03c7-4c0b-b23e-4cc241142f23"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919356325,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3376f636-dea9-40da-807e-bc9e6b908766",
+        "durationSec": 254.32,
+        "file": "choirhiphop/ch_17_text_when_you_land_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "b2855a79-03c7-4c0b-b23e-4cc241142f23",
+        "durationSec": 254.36,
+        "file": "choirhiphop/ch_17_text_when_you_land_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_17_text_when_you_land_req.json",
+      "choirhiphop/ch_17_text_when_you_land_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_17_text_when_you_land.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 82 BPM, 4/4, C minor, with a fast double-time drum break at the very end. Warm, live and intimate.\n\nVOICE: A man raps verse 1 in a relaxed, weary, good-humoured voice. A woman raps verse 2 quickly and confidently. A second woman sings the chorus in a calm, warm, slightly nasal neo-soul voice with jazz phrasing. The two rappers trade short lines in the bridge.\n\nINSTRUMENTS: A live drum kit played with a tight, dry sound, an upright bass, pizzicato and bowed strings, an electric piano, a muted guitar, and in the outro a fast live breakbeat with racing strings.\n\nARRANGEMENT MAP: 0:00 Intro, drums and bass. 0:14 Chorus 1. 0:42 Verse 1. 1:28 Chorus 2. 1:56 Verse 2. 2:42 Bridge. 3:00 Final chorus. 3:28 Outro, fast breakbeat, a chime at 3:56.\n\nPRODUCTION & MIX: Late-1990s Philadelphia live hip-hop: organic, warm and dry, a real band in a room, voices close.\n\nSIGNATURE MOMENT: 'You send a sunrise back. That's the whole day.' at 2:36.\n\nMODERN POINT OF VIEW: The original is a musician on tour and his worried girlfriend. This is a trucker and a night nurse, married twenty years, for whom the reassurance has become routine and is no less real.\n\nEMOTIONAL ARC: Apart, steady, teased by doubters, sure.",
+    "workbookAtAGlance": "Text When You Land\n\nBackup titles\nI Got Us / Different Time Zones, Same House\n\nAt a glance\n82 BPM, C minor\nVoice: Male and female rap with a female neo-soul hook\nLength: about 4 minutes",
+    "qa": {
+      "title": "Text When You Land",
+      "id": "ch_17",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.3,
+          "measuredBpm": 76.0,
+          "bpmFactor": 1,
+          "targetBpm": 82,
+          "bpmErrPct": 7.3,
+          "lufs": -14.2,
+          "peakDbfs": -0.17,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.3,
+          "contentEndSec": 252.5,
+          "vocalCoverage": 0.516,
+          "vocalSpanSec": [
+            12.3,
+            251.1
+          ],
+          "vocalF0MedianHz": 311,
+          "vocalF0P25Hz": 263,
+          "lyricLineRecall": 0.686,
+          "lyricUnclearSections": [
+            "Verse 1"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.01 dBFS (1 clipped sample, inaudible)"
+          ],
+          "durationSec": 254.4,
+          "measuredBpm": 80.7,
+          "bpmFactor": 1,
+          "targetBpm": 82,
+          "bpmErrPct": 1.5,
+          "lufs": -13.5,
+          "peakDbfs": 0.01,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 1.2,
+          "contentEndSec": 254.1,
+          "vocalCoverage": 0.561,
+          "vocalSpanSec": [
+            1.9,
+            239.0
+          ],
+          "vocalF0MedianHz": 391,
+          "vocalF0P25Hz": 311,
+          "lyricLineRecall": 0.771,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 1999
+  },
+  {
+    "id": "ch_18",
+    "title": "Hold the Door",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 18,
+    "slug": "ch_18_hold_the_door",
+    "inspiredBy": "C U When U Get There (Coolio feat. 40 Thevz, 1997)",
+    "leadVoice": "The rapper is a man with a clear, friendly, even voice, rhythmic and unforced. The chorus is sung by a mixed gospel choir in rich four-part harmony, warm and patient.",
+    "model": "V6",
+    "style": "Late-1990s orchestral pop-rap, clear friendly even male rap, chorus sung by a mixed gospel choir in rich warm four-part harmony, 84 BPM, D minor, slow graceful steady feel, string quartet playing a repeating baroque-style chord sequence, harpsichord, boom-bap kick and snare, round bass guitar, church organ at the end, clean bright warm mix with wide strings and choir, encouraging, grateful, uplifting",
+    "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, aggressive shouting, dark horror mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: string quartet, baroque-style progression, harpsichord]\n\n[Chorus: mixed choir, patient and warm]\nI'll hold the door, take your time\nI got through, and I'm not leaving you behind\nOne foot, then the other, I can see you on the climb\nI'll hold the door, take your time\n\n[Verse 1: male rap, steady, encouraging]\nFirst one in my family with a key to anything\nGot a badge that opens glass and a phone that likes to ring\nI could shut it right behind me, pull the ladder, lock the frame\nA lot of people do. I know their names.\nBut I remember who it was that held it open first\nA teacher with a Buick and a hole inside her purse\nDrove me to the test and paid the fee and said, \"Go in.\"\nSo every time it swings, I put my foot against the hinge.\n\n[Chorus: mixed choir, patient and warm]\nI'll hold the door, take your time\nI got through, and I'm not leaving you behind\nOne foot, then the other, I can see you on the climb\nI'll hold the door, take your time\n\n[Verse 2: rap, warmer, drums fuller]\nKid from the building emailed, typos everywhere\nI read it twice and wrote him back, \"Come by, I'll be there\"\nHe's got the look I had, like the room's about to know\nHe doesn't belong. I said, \"Sit. Here's how this goes.\"\nIt ain't charity. It ain't a speech. It's a chair and a name\nA call I make on Thursday and a ride out in the rain\nIf I get to the top and I'm the only one I see\nThen nobody won, including me.\n\n[Bridge: choir humming, strings alone, voice spoken]\nSomebody held it for me.\nGo on. I've got it.\n\n[Final Chorus: full choir, organ, strings high]\nI'll hold the door, take your time\nI got through, and I'm not leaving you behind\nOne foot, then the other, I can see you on the climb\nI'll hold the door, take your time\n\n[Outro: strings resolve, a heavy door, footsteps coming in]",
+    "taskId": "711e9a8adfd2fd50b9e446ebaabbd765",
+    "sunoClipIds": [
+      "9ffd15ef-9b75-40a9-b09a-c7f1be8c50d7",
+      "5a9a5a7f-0fff-48aa-8a85-bd9a16f87df6"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919358120,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "9ffd15ef-9b75-40a9-b09a-c7f1be8c50d7",
+        "durationSec": 254.48,
+        "file": "choirhiphop/ch_18_hold_the_door_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "5a9a5a7f-0fff-48aa-8a85-bd9a16f87df6",
+        "durationSec": 254.32,
+        "file": "choirhiphop/ch_18_hold_the_door_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_18_hold_the_door_req.json",
+      "choirhiphop/ch_18_hold_the_door_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_18_hold_the_door.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 84 BPM, 4/4, D minor. Slow, graceful and steady, classical strings over a hip-hop beat.\n\nVOICE: The rapper is a man with a clear, friendly, even voice, rhythmic and unforced. The chorus is sung by a mixed gospel choir in rich four-part harmony, warm and patient.\n\nINSTRUMENTS: A string quartet playing a repeating baroque-style chord sequence, a harpsichord, a boom-bap kick and snare, a round bass guitar, a church organ in the last chorus, a full choir.\n\nARRANGEMENT MAP: 0:00 Intro, strings and harpsichord. 0:16 Chorus 1. 0:44 Verse 1. 1:30 Chorus 2. 1:58 Verse 2. 2:44 Bridge. 3:00 Final chorus. 3:30 Outro, a door and footsteps, ends 3:56.\n\nPRODUCTION & MIX: Late-1990s orchestral pop-rap: clean, bright and warm, strings and choir wide, drums crisp.\n\nSIGNATURE MOMENT: 'So every time it swings, I put my foot against the hinge.' at 1:24.\n\nMODERN POINT OF VIEW: The original promises to meet people when they arrive. This one goes back down and stands in the doorway, which is what the people who have made it are now asked to do.\n\nEMOTIONAL ARC: Grateful, watchful, generous, welcoming.",
+    "workbookAtAGlance": "Hold the Door\n\nBackup titles\nI Got Through, I'm Not Leaving / Take Your Time\n\nAt a glance\n84 BPM, D minor\nVoice: Male rap with a mixed choir hook\nLength: about 4 minutes",
+    "qa": {
+      "title": "Hold the Door",
+      "id": "ch_18",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.5,
+          "measuredBpm": 83.4,
+          "bpmFactor": 1,
+          "targetBpm": 84,
+          "bpmErrPct": 0.8,
+          "lufs": -13.4,
+          "peakDbfs": -0.48,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.2,
+          "contentEndSec": 252.9,
+          "vocalCoverage": 0.531,
+          "vocalSpanSec": [
+            13.2,
+            212.2
+          ],
+          "vocalF0MedianHz": 292,
+          "vocalF0P25Hz": 221,
+          "lyricLineRecall": 0.733,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check partial: 47% of lines recognised (unclear: Verse 2, Bridge)"
+          ],
+          "durationSec": 254.3,
+          "measuredBpm": 86.1,
+          "bpmFactor": 1,
+          "targetBpm": 84,
+          "bpmErrPct": 2.5,
+          "lufs": -13.8,
+          "peakDbfs": -0.29,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 252.9,
+          "vocalCoverage": 0.572,
+          "vocalSpanSec": [
+            12.7,
+            212.4
+          ],
+          "vocalF0MedianHz": 389,
+          "vocalF0P25Hz": 236,
+          "lyricLineRecall": 0.467,
+          "lyricUnclearSections": [
+            "Verse 2",
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 1997
+  },
+  {
+    "id": "ch_19",
+    "title": "It Won't Always Be Tonight",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 19,
+    "slug": "ch_19_it_wont_always_be_tonight",
+    "inspiredBy": "Everything's Gonna Be Alright (Sweetbox, 1997)",
+    "leadVoice": "One woman. She raps softly and warmly, close to the microphone, with a gentle flow and no hardness, and sings the chorus herself in a clear, light soprano with simple harmonies. A small choir joins the last chorus.",
+    "model": "V6",
+    "style": "Late-1990s European classical hip-hop, one woman rapping softly and warmly close to the microphone with a gentle flow and singing the chorus in a clear light soprano with simple harmonies, small choir at the end, 80 BPM, B minor resolving to major, slow serene consoling feel, string orchestra playing a slow stepwise baroque-style melody over a descending bass, soft pipe organ, gentle hip-hop kick and snare with rim click, deep warm bass, harp, lush clean soft mix, comforting, tender, hopeful",
+    "negativeTags": "male lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, aggressive shouting, club beat",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: slow string orchestra, baroque-style air, soft organ]\n\n[Verse 1: soft female rap, close and calm]\nI know that floor. I know that bathroom light.\nI know the way the phone feels in your hand tonight\nNineteen, and he's gone, and the rent, and the shame\nAnd you think that this is who you are. It ain't your name.\nYou're gonna cry until you're empty, then you'll sleep\nI won't tell you not to. Go on. That's yours to keep.\nBut I'm standing twenty years away from where you are\nWith a kitchen and a garden and a paid-off car\n\n[Chorus: female voice, sung, strings swelling]\nIt won't always be tonight\nBreathe like the strings, slow and wide\nMorning has your name on it\nIt won't always be tonight\n\n[Verse 2: rap, a little brighter, beat fuller]\nYou'll get a job you hate and then a job you don't\nYou'll swear you'll never trust again, and then you won't\nAnd then you will. He's kind. He's not the first you try.\nYou'll bury Mama, and you'll think you'll die. You don't die.\nYou'll have a girl who has your temper and your nose\nShe'll slam a door at fifteen. You'll know how it goes.\nYou'll sit outside it on the floor and you'll say this\nThe same words I'm saying. Then a kiss.\n\n[Chorus: female voice, sung, strings swelling]\nIt won't always be tonight\nBreathe like the strings, slow and wide\nMorning has your name on it\nIt won't always be tonight\n\n[Bridge: orchestra alone, then voice spoken]\nLook. It's getting gray at the window.\nThat's it. That's all it ever is.\n\n[Final Chorus: sung, choir behind, strings highest]\nIt won't always be tonight\nBreathe like the strings, slow and wide\nMorning has your name on it\nIt won't always be tonight\n\n[Outro: strings resolve to major, a kettle, birds]",
+    "taskId": "61a5bab77c7412e232f292eeb36a452f",
+    "sunoClipIds": [
+      "44b730b8-5855-4870-897e-5163f58de088",
+      "b361b34d-7f1e-42ed-8ee9-ab317f81bcf3"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919361651,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "44b730b8-5855-4870-897e-5163f58de088",
+        "durationSec": 234.0,
+        "file": "choirhiphop/ch_19_it_wont_always_be_tonight_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "b361b34d-7f1e-42ed-8ee9-ab317f81bcf3",
+        "durationSec": 234.64,
+        "file": "choirhiphop/ch_19_it_wont_always_be_tonight_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_19_it_wont_always_be_tonight_req.json",
+      "choirhiphop/ch_19_it_wont_always_be_tonight_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_19_it_wont_always_be_tonight.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, B minor, resolving to D major at the very end. Slow, serene and consoling.\n\nVOICE: One woman. She raps softly and warmly, close to the microphone, with a gentle flow and no hardness, and sings the chorus herself in a clear, light soprano with simple harmonies. A small choir joins the last chorus.\n\nINSTRUMENTS: A string orchestra playing a slow, stepwise baroque-style melody over a descending bass, a soft pipe organ, a gentle hip-hop kick and snare with a rim click, a deep warm bass, a harp, a small choir.\n\nARRANGEMENT MAP: 0:00 Intro, strings and organ. 0:16 Verse 1. 1:02 Chorus 1. 1:28 Verse 2. 2:14 Chorus 2. 2:40 Bridge, orchestra and a spoken line. 2:56 Final chorus. 3:22 Outro, strings to major, a kettle and birds, ends 3:38.\n\nPRODUCTION & MIX: Late-1990s European classical hip-hop: lush, clean and soft, orchestra in front, drums light, voice intimate.\n\nSIGNATURE MOMENT: 'You'll bury Mama, and you'll think you'll die. You don't die.' at 1:50.\n\nMODERN POINT OF VIEW: The original reassures a lover in the present. This sends the reassurance back in time, from a woman of forty to herself at nineteen, with the evidence of how it turned out.\n\nEMOTIONAL ARC: Desperate, held, shown the future, dawn.",
+    "workbookAtAGlance": "It Won't Always Be Tonight\n\nBackup titles\nBreathe Like the Strings / Morning Has Your Name\n\nAt a glance\n80 BPM, B minor\nVoice: Soft female rap with a sung hook\nLength: about 3 minutes 40",
+    "qa": {
+      "title": "It Won't Always Be Tonight",
+      "id": "ch_19",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 234.0,
+          "measuredBpm": 78.3,
+          "bpmFactor": 1,
+          "targetBpm": 80,
+          "bpmErrPct": 2.1,
+          "lufs": -13.7,
+          "peakDbfs": -0.21,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 231.1,
+          "vocalCoverage": 0.555,
+          "vocalSpanSec": [
+            25.6,
+            207.2
+          ],
+          "vocalF0MedianHz": 329,
+          "vocalF0P25Hz": 245,
+          "lyricLineRecall": 0.9,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 234.7,
+          "measuredBpm": 80.7,
+          "bpmFactor": 1,
+          "targetBpm": 80,
+          "bpmErrPct": 0.9,
+          "lufs": -13.4,
+          "peakDbfs": -0.42,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 231.7,
+          "vocalCoverage": 0.661,
+          "vocalSpanSec": [
+            3.9,
+            224.3
+          ],
+          "vocalF0MedianHz": 311,
+          "vocalF0P25Hz": 247,
+          "lyricLineRecall": 0.933,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 1997
+  },
+  {
+    "id": "ch_20",
+    "title": "Spare Room",
+    "collection": "choirhiphop",
+    "album": "Choir Hip-Hop Reimagined",
+    "track": 20,
+    "slug": "ch_20_spare_room",
+    "inspiredBy": "Love Is Blind (Eve feat. Faith Evans, 1999)",
+    "leadVoice": "The rapper is a woman with a strong, clear, controlled voice: steady in verse 1, urgent in verse 2, almost whispering in verse 3. The hook is sung by a second woman with a powerful, aching soul voice and gospel runs, joined by a small choir at the end.",
+    "model": "V6",
+    "style": "Late-1990s East Coast hip-hop with a soul hook, strong clear controlled female rap steady then urgent then almost whispering, hook sung by a second woman with a powerful aching soul voice and gospel runs joined by a small choir at the end, 78 BPM, G minor lifting to major in the final chorus, slow cold tense feel that turns warm, sparse cold piano notes, slow heavy kick and sharp snare, deep bass, rising string section, Rhodes electric piano, dark sparse dry mix with a lush hook, protective, urgent, tender",
+    "negativeTags": "male lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, club beat, playful mood",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: cold piano notes, slow kick, a phone vibrating]\n\n[Chorus: female soul voice, sung, aching]\nI got a spare room and a key cut for you\nNo questions tonight, no \"I told you\"\nBring the baby, bring a bag, bring nothing at all\nThere's a light on down the hall\nSpare room\n\n[Verse 1: female rap, controlled, direct]\nYou said you walked into a door. Girl, I know that door.\nI know the long sleeves in July and what they're for\nI saw you flinch at dinner when he reached across for salt\nAnd the way you said, \"I'm sorry,\" like the weather was your fault\nI ain't gonna say his name. I ain't gonna make you choose\nNot on the phone, not while he's listening in the next room\nI'm just saying where I live. You know the street.\nSecond floor. I'm up. I got clean sheets.\n\n[Chorus: female soul voice, sung, aching]\nI got a spare room and a key cut for you\nNo questions tonight, no \"I told you\"\nBring the baby, bring a bag, bring nothing at all\nThere's a light on down the hall\nSpare room\n\n[Verse 2: rap, urgent, strings rising]\nThey say it takes a few tries. I can wait for all of them.\nI'll be the same address in March and then again\nI put a number in your shoe. It's a lady, she's a pro.\nShe'll tell you what to pack and when to go\nYou are not stupid. You are not weak. You are not what he said.\nYou're the girl who beat me in the hundred, by a head\nYou taught my son to read. You held me when my mother passed.\nNow let somebody hold you. I'm asking. I'm the last to ask.\n\n[Verse 3: quieter, the beat nearly gone]\nThree a.m. A knock. I'm already at the door.\nYou, the baby and a backpack, shaking, on my floor\nI don't say a word. I put the kettle on.\nYou sleep until it's noon. He calls. Your phone is off.\n\n[Final Chorus: soul voice and choir, major lift]\nYou got a spare room and a key that's yours\nNo questions today, just open doors\nYou brought the baby and a bag, that's all you need\nStay as long as you want with me\nSpare room\n\n[Outro: piano, a baby laughing, a lock turning from inside]",
+    "taskId": "127b03ed71be187d9678d613f0c274c1",
+    "sunoClipIds": [
+      "4c30a672-af7e-468a-a751-7e90b7f5ba00",
+      "76d080aa-c937-4f8e-89ff-47f3279b46fe"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919369866,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "4c30a672-af7e-468a-a751-7e90b7f5ba00",
+        "durationSec": 254.4,
+        "file": "choirhiphop/ch_20_spare_room_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "76d080aa-c937-4f8e-89ff-47f3279b46fe",
+        "durationSec": 254.68,
+        "file": "choirhiphop/ch_20_spare_room_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "choirhiphop/ch_20_spare_room_req.json",
+      "choirhiphop/ch_20_spare_room_rec.json"
+    ],
+    "cover": "choirhiphop/covers/ch_20_spare_room.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 78 BPM, 4/4, G minor, lifting to B-flat major in the final chorus. Slow, cold and tense, then warm.\n\nVOICE: The rapper is a woman with a strong, clear, controlled voice: steady in verse 1, urgent in verse 2, almost whispering in verse 3. The hook is sung by a second woman with a powerful, aching soul voice and gospel runs, joined by a small choir at the end.\n\nINSTRUMENTS: Sparse, cold piano notes, a slow heavy kick and a sharp snare, a deep bass, a string section rising in verse 2, a Rhodes electric piano warming the final chorus, a small choir, household sounds.\n\nARRANGEMENT MAP: 0:00 Intro, piano and a phone. 0:14 Chorus 1. 0:42 Verse 1. 1:28 Chorus 2. 1:56 Verse 2. 2:42 Verse 3, beat nearly gone. 3:06 Final chorus, major. 3:36 Outro, a baby laughing and a lock at 3:56.\n\nPRODUCTION & MIX: Late-1990s East Coast: dark, sparse and hard, piano and drums dry, the sung hook lush against them.\n\nSIGNATURE MOMENT: The lock turning from the inside at 3:56.\n\nMODERN POINT OF VIEW: The original speaks to the abuser and ends in death. People who work with survivors say the useful thing is a standing offer with no judgement, so this one speaks to the friend and ends with her safe.\n\nEMOTIONAL ARC: Afraid for her, patient, pleading, safe.",
+    "workbookAtAGlance": "Spare Room\n\nBackup titles\nI Had a Key Cut / No Questions Tonight\n\nAt a glance\n78 BPM, G minor\nVoice: Female rap with a female soul sung hook\nLength: about 4 minutes",
+    "qa": {
+      "title": "Spare Room",
+      "id": "ch_20",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.4,
+          "measuredBpm": 76.0,
+          "bpmFactor": 1,
+          "targetBpm": 78,
+          "bpmErrPct": 2.6,
+          "lufs": -14.0,
+          "peakDbfs": -0.28,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.3,
+          "contentEndSec": 251.9,
+          "vocalCoverage": 0.733,
+          "vocalSpanSec": [
+            11.6,
+            232.3
+          ],
+          "vocalF0MedianHz": 309,
+          "vocalF0P25Hz": 254,
+          "lyricLineRecall": 0.75,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.7,
+          "measuredBpm": 76.0,
+          "bpmFactor": 1,
+          "targetBpm": 78,
+          "bpmErrPct": 2.6,
+          "lufs": -13.0,
+          "peakDbfs": -0.1,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.8,
+          "contentEndSec": 252.2,
+          "vocalCoverage": 0.725,
+          "vocalSpanSec": [
+            11.5,
+            230.0
+          ],
+          "vocalF0MedianHz": 309,
+          "vocalF0P25Hz": 263,
+          "lyricLineRecall": 0.906,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Hip-Hop",
+    "year": 1999
   }
 ]

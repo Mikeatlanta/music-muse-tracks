@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Monday Psalm",
+  "prompt": "[Intro: marching snare, low choir hum, boots on pavement]\n\n[Hook: choir chanting, drums marching]\nWalk me through the week\n(Monday, Tuesday)\nWalk me through the week\n(Wednesday, Thursday)\nLord, I ain't asking for the mountain moved\nJust walk me through the week\n\n[Verse 1: male rap, urgent, on the march]\nFive a.m., the bus stop, breath like smoke\nName tag on my jacket and I'm almost broke\nI ain't been to service since the schedule changed\nSunday's when they need me on the loading range\nSo this is church: a bench, a route, a transfer slip\nA psalm I half remember on my lip\nYou said the last come first. I'm holding you to that.\nI'm last in every line they got. So where you at?\n\n[Hook: choir chanting, drums marching]\nWalk me through the week\n(Monday, Tuesday)\nWalk me through the week\n(Wednesday, Thursday)\nLord, I ain't asking for the mountain moved\nJust walk me through the week\n\n[Verse 2: rap, wider, strings stabbing]\nPray for the cashier standing ten hours on a sprain\nPray for the driver, for the nurse's aide, the man out in the rain\nThe single dad who's learning how to braid his daughter's hair\nThe woman counting quarters at the laundry, say a prayer\nThey don't put us in the windows made of glass\nBut I read that book. We're in it. First and last.\nA carpenter, some fishermen, a girl without a room\nYou've always walked with people on the morning shift. Resume.\n\n[Bridge: drums drop, choir a cappella]\nFriday, I can see you\nSaturday, I rest\nSunday, if I'm working\nHear this anyway. Amen.\n\n[Final Hook: full choir, brass, drums loudest]\nWalk me through the week\n(Monday, Tuesday)\nWalk me through the week\n(Wednesday, Thursday)\nLord, I ain't asking for the mountain moved\nJust walk me through the week\n\n[Outro: snare alone, a bus door opening, \"Morning.\"]",
+  "style": "2004 Chicago soul-rap with a marching gospel choir, urgent clear mid-range male rap riding a march rhythm, large mixed gospel choir chanting the hook in unison and shouting answers, a cappella choir bridge, 87 BPM, E-flat minor, stomping heavy determined march, marching snare with rolls, deep stomping kick, male-voice bass hum, stabbing strings, brass section at the end, sub bass, handclaps, big warm dramatic mix, prayerful, defiant, uplifting",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, playful mood, lo-fi",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Sing It for the Corner",
+  "prompt": "[Intro: slow piano chords, distant sirens, soft choir]\n\n[Chorus: male tenor, sung, piano and choir]\nSing it for the corner, sing it for the block\nSing it for the boys who never heard the clock\nLay it down, lay it down\nBefore the candles and the flowers on the ground\nSing it for the corner now\n\n[Verse 1: male rap, urgent, older voice]\nI stood right there in ninety-four with something in my coat\nSeventeen and certain, with a lump inside my throat\nSomebody's grandma called me by my government name\nSaid, \"Your mother raised you better.\" Lord, the shame.\nI walked. That's all I did. I walked. I'm here.\nHalf the boys I stood with never saw another year\nSo when I pull up slow and roll the window, that ain't hate\nI'm somebody's grandma now. I'm telling you: it ain't too late.\n\n[Chorus: male tenor, sung, piano and choir]\nSing it for the corner, sing it for the block\nSing it for the boys who never heard the clock\nLay it down, lay it down\nBefore the candles and the flowers on the ground\nSing it for the corner now\n\n[Verse 2: rap, pleading, strings in]\nYou think nobody sees you. I see you. I was you.\nYou think there ain't a door. I'll walk you through.\nGot a shop that needs a hand, got a cousin with a truck\nIt's slow money. Slow money don't get you shot up.\nYour little sister's watching from the window on the third\nShe's gonna be whatever she just saw and what she heard\nI can't make you. I can stand here. I can ask.\nI can come back tomorrow. I ain't got a harder task.\n\n[Bridge: choir alone, hushed]\nMothers, sing it\nFathers, sing it\nWhile they're here to hear it\n\n[Final Chorus: tenor and full choir]\nSing it for the corner, sing it for the block\nSing it for the boys who never heard the clock\nLay it down, lay it down\nBefore the candles and the flowers on the ground\nSing it for the corner now\n\n[Outro: piano, a car door, footsteps walking away together]",
+  "style": "Mid-2000s rap ballad with a 1970s singer-songwriter hook, older husky urgent male rap pressing every line, chorus sung by a clear emotional male tenor joined by a gospel choir, 80 BPM, G minor, slow pleading tender feel, grand piano with slow rolling chords, deep kick and crisp snare, warm bass guitar, string section, gospel choir, acoustic guitar, polished wide emotional mix, compassionate, urgent, hopeful",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, club beat, playful mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

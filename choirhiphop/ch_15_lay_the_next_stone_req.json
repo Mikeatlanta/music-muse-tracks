@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Lay the Next Stone",
+  "prompt": "[Intro: solo piano, low strings, a choir breathing in]\n\n[Chorus: gospel tenor at the piano, choir joining]\nOne day the roof goes on\nI won't be there to see\nSo I lay the next stone\nOn the one she laid for me\nOne course higher, one day long\nLay the next stone\n\n[Verse 1: male rap, measured, dignified]\nMy grandmother cleaned a building she could not walk in the front of\nSaved a dollar every week inside a coffee can she wrote \"for\"\nFor what? For me. She never said it. I just know.\nShe died the year before I walked that stage and shook a hand, though\nSo I don't get to say I did it. I just got the height\nShe stacked beneath my feet with every floor she scrubbed at night\nThe ones who start it never see it. That's the deal.\nYou build because somebody's coming. That's what makes it real.\n\n[Chorus: gospel tenor, choir fuller, strings]\nOne day the roof goes on\nI won't be there to see\nSo I lay the next stone\nOn the one she laid for me\nOne course higher, one day long\nLay the next stone\n\n[Verse 2: rap, rising, drums marching]\nMy daughter's nine, she thinks the world was always how it is\nI let her think it for a minute. Let her be a kid.\nThen I show her Grandma's can. It's on the kitchen shelf.\nI say, \"This is why you're tall. You didn't grow yourself.\"\nShe put a quarter in it. I had to leave the room.\nI teach, I vote, I coach, I show up, I sweep with my own broom\nI won't see what she builds. I don't need to. I can tell.\nI felt it in the quarter when it fell.\n\n[Bridge: choir alone, hands clapping slow]\nStone on stone on stone\nName on name on name\nNobody builds alone\n\n[Final Chorus: tenor soaring, full choir and orchestra, major key]\nOne day the roof goes on\nAnd we won't be there to see\nSo we lay the next stone\nOn the ones they laid for me\nOne course higher, one day long\nLay the next stone\n\n[Outro: piano, one coin dropped in a can]",
+  "style": "Orchestral film-score hip-hop with a gospel chorus, calm warm deliberate male rap spoken with weight, chorus sung by a gospel-trained male tenor with a slight rasp at the piano joined by a large growing choir, 76 BPM, D minor lifting to F major for the last chorus, slow stately rising march, grand piano, full string orchestra, timpani and slow marching snare, deep bass, French horns at the end, slow handclaps, wide reverent orchestral mix, dignified, moving, hopeful",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, club beat, playful mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 265,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "ch_02",
+  "title": "Day One (Again)",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 2,
+  "slug": "ch_02_day_one_again",
+  "inspiredBy": "Not Afraid (Eminem, 2010)",
+  "leadVoice": "Male. The verses are rapped plainly and seriously, with no tricks. The chorus is sung in a rough, strained chest voice with a mixed gospel choir behind it. A small crowd speaks one line of welcome in the bridge.",
+  "model": "V6",
+  "style": "2010 arena hip-hop anthem with a gospel choir, plain serious male rap verses, chorus sung in a rough strained chest voice with a mixed gospel choir behind, a small crowd speaking one line in the bridge, 86 BPM, C minor, slow heavy march that builds, church organ, marching snare rolls over a deep kick, low piano, string section, sub bass, handclaps at the end, huge drums and wide choir with a dry upfront vocal, determined, humble, uplifting",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, club synths, jazz, playful mood, mumble rap",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: organ swell, marching snare, a room murmuring]\n\n[Chorus: male voice rough, choir behind]\nIt's day one again\nI know this room, I know that door\nIt's day one again\nAnd I've stood up here before\nCount me from today\nI'm not ashamed to start\nDay one again\nHand me the chip, I know my part\n\n[Verse 1: male rap, plain and direct]\nFirst time I got ninety days, I framed it\nSecond time, six months, and then I stained it\nTold myself one wouldn't hurt, I'd earned it\nOne turned into a week before I learned it\nWife took the kids to her mother's in the spring\nI don't blame her. I'd have done the same thing.\nSo here's the folding chair, the coffee, and the creed\nA stranger nods at me like he knows what I need\n\n[Chorus: male voice rough, choir behind]\nIt's day one again\nI know this room, I know that door\nIt's day one again\nAnd I've stood up here before\nCount me from today\nI'm not ashamed to start\nDay one again\nHand me the chip, I know my part\n\n[Verse 2: rap, more force, strings rising]\nThey say the opposite of using ain't just quitting\nIt's the phone calls, and the showing up, and sitting\nWith the boredom and the shame and the receipt\nFor every dinner missed and every lie you had to keep\nI ain't here because I'm strong. I'm here because I'm through.\nIf you're listening in your car and this is you\nPark it. Come inside. There's a chair.\nNobody in this basement's gonna stare.\n\n[Bridge: choir alone, then the room speaking]\nThey won again? No.\nDay one again.\n(Hi. Welcome back.)\n\n[Final Chorus: full choir, drums marching, voice breaking]\nIt's day one again\nI know this room, I know that door\nIt's day one again\nAnd I've stood up here before\nCount me from today\nI'm not ashamed to start\nDay one again\nHand me the chip, I know my part\n\n[Outro: organ, chairs scraping, quiet applause]",
+  "taskId": "1df7d14c8b6b13a63acce8b486158534",
+  "sunoClipIds": [
+    "e7f2606b-02b4-4eef-a090-c1497dd378a5",
+    "c886709d-e0b7-449a-a756-3523405bee20"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919294739,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "e7f2606b-02b4-4eef-a090-c1497dd378a5",
+      "durationSec": 243.68,
+      "file": "choirhiphop/ch_02_day_one_again_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c886709d-e0b7-449a-a756-3523405bee20",
+      "durationSec": 244.72,
+      "file": "choirhiphop/ch_02_day_one_again_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_02_day_one_again_req.json",
+    "choirhiphop/ch_02_day_one_again_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_02_day_one_again.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 86 BPM, 4/4, C minor. A slow, heavy march that builds into an anthem.\n\nVOICE: Male. The verses are rapped plainly and seriously, with no tricks. The chorus is sung in a rough, strained chest voice with a mixed gospel choir behind it. A small crowd speaks one line of welcome in the bridge.\n\nINSTRUMENTS: A church organ, marching snare rolls over a deep kick, a low piano, a string section, a mixed choir, a sub bass, handclaps on the last chorus.\n\nARRANGEMENT MAP: 0:00 Intro, organ and snare. 0:14 Chorus 1. 0:46 Verse 1. 1:30 Chorus 2. 2:02 Verse 2. 2:46 Bridge, choir and the room. 3:02 Final chorus. 3:34 Outro, chairs and applause, ends 3:48.\n\nPRODUCTION & MIX: 2010 arena hip-hop: huge drums, wide choir and strings, vocal dry and up front.\n\nSIGNATURE MOMENT: The room's '(Hi. Welcome back.)' at 2:58.\n\nMODERN POINT OF VIEW: The original is a first declaration. Most people who get sober declare it more than once, and this song is for the second, third and fourth time.\n\nEMOTIONAL ARC: Ashamed, honest, inviting, welcomed.",
+  "workbookAtAGlance": "Day One (Again)\n\nBackup titles\nI Know This Room / Count Me from Today\n\nAt a glance\n86 BPM, C minor\nVoice: Male rap with a choir hook\nLength: about 3 minutes 50",
+  "qa": {
+    "title": "Day One (Again)",
+    "id": "ch_02",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 56% of lines recognised (unclear: Bridge)"
+        ],
+        "durationSec": 243.7,
+        "measuredBpm": 86.1,
+        "bpmFactor": 1,
+        "targetBpm": 86,
+        "bpmErrPct": 0.2,
+        "lufs": -13.7,
+        "peakDbfs": -0.23,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 242.6,
+        "vocalCoverage": 0.616,
+        "vocalSpanSec": [
+          1.4,
+          215.2
+        ],
+        "vocalF0MedianHz": 351,
+        "vocalF0P25Hz": 295,
+        "lyricLineRecall": 0.558,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.16 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 244.7,
+        "measuredBpm": 80.7,
+        "bpmFactor": 1,
+        "targetBpm": 86,
+        "bpmErrPct": 6.1,
+        "lufs": -13.2,
+        "peakDbfs": 0.16,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 2.7,
+        "contentEndSec": 243.6,
+        "vocalCoverage": 0.63,
+        "vocalSpanSec": [
+          7.1,
+          179.1
+        ],
+        "vocalF0MedianHz": 297,
+        "vocalF0P25Hz": 293,
+        "lyricLineRecall": 0.721,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop",
+  "year": 2010
+}

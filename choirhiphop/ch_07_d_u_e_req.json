@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "D.U.E.",
+  "prompt": "[Intro: mournful piano loop, vinyl crackle, soft kick]\n\n[Hook: chanted by a group, low]\nD-U-E\nDollars under everything\nD-U-E\nRed ink, phone ring\nDollar dollar bill, who's it for?\nD-U-E, at the door\n\n[Verse 1: male rap, steady, unsentimental]\nI learned to read on envelopes my mother wouldn't open\n\"Final\" was a word I knew before I knew \"hoping\"\nLights went off in March, we played a game called camping\nCandles on the stove and Mama's hands were shaking, stamping\nFree lunch ticket, different color, everybody knew\nWore my cousin's sneakers with the name still on the shoe\nLandlord at the door, we'd hold our breath and count\nWhole childhood was a whisper and a past-due amount\n\n[Hook: chanted by a group, low]\nD-U-E\nDollars under everything\nD-U-E\nRed ink, phone ring\nDollar dollar bill, who's it for?\nD-U-E, at the door\n\n[Verse 2: second male voice, grainier]\nFourteen, bagging groceries, sixteen, working nights\nGave it all to Mama, never once put up a fight\nGot a scholarship, a loan, another loan for that\nGraduated owing more than everything we had\nNow I got a salary, a desk, a little view\nFirst of every month, I pay hers before I do\nShe says, \"Baby, keep it.\" I say, \"Ma, I can't.\"\nThere's a kid inside me holding his breath in the dark\n\n[Bridge: piano alone, spoken]\nPaid her house off in the spring.\nShe opened the letter herself.\n\n[Final Hook: group louder, strings added]\nD-U-E\nDollars under everything\nD-U-E\nRed ink, phone ring\nDollar dollar bill, who's it for?\nPaid in full. Open the door.\n\n[Outro: piano loop, an envelope torn, a laugh]",
+  "style": "Early-1990s New York boom-bap, two male rappers, one calm and precise and one rougher and lower, neither raising his voice, hook chanted in unison by a group of men low and tired, 90 BPM, C# minor, slow dusty heavy feel with an unchanging loop, melancholy slightly out-of-tune piano loop, dusty sampled drum break with hard snare, deep bass notes, vinyl crackle, faint soul-vocal texture, strings at the end, gritty lo-fi mid-range mix, weary, dignified, redemptive",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, glossy pop production, fast tempo, EDM synths, rock guitars, sung pop chorus",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}

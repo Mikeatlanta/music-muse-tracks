@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Text When You Land",
+  "prompt": "[Intro: live drums, upright bass, pizzicato strings]\n\n[Chorus: female neo-soul voice, calm and warm]\nText when you land, call when you're in\nI'll leave the light on low\nDifferent time zones, same old house\nBaby, I got us, you know\nI got us\n\n[Verse 1: male rap, relaxed, a little tired]\nMile marker ninety, coffee's gone cold\nEighteen wheels and a podcast getting old\nYou're clocking in right when I'm pulling off the road\nWe high-five in the driveway, that's the code\nFolks at the diner asking how we make it work\nI say she's got my back and I got hers\nFriday I'm home and the kids got a game\nI'll be the loud one yelling your last name\n\n[Chorus: female neo-soul voice, calm and warm]\nText when you land, call when you're in\nI'll leave the light on low\nDifferent time zones, same old house\nBaby, I got us, you know\nI got us\n\n[Verse 2: female rap, quick and sure]\nThird floor, night shift, charts in my hand\nLady in bed nine asking 'bout my man\nI say he's somewhere outside Tulsa, eating bad\nShe says, \"You trust him?\" I say, \"Ma'am, he's all I've had.\"\nYour mother thinks I'm crazy, mine thinks you're gone\nThey ain't in the group chat, they don't know what's going on\nLunch at three a.m., I send a picture of my tray\nYou send a sunrise back. That's the whole day.\n\n[Bridge: strings swell, both voices trading]\nMiss you. (Miss you more.)\nEat something. (You first.)\nLock the door. (It's locked.)\nLove you. (I know. Drive.)\n\n[Final Chorus: female voice, harmonies, drums double-time]\nText when you land, call when you're in\nI'll leave the light on low\nDifferent time zones, same old house\nBaby, I got us, you know\nI got us\n\n[Outro: fast breakbeat ending, strings racing, a message chime]",
+  "style": "Late-1990s Philadelphia live-band hip-hop and neo-soul, relaxed weary good-humoured male rap on the first verse, quick confident female rap on the second, chorus sung by a calm warm slightly nasal female neo-soul voice with jazz phrasing, traded lines in the bridge, 82 BPM, C minor, warm live intimate feel with a fast double-time drum break at the very end, tight dry live drum kit, upright bass, pizzicato and bowed strings, electric piano, muted guitar, organic warm dry mix, devoted, wry, steady",
+  "negativeTags": "trap hi-hats, auto-tune, EDM synths, rock guitars, aggressive shouting, drum machine, club beat, lo-fi",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

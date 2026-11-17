@@ -1,0 +1,118 @@
+{
+  "id": "ch_05",
+  "title": "Don't Dive There",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 5,
+  "slug": "ch_05_dont_dive_there",
+  "inspiredBy": "Waterfalls (TLC, 1995)",
+  "leadVoice": "Three women. One sings verse 1 in a low, smoky tone; a second sings verse 2 lighter and gentler; the third raps the final verse quickly and brightly. They sing the choruses in tight three-part harmony.",
+  "model": "V6",
+  "style": "Mid-1990s Atlanta R&B with a rap verse, three women: a low smoky lead on verse one, a lighter gentler voice on verse two and a quick bright female rapper on the final verse, tight three-part harmony choruses, 86 BPM, E-flat minor, slow warm swaying serious feel, muted trumpet and saxophone lines, slow melodic live bass guitar, laid-back drums with rim click, wah-wah guitar, electric piano, Hammond organ, turntable scratches, warm live bass-rich mix, cautionary, compassionate, soulful",
+  "negativeTags": "male lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, aggressive shouting, club beat",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: muted horns, slow warm bassline, rim click]\n\n[Verse 1: female lead, smoky and low]\nLittle brother's got a system on his phone\nTwenty on the late game, he's in the zone\nWon on a Tuesday, told the whole block\nLost it on a Wednesday with the rent and the clock\nMama sees the notice and she doesn't say a word\nHe says one more parlay and he's back, haven't you heard?\n\n[Chorus: three-part female harmony, horns answering]\nDon't dive there, baby, you can't see the bottom\nShiny on the top don't mean it's deep\nStay where your feet know the ground they've got\nSome water only wants to keep\nDon't dive there\n\n[Verse 2: second female voice, gentle]\nPretty girl, sixteen, with a ring light glow\nTen thousand strangers telling her what they know\nShe shows a little more and the number climbs\nShe can't remember what she looked like last time\nDoor's locked. Dinner's cold. Daddy knocks.\nShe's somebody everywhere except the place she's got.\n\n[Chorus: three-part female harmony, horns answering]\nDon't dive there, baby, you can't see the bottom\nShiny on the top don't mean it's deep\nStay where your feet know the ground they've got\nSome water only wants to keep\nDon't dive there\n\n[Rap Verse: third female voice, bright and quick]\nI've been in it, I ain't judging from the shore\nChased a thing so hard I couldn't feel the floor\nSomebody threw a rope and didn't ask me why\nJust said, \"Kick. I got you. Look up at the sky.\"\nSo if you're under, I'm not gonna preach\nI'm standing in the shallow with a hand in reach\nThe good stuff's slower and it don't go viral\nCome on in where it's clear. Break the spiral.\n\n[Final Chorus: full harmony, horns and organ]\nDon't dive there, baby, you can't see the bottom\nShiny on the top don't mean it's deep\nStay where your feet know the ground they've got\nSome water only wants to keep\nDon't dive there\n\n[Outro: horns fade, one voice: \"I got you.\"]",
+  "taskId": "59f989f49f533a3c285887f50edc5605",
+  "sunoClipIds": [
+    "55d918e5-2e7e-466d-80e5-fd697c39e9d7",
+    "002c1443-edf8-4b6c-bd7d-3fa4193780d9"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919303737,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "55d918e5-2e7e-466d-80e5-fd697c39e9d7",
+      "durationSec": 254.36,
+      "file": "choirhiphop/ch_05_dont_dive_there_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "002c1443-edf8-4b6c-bd7d-3fa4193780d9",
+      "durationSec": 254.52,
+      "file": "choirhiphop/ch_05_dont_dive_there_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_05_dont_dive_there_req.json",
+    "choirhiphop/ch_05_dont_dive_there_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_05_dont_dive_there.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 86 BPM, 4/4, E-flat minor. Slow, warm and swaying, serious without being heavy.\n\nVOICE: Three women. One sings verse 1 in a low, smoky tone; a second sings verse 2 lighter and gentler; the third raps the final verse quickly and brightly. They sing the choruses in tight three-part harmony.\n\nINSTRUMENTS: Muted trumpet and saxophone lines, a slow, melodic live bass guitar, a laid-back drum kit with a rim click and soft snare, a wah-wah guitar, an electric piano, a Hammond organ in the last chorus, turntable scratches in the rap verse.\n\nARRANGEMENT MAP: 0:00 Intro, horns and bass. 0:14 Verse 1. 0:48 Chorus 1. 1:16 Verse 2. 1:50 Chorus 2. 2:18 Rap verse. 3:02 Final chorus. 3:30 Outro, horns and a spoken line at 3:52.\n\nPRODUCTION & MIX: Mid-1990s Atlanta R&B: warm, live and bass-rich, horns soft, harmonies smooth and wide.\n\nSIGNATURE MOMENT: 'She's somebody everywhere except the place she's got' at 1:46.\n\nMODERN POINT OF VIEW: The original warned about the dangers of its decade. These are the ones a parent worries about now, and the rap verse is by someone who went under herself.\n\nEMOTIONAL ARC: Watching, worrying, pleading, reaching.",
+  "workbookAtAGlance": "Don't Dive There\n\nBackup titles\nCan't See the Bottom / Shallow, Shiny Water\n\nAt a glance\n86 BPM, E-flat minor\nVoice: Female R&B trio with a female rap verse\nLength: about 4 minutes",
+  "qa": {
+    "title": "Don't Dive There",
+    "id": "ch_05",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.29 dBFS (5 clipped sample, inaudible)"
+        ],
+        "durationSec": 254.4,
+        "measuredBpm": 123.0,
+        "bpmFactor": 0.67,
+        "targetBpm": 86,
+        "bpmErrPct": 4.6,
+        "lufs": -13.5,
+        "peakDbfs": 0.29,
+        "clipSamples": 5,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 253.2,
+        "vocalCoverage": 0.644,
+        "vocalSpanSec": [
+          7.3,
+          248.1
+        ],
+        "vocalF0MedianHz": 277,
+        "vocalF0P25Hz": 231,
+        "lyricLineRecall": 0.829,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.14 dBFS (5 clipped sample, inaudible)"
+        ],
+        "durationSec": 254.5,
+        "measuredBpm": 61.5,
+        "bpmFactor": 1.5,
+        "targetBpm": 86,
+        "bpmErrPct": 7.3,
+        "lufs": -13.3,
+        "peakDbfs": 0.14,
+        "clipSamples": 5,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 252.8,
+        "vocalCoverage": 0.643,
+        "vocalSpanSec": [
+          5.6,
+          235.4
+        ],
+        "vocalF0MedianHz": 306,
+        "vocalF0P25Hz": 233,
+        "lyricLineRecall": 0.714,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "R&B",
+  "year": 1995
+}

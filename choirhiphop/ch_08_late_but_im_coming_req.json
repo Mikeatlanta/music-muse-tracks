@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Late, But I'm Coming",
+  "prompt": "[Intro: eerie wordless choir pad, slow heavy kick]\n\n[Chorus: female voice, sung, calm and sure]\nLate, but I'm coming\nYou can start, I'll catch you up\nLate, but I'm coming\nTwenty years is long enough\nSave a seat or don't, I'll stand\nLate, but I'm coming\n\n[Verse 1: female rap, measured]\nForty-one, front row, with a pen and a doubt\nKid beside me's younger than the car I got out\nRaised three, buried one, worked a register and nights\nPut everybody first and called it doing right\nDean said, \"Any questions?\" Yeah. Where've I been?\nHolding up a ceiling so my kids could get in\nNow the last one's got her own key and her own rent\nAnd I got a syllabus and no time left to vent\n\n[Chorus: female voice, sung, calm and sure]\nLate, but I'm coming\nYou can start, I'll catch you up\nLate, but I'm coming\nTwenty years is long enough\nSave a seat or don't, I'll stand\nLate, but I'm coming\n\n[Verse 2: male rap, her son, proud]\nThat's my mother with the highlighter, look\nShe used to read to me from library books\nFell asleep mid-sentence in her uniform\nWoke up, clocked in, kept us fed and warm\nI got my degree, she clapped until she cried\nNow I'm in the bleachers on the other side\nQuiz on Friday. She's got flash cards on the fridge.\nTell the honor roll to make a little room. She's rich.\n\n[Bridge: choir pad swells, female voice spoken]\nRoll call. Say my name.\nHere.\n\n[Final Chorus: female voice, harmonies stacked]\nLate, but I'm coming\nYou can start, I'll catch you up\nLate, but I'm coming\nTwenty years is long enough\nSave a seat or don't, I'll stand\nLate, and I'm here\n\n[Outro: choir pad, a pen clicking, a page turned]",
+  "style": "Mid-1990s East Coast hip-hop and neo-soul, a woman singing the hook in a rich steady alto and rapping the first verse in a measured unhurried flow, a younger warm proud male rapper on the second verse, stacked female harmonies at the end, 82 BPM, D minor, slow heavy haunting spacious feel, floating wordless choir pad with long reverb, slow heavy kick and snapping snare, deep simple bass line, muted guitar pluck, low string drone, dark bass-heavy mix, determined, proud, haunting",
+  "negativeTags": "trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, club beat, aggressive shouting, bright pop",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

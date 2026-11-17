@@ -2,6 +2,37 @@
  "note": "Site layout for build_fast.py. sections: order = nav/page order; songs whose collection matches a section are added to it (new ones after the listed order). cards: per-song display overrides; new songs can omit them.",
  "sections": [
   {
+   "id": "choirhiphop",
+   "nav": "🙌 Choir Hip-Hop Reimagined",
+   "title": "🙌 Choir Hip-Hop Reimagined",
+   "blurb": "Twenty new songs, each built on the mechanics of one serious, reflective hip-hop or R&B record from 1988 to 2015 that sets a rapped verse about struggle, survival or redemption against a big sung, choir or orchestral hook. All original lyrics.",
+   "collections": [
+    "choirhiphop"
+   ],
+   "order": [
+    "ch_01_three_voicemails",
+    "ch_02_day_one_again",
+    "ch_03_save_you_a_plate",
+    "ch_04_some_of_it_moved",
+    "ch_05_dont_dive_there",
+    "ch_06_they_brought_me_back",
+    "ch_07_d_u_e",
+    "ch_08_late_but_im_coming",
+    "ch_09_roll_call_at_the_gate",
+    "ch_10_monday_psalm",
+    "ch_11_no_snow_days",
+    "ch_12_new_name_on_the_mailbox",
+    "ch_13_sing_it_for_the_corner",
+    "ch_14_keys_to_the_city",
+    "ch_15_lay_the_next_stone",
+    "ch_16_the_ceiling_knows",
+    "ch_17_text_when_you_land",
+    "ch_18_hold_the_door",
+    "ch_19_it_wont_always_be_tonight",
+    "ch_20_spare_room"
+   ]
+  },
+  {
    "id": "poolside",
    "nav": "🏖️ Poolside Chill Reimagined",
    "title": "🏖️ Poolside Chill Reimagined",

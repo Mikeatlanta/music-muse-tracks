@@ -1,0 +1,114 @@
+{
+  "id": "ch_11",
+  "title": "No Snow Days",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 11,
+  "slug": "ch_11_no_snow_days",
+  "inspiredBy": "Hard Knock Life (Ghetto Anthem) (JAY-Z, 1998)",
+  "leadVoice": "The rapper is a working man in his forties, rough-voiced, plain and proud, with a Northeastern edge. The hook is sung by a choir of eight to ten children, loud, bright and slightly ragged, like a school assembly. They shout the bridge as a call and response.",
+  "model": "V6",
+  "style": "Late-1990s New York hip-hop with a children's choir hook, rough-voiced plain proud male rap by a working man in his forties, hook sung by a loud bright slightly ragged choir of children like a school assembly, shouted call-and-response bridge, 90 BPM, A minor, hard-hitting bouncing feel, music-box-style piano figure, hard dry kick and snare, heavy bass, strings, brass section at the end, handclaps, dry punchy mix, tough, tender, proud",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, slow piano ballad, EDM synths, rock guitars, jazz, lo-fi",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: music-box piano, hard kick and snare, kids laughing]\n\n[Hook: children's choir, bright and loud]\nWe don't get no snow days\nDaddy goes in anyway\nBoots by the door at four a.m.\nSomebody's gotta clear the way\nNo snow days, no snow days\nHe goes in anyway\n\n[Verse 1: male rap, rough and proud]\nRadio says school's out, hear 'em cheering down the hall\nI'm already in the truck, I got the call\nTwelve on, twelve off, then twelve again\nSalt in my beard and a thermos for a friend\nMy old man drove a bus through every storm they named\nI didn't get it then. I get it now. Same.\nYou never see my face, you just see the road is black\nThat's the job. You wake up and I've been there and back.\n\n[Hook: children's choir, bright and loud]\nWe don't get no snow days\nDaddy goes in anyway\nBoots by the door at four a.m.\nSomebody's gotta clear the way\nNo snow days, no snow days\nHe goes in anyway\n\n[Verse 2: rap, warmer, strings in]\nMissed a recital, missed a game, I missed a tooth\nI ain't gonna dress that up. That's just the truth.\nBut the lights are on, there's cereal, the heat stays warm\nAnd every kid on this route gets to school after the storm\nMy daughter drew a picture, me, a cape, a plow\nStuck it on the dash. I'm looking at it now.\nCome spring I'm taking Fridays. That's a vow I'm gonna keep.\nTonight I got the hill by the hospital. Go to sleep.\n\n[Bridge: kids alone, clapping game rhythm]\nNurses! (No snow days)\nDrivers! (No snow days)\nLinemen! (No snow days)\nMy dad! (No snow days)\n\n[Final Hook: children's choir, brass, drums loudest]\nWe don't get no snow days\nDaddy goes in anyway\nBoots by the door at four a.m.\nSomebody's gotta clear the way\nNo snow days, no snow days\nHe goes in anyway\n\n[Outro: plough blade scraping, a door, small voice: \"He's home!\"]",
+  "taskId": "8b717833a35026b41aa481ceba572ed4",
+  "sunoClipIds": [
+    "dcb4e2c1-5ac9-4df6-a37e-5bc893ea1252",
+    "bd06da2e-882d-41f7-abc5-a0398cbfe5f9"
+  ],
+  "created": "Nov 17, 2026 7:42 AM ET",
+  "createTimeMs": 1794919340795,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "dcb4e2c1-5ac9-4df6-a37e-5bc893ea1252",
+      "durationSec": 234.2,
+      "file": "choirhiphop/ch_11_no_snow_days_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "bd06da2e-882d-41f7-abc5-a0398cbfe5f9",
+      "durationSec": 234.12,
+      "file": "choirhiphop/ch_11_no_snow_days_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_11_no_snow_days_req.json",
+    "choirhiphop/ch_11_no_snow_days_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_11_no_snow_days.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 90 BPM, 4/4, A minor. Hard-hitting and bouncing, tough and sweet at once.\n\nVOICE: The rapper is a working man in his forties, rough-voiced, plain and proud, with a Northeastern edge. The hook is sung by a choir of eight to ten children, loud, bright and slightly ragged, like a school assembly. They shout the bridge as a call and response.\n\nINSTRUMENTS: A music-box-style piano figure, a hard, dry kick and snare, a heavy bass, strings from verse 2, a brass section in the final hook, handclaps, a plough blade and winter sounds.\n\nARRANGEMENT MAP: 0:00 Intro, piano and beat. 0:12 Hook 1. 0:38 Verse 1. 1:22 Hook 2. 1:48 Verse 2. 2:32 Bridge, kids. 2:48 Final hook. 3:14 Outro, plough, door and a child's voice at 3:34.\n\nPRODUCTION & MIX: Late-1990s New York rap: drums hard and loud, the children's voices bright on top, everything dry and punchy.\n\nSIGNATURE MOMENT: 'Stuck it on the dash. I'm looking at it now.' at 2:16.\n\nMODERN POINT OF VIEW: The original tells of escaping a hard life. This is about a man who stayed in one, on purpose, so that a town's children could get to school.\n\nEMOTIONAL ARC: Tired, proud, honest about the cost, home.",
+  "workbookAtAGlance": "No Snow Days\n\nBackup titles\nWe Go In Anyway / Boots by the Door\n\nAt a glance\n90 BPM, A minor\nVoice: Male rap with a children's choir hook\nLength: about 3 minutes 40",
+  "qa": {
+    "title": "No Snow Days",
+    "id": "ch_11",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.2,
+        "measuredBpm": 95.7,
+        "bpmFactor": 1,
+        "targetBpm": 90,
+        "bpmErrPct": 6.3,
+        "lufs": -14.5,
+        "peakDbfs": -0.33,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 233.5,
+        "vocalCoverage": 0.555,
+        "vocalSpanSec": [
+          5.6,
+          220.3
+        ],
+        "vocalF0MedianHz": 305,
+        "vocalF0P25Hz": 290,
+        "lyricLineRecall": 0.789,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.1,
+        "measuredBpm": 92.3,
+        "bpmFactor": 1,
+        "targetBpm": 90,
+        "bpmErrPct": 2.5,
+        "lufs": -13.7,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 233.0,
+        "vocalCoverage": 0.484,
+        "vocalSpanSec": [
+          7.9,
+          177.9
+        ],
+        "vocalF0MedianHz": 415,
+        "vocalF0P25Hz": 337,
+        "lyricLineRecall": 0.737,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop",
+  "year": 1998
+}

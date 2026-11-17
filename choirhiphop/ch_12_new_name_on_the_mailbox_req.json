@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "New Name on the Mailbox",
+  "prompt": "[Intro: solo piano, whistled phrase, slow kick]\n\n[Chorus: high male voice, sung, clean]\nThere's a new name on the mailbox\nThe man you want don't live here now\nHe left one night with what he did\nI couldn't tell you where or how\nNew name on the mailbox\nDifferent man inside the house\n\n[Verse 1: Southern male rap, slow and heavy]\nOld partner pulled up in a rental, tinted\nSaid, \"I got a thing, one night, come get it\"\nI said, \"You got the wrong address, my friend\nFella you remember met his end\"\nNot in a box, not on the news\nIn a visiting room with his little girl's shoes\nToo small for her now, on the table, in a bag\nThat's the night he died. I ain't seen him since. Don't ask.\n\n[Chorus: high male voice, sung, clean]\nThere's a new name on the mailbox\nThe man you want don't live here now\nHe left one night with what he did\nI couldn't tell you where or how\nNew name on the mailbox\nDifferent man inside the house\n\n[Verse 2: rap, steadier, strings under]\nI coach on Saturdays, I'm early every time\nI say \"yes ma'am\" to a boss half my age, that's fine\nParole's done. I still call in. That's just me.\nI like somebody knowing where I'll be\nThe old me's got some friends who want him back\nThey can't have him. He don't get to see my kids. That's that.\nI keep his picture so I don't forget his face\nI don't hate him. He just can't come in this place.\n\n[Bridge: piano and whistle, voice low]\nIf he knocks, I don't answer\nIf he knocks, I'm not home\n\n[Final Chorus: high voice, choir behind, drums fuller]\nThere's a new name on the mailbox\nThe man you want don't live here now\nHe left one night with what he did\nI couldn't tell you where or how\nNew name on the mailbox\nDifferent man inside the house\n\n[Outro: piano, a mailbox lid, a child calling \"Dad!\"]",
+  "style": "Late-2000s Atlanta pop-rap ballad, deep slow deliberate male rap with a Georgia drawl, chorus sung by a different man in a high clean doubled pop tenor with a choir at the end, 68 BPM with double-time hi-hats, A minor, slow wide solemn feel with a pop-sized chorus, sad piano figure, whistled counter-melody, deep 808 kick and bass, crisp hi-hats, snare with long tail, string section, acoustic guitar, glossy wide clean mix, resolute, reflective, redemptive",
+  "negativeTags": "female lead vocals, fast tempo, rock guitars, EDM drop, jazz, aggressive shouting, lo-fi, playful mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

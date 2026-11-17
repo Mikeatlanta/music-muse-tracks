@@ -1,0 +1,120 @@
+{
+  "id": "ch_16",
+  "title": "The Ceiling Knows",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 16,
+  "slug": "ch_16_the_ceiling_knows",
+  "inspiredBy": "Mind Playing Tricks on Me (Geto Boys, 1991)",
+  "leadVoice": "Male, deep Texas drawl, rapped slowly and plainly with long pauses, as if talking to himself. The refrain is sung low and soft by the same man, and a second voice (his brother) harmonises on the last one.",
+  "model": "V6",
+  "style": "Early-1990s Houston Southern hip-hop over a soul loop, deep male Texas drawl rapped slowly and plainly with long pauses as if talking to himself, refrain sung low and soft by the same man with a second male harmony at the end, 84 BPM, E minor, slow warm heavy-lidded late-night feel, warm clean soul guitar loop with a little wah, slow dusty drum break, deep bass guitar, Hammond organ, soft strings, vinyl crackle, bass-heavy analogue mix, anxious, honest, relieved",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, big pop chorus, aggressive shouting",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: warm soul guitar loop, vinyl crackle, slow drums]\n\n[Refrain: low sung male voice, almost murmured]\nThree a.m., the ceiling knows\nEverything I don't let show\nI lie here counting\nThe ceiling knows\n\n[Verse 1: Southern male rap, slow and plain]\nHeart going like I ran, and I ain't moved\nGot a list in my head and it's all bad news\nWhat if the plant shuts? What if the truck quits?\nWhat if that cough the baby's got is something that sticks?\nI check the locks twice, then I check 'em again\nStand in the hall like I'm waiting on a friend\nMy wife says, \"Come to bed.\" I say, \"I'm fine.\"\nBeen saying that since I was nine.\n\n[Refrain: low sung male voice, almost murmured]\nThree a.m., the ceiling knows\nEverything I don't let show\nI lie here counting\nThe ceiling knows\n\n[Verse 2: rap, heavier, organ under]\nMy daddy never said a word about his nerves\nHe'd sit out on the porch and smoke and watch the curve\nI thought that he was strong. I think he was scared.\nI think nobody asked him, and nobody dared\nAt work I'm the one everybody leans on\nGot jokes, got answers, got my game face on\nThen I'm in the truck in the lot with my hands on my knees\nBreathing like the doctor on the video. Lord, please.\n\n[Verse 3: quieter, lighter]\nTuesday I told my brother on the phone\nHe said, \"Man, me too. I thought I was alone.\"\nWe laughed till we coughed. Then he gave me a name.\nA lady with an office. I went. No shame.\nIt ain't gone. I ain't fixed. That ain't how it goes.\nBut I slept six hours. And somebody knows.\n\n[Final Refrain: sung, a second voice in harmony]\nThree a.m., the ceiling knows\nBut I ain't the only one it's told\nI said it out loud\nNow somebody knows\n\n[Outro: guitar loop, a long breath, a lamp clicked off]",
+  "taskId": "db23a912ce6bb09bf4b5618b3451399f",
+  "sunoClipIds": [
+    "13e5e7f0-31dc-4a13-85da-13003aeede7f",
+    "244c70c8-a720-4d3f-8dc3-84f056eb75dc"
+  ],
+  "created": "Nov 17, 2026 7:42 AM ET",
+  "createTimeMs": 1794919350509,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "13e5e7f0-31dc-4a13-85da-13003aeede7f",
+      "durationSec": 254.4,
+      "file": "choirhiphop/ch_16_the_ceiling_knows_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "244c70c8-a720-4d3f-8dc3-84f056eb75dc",
+      "durationSec": 254.36,
+      "file": "choirhiphop/ch_16_the_ceiling_knows_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_16_the_ceiling_knows_req.json",
+    "choirhiphop/ch_16_the_ceiling_knows_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_16_the_ceiling_knows.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 84 BPM, 4/4, E minor. Slow, warm and heavy-lidded, a late-night soul loop.\n\nVOICE: Male, deep Texas drawl, rapped slowly and plainly with long pauses, as if talking to himself. The refrain is sung low and soft by the same man, and a second voice (his brother) harmonises on the last one.\n\nINSTRUMENTS: A warm, clean soul guitar loop with a little wah, a slow, dusty drum break, a deep bass guitar, a Hammond organ from verse 2, soft strings, vinyl crackle.\n\nARRANGEMENT MAP: 0:00 Intro, guitar loop. 0:14 Refrain 1. 0:36 Verse 1. 1:20 Refrain 2. 1:42 Verse 2. 2:26 Verse 3, lighter. 3:00 Final refrain, in harmony. 3:28 Outro, a breath and a lamp, ends 3:56.\n\nPRODUCTION & MIX: Early-1990s Houston rap: slow, bass-heavy and analogue, sampled soul warmth, vocals dry and close.\n\nSIGNATURE MOMENT: 'He said, \"Man, me too. I thought I was alone.\"' at 2:36.\n\nMODERN POINT OF VIEW: The original admits the fear and stops there. Thirty-five years on, the song can go one step further: he tells his brother, and then a professional.\n\nEMOTIONAL ARC: Racing, hiding, breaking the silence, resting.",
+  "workbookAtAGlance": "The Ceiling Knows\n\nBackup titles\nThree A.M. Inventory / I Told Somebody\n\nAt a glance\n84 BPM, E minor\nVoice: Southern male rap with a low sung refrain\nLength: about 4 minutes",
+  "qa": {
+    "title": "The Ceiling Knows",
+    "id": "ch_16",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.35 dBFS (3 clipped sample, inaudible)",
+          "tempo measured 65 BPM vs 84 target (~15% off)"
+        ],
+        "durationSec": 254.4,
+        "measuredBpm": 64.6,
+        "bpmFactor": 1.5,
+        "targetBpm": 84,
+        "bpmErrPct": 15.4,
+        "lufs": -13.3,
+        "peakDbfs": 0.35,
+        "clipSamples": 3,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 252.6,
+        "vocalCoverage": 0.481,
+        "vocalSpanSec": [
+          10.7,
+          196.8
+        ],
+        "vocalF0MedianHz": 166,
+        "vocalF0P25Hz": 125,
+        "lyricLineRecall": 0.882,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "tempo measured 65 BPM vs 84 target (~15% off)",
+          "lyric check partial: 56% of lines recognised"
+        ],
+        "durationSec": 254.4,
+        "measuredBpm": 64.6,
+        "bpmFactor": 1.5,
+        "targetBpm": 84,
+        "bpmErrPct": 15.4,
+        "lufs": -13.8,
+        "peakDbfs": -0.02,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 252.9,
+        "vocalCoverage": 0.548,
+        "vocalSpanSec": [
+          5.3,
+          229.6
+        ],
+        "vocalF0MedianHz": 163,
+        "vocalF0P25Hz": 112,
+        "lyricLineRecall": 0.559,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop",
+  "year": 1991
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ch_03",
+  "title": "Save You a Plate",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 3,
+  "slug": "ch_03_save_you_a_plate",
+  "inspiredBy": "I'll Be Missing You (Puff Daddy & Faith Evans feat. 112, 1997)",
+  "leadVoice": "Male rapper: soft-spoken, mid-range, steady, talking to his mother. The hook is a woman with a rich gospel-soul voice, full and controlled, with a choir answering in parentheses. A male gospel quartet hums the intro and sings the bridge.",
+  "model": "V6",
+  "style": "Late-1990s pop-rap elegy with real gospel voices, soft-spoken steady mid-range male rap addressed to his mother, chorus sung by a rich controlled female gospel-soul voice with a choir answering, male gospel quartet humming the intro and singing the bridge, 84 BPM, F minor resolving to major in the chorus, slow warm swaying feel, church organ, gentle boom-bap kick and snare, walking bass guitar, acoustic guitar picking, string section, tambourine, warm glossy wide mix, mournful, grateful, comforting",
+  "negativeTags": "trap hi-hats, auto-tune, fast tempo, club synths, aggressive shouting, rock guitars, EDM, playful mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: gospel quartet humming, church organ, soft]\n\n[Chorus: female gospel-soul voice, choir answering]\nWe save you a plate (every Sunday)\nYour chair's still yours (at the head)\nWe say your grace the way you said it\nWe pass your cornbread\nTill I see you again, till I pull up to that gate\nMama, we save you a plate\n\n[Verse 1: male rap, gentle, direct address]\nFour o'clock. I got the big pot out, the dented one\nYour recipe's a napkin and it's faded in the sun\nI called your sister twice to ask how much is \"some\"\nShe laughed and cried and said, \"Baby, till it's done\"\nKids set the table, put a fork down at your spot\nNobody told them to. They just know what's what.\nI tried to say the blessing and my voice went thin\nYour grandson finished it. He sounds like you. He grinned.\n\n[Chorus: female gospel-soul voice, choir answering]\nWe save you a plate (every Sunday)\nYour chair's still yours (at the head)\nWe say your grace the way you said it\nWe pass your cornbread\nTill I see you again, till I pull up to that gate\nMama, we save you a plate\n\n[Verse 2: rap, steadier, strings in]\nYou raised four of us on one check and a prayer\nWorked the early shift and still did all our hair\nI never saw you sit until the last of us was fed\nThen you'd eat standing at the counter. That's what you did.\nI'm fifty and I only now can see the cost\nI'd give a year to tell you nothing that you gave was lost\nThe house is loud. The baby's got your laugh.\nWe're alright, Mama. You did that. Do the math.\n\n[Bridge: quartet in harmony, organ rising]\nThere's a table where you are\nLonger than this one, set with stars\nSave me a seat like I save yours\n\n[Final Chorus: full choir, voice soaring]\nWe save you a plate (every Sunday)\nYour chair's still yours (at the head)\nWe say your grace the way you said it\nWe pass your cornbread\nTill I see you again, till I pull up to that gate\nMama, we save you a plate\n\n[Outro: organ, dishes, a child saying \"Amen\"]",
+  "taskId": "60f2be6df7b98d191e393f2840363352",
+  "sunoClipIds": [
+    "ac73af58-37b9-4c37-9354-44841ccded31",
+    "e7017732-e84a-458e-89d3-3eb8924ebdee"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919299758,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "ac73af58-37b9-4c37-9354-44841ccded31",
+      "durationSec": 254.08,
+      "file": "choirhiphop/ch_03_save_you_a_plate_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "e7017732-e84a-458e-89d3-3eb8924ebdee",
+      "durationSec": 254.4,
+      "file": "choirhiphop/ch_03_save_you_a_plate_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_03_save_you_a_plate_req.json",
+    "choirhiphop/ch_03_save_you_a_plate_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_03_save_you_a_plate.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 84 BPM, 4/4, F minor resolving to major in the chorus. Slow, warm and swaying, a hymn with a backbeat.\n\nVOICE: Male rapper: soft-spoken, mid-range, steady, talking to his mother. The hook is a woman with a rich gospel-soul voice, full and controlled, with a choir answering in parentheses. A male gospel quartet hums the intro and sings the bridge.\n\nINSTRUMENTS: Church organ, a gentle boom-bap kick and snare, a walking bass guitar, acoustic guitar picking, a string section from verse 2, a gospel choir, tambourine, kitchen sounds at the end.\n\nARRANGEMENT MAP: 0:00 Intro, quartet and organ. 0:18 Chorus 1. 0:46 Verse 1. 1:30 Chorus 2. 1:58 Verse 2. 2:42 Bridge. 3:00 Final chorus. 3:30 Outro, dishes and 'Amen' at 3:54.\n\nPRODUCTION & MIX: Late-1990s pop-rap elegy with real gospel voices: warm, glossy and wide, vocals forward, drums soft.\n\nSIGNATURE MOMENT: 'Your grandson finished it. He sounds like you.' at 1:24.\n\nMODERN POINT OF VIEW: The original mourns a young man killed at twenty-four. Most grief is for a parent who lived a long, hard-working life, and it is kept at a kitchen table.\n\nEMOTIONAL ARC: Raw, remembering, understanding, at peace.",
+  "workbookAtAGlance": "Save You a Plate\n\nBackup titles\nSunday at Four / Your Chair's Still Yours\n\nAt a glance\n84 BPM, F minor\nVoice: Male rap; female gospel-soul hook with a choir\nLength: about 4 minutes",
+  "qa": {
+    "title": "Save You a Plate",
+    "id": "ch_03",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 49% of lines recognised (unclear: Bridge)"
+        ],
+        "durationSec": 254.1,
+        "measuredBpm": 83.4,
+        "bpmFactor": 1,
+        "targetBpm": 84,
+        "bpmErrPct": 0.8,
+        "lufs": -13.8,
+        "peakDbfs": -0.38,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 252.8,
+        "vocalCoverage": 0.897,
+        "vocalSpanSec": [
+          0.2,
+          251.4
+        ],
+        "vocalF0MedianHz": 313,
+        "vocalF0P25Hz": 258,
+        "lyricLineRecall": 0.486,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.4,
+        "measuredBpm": 83.4,
+        "bpmFactor": 1,
+        "targetBpm": 84,
+        "bpmErrPct": 0.8,
+        "lufs": -13.8,
+        "peakDbfs": -0.61,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 252.6,
+        "vocalCoverage": 0.826,
+        "vocalSpanSec": [
+          3.4,
+          251.4
+        ],
+        "vocalF0MedianHz": 309,
+        "vocalF0P25Hz": 242,
+        "lyricLineRecall": 0.946,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop",
+  "year": 1997
+}

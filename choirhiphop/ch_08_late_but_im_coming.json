@@ -1,0 +1,117 @@
+{
+  "id": "ch_08",
+  "title": "Late, But I'm Coming",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 8,
+  "slug": "ch_08_late_but_im_coming",
+  "inspiredBy": "Ready or Not (Fugees, 1996)",
+  "leadVoice": "A woman sings the hook in a rich, steady alto and raps verse 1 in a measured, unhurried flow. A younger man raps verse 2 with warmth and pride. Her stacked harmonies fill the last chorus.",
+  "model": "V6",
+  "style": "Mid-1990s East Coast hip-hop and neo-soul, a woman singing the hook in a rich steady alto and rapping the first verse in a measured unhurried flow, a younger warm proud male rapper on the second verse, stacked female harmonies at the end, 82 BPM, D minor, slow heavy haunting spacious feel, floating wordless choir pad with long reverb, slow heavy kick and snapping snare, deep simple bass line, muted guitar pluck, low string drone, dark bass-heavy mix, determined, proud, haunting",
+  "negativeTags": "trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, club beat, aggressive shouting, bright pop",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: eerie wordless choir pad, slow heavy kick]\n\n[Chorus: female voice, sung, calm and sure]\nLate, but I'm coming\nYou can start, I'll catch you up\nLate, but I'm coming\nTwenty years is long enough\nSave a seat or don't, I'll stand\nLate, but I'm coming\n\n[Verse 1: female rap, measured]\nForty-one, front row, with a pen and a doubt\nKid beside me's younger than the car I got out\nRaised three, buried one, worked a register and nights\nPut everybody first and called it doing right\nDean said, \"Any questions?\" Yeah. Where've I been?\nHolding up a ceiling so my kids could get in\nNow the last one's got her own key and her own rent\nAnd I got a syllabus and no time left to vent\n\n[Chorus: female voice, sung, calm and sure]\nLate, but I'm coming\nYou can start, I'll catch you up\nLate, but I'm coming\nTwenty years is long enough\nSave a seat or don't, I'll stand\nLate, but I'm coming\n\n[Verse 2: male rap, her son, proud]\nThat's my mother with the highlighter, look\nShe used to read to me from library books\nFell asleep mid-sentence in her uniform\nWoke up, clocked in, kept us fed and warm\nI got my degree, she clapped until she cried\nNow I'm in the bleachers on the other side\nQuiz on Friday. She's got flash cards on the fridge.\nTell the honor roll to make a little room. She's rich.\n\n[Bridge: choir pad swells, female voice spoken]\nRoll call. Say my name.\nHere.\n\n[Final Chorus: female voice, harmonies stacked]\nLate, but I'm coming\nYou can start, I'll catch you up\nLate, but I'm coming\nTwenty years is long enough\nSave a seat or don't, I'll stand\nLate, and I'm here\n\n[Outro: choir pad, a pen clicking, a page turned]",
+  "taskId": "775320ea0a4abf6c40d3b12c6ce36ec1",
+  "sunoClipIds": [
+    "eb7bdf09-ba84-45c8-be02-79969d13e776",
+    "00ad94c2-c071-47c9-b61e-deaeed951ce8"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919316712,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "eb7bdf09-ba84-45c8-be02-79969d13e776",
+      "durationSec": 254.4,
+      "file": "choirhiphop/ch_08_late_but_im_coming_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "00ad94c2-c071-47c9-b61e-deaeed951ce8",
+      "durationSec": 254.36,
+      "file": "choirhiphop/ch_08_late_but_im_coming_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_08_late_but_im_coming_req.json",
+    "choirhiphop/ch_08_late_but_im_coming_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_08_late_but_im_coming.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 82 BPM, 4/4, D minor. Slow, heavy and haunting, with a great deal of space.\n\nVOICE: A woman sings the hook in a rich, steady alto and raps verse 1 in a measured, unhurried flow. A younger man raps verse 2 with warmth and pride. Her stacked harmonies fill the last chorus.\n\nINSTRUMENTS: A floating, wordless choir pad with long reverb, a slow, heavy kick and a snapping snare, a deep, simple bass line, a muted guitar pluck, a low string drone, a few piano notes.\n\nARRANGEMENT MAP: 0:00 Intro, choir pad and kick. 0:16 Chorus 1. 0:44 Verse 1. 1:30 Chorus 2. 1:58 Verse 2. 2:44 Bridge. 2:58 Final chorus. 3:28 Outro, pad, a pen and a page, ends 3:56.\n\nPRODUCTION & MIX: Mid-1990s East Coast: dark, spacious and bass-heavy, drums dry, the choir pad far away like fog.\n\nSIGNATURE MOMENT: The single spoken 'Here.' at 2:54.\n\nMODERN POINT OF VIEW: The original is young people announcing they are coming for the crown. This is a woman of forty-one announcing she is coming for a chair in a classroom, which takes more nerve.\n\nEMOTIONAL ARC: Nervous, resolved, celebrated, present.",
+  "workbookAtAGlance": "Late, But I'm Coming\n\nBackup titles\nCount Me In at Forty / Hold the Door\n\nAt a glance\n82 BPM, D minor\nVoice: Female sung hook and rap; male rap verse\nLength: about 4 minutes",
+  "qa": {
+    "title": "Late, But I'm Coming",
+    "id": "ch_08",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending",
+          "peak 0.04 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 254.4,
+        "measuredBpm": 78.3,
+        "bpmFactor": 1,
+        "targetBpm": 82,
+        "bpmErrPct": 4.5,
+        "lufs": -13.0,
+        "peakDbfs": 0.04,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 252.5,
+        "vocalCoverage": 0.712,
+        "vocalSpanSec": [
+          0.3,
+          246.2
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 264,
+        "lyricLineRecall": 0.8,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.4,
+        "measuredBpm": 80.7,
+        "bpmFactor": 1,
+        "targetBpm": 82,
+        "bpmErrPct": 1.5,
+        "lufs": -13.3,
+        "peakDbfs": -0.44,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 252.4,
+        "vocalCoverage": 0.764,
+        "vocalSpanSec": [
+          0.3,
+          235.3
+        ],
+        "vocalF0MedianHz": 297,
+        "vocalF0P25Hz": 287,
+        "lyricLineRecall": 0.914,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop",
+  "year": 1996
+}

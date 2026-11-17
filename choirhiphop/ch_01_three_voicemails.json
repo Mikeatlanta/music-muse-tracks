@@ -1,0 +1,116 @@
+{
+  "id": "ch_01",
+  "title": "Three Voicemails",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 1,
+  "slug": "ch_01_three_voicemails",
+  "inspiredBy": "Stan (Eminem feat. Dido, 2000)",
+  "leadVoice": "Two rappers. The father: an older man, gravelly, plain and unhurried, more spoken than rhymed, softer in his second verse. The son: younger, tighter, hesitant. The hook is a woman's soft, breathy, folk-like voice, close and sad. No shouting.",
+  "model": "V6",
+  "style": "Turn-of-the-century storytelling hip-hop with a sung folk-pop hook, older gravelly plain male rap voice more spoken than rhymed for two verses and a younger hesitant male rapper for the third, soft breathy sad female voice singing the chorus, 80 BPM, B minor, slow heavy intimate feel, minor-key piano figure, deep slow kick and dry snare, warm bass guitar, small string section late, rain and room sound, dry close mix, regretful, tender, redemptive",
+  "negativeTags": "trap hi-hats, auto-tune, fast tempo, club beat, aggressive shouting, EDM synths, rock guitars, cheerful mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 275,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: rain on a window, soft piano, a voicemail beep]\n\n[Chorus: soft female voice, sung]\nThe line's still open, I never changed the number\nSame old ring in the same old hall\nThe kettle's on and the porch light's burning\nWhenever you're ready to call\n\n[Verse 1: male rap, older voice, steady]\nHey, it's your dad. It's the first of the year.\nI know you said don't call. I know. I hear.\nI was hard on you, harder than my father was on me\nThought that was love. That's the only kind I'd seen.\nYour mother says you're working, got a place across the bay\nI drove past once. I didn't stay.\nI'm not asking you to say it's fine\nI'm just leaving this here. Take your time.\n\n[Chorus: soft female voice, sung]\nThe line's still open, I never changed the number\nSame old ring in the same old hall\nThe kettle's on and the porch light's burning\nWhenever you're ready to call\n\n[Verse 2: same voice, a year on, slower]\nMe again. It's been a while. I counted. It's been two.\nI quit the drinking. March. I thought I'd tell you.\nFound your baseball glove out in the shed\nOiled it. Don't know why. Put it on your bed.\nI go to meetings Thursdays, say the things I did out loud\nMan, you'd laugh. Or you wouldn't. Either way, you'd be proud?\nNo. Scratch that. That's not mine to say.\nI'm just leaving this here. It's okay.\n\n[Verse 3: son's voice, younger, hesitant]\nDad. It's me. Don't pick up. Let it record.\nI got all of them. I played them in the car.\nI've got a boy now. He's got your stupid chin.\nI yelled at him last week and I heard you coming in.\nSo I stopped. I knelt down. I said sorry to a kid.\nThat's the thing you never did. And then you did.\nWe're coming Sunday. He likes trains. He's four.\nDon't clean up. Just be home. Leave the light on by the door.\n\n[Final Chorus: female voice, strings, both men humming]\nThe line's still open, I never changed the number\nSame old ring in the same old hall\nThe kettle's on and the porch light's burning\nWhenever you're ready to call\n\n[Outro: rain easing, a phone picked up mid-ring]",
+  "taskId": "5c866d7c7f3029dc22e24c8c69da4be3",
+  "sunoClipIds": [
+    "042df9fd-326c-445e-a6c5-c70664826005",
+    "40597bf9-157c-415c-9a43-0a63f613fcca"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919291813,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "042df9fd-326c-445e-a6c5-c70664826005",
+      "durationSec": 274.32,
+      "file": "choirhiphop/ch_01_three_voicemails_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "40597bf9-157c-415c-9a43-0a63f613fcca",
+      "durationSec": 274.8,
+      "file": "choirhiphop/ch_01_three_voicemails_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_01_three_voicemails_req.json",
+    "choirhiphop/ch_01_three_voicemails_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_01_three_voicemails.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, B minor. Slow, heavy and intimate, like talking in a parked car.\n\nVOICE: Two rappers. The father: an older man, gravelly, plain and unhurried, more spoken than rhymed, softer in his second verse. The son: younger, tighter, hesitant. The hook is a woman's soft, breathy, folk-like voice, close and sad. No shouting.\n\nINSTRUMENTS: A minor-key piano figure, a deep, slow kick and a dry snare, a warm bass guitar, a small string section entering at verse 3, rain and room sounds, a voicemail beep before each verse.\n\nARRANGEMENT MAP: 0:00 Intro, rain and piano. 0:14 Chorus 1. 0:38 Verse 1. 1:26 Chorus 2. 1:50 Verse 2. 2:38 Verse 3, the son, strings in. 3:26 Final chorus. 3:52 Outro, a phone picked up at 4:14.\n\nPRODUCTION & MIX: Turn-of-the-century storytelling rap: dry, close vocals, soft boom-bap drums, a lot of room sound.\n\nSIGNATURE MOMENT: 'That's the thing you never did. And then you did.' at 3:10.\n\nMODERN POINT OF VIEW: The original is a young star hearing too late from a fan. This is told from the other end of life, by a father, and it lets the answer come in time.\n\nEMOTIONAL ARC: Stiff apology, humility, a held breath, reconciliation.",
+  "workbookAtAGlance": "Three Voicemails\n\nBackup titles\nI Never Changed the Number / Beep\n\nAt a glance\n80 BPM, B minor\nVoice: Male rap, older voice; soft female sung hook\nLength: about 4 minutes 20",
+  "qa": {
+    "title": "Three Voicemails",
+    "id": "ch_01",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 274.3,
+        "measuredBpm": 80.7,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 0.9,
+        "lufs": -14.4,
+        "peakDbfs": -0.56,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.0,
+        "contentEndSec": 272.0,
+        "vocalCoverage": 0.503,
+        "vocalSpanSec": [
+          1.6,
+          223.8
+        ],
+        "vocalF0MedianHz": 298,
+        "vocalF0P25Hz": 278,
+        "lyricLineRecall": 0.833,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 274.8,
+        "measuredBpm": 78.3,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 2.1,
+        "lufs": -14.7,
+        "peakDbfs": -1.19,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 273.0,
+        "vocalCoverage": 0.459,
+        "vocalSpanSec": [
+          1.7,
+          237.9
+        ],
+        "vocalF0MedianHz": 293,
+        "vocalF0P25Hz": 277,
+        "lyricLineRecall": 0.667,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop",
+  "year": 2000
+}

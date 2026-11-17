@@ -1,0 +1,118 @@
+{
+  "id": "ch_07",
+  "title": "D.U.E.",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 7,
+  "slug": "ch_07_d_u_e",
+  "inspiredBy": "C.R.E.A.M. (Wu-Tang Clan, 1993)",
+  "leadVoice": "Two male rappers. The first is calm and precise; the second is rougher and lower. Neither raises his voice. The hook is chanted in unison by five or six men, low and tired, with one voice singing the last line.",
+  "model": "V6",
+  "style": "Early-1990s New York boom-bap, two male rappers, one calm and precise and one rougher and lower, neither raising his voice, hook chanted in unison by a group of men low and tired, 90 BPM, C# minor, slow dusty heavy feel with an unchanging loop, melancholy slightly out-of-tune piano loop, dusty sampled drum break with hard snare, deep bass notes, vinyl crackle, faint soul-vocal texture, strings at the end, gritty lo-fi mid-range mix, weary, dignified, redemptive",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, glossy pop production, fast tempo, EDM synths, rock guitars, sung pop chorus",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: mournful piano loop, vinyl crackle, soft kick]\n\n[Hook: chanted by a group, low]\nD-U-E\nDollars under everything\nD-U-E\nRed ink, phone ring\nDollar dollar bill, who's it for?\nD-U-E, at the door\n\n[Verse 1: male rap, steady, unsentimental]\nI learned to read on envelopes my mother wouldn't open\n\"Final\" was a word I knew before I knew \"hoping\"\nLights went off in March, we played a game called camping\nCandles on the stove and Mama's hands were shaking, stamping\nFree lunch ticket, different color, everybody knew\nWore my cousin's sneakers with the name still on the shoe\nLandlord at the door, we'd hold our breath and count\nWhole childhood was a whisper and a past-due amount\n\n[Hook: chanted by a group, low]\nD-U-E\nDollars under everything\nD-U-E\nRed ink, phone ring\nDollar dollar bill, who's it for?\nD-U-E, at the door\n\n[Verse 2: second male voice, grainier]\nFourteen, bagging groceries, sixteen, working nights\nGave it all to Mama, never once put up a fight\nGot a scholarship, a loan, another loan for that\nGraduated owing more than everything we had\nNow I got a salary, a desk, a little view\nFirst of every month, I pay hers before I do\nShe says, \"Baby, keep it.\" I say, \"Ma, I can't.\"\nThere's a kid inside me holding his breath in the dark\n\n[Bridge: piano alone, spoken]\nPaid her house off in the spring.\nShe opened the letter herself.\n\n[Final Hook: group louder, strings added]\nD-U-E\nDollars under everything\nD-U-E\nRed ink, phone ring\nDollar dollar bill, who's it for?\nPaid in full. Open the door.\n\n[Outro: piano loop, an envelope torn, a laugh]",
+  "taskId": "ecce586c6796a0eaaff6fa59fe529535",
+  "sunoClipIds": [
+    "0da170d1-40d2-4ef9-b1d0-8cb751f5102a",
+    "25e66319-897c-499b-9177-b94ebeedc34b"
+  ],
+  "created": "Nov 17, 2026 7:41 AM ET",
+  "createTimeMs": 1794919311694,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "0da170d1-40d2-4ef9-b1d0-8cb751f5102a",
+      "durationSec": 244.32,
+      "file": "choirhiphop/ch_07_d_u_e_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "25e66319-897c-499b-9177-b94ebeedc34b",
+      "durationSec": 244.36,
+      "file": "choirhiphop/ch_07_d_u_e_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_07_d_u_e_req.json",
+    "choirhiphop/ch_07_d_u_e_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_07_d_u_e.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 90 BPM, 4/4, C# minor. Slow, dusty and heavy, with a loop that never moves.\n\nVOICE: Two male rappers. The first is calm and precise; the second is rougher and lower. Neither raises his voice. The hook is chanted in unison by five or six men, low and tired, with one voice singing the last line.\n\nINSTRUMENTS: A melancholy, slightly out-of-tune piano loop, a dusty sampled drum break with a hard snare, a deep bass note under each bar, vinyl crackle, a faint soul-vocal texture, strings joining for the final hook.\n\nARRANGEMENT MAP: 0:00 Intro, piano loop. 0:12 Hook 1. 0:36 Verse 1. 1:20 Hook 2. 1:44 Verse 2. 2:28 Bridge, spoken. 2:42 Final hook. 3:10 Outro, an envelope and a laugh, ends 3:46.\n\nPRODUCTION & MIX: Early-1990s New York boom-bap: gritty, lo-fi and mid-range, drums loud and dry, voices close.\n\nSIGNATURE MOMENT: 'She opened the letter herself.' at 2:36.\n\nMODERN POINT OF VIEW: The original is told by young men still inside the story. This is a man of forty looking back, and it ends with the one thing the first song could not show: the debt cleared.\n\nEMOTIONAL ARC: Shame, grind, duty, release.",
+  "workbookAtAGlance": "D.U.E.\n\nBackup titles\nDollars Under Everything / Final Notice\n\nAt a glance\n90 BPM, C# minor\nVoice: Two male rappers with a chanted acronym hook\nLength: about 3 minutes 50",
+  "qa": {
+    "title": "D.U.E.",
+    "id": "ch_07",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending",
+          "tempo measured 81 BPM vs 90 target (~10% off)",
+          "lyric check partial: 56% of lines recognised"
+        ],
+        "durationSec": 244.3,
+        "measuredBpm": 80.7,
+        "bpmFactor": 1,
+        "targetBpm": 90,
+        "bpmErrPct": 10.3,
+        "lufs": -13.8,
+        "peakDbfs": -0.01,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 242.9,
+        "vocalCoverage": 0.409,
+        "vocalSpanSec": [
+          23.8,
+          154.4
+        ],
+        "vocalF0MedianHz": 314,
+        "vocalF0P25Hz": 288,
+        "lyricLineRecall": 0.556,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 244.4,
+        "measuredBpm": 83.4,
+        "bpmFactor": 1,
+        "targetBpm": 90,
+        "bpmErrPct": 7.4,
+        "lufs": -14.3,
+        "peakDbfs": -0.85,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 242.8,
+        "vocalCoverage": 0.394,
+        "vocalSpanSec": [
+          8.1,
+          177.1
+        ],
+        "vocalF0MedianHz": 311,
+        "vocalF0P25Hz": 188,
+        "lyricLineRecall": 0.639,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Soul",
+  "year": 1993
+}

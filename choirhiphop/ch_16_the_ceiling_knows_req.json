@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "The Ceiling Knows",
+  "prompt": "[Intro: warm soul guitar loop, vinyl crackle, slow drums]\n\n[Refrain: low sung male voice, almost murmured]\nThree a.m., the ceiling knows\nEverything I don't let show\nI lie here counting\nThe ceiling knows\n\n[Verse 1: Southern male rap, slow and plain]\nHeart going like I ran, and I ain't moved\nGot a list in my head and it's all bad news\nWhat if the plant shuts? What if the truck quits?\nWhat if that cough the baby's got is something that sticks?\nI check the locks twice, then I check 'em again\nStand in the hall like I'm waiting on a friend\nMy wife says, \"Come to bed.\" I say, \"I'm fine.\"\nBeen saying that since I was nine.\n\n[Refrain: low sung male voice, almost murmured]\nThree a.m., the ceiling knows\nEverything I don't let show\nI lie here counting\nThe ceiling knows\n\n[Verse 2: rap, heavier, organ under]\nMy daddy never said a word about his nerves\nHe'd sit out on the porch and smoke and watch the curve\nI thought that he was strong. I think he was scared.\nI think nobody asked him, and nobody dared\nAt work I'm the one everybody leans on\nGot jokes, got answers, got my game face on\nThen I'm in the truck in the lot with my hands on my knees\nBreathing like the doctor on the video. Lord, please.\n\n[Verse 3: quieter, lighter]\nTuesday I told my brother on the phone\nHe said, \"Man, me too. I thought I was alone.\"\nWe laughed till we coughed. Then he gave me a name.\nA lady with an office. I went. No shame.\nIt ain't gone. I ain't fixed. That ain't how it goes.\nBut I slept six hours. And somebody knows.\n\n[Final Refrain: sung, a second voice in harmony]\nThree a.m., the ceiling knows\nBut I ain't the only one it's told\nI said it out loud\nNow somebody knows\n\n[Outro: guitar loop, a long breath, a lamp clicked off]",
+  "style": "Early-1990s Houston Southern hip-hop over a soul loop, deep male Texas drawl rapped slowly and plainly with long pauses as if talking to himself, refrain sung low and soft by the same man with a second male harmony at the end, 84 BPM, E minor, slow warm heavy-lidded late-night feel, warm clean soul guitar loop with a little wah, slow dusty drum break, deep bass guitar, Hammond organ, soft strings, vinyl crackle, bass-heavy analogue mix, anxious, honest, relieved",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, big pop chorus, aggressive shouting",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

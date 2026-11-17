@@ -1,0 +1,121 @@
+{
+  "id": "ch_18",
+  "title": "Hold the Door",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 18,
+  "slug": "ch_18_hold_the_door",
+  "inspiredBy": "C U When U Get There (Coolio feat. 40 Thevz, 1997)",
+  "leadVoice": "The rapper is a man with a clear, friendly, even voice, rhythmic and unforced. The chorus is sung by a mixed gospel choir in rich four-part harmony, warm and patient.",
+  "model": "V6",
+  "style": "Late-1990s orchestral pop-rap, clear friendly even male rap, chorus sung by a mixed gospel choir in rich warm four-part harmony, 84 BPM, D minor, slow graceful steady feel, string quartet playing a repeating baroque-style chord sequence, harpsichord, boom-bap kick and snare, round bass guitar, church organ at the end, clean bright warm mix with wide strings and choir, encouraging, grateful, uplifting",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, aggressive shouting, dark horror mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: string quartet, baroque-style progression, harpsichord]\n\n[Chorus: mixed choir, patient and warm]\nI'll hold the door, take your time\nI got through, and I'm not leaving you behind\nOne foot, then the other, I can see you on the climb\nI'll hold the door, take your time\n\n[Verse 1: male rap, steady, encouraging]\nFirst one in my family with a key to anything\nGot a badge that opens glass and a phone that likes to ring\nI could shut it right behind me, pull the ladder, lock the frame\nA lot of people do. I know their names.\nBut I remember who it was that held it open first\nA teacher with a Buick and a hole inside her purse\nDrove me to the test and paid the fee and said, \"Go in.\"\nSo every time it swings, I put my foot against the hinge.\n\n[Chorus: mixed choir, patient and warm]\nI'll hold the door, take your time\nI got through, and I'm not leaving you behind\nOne foot, then the other, I can see you on the climb\nI'll hold the door, take your time\n\n[Verse 2: rap, warmer, drums fuller]\nKid from the building emailed, typos everywhere\nI read it twice and wrote him back, \"Come by, I'll be there\"\nHe's got the look I had, like the room's about to know\nHe doesn't belong. I said, \"Sit. Here's how this goes.\"\nIt ain't charity. It ain't a speech. It's a chair and a name\nA call I make on Thursday and a ride out in the rain\nIf I get to the top and I'm the only one I see\nThen nobody won, including me.\n\n[Bridge: choir humming, strings alone, voice spoken]\nSomebody held it for me.\nGo on. I've got it.\n\n[Final Chorus: full choir, organ, strings high]\nI'll hold the door, take your time\nI got through, and I'm not leaving you behind\nOne foot, then the other, I can see you on the climb\nI'll hold the door, take your time\n\n[Outro: strings resolve, a heavy door, footsteps coming in]",
+  "taskId": "711e9a8adfd2fd50b9e446ebaabbd765",
+  "sunoClipIds": [
+    "9ffd15ef-9b75-40a9-b09a-c7f1be8c50d7",
+    "5a9a5a7f-0fff-48aa-8a85-bd9a16f87df6"
+  ],
+  "created": "Nov 17, 2026 7:42 AM ET",
+  "createTimeMs": 1794919358120,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "9ffd15ef-9b75-40a9-b09a-c7f1be8c50d7",
+      "durationSec": 254.48,
+      "file": "choirhiphop/ch_18_hold_the_door_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5a9a5a7f-0fff-48aa-8a85-bd9a16f87df6",
+      "durationSec": 254.32,
+      "file": "choirhiphop/ch_18_hold_the_door_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_18_hold_the_door_req.json",
+    "choirhiphop/ch_18_hold_the_door_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_18_hold_the_door.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 84 BPM, 4/4, D minor. Slow, graceful and steady, classical strings over a hip-hop beat.\n\nVOICE: The rapper is a man with a clear, friendly, even voice, rhythmic and unforced. The chorus is sung by a mixed gospel choir in rich four-part harmony, warm and patient.\n\nINSTRUMENTS: A string quartet playing a repeating baroque-style chord sequence, a harpsichord, a boom-bap kick and snare, a round bass guitar, a church organ in the last chorus, a full choir.\n\nARRANGEMENT MAP: 0:00 Intro, strings and harpsichord. 0:16 Chorus 1. 0:44 Verse 1. 1:30 Chorus 2. 1:58 Verse 2. 2:44 Bridge. 3:00 Final chorus. 3:30 Outro, a door and footsteps, ends 3:56.\n\nPRODUCTION & MIX: Late-1990s orchestral pop-rap: clean, bright and warm, strings and choir wide, drums crisp.\n\nSIGNATURE MOMENT: 'So every time it swings, I put my foot against the hinge.' at 1:24.\n\nMODERN POINT OF VIEW: The original promises to meet people when they arrive. This one goes back down and stands in the doorway, which is what the people who have made it are now asked to do.\n\nEMOTIONAL ARC: Grateful, watchful, generous, welcoming.",
+  "workbookAtAGlance": "Hold the Door\n\nBackup titles\nI Got Through, I'm Not Leaving / Take Your Time\n\nAt a glance\n84 BPM, D minor\nVoice: Male rap with a mixed choir hook\nLength: about 4 minutes",
+  "qa": {
+    "title": "Hold the Door",
+    "id": "ch_18",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.5,
+        "measuredBpm": 83.4,
+        "bpmFactor": 1,
+        "targetBpm": 84,
+        "bpmErrPct": 0.8,
+        "lufs": -13.4,
+        "peakDbfs": -0.48,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 252.9,
+        "vocalCoverage": 0.531,
+        "vocalSpanSec": [
+          13.2,
+          212.2
+        ],
+        "vocalF0MedianHz": 292,
+        "vocalF0P25Hz": 221,
+        "lyricLineRecall": 0.733,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 47% of lines recognised (unclear: Verse 2, Bridge)"
+        ],
+        "durationSec": 254.3,
+        "measuredBpm": 86.1,
+        "bpmFactor": 1,
+        "targetBpm": 84,
+        "bpmErrPct": 2.5,
+        "lufs": -13.8,
+        "peakDbfs": -0.29,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 252.9,
+        "vocalCoverage": 0.572,
+        "vocalSpanSec": [
+          12.7,
+          212.4
+        ],
+        "vocalF0MedianHz": 389,
+        "vocalF0P25Hz": 236,
+        "lyricLineRecall": 0.467,
+        "lyricUnclearSections": [
+          "Verse 2",
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop",
+  "year": 1997
+}

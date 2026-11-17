@@ -1,0 +1,114 @@
+{
+  "id": "ch_20",
+  "title": "Spare Room",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 20,
+  "slug": "ch_20_spare_room",
+  "inspiredBy": "Love Is Blind (Eve feat. Faith Evans, 1999)",
+  "leadVoice": "The rapper is a woman with a strong, clear, controlled voice: steady in verse 1, urgent in verse 2, almost whispering in verse 3. The hook is sung by a second woman with a powerful, aching soul voice and gospel runs, joined by a small choir at the end.",
+  "model": "V6",
+  "style": "Late-1990s East Coast hip-hop with a soul hook, strong clear controlled female rap steady then urgent then almost whispering, hook sung by a second woman with a powerful aching soul voice and gospel runs joined by a small choir at the end, 78 BPM, G minor lifting to major in the final chorus, slow cold tense feel that turns warm, sparse cold piano notes, slow heavy kick and sharp snare, deep bass, rising string section, Rhodes electric piano, dark sparse dry mix with a lush hook, protective, urgent, tender",
+  "negativeTags": "male lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, club beat, playful mood",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: cold piano notes, slow kick, a phone vibrating]\n\n[Chorus: female soul voice, sung, aching]\nI got a spare room and a key cut for you\nNo questions tonight, no \"I told you\"\nBring the baby, bring a bag, bring nothing at all\nThere's a light on down the hall\nSpare room\n\n[Verse 1: female rap, controlled, direct]\nYou said you walked into a door. Girl, I know that door.\nI know the long sleeves in July and what they're for\nI saw you flinch at dinner when he reached across for salt\nAnd the way you said, \"I'm sorry,\" like the weather was your fault\nI ain't gonna say his name. I ain't gonna make you choose\nNot on the phone, not while he's listening in the next room\nI'm just saying where I live. You know the street.\nSecond floor. I'm up. I got clean sheets.\n\n[Chorus: female soul voice, sung, aching]\nI got a spare room and a key cut for you\nNo questions tonight, no \"I told you\"\nBring the baby, bring a bag, bring nothing at all\nThere's a light on down the hall\nSpare room\n\n[Verse 2: rap, urgent, strings rising]\nThey say it takes a few tries. I can wait for all of them.\nI'll be the same address in March and then again\nI put a number in your shoe. It's a lady, she's a pro.\nShe'll tell you what to pack and when to go\nYou are not stupid. You are not weak. You are not what he said.\nYou're the girl who beat me in the hundred, by a head\nYou taught my son to read. You held me when my mother passed.\nNow let somebody hold you. I'm asking. I'm the last to ask.\n\n[Verse 3: quieter, the beat nearly gone]\nThree a.m. A knock. I'm already at the door.\nYou, the baby and a backpack, shaking, on my floor\nI don't say a word. I put the kettle on.\nYou sleep until it's noon. He calls. Your phone is off.\n\n[Final Chorus: soul voice and choir, major lift]\nYou got a spare room and a key that's yours\nNo questions today, just open doors\nYou brought the baby and a bag, that's all you need\nStay as long as you want with me\nSpare room\n\n[Outro: piano, a baby laughing, a lock turning from inside]",
+  "taskId": "127b03ed71be187d9678d613f0c274c1",
+  "sunoClipIds": [
+    "4c30a672-af7e-468a-a751-7e90b7f5ba00",
+    "76d080aa-c937-4f8e-89ff-47f3279b46fe"
+  ],
+  "created": "Nov 17, 2026 7:42 AM ET",
+  "createTimeMs": 1794919369866,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "4c30a672-af7e-468a-a751-7e90b7f5ba00",
+      "durationSec": 254.4,
+      "file": "choirhiphop/ch_20_spare_room_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "76d080aa-c937-4f8e-89ff-47f3279b46fe",
+      "durationSec": 254.68,
+      "file": "choirhiphop/ch_20_spare_room_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_20_spare_room_req.json",
+    "choirhiphop/ch_20_spare_room_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_20_spare_room.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 78 BPM, 4/4, G minor, lifting to B-flat major in the final chorus. Slow, cold and tense, then warm.\n\nVOICE: The rapper is a woman with a strong, clear, controlled voice: steady in verse 1, urgent in verse 2, almost whispering in verse 3. The hook is sung by a second woman with a powerful, aching soul voice and gospel runs, joined by a small choir at the end.\n\nINSTRUMENTS: Sparse, cold piano notes, a slow heavy kick and a sharp snare, a deep bass, a string section rising in verse 2, a Rhodes electric piano warming the final chorus, a small choir, household sounds.\n\nARRANGEMENT MAP: 0:00 Intro, piano and a phone. 0:14 Chorus 1. 0:42 Verse 1. 1:28 Chorus 2. 1:56 Verse 2. 2:42 Verse 3, beat nearly gone. 3:06 Final chorus, major. 3:36 Outro, a baby laughing and a lock at 3:56.\n\nPRODUCTION & MIX: Late-1990s East Coast: dark, sparse and hard, piano and drums dry, the sung hook lush against them.\n\nSIGNATURE MOMENT: The lock turning from the inside at 3:56.\n\nMODERN POINT OF VIEW: The original speaks to the abuser and ends in death. People who work with survivors say the useful thing is a standing offer with no judgement, so this one speaks to the friend and ends with her safe.\n\nEMOTIONAL ARC: Afraid for her, patient, pleading, safe.",
+  "workbookAtAGlance": "Spare Room\n\nBackup titles\nI Had a Key Cut / No Questions Tonight\n\nAt a glance\n78 BPM, G minor\nVoice: Female rap with a female soul sung hook\nLength: about 4 minutes",
+  "qa": {
+    "title": "Spare Room",
+    "id": "ch_20",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.4,
+        "measuredBpm": 76.0,
+        "bpmFactor": 1,
+        "targetBpm": 78,
+        "bpmErrPct": 2.6,
+        "lufs": -14.0,
+        "peakDbfs": -0.28,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 251.9,
+        "vocalCoverage": 0.733,
+        "vocalSpanSec": [
+          11.6,
+          232.3
+        ],
+        "vocalF0MedianHz": 309,
+        "vocalF0P25Hz": 254,
+        "lyricLineRecall": 0.75,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.7,
+        "measuredBpm": 76.0,
+        "bpmFactor": 1,
+        "targetBpm": 78,
+        "bpmErrPct": 2.6,
+        "lufs": -13.0,
+        "peakDbfs": -0.1,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 252.2,
+        "vocalCoverage": 0.725,
+        "vocalSpanSec": [
+          11.5,
+          230.0
+        ],
+        "vocalF0MedianHz": 309,
+        "vocalF0P25Hz": 263,
+        "lyricLineRecall": 0.906,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop",
+  "year": 1999
+}

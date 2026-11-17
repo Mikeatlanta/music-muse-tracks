@@ -1,0 +1,118 @@
+{
+  "id": "ch_12",
+  "title": "New Name on the Mailbox",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 12,
+  "slug": "ch_12_new_name_on_the_mailbox",
+  "inspiredBy": "Dead and Gone (T.I. feat. Justin Timberlake, 2009)",
+  "leadVoice": "The rapper is a man with a deep Georgia drawl, slow and deliberate, almost conversational. The chorus is sung by a different man in a high, clean, pop tenor, doubled, with a choir behind in the last chorus.",
+  "model": "V6",
+  "style": "Late-2000s Atlanta pop-rap ballad, deep slow deliberate male rap with a Georgia drawl, chorus sung by a different man in a high clean doubled pop tenor with a choir at the end, 68 BPM with double-time hi-hats, A minor, slow wide solemn feel with a pop-sized chorus, sad piano figure, whistled counter-melody, deep 808 kick and bass, crisp hi-hats, snare with long tail, string section, acoustic guitar, glossy wide clean mix, resolute, reflective, redemptive",
+  "negativeTags": "female lead vocals, fast tempo, rock guitars, EDM drop, jazz, aggressive shouting, lo-fi, playful mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: solo piano, whistled phrase, slow kick]\n\n[Chorus: high male voice, sung, clean]\nThere's a new name on the mailbox\nThe man you want don't live here now\nHe left one night with what he did\nI couldn't tell you where or how\nNew name on the mailbox\nDifferent man inside the house\n\n[Verse 1: Southern male rap, slow and heavy]\nOld partner pulled up in a rental, tinted\nSaid, \"I got a thing, one night, come get it\"\nI said, \"You got the wrong address, my friend\nFella you remember met his end\"\nNot in a box, not on the news\nIn a visiting room with his little girl's shoes\nToo small for her now, on the table, in a bag\nThat's the night he died. I ain't seen him since. Don't ask.\n\n[Chorus: high male voice, sung, clean]\nThere's a new name on the mailbox\nThe man you want don't live here now\nHe left one night with what he did\nI couldn't tell you where or how\nNew name on the mailbox\nDifferent man inside the house\n\n[Verse 2: rap, steadier, strings under]\nI coach on Saturdays, I'm early every time\nI say \"yes ma'am\" to a boss half my age, that's fine\nParole's done. I still call in. That's just me.\nI like somebody knowing where I'll be\nThe old me's got some friends who want him back\nThey can't have him. He don't get to see my kids. That's that.\nI keep his picture so I don't forget his face\nI don't hate him. He just can't come in this place.\n\n[Bridge: piano and whistle, voice low]\nIf he knocks, I don't answer\nIf he knocks, I'm not home\n\n[Final Chorus: high voice, choir behind, drums fuller]\nThere's a new name on the mailbox\nThe man you want don't live here now\nHe left one night with what he did\nI couldn't tell you where or how\nNew name on the mailbox\nDifferent man inside the house\n\n[Outro: piano, a mailbox lid, a child calling \"Dad!\"]",
+  "taskId": "c8c943f17d2868f63c3e9ad889c624e2",
+  "sunoClipIds": [
+    "4ea27c39-03b7-42ec-931a-588a31792d9d",
+    "fb1cba02-7974-409e-81b7-6142e9b326a6"
+  ],
+  "created": "Nov 17, 2026 7:42 AM ET",
+  "createTimeMs": 1794919338938,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "4ea27c39-03b7-42ec-931a-588a31792d9d",
+      "durationSec": 254.56,
+      "file": "choirhiphop/ch_12_new_name_on_the_mailbox_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "fb1cba02-7974-409e-81b7-6142e9b326a6",
+      "durationSec": 254.4,
+      "file": "choirhiphop/ch_12_new_name_on_the_mailbox_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_12_new_name_on_the_mailbox_req.json",
+    "choirhiphop/ch_12_new_name_on_the_mailbox_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_12_new_name_on_the_mailbox.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 68 BPM with double-time hi-hats, 4/4, A minor. Slow, wide and solemn, with a pop-sized chorus.\n\nVOICE: The rapper is a man with a deep Georgia drawl, slow and deliberate, almost conversational. The chorus is sung by a different man in a high, clean, pop tenor, doubled, with a choir behind in the last chorus.\n\nINSTRUMENTS: A sad piano figure, a whistled counter-melody, a deep 808 kick and bass, crisp hi-hats, a snare with a long tail, a string section from verse 2, a choir, an acoustic guitar.\n\nARRANGEMENT MAP: 0:00 Intro, piano and whistle. 0:16 Chorus 1. 0:50 Verse 1. 1:36 Chorus 2. 2:10 Verse 2. 2:56 Bridge. 3:12 Final chorus. 3:44 Outro, a mailbox and a child's voice at 3:56.\n\nPRODUCTION & MIX: Late-2000s Atlanta pop-rap: glossy, wide and clean, piano and vocal up front, low end deep.\n\nSIGNATURE MOMENT: 'I don't hate him. He just can't come in this place.' at 2:50.\n\nMODERN POINT OF VIEW: The original declares the change at the moment it happens. This is fifteen years later, when the hard part is no longer changing but keeping the door shut.\n\nEMOTIONAL ARC: Tested, firm, settled, home.",
+  "workbookAtAGlance": "New Name on the Mailbox\n\nBackup titles\nHe Doesn't Live Here / Forwarding Address\n\nAt a glance\n68 BPM, A minor\nVoice: Southern male rap with a high male sung hook\nLength: about 4 minutes",
+  "qa": {
+    "title": "New Name on the Mailbox",
+    "id": "ch_12",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.6,
+        "measuredBpm": 68.0,
+        "bpmFactor": 1,
+        "targetBpm": 68,
+        "bpmErrPct": 0.0,
+        "lufs": -13.9,
+        "peakDbfs": -0.34,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 252.7,
+        "vocalCoverage": 0.528,
+        "vocalSpanSec": [
+          13.9,
+          225.1
+        ],
+        "vocalF0MedianHz": 147,
+        "vocalF0P25Hz": 133,
+        "lyricLineRecall": 0.75,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)"
+        ],
+        "durationSec": 254.4,
+        "measuredBpm": 66.3,
+        "bpmFactor": 1,
+        "targetBpm": 68,
+        "bpmErrPct": 2.6,
+        "lufs": -14.6,
+        "peakDbfs": -0.43,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 254.2,
+        "vocalCoverage": 0.571,
+        "vocalSpanSec": [
+          14.1,
+          253.2
+        ],
+        "vocalF0MedianHz": 153,
+        "vocalF0P25Hz": 147,
+        "lyricLineRecall": 0.806,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop",
+  "year": 2009
+}

@@ -1,0 +1,116 @@
+{
+  "id": "ch_10",
+  "title": "Monday Psalm",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 10,
+  "slug": "ch_10_monday_psalm",
+  "inspiredBy": "Jesus Walks (Kanye West, 2004)",
+  "leadVoice": "Male rapper, mid-range, urgent and clear, riding the march rhythm. A large mixed gospel choir chants the hook in unison and shouts the weekdays, and sings the bridge unaccompanied.",
+  "model": "V6",
+  "style": "2004 Chicago soul-rap with a marching gospel choir, urgent clear mid-range male rap riding a march rhythm, large mixed gospel choir chanting the hook in unison and shouting answers, a cappella choir bridge, 87 BPM, E-flat minor, stomping heavy determined march, marching snare with rolls, deep stomping kick, male-voice bass hum, stabbing strings, brass section at the end, sub bass, handclaps, big warm dramatic mix, prayerful, defiant, uplifting",
+  "negativeTags": "female lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, playful mood, lo-fi",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: marching snare, low choir hum, boots on pavement]\n\n[Hook: choir chanting, drums marching]\nWalk me through the week\n(Monday, Tuesday)\nWalk me through the week\n(Wednesday, Thursday)\nLord, I ain't asking for the mountain moved\nJust walk me through the week\n\n[Verse 1: male rap, urgent, on the march]\nFive a.m., the bus stop, breath like smoke\nName tag on my jacket and I'm almost broke\nI ain't been to service since the schedule changed\nSunday's when they need me on the loading range\nSo this is church: a bench, a route, a transfer slip\nA psalm I half remember on my lip\nYou said the last come first. I'm holding you to that.\nI'm last in every line they got. So where you at?\n\n[Hook: choir chanting, drums marching]\nWalk me through the week\n(Monday, Tuesday)\nWalk me through the week\n(Wednesday, Thursday)\nLord, I ain't asking for the mountain moved\nJust walk me through the week\n\n[Verse 2: rap, wider, strings stabbing]\nPray for the cashier standing ten hours on a sprain\nPray for the driver, for the nurse's aide, the man out in the rain\nThe single dad who's learning how to braid his daughter's hair\nThe woman counting quarters at the laundry, say a prayer\nThey don't put us in the windows made of glass\nBut I read that book. We're in it. First and last.\nA carpenter, some fishermen, a girl without a room\nYou've always walked with people on the morning shift. Resume.\n\n[Bridge: drums drop, choir a cappella]\nFriday, I can see you\nSaturday, I rest\nSunday, if I'm working\nHear this anyway. Amen.\n\n[Final Hook: full choir, brass, drums loudest]\nWalk me through the week\n(Monday, Tuesday)\nWalk me through the week\n(Wednesday, Thursday)\nLord, I ain't asking for the mountain moved\nJust walk me through the week\n\n[Outro: snare alone, a bus door opening, \"Morning.\"]",
+  "taskId": "73508438ff56d63195e78b887628d75e",
+  "sunoClipIds": [
+    "1b053932-b80b-4bf0-8f31-ae3e817539e1",
+    "8e298446-9944-4f9d-86da-299d744720ce"
+  ],
+  "created": "Nov 17, 2026 7:42 AM ET",
+  "createTimeMs": 1794919327320,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "1b053932-b80b-4bf0-8f31-ae3e817539e1",
+      "durationSec": 233.88,
+      "file": "choirhiphop/ch_10_monday_psalm_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "8e298446-9944-4f9d-86da-299d744720ce",
+      "durationSec": 234.8,
+      "file": "choirhiphop/ch_10_monday_psalm_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_10_monday_psalm_req.json",
+    "choirhiphop/ch_10_monday_psalm_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_10_monday_psalm.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 87 BPM, 4/4, E-flat minor. A stomping march, heavy and determined.\n\nVOICE: Male rapper, mid-range, urgent and clear, riding the march rhythm. A large mixed gospel choir chants the hook in unison and shouts the weekdays, and sings the bridge unaccompanied.\n\nINSTRUMENTS: A marching snare with rolls, a deep stomping kick, a male-voice bass hum, stabbing strings, a brass section in the final hook, a sub bass, handclaps, the sound of boots.\n\nARRANGEMENT MAP: 0:00 Intro, snare and hum. 0:14 Hook 1. 0:40 Verse 1. 1:24 Hook 2. 1:50 Verse 2. 2:34 Bridge, choir alone. 2:52 Final hook. 3:20 Outro, snare and a bus door, ends 3:38.\n\nPRODUCTION & MIX: 2004 Chicago soul-rap: big, warm and dramatic, choir and drums huge, vocal crisp.\n\nSIGNATURE MOMENT: 'I'm last in every line they got. So where you at?' at 1:18.\n\nMODERN POINT OF VIEW: The original takes faith to the club and the corner. This takes it to the 5 a.m. bus, for people whose shifts keep them out of the pews.\n\nEMOTIONAL ARC: Tired, demanding, interceding, carried.",
+  "workbookAtAGlance": "Monday Psalm\n\nBackup titles\nWalk Me Through the Week / Lord, It's the Fifteenth\n\nAt a glance\n87 BPM, E-flat minor\nVoice: Male rap with a marching choir\nLength: about 3 minutes 40",
+  "qa": {
+    "title": "Monday Psalm",
+    "id": "ch_10",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 233.9,
+        "measuredBpm": 83.4,
+        "bpmFactor": 1,
+        "targetBpm": 87,
+        "bpmErrPct": 4.2,
+        "lufs": -13.7,
+        "peakDbfs": -0.47,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 231.9,
+        "vocalCoverage": 0.7,
+        "vocalSpanSec": [
+          3.0,
+          207.1
+        ],
+        "vocalF0MedianHz": 415,
+        "vocalF0P25Hz": 311,
+        "lyricLineRecall": 0.875,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak -0.01 dBFS (1 clipped sample, inaudible)"
+        ],
+        "durationSec": 234.8,
+        "measuredBpm": 89.1,
+        "bpmFactor": 1,
+        "targetBpm": 87,
+        "bpmErrPct": 2.4,
+        "lufs": -13.1,
+        "peakDbfs": -0.01,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 232.8,
+        "vocalCoverage": 0.659,
+        "vocalSpanSec": [
+          2.6,
+          214.2
+        ],
+        "vocalF0MedianHz": 372,
+        "vocalF0P25Hz": 234,
+        "lyricLineRecall": 0.844,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Soul",
+  "year": 2004
+}

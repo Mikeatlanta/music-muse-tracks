@@ -1,0 +1,114 @@
+{
+  "id": "ch_19",
+  "title": "It Won't Always Be Tonight",
+  "collection": "choirhiphop",
+  "album": "Choir Hip-Hop Reimagined",
+  "track": 19,
+  "slug": "ch_19_it_wont_always_be_tonight",
+  "inspiredBy": "Everything's Gonna Be Alright (Sweetbox, 1997)",
+  "leadVoice": "One woman. She raps softly and warmly, close to the microphone, with a gentle flow and no hardness, and sings the chorus herself in a clear, light soprano with simple harmonies. A small choir joins the last chorus.",
+  "model": "V6",
+  "style": "Late-1990s European classical hip-hop, one woman rapping softly and warmly close to the microphone with a gentle flow and singing the chorus in a clear light soprano with simple harmonies, small choir at the end, 80 BPM, B minor resolving to major, slow serene consoling feel, string orchestra playing a slow stepwise baroque-style melody over a descending bass, soft pipe organ, gentle hip-hop kick and snare with rim click, deep warm bass, harp, lush clean soft mix, comforting, tender, hopeful",
+  "negativeTags": "male lead vocals, trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, aggressive shouting, club beat",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Choir Hip-Hop Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: slow string orchestra, baroque-style air, soft organ]\n\n[Verse 1: soft female rap, close and calm]\nI know that floor. I know that bathroom light.\nI know the way the phone feels in your hand tonight\nNineteen, and he's gone, and the rent, and the shame\nAnd you think that this is who you are. It ain't your name.\nYou're gonna cry until you're empty, then you'll sleep\nI won't tell you not to. Go on. That's yours to keep.\nBut I'm standing twenty years away from where you are\nWith a kitchen and a garden and a paid-off car\n\n[Chorus: female voice, sung, strings swelling]\nIt won't always be tonight\nBreathe like the strings, slow and wide\nMorning has your name on it\nIt won't always be tonight\n\n[Verse 2: rap, a little brighter, beat fuller]\nYou'll get a job you hate and then a job you don't\nYou'll swear you'll never trust again, and then you won't\nAnd then you will. He's kind. He's not the first you try.\nYou'll bury Mama, and you'll think you'll die. You don't die.\nYou'll have a girl who has your temper and your nose\nShe'll slam a door at fifteen. You'll know how it goes.\nYou'll sit outside it on the floor and you'll say this\nThe same words I'm saying. Then a kiss.\n\n[Chorus: female voice, sung, strings swelling]\nIt won't always be tonight\nBreathe like the strings, slow and wide\nMorning has your name on it\nIt won't always be tonight\n\n[Bridge: orchestra alone, then voice spoken]\nLook. It's getting gray at the window.\nThat's it. That's all it ever is.\n\n[Final Chorus: sung, choir behind, strings highest]\nIt won't always be tonight\nBreathe like the strings, slow and wide\nMorning has your name on it\nIt won't always be tonight\n\n[Outro: strings resolve to major, a kettle, birds]",
+  "taskId": "61a5bab77c7412e232f292eeb36a452f",
+  "sunoClipIds": [
+    "44b730b8-5855-4870-897e-5163f58de088",
+    "b361b34d-7f1e-42ed-8ee9-ab317f81bcf3"
+  ],
+  "created": "Nov 17, 2026 7:42 AM ET",
+  "createTimeMs": 1794919361651,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "44b730b8-5855-4870-897e-5163f58de088",
+      "durationSec": 234.0,
+      "file": "choirhiphop/ch_19_it_wont_always_be_tonight_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "b361b34d-7f1e-42ed-8ee9-ab317f81bcf3",
+      "durationSec": 234.64,
+      "file": "choirhiphop/ch_19_it_wont_always_be_tonight_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "choirhiphop/ch_19_it_wont_always_be_tonight_req.json",
+    "choirhiphop/ch_19_it_wont_always_be_tonight_rec.json"
+  ],
+  "cover": "choirhiphop/covers/ch_19_it_wont_always_be_tonight.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 80 BPM, 4/4, B minor, resolving to D major at the very end. Slow, serene and consoling.\n\nVOICE: One woman. She raps softly and warmly, close to the microphone, with a gentle flow and no hardness, and sings the chorus herself in a clear, light soprano with simple harmonies. A small choir joins the last chorus.\n\nINSTRUMENTS: A string orchestra playing a slow, stepwise baroque-style melody over a descending bass, a soft pipe organ, a gentle hip-hop kick and snare with a rim click, a deep warm bass, a harp, a small choir.\n\nARRANGEMENT MAP: 0:00 Intro, strings and organ. 0:16 Verse 1. 1:02 Chorus 1. 1:28 Verse 2. 2:14 Chorus 2. 2:40 Bridge, orchestra and a spoken line. 2:56 Final chorus. 3:22 Outro, strings to major, a kettle and birds, ends 3:38.\n\nPRODUCTION & MIX: Late-1990s European classical hip-hop: lush, clean and soft, orchestra in front, drums light, voice intimate.\n\nSIGNATURE MOMENT: 'You'll bury Mama, and you'll think you'll die. You don't die.' at 1:50.\n\nMODERN POINT OF VIEW: The original reassures a lover in the present. This sends the reassurance back in time, from a woman of forty to herself at nineteen, with the evidence of how it turned out.\n\nEMOTIONAL ARC: Desperate, held, shown the future, dawn.",
+  "workbookAtAGlance": "It Won't Always Be Tonight\n\nBackup titles\nBreathe Like the Strings / Morning Has Your Name\n\nAt a glance\n80 BPM, B minor\nVoice: Soft female rap with a sung hook\nLength: about 3 minutes 40",
+  "qa": {
+    "title": "It Won't Always Be Tonight",
+    "id": "ch_19",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.0,
+        "measuredBpm": 78.3,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 2.1,
+        "lufs": -13.7,
+        "peakDbfs": -0.21,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 231.1,
+        "vocalCoverage": 0.555,
+        "vocalSpanSec": [
+          25.6,
+          207.2
+        ],
+        "vocalF0MedianHz": 329,
+        "vocalF0P25Hz": 245,
+        "lyricLineRecall": 0.9,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 234.7,
+        "measuredBpm": 80.7,
+        "bpmFactor": 1,
+        "targetBpm": 80,
+        "bpmErrPct": 0.9,
+        "lufs": -13.4,
+        "peakDbfs": -0.42,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 231.7,
+        "vocalCoverage": 0.661,
+        "vocalSpanSec": [
+          3.9,
+          224.3
+        ],
+        "vocalF0MedianHz": 311,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.933,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Hip-Hop",
+  "year": 1997
+}

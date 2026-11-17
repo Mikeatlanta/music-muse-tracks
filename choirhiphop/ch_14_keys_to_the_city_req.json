@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Keys to the City",
+  "prompt": "[Intro: warm electric piano, soft strings, laid-back drums]\n\n[Chorus: female voice, sung, hopeful]\nIf they gave me the keys to the city\nJust for a weekend, just for a day\nI'd open every door that they painted shut\nAnd I'd give the keys away\n\n[Verse 1: male rap, smooth and deliberate]\nFirst thing: public pool on Ninth, been dry since ninety-eight\nI'd fill it up by noon and prop the gate\nSecond: every fine that's older than the kid who's paying\nGone. Clean. No more court dates, no more praying\nLibrary stays open till the last one leaves\nBus runs all night for the folks with keys\nTo other people's offices they mop at three\nFree ride home. That one's for my auntie.\n\n[Chorus: female voice, sung, hopeful]\nIf they gave me the keys to the city\nJust for a weekend, just for a day\nI'd open every door that they painted shut\nAnd I'd give the keys away\n\n[Verse 2: rap, warmer, horns in]\nStreetlight on my mother's block, been out a year\nFixed. And the one by the school. Make it clear.\nGrocery with real vegetables in walking range\nA bench at every stop. That ain't strange.\nNo statue, no parade, don't name a thing for me\nPut a tree where there's a lot. Let it be.\nSunday night I'd drop the ring back on the desk\nWith a list for Monday. You can do the rest.\n\n[Bridge: female voice over strings]\nIt wouldn't take a king\nIt wouldn't take a crown\nJust somebody who's walked it\nWalking it around\n\n[Final Chorus: female voice, choir behind]\nIf they gave me the keys to the city\nJust for a weekend, just for a day\nI'd open every door that they painted shut\nAnd I'd give the keys away\n\n[Outro: electric piano, kids splashing, a bus pulling up]",
+  "style": "Mid-1990s New York radio hip-hop with a soul hook, calm slightly raspy precise male rap with every word clear, chorus and bridge sung by a warm soulful slightly smoky female voice with a small choir at the end, 88 BPM, F# minor, smooth laid-back thoughtful head-nod, warm Rhodes electric piano, soft string section, relaxed boom-bap drums with crisp snare, melodic bass guitar, muted horns, polished warm smooth mix, hopeful, practical, generous",
+  "negativeTags": "trap hi-hats, auto-tune, fast tempo, EDM synths, rock guitars, aggressive shouting, club beat, dark horror mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 245,
+  "callBackUrl": "https://example.com/cb"
+}
