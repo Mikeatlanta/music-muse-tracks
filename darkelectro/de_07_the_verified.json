@@ -1,0 +1,123 @@
+{
+  "id": "de_07",
+  "title": "The Verified",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 7,
+  "slug": "de_07_the_verified",
+  "inspiredBy": "The Beautiful People (Marilyn Manson, 1996)",
+  "leadVoice": "Male. Verses are whispered close to the microphone with a sneer. Choruses are a raw, distorted snarl with a gang of voices shouting the title. The last word is whispered.",
+  "model": "V6",
+  "style": "Mid-1990s industrial rock, male vocal with whispered sneering verses and raw distorted snarled choruses, gang of voices shouting the title, 145 BPM heavy swung shuffle, E-flat minor, lurching stomping march, floor toms and kick in a swinging stomp pattern, down-tuned distorted two-note guitar riff, fuzzed bass, buzzing synth drone, industrial metal hits, gated snare, dry abrasive loud mix, sarcastic, menacing, theatrical",
+  "negativeTags": "female lead vocals, clean pop vocals, acoustic guitar, rap, bright synth pop, jazz, soft ballad, funk",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: swinging tom stomp, two-note distorted riff]\n\n[Verse 1: whispered male voice]\nThere's a mark beside your name\nOr there isn't. That's the game.\nWe don't read the things you write\nWe just check the badge is right\n\n[Chorus: full band, snarled, gang shouts]\nThe verified, the verified\nStep this way, the rest outside\nLittle tick, a little blue\nWho let you in? It wasn't you\nThe verified\n\n[Verse 2: whispered, synth drone under]\nBought it, earned it, born with it\nNobody asks, we just admit\nEverybody in this room\nIs terrified of being you\n\n[Chorus: full band, snarled, gang shouts]\nThe verified, the verified\nStep this way, the rest outside\nLittle tick, a little blue\nWho let you in? It wasn't you\nThe verified\n\n[Bridge: stomp only, chanted]\nCheck, check, check the name\nCheck, check, check the name\n\n[Final Chorus: loudest, last line whispered]\nThe verified, the verified\nStep this way, the rest outside\nLittle tick, a little blue\nWho let you in? It wasn't you\nThe terrified\n\n[Outro: stomp stops, one breath]",
+  "taskId": "555fb63801bc722e9f54d0183ab93019",
+  "sunoClipIds": [
+    "b5aed351-ffe8-4de3-a275-5f39531e3121",
+    "b98c8b41-a307-46e2-b2d1-910be25b1aa7"
+  ],
+  "created": "Nov 17, 2026 7:43 AM ET",
+  "createTimeMs": 1794919398214,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "b5aed351-ffe8-4de3-a275-5f39531e3121",
+      "durationSec": 214.36,
+      "file": "darkelectro/de_07_the_verified_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "b98c8b41-a307-46e2-b2d1-910be25b1aa7",
+      "durationSec": 213.92,
+      "file": "darkelectro/de_07_the_verified_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_07_the_verified_req.json",
+    "darkelectro/de_07_the_verified_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_07_the_verified.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 145 BPM in a heavy swung shuffle, 4/4, E-flat minor. A lurching, stomping march.\n\nVOICE: Male. Verses are whispered close to the microphone with a sneer. Choruses are a raw, distorted snarl with a gang of voices shouting the title. The last word is whispered.\n\nINSTRUMENTS: Floor toms and kick playing a swinging stomp pattern, a down-tuned distorted guitar on a two-note riff, a fuzzed bass, a buzzing synth drone, industrial metal hits, a gated snare.\n\nARRANGEMENT MAP: 0:00 Intro, stomp and riff. 0:14 Verse 1, whispered. 0:40 Chorus 1. 1:06 Verse 2. 1:32 Chorus 2. 1:58 Bridge, chant. 2:20 Final chorus. 2:50 Outro, stop and a breath at 3:16.\n\nPRODUCTION & MIX: Mid-1990s industrial rock: dry, abrasive and loud, drums huge, whisper and scream both right at the front.\n\nSIGNATURE MOMENT: The last word changing to 'terrified' at 2:46.\n\nMODERN POINT OF VIEW: The original mocks the beautiful and strong. The current pecking order is a badge beside a name, and the people who hold it are the most afraid of losing it.\n\nEMOTIONAL ARC: Sneering, superior, exposed, afraid.",
+  "workbookAtAGlance": "The Verified\n\nBackup titles\nLittle Blue Tick / Who Let You In\n\nAt a glance\n145 BPM, E-flat minor\nVoice: Whispered verses, snarled chorus, male\nLength: about 3 minutes 20",
+  "qa": {
+    "title": "The Verified",
+    "id": "de_07",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending",
+          "peak 0.49 dBFS (1 clipped sample, inaudible)",
+          "lyric check partial: 36% of lines recognised (unclear: Verse 1, Bridge)"
+        ],
+        "durationSec": 214.4,
+        "measuredBpm": 143.6,
+        "bpmFactor": 1,
+        "targetBpm": 145,
+        "bpmErrPct": 1.0,
+        "lufs": -11.3,
+        "peakDbfs": 0.49,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 212.9,
+        "vocalCoverage": 0.475,
+        "vocalSpanSec": [
+          20.7,
+          197.1
+        ],
+        "vocalF0MedianHz": 638,
+        "vocalF0P25Hz": 325,
+        "lyricLineRecall": 0.364,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 213.9,
+        "measuredBpm": 143.6,
+        "bpmFactor": 1,
+        "targetBpm": 145,
+        "bpmErrPct": 1.0,
+        "lufs": -12.2,
+        "peakDbfs": -0.59,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.7,
+        "contentEndSec": 212.6,
+        "vocalCoverage": 0.606,
+        "vocalSpanSec": [
+          27.3,
+          198.8
+        ],
+        "vocalF0MedianHz": 753,
+        "vocalF0P25Hz": 420,
+        "lyricLineRecall": 0.682,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other",
+  "year": 1996
+}

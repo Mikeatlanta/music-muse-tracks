@@ -1,0 +1,116 @@
+{
+  "id": "de_27",
+  "title": "Signal for the Sleepless",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 27,
+  "slug": "de_27_signal_for_the_sleepless",
+  "inspiredBy": "Illusion (VNV Nation, 2007)",
+  "leadVoice": "Male, mid-range, plain and unshowy, with a slight Irish-English accent, sung gently and clearly. He grows stronger in the last chorus without shouting. No effects beyond reverb.",
+  "model": "V6",
+  "style": "Futurepop electronic ballad, plain unshowy mid-range male vocal with a slight Irish-English accent sung gently and clearly, growing stronger in the last chorus without shouting, 96 BPM, B-flat major, slow warm steadily rising hymn-like feel, warm analogue synth chords, soft sequenced pulse, mid-tempo electronic kick and snare, string section, piano in the bridge, choir pad at the end, clean wide warm mix, compassionate, hopeful, nocturnal",
+  "negativeTags": "female lead vocals, distorted guitars, screaming, rap, fast tempo, harsh noise, trap hi-hats, cheerful dance pop",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: slow synth chords, soft pulse, radio tuning]\n\n[Verse 1: plain kind male voice]\nIt's three, and the ceiling's all you've read\nEvery worst thing circling your head\nYou think the dark is yours alone\nYou think there's no one else at home\n\n[Chorus: chords rise, strings, steady beat]\nThis is a signal for the sleepless\nFor the ones still up tonight\nLook out, look out across the rooftops\nYou are not the only light\nI can't fix it, I can't hold you\nBut I'm awake, and so are they\nThis is a signal for the sleepless\nStay. Stay.\n\n[Verse 2: voice a little fuller]\nA nurse on a break, a kid with a screen\nA baker, a driver, a man who can't dream\nWindows lit like a second sky\nNobody knows the other's why\n\n[Chorus: chords rise, strings, steady beat]\nThis is a signal for the sleepless\nFor the ones still up tonight\nLook out, look out across the rooftops\nYou are not the only light\nI can't fix it, I can't hold you\nBut I'm awake, and so are they\nThis is a signal for the sleepless\nStay. Stay.\n\n[Bridge: beat drops out, piano and voice]\nMorning isn't far\nIt never has been\n\n[Final Chorus: full, choir pad, voice strongest]\nThis is a signal for the sleepless\nFor the ones still up tonight\nLook out, look out across the rooftops\nYou are not the only light\nI can't fix it, I can't hold you\nBut I'm awake, and so are they\nThis is a signal for the sleepless\nStay. Stay.\n\n[Outro: chords fade, first birds]",
+  "taskId": "daf4eef300b15694b75ffee6bd12037c",
+  "sunoClipIds": [
+    "b61c6351-ca58-4a21-a247-c9a5d3fc6050",
+    "a498bb13-b686-4060-a54f-fbae0ba07e45"
+  ],
+  "created": "Nov 17, 2026 7:44 AM ET",
+  "createTimeMs": 1794919468938,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "b61c6351-ca58-4a21-a247-c9a5d3fc6050",
+      "durationSec": 254.76,
+      "file": "darkelectro/de_27_signal_for_the_sleepless_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a498bb13-b686-4060-a54f-fbae0ba07e45",
+      "durationSec": 254.4,
+      "file": "darkelectro/de_27_signal_for_the_sleepless_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_27_signal_for_the_sleepless_req.json",
+    "darkelectro/de_27_signal_for_the_sleepless_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_27_signal_for_the_sleepless.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4, B-flat major. Slow, warm and steadily rising, an electronic hymn.\n\nVOICE: Male, mid-range, plain and unshowy, with a slight Irish-English accent, sung gently and clearly. He grows stronger in the last chorus without shouting. No effects beyond reverb.\n\nINSTRUMENTS: Warm analogue synth chords, a soft sequenced pulse, a mid-tempo electronic kick and snare, a string section, a piano in the bridge, a choir pad in the last chorus, a radio being tuned at the start, birdsong at the end.\n\nARRANGEMENT MAP: 0:00 Intro, chords and radio. 0:20 Verse 1. 0:52 Chorus 1. 1:32 Verse 2. 2:04 Chorus 2. 2:44 Bridge, piano. 3:00 Final chorus. 3:40 Outro, chords and birds, ends 3:58.\n\nPRODUCTION & MIX: Futurepop ballad: clean, wide and warm, synths soft-edged, voice clear and central.\n\nSIGNATURE MOMENT: 'You are not the only light' at 1:06.\n\nMODERN POINT OF VIEW: The original speaks to one person who feels out of place. This speaks to a whole city of people awake alone, each lit by a window, which is what three in the morning looks like now.\n\nEMOTIONAL ARC: Alone, noticed, accompanied, nearly morning.",
+  "workbookAtAGlance": "Signal for the Sleepless\n\nBackup titles\nThree A.M. Frequency / You Are Not the Only Light On\n\nAt a glance\n96 BPM, B-flat major\nVoice: Plain, kind male voice\nLength: about 4 minutes",
+  "qa": {
+    "title": "Signal for the Sleepless",
+    "id": "de_27",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.8,
+        "measuredBpm": 95.7,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 0.3,
+        "lufs": -13.4,
+        "peakDbfs": -0.88,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 253.4,
+        "vocalCoverage": 0.523,
+        "vocalSpanSec": [
+          14.3,
+          231.4
+        ],
+        "vocalF0MedianHz": 157,
+        "vocalF0P25Hz": 146,
+        "lyricLineRecall": 0.903,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.4,
+        "measuredBpm": 99.4,
+        "bpmFactor": 1,
+        "targetBpm": 96,
+        "bpmErrPct": 3.5,
+        "lufs": -13.6,
+        "peakDbfs": -1.1,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 253.0,
+        "vocalCoverage": 0.602,
+        "vocalSpanSec": [
+          19.4,
+          224.7
+        ],
+        "vocalF0MedianHz": 230,
+        "vocalF0P25Hz": 150,
+        "lyricLineRecall": 0.806,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other",
+  "year": 2007
+}

@@ -2,6 +2,47 @@
  "note": "Site layout for build_fast.py. sections: order = nav/page order; songs whose collection matches a section are added to it (new ones after the listed order). cards: per-song display overrides; new songs can omit them.",
  "sections": [
   {
+   "id": "darkelectro",
+   "nav": "⚡ Dark Electro Reimagined",
+   "title": "⚡ Dark Electro Reimagined",
+   "blurb": "Thirty new songs in the line of EBM, industrial, darksynth and vocoder electro, each built on the hook mechanics of a well-known record and aimed at the machines people actually live with now. All original lyrics.",
+   "collections": [
+    "darkelectro"
+   ],
+   "order": [
+    "de_01_blue_light_hours",
+    "de_02_ich_stimme_zu",
+    "de_03_seen_at_9_41",
+    "de_04_night_mode",
+    "de_05_night_shift_day_shift",
+    "de_06_your_call_is_important",
+    "de_07_the_verified",
+    "de_08_root_access",
+    "de_09_noise_cancelling",
+    "de_10_prove_youre_human",
+    "de_11_ozone",
+    "de_12_do_not_turn_off",
+    "de_13_procedure",
+    "de_14_antifreeze",
+    "de_15_feed",
+    "de_16_opening_credits",
+    "de_17_twenty_four_hours",
+    "de_18_tanz_den_montag",
+    "de_19_brand_awareness",
+    "de_20_lanyard_parade",
+    "de_21_still_in_black",
+    "de_22_reps",
+    "de_23_last_bus_no_brakes",
+    "de_24_motion_sensor",
+    "de_25_convoyeur",
+    "de_26_arcade_after_hours",
+    "de_27_signal_for_the_sleepless",
+    "de_28_autocorrect_me",
+    "de_29_overnight_update",
+    "de_30_void_your_warranty"
+   ]
+  },
+  {
    "id": "choirhiphop",
    "nav": "🙌 Choir Hip-Hop Reimagined",
    "title": "🙌 Choir Hip-Hop Reimagined",

@@ -1,0 +1,131 @@
+{
+  "id": "de_18",
+  "title": "Tanz den Montag",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 18,
+  "slug": "de_18_tanz_den_montag",
+  "inspiredBy": "Der Mussolini (DAF, 1981)",
+  "leadVoice": "Male, German, shouted and commanding with a lot of breath, like a gym instructor with a sense of humour. A gang shouts the chorus lines. The weekdays are whispered in the break.",
+  "model": "V6",
+  "style": "1981 German new wave and proto-EBM, shouted commanding male vocal in German with a lot of breath, gang shouting the chorus lines, whispered words in the break, 126 BPM, A minor, raw pounding physical feel, single buzzing analogue sequencer riff that never changes, live drum kit hit hard with four-on-the-floor kick and open hi-hats, handclaps, nothing else, brutally simple dry live mix, sarcastic, energetic, commanding",
+  "negativeTags": "female lead vocals, English lyrics, guitars, melodic pop, rap, orchestral strings, soft ballad, lush pads",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: one pounding sequencer riff, live drums crash in]\n\n[Verse 1: shouted male voice, German]\nSteh auf, steh auf\nMach das Licht an\nBeweg die Füße\nUnd tanz den Montag\n\n[Chorus: riff and drums, gang shout]\nTanz den Montag!\nTanz den Kalender!\nTanz den Wecker!\nUnd klatsch in die Hände!\n\n[Verse 2: shouted, drums harder]\nDreh dich nach links\nDreh dich nach rechts\nTanz die Deadline\nTanz den Rest\n\n[Chorus: riff and drums, gang shout]\nTanz den Montag!\nTanz den Kalender!\nTanz den Wecker!\nUnd klatsch in die Hände!\n\n[Break: drums only, whispered]\nMontag. Dienstag. Mittwoch.\nDonnerstag. Freitag.\n\n[Final Chorus: fastest feel, everyone]\nTanz den Montag!\nTanz den Kalender!\nTanz den Freitag!\nUnd geh nach Hause!\n\n[Outro: riff stops, one drum hit, an alarm clock]",
+  "taskId": "0b62ec379420ea03ec9ad43cdbc0c2e2",
+  "sunoClipIds": [
+    "1c79e2b0-1b6a-4fbb-b002-d323bb7528d2",
+    "fe0afaac-1542-4216-8917-cb7e265fce58"
+  ],
+  "created": "Nov 17, 2026 7:44 AM ET",
+  "createTimeMs": 1794919440809,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "1c79e2b0-1b6a-4fbb-b002-d323bb7528d2",
+      "durationSec": 194.8,
+      "file": "darkelectro/de_18_tanz_den_montag_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "fe0afaac-1542-4216-8917-cb7e265fce58",
+      "durationSec": 195.0,
+      "file": "darkelectro/de_18_tanz_den_montag_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_18_tanz_den_montag_req.json",
+    "darkelectro/de_18_tanz_den_montag_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_18_tanz_den_montag.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 126 BPM, 4/4, A minor. Raw, pounding and physical: one riff and a drummer.\n\nVOICE: Male, German, shouted and commanding with a lot of breath, like a gym instructor with a sense of humour. A gang shouts the chorus lines. The weekdays are whispered in the break.\n\nINSTRUMENTS: A single buzzing analogue sequencer riff that never changes, a live drum kit hit hard with a simple four-on-the-floor pattern and open hi-hats, handclaps, nothing else until an alarm clock at the end.\n\nARRANGEMENT MAP: 0:00 Intro, riff then drums. 0:14 Verse 1. 0:34 Chorus 1. 0:56 Verse 2. 1:16 Chorus 2. 1:38 Break, drums and whispered days. 1:58 Final chorus. 2:28 Outro, stop, a drum hit and an alarm at 2:52.\n\nPRODUCTION & MIX: 1981 German new wave: brutally simple, dry and live, sequencer and drums in a bare room, voice loud.\n\nSIGNATURE MOMENT: The first gang shout of 'Tanz den Montag!' at 0:34.\n\nMODERN POINT OF VIEW: The original cuts dictators down to dance steps. The tyrants in most people's lives now are the alarm, the calendar and the deadline, so those are the ones made to dance. Translation: dance the Monday, the calendar, the alarm clock, and clap your hands.\n\nEMOTIONAL ARC: Ordered up, moving, laughing, sent home.",
+  "workbookAtAGlance": "Tanz den Montag\n\nBackup titles\nDance the Monday / Klatsch in die Hände\n\nAt a glance\n126 BPM, A minor\nVoice: Shouted male voice, German\nLength: about 3 minutes",
+  "qa": {
+    "title": "Tanz den Montag",
+    "id": "de_18",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)",
+          "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2, Break, Final Chorus)"
+        ],
+        "durationSec": 194.8,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 2.3,
+        "lufs": -12.7,
+        "peakDbfs": -0.71,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.2,
+        "contentEndSec": 194.6,
+        "vocalCoverage": 0.412,
+        "vocalSpanSec": [
+          0.1,
+          194.7
+        ],
+        "vocalF0MedianHz": 781,
+        "vocalF0P25Hz": 424,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Chorus",
+          "Verse 2",
+          "Break",
+          "Final Chorus"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2, Break, Final Chorus)"
+        ],
+        "durationSec": 195.0,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 2.5,
+        "lufs": -12.8,
+        "peakDbfs": -0.73,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.4,
+        "contentEndSec": 194.7,
+        "vocalCoverage": 0.323,
+        "vocalSpanSec": [
+          7.7,
+          193.8
+        ],
+        "vocalF0MedianHz": 671,
+        "vocalF0P25Hz": 431,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Chorus",
+          "Verse 2",
+          "Break",
+          "Final Chorus"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "EBM",
+  "year": 1981
+}

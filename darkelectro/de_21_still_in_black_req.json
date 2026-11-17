@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Still in Black",
+  "prompt": "[Intro: bouncing synth bass, drum machine, record scratch]\n\n[Verse 1: dry male voice with an edge]\nSchool gate, half past three\nSame boots since eighty-three\nSomebody's mother looks me up and down\nI nod. I've been around.\n\n[Chorus: synth brass stabs, voices answering]\nI'm still in black (still in black)\nIt was never a phase\nStill in black (still in black)\nThirty-five years of the same old ways\nYou had your fun and you put it back\nI'm still in black\n\n[Verse 2: voice warmer, bass bouncing]\nKid runs out with a drawing in her hand\nIt's me, with a bat, and a marching band\nShe says, \"Dad, you're the only one like this.\"\nI say, \"I know.\" She gives me a kiss.\n\n[Chorus: synth brass stabs, voices answering]\nI'm still in black (still in black)\nIt was never a phase\nStill in black (still in black)\nThirty-five years of the same old ways\nYou had your fun and you put it back\nI'm still in black\n\n[Bridge: drums and scratches only, spoken]\nEyeliner's harder with reading glasses.\nWorth it.\n\n[Final Chorus: full, with a child's voice on the answers]\nI'm still in black (still in black)\nIt was never a phase\nStill in black (still in black)\nThirty-five years of the same old ways\nYou had your fun and you put it back\nI'm still in black\n\n[Outro: bass riff, boots on pavement, a small laugh]",
+  "style": "1984 dark synth-pop club track, dry slightly nasal male vocal with a put-on English edge half-sung and half-spoken, voices answering the title line, a child singing the answers in the last chorus, dry spoken aside in the bridge, 118 BPM, E minor, bouncy dark danceable feel, bouncing analogue synth bass riff, drum machine with big clap and cowbell, synth-brass stabs, record scratches, string-machine pad, bell-like lead, punchy dry mix, defiant, wry, affectionate",
+  "negativeTags": "female lead vocals, metal guitars, rap, live drums, orchestral strings, acoustic ballad, trap hi-hats, screaming",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Opening Credits",
+  "prompt": "[Intro: ominous brass fanfare, timpani, choir stab]\n\n[Section A: distorted funk bassline enters, slow heavy kick]\n\n[Section B: bass riff doubled by sawtooth synth, handclaps]\n\n[Break: fanfare returns, one spoken line in French, male]\nUn film de personne.\n\n[Section C: full groove, string stabs, slap bass fills]\n\n[Breakdown: kick and filtered bass only]\n\n[Section D: everything, choir on top, biggest]\n\n[Outro: last brass chord, a film projector running down]",
+  "style": "2007 French cinematic electro instrumental, no sung vocals, one flat spoken French line by a deep male voice, sampled choir stabs, 116 BPM, C minor, slow swaggering menacing electro-funk, ominous brass fanfare with timpani as the intro, heavily distorted compressed funk bass riff doubled by sawtooth synth, slow heavy kick with cracking snare, handclaps, string stabs, slap-bass fills, brutally compressed distorted mix, cinematic, powerful, dark",
+  "negativeTags": "sung lyrics, rap, acoustic guitar, soft ballad, bright pop, jazz, country, cheerful mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

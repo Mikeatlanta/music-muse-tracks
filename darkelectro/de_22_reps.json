@@ -1,0 +1,125 @@
+{
+  "id": "de_22",
+  "title": "Reps",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 22,
+  "slug": "de_22_reps",
+  "inspiredBy": "Join in the Chant (Nitzer Ebb, 1987)",
+  "leadVoice": "Male, English, shouted from the chest in single words, hoarse and urgent. A second man answers. A crowd joins later. Counted numbers in the breaks. No singing.",
+  "model": "V6",
+  "style": "1987 English EBM, male vocal shouted from the chest in single words, hoarse and urgent, a second man answering, crowd joining later, counted numbers in the breaks, no singing, 128 BPM, D minor, stark pounding muscular feel with almost no harmony, hard four-on-the-floor kick, struck scrap-metal percussion, single syncopated analogue bass sequence, cracking snare, tom pattern, minimal dry brutally loud mix, physical, urgent, disciplined",
+  "negativeTags": "female lead vocals, melodic singing, guitars, pads, rap, orchestral strings, soft ballad, bright pop",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: pounding kick, struck metal, one bass sequence]\n\n[Chant 1: shouted male voice, single words]\nSweat! Sweat!\nSteel! Steel!\nBreath! Breath!\nAgain! Again!\n\n[Chant 2: second voice answering]\nLift it! (Lift it!)\nHold it! (Hold it!)\nLower! (Lower!)\nAgain! (Again!)\n\n[Break: metal percussion only, counted]\nOne. Two. Three. Four.\nFive. Six. Seven. Eight.\n\n[Chant 3: both voices, bass doubled]\nSweat! Sweat!\nSteel! Steel!\nBreath! Breath!\nAgain! Again!\n\n[Chant 4: crowd joining]\nReps! Reps! Reps! Reps!\nOne more! One more!\nReps! Reps! Reps! Reps!\nOne more!\n\n[Break: kick only, gasped]\nNine. Ten.\n\n[Final Chant: everyone, loudest]\nSweat! Steel! Breath! Again!\nSweat! Steel! Breath! Again!\nDone.\n\n[Outro: a weight set down, hard breathing]",
+  "taskId": "701c444d7e37ee20f2d8a300ac3deb17",
+  "sunoClipIds": [
+    "cea103ee-2ae1-4123-817c-5ffdbf937281",
+    "c8f60715-4537-4bcd-b259-be7a4642dacb"
+  ],
+  "created": "Nov 17, 2026 7:43 AM ET",
+  "createTimeMs": 1794919434515,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "cea103ee-2ae1-4123-817c-5ffdbf937281",
+      "durationSec": 192.76,
+      "file": "darkelectro/de_22_reps_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c8f60715-4537-4bcd-b259-be7a4642dacb",
+      "durationSec": 194.72,
+      "file": "darkelectro/de_22_reps_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_22_reps_req.json",
+    "darkelectro/de_22_reps_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_22_reps.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 128 BPM, 4/4, D minor. Stark, pounding and muscular, with no harmony to speak of.\n\nVOICE: Male, English, shouted from the chest in single words, hoarse and urgent. A second man answers. A crowd joins later. Counted numbers in the breaks. No singing.\n\nINSTRUMENTS: A hard four-on-the-floor kick, struck scrap-metal percussion, a single syncopated analogue bass sequence, a cracking snare on two and four, a tom pattern in the breaks, the clank of a weight at the end.\n\nARRANGEMENT MAP: 0:00 Intro, kick, metal and bass. 0:14 Chant 1. 0:36 Chant 2. 0:58 Break, counting. 1:14 Chant 3. 1:36 Chant 4, crowd. 1:58 Break, 'Nine. Ten.' 2:06 Final chant. 2:36 Outro, weight down and breathing, ends 2:56.\n\nPRODUCTION & MIX: 1987 English EBM: minimal, dry and brutally loud, drums and one sequence, voice shouted in a hard room.\n\nSIGNATURE MOMENT: The gasped 'Nine. Ten.' at 1:58.\n\nMODERN POINT OF VIEW: The original borrows the sound of political slogans and empties them. This fills the same shape with the one mass movement most people joined later in life: counting repetitions.\n\nEMOTIONAL ARC: Straining, driven, failing, done.",
+  "workbookAtAGlance": "Reps\n\nBackup titles\nSweat, Steel, Breath, Again / One More\n\nAt a glance\n128 BPM, D minor\nVoice: Shouted male voice, single words\nLength: about 3 minutes",
+  "qa": {
+    "title": "Reps",
+    "id": "de_22",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "ending cut at the length limit (last chord clipped)",
+          "lyric check weak: only 22% of lines recognised (unclear: Chant 2, Final Chant)"
+        ],
+        "durationSec": 192.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 128,
+        "bpmErrPct": 0.9,
+        "lufs": -13.4,
+        "peakDbfs": -0.59,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.0,
+        "contentEndSec": 192.7,
+        "vocalCoverage": 0.403,
+        "vocalSpanSec": [
+          8.1,
+          163.3
+        ],
+        "vocalF0MedianHz": 816,
+        "vocalF0P25Hz": 717,
+        "lyricLineRecall": 0.222,
+        "lyricUnclearSections": [
+          "Chant 2",
+          "Final Chant"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 22% of lines recognised (unclear: Chant 4, Final Chant)"
+        ],
+        "durationSec": 194.7,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 128,
+        "bpmErrPct": 0.9,
+        "lufs": -13.5,
+        "peakDbfs": -2.09,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.0,
+        "contentEndSec": 193.0,
+        "vocalCoverage": 0.343,
+        "vocalSpanSec": [
+          11.3,
+          192.2
+        ],
+        "vocalF0MedianHz": 786,
+        "vocalF0P25Hz": 450,
+        "lyricLineRecall": 0.222,
+        "lyricUnclearSections": [
+          "Chant 4",
+          "Final Chant"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "EBM",
+  "year": 1987
+}

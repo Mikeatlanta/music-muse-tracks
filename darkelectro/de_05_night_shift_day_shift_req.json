@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Night Shift, Day Shift",
+  "prompt": "[Intro: filtered funk bassline, drum machine]\n\n[Section 1: vocoder voice enters, bass opens]\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\n\n[Section 2: synth melody added, handclaps]\nNight shift, day shift\nNight shift, day shift\n\n[Breakdown: bass and voice only]\nNight shift\nDay shift\n\n[Section 3: full groove, second vocoder harmony]\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\n\n[Breakdown: drums drop, one line different]\nNight shift, day shift\nNever clocking out\n\n[Section 4: everything in, filter wide open]\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\n\n[Outro: parts leave one at a time, bass last]",
+  "style": "1997 French house with a darker factory tone, no natural voice, one phrase spoken-sung through a vocoder in a robotic monotone and repeated throughout, second robotic harmony later, 121 BPM, E minor, tight hypnotic groove, rubbery busy funk bass guitar, dry four-on-the-floor drum machine with crisp hi-hat, filtered analogue synth line, handclaps, wide filter sweeps, parts entering and leaving one at a time, dry punchy looped mix, robotic, funky, relentless",
+  "negativeTags": "natural sung vocals, guitars, rap, live drums, orchestral strings, slow ballad, female lead vocals, trap hi-hats",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

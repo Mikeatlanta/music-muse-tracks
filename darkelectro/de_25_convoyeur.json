@@ -1,0 +1,114 @@
+{
+  "id": "de_25",
+  "title": "Convoyeur",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 25,
+  "slug": "de_25_convoyeur",
+  "inspiredBy": "Pursuit (Gesaffelstein, 2013)",
+  "leadVoice": "Instrumental. A man's voice whispers one French word four times, very close and dry, with no effect.",
+  "model": "V6",
+  "style": "2013 French dark techno instrumental, no sung vocals, a man whispering one French word very close and dry, 125 BPM, G minor, relentless precise cold marching pulse, hard dry four-on-the-floor kick, snarling distorted monosynth bass pulse, sharp metallic stabs like struck steel, siren-like gliding lead, tight closed hi-hat, snare rolls, machine hum, extremely dry sharp loud mix with no reverb, menacing, elegant, industrial",
+  "negativeTags": "sung lyrics, rap, guitars, warm pads, bright pop, acoustic instruments, jazz, cheerful mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: one metallic hit, low machine hum]\n\n[Section A: dry techno kick, snarling bass pulse]\n\n[Whisper: male voice, French, close]\nEncore.\n\n[Section B: metallic stabs on the off-beat, hi-hat]\n\n[Section C: siren lead rising and falling]\n\n[Break: kick drops out, belt motor, whisper]\nEncore. Encore.\n\n[Section D: full pulse, stabs doubled, snare rolls]\n\n[Section E: siren lead and bass together, most intense]\n\n[Whisper: same voice, slower]\nEncore.\n\n[Outro: motor winds down, one last metallic hit]",
+  "taskId": "458831f27114dfd1182ff9c0c68ae375",
+  "sunoClipIds": [
+    "44181f3b-1241-4b20-9d0e-cd299fba0cff",
+    "1ee41d5d-5769-4a77-b28f-2a515f2317d2"
+  ],
+  "created": "Nov 17, 2026 7:44 AM ET",
+  "createTimeMs": 1794919458418,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "44181f3b-1241-4b20-9d0e-cd299fba0cff",
+      "durationSec": 214.8,
+      "file": "darkelectro/de_25_convoyeur_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "1ee41d5d-5769-4a77-b28f-2a515f2317d2",
+      "durationSec": 214.0,
+      "file": "darkelectro/de_25_convoyeur_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_25_convoyeur_req.json",
+    "darkelectro/de_25_convoyeur_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_25_convoyeur.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 125 BPM, 4/4, G minor. Relentless, precise and cold techno at a marching tempo.\n\nVOICE: Instrumental. A man's voice whispers one French word four times, very close and dry, with no effect.\n\nINSTRUMENTS: A hard, dry four-on-the-floor kick, a snarling, distorted monosynth bass pulse, sharp metallic stabs like struck steel, a siren-like lead that glides up and down, a tight closed hi-hat, snare rolls, a conveyor motor and machine hum.\n\nARRANGEMENT MAP: 0:00 Intro, a hit and hum. 0:10 Section A. 0:30 First whisper. 0:34 Section B. 1:00 Section C, siren. 1:28 Break, motor and whispers. 1:44 Section D. 2:14 Section E, most intense. 2:48 Whisper. 2:54 Outro, motor winds down, last hit at 3:16.\n\nPRODUCTION & MIX: 2013 French dark techno: extremely dry and sharp, no reverb, every sound separate, loud and black.\n\nSIGNATURE MOMENT: The kick returning after the break at 1:44.\n\nMODERN POINT OF VIEW: The original is pure menace with no setting. This gives it one: a warehouse that runs all night with no people in it, and a single human word left over.\n\nEMOTIONAL ARC: Cold, driven, paused, driven harder.",
+  "workbookAtAGlance": "Convoyeur\n\nBackup titles\nEncore / The Belt Does Not Stop\n\nAt a glance\n125 BPM, G minor\nVoice: Instrumental, with whispered French words\nLength: about 3 minutes 20",
+  "qa": {
+    "title": "Convoyeur",
+    "id": "de_25",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 125,
+        "bpmErrPct": 3.4,
+        "lufs": -11.7,
+        "peakDbfs": -0.63,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 213.0,
+        "vocalCoverage": 0.028,
+        "vocalSpanSec": [
+          33.9,
+          159.2
+        ],
+        "vocalF0MedianHz": 622,
+        "vocalF0P25Hz": 594,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.0,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 125,
+        "bpmErrPct": 3.4,
+        "lufs": -11.5,
+        "peakDbfs": -0.18,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 213.9,
+        "vocalCoverage": 0.097,
+        "vocalSpanSec": [
+          26.9,
+          213.1
+        ],
+        "vocalF0MedianHz": 376,
+        "vocalF0P25Hz": 234,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Techno",
+  "year": 2013
+}

@@ -1,0 +1,118 @@
+{
+  "id": "de_24",
+  "title": "Motion Sensor",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 24,
+  "slug": "de_24_motion_sensor",
+  "inspiredBy": "Pain (Boy Harsher, 2014)",
+  "leadVoice": "Female, low and breathy, whispered and half-gasped with long pauses, very close to the microphone. Doubled in the choruses. A second voice echoes from far away near the end.",
+  "model": "V6",
+  "style": "Minimal wave and dark electro, low breathy female vocal whispered and half-gasped with long pauses very close to the microphone, doubled in the choruses, 118 BPM, F minor, minimal pulsing tense feel, pulsing sixteenth-note analogue synth bass, dry vintage drum machine with snappy snare, ticking hi-hat, one cold pad chord, thin detuned lead line, dry stark analogue mix, eerie, sensual, lonely",
+  "negativeTags": "male lead vocals, belting, guitars, rap, bright pop chorus, live drums, orchestral strings, cheerful mood",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: pulsing synth bass, dry drum machine]\n\n[Verse 1: breathy female voice, close]\nLight comes on\nIn the hall\nI didn't move\nI didn't move at all\n\n[Chorus: voice doubled, cold pad]\nMotion, motion\nSensor\nSomething moved\nMotion\n\n[Verse 2: whispering, hi-hat ticking]\nStand so still\nCount to ten\nIt goes dark\nI move again\n\n[Chorus: voice doubled, cold pad]\nMotion, motion\nSensor\nSomething moved\nMotion\n\n[Instrumental: detuned lead line over the bass]\n\n[Bridge: bass only, gasped]\nSee me. See me.\nIs it you? See me.\n\n[Final Chorus: fuller, a second voice far back]\nMotion, motion\nSensor\nSomething moved\nMotion\n\n[Outro: bass stops, a relay clicks, dark]",
+  "taskId": "f0e63e500f8bb13851850b03c2ee3641",
+  "sunoClipIds": [
+    "9f4ce0d3-e45e-49b2-bbf1-af58f43fa35e",
+    "de85e126-f8c3-468e-9ed2-4e0b70bba482"
+  ],
+  "created": "Nov 17, 2026 7:44 AM ET",
+  "createTimeMs": 1794919441199,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "9f4ce0d3-e45e-49b2-bbf1-af58f43fa35e",
+      "durationSec": 224.0,
+      "file": "darkelectro/de_24_motion_sensor_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "de85e126-f8c3-468e-9ed2-4e0b70bba482",
+      "durationSec": 223.56,
+      "file": "darkelectro/de_24_motion_sensor_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_24_motion_sensor_req.json",
+    "darkelectro/de_24_motion_sensor_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_24_motion_sensor.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, F minor. Minimal, pulsing and tense, built from very few parts.\n\nVOICE: Female, low and breathy, whispered and half-gasped with long pauses, very close to the microphone. Doubled in the choruses. A second voice echoes from far away near the end.\n\nINSTRUMENTS: A pulsing sixteenth-note analogue synth bass, a dry vintage drum machine with a snappy snare, a ticking hi-hat, one cold pad chord, a thin detuned lead line, a click of a relay at the end.\n\nARRANGEMENT MAP: 0:00 Intro, bass and drums. 0:20 Verse 1. 0:44 Chorus 1. 1:04 Verse 2. 1:28 Chorus 2. 1:48 Instrumental. 2:12 Bridge, gasped. 2:32 Final chorus. 2:58 Outro, bass stops, a click at 3:24.\n\nPRODUCTION & MIX: Minimal wave and dark electro: dry, mono-ish and stark, analogue gear with no decoration, voice breathing in the listener's ear.\n\nSIGNATURE MOMENT: 'I didn't move. I didn't move at all.' at 0:32.\n\nMODERN POINT OF VIEW: The original repeats a word for what a person feels. This house reacts to movement by itself, and the woman in it is no longer sure whether she is alone or only undetected.\n\nEMOTIONAL ARC: Startled, still, wanting, dark.",
+  "workbookAtAGlance": "Motion Sensor\n\nBackup titles\nThe Light Comes On / Nobody There\n\nAt a glance\n118 BPM, F minor\nVoice: Breathy, whispering female voice\nLength: about 3 minutes 30",
+  "qa": {
+    "title": "Motion Sensor",
+    "id": "de_24",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.0,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 0.5,
+        "lufs": -13.4,
+        "peakDbfs": -1.92,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.2,
+        "contentEndSec": 222.0,
+        "vocalCoverage": 0.251,
+        "vocalSpanSec": [
+          24.4,
+          210.8
+        ],
+        "vocalF0MedianHz": 265,
+        "vocalF0P25Hz": 231,
+        "lyricLineRecall": 0.6,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 30% of lines recognised (unclear: Bridge)"
+        ],
+        "durationSec": 223.6,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 0.5,
+        "lufs": -13.6,
+        "peakDbfs": -1.38,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 220.4,
+        "vocalCoverage": 0.375,
+        "vocalSpanSec": [
+          19.6,
+          218.6
+        ],
+        "vocalF0MedianHz": 269,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.3,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Dark Electro",
+  "year": 2014
+}

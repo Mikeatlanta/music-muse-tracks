@@ -1,0 +1,121 @@
+{
+  "id": "de_28",
+  "title": "Autocorrect Me",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 28,
+  "slug": "de_28_autocorrect_me",
+  "inspiredBy": "Assimilate (Skinny Puppy, 1985)",
+  "leadVoice": "Male, heavily distorted into a dry rasp, delivered in short fragments, barked in the choruses and glitching apart near the end. A clean synthetic voice makes three suggestions in the breakdown. The final line is his own voice with no effect.",
+  "model": "V6",
+  "style": "1985 industrial dance, male vocal heavily distorted into a dry rasp delivered in short fragments and barked in the choruses, glitching apart near the end, a clean synthetic voice in the breakdown, final line undistorted, 124 BPM, C minor, jerking harsh danceable feel, hard syncopated analogue sequencer line, drum machine with metallic snare, sampled metal hits, low drone, bursts of static, detuned sliding lead, tape-stutter effects, raw lo-fi abrasive mix, disturbing, tense, defiant",
+  "negativeTags": "female lead vocals, clean pop singing, acoustic guitar, rap, bright major chords, orchestral strings, soft ballad, funk",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: jerking sequencer line, drum machine, static]\n\n[Verse 1: distorted rasping male voice, fragments]\nI typed a word\nIt gave me another\nI said a thing\nIt sounded like my brother\n\n[Chorus: barked, metallic hits]\nAutocorrect me\nDid you mean, did you mean\nAutocorrect me\nSmooth and clean\nTake the edges, take the spelling\nAutocorrect me\n\n[Verse 2: voice breaking up, sequencer doubling]\nMy name comes back\nUnderlined in red\nThe right one's what it gives me\nThe wrong one's in my head\n\n[Chorus: barked, metallic hits]\nAutocorrect me\nDid you mean, did you mean\nAutocorrect me\nSmooth and clean\nTake the edges, take the spelling\nAutocorrect me\n\n[Breakdown: sequencer alone, clean synthetic voice]\nDid you mean: yes.\nDid you mean: fine.\nDid you mean: yes.\n\n[Final Chorus: harshest, voice glitching, last line clean]\nAutocorrect me\nDid you mean, did you mean\nAutocorrect me\nSmooth and clean\nTake the edges, take the spelling\nNo. I meant what I said.\n\n[Outro: sequencer stutters, static, stops]",
+  "taskId": "74180125da9435f4d350884f035571bb",
+  "sunoClipIds": [
+    "fee98da6-e6bc-43f3-998e-8558067521ef",
+    "14987b54-0f29-4436-9282-8485f3d94402"
+  ],
+  "created": "Nov 17, 2026 7:44 AM ET",
+  "createTimeMs": 1794919476412,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "fee98da6-e6bc-43f3-998e-8558067521ef",
+      "durationSec": 214.68,
+      "file": "darkelectro/de_28_autocorrect_me_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "14987b54-0f29-4436-9282-8485f3d94402",
+      "durationSec": 214.76,
+      "file": "darkelectro/de_28_autocorrect_me_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_28_autocorrect_me_req.json",
+    "darkelectro/de_28_autocorrect_me_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_28_autocorrect_me.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, C minor. Jerking, harsh and danceable, like a machine with a limp.\n\nVOICE: Male, heavily distorted into a dry rasp, delivered in short fragments, barked in the choruses and glitching apart near the end. A clean synthetic voice makes three suggestions in the breakdown. The final line is his own voice with no effect.\n\nINSTRUMENTS: A hard, syncopated analogue sequencer line, a drum machine with a metallic snare, sampled metal hits, a low drone, bursts of static, a detuned lead that slides between notes, tape-stutter effects.\n\nARRANGEMENT MAP: 0:00 Intro, sequencer and static. 0:16 Verse 1. 0:40 Chorus 1. 1:04 Verse 2. 1:28 Chorus 2. 1:52 Breakdown, the clean voice. 2:14 Final chorus, ending clean. 2:48 Outro, stutter and stop at 3:16.\n\nPRODUCTION & MIX: 1985 industrial: raw, lo-fi and abrasive, cheap samplers and analogue sequencers, the voice more texture than words.\n\nSIGNATURE MOMENT: The undistorted 'No. I meant what I said.' at 2:42.\n\nMODERN POINT OF VIEW: The original's order to conform comes from outside and above. Now it arrives as a helpful suggestion under every word a person types, and resisting means insisting on a mistake.\n\nEMOTIONAL ARC: Confused, eroded, nearly erased, himself.",
+  "workbookAtAGlance": "Autocorrect Me\n\nBackup titles\nDid You Mean / It Fixes What I Meant\n\nAt a glance\n124 BPM, C minor\nVoice: Distorted, rasping male voice\nLength: about 3 minutes 20",
+  "qa": {
+    "title": "Autocorrect Me",
+    "id": "de_28",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.21 dBFS (5 clipped sample, inaudible)"
+        ],
+        "durationSec": 214.7,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 4.2,
+        "lufs": -11.9,
+        "peakDbfs": 0.21,
+        "clipSamples": 5,
+        "midGaps": [],
+        "endFadeSec": 0.2,
+        "contentEndSec": 213.8,
+        "vocalCoverage": 0.477,
+        "vocalSpanSec": [
+          32.8,
+          192.8
+        ],
+        "vocalF0MedianHz": 433,
+        "vocalF0P25Hz": 257,
+        "lyricLineRecall": 0.667,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 43% of lines recognised (unclear: Verse 1, Verse 2)"
+        ],
+        "durationSec": 214.8,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 0.8,
+        "lufs": -11.9,
+        "peakDbfs": -1.27,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 214.2,
+        "vocalCoverage": 0.454,
+        "vocalSpanSec": [
+          29.2,
+          203.1
+        ],
+        "vocalF0MedianHz": 467,
+        "vocalF0P25Hz": 242,
+        "lyricLineRecall": 0.429,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Verse 2"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other",
+  "year": 1985
+}

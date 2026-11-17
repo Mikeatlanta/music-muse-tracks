@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Void Your Warranty",
+  "prompt": "[Intro: pounding distorted kick, buzzing bass, warning beep]\n\n[Verse 1: distorted male shout]\nDo not open\nDo not look inside\nNo user-serviceable parts\nDo not even try\n\n[Chorus: full beat, gang shout]\nThis will void your warranty!\nThis will void your warranty!\nBreak the seal and you are on your own\nThis will void your warranty!\n\n[Verse 2: shout, synth screeching]\nTwelve small screws\nOne you cannot find\nA sticker says they'll know\nA sticker reads your mind\n\n[Chorus: full beat, gang shout]\nThis will void your warranty!\nThis will void your warranty!\nBreak the seal and you are on your own\nThis will void your warranty!\n\n[Breakdown: kick only, calm spoken voice]\nPlease contact an authorized service center.\n\n[Final Chorus: loudest, screamed]\nThis will void your warranty!\nI will void my warranty!\nI broke the seal and I am on my own\nI voided my warranty!\n\n[Outro: beat stops, a screwdriver dropped, \"It works.\"]",
+  "style": "2005 aggrotech and harsh EBM, male vocal shouted and screamed through heavy megaphone-like distortion, gang shouting the chorus, one calm clean corporate voice in the breakdown, 135 BPM, F minor, pounding harsh relentless club feel, heavily distorted four-on-the-floor kick, buzzing sawtooth off-beat bass, screeching lead synths, hard clap, noise sweeps, alarm-like warning beep, everything distorted and compressed to the limit, furious, absurd, cathartic",
+  "negativeTags": "female lead vocals, clean melodic singing, acoustic guitar, rap, orchestral strings, soft ballad, jazz, bright pop",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

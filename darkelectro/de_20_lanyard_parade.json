@@ -1,0 +1,114 @@
+{
+  "id": "de_20",
+  "title": "Lanyard Parade",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 20,
+  "slug": "de_20_lanyard_parade",
+  "inspiredBy": "Military Fashion Show (And One, 2006)",
+  "leadVoice": "Male baritone, deep, smooth and accented, sung with a straight face. A group of men shouts the title and repeats the commands in the bridge.",
+  "model": "V6",
+  "style": "Mid-2000s synth-pop EBM, deep smooth accented male baritone sung with a straight face, group of men shouting the title and repeating commands in the bridge, 128 BPM, A minor with a key change up for the final chorus, bright bouncing march, staccato analogue synth riff, sequenced sixteenth-note bass, four-on-the-floor kick with military snare pattern, bright synth-brass chords, whistle, handclaps, clean punchy bright mix, ironic, catchy, marching",
+  "negativeTags": "female lead vocals, distorted metal guitars, rap, acoustic instruments, slow ballad, jazz, trap hi-hats, screaming",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bouncing synth riff, marching snare, whistle blast]\n\n[Verse 1: deep male baritone, ironic]\nEight o'clock, the doors divide\nLeft, right, coffee, stride\nNavy fleece and zip to chin\nTap the card and you are in\n\n[Chorus: full beat, group shout on the title]\nLanyard parade\nBadges swinging in the sun\nLanyard parade\nEverybody, everyone\nPresent arms: a reusable cup\nLanyard parade, line up\n\n[Verse 2: baritone, sequencer busier]\nSecond floor is infantry\nFourth is the artillery\nColonel's got a standing desk\nMedal for the fewest steps\n\n[Chorus: full beat, group shout on the title]\nLanyard parade\nBadges swinging in the sun\nLanyard parade\nEverybody, everyone\nPresent arms: a reusable cup\nLanyard parade, line up\n\n[Bridge: snare march only, spoken commands]\nBadge in. (Badge in.)\nSit down. (Sit down.)\nReply all. (Reply all.)\nBadge out. (Badge out.)\n\n[Final Chorus: loudest, key up a step]\nLanyard parade\nBadges swinging in the sun\nLanyard parade\nEverybody, everyone\nPresent arms: a reusable cup\nLanyard parade, dismissed\n\n[Outro: riff, turnstile beep, whistle]",
+  "taskId": "6962c2551766fafdc1020c99662c4fb7",
+  "sunoClipIds": [
+    "81d80957-e6a1-40a7-becb-77d08ec74bba",
+    "d23f6d5c-2a8d-4a65-9ee6-68fe8b04742c"
+  ],
+  "created": "Nov 17, 2026 7:44 AM ET",
+  "createTimeMs": 1794919440347,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "81d80957-e6a1-40a7-becb-77d08ec74bba",
+      "durationSec": 213.72,
+      "file": "darkelectro/de_20_lanyard_parade_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d23f6d5c-2a8d-4a65-9ee6-68fe8b04742c",
+      "durationSec": 214.4,
+      "file": "darkelectro/de_20_lanyard_parade_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_20_lanyard_parade_req.json",
+    "darkelectro/de_20_lanyard_parade_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_20_lanyard_parade.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 128 BPM, 4/4, A minor, up to B minor for the last chorus. A bright, bouncing march, EBM with a pop tune.\n\nVOICE: Male baritone, deep, smooth and accented, sung with a straight face. A group of men shouts the title and repeats the commands in the bridge.\n\nINSTRUMENTS: A bouncing, staccato analogue synth riff, a sequenced sixteenth-note bass, a four-on-the-floor kick with a military snare pattern, bright synth-brass chords, a referee's whistle, handclaps, a turnstile beep.\n\nARRANGEMENT MAP: 0:00 Intro, riff, snare and whistle. 0:14 Verse 1. 0:38 Chorus 1. 1:04 Verse 2. 1:28 Chorus 2. 1:54 Bridge, commands. 2:14 Final chorus, key up. 2:44 Outro, riff, beep and whistle, ends 3:16.\n\nPRODUCTION & MIX: Mid-2000s synth-pop EBM: clean, punchy and bright, sequencer tight, voice warm and forward.\n\nSIGNATURE MOMENT: 'Present arms: a reusable cup' at 0:56.\n\nMODERN POINT OF VIEW: The original teases the glamour of uniforms. The uniform most people actually wear is corporate casual, and the parade happens at eight every morning.\n\nEMOTIONAL ARC: Brisk, amused, drilled, dismissed.",
+  "workbookAtAGlance": "Lanyard Parade\n\nBackup titles\nFleece Vest Regiment / Badge In, Badge Out\n\nAt a glance\n128 BPM, A minor\nVoice: Deep male baritone, ironic\nLength: about 3 minutes 20",
+  "qa": {
+    "title": "Lanyard Parade",
+    "id": "de_20",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 213.7,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 128,
+        "bpmErrPct": 6.2,
+        "lufs": -13.1,
+        "peakDbfs": -0.66,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.3,
+        "contentEndSec": 212.8,
+        "vocalCoverage": 0.5,
+        "vocalSpanSec": [
+          24.3,
+          208.8
+        ],
+        "vocalF0MedianHz": 464,
+        "vocalF0P25Hz": 260,
+        "lyricLineRecall": 0.667,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.4,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 128,
+        "bpmErrPct": 6.2,
+        "lufs": -12.4,
+        "peakDbfs": -0.49,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 213.0,
+        "vocalCoverage": 0.495,
+        "vocalSpanSec": [
+          14.9,
+          191.9
+        ],
+        "vocalF0MedianHz": 329,
+        "vocalF0P25Hz": 166,
+        "lyricLineRecall": 0.857,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "EBM",
+  "year": 2006
+}

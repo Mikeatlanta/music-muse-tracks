@@ -1,0 +1,118 @@
+{
+  "id": "de_17",
+  "title": "Twenty-Four Hours",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 17,
+  "slug": "de_17_twenty_four_hours",
+  "inspiredBy": "Seventeen (Ladytron, 2002)",
+  "leadVoice": "Female, flat, cool and bored, sung on a narrow tune with no vibrato. A second woman doubles her an octave up. The count in the break is spoken in a monotone with an Eastern European accent.",
+  "model": "V6",
+  "style": "2002 electroclash and cold synth-pop, flat cool bored female vocal on a narrow tune with no vibrato repeating one couplet, a second woman doubling an octave up, monotone spoken count in the break, 122 BPM, B minor, cold stiff catchy feel, buzzing analogue synth riff, thin organ-like synth, rigid drum machine with dry snare, pulsing synth bass, vintage string machine, dry thin retro mix, deadpan, cynical, icy",
+  "negativeTags": "male lead vocals, emotional belting, guitars, rap, live drums, warm soul, orchestral strings, acoustic instruments",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: cold synth riff, stiff drum machine]\n\n[Hook: deadpan female voice]\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\n\n[Instrumental: second synth line, hi-hats open]\n\n[Hook: second voice doubling an octave up]\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\n\n[Break: drums and bass only, spoken in Bulgarian-style monotone]\nOne hour. Six hours. Twelve.\nTwenty-three. Twenty-four.\n\n[Hook: both voices, synths fuller]\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\n\n[Outro: riff, drum machine stops on the beat]",
+  "taskId": "18f78b5dbfcee43ebf79d2bdb3831513",
+  "sunoClipIds": [
+    "a3afff00-bbc6-411e-b2c7-1a900eb891e6",
+    "d22725b9-e241-47c6-bef0-0a20fa28219d"
+  ],
+  "created": "Nov 17, 2026 7:43 AM ET",
+  "createTimeMs": 1794919430627,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "a3afff00-bbc6-411e-b2c7-1a900eb891e6",
+      "durationSec": 193.8,
+      "file": "darkelectro/de_17_twenty_four_hours_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d22725b9-e241-47c6-bef0-0a20fa28219d",
+      "durationSec": 194.36,
+      "file": "darkelectro/de_17_twenty_four_hours_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_17_twenty_four_hours_req.json",
+    "darkelectro/de_17_twenty_four_hours_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_17_twenty_four_hours.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, B minor. Cold, stiff and catchy electroclash.\n\nVOICE: Female, flat, cool and bored, sung on a narrow tune with no vibrato. A second woman doubles her an octave up. The count in the break is spoken in a monotone with an Eastern European accent.\n\nINSTRUMENTS: A buzzing analogue synth riff, a second thin organ-like synth, a rigid drum machine with a dry snare and closed hi-hat, a pulsing synth bass, a vintage string machine, a cheap vocoder shadowing the voice.\n\nARRANGEMENT MAP: 0:00 Intro, riff and drums. 0:16 Hook 1. 0:48 Instrumental. 1:04 Hook 2, doubled. 1:36 Break, the count. 1:54 Hook 3. 2:26 Outro, riff, a dead stop at 2:56.\n\nPRODUCTION & MIX: 2002 electroclash: dry, thin and retro, analogue synths with no gloss, voices unprocessed and close.\n\nSIGNATURE MOMENT: The spoken count reaching 'Twenty-four' at 1:50.\n\nMODERN POINT OF VIEW: The original says the young are used up by twenty-one. The clock has shrunk since: attention now expires in a day, and it happens to people of any age.\n\nEMOTIONAL ARC: Bored, knowing, counting, discarded.",
+  "workbookAtAGlance": "Twenty-Four Hours\n\nBackup titles\nTrending Till Tuesday / Then You're No Fun\n\nAt a glance\n122 BPM, B minor\nVoice: Deadpan female voice, one couplet\nLength: about 3 minutes",
+  "qa": {
+    "title": "Twenty-Four Hours",
+    "id": "de_17",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 193.8,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -13.0,
+        "peakDbfs": -1.23,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 191.5,
+        "vocalCoverage": 0.236,
+        "vocalSpanSec": [
+          16.5,
+          144.8
+        ],
+        "vocalF0MedianHz": 235,
+        "vocalF0P25Hz": 219,
+        "lyricLineRecall": 0.857,
+        "lyricUnclearSections": [
+          "Break"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 194.4,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 122,
+        "bpmErrPct": 0.9,
+        "lufs": -13.4,
+        "peakDbfs": -0.43,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 193.0,
+        "vocalCoverage": 0.239,
+        "vocalSpanSec": [
+          14.3,
+          162.1
+        ],
+        "vocalF0MedianHz": 234,
+        "vocalF0P25Hz": 221,
+        "lyricLineRecall": 0.929,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Synth-Pop",
+  "year": 2002
+}

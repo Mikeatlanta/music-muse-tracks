@@ -1,0 +1,128 @@
+{
+  "id": "de_02",
+  "title": "Ich Stimme Zu",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 2,
+  "slug": "de_02_ich_stimme_zu",
+  "inspiredBy": "Du Hast (Rammstein, 1997)",
+  "leadVoice": "Male bass-baritone, German, deep and dry with rolled Rs. The verse is delivered one word at a time. A gang of men shouts the answers. The bridge is whispered. No singing in the usual sense.",
+  "model": "V6",
+  "style": "Late-1990s German industrial metal with a techno kick, deep dry male bass-baritone vocal in German with rolled Rs delivered one word at a time, gang of men shouting answers, whispered bridge, 125 BPM, E minor, heavy mechanical march, down-tuned palm-muted staccato guitar riff, four-on-the-floor kick with gated snare, sequenced sawtooth synth stabs, deep synth bass, male choir pad, huge dry precise mix, commanding, defiant, heavy",
+  "negativeTags": "female lead vocals, English lyrics, rap, acoustic guitar, jazz, funk bass, soft ballad, cheerful mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: sequenced synth stabs, techno kick, guitar riff enters]\n\n[Verse 1: deep male voice, one word at a time]\nDu\nDu fragst\nDu fragst mich\nDu fragst mich, und ich klicke\n\n[Chorus: full riff, gang shout]\nIch stimme zu (ja!)\nIch stimme zu (ja!)\nIch stimme zu\nHabe ich eine Stimme?\n\n[Verse 2: voice lower, synths answering]\nWillst du alles wissen, wo ich bin, was ich will?\nWillst du alles lesen, was ich schreibe, bis ich still bin?\n\n[Chorus: full riff, gang shout]\nIch stimme zu (ja!)\nIch stimme zu (ja!)\nIch stimme zu\nHabe ich eine Stimme?\n\n[Bridge: guitars drop out, choir pad, whispered]\nAkzeptieren. Akzeptieren.\nAlle akzeptieren.\n\n[Final Chorus: heaviest, the answer changes]\nIch stimme zu (nein!)\nIch stimme zu (nein!)\nIch stimme nicht zu\nIch habe eine Stimme\n\n[Outro: riff stops dead, one synth note]",
+  "taskId": "32e5c5f7d7cbe3efb5314bb11d8fb2e7",
+  "sunoClipIds": [
+    "8161ab08-4ce5-4eed-b5bb-1b22d1d7c6ba",
+    "c1d5bd5b-6125-4184-80f3-5561eb10024b"
+  ],
+  "created": "Nov 17, 2026 7:42 AM ET",
+  "createTimeMs": 1794919361375,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "8161ab08-4ce5-4eed-b5bb-1b22d1d7c6ba",
+      "durationSec": 214.4,
+      "file": "darkelectro/de_02_ich_stimme_zu_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "c1d5bd5b-6125-4184-80f3-5561eb10024b",
+      "durationSec": 214.36,
+      "file": "darkelectro/de_02_ich_stimme_zu_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_02_ich_stimme_zu_req.json",
+    "darkelectro/de_02_ich_stimme_zu_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_02_ich_stimme_zu.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 125 BPM, 4/4, E minor. A heavy, mechanical march, half techno and half metal.\n\nVOICE: Male bass-baritone, German, deep and dry with rolled Rs. The verse is delivered one word at a time. A gang of men shouts the answers. The bridge is whispered. No singing in the usual sense.\n\nINSTRUMENTS: Down-tuned, palm-muted guitars playing one staccato riff, a four-on-the-floor techno kick with a gated snare, sequenced sawtooth synth stabs, a deep synth bass doubling the guitars, a male choir pad in the bridge.\n\nARRANGEMENT MAP: 0:00 Intro, synth stabs then riff. 0:22 Verse 1. 0:44 Chorus 1. 1:06 Verse 2. 1:28 Chorus 2. 1:50 Bridge, whispered. 2:14 Final chorus, 'nein'. 2:50 Outro, dead stop, one note to 3:16.\n\nPRODUCTION & MIX: Late-1990s industrial metal: huge, dry and precise, guitars and kick locked together, vocal up front.\n\nSIGNATURE MOMENT: The crowd's 'ja!' turning to 'nein!' at 2:14.\n\nMODERN POINT OF VIEW: The original refuses a wedding vow. This refuses the consent box: a small word clicked a thousand times a year, until one day he reads it. Translation of the chorus: I agree. Do I have a voice?\n\nEMOTIONAL ARC: Obedient, uneasy, cornered, refusing.",
+  "workbookAtAGlance": "Ich Stimme Zu\n\nBackup titles\nHabe Ich Eine Stimme / I Agree\n\nAt a glance\n125 BPM, E minor\nVoice: Deep male voice, German, one word at a time\nLength: about 3 minutes 20",
+  "qa": {
+    "title": "Ich Stimme Zu",
+    "id": "de_02",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2, Final Chorus)"
+        ],
+        "durationSec": 214.4,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 125,
+        "bpmErrPct": 3.4,
+        "lufs": -12.8,
+        "peakDbfs": -0.09,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 212.6,
+        "vocalCoverage": 0.573,
+        "vocalSpanSec": [
+          23.0,
+          208.4
+        ],
+        "vocalF0MedianHz": 704,
+        "vocalF0P25Hz": 534,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Chorus",
+          "Verse 2",
+          "Final Chorus"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2, Final Chorus)"
+        ],
+        "durationSec": 214.4,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 125,
+        "bpmErrPct": 3.4,
+        "lufs": -12.4,
+        "peakDbfs": -0.48,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.1,
+        "contentEndSec": 213.8,
+        "vocalCoverage": 0.435,
+        "vocalSpanSec": [
+          29.9,
+          178.1
+        ],
+        "vocalF0MedianHz": 696,
+        "vocalF0P25Hz": 408,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [
+          "Verse 1",
+          "Chorus",
+          "Verse 2",
+          "Final Chorus"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Techno",
+  "year": 1997
+}

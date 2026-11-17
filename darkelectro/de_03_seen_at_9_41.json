@@ -1,0 +1,118 @@
+{
+  "id": "de_03",
+  "title": "Seen at 9:41",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 3,
+  "slug": "de_03_seen_at_9_41",
+  "inspiredBy": "Blue Monday (New Order, 1983)",
+  "leadVoice": "Male, flat, untrained and detached, sung low with no vibrato, as if reading. One vocoder voice repeats a single word in the break.",
+  "model": "V6",
+  "style": "1983 electronic dance and synth-pop, flat untrained detached male vocal sung low with no vibrato as if reading, a vocoder voice repeating one word in the break, 130 BPM, D minor, cold mechanical danceable feel with long instrumental stretches, drum machine with rapid sixteenth-note kick stutter, sequenced octave synth bass, sampled choir pad, melodic high-register bass guitar, bright lead synth, hand claps, dry analogue mix, detached, hypnotic, cold",
+  "negativeTags": "female lead vocals, distorted guitars, rap, live drums, warm soul vocals, acoustic piano ballad, brass, trap hi-hats",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: stuttering machine kick, sequenced bass enters]\n\n[Instrumental: synthetic choir chords, hi-hat]\n\n[Verse 1: detached male voice]\nDelivered at nine forty\nSeen at nine forty-one\nI watched the little word change\nAnd then I watched it done\n\n[Chorus: choir swells, bass octaves]\nTell me how it reads to you\nTell me what you saw\nSeen at nine forty-one\nAnd nothing more\n\n[Instrumental: synth melody over the sequence]\n\n[Verse 2: same flat delivery]\nI count the hours after\nI check the bars, the light\nThe phone is working perfectly\nThat's what's not right\n\n[Chorus: choir swells, bass octaves]\nTell me how it reads to you\nTell me what you saw\nSeen at nine forty-one\nAnd nothing more\n\n[Break: kick stutter alone, vocoder voice]\nSeen. Seen. Seen.\n\n[Outro: sequence and choir, slowly filtered away]",
+  "taskId": "331f7df8e95a1d363a236f25a11f58fc",
+  "sunoClipIds": [
+    "423a5989-0481-4873-870f-357adac44684",
+    "93b481e7-8f86-4ace-a10d-af5901727100"
+  ],
+  "created": "Nov 17, 2026 7:42 AM ET",
+  "createTimeMs": 1794919372044,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "423a5989-0481-4873-870f-357adac44684",
+      "durationSec": 254.56,
+      "file": "darkelectro/de_03_seen_at_9_41_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "93b481e7-8f86-4ace-a10d-af5901727100",
+      "durationSec": 253.6,
+      "file": "darkelectro/de_03_seen_at_9_41_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_03_seen_at_9_41_req.json",
+    "darkelectro/de_03_seen_at_9_41_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_03_seen_at_9_41.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 130 BPM, 4/4, D minor. Cold, mechanical and danceable, with long instrumental stretches.\n\nVOICE: Male, flat, untrained and detached, sung low with no vibrato, as if reading. One vocoder voice repeats a single word in the break.\n\nINSTRUMENTS: A drum machine with a rapid sixteenth-note kick stutter, a sequenced octave synth bass, a sampled choir pad, a melodic bass guitar played high, a bright lead synth, hand claps, a vocoder.\n\nARRANGEMENT MAP: 0:00 Intro, kick stutter. 0:16 Bass sequence. 0:40 Choir instrumental. 1:04 Verse 1. 1:28 Chorus 1. 1:52 Instrumental. 2:20 Verse 2. 2:44 Chorus 2. 3:08 Break, vocoder. 3:24 Outro, filtered away by 3:58.\n\nPRODUCTION & MIX: 1983 electronic dance: dry drum machine, analogue sequencer, cold digital choir, voice plain and central.\n\nSIGNATURE MOMENT: The opening kick stutter at 0:00.\n\nMODERN POINT OF VIEW: The original asks how it feels to be mistreated. The modern form of that question is a read receipt: proof you were seen, and nothing after.\n\nEMOTIONAL ARC: Waiting, calculating, numb, unanswered.",
+  "workbookAtAGlance": "Seen at 9:41\n\nBackup titles\nTell Me How It Reads / Delivered\n\nAt a glance\n130 BPM, D minor\nVoice: Detached male voice\nLength: about 4 minutes",
+  "qa": {
+    "title": "Seen at 9:41",
+    "id": "de_03",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.6,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 130,
+        "bpmErrPct": 0.6,
+        "lufs": -12.3,
+        "peakDbfs": -0.32,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 3.4,
+        "contentEndSec": 253.0,
+        "vocalCoverage": 0.273,
+        "vocalSpanSec": [
+          38.1,
+          223.1
+        ],
+        "vocalF0MedianHz": 132,
+        "vocalF0P25Hz": 88,
+        "lyricLineRecall": 0.706,
+        "lyricUnclearSections": [
+          "Break"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 253.6,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 130,
+        "bpmErrPct": 0.6,
+        "lufs": -12.1,
+        "peakDbfs": -0.38,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.5,
+        "contentEndSec": 251.7,
+        "vocalCoverage": 0.205,
+        "vocalSpanSec": [
+          51.4,
+          212.6
+        ],
+        "vocalF0MedianHz": 131,
+        "vocalF0P25Hz": 87,
+        "lyricLineRecall": 0.647,
+        "lyricUnclearSections": [
+          "Break"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Synth-Pop",
+  "year": 1983
+}

@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Signal for the Sleepless",
+  "prompt": "[Intro: slow synth chords, soft pulse, radio tuning]\n\n[Verse 1: plain kind male voice]\nIt's three, and the ceiling's all you've read\nEvery worst thing circling your head\nYou think the dark is yours alone\nYou think there's no one else at home\n\n[Chorus: chords rise, strings, steady beat]\nThis is a signal for the sleepless\nFor the ones still up tonight\nLook out, look out across the rooftops\nYou are not the only light\nI can't fix it, I can't hold you\nBut I'm awake, and so are they\nThis is a signal for the sleepless\nStay. Stay.\n\n[Verse 2: voice a little fuller]\nA nurse on a break, a kid with a screen\nA baker, a driver, a man who can't dream\nWindows lit like a second sky\nNobody knows the other's why\n\n[Chorus: chords rise, strings, steady beat]\nThis is a signal for the sleepless\nFor the ones still up tonight\nLook out, look out across the rooftops\nYou are not the only light\nI can't fix it, I can't hold you\nBut I'm awake, and so are they\nThis is a signal for the sleepless\nStay. Stay.\n\n[Bridge: beat drops out, piano and voice]\nMorning isn't far\nIt never has been\n\n[Final Chorus: full, choir pad, voice strongest]\nThis is a signal for the sleepless\nFor the ones still up tonight\nLook out, look out across the rooftops\nYou are not the only light\nI can't fix it, I can't hold you\nBut I'm awake, and so are they\nThis is a signal for the sleepless\nStay. Stay.\n\n[Outro: chords fade, first birds]",
+  "style": "Futurepop electronic ballad, plain unshowy mid-range male vocal with a slight Irish-English accent sung gently and clearly, growing stronger in the last chorus without shouting, 96 BPM, B-flat major, slow warm steadily rising hymn-like feel, warm analogue synth chords, soft sequenced pulse, mid-tempo electronic kick and snare, string section, piano in the bridge, choir pad at the end, clean wide warm mix, compassionate, hopeful, nocturnal",
+  "negativeTags": "female lead vocals, distorted guitars, screaming, rap, fast tempo, harsh noise, trap hi-hats, cheerful dance pop",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "de_21",
+  "title": "Still in Black",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 21,
+  "slug": "de_21_still_in_black",
+  "inspiredBy": "Every Day Is Halloween (Ministry, 1984)",
+  "leadVoice": "Male, dry and slightly nasal with a put-on English edge, half-sung and half-spoken, sure of himself. Voices answer the title line; in the last chorus a child sings the answers. A dry spoken aside in the bridge.",
+  "model": "V6",
+  "style": "1984 dark synth-pop club track, dry slightly nasal male vocal with a put-on English edge half-sung and half-spoken, voices answering the title line, a child singing the answers in the last chorus, dry spoken aside in the bridge, 118 BPM, E minor, bouncy dark danceable feel, bouncing analogue synth bass riff, drum machine with big clap and cowbell, synth-brass stabs, record scratches, string-machine pad, bell-like lead, punchy dry mix, defiant, wry, affectionate",
+  "negativeTags": "female lead vocals, metal guitars, rap, live drums, orchestral strings, acoustic ballad, trap hi-hats, screaming",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: bouncing synth bass, drum machine, record scratch]\n\n[Verse 1: dry male voice with an edge]\nSchool gate, half past three\nSame boots since eighty-three\nSomebody's mother looks me up and down\nI nod. I've been around.\n\n[Chorus: synth brass stabs, voices answering]\nI'm still in black (still in black)\nIt was never a phase\nStill in black (still in black)\nThirty-five years of the same old ways\nYou had your fun and you put it back\nI'm still in black\n\n[Verse 2: voice warmer, bass bouncing]\nKid runs out with a drawing in her hand\nIt's me, with a bat, and a marching band\nShe says, \"Dad, you're the only one like this.\"\nI say, \"I know.\" She gives me a kiss.\n\n[Chorus: synth brass stabs, voices answering]\nI'm still in black (still in black)\nIt was never a phase\nStill in black (still in black)\nThirty-five years of the same old ways\nYou had your fun and you put it back\nI'm still in black\n\n[Bridge: drums and scratches only, spoken]\nEyeliner's harder with reading glasses.\nWorth it.\n\n[Final Chorus: full, with a child's voice on the answers]\nI'm still in black (still in black)\nIt was never a phase\nStill in black (still in black)\nThirty-five years of the same old ways\nYou had your fun and you put it back\nI'm still in black\n\n[Outro: bass riff, boots on pavement, a small laugh]",
+  "taskId": "b9e8e037396572032295c2b183f41c83",
+  "sunoClipIds": [
+    "82e4c2cf-e92a-488a-ab58-43387956ef7a",
+    "e06da183-1886-4b42-81b0-ff27b0f8108b"
+  ],
+  "created": "Nov 17, 2026 7:44 AM ET",
+  "createTimeMs": 1794919445870,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "82e4c2cf-e92a-488a-ab58-43387956ef7a",
+      "durationSec": 223.88,
+      "file": "darkelectro/de_21_still_in_black_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "e06da183-1886-4b42-81b0-ff27b0f8108b",
+      "durationSec": 224.52,
+      "file": "darkelectro/de_21_still_in_black_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_21_still_in_black_req.json",
+    "darkelectro/de_21_still_in_black_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_21_still_in_black.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, E minor. Bouncy, dark and danceable, a 1984 club track with a grin.\n\nVOICE: Male, dry and slightly nasal with a put-on English edge, half-sung and half-spoken, sure of himself. Voices answer the title line; in the last chorus a child sings the answers. A dry spoken aside in the bridge.\n\nINSTRUMENTS: A bouncing analogue synth bass riff, a drum machine with a big clap and cowbell, synth-brass stabs, record scratches, a string-machine pad, a bright bell-like lead, a tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, bass, drums and a scratch. 0:16 Verse 1. 0:42 Chorus 1. 1:10 Verse 2. 1:36 Chorus 2. 2:04 Bridge, spoken. 2:18 Final chorus, with the child. 2:48 Outro, bass, boots and a laugh, ends 3:26.\n\nPRODUCTION & MIX: 1984 dark synth-pop: punchy drum machine, fat analogue bass, bright stabs, a dry voice with a short slap echo.\n\nSIGNATURE MOMENT: 'Eyeliner's harder with reading glasses. Worth it.' at 2:08.\n\nMODERN POINT OF VIEW: The original is a young man asking why people stare. This is the same man at fifty-two, still dressed that way, and the only verdict that matters comes from his daughter.\n\nEMOTIONAL ARC: Stared at, unbothered, loved, proud.",
+  "workbookAtAGlance": "Still in Black\n\nBackup titles\nIt Was Never a Phase / Same Boots\n\nAt a glance\n118 BPM, E minor\nVoice: Dry male voice with an edge\nLength: about 3 minutes 30",
+  "qa": {
+    "title": "Still in Black",
+    "id": "de_21",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 223.9,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 0.5,
+        "lufs": -13.0,
+        "peakDbfs": -0.32,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.9,
+        "contentEndSec": 222.4,
+        "vocalCoverage": 0.539,
+        "vocalSpanSec": [
+          7.7,
+          217.7
+        ],
+        "vocalF0MedianHz": 316,
+        "vocalF0P25Hz": 111,
+        "lyricLineRecall": 0.889,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.5,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 118,
+        "bpmErrPct": 4.3,
+        "lufs": -13.0,
+        "peakDbfs": -0.51,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 223.0,
+        "vocalCoverage": 0.411,
+        "vocalSpanSec": [
+          6.1,
+          207.0
+        ],
+        "vocalF0MedianHz": 156,
+        "vocalF0P25Hz": 113,
+        "lyricLineRecall": 0.889,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Darksynth",
+  "year": 1984
+}

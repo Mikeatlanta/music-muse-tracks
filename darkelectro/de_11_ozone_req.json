@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Ozone",
+  "prompt": "[Intro: sweeping white noise, bubbling synth sequence]\n\n[Section A: soft drum box enters, bass pulse]\n\n[Melody 1: singing lead synth, slow vibrato]\n\n[Section B: string-synth chords under the sequence]\n\n[Melody 2: lead an octave higher, noise sweeps answering]\n\n[Break: sequence alone, filtered, distant radio static]\n\n[Melody 3: lead and strings together, fullest]\n\n[Outro: noise sweep rises and falls, sequence fades]",
+  "style": "1976 French cinematic electronic instrumental, no vocals, singing monophonic lead synth with slow vibrato and portamento sounding almost like a wordless voice, 124 BPM, C minor, light floating steady glide, bubbling eight-note analogue sequence, lush phased string-synth chords, soft vintage drum box, pulsing bass, long white-noise sweeps, faint radio static, warm wide analogue mix with tape echo, spacious, serene, cosmic",
+  "negativeTags": "vocals, lyrics, guitars, rap, heavy drums, distortion, brass, modern EDM drop",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

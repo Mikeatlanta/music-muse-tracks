@@ -1,0 +1,120 @@
+{
+  "id": "de_10",
+  "title": "Prove You're Human",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 10,
+  "slug": "de_10_prove_youre_human",
+  "inspiredBy": "Breathe (The Prodigy, 1996)",
+  "leadVoice": "Two men. One is flat, cold and commanding; the other is hoarse, angry and human. They trade short barked lines and shout the chorus together. A whispered breakdown. A calm synthetic voice speaks two words near the end.",
+  "model": "V6",
+  "style": "1996 big beat and electronic punk, two male voices trading short barked lines, one flat cold and commanding and one hoarse and angry, shouted chorus together, whispered breakdown, 130 BPM, E minor, aggressive tense feel, fast heavy sampled breakbeat, twanging surf-style guitar figure, growling distorted synth bass, whip-crack sample, metallic stabs, siren-like synth, loud compressed dirty mix, confrontational, urgent, menacing",
+  "negativeTags": "female lead vocals, soft ballad, acoustic guitar, orchestral strings, smooth R&B, bright pop, jazz, slow tempo",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: twanging guitar figure, breakbeat drops, whip crack]\n\n[Verse 1: two male voices trading lines]\nClick the bicycles (I clicked)\nClick the bridges (I did)\nType the letters (which ones?)\nWrong. Again.\n\n[Chorus: both voices, full breakbeat]\nProve you're human\nBlink for me\nProve you're human\nYawn for me\nBleed a little, make a mistake\nProve you're human\n\n[Verse 2: voices closer, bass growling]\nWhere were you born? (I told you)\nMother's name? (I told you)\nFirst thing you loved? (I forget)\nGood. Again.\n\n[Chorus: both voices, full breakbeat]\nProve you're human\nBlink for me\nProve you're human\nYawn for me\nBleed a little, make a mistake\nProve you're human\n\n[Breakdown: beat stops, whip crack, whispered]\nI am. I am. I am.\n\n[Final Chorus: both shouting, the machine answers]\nProve you're human\nBlink for me\nProve you're human\nYawn for me\nBleed a little, make a mistake\n(Verified. Proceed.)\n\n[Outro: guitar figure, one whip crack]",
+  "taskId": "2b43f6590c56e104f10a82b715e27b41",
+  "sunoClipIds": [
+    "7f827696-9c2d-4341-9bc1-65439e6c85d8",
+    "a407ffcc-ef72-4959-aeb7-eba4845693f8"
+  ],
+  "created": "Nov 17, 2026 7:43 AM ET",
+  "createTimeMs": 1794919394831,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "7f827696-9c2d-4341-9bc1-65439e6c85d8",
+      "durationSec": 214.8,
+      "file": "darkelectro/de_10_prove_youre_human_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "a407ffcc-ef72-4959-aeb7-eba4845693f8",
+      "durationSec": 214.12,
+      "file": "darkelectro/de_10_prove_youre_human_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_10_prove_youre_human_req.json",
+    "darkelectro/de_10_prove_youre_human_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_10_prove_youre_human.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 130 BPM, 4/4, E minor. Aggressive, tense big-beat with a rolling breakbeat.\n\nVOICE: Two men. One is flat, cold and commanding; the other is hoarse, angry and human. They trade short barked lines and shout the chorus together. A whispered breakdown. A calm synthetic voice speaks two words near the end.\n\nINSTRUMENTS: A fast, heavy sampled breakbeat, a twanging surf-style guitar figure, a growling distorted synth bass, a whip-crack sample on the turnarounds, metallic stabs, a siren-like synth.\n\nARRANGEMENT MAP: 0:00 Intro, guitar figure, beat and whip. 0:16 Verse 1. 0:40 Chorus 1. 1:04 Verse 2. 1:28 Chorus 2. 1:52 Breakdown, whispered. 2:12 Final chorus. 2:44 Outro, guitar and a last crack at 3:16.\n\nPRODUCTION & MIX: 1996 big beat: loud, compressed and dirty, breakbeat and bass up front, voices dry and close.\n\nSIGNATURE MOMENT: '(Verified. Proceed.)' at 2:40.\n\nMODERN POINT OF VIEW: The original is two men squaring up. The modern version of being taunted to prove yourself is a test box, and the only way to pass is to get something wrong.\n\nEMOTIONAL ARC: Bullied, furious, insisting, let through.",
+  "workbookAtAGlance": "Prove You're Human\n\nBackup titles\nClick the Bicycles / Blink for Me\n\nAt a glance\n130 BPM, E minor\nVoice: Two male voices trading barked lines\nLength: about 3 minutes 20",
+  "qa": {
+    "title": "Prove You're Human",
+    "id": "de_10",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 130,
+        "bpmErrPct": 0.6,
+        "lufs": -12.9,
+        "peakDbfs": -1.17,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.6,
+        "contentEndSec": 213.3,
+        "vocalCoverage": 0.393,
+        "vocalSpanSec": [
+          14.3,
+          194.7
+        ],
+        "vocalF0MedianHz": 448,
+        "vocalF0P25Hz": 328,
+        "lyricLineRecall": 0.708,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending",
+          "lyric check partial: 46% of lines recognised (unclear: Verse 2, Breakdown)"
+        ],
+        "durationSec": 214.1,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 130,
+        "bpmErrPct": 0.6,
+        "lufs": -12.6,
+        "peakDbfs": -0.14,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 212.4,
+        "vocalCoverage": 0.451,
+        "vocalSpanSec": [
+          7.2,
+          207.1
+        ],
+        "vocalF0MedianHz": 462,
+        "vocalF0P25Hz": 358,
+        "lyricLineRecall": 0.458,
+        "lyricUnclearSections": [
+          "Verse 2",
+          "Breakdown"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other",
+  "year": 1996
+}

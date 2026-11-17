@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Last Bus, No Brakes",
+  "prompt": "[Intro: bus door hiss, engine, one sustained synth note]\n\n[Announcement: calm recorded female voice]\nNext stop. Please hold the rail.\n\n[Riff A: distorted synth riff, double-time drums]\n\n[Riff B: higher arpeggio, bass octave jumps]\n\n[Announcement: same voice, pitch bending]\nNext stop. Next stop.\n\n[Riff A: heavier, with tom rolls]\n\n[Break: church organ alone, engine idling]\n\n[Build: snare roll, siren synth rising]\n\n[Riff C: fastest, lead synth solo, choir pad]\n\n[Announcement: distorted]\nNext stop.\n\n[Outro: tyres, a long brake squeal, door hiss]",
+  "style": "Mid-2010s darksynth instrumental with metal energy, no sung vocals, three short calm recorded public-transport announcements by a woman later bent and distorted, 150 BPM, D minor, fast aggressive cinematic chase, heavily distorted sawtooth synth riffs played like palm-muted guitar, driving octave synth bass, double-time drums with gated snare and rolling toms, pipe organ break, screaming lead synth solo, choir pad, compressed saturated mix, menacing, relentless, thrilling",
+  "negativeTags": "sung lyrics, rap, acoustic guitar, soft ballad, bright pop, jazz, slow tempo, country",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

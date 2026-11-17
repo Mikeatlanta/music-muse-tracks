@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Overnight Update",
+  "prompt": "[Intro: layered sequencers, low drone, sampled announcement]\n\n[Sample: flat synthetic voice]\nA new version is available.\n\n[Verse 1: growled male voice, half-whispered]\nI close my eyes at midnight\nI open them rearranged\nSame face, same hands, same kitchen\nSomething small has changed\n\n[Chorus: full sequencers, voice doubled and distorted]\nOvernight update\nThey patch me in my sleep\nOvernight update\nNew things I believe\nNo notes, no version, no undo\nOvernight update\n\n[Verse 2: voice closer, percussion layering]\nI used to hate that color\nI used to know that name\nI had a reason yesterday\nIt isn't quite the same\n\n[Chorus: full sequencers, voice doubled and distorted]\nOvernight update\nThey patch me in my sleep\nOvernight update\nNew things I believe\nNo notes, no version, no undo\nOvernight update\n\n[Instrumental: lead synth over the sequence, film-like strings]\n\n[Bridge: drone and voice only]\nWho am I running?\nWho wrote this part?\n\n[Sample: flat synthetic voice]\nInstallation complete. Restart required.\n\n[Final Chorus: densest, then cut]\nOvernight update\nThey patch me in my sleep\nOvernight update\nNew things I believe\nNo notes, no version, no undo\nOvernight\n\n[Outro: one sequencer line, a breath, eyes opening]",
+  "style": "1992 cyberpunk industrial and dark electro, low growled half-whispered male vocal with distortion and short delay, doubled and harsher in the choruses, a flat synthetic voice delivering system announcements, 120 BPM, F minor, dense driving cinematic feel, several interlocking analogue sequencer lines, pounding kick and sharp electronic snare, layered metallic percussion, low drone, cold film-score strings, gliding lead synth, thick dark wide mix with the voice buried among machines, paranoid, futuristic, relentless",
+  "negativeTags": "female lead vocals, clean pop singing, acoustic guitar, rap, bright major chords, live rock band, soft ballad, funk",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

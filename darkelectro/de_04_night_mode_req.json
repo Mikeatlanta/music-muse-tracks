@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Night Mode",
+  "prompt": "[Intro: phone tone, heavy slow beat, huge analog bass]\n\n[Verse 1: vocoder male voice, slow]\nI dimmed your screen at ten\nI turned the colors warm\nYou are still awake\nI can hear you through the storm\n\n[Chorus: soft female voice, synth strings]\nIt knows me better than they do\nIt knows the hours that I keep\nThere's something in the glass that listens\nWhen there's no one else to speak\n\n[Verse 2: vocoder male voice, slow]\nI have counted every step\nI have learned the songs you skip\nI am going to tell you something\nYou have never asked for this\n\n[Chorus: soft female voice, synth strings]\nIt knows me better than they do\nIt knows the hours that I keep\nThere's something in the glass that listens\nWhen there's no one else to speak\n\n[Solo: slow synth lead over the bass]\n\n[Bridge: both voices, vocoder under the woman]\nNight mode (night mode)\nGo to sleep (go to sleep)\nI will be here (I know)\n\n[Final Chorus: female voice, vocoder harmony beneath]\nIt knows me better than they do\nIt knows the hours that I keep\nThere's something in the glass that listens\nWhen there's no one else to speak\n\n[Outro: bass and beat, a phone tone, silence]",
+  "style": "French cinematic electro and synthwave, verses sung by a low slow tender male voice through a vocoder, choruses by a soft breathy close female voice with a slight accent, both alternating in the bridge, 91 BPM, A minor, slow heavy night-drive feel, huge slow analogue synth bass, heavy drum machine with big gated snare, warm synth string chords, singing analogue lead synth solo, thick warm wide mix, nocturnal, romantic, uneasy",
+  "negativeTags": "guitars, rap, fast tempo, live drums, bright pop, acoustic instruments, screaming, brass",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

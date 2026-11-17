@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Arcade After Hours",
+  "prompt": "[Intro: cabinet hum, coin drop, 8-bit jingle]\n\n[Sample: robotic arcade voice]\nInsert coin.\n\n[Section A: pumping synth bass, four-on-the-floor kick]\n\n[Section B: bright arpeggio enters, gated snare]\n\n[Melody: heroic lead synth, long notes]\n\n[Sample: robotic arcade voice]\nPlayer one. Player one.\n\n[Break: arpeggio alone, cabinet hum]\n\n[Section C: bass returns heavier, tom fills]\n\n[Melody: lead doubled an octave up, choir pad]\n\n[Sample: robotic arcade voice]\nGame over. Insert coin.\n\n[Outro: 8-bit jingle slows down, power switch]",
+  "style": "2014 dark synthwave instrumental, no sung vocals, a lo-fi robotic arcade-machine voice saying three short phrases, 110 BPM, F# minor, mid-tempo pumping heroic feel, sidechained analogue synth bass, four-on-the-floor kick with big gated snare, bright sixteenth-note arpeggios, heroic sawtooth lead synth melody, electronic toms, choir pad, 8-bit chip sounds, thick analogue low end with 1980s gated drums, nostalgic, driving, cinematic",
+  "negativeTags": "sung lyrics, rap, acoustic guitar, live rock band, soft ballad, jazz, country, trap hi-hats",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

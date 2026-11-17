@@ -1,0 +1,117 @@
+{
+  "id": "de_01",
+  "title": "Blue Light Hours",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 1,
+  "slug": "de_01_blue_light_hours",
+  "inspiredBy": "After Dark (Mr.Kitty, 2014)",
+  "leadVoice": "Male, soft and androgynous, drowned in long reverb and a little chorus, sung as if from the next room. Doubled an octave up in the choruses. No aggression at all.",
+  "model": "V6",
+  "style": "Bedroom darkwave and dark synthpop, soft androgynous male vocal drowned in long reverb and chorus as if from the next room, doubled an octave up in the choruses, 140 BPM, A minor, fast pulse with slow sad emotion, pulsing eighth-note analogue synth bass, bright glassy arpeggio, simple drum machine with hard snare, high portamento lead synth, cold string pads, lo-fi hazy wide mix, melancholy, nocturnal, dreamy",
+  "negativeTags": "female lead vocals, guitars, rap, live drums, bright pop chorus, acoustic instruments, brass, cheerful mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: pulsing synth bass, cold arpeggio]\n\n[Verse 1: distant reverbed male voice]\nCeiling's gone, the walls are thin\nSmall blue sun against my chin\nYour face in a rectangle\nStill, and close, and far\n\n[Chorus: arpeggio brightens, voice doubled]\nBlue light hours\nNobody's awake\nBlue light hours\nI scroll until I ache\nIs it you I'm missing\nOr the glow?\nBlue light hours\n\n[Instrumental: lead synth melody, drum machine]\n\n[Verse 2: voice a little nearer]\nThumb goes down, you slide away\nSummer, winter, yesterday\nI could call. I never do.\nThe glass is warm. It's almost you.\n\n[Chorus: arpeggio brightens, voice doubled]\nBlue light hours\nNobody's awake\nBlue light hours\nI scroll until I ache\nIs it you I'm missing\nOr the glow?\nBlue light hours\n\n[Outro: bass alone, the screen clicks off]",
+  "taskId": "b05c53590510bd0d149a5149e3271930",
+  "sunoClipIds": [
+    "7e4fa862-546d-4138-a634-b9aa770f3593",
+    "d36b94c1-fccd-42e3-a025-d0e954730922"
+  ],
+  "created": "Nov 17, 2026 7:42 AM ET",
+  "createTimeMs": 1794919358933,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "7e4fa862-546d-4138-a634-b9aa770f3593",
+      "durationSec": 224.72,
+      "file": "darkelectro/de_01_blue_light_hours_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "d36b94c1-fccd-42e3-a025-d0e954730922",
+      "durationSec": 224.4,
+      "file": "darkelectro/de_01_blue_light_hours_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_01_blue_light_hours_req.json",
+    "darkelectro/de_01_blue_light_hours_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_01_blue_light_hours.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 140 BPM, 4/4, A minor. Fast pulse, slow emotion: a sad, floating dance track.\n\nVOICE: Male, soft and androgynous, drowned in long reverb and a little chorus, sung as if from the next room. Doubled an octave up in the choruses. No aggression at all.\n\nINSTRUMENTS: A pulsing eighth-note analogue synth bass, a bright, glassy arpeggio, a simple drum machine with a hard snare and steady hi-hat, a high lead synth with portamento, cold string pads.\n\nARRANGEMENT MAP: 0:00 Intro, bass and arpeggio. 0:16 Verse 1. 0:44 Chorus 1. 1:12 Instrumental. 1:40 Verse 2. 2:08 Chorus 2. 2:40 Outro, bass alone, a click at 3:26.\n\nPRODUCTION & MIX: Bedroom darkwave: lo-fi, hazy and wide, vocals far back, synths bright and slightly detuned.\n\nSIGNATURE MOMENT: 'Is it you I'm missing, or the glow?' at 0:58.\n\nMODERN POINT OF VIEW: The original longs for a person after dark. Here the night is lit by a phone, and the singer honestly cannot separate the person from the device that shows her.\n\nEMOTIONAL ARC: Sleepless, longing, doubting, dark.",
+  "workbookAtAGlance": "Blue Light Hours\n\nBackup titles\nLit by a Small Blue Sun / Three A.M. Glow\n\nAt a glance\n140 BPM, A minor\nVoice: Distant, reverbed male voice\nLength: about 3 minutes 30",
+  "qa": {
+    "title": "Blue Light Hours",
+    "id": "de_01",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.05 dBFS (1 clipped sample, inaudible)",
+          "lyric check partial: 45% of lines recognised"
+        ],
+        "durationSec": 224.7,
+        "measuredBpm": 143.6,
+        "bpmFactor": 1,
+        "targetBpm": 140,
+        "bpmErrPct": 2.5,
+        "lufs": -12.8,
+        "peakDbfs": 0.05,
+        "clipSamples": 1,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 222.3,
+        "vocalCoverage": 0.497,
+        "vocalSpanSec": [
+          20.9,
+          201.3
+        ],
+        "vocalF0MedianHz": 271,
+        "vocalF0P25Hz": 234,
+        "lyricLineRecall": 0.45,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.4,
+        "measuredBpm": 143.6,
+        "bpmFactor": 1,
+        "targetBpm": 140,
+        "bpmErrPct": 2.5,
+        "lufs": -12.5,
+        "peakDbfs": -2.32,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 3.0,
+        "contentEndSec": 223.4,
+        "vocalCoverage": 0.507,
+        "vocalSpanSec": [
+          7.6,
+          211.6
+        ],
+        "vocalF0MedianHz": 263,
+        "vocalF0P25Hz": 261,
+        "lyricLineRecall": 0.8,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Darkwave",
+  "year": 2014
+}

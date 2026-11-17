@@ -1,0 +1,119 @@
+{
+  "id": "de_05",
+  "title": "Night Shift, Day Shift",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 5,
+  "slug": "de_05_night_shift_day_shift",
+  "inspiredBy": "Around the World (Daft Punk, 1997)",
+  "leadVoice": "No human-sounding voice. One phrase is spoken-sung through a vocoder or talk box in a robotic monotone, and it repeats through the track. A second robotic voice harmonises later. One line changes once.",
+  "model": "V6",
+  "style": "1997 French house with a darker factory tone, no natural voice, one phrase spoken-sung through a vocoder in a robotic monotone and repeated throughout, second robotic harmony later, 121 BPM, E minor, tight hypnotic groove, rubbery busy funk bass guitar, dry four-on-the-floor drum machine with crisp hi-hat, filtered analogue synth line, handclaps, wide filter sweeps, parts entering and leaving one at a time, dry punchy looped mix, robotic, funky, relentless",
+  "negativeTags": "natural sung vocals, guitars, rap, live drums, orchestral strings, slow ballad, female lead vocals, trap hi-hats",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: filtered funk bassline, drum machine]\n\n[Section 1: vocoder voice enters, bass opens]\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\n\n[Section 2: synth melody added, handclaps]\nNight shift, day shift\nNight shift, day shift\n\n[Breakdown: bass and voice only]\nNight shift\nDay shift\n\n[Section 3: full groove, second vocoder harmony]\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\n\n[Breakdown: drums drop, one line different]\nNight shift, day shift\nNever clocking out\n\n[Section 4: everything in, filter wide open]\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\n\n[Outro: parts leave one at a time, bass last]",
+  "taskId": "e16f91c09121ce93bf5de67d2a876863",
+  "sunoClipIds": [
+    "f4610acb-8f24-47cb-9eec-faca370c19f2",
+    "5fa528b8-a448-4c19-a753-21144b66a179"
+  ],
+  "created": "Nov 17, 2026 7:43 AM ET",
+  "createTimeMs": 1794919381487,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "f4610acb-8f24-47cb-9eec-faca370c19f2",
+      "durationSec": 224.76,
+      "file": "darkelectro/de_05_night_shift_day_shift_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "5fa528b8-a448-4c19-a753-21144b66a179",
+      "durationSec": 224.76,
+      "file": "darkelectro/de_05_night_shift_day_shift_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_05_night_shift_day_shift_req.json",
+    "darkelectro/de_05_night_shift_day_shift_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_05_night_shift_day_shift.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 121 BPM, 4/4, E minor. A tight, hypnotic French house groove with a darker, factory tone.\n\nVOICE: No human-sounding voice. One phrase is spoken-sung through a vocoder or talk box in a robotic monotone, and it repeats through the track. A second robotic voice harmonises later. One line changes once.\n\nINSTRUMENTS: A rubbery, busy funk bass guitar, a dry four-on-the-floor drum machine with a crisp hi-hat, a filtered analogue synth line, handclaps, a second synth playing a short answering figure, a wide filter sweep.\n\nARRANGEMENT MAP: 0:00 Intro, filtered bass. 0:24 Section 1, voice in. 0:56 Section 2, melody. 1:20 Breakdown. 1:36 Section 3. 2:08 Breakdown, the changed line at 2:16. 2:24 Section 4. 2:56 Outro, parts leave, bass last, ends 3:28.\n\nPRODUCTION & MIX: 1997 French house: dry, punchy and filtered, bass guitar loud, everything looped with small changes.\n\nSIGNATURE MOMENT: 'Never clocking out' at 2:16, the only different line.\n\nMODERN POINT OF VIEW: The original circles the globe with no purpose but dancing. This one circles the clock: the same joy in repetition, sung by something that is not allowed to stop.\n\nEMOTIONAL ARC: Starting up, in the groove, a flicker of thought, back to work.",
+  "workbookAtAGlance": "Night Shift, Day Shift\n\nBackup titles\nNever Clocking Out / Four Words\n\nAt a glance\n121 BPM, E minor\nVoice: Robotic vocoder voice, one phrase\nLength: about 3 minutes 30",
+  "qa": {
+    "title": "Night Shift, Day Shift",
+    "id": "de_05",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "vocal stem thin (6% of song); lyrics still recognised, likely a processed or spoken voice"
+        ],
+        "durationSec": 224.8,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 121,
+        "bpmErrPct": 1.7,
+        "lufs": -13.3,
+        "peakDbfs": -1.16,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 223.1,
+        "vocalCoverage": 0.064,
+        "vocalSpanSec": [
+          7.7,
+          127.3
+        ],
+        "vocalF0MedianHz": 148,
+        "vocalF0P25Hz": 110,
+        "lyricLineRecall": 0.938,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "peak 0.14 dBFS (2 clipped sample, inaudible)",
+          "vocal stem thin (7% of song); lyrics still recognised, likely a processed or spoken voice"
+        ],
+        "durationSec": 224.8,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 121,
+        "bpmErrPct": 1.7,
+        "lufs": -13.1,
+        "peakDbfs": 0.14,
+        "clipSamples": 2,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 224.3,
+        "vocalCoverage": 0.074,
+        "vocalSpanSec": [
+          7.9,
+          175.3
+        ],
+        "vocalF0MedianHz": 250,
+        "vocalF0P25Hz": 128,
+        "lyricLineRecall": 0.938,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "French House",
+  "year": 1997
+}

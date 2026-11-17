@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Tanz den Montag",
+  "prompt": "[Intro: one pounding sequencer riff, live drums crash in]\n\n[Verse 1: shouted male voice, German]\nSteh auf, steh auf\nMach das Licht an\nBeweg die Füße\nUnd tanz den Montag\n\n[Chorus: riff and drums, gang shout]\nTanz den Montag!\nTanz den Kalender!\nTanz den Wecker!\nUnd klatsch in die Hände!\n\n[Verse 2: shouted, drums harder]\nDreh dich nach links\nDreh dich nach rechts\nTanz die Deadline\nTanz den Rest\n\n[Chorus: riff and drums, gang shout]\nTanz den Montag!\nTanz den Kalender!\nTanz den Wecker!\nUnd klatsch in die Hände!\n\n[Break: drums only, whispered]\nMontag. Dienstag. Mittwoch.\nDonnerstag. Freitag.\n\n[Final Chorus: fastest feel, everyone]\nTanz den Montag!\nTanz den Kalender!\nTanz den Freitag!\nUnd geh nach Hause!\n\n[Outro: riff stops, one drum hit, an alarm clock]",
+  "style": "1981 German new wave and proto-EBM, shouted commanding male vocal in German with a lot of breath, gang shouting the chorus lines, whispered words in the break, 126 BPM, A minor, raw pounding physical feel, single buzzing analogue sequencer riff that never changes, live drum kit hit hard with four-on-the-floor kick and open hi-hats, handclaps, nothing else, brutally simple dry live mix, sarcastic, energetic, commanding",
+  "negativeTags": "female lead vocals, English lyrics, guitars, melodic pop, rap, orchestral strings, soft ballad, lush pads",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

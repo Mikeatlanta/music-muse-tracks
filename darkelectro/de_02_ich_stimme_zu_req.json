@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Ich Stimme Zu",
+  "prompt": "[Intro: sequenced synth stabs, techno kick, guitar riff enters]\n\n[Verse 1: deep male voice, one word at a time]\nDu\nDu fragst\nDu fragst mich\nDu fragst mich, und ich klicke\n\n[Chorus: full riff, gang shout]\nIch stimme zu (ja!)\nIch stimme zu (ja!)\nIch stimme zu\nHabe ich eine Stimme?\n\n[Verse 2: voice lower, synths answering]\nWillst du alles wissen, wo ich bin, was ich will?\nWillst du alles lesen, was ich schreibe, bis ich still bin?\n\n[Chorus: full riff, gang shout]\nIch stimme zu (ja!)\nIch stimme zu (ja!)\nIch stimme zu\nHabe ich eine Stimme?\n\n[Bridge: guitars drop out, choir pad, whispered]\nAkzeptieren. Akzeptieren.\nAlle akzeptieren.\n\n[Final Chorus: heaviest, the answer changes]\nIch stimme zu (nein!)\nIch stimme zu (nein!)\nIch stimme nicht zu\nIch habe eine Stimme\n\n[Outro: riff stops dead, one synth note]",
+  "style": "Late-1990s German industrial metal with a techno kick, deep dry male bass-baritone vocal in German with rolled Rs delivered one word at a time, gang of men shouting answers, whispered bridge, 125 BPM, E minor, heavy mechanical march, down-tuned palm-muted staccato guitar riff, four-on-the-floor kick with gated snare, sequenced sawtooth synth stabs, deep synth bass, male choir pad, huge dry precise mix, commanding, defiant, heavy",
+  "negativeTags": "female lead vocals, English lyrics, rap, acoustic guitar, jazz, funk bass, soft ballad, cheerful mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

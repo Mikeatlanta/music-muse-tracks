@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Prove You're Human",
+  "prompt": "[Intro: twanging guitar figure, breakbeat drops, whip crack]\n\n[Verse 1: two male voices trading lines]\nClick the bicycles (I clicked)\nClick the bridges (I did)\nType the letters (which ones?)\nWrong. Again.\n\n[Chorus: both voices, full breakbeat]\nProve you're human\nBlink for me\nProve you're human\nYawn for me\nBleed a little, make a mistake\nProve you're human\n\n[Verse 2: voices closer, bass growling]\nWhere were you born? (I told you)\nMother's name? (I told you)\nFirst thing you loved? (I forget)\nGood. Again.\n\n[Chorus: both voices, full breakbeat]\nProve you're human\nBlink for me\nProve you're human\nYawn for me\nBleed a little, make a mistake\nProve you're human\n\n[Breakdown: beat stops, whip crack, whispered]\nI am. I am. I am.\n\n[Final Chorus: both shouting, the machine answers]\nProve you're human\nBlink for me\nProve you're human\nYawn for me\nBleed a little, make a mistake\n(Verified. Proceed.)\n\n[Outro: guitar figure, one whip crack]",
+  "style": "1996 big beat and electronic punk, two male voices trading short barked lines, one flat cold and commanding and one hoarse and angry, shouted chorus together, whispered breakdown, 130 BPM, E minor, aggressive tense feel, fast heavy sampled breakbeat, twanging surf-style guitar figure, growling distorted synth bass, whip-crack sample, metallic stabs, siren-like synth, loud compressed dirty mix, confrontational, urgent, menacing",
+  "negativeTags": "female lead vocals, soft ballad, acoustic guitar, orchestral strings, smooth R&B, bright pop, jazz, slow tempo",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

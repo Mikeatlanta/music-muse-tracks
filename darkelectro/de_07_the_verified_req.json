@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "The Verified",
+  "prompt": "[Intro: swinging tom stomp, two-note distorted riff]\n\n[Verse 1: whispered male voice]\nThere's a mark beside your name\nOr there isn't. That's the game.\nWe don't read the things you write\nWe just check the badge is right\n\n[Chorus: full band, snarled, gang shouts]\nThe verified, the verified\nStep this way, the rest outside\nLittle tick, a little blue\nWho let you in? It wasn't you\nThe verified\n\n[Verse 2: whispered, synth drone under]\nBought it, earned it, born with it\nNobody asks, we just admit\nEverybody in this room\nIs terrified of being you\n\n[Chorus: full band, snarled, gang shouts]\nThe verified, the verified\nStep this way, the rest outside\nLittle tick, a little blue\nWho let you in? It wasn't you\nThe verified\n\n[Bridge: stomp only, chanted]\nCheck, check, check the name\nCheck, check, check the name\n\n[Final Chorus: loudest, last line whispered]\nThe verified, the verified\nStep this way, the rest outside\nLittle tick, a little blue\nWho let you in? It wasn't you\nThe terrified\n\n[Outro: stomp stops, one breath]",
+  "style": "Mid-1990s industrial rock, male vocal with whispered sneering verses and raw distorted snarled choruses, gang of voices shouting the title, 145 BPM heavy swung shuffle, E-flat minor, lurching stomping march, floor toms and kick in a swinging stomp pattern, down-tuned distorted two-note guitar riff, fuzzed bass, buzzing synth drone, industrial metal hits, gated snare, dry abrasive loud mix, sarcastic, menacing, theatrical",
+  "negativeTags": "female lead vocals, clean pop vocals, acoustic guitar, rap, bright synth pop, jazz, soft ballad, funk",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

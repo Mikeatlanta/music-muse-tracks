@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Seen at 9:41",
+  "prompt": "[Intro: stuttering machine kick, sequenced bass enters]\n\n[Instrumental: synthetic choir chords, hi-hat]\n\n[Verse 1: detached male voice]\nDelivered at nine forty\nSeen at nine forty-one\nI watched the little word change\nAnd then I watched it done\n\n[Chorus: choir swells, bass octaves]\nTell me how it reads to you\nTell me what you saw\nSeen at nine forty-one\nAnd nothing more\n\n[Instrumental: synth melody over the sequence]\n\n[Verse 2: same flat delivery]\nI count the hours after\nI check the bars, the light\nThe phone is working perfectly\nThat's what's not right\n\n[Chorus: choir swells, bass octaves]\nTell me how it reads to you\nTell me what you saw\nSeen at nine forty-one\nAnd nothing more\n\n[Break: kick stutter alone, vocoder voice]\nSeen. Seen. Seen.\n\n[Outro: sequence and choir, slowly filtered away]",
+  "style": "1983 electronic dance and synth-pop, flat untrained detached male vocal sung low with no vibrato as if reading, a vocoder voice repeating one word in the break, 130 BPM, D minor, cold mechanical danceable feel with long instrumental stretches, drum machine with rapid sixteenth-note kick stutter, sequenced octave synth bass, sampled choir pad, melodic high-register bass guitar, bright lead synth, hand claps, dry analogue mix, detached, hypnotic, cold",
+  "negativeTags": "female lead vocals, distorted guitars, rap, live drums, warm soul vocals, acoustic piano ballad, brass, trap hi-hats",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

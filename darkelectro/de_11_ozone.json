@@ -1,0 +1,114 @@
+{
+  "id": "de_11",
+  "title": "Ozone",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 11,
+  "slug": "de_11_ozone",
+  "inspiredBy": "Oxygène, Pt. 4 (Jean-Michel Jarre, 1976)",
+  "leadVoice": "None. The lead synthesizer plays the melody with a slow vibrato so that it sounds almost like a wordless voice.",
+  "model": "V6",
+  "style": "1976 French cinematic electronic instrumental, no vocals, singing monophonic lead synth with slow vibrato and portamento sounding almost like a wordless voice, 124 BPM, C minor, light floating steady glide, bubbling eight-note analogue sequence, lush phased string-synth chords, soft vintage drum box, pulsing bass, long white-noise sweeps, faint radio static, warm wide analogue mix with tape echo, spacious, serene, cosmic",
+  "negativeTags": "vocals, lyrics, guitars, rap, heavy drums, distortion, brass, modern EDM drop",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: sweeping white noise, bubbling synth sequence]\n\n[Section A: soft drum box enters, bass pulse]\n\n[Melody 1: singing lead synth, slow vibrato]\n\n[Section B: string-synth chords under the sequence]\n\n[Melody 2: lead an octave higher, noise sweeps answering]\n\n[Break: sequence alone, filtered, distant radio static]\n\n[Melody 3: lead and strings together, fullest]\n\n[Outro: noise sweep rises and falls, sequence fades]",
+  "taskId": "863bd0cf2b61aa65f239f43df767c702",
+  "sunoClipIds": [
+    "edf983e5-f91f-4be1-b3dc-944d0e5224be",
+    "fea024f8-cf12-42f9-bb59-2bd0ce4d492d"
+  ],
+  "created": "Nov 17, 2026 7:43 AM ET",
+  "createTimeMs": 1794919395531,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "edf983e5-f91f-4be1-b3dc-944d0e5224be",
+      "durationSec": 224.48,
+      "file": "darkelectro/de_11_ozone_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "fea024f8-cf12-42f9-bb59-2bd0ce4d492d",
+      "durationSec": 224.8,
+      "file": "darkelectro/de_11_ozone_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_11_ozone_req.json",
+    "darkelectro/de_11_ozone_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_11_ozone.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, C minor. Light, floating and steady, more glide than beat.\n\nVOICE: None. The lead synthesizer plays the melody with a slow vibrato so that it sounds almost like a wordless voice.\n\nINSTRUMENTS: A bubbling eight-note analogue sequence, a singing monophonic lead synth with portamento, lush string-synth chords with phasing, a soft vintage drum box (rim, hi-hat and a light kick), a pulsing bass, long white-noise sweeps, faint radio static.\n\nARRANGEMENT MAP: 0:00 Intro, noise and sequence. 0:22 Section A, drum box. 0:44 Melody 1. 1:16 Section B. 1:38 Melody 2. 2:10 Break. 2:26 Melody 3, fullest. 2:58 Outro, noise sweep and fade to 3:28.\n\nPRODUCTION & MIX: 1976 French electronic: warm analogue synths, heavy phaser on the strings, tape echo on the lead, wide and soft.\n\nSIGNATURE MOMENT: The lead melody entering at 0:44.\n\nMODERN POINT OF VIEW: The original imagined clean air from a Paris kitchen in 1976. Fifty years on the same sounds describe a layer of atmosphere people now measure with worry, and the piece stays calm on purpose.\n\nEMOTIONAL ARC: Weightless, curious, serene, receding.",
+  "workbookAtAGlance": "Ozone\n\nBackup titles\nThin Air / Weather Report from Orbit\n\nAt a glance\n124 BPM, C minor\nVoice: Instrumental\nLength: about 3 minutes 30",
+  "qa": {
+    "title": "Ozone",
+    "id": "de_11",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.5,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 4.2,
+        "lufs": -13.7,
+        "peakDbfs": -2.27,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 223.9,
+        "vocalCoverage": 0.0,
+        "vocalSpanSec": [
+          0.0,
+          224.6
+        ],
+        "vocalF0MedianHz": 0,
+        "vocalF0P25Hz": 0,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.8,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 124,
+        "bpmErrPct": 4.2,
+        "lufs": -13.8,
+        "peakDbfs": -2.11,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 224.0,
+        "vocalCoverage": 0.19,
+        "vocalSpanSec": [
+          31.5,
+          174.4
+        ],
+        "vocalF0MedianHz": 555,
+        "vocalF0P25Hz": 393,
+        "lyricLineRecall": 0.0,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other",
+  "year": 1976
+}

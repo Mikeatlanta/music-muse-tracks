@@ -1,0 +1,114 @@
+{
+  "id": "de_04",
+  "title": "Night Mode",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 4,
+  "slug": "de_04_night_mode",
+  "inspiredBy": "Nightcall (Kavinsky, 2010)",
+  "leadVoice": "The verses are a male voice through a vocoder: low, robotic, slow and oddly tender. The choruses are a woman's soft, breathy, close voice with a slight accent. In the bridge they alternate, and in the last chorus the vocoder harmonises under her.",
+  "model": "V6",
+  "style": "French cinematic electro and synthwave, verses sung by a low slow tender male voice through a vocoder, choruses by a soft breathy close female voice with a slight accent, both alternating in the bridge, 91 BPM, A minor, slow heavy night-drive feel, huge slow analogue synth bass, heavy drum machine with big gated snare, warm synth string chords, singing analogue lead synth solo, thick warm wide mix, nocturnal, romantic, uneasy",
+  "negativeTags": "guitars, rap, fast tempo, live drums, bright pop, acoustic instruments, screaming, brass",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: phone tone, heavy slow beat, huge analog bass]\n\n[Verse 1: vocoder male voice, slow]\nI dimmed your screen at ten\nI turned the colors warm\nYou are still awake\nI can hear you through the storm\n\n[Chorus: soft female voice, synth strings]\nIt knows me better than they do\nIt knows the hours that I keep\nThere's something in the glass that listens\nWhen there's no one else to speak\n\n[Verse 2: vocoder male voice, slow]\nI have counted every step\nI have learned the songs you skip\nI am going to tell you something\nYou have never asked for this\n\n[Chorus: soft female voice, synth strings]\nIt knows me better than they do\nIt knows the hours that I keep\nThere's something in the glass that listens\nWhen there's no one else to speak\n\n[Solo: slow synth lead over the bass]\n\n[Bridge: both voices, vocoder under the woman]\nNight mode (night mode)\nGo to sleep (go to sleep)\nI will be here (I know)\n\n[Final Chorus: female voice, vocoder harmony beneath]\nIt knows me better than they do\nIt knows the hours that I keep\nThere's something in the glass that listens\nWhen there's no one else to speak\n\n[Outro: bass and beat, a phone tone, silence]",
+  "taskId": "0d4e3e85d454c563c0430b9367ce0a4f",
+  "sunoClipIds": [
+    "c4aa714c-9386-43ef-8a48-71274f00a5e2",
+    "1eb70065-a9cd-4263-9c38-00a8cb7ed4ea"
+  ],
+  "created": "Nov 17, 2026 7:43 AM ET",
+  "createTimeMs": 1794919415496,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "c4aa714c-9386-43ef-8a48-71274f00a5e2",
+      "durationSec": 254.36,
+      "file": "darkelectro/de_04_night_mode_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "1eb70065-a9cd-4263-9c38-00a8cb7ed4ea",
+      "durationSec": 254.84,
+      "file": "darkelectro/de_04_night_mode_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_04_night_mode_req.json",
+    "darkelectro/de_04_night_mode_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_04_night_mode.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 91 BPM, 4/4, A minor. Slow, heavy and cinematic, a night drive at walking pace.\n\nVOICE: The verses are a male voice through a vocoder: low, robotic, slow and oddly tender. The choruses are a woman's soft, breathy, close voice with a slight accent. In the bridge they alternate, and in the last chorus the vocoder harmonises under her.\n\nINSTRUMENTS: A huge, slow analogue synth bass, a heavy drum machine with a big gated snare, warm synth string chords, a singing analogue lead synth, a vocoder, a phone tone at the start and end.\n\nARRANGEMENT MAP: 0:00 Intro, tone, beat and bass. 0:22 Verse 1, vocoder. 0:54 Chorus 1, her. 1:26 Verse 2. 1:58 Chorus 2. 2:30 Synth solo. 2:52 Bridge, both. 3:14 Final chorus. 3:46 Outro, tone and silence at 3:58.\n\nPRODUCTION & MIX: French cinematic electro: thick, warm analogue synths, drums huge and slow, voices clear against a dark, wide backdrop.\n\nSIGNATURE MOMENT: The vocoder's first line, 'I dimmed your screen at ten', at 0:22.\n\nMODERN POINT OF VIEW: The original is a man, or a ghost, calling a woman at night. Now the voice that calls is the device itself, and it is not clear which of them needs the other more.\n\nEMOTIONAL ARC: Watched, comforted, uneasy, lulled.",
+  "workbookAtAGlance": "Night Mode\n\nBackup titles\nI Dimmed Your Screen at Ten / It Knows Me Better\n\nAt a glance\n91 BPM, A minor\nVoice: Vocoder male verses, soft female choruses\nLength: about 4 minutes",
+  "qa": {
+    "title": "Night Mode",
+    "id": "de_04",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.4,
+        "measuredBpm": 92.3,
+        "bpmFactor": 1,
+        "targetBpm": 91,
+        "bpmErrPct": 1.4,
+        "lufs": -13.2,
+        "peakDbfs": -1.16,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.8,
+        "contentEndSec": 252.9,
+        "vocalCoverage": 0.35,
+        "vocalSpanSec": [
+          23.3,
+          216.5
+        ],
+        "vocalF0MedianHz": 288,
+        "vocalF0P25Hz": 131,
+        "lyricLineRecall": 0.913,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.9,
+        "measuredBpm": 92.3,
+        "bpmFactor": 1,
+        "targetBpm": 91,
+        "bpmErrPct": 1.4,
+        "lufs": -12.6,
+        "peakDbfs": -0.25,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.7,
+        "contentEndSec": 253.6,
+        "vocalCoverage": 0.357,
+        "vocalSpanSec": [
+          18.8,
+          221.8
+        ],
+        "vocalF0MedianHz": 261,
+        "vocalF0P25Hz": 138,
+        "lyricLineRecall": 0.913,
+        "lyricUnclearSections": [],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Synthwave",
+  "year": 2010
+}

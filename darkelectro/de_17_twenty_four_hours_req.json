@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Twenty-Four Hours",
+  "prompt": "[Intro: cold synth riff, stiff drum machine]\n\n[Hook: deadpan female voice]\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\n\n[Instrumental: second synth line, hi-hats open]\n\n[Hook: second voice doubling an octave up]\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\n\n[Break: drums and bass only, spoken in Bulgarian-style monotone]\nOne hour. Six hours. Twelve.\nTwenty-three. Twenty-four.\n\n[Hook: both voices, synths fuller]\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\n\n[Outro: riff, drum machine stops on the beat]",
+  "style": "2002 electroclash and cold synth-pop, flat cool bored female vocal on a narrow tune with no vibrato repeating one couplet, a second woman doubling an octave up, monotone spoken count in the break, 122 BPM, B minor, cold stiff catchy feel, buzzing analogue synth riff, thin organ-like synth, rigid drum machine with dry snare, pulsing synth bass, vintage string machine, dry thin retro mix, deadpan, cynical, icy",
+  "negativeTags": "male lead vocals, emotional belting, guitars, rap, live drums, warm soul, orchestral strings, acoustic instruments",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

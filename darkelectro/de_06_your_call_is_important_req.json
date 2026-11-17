@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Your Call Is Important",
+  "prompt": "[Intro: stomp and clap beat, twanging guitar riff, hold tone]\n\n[Verse 1: low dry male baritone]\nThank you for holding\nSomeone will be with you soon\nWe know what you need\nWe have known since you were new\n\n[Chorus: full stomp, voices answering]\nYour call is important (to us)\nPlease stay on the line\nYour call is important (to us)\nYou are number nine\nSomebody will hear you\nSomebody will care\nYour call is important\nIs anybody there?\n\n[Verse 2: baritone, synth bass pulsing]\nPress one if you're lonely\nPress two if you're scared\nPress three for forgiveness\nPress nine if you've prayed\n\n[Chorus: full stomp, voices answering]\nYour call is important (to us)\nPlease stay on the line\nYour call is important (to us)\nYou are number nine\nSomebody will hear you\nSomebody will care\nYour call is important\nIs anybody there?\n\n[Bridge: beat drops to breath and stomp, whispered]\nHold. Hold. Hold. Hold.\n\n[Guitar Break: slide guitar over the stomp]\n\n[Final Chorus: full stomp, voices answering]\nYour call is important (to us)\nPlease stay on the line\nYour call is important (to us)\nYou are number one\nSomebody will hear you\nSomebody is here\n\"Hello. Thank you for waiting.\"\n\n[Outro: riff, a click, dial tone]",
+  "style": "1989 electronic blues and dark synth rock, low calm persuasive male baritone like a recorded announcement, backing voices answering in flat unison, whispered bridge, 130 BPM shuffle, F# minor, dry stomping groove, stomp-and-handclap beat with a rhythmic breath sample, twanging slightly distorted blues guitar riff, slide guitar break, pulsing analogue synth bass, sparse synth stabs, dry spacious mix, seductive, ironic, dark",
+  "negativeTags": "female lead vocals, rap, bright pop synths, fast punk drums, orchestral strings, jazz, screaming, trap hi-hats",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "callBackUrl": "https://example.com/cb"
+}

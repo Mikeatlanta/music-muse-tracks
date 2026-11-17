@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Autocorrect Me",
+  "prompt": "[Intro: jerking sequencer line, drum machine, static]\n\n[Verse 1: distorted rasping male voice, fragments]\nI typed a word\nIt gave me another\nI said a thing\nIt sounded like my brother\n\n[Chorus: barked, metallic hits]\nAutocorrect me\nDid you mean, did you mean\nAutocorrect me\nSmooth and clean\nTake the edges, take the spelling\nAutocorrect me\n\n[Verse 2: voice breaking up, sequencer doubling]\nMy name comes back\nUnderlined in red\nThe right one's what it gives me\nThe wrong one's in my head\n\n[Chorus: barked, metallic hits]\nAutocorrect me\nDid you mean, did you mean\nAutocorrect me\nSmooth and clean\nTake the edges, take the spelling\nAutocorrect me\n\n[Breakdown: sequencer alone, clean synthetic voice]\nDid you mean: yes.\nDid you mean: fine.\nDid you mean: yes.\n\n[Final Chorus: harshest, voice glitching, last line clean]\nAutocorrect me\nDid you mean, did you mean\nAutocorrect me\nSmooth and clean\nTake the edges, take the spelling\nNo. I meant what I said.\n\n[Outro: sequencer stutters, static, stops]",
+  "style": "1985 industrial dance, male vocal heavily distorted into a dry rasp delivered in short fragments and barked in the choruses, glitching apart near the end, a clean synthetic voice in the breakdown, final line undistorted, 124 BPM, C minor, jerking harsh danceable feel, hard syncopated analogue sequencer line, drum machine with metallic snare, sampled metal hits, low drone, bursts of static, detuned sliding lead, tape-stutter effects, raw lo-fi abrasive mix, disturbing, tense, defiant",
+  "negativeTags": "female lead vocals, clean pop singing, acoustic guitar, rap, bright major chords, orchestral strings, soft ballad, funk",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

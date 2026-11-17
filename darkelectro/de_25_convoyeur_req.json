@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Convoyeur",
+  "prompt": "[Intro: one metallic hit, low machine hum]\n\n[Section A: dry techno kick, snarling bass pulse]\n\n[Whisper: male voice, French, close]\nEncore.\n\n[Section B: metallic stabs on the off-beat, hi-hat]\n\n[Section C: siren lead rising and falling]\n\n[Break: kick drops out, belt motor, whisper]\nEncore. Encore.\n\n[Section D: full pulse, stabs doubled, snare rolls]\n\n[Section E: siren lead and bass together, most intense]\n\n[Whisper: same voice, slower]\nEncore.\n\n[Outro: motor winds down, one last metallic hit]",
+  "style": "2013 French dark techno instrumental, no sung vocals, a man whispering one French word very close and dry, 125 BPM, G minor, relentless precise cold marching pulse, hard dry four-on-the-floor kick, snarling distorted monosynth bass pulse, sharp metallic stabs like struck steel, siren-like gliding lead, tight closed hi-hat, snare rolls, machine hum, extremely dry sharp loud mix with no reverb, menacing, elegant, industrial",
+  "negativeTags": "sung lyrics, rap, guitars, warm pads, bright pop, acoustic instruments, jazz, cheerful mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

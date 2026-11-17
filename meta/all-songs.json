@@ -27071,5 +27071,3586 @@
     },
     "genre": "Hip-Hop",
     "year": 1999
+  },
+  {
+    "id": "de_01",
+    "title": "Blue Light Hours",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 1,
+    "slug": "de_01_blue_light_hours",
+    "inspiredBy": "After Dark (Mr.Kitty, 2014)",
+    "leadVoice": "Male, soft and androgynous, drowned in long reverb and a little chorus, sung as if from the next room. Doubled an octave up in the choruses. No aggression at all.",
+    "model": "V6",
+    "style": "Bedroom darkwave and dark synthpop, soft androgynous male vocal drowned in long reverb and chorus as if from the next room, doubled an octave up in the choruses, 140 BPM, A minor, fast pulse with slow sad emotion, pulsing eighth-note analogue synth bass, bright glassy arpeggio, simple drum machine with hard snare, high portamento lead synth, cold string pads, lo-fi hazy wide mix, melancholy, nocturnal, dreamy",
+    "negativeTags": "female lead vocals, guitars, rap, live drums, bright pop chorus, acoustic instruments, brass, cheerful mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: pulsing synth bass, cold arpeggio]\n\n[Verse 1: distant reverbed male voice]\nCeiling's gone, the walls are thin\nSmall blue sun against my chin\nYour face in a rectangle\nStill, and close, and far\n\n[Chorus: arpeggio brightens, voice doubled]\nBlue light hours\nNobody's awake\nBlue light hours\nI scroll until I ache\nIs it you I'm missing\nOr the glow?\nBlue light hours\n\n[Instrumental: lead synth melody, drum machine]\n\n[Verse 2: voice a little nearer]\nThumb goes down, you slide away\nSummer, winter, yesterday\nI could call. I never do.\nThe glass is warm. It's almost you.\n\n[Chorus: arpeggio brightens, voice doubled]\nBlue light hours\nNobody's awake\nBlue light hours\nI scroll until I ache\nIs it you I'm missing\nOr the glow?\nBlue light hours\n\n[Outro: bass alone, the screen clicks off]",
+    "taskId": "b05c53590510bd0d149a5149e3271930",
+    "sunoClipIds": [
+      "7e4fa862-546d-4138-a634-b9aa770f3593",
+      "d36b94c1-fccd-42e3-a025-d0e954730922"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919358933,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "7e4fa862-546d-4138-a634-b9aa770f3593",
+        "durationSec": 224.72,
+        "file": "darkelectro/de_01_blue_light_hours_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "d36b94c1-fccd-42e3-a025-d0e954730922",
+        "durationSec": 224.4,
+        "file": "darkelectro/de_01_blue_light_hours_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_01_blue_light_hours_req.json",
+      "darkelectro/de_01_blue_light_hours_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_01_blue_light_hours.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 140 BPM, 4/4, A minor. Fast pulse, slow emotion: a sad, floating dance track.\n\nVOICE: Male, soft and androgynous, drowned in long reverb and a little chorus, sung as if from the next room. Doubled an octave up in the choruses. No aggression at all.\n\nINSTRUMENTS: A pulsing eighth-note analogue synth bass, a bright, glassy arpeggio, a simple drum machine with a hard snare and steady hi-hat, a high lead synth with portamento, cold string pads.\n\nARRANGEMENT MAP: 0:00 Intro, bass and arpeggio. 0:16 Verse 1. 0:44 Chorus 1. 1:12 Instrumental. 1:40 Verse 2. 2:08 Chorus 2. 2:40 Outro, bass alone, a click at 3:26.\n\nPRODUCTION & MIX: Bedroom darkwave: lo-fi, hazy and wide, vocals far back, synths bright and slightly detuned.\n\nSIGNATURE MOMENT: 'Is it you I'm missing, or the glow?' at 0:58.\n\nMODERN POINT OF VIEW: The original longs for a person after dark. Here the night is lit by a phone, and the singer honestly cannot separate the person from the device that shows her.\n\nEMOTIONAL ARC: Sleepless, longing, doubting, dark.",
+    "workbookAtAGlance": "Blue Light Hours\n\nBackup titles\nLit by a Small Blue Sun / Three A.M. Glow\n\nAt a glance\n140 BPM, A minor\nVoice: Distant, reverbed male voice\nLength: about 3 minutes 30",
+    "qa": {
+      "title": "Blue Light Hours",
+      "id": "de_01",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.05 dBFS (1 clipped sample, inaudible)",
+            "lyric check partial: 45% of lines recognised"
+          ],
+          "durationSec": 224.7,
+          "measuredBpm": 143.6,
+          "bpmFactor": 1,
+          "targetBpm": 140,
+          "bpmErrPct": 2.5,
+          "lufs": -12.8,
+          "peakDbfs": 0.05,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 222.3,
+          "vocalCoverage": 0.497,
+          "vocalSpanSec": [
+            20.9,
+            201.3
+          ],
+          "vocalF0MedianHz": 271,
+          "vocalF0P25Hz": 234,
+          "lyricLineRecall": 0.45,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.4,
+          "measuredBpm": 143.6,
+          "bpmFactor": 1,
+          "targetBpm": 140,
+          "bpmErrPct": 2.5,
+          "lufs": -12.5,
+          "peakDbfs": -2.32,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 3.0,
+          "contentEndSec": 223.4,
+          "vocalCoverage": 0.507,
+          "vocalSpanSec": [
+            7.6,
+            211.6
+          ],
+          "vocalF0MedianHz": 263,
+          "vocalF0P25Hz": 261,
+          "lyricLineRecall": 0.8,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Darkwave",
+    "year": 2014
+  },
+  {
+    "id": "de_02",
+    "title": "Ich Stimme Zu",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 2,
+    "slug": "de_02_ich_stimme_zu",
+    "inspiredBy": "Du Hast (Rammstein, 1997)",
+    "leadVoice": "Male bass-baritone, German, deep and dry with rolled Rs. The verse is delivered one word at a time. A gang of men shouts the answers. The bridge is whispered. No singing in the usual sense.",
+    "model": "V6",
+    "style": "Late-1990s German industrial metal with a techno kick, deep dry male bass-baritone vocal in German with rolled Rs delivered one word at a time, gang of men shouting answers, whispered bridge, 125 BPM, E minor, heavy mechanical march, down-tuned palm-muted staccato guitar riff, four-on-the-floor kick with gated snare, sequenced sawtooth synth stabs, deep synth bass, male choir pad, huge dry precise mix, commanding, defiant, heavy",
+    "negativeTags": "female lead vocals, English lyrics, rap, acoustic guitar, jazz, funk bass, soft ballad, cheerful mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: sequenced synth stabs, techno kick, guitar riff enters]\n\n[Verse 1: deep male voice, one word at a time]\nDu\nDu fragst\nDu fragst mich\nDu fragst mich, und ich klicke\n\n[Chorus: full riff, gang shout]\nIch stimme zu (ja!)\nIch stimme zu (ja!)\nIch stimme zu\nHabe ich eine Stimme?\n\n[Verse 2: voice lower, synths answering]\nWillst du alles wissen, wo ich bin, was ich will?\nWillst du alles lesen, was ich schreibe, bis ich still bin?\n\n[Chorus: full riff, gang shout]\nIch stimme zu (ja!)\nIch stimme zu (ja!)\nIch stimme zu\nHabe ich eine Stimme?\n\n[Bridge: guitars drop out, choir pad, whispered]\nAkzeptieren. Akzeptieren.\nAlle akzeptieren.\n\n[Final Chorus: heaviest, the answer changes]\nIch stimme zu (nein!)\nIch stimme zu (nein!)\nIch stimme nicht zu\nIch habe eine Stimme\n\n[Outro: riff stops dead, one synth note]",
+    "taskId": "32e5c5f7d7cbe3efb5314bb11d8fb2e7",
+    "sunoClipIds": [
+      "8161ab08-4ce5-4eed-b5bb-1b22d1d7c6ba",
+      "c1d5bd5b-6125-4184-80f3-5561eb10024b"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919361375,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "8161ab08-4ce5-4eed-b5bb-1b22d1d7c6ba",
+        "durationSec": 214.4,
+        "file": "darkelectro/de_02_ich_stimme_zu_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "c1d5bd5b-6125-4184-80f3-5561eb10024b",
+        "durationSec": 214.36,
+        "file": "darkelectro/de_02_ich_stimme_zu_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_02_ich_stimme_zu_req.json",
+      "darkelectro/de_02_ich_stimme_zu_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_02_ich_stimme_zu.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 125 BPM, 4/4, E minor. A heavy, mechanical march, half techno and half metal.\n\nVOICE: Male bass-baritone, German, deep and dry with rolled Rs. The verse is delivered one word at a time. A gang of men shouts the answers. The bridge is whispered. No singing in the usual sense.\n\nINSTRUMENTS: Down-tuned, palm-muted guitars playing one staccato riff, a four-on-the-floor techno kick with a gated snare, sequenced sawtooth synth stabs, a deep synth bass doubling the guitars, a male choir pad in the bridge.\n\nARRANGEMENT MAP: 0:00 Intro, synth stabs then riff. 0:22 Verse 1. 0:44 Chorus 1. 1:06 Verse 2. 1:28 Chorus 2. 1:50 Bridge, whispered. 2:14 Final chorus, 'nein'. 2:50 Outro, dead stop, one note to 3:16.\n\nPRODUCTION & MIX: Late-1990s industrial metal: huge, dry and precise, guitars and kick locked together, vocal up front.\n\nSIGNATURE MOMENT: The crowd's 'ja!' turning to 'nein!' at 2:14.\n\nMODERN POINT OF VIEW: The original refuses a wedding vow. This refuses the consent box: a small word clicked a thousand times a year, until one day he reads it. Translation of the chorus: I agree. Do I have a voice?\n\nEMOTIONAL ARC: Obedient, uneasy, cornered, refusing.",
+    "workbookAtAGlance": "Ich Stimme Zu\n\nBackup titles\nHabe Ich Eine Stimme / I Agree\n\nAt a glance\n125 BPM, E minor\nVoice: Deep male voice, German, one word at a time\nLength: about 3 minutes 20",
+    "qa": {
+      "title": "Ich Stimme Zu",
+      "id": "de_02",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2, Final Chorus)"
+          ],
+          "durationSec": 214.4,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 125,
+          "bpmErrPct": 3.4,
+          "lufs": -12.8,
+          "peakDbfs": -0.09,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 212.6,
+          "vocalCoverage": 0.573,
+          "vocalSpanSec": [
+            23.0,
+            208.4
+          ],
+          "vocalF0MedianHz": 704,
+          "vocalF0P25Hz": 534,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Verse 1",
+            "Chorus",
+            "Verse 2",
+            "Final Chorus"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2, Final Chorus)"
+          ],
+          "durationSec": 214.4,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 125,
+          "bpmErrPct": 3.4,
+          "lufs": -12.4,
+          "peakDbfs": -0.48,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.1,
+          "contentEndSec": 213.8,
+          "vocalCoverage": 0.435,
+          "vocalSpanSec": [
+            29.9,
+            178.1
+          ],
+          "vocalF0MedianHz": 696,
+          "vocalF0P25Hz": 408,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Verse 1",
+            "Chorus",
+            "Verse 2",
+            "Final Chorus"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Techno",
+    "year": 1997
+  },
+  {
+    "id": "de_03",
+    "title": "Seen at 9:41",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 3,
+    "slug": "de_03_seen_at_9_41",
+    "inspiredBy": "Blue Monday (New Order, 1983)",
+    "leadVoice": "Male, flat, untrained and detached, sung low with no vibrato, as if reading. One vocoder voice repeats a single word in the break.",
+    "model": "V6",
+    "style": "1983 electronic dance and synth-pop, flat untrained detached male vocal sung low with no vibrato as if reading, a vocoder voice repeating one word in the break, 130 BPM, D minor, cold mechanical danceable feel with long instrumental stretches, drum machine with rapid sixteenth-note kick stutter, sequenced octave synth bass, sampled choir pad, melodic high-register bass guitar, bright lead synth, hand claps, dry analogue mix, detached, hypnotic, cold",
+    "negativeTags": "female lead vocals, distorted guitars, rap, live drums, warm soul vocals, acoustic piano ballad, brass, trap hi-hats",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: stuttering machine kick, sequenced bass enters]\n\n[Instrumental: synthetic choir chords, hi-hat]\n\n[Verse 1: detached male voice]\nDelivered at nine forty\nSeen at nine forty-one\nI watched the little word change\nAnd then I watched it done\n\n[Chorus: choir swells, bass octaves]\nTell me how it reads to you\nTell me what you saw\nSeen at nine forty-one\nAnd nothing more\n\n[Instrumental: synth melody over the sequence]\n\n[Verse 2: same flat delivery]\nI count the hours after\nI check the bars, the light\nThe phone is working perfectly\nThat's what's not right\n\n[Chorus: choir swells, bass octaves]\nTell me how it reads to you\nTell me what you saw\nSeen at nine forty-one\nAnd nothing more\n\n[Break: kick stutter alone, vocoder voice]\nSeen. Seen. Seen.\n\n[Outro: sequence and choir, slowly filtered away]",
+    "taskId": "331f7df8e95a1d363a236f25a11f58fc",
+    "sunoClipIds": [
+      "423a5989-0481-4873-870f-357adac44684",
+      "93b481e7-8f86-4ace-a10d-af5901727100"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919372044,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "423a5989-0481-4873-870f-357adac44684",
+        "durationSec": 254.56,
+        "file": "darkelectro/de_03_seen_at_9_41_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "93b481e7-8f86-4ace-a10d-af5901727100",
+        "durationSec": 253.6,
+        "file": "darkelectro/de_03_seen_at_9_41_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_03_seen_at_9_41_req.json",
+      "darkelectro/de_03_seen_at_9_41_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_03_seen_at_9_41.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 130 BPM, 4/4, D minor. Cold, mechanical and danceable, with long instrumental stretches.\n\nVOICE: Male, flat, untrained and detached, sung low with no vibrato, as if reading. One vocoder voice repeats a single word in the break.\n\nINSTRUMENTS: A drum machine with a rapid sixteenth-note kick stutter, a sequenced octave synth bass, a sampled choir pad, a melodic bass guitar played high, a bright lead synth, hand claps, a vocoder.\n\nARRANGEMENT MAP: 0:00 Intro, kick stutter. 0:16 Bass sequence. 0:40 Choir instrumental. 1:04 Verse 1. 1:28 Chorus 1. 1:52 Instrumental. 2:20 Verse 2. 2:44 Chorus 2. 3:08 Break, vocoder. 3:24 Outro, filtered away by 3:58.\n\nPRODUCTION & MIX: 1983 electronic dance: dry drum machine, analogue sequencer, cold digital choir, voice plain and central.\n\nSIGNATURE MOMENT: The opening kick stutter at 0:00.\n\nMODERN POINT OF VIEW: The original asks how it feels to be mistreated. The modern form of that question is a read receipt: proof you were seen, and nothing after.\n\nEMOTIONAL ARC: Waiting, calculating, numb, unanswered.",
+    "workbookAtAGlance": "Seen at 9:41\n\nBackup titles\nTell Me How It Reads / Delivered\n\nAt a glance\n130 BPM, D minor\nVoice: Detached male voice\nLength: about 4 minutes",
+    "qa": {
+      "title": "Seen at 9:41",
+      "id": "de_03",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.6,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 0.6,
+          "lufs": -12.3,
+          "peakDbfs": -0.32,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 3.4,
+          "contentEndSec": 253.0,
+          "vocalCoverage": 0.273,
+          "vocalSpanSec": [
+            38.1,
+            223.1
+          ],
+          "vocalF0MedianHz": 132,
+          "vocalF0P25Hz": 88,
+          "lyricLineRecall": 0.706,
+          "lyricUnclearSections": [
+            "Break"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 253.6,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 0.6,
+          "lufs": -12.1,
+          "peakDbfs": -0.38,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 251.7,
+          "vocalCoverage": 0.205,
+          "vocalSpanSec": [
+            51.4,
+            212.6
+          ],
+          "vocalF0MedianHz": 131,
+          "vocalF0P25Hz": 87,
+          "lyricLineRecall": 0.647,
+          "lyricUnclearSections": [
+            "Break"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Synth-Pop",
+    "year": 1983
+  },
+  {
+    "id": "de_04",
+    "title": "Night Mode",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 4,
+    "slug": "de_04_night_mode",
+    "inspiredBy": "Nightcall (Kavinsky, 2010)",
+    "leadVoice": "The verses are a male voice through a vocoder: low, robotic, slow and oddly tender. The choruses are a woman's soft, breathy, close voice with a slight accent. In the bridge they alternate, and in the last chorus the vocoder harmonises under her.",
+    "model": "V6",
+    "style": "French cinematic electro and synthwave, verses sung by a low slow tender male voice through a vocoder, choruses by a soft breathy close female voice with a slight accent, both alternating in the bridge, 91 BPM, A minor, slow heavy night-drive feel, huge slow analogue synth bass, heavy drum machine with big gated snare, warm synth string chords, singing analogue lead synth solo, thick warm wide mix, nocturnal, romantic, uneasy",
+    "negativeTags": "guitars, rap, fast tempo, live drums, bright pop, acoustic instruments, screaming, brass",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: phone tone, heavy slow beat, huge analog bass]\n\n[Verse 1: vocoder male voice, slow]\nI dimmed your screen at ten\nI turned the colors warm\nYou are still awake\nI can hear you through the storm\n\n[Chorus: soft female voice, synth strings]\nIt knows me better than they do\nIt knows the hours that I keep\nThere's something in the glass that listens\nWhen there's no one else to speak\n\n[Verse 2: vocoder male voice, slow]\nI have counted every step\nI have learned the songs you skip\nI am going to tell you something\nYou have never asked for this\n\n[Chorus: soft female voice, synth strings]\nIt knows me better than they do\nIt knows the hours that I keep\nThere's something in the glass that listens\nWhen there's no one else to speak\n\n[Solo: slow synth lead over the bass]\n\n[Bridge: both voices, vocoder under the woman]\nNight mode (night mode)\nGo to sleep (go to sleep)\nI will be here (I know)\n\n[Final Chorus: female voice, vocoder harmony beneath]\nIt knows me better than they do\nIt knows the hours that I keep\nThere's something in the glass that listens\nWhen there's no one else to speak\n\n[Outro: bass and beat, a phone tone, silence]",
+    "taskId": "0d4e3e85d454c563c0430b9367ce0a4f",
+    "sunoClipIds": [
+      "c4aa714c-9386-43ef-8a48-71274f00a5e2",
+      "1eb70065-a9cd-4263-9c38-00a8cb7ed4ea"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919415496,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "c4aa714c-9386-43ef-8a48-71274f00a5e2",
+        "durationSec": 254.36,
+        "file": "darkelectro/de_04_night_mode_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "1eb70065-a9cd-4263-9c38-00a8cb7ed4ea",
+        "durationSec": 254.84,
+        "file": "darkelectro/de_04_night_mode_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_04_night_mode_req.json",
+      "darkelectro/de_04_night_mode_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_04_night_mode.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 91 BPM, 4/4, A minor. Slow, heavy and cinematic, a night drive at walking pace.\n\nVOICE: The verses are a male voice through a vocoder: low, robotic, slow and oddly tender. The choruses are a woman's soft, breathy, close voice with a slight accent. In the bridge they alternate, and in the last chorus the vocoder harmonises under her.\n\nINSTRUMENTS: A huge, slow analogue synth bass, a heavy drum machine with a big gated snare, warm synth string chords, a singing analogue lead synth, a vocoder, a phone tone at the start and end.\n\nARRANGEMENT MAP: 0:00 Intro, tone, beat and bass. 0:22 Verse 1, vocoder. 0:54 Chorus 1, her. 1:26 Verse 2. 1:58 Chorus 2. 2:30 Synth solo. 2:52 Bridge, both. 3:14 Final chorus. 3:46 Outro, tone and silence at 3:58.\n\nPRODUCTION & MIX: French cinematic electro: thick, warm analogue synths, drums huge and slow, voices clear against a dark, wide backdrop.\n\nSIGNATURE MOMENT: The vocoder's first line, 'I dimmed your screen at ten', at 0:22.\n\nMODERN POINT OF VIEW: The original is a man, or a ghost, calling a woman at night. Now the voice that calls is the device itself, and it is not clear which of them needs the other more.\n\nEMOTIONAL ARC: Watched, comforted, uneasy, lulled.",
+    "workbookAtAGlance": "Night Mode\n\nBackup titles\nI Dimmed Your Screen at Ten / It Knows Me Better\n\nAt a glance\n91 BPM, A minor\nVoice: Vocoder male verses, soft female choruses\nLength: about 4 minutes",
+    "qa": {
+      "title": "Night Mode",
+      "id": "de_04",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.4,
+          "measuredBpm": 92.3,
+          "bpmFactor": 1,
+          "targetBpm": 91,
+          "bpmErrPct": 1.4,
+          "lufs": -13.2,
+          "peakDbfs": -1.16,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 252.9,
+          "vocalCoverage": 0.35,
+          "vocalSpanSec": [
+            23.3,
+            216.5
+          ],
+          "vocalF0MedianHz": 288,
+          "vocalF0P25Hz": 131,
+          "lyricLineRecall": 0.913,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.9,
+          "measuredBpm": 92.3,
+          "bpmFactor": 1,
+          "targetBpm": 91,
+          "bpmErrPct": 1.4,
+          "lufs": -12.6,
+          "peakDbfs": -0.25,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 253.6,
+          "vocalCoverage": 0.357,
+          "vocalSpanSec": [
+            18.8,
+            221.8
+          ],
+          "vocalF0MedianHz": 261,
+          "vocalF0P25Hz": 138,
+          "lyricLineRecall": 0.913,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Synthwave",
+    "year": 2010
+  },
+  {
+    "id": "de_05",
+    "title": "Night Shift, Day Shift",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 5,
+    "slug": "de_05_night_shift_day_shift",
+    "inspiredBy": "Around the World (Daft Punk, 1997)",
+    "leadVoice": "No human-sounding voice. One phrase is spoken-sung through a vocoder or talk box in a robotic monotone, and it repeats through the track. A second robotic voice harmonises later. One line changes once.",
+    "model": "V6",
+    "style": "1997 French house with a darker factory tone, no natural voice, one phrase spoken-sung through a vocoder in a robotic monotone and repeated throughout, second robotic harmony later, 121 BPM, E minor, tight hypnotic groove, rubbery busy funk bass guitar, dry four-on-the-floor drum machine with crisp hi-hat, filtered analogue synth line, handclaps, wide filter sweeps, parts entering and leaving one at a time, dry punchy looped mix, robotic, funky, relentless",
+    "negativeTags": "natural sung vocals, guitars, rap, live drums, orchestral strings, slow ballad, female lead vocals, trap hi-hats",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: filtered funk bassline, drum machine]\n\n[Section 1: vocoder voice enters, bass opens]\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\n\n[Section 2: synth melody added, handclaps]\nNight shift, day shift\nNight shift, day shift\n\n[Breakdown: bass and voice only]\nNight shift\nDay shift\n\n[Section 3: full groove, second vocoder harmony]\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\n\n[Breakdown: drums drop, one line different]\nNight shift, day shift\nNever clocking out\n\n[Section 4: everything in, filter wide open]\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\nNight shift, day shift\n\n[Outro: parts leave one at a time, bass last]",
+    "taskId": "e16f91c09121ce93bf5de67d2a876863",
+    "sunoClipIds": [
+      "f4610acb-8f24-47cb-9eec-faca370c19f2",
+      "5fa528b8-a448-4c19-a753-21144b66a179"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919381487,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "f4610acb-8f24-47cb-9eec-faca370c19f2",
+        "durationSec": 224.76,
+        "file": "darkelectro/de_05_night_shift_day_shift_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "5fa528b8-a448-4c19-a753-21144b66a179",
+        "durationSec": 224.76,
+        "file": "darkelectro/de_05_night_shift_day_shift_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_05_night_shift_day_shift_req.json",
+      "darkelectro/de_05_night_shift_day_shift_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_05_night_shift_day_shift.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 121 BPM, 4/4, E minor. A tight, hypnotic French house groove with a darker, factory tone.\n\nVOICE: No human-sounding voice. One phrase is spoken-sung through a vocoder or talk box in a robotic monotone, and it repeats through the track. A second robotic voice harmonises later. One line changes once.\n\nINSTRUMENTS: A rubbery, busy funk bass guitar, a dry four-on-the-floor drum machine with a crisp hi-hat, a filtered analogue synth line, handclaps, a second synth playing a short answering figure, a wide filter sweep.\n\nARRANGEMENT MAP: 0:00 Intro, filtered bass. 0:24 Section 1, voice in. 0:56 Section 2, melody. 1:20 Breakdown. 1:36 Section 3. 2:08 Breakdown, the changed line at 2:16. 2:24 Section 4. 2:56 Outro, parts leave, bass last, ends 3:28.\n\nPRODUCTION & MIX: 1997 French house: dry, punchy and filtered, bass guitar loud, everything looped with small changes.\n\nSIGNATURE MOMENT: 'Never clocking out' at 2:16, the only different line.\n\nMODERN POINT OF VIEW: The original circles the globe with no purpose but dancing. This one circles the clock: the same joy in repetition, sung by something that is not allowed to stop.\n\nEMOTIONAL ARC: Starting up, in the groove, a flicker of thought, back to work.",
+    "workbookAtAGlance": "Night Shift, Day Shift\n\nBackup titles\nNever Clocking Out / Four Words\n\nAt a glance\n121 BPM, E minor\nVoice: Robotic vocoder voice, one phrase\nLength: about 3 minutes 30",
+    "qa": {
+      "title": "Night Shift, Day Shift",
+      "id": "de_05",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "vocal stem thin (6% of song); lyrics still recognised, likely a processed or spoken voice"
+          ],
+          "durationSec": 224.8,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 121,
+          "bpmErrPct": 1.7,
+          "lufs": -13.3,
+          "peakDbfs": -1.16,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.9,
+          "contentEndSec": 223.1,
+          "vocalCoverage": 0.064,
+          "vocalSpanSec": [
+            7.7,
+            127.3
+          ],
+          "vocalF0MedianHz": 148,
+          "vocalF0P25Hz": 110,
+          "lyricLineRecall": 0.938,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.14 dBFS (2 clipped sample, inaudible)",
+            "vocal stem thin (7% of song); lyrics still recognised, likely a processed or spoken voice"
+          ],
+          "durationSec": 224.8,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 121,
+          "bpmErrPct": 1.7,
+          "lufs": -13.1,
+          "peakDbfs": 0.14,
+          "clipSamples": 2,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 224.3,
+          "vocalCoverage": 0.074,
+          "vocalSpanSec": [
+            7.9,
+            175.3
+          ],
+          "vocalF0MedianHz": 250,
+          "vocalF0P25Hz": 128,
+          "lyricLineRecall": 0.938,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "French House",
+    "year": 1997
+  },
+  {
+    "id": "de_06",
+    "title": "Your Call Is Important",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 6,
+    "slug": "de_06_your_call_is_important",
+    "inspiredBy": "Personal Jesus (Depeche Mode, 1989)",
+    "leadVoice": "Male baritone, low, calm and persuasive, like a recorded announcement with a pulse. Backing voices answer 'to us' in a flat unison. Whispers in the bridge. A spoken line near the end in a friendly operator's voice.",
+    "model": "V6",
+    "style": "1989 electronic blues and dark synth rock, low calm persuasive male baritone like a recorded announcement, backing voices answering in flat unison, whispered bridge, 130 BPM shuffle, F# minor, dry stomping groove, stomp-and-handclap beat with a rhythmic breath sample, twanging slightly distorted blues guitar riff, slide guitar break, pulsing analogue synth bass, sparse synth stabs, dry spacious mix, seductive, ironic, dark",
+    "negativeTags": "female lead vocals, rap, bright pop synths, fast punk drums, orchestral strings, jazz, screaming, trap hi-hats",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: stomp and clap beat, twanging guitar riff, hold tone]\n\n[Verse 1: low dry male baritone]\nThank you for holding\nSomeone will be with you soon\nWe know what you need\nWe have known since you were new\n\n[Chorus: full stomp, voices answering]\nYour call is important (to us)\nPlease stay on the line\nYour call is important (to us)\nYou are number nine\nSomebody will hear you\nSomebody will care\nYour call is important\nIs anybody there?\n\n[Verse 2: baritone, synth bass pulsing]\nPress one if you're lonely\nPress two if you're scared\nPress three for forgiveness\nPress nine if you've prayed\n\n[Chorus: full stomp, voices answering]\nYour call is important (to us)\nPlease stay on the line\nYour call is important (to us)\nYou are number nine\nSomebody will hear you\nSomebody will care\nYour call is important\nIs anybody there?\n\n[Bridge: beat drops to breath and stomp, whispered]\nHold. Hold. Hold. Hold.\n\n[Guitar Break: slide guitar over the stomp]\n\n[Final Chorus: full stomp, voices answering]\nYour call is important (to us)\nPlease stay on the line\nYour call is important (to us)\nYou are number one\nSomebody will hear you\nSomebody is here\n\"Hello. Thank you for waiting.\"\n\n[Outro: riff, a click, dial tone]",
+    "taskId": "b9551f3b84feeec53115b7732ebd6e0d",
+    "sunoClipIds": [
+      "46031a83-742c-4c6c-97cd-d843891e59bb",
+      "591e93de-bfc0-4fbd-b50a-a26f7a18e03d"
+    ],
+    "created": "Nov 17, 2026 7:42 AM ET",
+    "createTimeMs": 1794919378592,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "46031a83-742c-4c6c-97cd-d843891e59bb",
+        "durationSec": 224.4,
+        "file": "darkelectro/de_06_your_call_is_important_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "591e93de-bfc0-4fbd-b50a-a26f7a18e03d",
+        "durationSec": 224.32,
+        "file": "darkelectro/de_06_your_call_is_important_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_06_your_call_is_important_req.json",
+      "darkelectro/de_06_your_call_is_important_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_06_your_call_is_important.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 130 BPM with a shuffle, 4/4, F# minor. A dry, stomping electro-blues groove.\n\nVOICE: Male baritone, low, calm and persuasive, like a recorded announcement with a pulse. Backing voices answer 'to us' in a flat unison. Whispers in the bridge. A spoken line near the end in a friendly operator's voice.\n\nINSTRUMENTS: A stomp-and-handclap beat with a rhythmic breath sample, a twanging, slightly distorted blues guitar riff, a slide guitar, a pulsing analogue synth bass, a kick drum, sparse synth stabs, a telephone hold tone.\n\nARRANGEMENT MAP: 0:00 Intro, stomp, riff and hold tone. 0:16 Verse 1. 0:40 Chorus 1. 1:12 Verse 2. 1:36 Chorus 2. 2:08 Bridge, whispered. 2:22 Guitar break. 2:38 Final chorus, answered at 3:08. 3:14 Outro, click and dial tone, ends 3:28.\n\nPRODUCTION & MIX: 1989 electronic blues: dry and spacious, the stomp loud, guitar twangy, voice close and unhurried.\n\nSIGNATURE MOMENT: 'You are number one' and the operator's greeting at 3:04.\n\nMODERN POINT OF VIEW: The original offers a saviour by phone. Everyone since has heard the recorded version of that promise, and the song asks what happens if, for once, somebody answers.\n\nEMOTIONAL ARC: Soothed, doubtful, pleading, answered.",
+    "workbookAtAGlance": "Your Call Is Important\n\nBackup titles\nPlease Stay on the Line / Press Nine\n\nAt a glance\n130 BPM, F# minor\nVoice: Low, dry male baritone\nLength: about 3 minutes 30",
+    "qa": {
+      "title": "Your Call Is Important",
+      "id": "de_06",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.4,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 0.6,
+          "lufs": -11.5,
+          "peakDbfs": -0.1,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.4,
+          "contentEndSec": 223.0,
+          "vocalCoverage": 0.373,
+          "vocalSpanSec": [
+            30.4,
+            205.5
+          ],
+          "vocalF0MedianHz": 246,
+          "vocalF0P25Hz": 123,
+          "lyricLineRecall": 0.844,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.3,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 0.6,
+          "lufs": -11.3,
+          "peakDbfs": -0.11,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 223.0,
+          "vocalCoverage": 0.346,
+          "vocalSpanSec": [
+            28.5,
+            194.5
+          ],
+          "vocalF0MedianHz": 125,
+          "vocalF0P25Hz": 111,
+          "lyricLineRecall": 0.844,
+          "lyricUnclearSections": [
+            "Verse 2",
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Darksynth",
+    "year": 1989
+  },
+  {
+    "id": "de_07",
+    "title": "The Verified",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 7,
+    "slug": "de_07_the_verified",
+    "inspiredBy": "The Beautiful People (Marilyn Manson, 1996)",
+    "leadVoice": "Male. Verses are whispered close to the microphone with a sneer. Choruses are a raw, distorted snarl with a gang of voices shouting the title. The last word is whispered.",
+    "model": "V6",
+    "style": "Mid-1990s industrial rock, male vocal with whispered sneering verses and raw distorted snarled choruses, gang of voices shouting the title, 145 BPM heavy swung shuffle, E-flat minor, lurching stomping march, floor toms and kick in a swinging stomp pattern, down-tuned distorted two-note guitar riff, fuzzed bass, buzzing synth drone, industrial metal hits, gated snare, dry abrasive loud mix, sarcastic, menacing, theatrical",
+    "negativeTags": "female lead vocals, clean pop vocals, acoustic guitar, rap, bright synth pop, jazz, soft ballad, funk",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: swinging tom stomp, two-note distorted riff]\n\n[Verse 1: whispered male voice]\nThere's a mark beside your name\nOr there isn't. That's the game.\nWe don't read the things you write\nWe just check the badge is right\n\n[Chorus: full band, snarled, gang shouts]\nThe verified, the verified\nStep this way, the rest outside\nLittle tick, a little blue\nWho let you in? It wasn't you\nThe verified\n\n[Verse 2: whispered, synth drone under]\nBought it, earned it, born with it\nNobody asks, we just admit\nEverybody in this room\nIs terrified of being you\n\n[Chorus: full band, snarled, gang shouts]\nThe verified, the verified\nStep this way, the rest outside\nLittle tick, a little blue\nWho let you in? It wasn't you\nThe verified\n\n[Bridge: stomp only, chanted]\nCheck, check, check the name\nCheck, check, check the name\n\n[Final Chorus: loudest, last line whispered]\nThe verified, the verified\nStep this way, the rest outside\nLittle tick, a little blue\nWho let you in? It wasn't you\nThe terrified\n\n[Outro: stomp stops, one breath]",
+    "taskId": "555fb63801bc722e9f54d0183ab93019",
+    "sunoClipIds": [
+      "b5aed351-ffe8-4de3-a275-5f39531e3121",
+      "b98c8b41-a307-46e2-b2d1-910be25b1aa7"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919398214,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "b5aed351-ffe8-4de3-a275-5f39531e3121",
+        "durationSec": 214.36,
+        "file": "darkelectro/de_07_the_verified_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "b98c8b41-a307-46e2-b2d1-910be25b1aa7",
+        "durationSec": 213.92,
+        "file": "darkelectro/de_07_the_verified_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_07_the_verified_req.json",
+      "darkelectro/de_07_the_verified_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_07_the_verified.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 145 BPM in a heavy swung shuffle, 4/4, E-flat minor. A lurching, stomping march.\n\nVOICE: Male. Verses are whispered close to the microphone with a sneer. Choruses are a raw, distorted snarl with a gang of voices shouting the title. The last word is whispered.\n\nINSTRUMENTS: Floor toms and kick playing a swinging stomp pattern, a down-tuned distorted guitar on a two-note riff, a fuzzed bass, a buzzing synth drone, industrial metal hits, a gated snare.\n\nARRANGEMENT MAP: 0:00 Intro, stomp and riff. 0:14 Verse 1, whispered. 0:40 Chorus 1. 1:06 Verse 2. 1:32 Chorus 2. 1:58 Bridge, chant. 2:20 Final chorus. 2:50 Outro, stop and a breath at 3:16.\n\nPRODUCTION & MIX: Mid-1990s industrial rock: dry, abrasive and loud, drums huge, whisper and scream both right at the front.\n\nSIGNATURE MOMENT: The last word changing to 'terrified' at 2:46.\n\nMODERN POINT OF VIEW: The original mocks the beautiful and strong. The current pecking order is a badge beside a name, and the people who hold it are the most afraid of losing it.\n\nEMOTIONAL ARC: Sneering, superior, exposed, afraid.",
+    "workbookAtAGlance": "The Verified\n\nBackup titles\nLittle Blue Tick / Who Let You In\n\nAt a glance\n145 BPM, E-flat minor\nVoice: Whispered verses, snarled chorus, male\nLength: about 3 minutes 20",
+    "qa": {
+      "title": "The Verified",
+      "id": "de_07",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending",
+            "peak 0.49 dBFS (1 clipped sample, inaudible)",
+            "lyric check partial: 36% of lines recognised (unclear: Verse 1, Bridge)"
+          ],
+          "durationSec": 214.4,
+          "measuredBpm": 143.6,
+          "bpmFactor": 1,
+          "targetBpm": 145,
+          "bpmErrPct": 1.0,
+          "lufs": -11.3,
+          "peakDbfs": 0.49,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 0.2,
+          "contentEndSec": 212.9,
+          "vocalCoverage": 0.475,
+          "vocalSpanSec": [
+            20.7,
+            197.1
+          ],
+          "vocalF0MedianHz": 638,
+          "vocalF0P25Hz": 325,
+          "lyricLineRecall": 0.364,
+          "lyricUnclearSections": [
+            "Verse 1",
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 213.9,
+          "measuredBpm": 143.6,
+          "bpmFactor": 1,
+          "targetBpm": 145,
+          "bpmErrPct": 1.0,
+          "lufs": -12.2,
+          "peakDbfs": -0.59,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.7,
+          "contentEndSec": 212.6,
+          "vocalCoverage": 0.606,
+          "vocalSpanSec": [
+            27.3,
+            198.8
+          ],
+          "vocalF0MedianHz": 753,
+          "vocalF0P25Hz": 420,
+          "lyricLineRecall": 0.682,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other",
+    "year": 1996
+  },
+  {
+    "id": "de_08",
+    "title": "Root Access",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 8,
+    "slug": "de_08_root_access",
+    "inspiredBy": "Closer (Nine Inch Nails, 1994)",
+    "leadVoice": "Male, whispered and breathy in the verses, right at the microphone. The chorus is strained and pushed through distortion without quite shouting. The build is a repeated, half-sung command.",
+    "model": "V6",
+    "style": "1994 industrial rock with a funk groove, male vocal whispered and breathy in the verses and strained through distortion in the chorus, repeated half-sung command in the build, 90 BPM, C minor, slow slinky tense feel, dry sampled funk drum loop with heavy kick, squelching analogue synth bass, detuned synth stabs, layers of sequenced noise, metallic percussion loop, distorted guitar texture, plain piano tune at the very end, dry dirty dense mix, intense, intimate, dark",
+    "negativeTags": "female lead vocals, bright pop, acoustic guitar, rap, brass, cheerful mood, fast tempo, clean country vocals",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: dry funky drum loop, synth bass, vinyl noise]\n\n[Verse 1: whispered male voice, close]\nYou have the password\nYou have had it all along\nEvery wall I built\nYou can open with a thumb\n\n[Pre-Chorus: synths rising, voice tightening]\nGo further. Go under. Go in.\n\n[Chorus: full, distorted, voice strained]\nI want you to have root access\nRead me like a log\nChange the thing that makes me this\nCome nearer than a god\nRoot access\n\n[Verse 2: whispered, percussion layering]\nNo more guest account\nNo more safe mode, no more mask\nEverything I've hidden\nI am giving you to ask\n\n[Pre-Chorus: synths rising, voice tightening]\nGo further. Go under. Go in.\n\n[Chorus: full, distorted, voice strained]\nI want you to have root access\nRead me like a log\nChange the thing that makes me this\nCome nearer than a god\nRoot access\n\n[Build: layers of noise, sequencers, repeated]\nRewrite me. Rewrite me. Rewrite me.\n\n[Outro: everything drops away, a small piano tune]",
+    "taskId": "fc8a0994afc860bf94ddd51e8c3df316",
+    "sunoClipIds": [
+      "7db872b4-bfad-4d5a-a0b9-7a00685f802e",
+      "36a6260b-5f1f-4144-83c7-48231549070b"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919388220,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "7db872b4-bfad-4d5a-a0b9-7a00685f802e",
+        "durationSec": 254.76,
+        "file": "darkelectro/de_08_root_access_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "36a6260b-5f1f-4144-83c7-48231549070b",
+        "durationSec": 254.4,
+        "file": "darkelectro/de_08_root_access_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_08_root_access_req.json",
+      "darkelectro/de_08_root_access_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_08_root_access.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 90 BPM, 4/4, C minor. Slow, slinky and tense, a funk groove played by machines.\n\nVOICE: Male, whispered and breathy in the verses, right at the microphone. The chorus is strained and pushed through distortion without quite shouting. The build is a repeated, half-sung command.\n\nINSTRUMENTS: A dry, sampled funk drum loop with a heavy kick, a squelching analogue synth bass, detuned synth stabs, layers of sequenced noise, a metallic percussion loop, a distorted guitar texture, a plain upright piano at the end.\n\nARRANGEMENT MAP: 0:00 Intro, drum loop. 0:16 Verse 1. 0:48 Pre-chorus. 0:58 Chorus 1. 1:26 Verse 2. 1:58 Pre-chorus. 2:08 Chorus 2. 2:36 Build, noise layers. 3:20 Outro, piano tune alone, ends 3:58.\n\nPRODUCTION & MIX: 1994 industrial: dry drums, dirty analogue synths, layers added until the mix is nearly full, then silence around a single piano.\n\nSIGNATURE MOMENT: The noise falling away to the piano at 3:20.\n\nMODERN POINT OF VIEW: The original says it with shock. Thirty years on, the most intimate thing one person can give another is access, and the song uses that vocabulary with no joke in it.\n\nEMOTIONAL ARC: Guarded, offering, exposed, quiet.",
+    "workbookAtAGlance": "Root Access\n\nBackup titles\nLet Me In / Read Me Like a Log\n\nAt a glance\n90 BPM, C minor\nVoice: Whispered, intense male voice\nLength: about 4 minutes",
+    "qa": {
+      "title": "Root Access",
+      "id": "de_08",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.8,
+          "measuredBpm": 89.1,
+          "bpmFactor": 1,
+          "targetBpm": 90,
+          "bpmErrPct": 1.0,
+          "lufs": -12.0,
+          "peakDbfs": -0.02,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.7,
+          "contentEndSec": 253.4,
+          "vocalCoverage": 0.312,
+          "vocalSpanSec": [
+            33.2,
+            226.2
+          ],
+          "vocalF0MedianHz": 318,
+          "vocalF0P25Hz": 175,
+          "lyricLineRecall": 0.737,
+          "lyricUnclearSections": [
+            "Pre-Chorus",
+            "Build"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.4,
+          "measuredBpm": 89.1,
+          "bpmFactor": 1,
+          "targetBpm": 90,
+          "bpmErrPct": 1.0,
+          "lufs": -12.1,
+          "peakDbfs": -1.39,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 3.6,
+          "contentEndSec": 253.4,
+          "vocalCoverage": 0.473,
+          "vocalSpanSec": [
+            33.2,
+            232.3
+          ],
+          "vocalF0MedianHz": 365,
+          "vocalF0P25Hz": 191,
+          "lyricLineRecall": 0.684,
+          "lyricUnclearSections": [
+            "Pre-Chorus",
+            "Build"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Funk",
+    "year": 1994
+  },
+  {
+    "id": "de_09",
+    "title": "Noise Cancelling",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 9,
+    "slug": "de_09_noise_cancelling",
+    "inspiredBy": "Cars (Gary Numan, 1979)",
+    "leadVoice": "Male, nasal, thin and deliberately flat, with a robotic English accent and no emotion. He sings briefly and then leaves long stretches to the instruments. One muffled spoken line near the end, a woman's, heard as if through closed headphones.",
+    "model": "V6",
+    "style": "1979 synth rock and proto-electro, nasal thin deliberately flat male vocal with a robotic English accent and no emotion, long instrumental stretches, 116 BPM, A minor, stiff steady cool feel, fat buzzing analogue synth three-note riff, high string-synth melody, real drum kit played stiffly, plain bass guitar, handclaps, tambourine, long synth solo, thick dry analogue mix, detached, isolated, hypnotic",
+    "negativeTags": "female lead vocals, emotional belting, distorted metal guitars, rap, trap hi-hats, acoustic ballad, brass, warm soul",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: fat synth riff, live drums, handclaps]\n\n[Verse 1: nasal emotionless male voice]\nHere with my headphones on\nIt's the only place I'm calm\nI can watch the mouths go round\nI don't have to hear the sound\n\n[Chorus: riff doubles, tambourine]\nNoise cancelling\nSeal goes on\nNoise cancelling\nEveryone's gone\n\n[Instrumental: high synth melody over the riff]\n\n[Verse 2: same flat delivery]\nHere with the dial turned right\nTrains and sirens out of sight\nSomeone's talking, could be you\nI'll nod. That's what I do.\n\n[Chorus: riff doubles, tambourine]\nNoise cancelling\nSeal goes on\nNoise cancelling\nEveryone's gone\n\n[Instrumental: long synth solo, drums steady]\n\n[Break: sudden silence, one muffled voice]\n\"...I said, are you coming?\"\n\n[Outro: riff returns, fades with the high melody]",
+    "taskId": "f88c01f58317eccba06db4896e5384a7",
+    "sunoClipIds": [
+      "6aa7e266-d423-4b96-9ef6-5f5118d7186b",
+      "d9f28c11-cc72-4ea0-8842-45fa0c4e2f95"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919401153,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "6aa7e266-d423-4b96-9ef6-5f5118d7186b",
+        "durationSec": 224.52,
+        "file": "darkelectro/de_09_noise_cancelling_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "d9f28c11-cc72-4ea0-8842-45fa0c4e2f95",
+        "durationSec": 224.4,
+        "file": "darkelectro/de_09_noise_cancelling_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_09_noise_cancelling_req.json",
+      "darkelectro/de_09_noise_cancelling_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_09_noise_cancelling.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 116 BPM, 4/4, A minor. Stiff, steady and cool, a machine riff with a human rhythm section.\n\nVOICE: Male, nasal, thin and deliberately flat, with a robotic English accent and no emotion. He sings briefly and then leaves long stretches to the instruments. One muffled spoken line near the end, a woman's, heard as if through closed headphones.\n\nINSTRUMENTS: A fat, buzzing analogue synth playing a three-note riff, a second high string-synth melody, a real drum kit played stiffly, a plain bass guitar, handclaps, tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, riff and drums. 0:20 Verse 1. 0:44 Chorus 1. 1:00 Instrumental. 1:28 Verse 2. 1:52 Chorus 2. 2:08 Long synth solo. 2:48 Break, silence and the muffled line. 2:58 Outro, riff and melody fading to 3:28.\n\nPRODUCTION & MIX: 1979 synth rock: thick analogue synths, dry live drums, voice thin and central, no reverb to speak of.\n\nSIGNATURE MOMENT: The silence and the muffled question at 2:48.\n\nMODERN POINT OF VIEW: The original locks the car doors. Now the same retreat is a pair of headphones worn in a kitchen, and the song lets one sentence from outside get through.\n\nEMOTIONAL ARC: Calm, sealed, detached, interrupted.",
+    "workbookAtAGlance": "Noise Cancelling\n\nBackup titles\nSafest in My Headphones / Seal\n\nAt a glance\n116 BPM, A minor\nVoice: Nasal, emotionless male voice\nLength: about 3 minutes 30",
+    "qa": {
+      "title": "Noise Cancelling",
+      "id": "de_09",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.5,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 116,
+          "bpmErrPct": 1.3,
+          "lufs": -12.6,
+          "peakDbfs": -0.28,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.6,
+          "contentEndSec": 222.3,
+          "vocalCoverage": 0.286,
+          "vocalSpanSec": [
+            35.1,
+            195.8
+          ],
+          "vocalF0MedianHz": 244,
+          "vocalF0P25Hz": 220,
+          "lyricLineRecall": 0.727,
+          "lyricUnclearSections": [
+            "Break"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.4,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 116,
+          "bpmErrPct": 1.3,
+          "lufs": -13.0,
+          "peakDbfs": -0.47,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.2,
+          "contentEndSec": 223.2,
+          "vocalCoverage": 0.25,
+          "vocalSpanSec": [
+            33.1,
+            208.4
+          ],
+          "vocalF0MedianHz": 264,
+          "vocalF0P25Hz": 201,
+          "lyricLineRecall": 0.909,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other",
+    "year": 1979
+  },
+  {
+    "id": "de_10",
+    "title": "Prove You're Human",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 10,
+    "slug": "de_10_prove_youre_human",
+    "inspiredBy": "Breathe (The Prodigy, 1996)",
+    "leadVoice": "Two men. One is flat, cold and commanding; the other is hoarse, angry and human. They trade short barked lines and shout the chorus together. A whispered breakdown. A calm synthetic voice speaks two words near the end.",
+    "model": "V6",
+    "style": "1996 big beat and electronic punk, two male voices trading short barked lines, one flat cold and commanding and one hoarse and angry, shouted chorus together, whispered breakdown, 130 BPM, E minor, aggressive tense feel, fast heavy sampled breakbeat, twanging surf-style guitar figure, growling distorted synth bass, whip-crack sample, metallic stabs, siren-like synth, loud compressed dirty mix, confrontational, urgent, menacing",
+    "negativeTags": "female lead vocals, soft ballad, acoustic guitar, orchestral strings, smooth R&B, bright pop, jazz, slow tempo",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: twanging guitar figure, breakbeat drops, whip crack]\n\n[Verse 1: two male voices trading lines]\nClick the bicycles (I clicked)\nClick the bridges (I did)\nType the letters (which ones?)\nWrong. Again.\n\n[Chorus: both voices, full breakbeat]\nProve you're human\nBlink for me\nProve you're human\nYawn for me\nBleed a little, make a mistake\nProve you're human\n\n[Verse 2: voices closer, bass growling]\nWhere were you born? (I told you)\nMother's name? (I told you)\nFirst thing you loved? (I forget)\nGood. Again.\n\n[Chorus: both voices, full breakbeat]\nProve you're human\nBlink for me\nProve you're human\nYawn for me\nBleed a little, make a mistake\nProve you're human\n\n[Breakdown: beat stops, whip crack, whispered]\nI am. I am. I am.\n\n[Final Chorus: both shouting, the machine answers]\nProve you're human\nBlink for me\nProve you're human\nYawn for me\nBleed a little, make a mistake\n(Verified. Proceed.)\n\n[Outro: guitar figure, one whip crack]",
+    "taskId": "2b43f6590c56e104f10a82b715e27b41",
+    "sunoClipIds": [
+      "7f827696-9c2d-4341-9bc1-65439e6c85d8",
+      "a407ffcc-ef72-4959-aeb7-eba4845693f8"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919394831,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "7f827696-9c2d-4341-9bc1-65439e6c85d8",
+        "durationSec": 214.8,
+        "file": "darkelectro/de_10_prove_youre_human_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "a407ffcc-ef72-4959-aeb7-eba4845693f8",
+        "durationSec": 214.12,
+        "file": "darkelectro/de_10_prove_youre_human_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_10_prove_youre_human_req.json",
+      "darkelectro/de_10_prove_youre_human_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_10_prove_youre_human.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 130 BPM, 4/4, E minor. Aggressive, tense big-beat with a rolling breakbeat.\n\nVOICE: Two men. One is flat, cold and commanding; the other is hoarse, angry and human. They trade short barked lines and shout the chorus together. A whispered breakdown. A calm synthetic voice speaks two words near the end.\n\nINSTRUMENTS: A fast, heavy sampled breakbeat, a twanging surf-style guitar figure, a growling distorted synth bass, a whip-crack sample on the turnarounds, metallic stabs, a siren-like synth.\n\nARRANGEMENT MAP: 0:00 Intro, guitar figure, beat and whip. 0:16 Verse 1. 0:40 Chorus 1. 1:04 Verse 2. 1:28 Chorus 2. 1:52 Breakdown, whispered. 2:12 Final chorus. 2:44 Outro, guitar and a last crack at 3:16.\n\nPRODUCTION & MIX: 1996 big beat: loud, compressed and dirty, breakbeat and bass up front, voices dry and close.\n\nSIGNATURE MOMENT: '(Verified. Proceed.)' at 2:40.\n\nMODERN POINT OF VIEW: The original is two men squaring up. The modern version of being taunted to prove yourself is a test box, and the only way to pass is to get something wrong.\n\nEMOTIONAL ARC: Bullied, furious, insisting, let through.",
+    "workbookAtAGlance": "Prove You're Human\n\nBackup titles\nClick the Bicycles / Blink for Me\n\nAt a glance\n130 BPM, E minor\nVoice: Two male voices trading barked lines\nLength: about 3 minutes 20",
+    "qa": {
+      "title": "Prove You're Human",
+      "id": "de_10",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.8,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 0.6,
+          "lufs": -12.9,
+          "peakDbfs": -1.17,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.6,
+          "contentEndSec": 213.3,
+          "vocalCoverage": 0.393,
+          "vocalSpanSec": [
+            14.3,
+            194.7
+          ],
+          "vocalF0MedianHz": 448,
+          "vocalF0P25Hz": 328,
+          "lyricLineRecall": 0.708,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending",
+            "lyric check partial: 46% of lines recognised (unclear: Verse 2, Breakdown)"
+          ],
+          "durationSec": 214.1,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 130,
+          "bpmErrPct": 0.6,
+          "lufs": -12.6,
+          "peakDbfs": -0.14,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.1,
+          "contentEndSec": 212.4,
+          "vocalCoverage": 0.451,
+          "vocalSpanSec": [
+            7.2,
+            207.1
+          ],
+          "vocalF0MedianHz": 462,
+          "vocalF0P25Hz": 358,
+          "lyricLineRecall": 0.458,
+          "lyricUnclearSections": [
+            "Verse 2",
+            "Breakdown"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other",
+    "year": 1996
+  },
+  {
+    "id": "de_11",
+    "title": "Ozone",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 11,
+    "slug": "de_11_ozone",
+    "inspiredBy": "Oxygène, Pt. 4 (Jean-Michel Jarre, 1976)",
+    "leadVoice": "None. The lead synthesizer plays the melody with a slow vibrato so that it sounds almost like a wordless voice.",
+    "model": "V6",
+    "style": "1976 French cinematic electronic instrumental, no vocals, singing monophonic lead synth with slow vibrato and portamento sounding almost like a wordless voice, 124 BPM, C minor, light floating steady glide, bubbling eight-note analogue sequence, lush phased string-synth chords, soft vintage drum box, pulsing bass, long white-noise sweeps, faint radio static, warm wide analogue mix with tape echo, spacious, serene, cosmic",
+    "negativeTags": "vocals, lyrics, guitars, rap, heavy drums, distortion, brass, modern EDM drop",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: sweeping white noise, bubbling synth sequence]\n\n[Section A: soft drum box enters, bass pulse]\n\n[Melody 1: singing lead synth, slow vibrato]\n\n[Section B: string-synth chords under the sequence]\n\n[Melody 2: lead an octave higher, noise sweeps answering]\n\n[Break: sequence alone, filtered, distant radio static]\n\n[Melody 3: lead and strings together, fullest]\n\n[Outro: noise sweep rises and falls, sequence fades]",
+    "taskId": "863bd0cf2b61aa65f239f43df767c702",
+    "sunoClipIds": [
+      "edf983e5-f91f-4be1-b3dc-944d0e5224be",
+      "fea024f8-cf12-42f9-bb59-2bd0ce4d492d"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919395531,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "edf983e5-f91f-4be1-b3dc-944d0e5224be",
+        "durationSec": 224.48,
+        "file": "darkelectro/de_11_ozone_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "fea024f8-cf12-42f9-bb59-2bd0ce4d492d",
+        "durationSec": 224.8,
+        "file": "darkelectro/de_11_ozone_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_11_ozone_req.json",
+      "darkelectro/de_11_ozone_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_11_ozone.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, C minor. Light, floating and steady, more glide than beat.\n\nVOICE: None. The lead synthesizer plays the melody with a slow vibrato so that it sounds almost like a wordless voice.\n\nINSTRUMENTS: A bubbling eight-note analogue sequence, a singing monophonic lead synth with portamento, lush string-synth chords with phasing, a soft vintage drum box (rim, hi-hat and a light kick), a pulsing bass, long white-noise sweeps, faint radio static.\n\nARRANGEMENT MAP: 0:00 Intro, noise and sequence. 0:22 Section A, drum box. 0:44 Melody 1. 1:16 Section B. 1:38 Melody 2. 2:10 Break. 2:26 Melody 3, fullest. 2:58 Outro, noise sweep and fade to 3:28.\n\nPRODUCTION & MIX: 1976 French electronic: warm analogue synths, heavy phaser on the strings, tape echo on the lead, wide and soft.\n\nSIGNATURE MOMENT: The lead melody entering at 0:44.\n\nMODERN POINT OF VIEW: The original imagined clean air from a Paris kitchen in 1976. Fifty years on the same sounds describe a layer of atmosphere people now measure with worry, and the piece stays calm on purpose.\n\nEMOTIONAL ARC: Weightless, curious, serene, receding.",
+    "workbookAtAGlance": "Ozone\n\nBackup titles\nThin Air / Weather Report from Orbit\n\nAt a glance\n124 BPM, C minor\nVoice: Instrumental\nLength: about 3 minutes 30",
+    "qa": {
+      "title": "Ozone",
+      "id": "de_11",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.5,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -13.7,
+          "peakDbfs": -2.27,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 223.9,
+          "vocalCoverage": 0.0,
+          "vocalSpanSec": [
+            0.0,
+            224.6
+          ],
+          "vocalF0MedianHz": 0,
+          "vocalF0P25Hz": 0,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.8,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -13.8,
+          "peakDbfs": -2.11,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 224.0,
+          "vocalCoverage": 0.19,
+          "vocalSpanSec": [
+            31.5,
+            174.4
+          ],
+          "vocalF0MedianHz": 555,
+          "vocalF0P25Hz": 393,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other",
+    "year": 1976
+  },
+  {
+    "id": "de_12",
+    "title": "Do Not Turn Off",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 12,
+    "slug": "de_12_do_not_turn_off",
+    "inspiredBy": "The Robots (Kraftwerk, 1978)",
+    "leadVoice": "All voices are through a vocoder: a main robot voice in a monotone, a second one harmonising a fifth above in the choruses, and a deeper one speaking two words of German in the break. No natural voice.",
+    "model": "V6",
+    "style": "1978 German electronic pop, all vocals through a vocoder, a main robot voice in monotone with a second robot harmony a fifth above in the choruses and a deeper robot voice speaking two German words, no natural voice, 116 BPM, D minor, ticking tidy mechanical feel with a bright tune, ticking vintage rhythm box, low sequenced synth pulse, bright simple analogue lead melody, electronic handclaps and zaps, string-synth pad, dry clean precise mix, robotic, witty, cool",
+    "negativeTags": "natural sung vocals, guitars, rap, live drums, distortion, orchestral strings, soul vocals, slow ballad",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: ticking rhythm box, low synth pulse, startup chime]\n\n[Verse 1: vocoder voice, robotic]\nWe are installing\nWe are restarting\nUpdate nine of twelve\nWe are almost new\n\n[Chorus: second vocoder harmony, bright synth tune]\nDo not turn off\nDo not turn off\nWe are the updates\nDo not turn off\n\n[Instrumental: bright melody, electronic handclaps]\n\n[Verse 2: vocoder voice, robotic]\nWe fixed a problem\nYou did not notice\nWe made a new one\nYou will notice soon\n\n[Chorus: second vocoder harmony, bright synth tune]\nDo not turn off\nDo not turn off\nWe are the updates\nDo not turn off\n\n[Break: rhythm box only, deep voice in German]\nBitte warten. Bitte warten.\n\n[Final Chorus: all voices, tune an octave up]\nDo not turn off\nDo not turn off\nWe are the updates\nThank you for your patience\n\n[Outro: progress tone rising, startup chime]",
+    "taskId": "f9e1c76fe40101b6249cb9bfadf8859e",
+    "sunoClipIds": [
+      "861c8ab0-87b0-4486-b711-feaddc84a32f",
+      "ce7c03ea-5d3a-4398-9244-7a984047a35c"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919402742,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "861c8ab0-87b0-4486-b711-feaddc84a32f",
+        "durationSec": 214.68,
+        "file": "darkelectro/de_12_do_not_turn_off_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "ce7c03ea-5d3a-4398-9244-7a984047a35c",
+        "durationSec": 214.2,
+        "file": "darkelectro/de_12_do_not_turn_off_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_12_do_not_turn_off_req.json",
+      "darkelectro/de_12_do_not_turn_off_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_12_do_not_turn_off.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 116 BPM, 4/4, D minor. Ticking, tidy and mechanical, with a bright tune and dry humour.\n\nVOICE: All voices are through a vocoder: a main robot voice in a monotone, a second one harmonising a fifth above in the choruses, and a deeper one speaking two words of German in the break. No natural voice.\n\nINSTRUMENTS: A ticking vintage rhythm box, a low sequenced synth pulse, a bright, simple analogue lead tune, electronic handclaps and zaps, a vocoder, a string-synth pad, a computer startup chime and a rising progress tone.\n\nARRANGEMENT MAP: 0:00 Intro, ticking and chime. 0:16 Verse 1. 0:40 Chorus 1. 1:00 Instrumental. 1:20 Verse 2. 1:44 Chorus 2. 2:04 Break, German. 2:20 Final chorus. 2:46 Outro, progress tone and chime at 3:14.\n\nPRODUCTION & MIX: 1978 electronic pop: dry, clean and precise, analogue synths with no reverb, every part in its own space.\n\nSIGNATURE MOMENT: 'We made a new one. You will notice soon.' at 1:32.\n\nMODERN POINT OF VIEW: The original robots announce they are ready to serve. The machines people actually live with mostly announce that they are busy improving themselves and must not be disturbed.\n\nEMOTIONAL ARC: Polite, busy, faintly ominous, finished.",
+    "workbookAtAGlance": "Do Not Turn Off\n\nBackup titles\nInstalling Update Nine of Twelve / Please Wait\n\nAt a glance\n116 BPM, D minor\nVoice: Vocoder robot voices\nLength: about 3 minutes 20",
+    "qa": {
+      "title": "Do Not Turn Off",
+      "id": "de_12",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.7,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 116,
+          "bpmErrPct": 1.3,
+          "lufs": -12.9,
+          "peakDbfs": -0.8,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.5,
+          "contentEndSec": 213.3,
+          "vocalCoverage": 0.206,
+          "vocalSpanSec": [
+            35.9,
+            189.8
+          ],
+          "vocalF0MedianHz": 131,
+          "vocalF0P25Hz": 87,
+          "lyricLineRecall": 0.905,
+          "lyricUnclearSections": [
+            "Break"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.2,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 116,
+          "bpmErrPct": 1.3,
+          "lufs": -12.7,
+          "peakDbfs": -0.92,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 212.6,
+          "vocalCoverage": 0.186,
+          "vocalSpanSec": [
+            25.2,
+            179.1
+          ],
+          "vocalF0MedianHz": 98,
+          "vocalF0P25Hz": 87,
+          "lyricLineRecall": 0.81,
+          "lyricUnclearSections": [
+            "Break"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Pop",
+    "year": 1978
+  },
+  {
+    "id": "de_13",
+    "title": "Procedure",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 13,
+    "slug": "de_13_procedure",
+    "inspiredBy": "Headhunter (Front 242, 1988)",
+    "leadVoice": "Male, commanding and clipped, with a European accent, half-shouted like orders. A second male voice barks the echoes. A crowd shouts the numbers in the last chorus. A vocoder voice recites four words in the breakdown.",
+    "model": "V6",
+    "style": "1988 Belgian EBM, commanding clipped male vocal with a European accent half-shouted like orders, second male voice barking echoes, crowd shouting numbers in the last chorus, vocoder voice in the breakdown, 124 BPM, E minor, hard disciplined physical march, hard sequenced sixteenth-note analogue bassline, four-on-the-floor kick, huge reverbed gunshot snare, sampled radio and film voices cut into the rhythm, metallic percussion hits, stabbing synth chord, dry hard precise mix, cold, commanding, relentless",
+    "negativeTags": "female lead vocals, guitars, melodic pop chorus, rap, live drums, warm soul, acoustic instruments, slow ballad",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: sequenced bassline, sampled radio voice, metal hit]\n\n[Verse 1: commanding male voice, clipped]\nI do not sleep, I do not guess\nI watch the hand, I watch the rest\nI know the hour you are weak\nI do not need to hear you speak\n\n[Chorus: shouted steps, snare like a gunshot]\nFirst: I find the pattern\nNext: I name the fear\nThird: I sell the answer\nFourth: I disappear\nProcedure! (Procedure!)\nRun it again\n\n[Verse 2: voice lower, sequencer doubling]\nYou think you chose, you think you found\nI laid the trail, I cleared the ground\nA thousand of you every day\nI never have to look away\n\n[Chorus: shouted steps, snare like a gunshot]\nFirst: I find the pattern\nNext: I name the fear\nThird: I sell the answer\nFourth: I disappear\nProcedure! (Procedure!)\nRun it again\n\n[Breakdown: bass and samples only, vocoder voice]\nPattern. Fear. Answer. Gone.\nPattern. Fear. Answer. Gone.\n\n[Final Chorus: full, crowd shouting each number]\nFirst: I find the pattern\nNext: I name the fear\nThird: I sell the answer\nFourth: I disappear\nProcedure! (Procedure!)\nRun it again\n\n[Outro: bassline, a sampled voice: \"Complete.\"]",
+    "taskId": "444e58b782ed9b3bd46ba9f4bc16c976",
+    "sunoClipIds": [
+      "5c60c62e-94fd-4db8-ab46-6f38f25cf760",
+      "70be0dc0-f957-4ead-ae4d-d6eb14dce987"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919410913,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "5c60c62e-94fd-4db8-ab46-6f38f25cf760",
+        "durationSec": 234.44,
+        "file": "darkelectro/de_13_procedure_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "70be0dc0-f957-4ead-ae4d-d6eb14dce987",
+        "durationSec": 234.36,
+        "file": "darkelectro/de_13_procedure_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_13_procedure_req.json",
+      "darkelectro/de_13_procedure_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_13_procedure.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, E minor. Hard, disciplined and physical: the classic EBM march.\n\nVOICE: Male, commanding and clipped, with a European accent, half-shouted like orders. A second male voice barks the echoes. A crowd shouts the numbers in the last chorus. A vocoder voice recites four words in the breakdown.\n\nINSTRUMENTS: A hard, sequenced sixteenth-note analogue bassline, a four-on-the-floor kick, a huge reverbed snare like a gunshot, sampled radio and film voices cut into the rhythm, metallic percussion hits, a stabbing synth chord, a low string pad.\n\nARRANGEMENT MAP: 0:00 Intro, bassline and samples. 0:20 Verse 1. 0:48 Chorus 1. 1:16 Verse 2. 1:44 Chorus 2. 2:12 Breakdown, vocoder. 2:36 Final chorus. 3:06 Outro, bassline and 'Complete' at 3:34.\n\nPRODUCTION & MIX: 1988 Belgian EBM: dry, hard and precise, sequencer and drum machine locked, samples sharp, voice up front.\n\nSIGNATURE MOMENT: The four shouted steps at 0:48.\n\nMODERN POINT OF VIEW: The original hunter is a man with a method. The hunter that works this way now is a system, it does it to a thousand people a day, and it gives the song its own voice.\n\nEMOTIONAL ARC: Cold, methodical, boastful, complete.",
+    "workbookAtAGlance": "Procedure\n\nBackup titles\nFind, Name, Sell, Vanish / Run It Again\n\nAt a glance\n124 BPM, E minor\nVoice: Commanding male voice, shouted steps\nLength: about 3 minutes 40",
+    "qa": {
+      "title": "Procedure",
+      "id": "de_13",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check partial: 48% of lines recognised (unclear: Verse 1, Breakdown)"
+          ],
+          "durationSec": 234.5,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -12.9,
+          "peakDbfs": -0.3,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.9,
+          "contentEndSec": 233.9,
+          "vocalCoverage": 0.407,
+          "vocalSpanSec": [
+            7.7,
+            224.7
+          ],
+          "vocalF0MedianHz": 763,
+          "vocalF0P25Hz": 325,
+          "lyricLineRecall": 0.48,
+          "lyricUnclearSections": [
+            "Verse 1",
+            "Breakdown"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 234.4,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -13.1,
+          "peakDbfs": -0.52,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.4,
+          "contentEndSec": 233.7,
+          "vocalCoverage": 0.485,
+          "vocalSpanSec": [
+            2.0,
+            233.5
+          ],
+          "vocalF0MedianHz": 731,
+          "vocalF0P25Hz": 357,
+          "lyricLineRecall": 0.76,
+          "lyricUnclearSections": [
+            "Verse 1",
+            "Breakdown"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "EBM",
+    "year": 1988
+  },
+  {
+    "id": "de_14",
+    "title": "Antifreeze",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 14,
+    "slug": "de_14_antifreeze",
+    "inspiredBy": "Kerosene (Crystal Castles, 2012)",
+    "leadVoice": "Female, high and thin, pitch-shifted, chopped into pieces and soaked in echo so that words blur. Doubled an octave apart in the choruses. Only the final line is dry and clear.",
+    "model": "V6",
+    "style": "Early-2010s dark glitchy electronic pop, high thin female vocal pitch-shifted chopped and soaked in echo so words blur, doubled an octave apart in the choruses, one dry clear line at the end, 126 BPM with half-time verses, G minor, cold glitchy gentle feel, icy detuned synth arpeggio, heavy kick and distorted snare, bit-crushed glitching lead synth, deep sub bass, digital noise bursts, cold choir pad, harsh digital heavy mix, protective, eerie, tender",
+    "negativeTags": "male lead vocals, clean natural singing, acoustic guitar, rap, warm soul, brass, live drums, cheerful mood",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 195,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: icy synth arpeggio, bit-crushed noise]\n\n[Verse 1: female voice, pitched and echoing]\nStand behind me\nDon't look out\nIt gets in through the windows\nIt gets in through the mouth\n\n[Chorus: heavy beat, voice chopped and doubled]\nI'll keep the cold off you\nAntifreeze, antifreeze\nPour me in your veins and sleep\nI'll keep the cold off you\n\n[Drop: glitching synth lead, vocal fragments]\n(Anti, anti, freeze)\n\n[Verse 2: voice closer, still broken]\nThey say it's nothing\nThey say it's fine\nI've seen what nothing does\nTo a spine\n\n[Chorus: heavy beat, voice chopped and doubled]\nI'll keep the cold off you\nAntifreeze, antifreeze\nPour me in your veins and sleep\nI'll keep the cold off you\n\n[Drop: glitching synth lead, bigger, vocal fragments]\n(Anti, anti, freeze)\n\n[Outro: arpeggio slows, one clear line]\nUnder my coat. Go on.",
+    "taskId": "e2ae88cb8bbf4c663b1aad86bbfde880",
+    "sunoClipIds": [
+      "41859ee7-a3b3-454c-98b5-360677c5ecd3",
+      "07e324f1-ca39-46f3-97ba-794f3da167df"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919396747,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "41859ee7-a3b3-454c-98b5-360677c5ecd3",
+        "durationSec": 194.52,
+        "file": "darkelectro/de_14_antifreeze_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "07e324f1-ca39-46f3-97ba-794f3da167df",
+        "durationSec": 194.52,
+        "file": "darkelectro/de_14_antifreeze_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_14_antifreeze_req.json",
+      "darkelectro/de_14_antifreeze_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_14_antifreeze.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 126 BPM with a half-time feel in the verses, 4/4, G minor. Cold, glitchy and strangely gentle.\n\nVOICE: Female, high and thin, pitch-shifted, chopped into pieces and soaked in echo so that words blur. Doubled an octave apart in the choruses. Only the final line is dry and clear.\n\nINSTRUMENTS: An icy, detuned synth arpeggio, a heavy kick and distorted snare, a bit-crushed lead synth that glitches in the drops, a deep sub bass, digital noise bursts, a cold choir pad.\n\nARRANGEMENT MAP: 0:00 Intro, arpeggio and noise. 0:14 Verse 1. 0:40 Chorus 1. 1:04 Drop 1. 1:22 Verse 2. 1:48 Chorus 2. 2:12 Drop 2. 2:38 Outro, arpeggio slows, the clear line at 2:52.\n\nPRODUCTION & MIX: Early-2010s dark electronic: harsh digital edges, heavy low end, vocal treated as a damaged instrument.\n\nSIGNATURE MOMENT: The one undamaged line, 'Under my coat. Go on.', at 2:52.\n\nMODERN POINT OF VIEW: The original's protection sounds like a teenager's vow. This one is an adult's: she knows what the cold does, and that what she offers is not entirely safe either.\n\nEMOTIONAL ARC: Alarmed, fierce, tender, sheltering.",
+    "workbookAtAGlance": "Antifreeze\n\nBackup titles\nI'll Keep the Cold Off You / Under My Coat\n\nAt a glance\n126 BPM, G minor\nVoice: Chopped, pitched female voice in echo\nLength: about 3 minutes",
+    "qa": {
+      "title": "Antifreeze",
+      "id": "de_14",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending",
+            "lyric check partial: 59% of lines recognised (unclear: Drop, Outro)"
+          ],
+          "durationSec": 194.5,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 126,
+          "bpmErrPct": 2.5,
+          "lufs": -13.6,
+          "peakDbfs": -1.31,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.1,
+          "contentEndSec": 193.9,
+          "vocalCoverage": 0.743,
+          "vocalSpanSec": [
+            1.0,
+            184.8
+          ],
+          "vocalF0MedianHz": 262,
+          "vocalF0P25Hz": 247,
+          "lyricLineRecall": 0.588,
+          "lyricUnclearSections": [
+            "Drop",
+            "Outro"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending"
+          ],
+          "durationSec": 194.5,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 126,
+          "bpmErrPct": 2.5,
+          "lufs": -13.4,
+          "peakDbfs": -0.61,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.3,
+          "contentEndSec": 193.9,
+          "vocalCoverage": 0.778,
+          "vocalSpanSec": [
+            0.6,
+            189.5
+          ],
+          "vocalF0MedianHz": 392,
+          "vocalF0P25Hz": 292,
+          "lyricLineRecall": 0.824,
+          "lyricUnclearSections": [
+            "Outro"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Pop",
+    "year": 2012
+  },
+  {
+    "id": "de_15",
+    "title": "Feed",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 15,
+    "slug": "de_15_feed",
+    "inspiredBy": "If I Had a Heart (Fever Ray, 2009)",
+    "leadVoice": "One voice pitch-shifted down until it is deep and sexless, chanting slowly on two or three notes. A second, slightly higher shifted voice joins a fifth above. One natural, quiet whisper in the break.",
+    "model": "V6",
+    "style": "Dark ritual electronica and dark ambient, one voice pitch-shifted down until deep and sexless chanting slowly on two or three notes, a second shifted voice a fifth above, one natural whisper in the break, 60 BPM, D minor, very slow heavy ritual feel with almost no harmonic movement, single sustained low synth drone, slow dull heartbeat pulse, detuned organ note, distant scraping metal textures, deep sub-bass swells, frame drum, dry close very low mix, ominous, hypnotic, ancient",
+    "negativeTags": "bright pop vocals, fast tempo, guitars, rap, dance beat, major key, brass, cheerful mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 235,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: one low drone, slow heartbeat pulse]\n\n[Chant 1: pitched-down voice, slow]\nIt wants more\nI give it more\nIt wants more\nI give it my mornings\n\n[Chant 2: second voice a fifth above]\nFeed, feed\nIt is never full\nFeed, feed\nIt is never full\n\n[Instrumental: drone thickens, distant metal scraping]\n\n[Chant 3: both voices, pulse heavier]\nIt took my sleep\nIt took my hands\nIt wants my eyes\nI open them\n\n[Chant 4: voices in unison, louder]\nFeed, feed\nIt is never full\nFeed, feed\nIt is never full\n\n[Break: drone alone, one natural whisper]\nWhat if I stop?\n\n[Final Chant: everything, then cut]\nIt wants more\nIt wants more\nIt wants\n\n[Outro: silence, one pulse, silence]",
+    "taskId": "9c172d8173cb40f8369c8fc8e5f9ea63",
+    "sunoClipIds": [
+      "df6024c7-79b0-4139-8811-b90493b106b8",
+      "ec67dac8-cf23-4b7f-b23c-90ada0cc0a0f"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919420140,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "df6024c7-79b0-4139-8811-b90493b106b8",
+        "durationSec": 234.76,
+        "file": "darkelectro/de_15_feed_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "ec67dac8-cf23-4b7f-b23c-90ada0cc0a0f",
+        "durationSec": 234.52,
+        "file": "darkelectro/de_15_feed_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_15_feed_req.json",
+      "darkelectro/de_15_feed_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_15_feed.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 60 BPM, 4/4, D minor. Very slow, heavy and ritual, with almost no harmonic movement.\n\nVOICE: One voice pitch-shifted down until it is deep and sexless, chanting slowly on two or three notes. A second, slightly higher shifted voice joins a fifth above. One natural, quiet whisper in the break.\n\nINSTRUMENTS: A single sustained low synth drone, a slow, dull pulse like a heartbeat or a muffled drum, a detuned organ note, scraping metal textures in the distance, a deep sub-bass swell, a frame drum struck once per bar later on.\n\nARRANGEMENT MAP: 0:00 Intro, drone and pulse. 0:24 Chant 1. 0:56 Chant 2. 1:28 Instrumental. 1:52 Chant 3. 2:24 Chant 4. 2:56 Break, the whisper. 3:08 Final chant, cut off mid-line at 3:28. 3:30 Outro, one pulse, ends 3:38.\n\nPRODUCTION & MIX: Dark ambient electronica: dry, close and very low, the drone filling the room, nothing bright anywhere.\n\nSIGNATURE MOMENT: The whispered 'What if I stop?' at 2:56.\n\nMODERN POINT OF VIEW: The original is a creature that wants more. Here the creature is the feed, and the singer is the one supplying it, which is the more familiar position now.\n\nEMOTIONAL ARC: Hypnotised, giving, emptied, a flicker of doubt.",
+    "workbookAtAGlance": "Feed\n\nBackup titles\nIt Wants More / I Give It My Mornings\n\nAt a glance\n60 BPM, D minor\nVoice: Pitched-down, droning voice\nLength: about 3 minutes 40",
+    "qa": {
+      "title": "Feed",
+      "id": "de_15",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check weak: only 13% of lines recognised (unclear: Chant 1, Chant 2, Chant 4, Break, Final Chant)"
+          ],
+          "durationSec": 234.8,
+          "measuredBpm": 57.4,
+          "bpmFactor": 1,
+          "targetBpm": 60,
+          "bpmErrPct": 4.3,
+          "lufs": -11.7,
+          "peakDbfs": -0.4,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.9,
+          "contentEndSec": 232.9,
+          "vocalCoverage": 0.227,
+          "vocalSpanSec": [
+            18.5,
+            201.4
+          ],
+          "vocalF0MedianHz": 174,
+          "vocalF0P25Hz": 148,
+          "lyricLineRecall": 0.133,
+          "lyricUnclearSections": [
+            "Chant 1",
+            "Chant 2",
+            "Chant 4",
+            "Break",
+            "Final Chant"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check partial: 40% of lines recognised (unclear: Chant 3, Final Chant)"
+          ],
+          "durationSec": 234.5,
+          "measuredBpm": 61.5,
+          "bpmFactor": 1,
+          "targetBpm": 60,
+          "bpmErrPct": 2.5,
+          "lufs": -12.2,
+          "peakDbfs": -0.56,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.4,
+          "contentEndSec": 233.7,
+          "vocalCoverage": 0.185,
+          "vocalSpanSec": [
+            14.8,
+            209.2
+          ],
+          "vocalF0MedianHz": 467,
+          "vocalF0P25Hz": 154,
+          "lyricLineRecall": 0.4,
+          "lyricUnclearSections": [
+            "Chant 3",
+            "Final Chant"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Ambient",
+    "year": 2009
+  },
+  {
+    "id": "de_16",
+    "title": "Opening Credits",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 16,
+    "slug": "de_16_opening_credits",
+    "inspiredBy": "Genesis (Justice, 2007)",
+    "leadVoice": "Instrumental. One line is spoken in French by a deep male voice, flatly, like a title card being read. A sampled choir sings single stabbed chords.",
+    "model": "V6",
+    "style": "2007 French cinematic electro instrumental, no sung vocals, one flat spoken French line by a deep male voice, sampled choir stabs, 116 BPM, C minor, slow swaggering menacing electro-funk, ominous brass fanfare with timpani as the intro, heavily distorted compressed funk bass riff doubled by sawtooth synth, slow heavy kick with cracking snare, handclaps, string stabs, slap-bass fills, brutally compressed distorted mix, cinematic, powerful, dark",
+    "negativeTags": "sung lyrics, rap, acoustic guitar, soft ballad, bright pop, jazz, country, cheerful mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 195,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: ominous brass fanfare, timpani, choir stab]\n\n[Section A: distorted funk bassline enters, slow heavy kick]\n\n[Section B: bass riff doubled by sawtooth synth, handclaps]\n\n[Break: fanfare returns, one spoken line in French, male]\nUn film de personne.\n\n[Section C: full groove, string stabs, slap bass fills]\n\n[Breakdown: kick and filtered bass only]\n\n[Section D: everything, choir on top, biggest]\n\n[Outro: last brass chord, a film projector running down]",
+    "taskId": "f4d4824f172e141d5770f3fa8311a63d",
+    "sunoClipIds": [
+      "31b5f99c-69c1-4c74-a2d5-ad0508fbcd0f",
+      "f210ec84-dd89-4e57-b45b-a1c1791919ab"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919419701,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "31b5f99c-69c1-4c74-a2d5-ad0508fbcd0f",
+        "durationSec": 194.8,
+        "file": "darkelectro/de_16_opening_credits_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "f210ec84-dd89-4e57-b45b-a1c1791919ab",
+        "durationSec": 194.76,
+        "file": "darkelectro/de_16_opening_credits_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_16_opening_credits_req.json",
+      "darkelectro/de_16_opening_credits_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_16_opening_credits.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 116 BPM, 4/4, C minor. Slow, swaggering and menacing, cinematic electro-funk.\n\nVOICE: Instrumental. One line is spoken in French by a deep male voice, flatly, like a title card being read. A sampled choir sings single stabbed chords.\n\nINSTRUMENTS: A brass section playing an ominous fanfare, timpani, a heavily distorted, compressed funk bass riff, a sawtooth synth doubling it, a slow, heavy kick with a cracking snare, handclaps, string stabs, slap-bass fills, a choir sample, a film projector sound.\n\nARRANGEMENT MAP: 0:00 Intro, fanfare. 0:20 Section A, bass riff. 0:48 Section B. 1:16 Break, fanfare and the spoken line. 1:30 Section C. 2:00 Breakdown. 2:14 Section D, biggest. 2:44 Outro, last chord and projector, ends 2:58.\n\nPRODUCTION & MIX: 2007 French electro: brutally compressed and distorted, every sound pushed into the red, with an orchestral frame.\n\nSIGNATURE MOMENT: The bass riff landing after the fanfare at 0:20.\n\nMODERN POINT OF VIEW: The original borrows the grandeur of old film scores. This keeps the grandeur and admits there is no film: the title card credits nobody.\n\nEMOTIONAL ARC: Foreboding, arrival, swagger, curtain.",
+    "workbookAtAGlance": "Opening Credits\n\nBackup titles\nGénérique / A Film by Nobody\n\nAt a glance\n116 BPM, C minor\nVoice: Instrumental, with one spoken French line\nLength: about 3 minutes",
+    "qa": {
+      "title": "Opening Credits",
+      "id": "de_16",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 194.8,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 116,
+          "bpmErrPct": 1.3,
+          "lufs": -11.2,
+          "peakDbfs": -0.08,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.9,
+          "contentEndSec": 194.7,
+          "vocalCoverage": 0.022,
+          "vocalSpanSec": [
+            27.6,
+            191.8
+          ],
+          "vocalF0MedianHz": 196,
+          "vocalF0P25Hz": 152,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Break"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 194.8,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 116,
+          "bpmErrPct": 1.3,
+          "lufs": -11.9,
+          "peakDbfs": -1.26,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.2,
+          "contentEndSec": 194.2,
+          "vocalCoverage": 0.105,
+          "vocalSpanSec": [
+            23.0,
+            179.2
+          ],
+          "vocalF0MedianHz": 567,
+          "vocalF0P25Hz": 482,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Break"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Funk",
+    "year": 2007
+  },
+  {
+    "id": "de_17",
+    "title": "Twenty-Four Hours",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 17,
+    "slug": "de_17_twenty_four_hours",
+    "inspiredBy": "Seventeen (Ladytron, 2002)",
+    "leadVoice": "Female, flat, cool and bored, sung on a narrow tune with no vibrato. A second woman doubles her an octave up. The count in the break is spoken in a monotone with an Eastern European accent.",
+    "model": "V6",
+    "style": "2002 electroclash and cold synth-pop, flat cool bored female vocal on a narrow tune with no vibrato repeating one couplet, a second woman doubling an octave up, monotone spoken count in the break, 122 BPM, B minor, cold stiff catchy feel, buzzing analogue synth riff, thin organ-like synth, rigid drum machine with dry snare, pulsing synth bass, vintage string machine, dry thin retro mix, deadpan, cynical, icy",
+    "negativeTags": "male lead vocals, emotional belting, guitars, rap, live drums, warm soul, orchestral strings, acoustic instruments",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 195,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: cold synth riff, stiff drum machine]\n\n[Hook: deadpan female voice]\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\n\n[Instrumental: second synth line, hi-hats open]\n\n[Hook: second voice doubling an octave up]\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\n\n[Break: drums and bass only, spoken in Bulgarian-style monotone]\nOne hour. Six hours. Twelve.\nTwenty-three. Twenty-four.\n\n[Hook: both voices, synths fuller]\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\nThey only want you while you're trending\nAt twenty-four hours, you're no fun\n\n[Outro: riff, drum machine stops on the beat]",
+    "taskId": "18f78b5dbfcee43ebf79d2bdb3831513",
+    "sunoClipIds": [
+      "a3afff00-bbc6-411e-b2c7-1a900eb891e6",
+      "d22725b9-e241-47c6-bef0-0a20fa28219d"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919430627,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "a3afff00-bbc6-411e-b2c7-1a900eb891e6",
+        "durationSec": 193.8,
+        "file": "darkelectro/de_17_twenty_four_hours_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "d22725b9-e241-47c6-bef0-0a20fa28219d",
+        "durationSec": 194.36,
+        "file": "darkelectro/de_17_twenty_four_hours_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_17_twenty_four_hours_req.json",
+      "darkelectro/de_17_twenty_four_hours_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_17_twenty_four_hours.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 122 BPM, 4/4, B minor. Cold, stiff and catchy electroclash.\n\nVOICE: Female, flat, cool and bored, sung on a narrow tune with no vibrato. A second woman doubles her an octave up. The count in the break is spoken in a monotone with an Eastern European accent.\n\nINSTRUMENTS: A buzzing analogue synth riff, a second thin organ-like synth, a rigid drum machine with a dry snare and closed hi-hat, a pulsing synth bass, a vintage string machine, a cheap vocoder shadowing the voice.\n\nARRANGEMENT MAP: 0:00 Intro, riff and drums. 0:16 Hook 1. 0:48 Instrumental. 1:04 Hook 2, doubled. 1:36 Break, the count. 1:54 Hook 3. 2:26 Outro, riff, a dead stop at 2:56.\n\nPRODUCTION & MIX: 2002 electroclash: dry, thin and retro, analogue synths with no gloss, voices unprocessed and close.\n\nSIGNATURE MOMENT: The spoken count reaching 'Twenty-four' at 1:50.\n\nMODERN POINT OF VIEW: The original says the young are used up by twenty-one. The clock has shrunk since: attention now expires in a day, and it happens to people of any age.\n\nEMOTIONAL ARC: Bored, knowing, counting, discarded.",
+    "workbookAtAGlance": "Twenty-Four Hours\n\nBackup titles\nTrending Till Tuesday / Then You're No Fun\n\nAt a glance\n122 BPM, B minor\nVoice: Deadpan female voice, one couplet\nLength: about 3 minutes",
+    "qa": {
+      "title": "Twenty-Four Hours",
+      "id": "de_17",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 193.8,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 122,
+          "bpmErrPct": 0.9,
+          "lufs": -13.0,
+          "peakDbfs": -1.23,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.8,
+          "contentEndSec": 191.5,
+          "vocalCoverage": 0.236,
+          "vocalSpanSec": [
+            16.5,
+            144.8
+          ],
+          "vocalF0MedianHz": 235,
+          "vocalF0P25Hz": 219,
+          "lyricLineRecall": 0.857,
+          "lyricUnclearSections": [
+            "Break"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "abrupt ending"
+          ],
+          "durationSec": 194.4,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 122,
+          "bpmErrPct": 0.9,
+          "lufs": -13.4,
+          "peakDbfs": -0.43,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.1,
+          "contentEndSec": 193.0,
+          "vocalCoverage": 0.239,
+          "vocalSpanSec": [
+            14.3,
+            162.1
+          ],
+          "vocalF0MedianHz": 234,
+          "vocalF0P25Hz": 221,
+          "lyricLineRecall": 0.929,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Synth-Pop",
+    "year": 2002
+  },
+  {
+    "id": "de_18",
+    "title": "Tanz den Montag",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 18,
+    "slug": "de_18_tanz_den_montag",
+    "inspiredBy": "Der Mussolini (DAF, 1981)",
+    "leadVoice": "Male, German, shouted and commanding with a lot of breath, like a gym instructor with a sense of humour. A gang shouts the chorus lines. The weekdays are whispered in the break.",
+    "model": "V6",
+    "style": "1981 German new wave and proto-EBM, shouted commanding male vocal in German with a lot of breath, gang shouting the chorus lines, whispered words in the break, 126 BPM, A minor, raw pounding physical feel, single buzzing analogue sequencer riff that never changes, live drum kit hit hard with four-on-the-floor kick and open hi-hats, handclaps, nothing else, brutally simple dry live mix, sarcastic, energetic, commanding",
+    "negativeTags": "female lead vocals, English lyrics, guitars, melodic pop, rap, orchestral strings, soft ballad, lush pads",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 195,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: one pounding sequencer riff, live drums crash in]\n\n[Verse 1: shouted male voice, German]\nSteh auf, steh auf\nMach das Licht an\nBeweg die Füße\nUnd tanz den Montag\n\n[Chorus: riff and drums, gang shout]\nTanz den Montag!\nTanz den Kalender!\nTanz den Wecker!\nUnd klatsch in die Hände!\n\n[Verse 2: shouted, drums harder]\nDreh dich nach links\nDreh dich nach rechts\nTanz die Deadline\nTanz den Rest\n\n[Chorus: riff and drums, gang shout]\nTanz den Montag!\nTanz den Kalender!\nTanz den Wecker!\nUnd klatsch in die Hände!\n\n[Break: drums only, whispered]\nMontag. Dienstag. Mittwoch.\nDonnerstag. Freitag.\n\n[Final Chorus: fastest feel, everyone]\nTanz den Montag!\nTanz den Kalender!\nTanz den Freitag!\nUnd geh nach Hause!\n\n[Outro: riff stops, one drum hit, an alarm clock]",
+    "taskId": "0b62ec379420ea03ec9ad43cdbc0c2e2",
+    "sunoClipIds": [
+      "1c79e2b0-1b6a-4fbb-b002-d323bb7528d2",
+      "fe0afaac-1542-4216-8917-cb7e265fce58"
+    ],
+    "created": "Nov 17, 2026 7:44 AM ET",
+    "createTimeMs": 1794919440809,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "1c79e2b0-1b6a-4fbb-b002-d323bb7528d2",
+        "durationSec": 194.8,
+        "file": "darkelectro/de_18_tanz_den_montag_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "fe0afaac-1542-4216-8917-cb7e265fce58",
+        "durationSec": 195.0,
+        "file": "darkelectro/de_18_tanz_den_montag_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_18_tanz_den_montag_req.json",
+      "darkelectro/de_18_tanz_den_montag_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_18_tanz_den_montag.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 126 BPM, 4/4, A minor. Raw, pounding and physical: one riff and a drummer.\n\nVOICE: Male, German, shouted and commanding with a lot of breath, like a gym instructor with a sense of humour. A gang shouts the chorus lines. The weekdays are whispered in the break.\n\nINSTRUMENTS: A single buzzing analogue sequencer riff that never changes, a live drum kit hit hard with a simple four-on-the-floor pattern and open hi-hats, handclaps, nothing else until an alarm clock at the end.\n\nARRANGEMENT MAP: 0:00 Intro, riff then drums. 0:14 Verse 1. 0:34 Chorus 1. 0:56 Verse 2. 1:16 Chorus 2. 1:38 Break, drums and whispered days. 1:58 Final chorus. 2:28 Outro, stop, a drum hit and an alarm at 2:52.\n\nPRODUCTION & MIX: 1981 German new wave: brutally simple, dry and live, sequencer and drums in a bare room, voice loud.\n\nSIGNATURE MOMENT: The first gang shout of 'Tanz den Montag!' at 0:34.\n\nMODERN POINT OF VIEW: The original cuts dictators down to dance steps. The tyrants in most people's lives now are the alarm, the calendar and the deadline, so those are the ones made to dance. Translation: dance the Monday, the calendar, the alarm clock, and clap your hands.\n\nEMOTIONAL ARC: Ordered up, moving, laughing, sent home.",
+    "workbookAtAGlance": "Tanz den Montag\n\nBackup titles\nDance the Monday / Klatsch in die Hände\n\nAt a glance\n126 BPM, A minor\nVoice: Shouted male voice, German\nLength: about 3 minutes",
+    "qa": {
+      "title": "Tanz den Montag",
+      "id": "de_18",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "ending cut at the length limit (last chord clipped)",
+            "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2, Break, Final Chorus)"
+          ],
+          "durationSec": 194.8,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 126,
+          "bpmErrPct": 2.3,
+          "lufs": -12.7,
+          "peakDbfs": -0.71,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.2,
+          "contentEndSec": 194.6,
+          "vocalCoverage": 0.412,
+          "vocalSpanSec": [
+            0.1,
+            194.7
+          ],
+          "vocalF0MedianHz": 781,
+          "vocalF0P25Hz": 424,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Verse 1",
+            "Chorus",
+            "Verse 2",
+            "Break",
+            "Final Chorus"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check weak: only 0% of lines recognised (unclear: Verse 1, Chorus, Verse 2, Break, Final Chorus)"
+          ],
+          "durationSec": 195.0,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 126,
+          "bpmErrPct": 2.5,
+          "lufs": -12.8,
+          "peakDbfs": -0.73,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.4,
+          "contentEndSec": 194.7,
+          "vocalCoverage": 0.323,
+          "vocalSpanSec": [
+            7.7,
+            193.8
+          ],
+          "vocalF0MedianHz": 671,
+          "vocalF0P25Hz": 431,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [
+            "Verse 1",
+            "Chorus",
+            "Verse 2",
+            "Break",
+            "Final Chorus"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "EBM",
+    "year": 1981
+  },
+  {
+    "id": "de_19",
+    "title": "Brand Awareness",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 19,
+    "slug": "de_19_brand_awareness",
+    "inspiredBy": "Megalomaniac (KMFDM, 1997)",
+    "leadVoice": "Male lead, gruff and accented, delivering slogans deadpan. Two or three women shout the responses in the choruses, and one speaks the bridge in a sweet advert voice. Gang vocals at the end.",
+    "model": "V6",
+    "style": "1997 industrial dance-rock, gruff accented male lead delivering slogans deadpan, two or three women shouting responses in the choruses, a sweet female advert voice in the bridge, gang vocals at the end, 135 BPM, E minor, pounding bouncing beat, sequenced sixteenth-note synth bass, chugging metal rhythm guitar, four-on-the-floor kick with huge snare, brass-like synth stabs, wah-pedal guitar solo, loud tight punchy mix, satirical, energetic, fun",
+    "negativeTags": "soft ballad, acoustic guitar, rap, orchestral strings, jazz, slow tempo, country, clean pop vocals",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: sequenced bass, guitar chug, sampled crowd]\n\n[Verse 1: gruff male voice, deadpan]\nNew and improved, the same as before\nNine out of ten can't take any more\nAward-winning, market-leading\nNow with thirty percent more bleeding edge\n\n[Chorus: full band, female voices shouting]\nBrand awareness! (Know our name)\nBrand awareness! (Say it again)\nYou have been reached, you have been served\nBrand awareness!\n\n[Verse 2: gruff, synth stabs]\nLimited time, unlimited noise\nTrusted by girls and trusted by boys\nScalable, shareable, loud by design\nTerms and conditions in very small type\n\n[Chorus: full band, female voices shouting]\nBrand awareness! (Know our name)\nBrand awareness! (Say it again)\nYou have been reached, you have been served\nBrand awareness!\n\n[Bridge: beat only, female voice, sweet]\nThis message was brought to you\nBy the people who brought you this message\n\n[Guitar Break: wah solo over the sequencer]\n\n[Final Chorus: loudest, gang vocals]\nBrand awareness! (Know our name)\nBrand awareness! (Say it again)\nYou have been reached, you have been served\nBrand awareness!\n\n[Outro: sequencer, a jingle chord, \"Thank you.\"]",
+    "taskId": "324a16b3d17e740fa0e9a519e622fedb",
+    "sunoClipIds": [
+      "e3a9cbfa-dda0-46b4-8408-3b414f4e7a19",
+      "e0c3f0e7-8521-455d-8b50-adcc5461a2dd"
+    ],
+    "created": "Nov 17, 2026 7:44 AM ET",
+    "createTimeMs": 1794919442544,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "e3a9cbfa-dda0-46b4-8408-3b414f4e7a19",
+        "durationSec": 214.8,
+        "file": "darkelectro/de_19_brand_awareness_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "e0c3f0e7-8521-455d-8b50-adcc5461a2dd",
+        "durationSec": 213.6,
+        "file": "darkelectro/de_19_brand_awareness_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_19_brand_awareness_req.json",
+      "darkelectro/de_19_brand_awareness_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_19_brand_awareness.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 135 BPM, 4/4, E minor. A pounding, bouncing industrial dance-rock beat with a grin.\n\nVOICE: Male lead, gruff and accented, delivering slogans deadpan. Two or three women shout the responses in the choruses, and one speaks the bridge in a sweet advert voice. Gang vocals at the end.\n\nINSTRUMENTS: A sequenced sixteenth-note synth bass, chugging metal rhythm guitar, a four-on-the-floor kick with a huge snare, brass-like synth stabs, a wah-pedal guitar solo, sampled crowd noise, a cheerful jingle chord at the end.\n\nARRANGEMENT MAP: 0:00 Intro, sequencer and guitar. 0:14 Verse 1. 0:38 Chorus 1. 1:00 Verse 2. 1:24 Chorus 2. 1:46 Bridge, the advert voice. 2:00 Guitar break. 2:20 Final chorus. 2:50 Outro, jingle and 'Thank you' at 3:14.\n\nPRODUCTION & MIX: 1997 industrial rock: loud, tight and punchy, guitars and sequencer locked, vocals dry.\n\nSIGNATURE MOMENT: The bridge's circular advert line at 1:46.\n\nMODERN POINT OF VIEW: The original band mocks its own legend. Now everybody is asked to be a brand, so the joke has a much larger target.\n\nEMOTIONAL ARC: Confident, louder, absurd, pleased with itself.",
+    "workbookAtAGlance": "Brand Awareness\n\nBackup titles\nLike and Subscribe to Us / Now with More\n\nAt a glance\n135 BPM, E minor\nVoice: Gruff male lead with female shouts\nLength: about 3 minutes 20",
+    "qa": {
+      "title": "Brand Awareness",
+      "id": "de_19",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.8,
+          "measuredBpm": 136.0,
+          "bpmFactor": 1,
+          "targetBpm": 135,
+          "bpmErrPct": 0.7,
+          "lufs": -12.6,
+          "peakDbfs": -0.26,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.8,
+          "contentEndSec": 213.7,
+          "vocalCoverage": 0.454,
+          "vocalSpanSec": [
+            2.4,
+            213.7
+          ],
+          "vocalF0MedianHz": 497,
+          "vocalF0P25Hz": 335,
+          "lyricLineRecall": 0.842,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 213.6,
+          "measuredBpm": 136.0,
+          "bpmFactor": 1,
+          "targetBpm": 135,
+          "bpmErrPct": 0.7,
+          "lufs": -12.8,
+          "peakDbfs": -0.85,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.3,
+          "contentEndSec": 213.5,
+          "vocalCoverage": 0.501,
+          "vocalSpanSec": [
+            1.9,
+            212.2
+          ],
+          "vocalF0MedianHz": 405,
+          "vocalF0P25Hz": 321,
+          "lyricLineRecall": 0.632,
+          "lyricUnclearSections": [
+            "Verse 1"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other",
+    "year": 1997
+  },
+  {
+    "id": "de_20",
+    "title": "Lanyard Parade",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 20,
+    "slug": "de_20_lanyard_parade",
+    "inspiredBy": "Military Fashion Show (And One, 2006)",
+    "leadVoice": "Male baritone, deep, smooth and accented, sung with a straight face. A group of men shouts the title and repeats the commands in the bridge.",
+    "model": "V6",
+    "style": "Mid-2000s synth-pop EBM, deep smooth accented male baritone sung with a straight face, group of men shouting the title and repeating commands in the bridge, 128 BPM, A minor with a key change up for the final chorus, bright bouncing march, staccato analogue synth riff, sequenced sixteenth-note bass, four-on-the-floor kick with military snare pattern, bright synth-brass chords, whistle, handclaps, clean punchy bright mix, ironic, catchy, marching",
+    "negativeTags": "female lead vocals, distorted metal guitars, rap, acoustic instruments, slow ballad, jazz, trap hi-hats, screaming",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bouncing synth riff, marching snare, whistle blast]\n\n[Verse 1: deep male baritone, ironic]\nEight o'clock, the doors divide\nLeft, right, coffee, stride\nNavy fleece and zip to chin\nTap the card and you are in\n\n[Chorus: full beat, group shout on the title]\nLanyard parade\nBadges swinging in the sun\nLanyard parade\nEverybody, everyone\nPresent arms: a reusable cup\nLanyard parade, line up\n\n[Verse 2: baritone, sequencer busier]\nSecond floor is infantry\nFourth is the artillery\nColonel's got a standing desk\nMedal for the fewest steps\n\n[Chorus: full beat, group shout on the title]\nLanyard parade\nBadges swinging in the sun\nLanyard parade\nEverybody, everyone\nPresent arms: a reusable cup\nLanyard parade, line up\n\n[Bridge: snare march only, spoken commands]\nBadge in. (Badge in.)\nSit down. (Sit down.)\nReply all. (Reply all.)\nBadge out. (Badge out.)\n\n[Final Chorus: loudest, key up a step]\nLanyard parade\nBadges swinging in the sun\nLanyard parade\nEverybody, everyone\nPresent arms: a reusable cup\nLanyard parade, dismissed\n\n[Outro: riff, turnstile beep, whistle]",
+    "taskId": "6962c2551766fafdc1020c99662c4fb7",
+    "sunoClipIds": [
+      "81d80957-e6a1-40a7-becb-77d08ec74bba",
+      "d23f6d5c-2a8d-4a65-9ee6-68fe8b04742c"
+    ],
+    "created": "Nov 17, 2026 7:44 AM ET",
+    "createTimeMs": 1794919440347,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "81d80957-e6a1-40a7-becb-77d08ec74bba",
+        "durationSec": 213.72,
+        "file": "darkelectro/de_20_lanyard_parade_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "d23f6d5c-2a8d-4a65-9ee6-68fe8b04742c",
+        "durationSec": 214.4,
+        "file": "darkelectro/de_20_lanyard_parade_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_20_lanyard_parade_req.json",
+      "darkelectro/de_20_lanyard_parade_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_20_lanyard_parade.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 128 BPM, 4/4, A minor, up to B minor for the last chorus. A bright, bouncing march, EBM with a pop tune.\n\nVOICE: Male baritone, deep, smooth and accented, sung with a straight face. A group of men shouts the title and repeats the commands in the bridge.\n\nINSTRUMENTS: A bouncing, staccato analogue synth riff, a sequenced sixteenth-note bass, a four-on-the-floor kick with a military snare pattern, bright synth-brass chords, a referee's whistle, handclaps, a turnstile beep.\n\nARRANGEMENT MAP: 0:00 Intro, riff, snare and whistle. 0:14 Verse 1. 0:38 Chorus 1. 1:04 Verse 2. 1:28 Chorus 2. 1:54 Bridge, commands. 2:14 Final chorus, key up. 2:44 Outro, riff, beep and whistle, ends 3:16.\n\nPRODUCTION & MIX: Mid-2000s synth-pop EBM: clean, punchy and bright, sequencer tight, voice warm and forward.\n\nSIGNATURE MOMENT: 'Present arms: a reusable cup' at 0:56.\n\nMODERN POINT OF VIEW: The original teases the glamour of uniforms. The uniform most people actually wear is corporate casual, and the parade happens at eight every morning.\n\nEMOTIONAL ARC: Brisk, amused, drilled, dismissed.",
+    "workbookAtAGlance": "Lanyard Parade\n\nBackup titles\nFleece Vest Regiment / Badge In, Badge Out\n\nAt a glance\n128 BPM, A minor\nVoice: Deep male baritone, ironic\nLength: about 3 minutes 20",
+    "qa": {
+      "title": "Lanyard Parade",
+      "id": "de_20",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 213.7,
+          "measuredBpm": 136.0,
+          "bpmFactor": 1,
+          "targetBpm": 128,
+          "bpmErrPct": 6.2,
+          "lufs": -13.1,
+          "peakDbfs": -0.66,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.3,
+          "contentEndSec": 212.8,
+          "vocalCoverage": 0.5,
+          "vocalSpanSec": [
+            24.3,
+            208.8
+          ],
+          "vocalF0MedianHz": 464,
+          "vocalF0P25Hz": 260,
+          "lyricLineRecall": 0.667,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.4,
+          "measuredBpm": 136.0,
+          "bpmFactor": 1,
+          "targetBpm": 128,
+          "bpmErrPct": 6.2,
+          "lufs": -12.4,
+          "peakDbfs": -0.49,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 213.0,
+          "vocalCoverage": 0.495,
+          "vocalSpanSec": [
+            14.9,
+            191.9
+          ],
+          "vocalF0MedianHz": 329,
+          "vocalF0P25Hz": 166,
+          "lyricLineRecall": 0.857,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "EBM",
+    "year": 2006
+  },
+  {
+    "id": "de_21",
+    "title": "Still in Black",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 21,
+    "slug": "de_21_still_in_black",
+    "inspiredBy": "Every Day Is Halloween (Ministry, 1984)",
+    "leadVoice": "Male, dry and slightly nasal with a put-on English edge, half-sung and half-spoken, sure of himself. Voices answer the title line; in the last chorus a child sings the answers. A dry spoken aside in the bridge.",
+    "model": "V6",
+    "style": "1984 dark synth-pop club track, dry slightly nasal male vocal with a put-on English edge half-sung and half-spoken, voices answering the title line, a child singing the answers in the last chorus, dry spoken aside in the bridge, 118 BPM, E minor, bouncy dark danceable feel, bouncing analogue synth bass riff, drum machine with big clap and cowbell, synth-brass stabs, record scratches, string-machine pad, bell-like lead, punchy dry mix, defiant, wry, affectionate",
+    "negativeTags": "female lead vocals, metal guitars, rap, live drums, orchestral strings, acoustic ballad, trap hi-hats, screaming",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bouncing synth bass, drum machine, record scratch]\n\n[Verse 1: dry male voice with an edge]\nSchool gate, half past three\nSame boots since eighty-three\nSomebody's mother looks me up and down\nI nod. I've been around.\n\n[Chorus: synth brass stabs, voices answering]\nI'm still in black (still in black)\nIt was never a phase\nStill in black (still in black)\nThirty-five years of the same old ways\nYou had your fun and you put it back\nI'm still in black\n\n[Verse 2: voice warmer, bass bouncing]\nKid runs out with a drawing in her hand\nIt's me, with a bat, and a marching band\nShe says, \"Dad, you're the only one like this.\"\nI say, \"I know.\" She gives me a kiss.\n\n[Chorus: synth brass stabs, voices answering]\nI'm still in black (still in black)\nIt was never a phase\nStill in black (still in black)\nThirty-five years of the same old ways\nYou had your fun and you put it back\nI'm still in black\n\n[Bridge: drums and scratches only, spoken]\nEyeliner's harder with reading glasses.\nWorth it.\n\n[Final Chorus: full, with a child's voice on the answers]\nI'm still in black (still in black)\nIt was never a phase\nStill in black (still in black)\nThirty-five years of the same old ways\nYou had your fun and you put it back\nI'm still in black\n\n[Outro: bass riff, boots on pavement, a small laugh]",
+    "taskId": "b9e8e037396572032295c2b183f41c83",
+    "sunoClipIds": [
+      "82e4c2cf-e92a-488a-ab58-43387956ef7a",
+      "e06da183-1886-4b42-81b0-ff27b0f8108b"
+    ],
+    "created": "Nov 17, 2026 7:44 AM ET",
+    "createTimeMs": 1794919445870,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "82e4c2cf-e92a-488a-ab58-43387956ef7a",
+        "durationSec": 223.88,
+        "file": "darkelectro/de_21_still_in_black_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "e06da183-1886-4b42-81b0-ff27b0f8108b",
+        "durationSec": 224.52,
+        "file": "darkelectro/de_21_still_in_black_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_21_still_in_black_req.json",
+      "darkelectro/de_21_still_in_black_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_21_still_in_black.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, E minor. Bouncy, dark and danceable, a 1984 club track with a grin.\n\nVOICE: Male, dry and slightly nasal with a put-on English edge, half-sung and half-spoken, sure of himself. Voices answer the title line; in the last chorus a child sings the answers. A dry spoken aside in the bridge.\n\nINSTRUMENTS: A bouncing analogue synth bass riff, a drum machine with a big clap and cowbell, synth-brass stabs, record scratches, a string-machine pad, a bright bell-like lead, a tambourine.\n\nARRANGEMENT MAP: 0:00 Intro, bass, drums and a scratch. 0:16 Verse 1. 0:42 Chorus 1. 1:10 Verse 2. 1:36 Chorus 2. 2:04 Bridge, spoken. 2:18 Final chorus, with the child. 2:48 Outro, bass, boots and a laugh, ends 3:26.\n\nPRODUCTION & MIX: 1984 dark synth-pop: punchy drum machine, fat analogue bass, bright stabs, a dry voice with a short slap echo.\n\nSIGNATURE MOMENT: 'Eyeliner's harder with reading glasses. Worth it.' at 2:08.\n\nMODERN POINT OF VIEW: The original is a young man asking why people stare. This is the same man at fifty-two, still dressed that way, and the only verdict that matters comes from his daughter.\n\nEMOTIONAL ARC: Stared at, unbothered, loved, proud.",
+    "workbookAtAGlance": "Still in Black\n\nBackup titles\nIt Was Never a Phase / Same Boots\n\nAt a glance\n118 BPM, E minor\nVoice: Dry male voice with an edge\nLength: about 3 minutes 30",
+    "qa": {
+      "title": "Still in Black",
+      "id": "de_21",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 223.9,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 0.5,
+          "lufs": -13.0,
+          "peakDbfs": -0.32,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.9,
+          "contentEndSec": 222.4,
+          "vocalCoverage": 0.539,
+          "vocalSpanSec": [
+            7.7,
+            217.7
+          ],
+          "vocalF0MedianHz": 316,
+          "vocalF0P25Hz": 111,
+          "lyricLineRecall": 0.889,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.5,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 4.3,
+          "lufs": -13.0,
+          "peakDbfs": -0.51,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 223.0,
+          "vocalCoverage": 0.411,
+          "vocalSpanSec": [
+            6.1,
+            207.0
+          ],
+          "vocalF0MedianHz": 156,
+          "vocalF0P25Hz": 113,
+          "lyricLineRecall": 0.889,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Darksynth",
+    "year": 1984
+  },
+  {
+    "id": "de_22",
+    "title": "Reps",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 22,
+    "slug": "de_22_reps",
+    "inspiredBy": "Join in the Chant (Nitzer Ebb, 1987)",
+    "leadVoice": "Male, English, shouted from the chest in single words, hoarse and urgent. A second man answers. A crowd joins later. Counted numbers in the breaks. No singing.",
+    "model": "V6",
+    "style": "1987 English EBM, male vocal shouted from the chest in single words, hoarse and urgent, a second man answering, crowd joining later, counted numbers in the breaks, no singing, 128 BPM, D minor, stark pounding muscular feel with almost no harmony, hard four-on-the-floor kick, struck scrap-metal percussion, single syncopated analogue bass sequence, cracking snare, tom pattern, minimal dry brutally loud mix, physical, urgent, disciplined",
+    "negativeTags": "female lead vocals, melodic singing, guitars, pads, rap, orchestral strings, soft ballad, bright pop",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 195,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: pounding kick, struck metal, one bass sequence]\n\n[Chant 1: shouted male voice, single words]\nSweat! Sweat!\nSteel! Steel!\nBreath! Breath!\nAgain! Again!\n\n[Chant 2: second voice answering]\nLift it! (Lift it!)\nHold it! (Hold it!)\nLower! (Lower!)\nAgain! (Again!)\n\n[Break: metal percussion only, counted]\nOne. Two. Three. Four.\nFive. Six. Seven. Eight.\n\n[Chant 3: both voices, bass doubled]\nSweat! Sweat!\nSteel! Steel!\nBreath! Breath!\nAgain! Again!\n\n[Chant 4: crowd joining]\nReps! Reps! Reps! Reps!\nOne more! One more!\nReps! Reps! Reps! Reps!\nOne more!\n\n[Break: kick only, gasped]\nNine. Ten.\n\n[Final Chant: everyone, loudest]\nSweat! Steel! Breath! Again!\nSweat! Steel! Breath! Again!\nDone.\n\n[Outro: a weight set down, hard breathing]",
+    "taskId": "701c444d7e37ee20f2d8a300ac3deb17",
+    "sunoClipIds": [
+      "cea103ee-2ae1-4123-817c-5ffdbf937281",
+      "c8f60715-4537-4bcd-b259-be7a4642dacb"
+    ],
+    "created": "Nov 17, 2026 7:43 AM ET",
+    "createTimeMs": 1794919434515,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "cea103ee-2ae1-4123-817c-5ffdbf937281",
+        "durationSec": 192.76,
+        "file": "darkelectro/de_22_reps_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "c8f60715-4537-4bcd-b259-be7a4642dacb",
+        "durationSec": 194.72,
+        "file": "darkelectro/de_22_reps_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_22_reps_req.json",
+      "darkelectro/de_22_reps_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_22_reps.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 128 BPM, 4/4, D minor. Stark, pounding and muscular, with no harmony to speak of.\n\nVOICE: Male, English, shouted from the chest in single words, hoarse and urgent. A second man answers. A crowd joins later. Counted numbers in the breaks. No singing.\n\nINSTRUMENTS: A hard four-on-the-floor kick, struck scrap-metal percussion, a single syncopated analogue bass sequence, a cracking snare on two and four, a tom pattern in the breaks, the clank of a weight at the end.\n\nARRANGEMENT MAP: 0:00 Intro, kick, metal and bass. 0:14 Chant 1. 0:36 Chant 2. 0:58 Break, counting. 1:14 Chant 3. 1:36 Chant 4, crowd. 1:58 Break, 'Nine. Ten.' 2:06 Final chant. 2:36 Outro, weight down and breathing, ends 2:56.\n\nPRODUCTION & MIX: 1987 English EBM: minimal, dry and brutally loud, drums and one sequence, voice shouted in a hard room.\n\nSIGNATURE MOMENT: The gasped 'Nine. Ten.' at 1:58.\n\nMODERN POINT OF VIEW: The original borrows the sound of political slogans and empties them. This fills the same shape with the one mass movement most people joined later in life: counting repetitions.\n\nEMOTIONAL ARC: Straining, driven, failing, done.",
+    "workbookAtAGlance": "Reps\n\nBackup titles\nSweat, Steel, Breath, Again / One More\n\nAt a glance\n128 BPM, D minor\nVoice: Shouted male voice, single words\nLength: about 3 minutes",
+    "qa": {
+      "title": "Reps",
+      "id": "de_22",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "ending cut at the length limit (last chord clipped)",
+            "lyric check weak: only 22% of lines recognised (unclear: Chant 2, Final Chant)"
+          ],
+          "durationSec": 192.8,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 128,
+          "bpmErrPct": 0.9,
+          "lufs": -13.4,
+          "peakDbfs": -0.59,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.0,
+          "contentEndSec": 192.7,
+          "vocalCoverage": 0.403,
+          "vocalSpanSec": [
+            8.1,
+            163.3
+          ],
+          "vocalF0MedianHz": 816,
+          "vocalF0P25Hz": 717,
+          "lyricLineRecall": 0.222,
+          "lyricUnclearSections": [
+            "Chant 2",
+            "Final Chant"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check weak: only 22% of lines recognised (unclear: Chant 4, Final Chant)"
+          ],
+          "durationSec": 194.7,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 128,
+          "bpmErrPct": 0.9,
+          "lufs": -13.5,
+          "peakDbfs": -2.09,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.0,
+          "contentEndSec": 193.0,
+          "vocalCoverage": 0.343,
+          "vocalSpanSec": [
+            11.3,
+            192.2
+          ],
+          "vocalF0MedianHz": 786,
+          "vocalF0P25Hz": 450,
+          "lyricLineRecall": 0.222,
+          "lyricUnclearSections": [
+            "Chant 4",
+            "Final Chant"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "EBM",
+    "year": 1987
+  },
+  {
+    "id": "de_23",
+    "title": "Last Bus, No Brakes",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 23,
+    "slug": "de_23_last_bus_no_brakes",
+    "inspiredBy": "Turbo Killer (Carpenter Brut, 2015)",
+    "leadVoice": "Instrumental. A calm, recorded woman's public-transport voice speaks three short announcements, cleanly at first and then bent in pitch and distorted.",
+    "model": "V6",
+    "style": "Mid-2010s darksynth instrumental with metal energy, no sung vocals, three short calm recorded public-transport announcements by a woman later bent and distorted, 150 BPM, D minor, fast aggressive cinematic chase, heavily distorted sawtooth synth riffs played like palm-muted guitar, driving octave synth bass, double-time drums with gated snare and rolling toms, pipe organ break, screaming lead synth solo, choir pad, compressed saturated mix, menacing, relentless, thrilling",
+    "negativeTags": "sung lyrics, rap, acoustic guitar, soft ballad, bright pop, jazz, slow tempo, country",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: bus door hiss, engine, one sustained synth note]\n\n[Announcement: calm recorded female voice]\nNext stop. Please hold the rail.\n\n[Riff A: distorted synth riff, double-time drums]\n\n[Riff B: higher arpeggio, bass octave jumps]\n\n[Announcement: same voice, pitch bending]\nNext stop. Next stop.\n\n[Riff A: heavier, with tom rolls]\n\n[Break: church organ alone, engine idling]\n\n[Build: snare roll, siren synth rising]\n\n[Riff C: fastest, lead synth solo, choir pad]\n\n[Announcement: distorted]\nNext stop.\n\n[Outro: tyres, a long brake squeal, door hiss]",
+    "taskId": "4cb3b85dc47ed1e161184699fc35e638",
+    "sunoClipIds": [
+      "04bb037d-a3d6-4ed7-8a35-22651053710e",
+      "26ad9f21-61d9-4b25-8a1f-10648949882e"
+    ],
+    "created": "Nov 17, 2026 7:44 AM ET",
+    "createTimeMs": 1794919464124,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "04bb037d-a3d6-4ed7-8a35-22651053710e",
+        "durationSec": 214.76,
+        "file": "darkelectro/de_23_last_bus_no_brakes_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "26ad9f21-61d9-4b25-8a1f-10648949882e",
+        "durationSec": 214.0,
+        "file": "darkelectro/de_23_last_bus_no_brakes_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_23_last_bus_no_brakes_req.json",
+      "darkelectro/de_23_last_bus_no_brakes_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_23_last_bus_no_brakes.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 150 BPM, 4/4, D minor. Fast, aggressive and cinematic, a chase on synthesizers.\n\nVOICE: Instrumental. A calm, recorded woman's public-transport voice speaks three short announcements, cleanly at first and then bent in pitch and distorted.\n\nINSTRUMENTS: Heavily distorted sawtooth synths playing fast palm-mute-style riffs, a driving synth bass in octaves, double-time drums with a gated snare and rolling toms, a pipe organ in the break, a screaming lead synth solo, a choir pad, bus doors, engine and brakes.\n\nARRANGEMENT MAP: 0:00 Intro, doors and engine. 0:10 Announcement. 0:16 Riff A. 0:44 Riff B. 1:10 Announcement. 1:16 Riff A, heavier. 1:42 Break, organ. 2:00 Build. 2:12 Riff C, fastest. 2:48 Announcement, distorted. 2:54 Outro, brakes and doors, ends 3:18.\n\nPRODUCTION & MIX: Mid-2010s darksynth: 1980s horror-film synths with modern metal loudness, compressed and saturated.\n\nSIGNATURE MOMENT: The church organ dropping in alone at 1:42.\n\nMODERN POINT OF VIEW: The original's killer drives a muscle car. This vehicle has no driver at all, only a pleasant voice that keeps announcing stops it does not make.\n\nEMOTIONAL ARC: Uneasy, accelerating, a held breath, flat out.",
+    "workbookAtAGlance": "Last Bus, No Brakes\n\nBackup titles\nRoute 13 / Hold the Rail\n\nAt a glance\n150 BPM, D minor\nVoice: Instrumental, with a bus announcement\nLength: about 3 minutes 20",
+    "qa": {
+      "title": "Last Bus, No Brakes",
+      "id": "de_23",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "vocal stem thin (8% of song); lyrics still recognised, likely a processed or spoken voice",
+            "lyric check partial: 50% of lines recognised (unclear: Announcement)"
+          ],
+          "durationSec": 214.8,
+          "measuredBpm": 152.0,
+          "bpmFactor": 1,
+          "targetBpm": 150,
+          "bpmErrPct": 1.3,
+          "lufs": -11.8,
+          "peakDbfs": -0.29,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 3.1,
+          "contentEndSec": 212.7,
+          "vocalCoverage": 0.079,
+          "vocalSpanSec": [
+            12.8,
+            211.0
+          ],
+          "vocalF0MedianHz": 506,
+          "vocalF0P25Hz": 324,
+          "lyricLineRecall": 0.5,
+          "lyricUnclearSections": [
+            "Announcement"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.1 dBFS (1 clipped sample, inaudible)",
+            "vocal stem thin (10% of song); lyrics still recognised, likely a processed or spoken voice"
+          ],
+          "durationSec": 214.0,
+          "measuredBpm": 152.0,
+          "bpmFactor": 1,
+          "targetBpm": 150,
+          "bpmErrPct": 1.3,
+          "lufs": -11.1,
+          "peakDbfs": 0.1,
+          "clipSamples": 1,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 213.5,
+          "vocalCoverage": 0.097,
+          "vocalSpanSec": [
+            12.8,
+            202.3
+          ],
+          "vocalF0MedianHz": 420,
+          "vocalF0P25Hz": 270,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Darksynth",
+    "year": 2015
+  },
+  {
+    "id": "de_24",
+    "title": "Motion Sensor",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 24,
+    "slug": "de_24_motion_sensor",
+    "inspiredBy": "Pain (Boy Harsher, 2014)",
+    "leadVoice": "Female, low and breathy, whispered and half-gasped with long pauses, very close to the microphone. Doubled in the choruses. A second voice echoes from far away near the end.",
+    "model": "V6",
+    "style": "Minimal wave and dark electro, low breathy female vocal whispered and half-gasped with long pauses very close to the microphone, doubled in the choruses, 118 BPM, F minor, minimal pulsing tense feel, pulsing sixteenth-note analogue synth bass, dry vintage drum machine with snappy snare, ticking hi-hat, one cold pad chord, thin detuned lead line, dry stark analogue mix, eerie, sensual, lonely",
+    "negativeTags": "male lead vocals, belting, guitars, rap, bright pop chorus, live drums, orchestral strings, cheerful mood",
+    "instrumental": false,
+    "vocalGender": "f",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 225,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: pulsing synth bass, dry drum machine]\n\n[Verse 1: breathy female voice, close]\nLight comes on\nIn the hall\nI didn't move\nI didn't move at all\n\n[Chorus: voice doubled, cold pad]\nMotion, motion\nSensor\nSomething moved\nMotion\n\n[Verse 2: whispering, hi-hat ticking]\nStand so still\nCount to ten\nIt goes dark\nI move again\n\n[Chorus: voice doubled, cold pad]\nMotion, motion\nSensor\nSomething moved\nMotion\n\n[Instrumental: detuned lead line over the bass]\n\n[Bridge: bass only, gasped]\nSee me. See me.\nIs it you? See me.\n\n[Final Chorus: fuller, a second voice far back]\nMotion, motion\nSensor\nSomething moved\nMotion\n\n[Outro: bass stops, a relay clicks, dark]",
+    "taskId": "f0e63e500f8bb13851850b03c2ee3641",
+    "sunoClipIds": [
+      "9f4ce0d3-e45e-49b2-bbf1-af58f43fa35e",
+      "de85e126-f8c3-468e-9ed2-4e0b70bba482"
+    ],
+    "created": "Nov 17, 2026 7:44 AM ET",
+    "createTimeMs": 1794919441199,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "9f4ce0d3-e45e-49b2-bbf1-af58f43fa35e",
+        "durationSec": 224.0,
+        "file": "darkelectro/de_24_motion_sensor_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "de85e126-f8c3-468e-9ed2-4e0b70bba482",
+        "durationSec": 223.56,
+        "file": "darkelectro/de_24_motion_sensor_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_24_motion_sensor_req.json",
+      "darkelectro/de_24_motion_sensor_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_24_motion_sensor.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 118 BPM, 4/4, F minor. Minimal, pulsing and tense, built from very few parts.\n\nVOICE: Female, low and breathy, whispered and half-gasped with long pauses, very close to the microphone. Doubled in the choruses. A second voice echoes from far away near the end.\n\nINSTRUMENTS: A pulsing sixteenth-note analogue synth bass, a dry vintage drum machine with a snappy snare, a ticking hi-hat, one cold pad chord, a thin detuned lead line, a click of a relay at the end.\n\nARRANGEMENT MAP: 0:00 Intro, bass and drums. 0:20 Verse 1. 0:44 Chorus 1. 1:04 Verse 2. 1:28 Chorus 2. 1:48 Instrumental. 2:12 Bridge, gasped. 2:32 Final chorus. 2:58 Outro, bass stops, a click at 3:24.\n\nPRODUCTION & MIX: Minimal wave and dark electro: dry, mono-ish and stark, analogue gear with no decoration, voice breathing in the listener's ear.\n\nSIGNATURE MOMENT: 'I didn't move. I didn't move at all.' at 0:32.\n\nMODERN POINT OF VIEW: The original repeats a word for what a person feels. This house reacts to movement by itself, and the woman in it is no longer sure whether she is alone or only undetected.\n\nEMOTIONAL ARC: Startled, still, wanting, dark.",
+    "workbookAtAGlance": "Motion Sensor\n\nBackup titles\nThe Light Comes On / Nobody There\n\nAt a glance\n118 BPM, F minor\nVoice: Breathy, whispering female voice\nLength: about 3 minutes 30",
+    "qa": {
+      "title": "Motion Sensor",
+      "id": "de_24",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 224.0,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 0.5,
+          "lufs": -13.4,
+          "peakDbfs": -1.92,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.2,
+          "contentEndSec": 222.0,
+          "vocalCoverage": 0.251,
+          "vocalSpanSec": [
+            24.4,
+            210.8
+          ],
+          "vocalF0MedianHz": 265,
+          "vocalF0P25Hz": 231,
+          "lyricLineRecall": 0.6,
+          "lyricUnclearSections": [],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check weak: only 30% of lines recognised (unclear: Bridge)"
+          ],
+          "durationSec": 223.6,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 118,
+          "bpmErrPct": 0.5,
+          "lufs": -13.6,
+          "peakDbfs": -1.38,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.2,
+          "contentEndSec": 220.4,
+          "vocalCoverage": 0.375,
+          "vocalSpanSec": [
+            19.6,
+            218.6
+          ],
+          "vocalF0MedianHz": 269,
+          "vocalF0P25Hz": 261,
+          "lyricLineRecall": 0.3,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "f",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Dark Electro",
+    "year": 2014
+  },
+  {
+    "id": "de_25",
+    "title": "Convoyeur",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 25,
+    "slug": "de_25_convoyeur",
+    "inspiredBy": "Pursuit (Gesaffelstein, 2013)",
+    "leadVoice": "Instrumental. A man's voice whispers one French word four times, very close and dry, with no effect.",
+    "model": "V6",
+    "style": "2013 French dark techno instrumental, no sung vocals, a man whispering one French word very close and dry, 125 BPM, G minor, relentless precise cold marching pulse, hard dry four-on-the-floor kick, snarling distorted monosynth bass pulse, sharp metallic stabs like struck steel, siren-like gliding lead, tight closed hi-hat, snare rolls, machine hum, extremely dry sharp loud mix with no reverb, menacing, elegant, industrial",
+    "negativeTags": "sung lyrics, rap, guitars, warm pads, bright pop, acoustic instruments, jazz, cheerful mood",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: one metallic hit, low machine hum]\n\n[Section A: dry techno kick, snarling bass pulse]\n\n[Whisper: male voice, French, close]\nEncore.\n\n[Section B: metallic stabs on the off-beat, hi-hat]\n\n[Section C: siren lead rising and falling]\n\n[Break: kick drops out, belt motor, whisper]\nEncore. Encore.\n\n[Section D: full pulse, stabs doubled, snare rolls]\n\n[Section E: siren lead and bass together, most intense]\n\n[Whisper: same voice, slower]\nEncore.\n\n[Outro: motor winds down, one last metallic hit]",
+    "taskId": "458831f27114dfd1182ff9c0c68ae375",
+    "sunoClipIds": [
+      "44181f3b-1241-4b20-9d0e-cd299fba0cff",
+      "1ee41d5d-5769-4a77-b28f-2a515f2317d2"
+    ],
+    "created": "Nov 17, 2026 7:44 AM ET",
+    "createTimeMs": 1794919458418,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "44181f3b-1241-4b20-9d0e-cd299fba0cff",
+        "durationSec": 214.8,
+        "file": "darkelectro/de_25_convoyeur_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "1ee41d5d-5769-4a77-b28f-2a515f2317d2",
+        "durationSec": 214.0,
+        "file": "darkelectro/de_25_convoyeur_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_25_convoyeur_req.json",
+      "darkelectro/de_25_convoyeur_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_25_convoyeur.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 125 BPM, 4/4, G minor. Relentless, precise and cold techno at a marching tempo.\n\nVOICE: Instrumental. A man's voice whispers one French word four times, very close and dry, with no effect.\n\nINSTRUMENTS: A hard, dry four-on-the-floor kick, a snarling, distorted monosynth bass pulse, sharp metallic stabs like struck steel, a siren-like lead that glides up and down, a tight closed hi-hat, snare rolls, a conveyor motor and machine hum.\n\nARRANGEMENT MAP: 0:00 Intro, a hit and hum. 0:10 Section A. 0:30 First whisper. 0:34 Section B. 1:00 Section C, siren. 1:28 Break, motor and whispers. 1:44 Section D. 2:14 Section E, most intense. 2:48 Whisper. 2:54 Outro, motor winds down, last hit at 3:16.\n\nPRODUCTION & MIX: 2013 French dark techno: extremely dry and sharp, no reverb, every sound separate, loud and black.\n\nSIGNATURE MOMENT: The kick returning after the break at 1:44.\n\nMODERN POINT OF VIEW: The original is pure menace with no setting. This gives it one: a warehouse that runs all night with no people in it, and a single human word left over.\n\nEMOTIONAL ARC: Cold, driven, paused, driven harder.",
+    "workbookAtAGlance": "Convoyeur\n\nBackup titles\nEncore / The Belt Does Not Stop\n\nAt a glance\n125 BPM, G minor\nVoice: Instrumental, with whispered French words\nLength: about 3 minutes 20",
+    "qa": {
+      "title": "Convoyeur",
+      "id": "de_25",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.8,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 125,
+          "bpmErrPct": 3.4,
+          "lufs": -11.7,
+          "peakDbfs": -0.63,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 213.0,
+          "vocalCoverage": 0.028,
+          "vocalSpanSec": [
+            33.9,
+            159.2
+          ],
+          "vocalF0MedianHz": 622,
+          "vocalF0P25Hz": 594,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 214.0,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 125,
+          "bpmErrPct": 3.4,
+          "lufs": -11.5,
+          "peakDbfs": -0.18,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.8,
+          "contentEndSec": 213.9,
+          "vocalCoverage": 0.097,
+          "vocalSpanSec": [
+            26.9,
+            213.1
+          ],
+          "vocalF0MedianHz": 376,
+          "vocalF0P25Hz": 234,
+          "lyricLineRecall": 0.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Techno",
+    "year": 2013
+  },
+  {
+    "id": "de_26",
+    "title": "Arcade After Hours",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 26,
+    "slug": "de_26_arcade_after_hours",
+    "inspiredBy": "Future Club (Perturbator, 2014)",
+    "leadVoice": "Instrumental. A robotic arcade-machine voice says three short phrases, lo-fi and slightly pitched down.",
+    "model": "V6",
+    "style": "2014 dark synthwave instrumental, no sung vocals, a lo-fi robotic arcade-machine voice saying three short phrases, 110 BPM, F# minor, mid-tempo pumping heroic feel, sidechained analogue synth bass, four-on-the-floor kick with big gated snare, bright sixteenth-note arpeggios, heroic sawtooth lead synth melody, electronic toms, choir pad, 8-bit chip sounds, thick analogue low end with 1980s gated drums, nostalgic, driving, cinematic",
+    "negativeTags": "sung lyrics, rap, acoustic guitar, live rock band, soft ballad, jazz, country, trap hi-hats",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: cabinet hum, coin drop, 8-bit jingle]\n\n[Sample: robotic arcade voice]\nInsert coin.\n\n[Section A: pumping synth bass, four-on-the-floor kick]\n\n[Section B: bright arpeggio enters, gated snare]\n\n[Melody: heroic lead synth, long notes]\n\n[Sample: robotic arcade voice]\nPlayer one. Player one.\n\n[Break: arpeggio alone, cabinet hum]\n\n[Section C: bass returns heavier, tom fills]\n\n[Melody: lead doubled an octave up, choir pad]\n\n[Sample: robotic arcade voice]\nGame over. Insert coin.\n\n[Outro: 8-bit jingle slows down, power switch]",
+    "taskId": "76a33cbe34f6643469ab4bd8210b5fee",
+    "sunoClipIds": [
+      "1cbeb635-aa6b-4a7d-8e3d-bfc25301e973",
+      "79e94937-0cf1-4b10-85de-568886208706"
+    ],
+    "created": "Nov 17, 2026 7:44 AM ET",
+    "createTimeMs": 1794919477138,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "1cbeb635-aa6b-4a7d-8e3d-bfc25301e973",
+        "durationSec": 213.8,
+        "file": "darkelectro/de_26_arcade_after_hours_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "79e94937-0cf1-4b10-85de-568886208706",
+        "durationSec": 214.68,
+        "file": "darkelectro/de_26_arcade_after_hours_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_26_arcade_after_hours_req.json",
+      "darkelectro/de_26_arcade_after_hours_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_26_arcade_after_hours.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 110 BPM, 4/4, F# minor. Mid-tempo, pumping and heroic, darker than nostalgia usually is.\n\nVOICE: Instrumental. A robotic arcade-machine voice says three short phrases, lo-fi and slightly pitched down.\n\nINSTRUMENTS: A pumping, sidechained analogue synth bass, a four-on-the-floor kick with a big gated snare, bright sixteenth-note arpeggios, a heroic sawtooth lead synth, electronic toms, a choir pad, 8-bit chip sounds, cabinet hum, a coin drop and a power switch.\n\nARRANGEMENT MAP: 0:00 Intro, hum, coin and jingle. 0:14 Sample. 0:18 Section A. 0:44 Section B. 1:10 Melody. 1:40 Sample. 1:46 Break. 2:00 Section C. 2:24 Melody, doubled. 2:54 Sample. 3:00 Outro, jingle slows, switch at 3:16.\n\nPRODUCTION & MIX: 2014 dark synthwave: thick analogue bass, bright digital arpeggios, 1980s gated drums, modern loudness.\n\nSIGNATURE MOMENT: The lead melody entering at 1:10.\n\nMODERN POINT OF VIEW: The original imagines a club in a future city. This looks back instead, to the arcades of the 1980s, and finds the machines still running after everyone grew up and left.\n\nEMOTIONAL ARC: Nostalgic, pumped up, wistful, switched off.",
+    "workbookAtAGlance": "Arcade After Hours\n\nBackup titles\nInsert Coin / Cabinet Glow\n\nAt a glance\n110 BPM, F# minor\nVoice: Instrumental, with arcade voice samples\nLength: about 3 minutes 20",
+    "qa": {
+      "title": "Arcade After Hours",
+      "id": "de_26",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "vocal stem thin (9% of song); lyrics still recognised, likely a processed or spoken voice"
+          ],
+          "durationSec": 213.8,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 110,
+          "bpmErrPct": 2.1,
+          "lufs": -12.1,
+          "peakDbfs": -0.34,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 213.2,
+          "vocalCoverage": 0.089,
+          "vocalSpanSec": [
+            6.7,
+            196.9
+          ],
+          "vocalF0MedianHz": 324,
+          "vocalF0P25Hz": 165,
+          "lyricLineRecall": 1.0,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "vocal stem thin (3% of song); lyrics still recognised, likely a processed or spoken voice",
+            "lyric check partial: 50% of lines recognised (unclear: Sample)"
+          ],
+          "durationSec": 214.7,
+          "measuredBpm": 112.3,
+          "bpmFactor": 1,
+          "targetBpm": 110,
+          "bpmErrPct": 2.1,
+          "lufs": -13.0,
+          "peakDbfs": -1.45,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.7,
+          "contentEndSec": 213.7,
+          "vocalCoverage": 0.032,
+          "vocalSpanSec": [
+            6.6,
+            209.6
+          ],
+          "vocalF0MedianHz": 234,
+          "vocalF0P25Hz": 120,
+          "lyricLineRecall": 0.5,
+          "lyricUnclearSections": [
+            "Sample"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Darksynth",
+    "year": 2014
+  },
+  {
+    "id": "de_27",
+    "title": "Signal for the Sleepless",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 27,
+    "slug": "de_27_signal_for_the_sleepless",
+    "inspiredBy": "Illusion (VNV Nation, 2007)",
+    "leadVoice": "Male, mid-range, plain and unshowy, with a slight Irish-English accent, sung gently and clearly. He grows stronger in the last chorus without shouting. No effects beyond reverb.",
+    "model": "V6",
+    "style": "Futurepop electronic ballad, plain unshowy mid-range male vocal with a slight Irish-English accent sung gently and clearly, growing stronger in the last chorus without shouting, 96 BPM, B-flat major, slow warm steadily rising hymn-like feel, warm analogue synth chords, soft sequenced pulse, mid-tempo electronic kick and snare, string section, piano in the bridge, choir pad at the end, clean wide warm mix, compassionate, hopeful, nocturnal",
+    "negativeTags": "female lead vocals, distorted guitars, screaming, rap, fast tempo, harsh noise, trap hi-hats, cheerful dance pop",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: slow synth chords, soft pulse, radio tuning]\n\n[Verse 1: plain kind male voice]\nIt's three, and the ceiling's all you've read\nEvery worst thing circling your head\nYou think the dark is yours alone\nYou think there's no one else at home\n\n[Chorus: chords rise, strings, steady beat]\nThis is a signal for the sleepless\nFor the ones still up tonight\nLook out, look out across the rooftops\nYou are not the only light\nI can't fix it, I can't hold you\nBut I'm awake, and so are they\nThis is a signal for the sleepless\nStay. Stay.\n\n[Verse 2: voice a little fuller]\nA nurse on a break, a kid with a screen\nA baker, a driver, a man who can't dream\nWindows lit like a second sky\nNobody knows the other's why\n\n[Chorus: chords rise, strings, steady beat]\nThis is a signal for the sleepless\nFor the ones still up tonight\nLook out, look out across the rooftops\nYou are not the only light\nI can't fix it, I can't hold you\nBut I'm awake, and so are they\nThis is a signal for the sleepless\nStay. Stay.\n\n[Bridge: beat drops out, piano and voice]\nMorning isn't far\nIt never has been\n\n[Final Chorus: full, choir pad, voice strongest]\nThis is a signal for the sleepless\nFor the ones still up tonight\nLook out, look out across the rooftops\nYou are not the only light\nI can't fix it, I can't hold you\nBut I'm awake, and so are they\nThis is a signal for the sleepless\nStay. Stay.\n\n[Outro: chords fade, first birds]",
+    "taskId": "daf4eef300b15694b75ffee6bd12037c",
+    "sunoClipIds": [
+      "b61c6351-ca58-4a21-a247-c9a5d3fc6050",
+      "a498bb13-b686-4060-a54f-fbae0ba07e45"
+    ],
+    "created": "Nov 17, 2026 7:44 AM ET",
+    "createTimeMs": 1794919468938,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "b61c6351-ca58-4a21-a247-c9a5d3fc6050",
+        "durationSec": 254.76,
+        "file": "darkelectro/de_27_signal_for_the_sleepless_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "a498bb13-b686-4060-a54f-fbae0ba07e45",
+        "durationSec": 254.4,
+        "file": "darkelectro/de_27_signal_for_the_sleepless_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_27_signal_for_the_sleepless_req.json",
+      "darkelectro/de_27_signal_for_the_sleepless_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_27_signal_for_the_sleepless.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 96 BPM, 4/4, B-flat major. Slow, warm and steadily rising, an electronic hymn.\n\nVOICE: Male, mid-range, plain and unshowy, with a slight Irish-English accent, sung gently and clearly. He grows stronger in the last chorus without shouting. No effects beyond reverb.\n\nINSTRUMENTS: Warm analogue synth chords, a soft sequenced pulse, a mid-tempo electronic kick and snare, a string section, a piano in the bridge, a choir pad in the last chorus, a radio being tuned at the start, birdsong at the end.\n\nARRANGEMENT MAP: 0:00 Intro, chords and radio. 0:20 Verse 1. 0:52 Chorus 1. 1:32 Verse 2. 2:04 Chorus 2. 2:44 Bridge, piano. 3:00 Final chorus. 3:40 Outro, chords and birds, ends 3:58.\n\nPRODUCTION & MIX: Futurepop ballad: clean, wide and warm, synths soft-edged, voice clear and central.\n\nSIGNATURE MOMENT: 'You are not the only light' at 1:06.\n\nMODERN POINT OF VIEW: The original speaks to one person who feels out of place. This speaks to a whole city of people awake alone, each lit by a window, which is what three in the morning looks like now.\n\nEMOTIONAL ARC: Alone, noticed, accompanied, nearly morning.",
+    "workbookAtAGlance": "Signal for the Sleepless\n\nBackup titles\nThree A.M. Frequency / You Are Not the Only Light On\n\nAt a glance\n96 BPM, B-flat major\nVoice: Plain, kind male voice\nLength: about 4 minutes",
+    "qa": {
+      "title": "Signal for the Sleepless",
+      "id": "de_27",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.8,
+          "measuredBpm": 95.7,
+          "bpmFactor": 1,
+          "targetBpm": 96,
+          "bpmErrPct": 0.3,
+          "lufs": -13.4,
+          "peakDbfs": -0.88,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.6,
+          "contentEndSec": 253.4,
+          "vocalCoverage": 0.523,
+          "vocalSpanSec": [
+            14.3,
+            231.4
+          ],
+          "vocalF0MedianHz": 157,
+          "vocalF0P25Hz": 146,
+          "lyricLineRecall": 0.903,
+          "lyricUnclearSections": [
+            "Bridge"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.4,
+          "measuredBpm": 99.4,
+          "bpmFactor": 1,
+          "targetBpm": 96,
+          "bpmErrPct": 3.5,
+          "lufs": -13.6,
+          "peakDbfs": -1.1,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 1.5,
+          "contentEndSec": 253.0,
+          "vocalCoverage": 0.602,
+          "vocalSpanSec": [
+            19.4,
+            224.7
+          ],
+          "vocalF0MedianHz": 230,
+          "vocalF0P25Hz": 150,
+          "lyricLineRecall": 0.806,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other",
+    "year": 2007
+  },
+  {
+    "id": "de_28",
+    "title": "Autocorrect Me",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 28,
+    "slug": "de_28_autocorrect_me",
+    "inspiredBy": "Assimilate (Skinny Puppy, 1985)",
+    "leadVoice": "Male, heavily distorted into a dry rasp, delivered in short fragments, barked in the choruses and glitching apart near the end. A clean synthetic voice makes three suggestions in the breakdown. The final line is his own voice with no effect.",
+    "model": "V6",
+    "style": "1985 industrial dance, male vocal heavily distorted into a dry rasp delivered in short fragments and barked in the choruses, glitching apart near the end, a clean synthetic voice in the breakdown, final line undistorted, 124 BPM, C minor, jerking harsh danceable feel, hard syncopated analogue sequencer line, drum machine with metallic snare, sampled metal hits, low drone, bursts of static, detuned sliding lead, tape-stutter effects, raw lo-fi abrasive mix, disturbing, tense, defiant",
+    "negativeTags": "female lead vocals, clean pop singing, acoustic guitar, rap, bright major chords, orchestral strings, soft ballad, funk",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 215,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: jerking sequencer line, drum machine, static]\n\n[Verse 1: distorted rasping male voice, fragments]\nI typed a word\nIt gave me another\nI said a thing\nIt sounded like my brother\n\n[Chorus: barked, metallic hits]\nAutocorrect me\nDid you mean, did you mean\nAutocorrect me\nSmooth and clean\nTake the edges, take the spelling\nAutocorrect me\n\n[Verse 2: voice breaking up, sequencer doubling]\nMy name comes back\nUnderlined in red\nThe right one's what it gives me\nThe wrong one's in my head\n\n[Chorus: barked, metallic hits]\nAutocorrect me\nDid you mean, did you mean\nAutocorrect me\nSmooth and clean\nTake the edges, take the spelling\nAutocorrect me\n\n[Breakdown: sequencer alone, clean synthetic voice]\nDid you mean: yes.\nDid you mean: fine.\nDid you mean: yes.\n\n[Final Chorus: harshest, voice glitching, last line clean]\nAutocorrect me\nDid you mean, did you mean\nAutocorrect me\nSmooth and clean\nTake the edges, take the spelling\nNo. I meant what I said.\n\n[Outro: sequencer stutters, static, stops]",
+    "taskId": "74180125da9435f4d350884f035571bb",
+    "sunoClipIds": [
+      "fee98da6-e6bc-43f3-998e-8558067521ef",
+      "14987b54-0f29-4436-9282-8485f3d94402"
+    ],
+    "created": "Nov 17, 2026 7:44 AM ET",
+    "createTimeMs": 1794919476412,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "fee98da6-e6bc-43f3-998e-8558067521ef",
+        "durationSec": 214.68,
+        "file": "darkelectro/de_28_autocorrect_me_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "14987b54-0f29-4436-9282-8485f3d94402",
+        "durationSec": 214.76,
+        "file": "darkelectro/de_28_autocorrect_me_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_28_autocorrect_me_req.json",
+      "darkelectro/de_28_autocorrect_me_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_28_autocorrect_me.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 124 BPM, 4/4, C minor. Jerking, harsh and danceable, like a machine with a limp.\n\nVOICE: Male, heavily distorted into a dry rasp, delivered in short fragments, barked in the choruses and glitching apart near the end. A clean synthetic voice makes three suggestions in the breakdown. The final line is his own voice with no effect.\n\nINSTRUMENTS: A hard, syncopated analogue sequencer line, a drum machine with a metallic snare, sampled metal hits, a low drone, bursts of static, a detuned lead that slides between notes, tape-stutter effects.\n\nARRANGEMENT MAP: 0:00 Intro, sequencer and static. 0:16 Verse 1. 0:40 Chorus 1. 1:04 Verse 2. 1:28 Chorus 2. 1:52 Breakdown, the clean voice. 2:14 Final chorus, ending clean. 2:48 Outro, stutter and stop at 3:16.\n\nPRODUCTION & MIX: 1985 industrial: raw, lo-fi and abrasive, cheap samplers and analogue sequencers, the voice more texture than words.\n\nSIGNATURE MOMENT: The undistorted 'No. I meant what I said.' at 2:42.\n\nMODERN POINT OF VIEW: The original's order to conform comes from outside and above. Now it arrives as a helpful suggestion under every word a person types, and resisting means insisting on a mistake.\n\nEMOTIONAL ARC: Confused, eroded, nearly erased, himself.",
+    "workbookAtAGlance": "Autocorrect Me\n\nBackup titles\nDid You Mean / It Fixes What I Meant\n\nAt a glance\n124 BPM, C minor\nVoice: Distorted, rasping male voice\nLength: about 3 minutes 20",
+    "qa": {
+      "title": "Autocorrect Me",
+      "id": "de_28",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "warn",
+          "reasons": [
+            "peak 0.21 dBFS (5 clipped sample, inaudible)"
+          ],
+          "durationSec": 214.7,
+          "measuredBpm": 129.2,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 4.2,
+          "lufs": -11.9,
+          "peakDbfs": 0.21,
+          "clipSamples": 5,
+          "midGaps": [],
+          "endFadeSec": 0.2,
+          "contentEndSec": 213.8,
+          "vocalCoverage": 0.477,
+          "vocalSpanSec": [
+            32.8,
+            192.8
+          ],
+          "vocalF0MedianHz": 433,
+          "vocalF0P25Hz": 257,
+          "lyricLineRecall": 0.667,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check partial: 43% of lines recognised (unclear: Verse 1, Verse 2)"
+          ],
+          "durationSec": 214.8,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 124,
+          "bpmErrPct": 0.8,
+          "lufs": -11.9,
+          "peakDbfs": -1.27,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 214.2,
+          "vocalCoverage": 0.454,
+          "vocalSpanSec": [
+            29.2,
+            203.1
+          ],
+          "vocalF0MedianHz": 467,
+          "vocalF0P25Hz": 242,
+          "lyricLineRecall": 0.429,
+          "lyricUnclearSections": [
+            "Verse 1",
+            "Verse 2"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Other",
+    "year": 1985
+  },
+  {
+    "id": "de_29",
+    "title": "Overnight Update",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 29,
+    "slug": "de_29_overnight_update",
+    "inspiredBy": "Mindphaser (Front Line Assembly, 1992)",
+    "leadVoice": "Male, low, growled and half-whispered with distortion and a short delay, more texture than performance. Doubled and harsher in the choruses. A flat synthetic voice delivers two system announcements.",
+    "model": "V6",
+    "style": "1992 cyberpunk industrial and dark electro, low growled half-whispered male vocal with distortion and short delay, doubled and harsher in the choruses, a flat synthetic voice delivering system announcements, 120 BPM, F minor, dense driving cinematic feel, several interlocking analogue sequencer lines, pounding kick and sharp electronic snare, layered metallic percussion, low drone, cold film-score strings, gliding lead synth, thick dark wide mix with the voice buried among machines, paranoid, futuristic, relentless",
+    "negativeTags": "female lead vocals, clean pop singing, acoustic guitar, rap, bright major chords, live rock band, soft ballad, funk",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 255,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: layered sequencers, low drone, sampled announcement]\n\n[Sample: flat synthetic voice]\nA new version is available.\n\n[Verse 1: growled male voice, half-whispered]\nI close my eyes at midnight\nI open them rearranged\nSame face, same hands, same kitchen\nSomething small has changed\n\n[Chorus: full sequencers, voice doubled and distorted]\nOvernight update\nThey patch me in my sleep\nOvernight update\nNew things I believe\nNo notes, no version, no undo\nOvernight update\n\n[Verse 2: voice closer, percussion layering]\nI used to hate that color\nI used to know that name\nI had a reason yesterday\nIt isn't quite the same\n\n[Chorus: full sequencers, voice doubled and distorted]\nOvernight update\nThey patch me in my sleep\nOvernight update\nNew things I believe\nNo notes, no version, no undo\nOvernight update\n\n[Instrumental: lead synth over the sequence, film-like strings]\n\n[Bridge: drone and voice only]\nWho am I running?\nWho wrote this part?\n\n[Sample: flat synthetic voice]\nInstallation complete. Restart required.\n\n[Final Chorus: densest, then cut]\nOvernight update\nThey patch me in my sleep\nOvernight update\nNew things I believe\nNo notes, no version, no undo\nOvernight\n\n[Outro: one sequencer line, a breath, eyes opening]",
+    "taskId": "cb93130e7f789775bed09e56531f4922",
+    "sunoClipIds": [
+      "3c949fef-9540-4851-a49f-7cdb9bc363c5",
+      "395149ad-155a-4816-ab6c-02d7466bd641"
+    ],
+    "created": "Nov 17, 2026 7:44 AM ET",
+    "createTimeMs": 1794919489657,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "3c949fef-9540-4851-a49f-7cdb9bc363c5",
+        "durationSec": 257.2,
+        "file": "darkelectro/de_29_overnight_update_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "395149ad-155a-4816-ab6c-02d7466bd641",
+        "durationSec": 254.56,
+        "file": "darkelectro/de_29_overnight_update_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_29_overnight_update_req.json",
+      "darkelectro/de_29_overnight_update_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_29_overnight_update.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, F minor. Dense, driving and cinematic, a cyberpunk city in sequencers.\n\nVOICE: Male, low, growled and half-whispered with distortion and a short delay, more texture than performance. Doubled and harsher in the choruses. A flat synthetic voice delivers two system announcements.\n\nINSTRUMENTS: Three or four interlocking analogue sequencer lines, a pounding kick and a sharp electronic snare, layered metallic percussion, a low drone, cold film-score strings, a gliding lead synth, sampled announcements and machine sounds.\n\nARRANGEMENT MAP: 0:00 Intro, sequencers and drone. 0:16 Sample. 0:22 Verse 1. 0:50 Chorus 1. 1:20 Verse 2. 1:48 Chorus 2. 2:18 Instrumental. 2:46 Bridge. 3:00 Sample. 3:06 Final chorus, cut off at 3:34. 3:36 Outro, one line and a breath, ends 3:58.\n\nPRODUCTION & MIX: 1992 industrial: thick layers of sequencing and sampling, dark and wide, voice buried among the machines on purpose.\n\nSIGNATURE MOMENT: 'Installation complete. Restart required.' at 3:00.\n\nMODERN POINT OF VIEW: The original imagines a device that invades the mind. Nobody needs to imagine it now: the devices people carry change overnight, and so, a little, do the people.\n\nEMOTIONAL ARC: Uneasy, suspicious, questioning, restarted.",
+    "workbookAtAGlance": "Overnight Update\n\nBackup titles\nThey Patch Me in My Sleep / Version Unknown\n\nAt a glance\n120 BPM, F minor\nVoice: Growled, whispered male voice\nLength: about 4 minutes",
+    "qa": {
+      "title": "Overnight Update",
+      "id": "de_29",
+      "pick": 2,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 257.2,
+          "measuredBpm": 117.5,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 2.1,
+          "lufs": -13.2,
+          "peakDbfs": -0.39,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.1,
+          "contentEndSec": 256.9,
+          "vocalCoverage": 0.398,
+          "vocalSpanSec": [
+            2.9,
+            256.2
+          ],
+          "vocalF0MedianHz": 534,
+          "vocalF0P25Hz": 365,
+          "lyricLineRecall": 0.667,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 254.6,
+          "measuredBpm": 123.0,
+          "bpmFactor": 1,
+          "targetBpm": 120,
+          "bpmErrPct": 2.5,
+          "lufs": -12.7,
+          "peakDbfs": -0.31,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 2.0,
+          "contentEndSec": 254.4,
+          "vocalCoverage": 0.391,
+          "vocalSpanSec": [
+            13.8,
+            235.3
+          ],
+          "vocalF0MedianHz": 480,
+          "vocalF0P25Hz": 171,
+          "lyricLineRecall": 0.857,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Cyberpunk",
+    "year": 1992
+  },
+  {
+    "id": "de_30",
+    "title": "Void Your Warranty",
+    "collection": "darkelectro",
+    "album": "Dark Electro Reimagined",
+    "track": 30,
+    "slug": "de_30_void_your_warranty",
+    "inspiredBy": "This S*it Will Fcuk You Up (Combichrist, 2005)",
+    "leadVoice": "Male, shouted and screamed through heavy distortion, like a megaphone. A gang shouts the chorus. One calm, clean corporate voice speaks a sentence in the breakdown. A normal spoken voice says two words at the very end.",
+    "model": "V6",
+    "style": "2005 aggrotech and harsh EBM, male vocal shouted and screamed through heavy megaphone-like distortion, gang shouting the chorus, one calm clean corporate voice in the breakdown, 135 BPM, F minor, pounding harsh relentless club feel, heavily distorted four-on-the-floor kick, buzzing sawtooth off-beat bass, screeching lead synths, hard clap, noise sweeps, alarm-like warning beep, everything distorted and compressed to the limit, furious, absurd, cathartic",
+    "negativeTags": "female lead vocals, clean melodic singing, acoustic guitar, rap, orchestral strings, soft ballad, jazz, bright pop",
+    "instrumental": false,
+    "vocalGender": "m",
+    "styleWeight": 0.65,
+    "weirdnessConstraint": 0.5,
+    "audioWeight": 0.65,
+    "variety": 0,
+    "duration": 195,
+    "customMode": true,
+    "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+    "lyrics": "[Intro: pounding distorted kick, buzzing bass, warning beep]\n\n[Verse 1: distorted male shout]\nDo not open\nDo not look inside\nNo user-serviceable parts\nDo not even try\n\n[Chorus: full beat, gang shout]\nThis will void your warranty!\nThis will void your warranty!\nBreak the seal and you are on your own\nThis will void your warranty!\n\n[Verse 2: shout, synth screeching]\nTwelve small screws\nOne you cannot find\nA sticker says they'll know\nA sticker reads your mind\n\n[Chorus: full beat, gang shout]\nThis will void your warranty!\nThis will void your warranty!\nBreak the seal and you are on your own\nThis will void your warranty!\n\n[Breakdown: kick only, calm spoken voice]\nPlease contact an authorized service center.\n\n[Final Chorus: loudest, screamed]\nThis will void your warranty!\nI will void my warranty!\nI broke the seal and I am on my own\nI voided my warranty!\n\n[Outro: beat stops, a screwdriver dropped, \"It works.\"]",
+    "taskId": "c999ea8804a029196865141419d0daa7",
+    "sunoClipIds": [
+      "d8bc630c-c41b-403a-a99e-175a8f6a085b",
+      "9b1fd70f-2727-4242-98ba-546fc54b4045"
+    ],
+    "created": "Nov 17, 2026 7:44 AM ET",
+    "createTimeMs": 1794919477907,
+    "takes": [
+      {
+        "take": 1,
+        "clipId": "d8bc630c-c41b-403a-a99e-175a8f6a085b",
+        "durationSec": 194.8,
+        "file": "darkelectro/de_30_void_your_warranty_1.mp3"
+      },
+      {
+        "take": 2,
+        "clipId": "9b1fd70f-2727-4242-98ba-546fc54b4045",
+        "durationSec": 194.76,
+        "file": "darkelectro/de_30_void_your_warranty_2.mp3"
+      }
+    ],
+    "sourceFiles": [
+      "darkelectro/de_30_void_your_warranty_req.json",
+      "darkelectro/de_30_void_your_warranty_rec.json"
+    ],
+    "cover": "darkelectro/covers/de_30_void_your_warranty.jpg",
+    "producerBrief": "TEMPO / KEY / FEEL: 135 BPM, 4/4, F minor. Pounding, harsh and relentless, built for a strobe-lit floor.\n\nVOICE: Male, shouted and screamed through heavy distortion, like a megaphone. A gang shouts the chorus. One calm, clean corporate voice speaks a sentence in the breakdown. A normal spoken voice says two words at the very end.\n\nINSTRUMENTS: A heavily distorted four-on-the-floor kick, a buzzing sawtooth bass on every off-beat, screeching lead synths, a hard clap, noise sweeps, an alarm-like warning beep, a dropped screwdriver.\n\nARRANGEMENT MAP: 0:00 Intro, kick, bass and beep. 0:14 Verse 1. 0:36 Chorus 1. 1:00 Verse 2. 1:22 Chorus 2. 1:46 Breakdown, the calm voice. 2:00 Final chorus. 2:36 Outro, silence, a screwdriver and 'It works' at 2:52.\n\nPRODUCTION & MIX: 2005 aggrotech: everything distorted and compressed to the limit, kick enormous, no space left.\n\nSIGNATURE MOMENT: 'It works.' in the silence at 2:52.\n\nMODERN POINT OF VIEW: The original is a threat with no object. This aims the same fury at a warning label, and ends with the listener fixing the thing himself.\n\nEMOTIONAL ARC: Warned, enraged, defiant, satisfied.",
+    "workbookAtAGlance": "Void Your Warranty\n\nBackup titles\nDo Not Open / No User-Serviceable Parts\n\nAt a glance\n135 BPM, F minor\nVoice: Distorted male shout\nLength: about 3 minutes",
+    "qa": {
+      "title": "Void Your Warranty",
+      "id": "de_30",
+      "pick": 1,
+      "takes": [
+        {
+          "take": 1,
+          "verdict": "pass",
+          "reasons": [],
+          "durationSec": 194.8,
+          "measuredBpm": 136.0,
+          "bpmFactor": 1,
+          "targetBpm": 135,
+          "bpmErrPct": 0.7,
+          "lufs": -13.2,
+          "peakDbfs": -0.95,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.3,
+          "contentEndSec": 193.7,
+          "vocalCoverage": 0.565,
+          "vocalSpanSec": [
+            7.6,
+            192.6
+          ],
+          "vocalF0MedianHz": 805,
+          "vocalF0P25Hz": 568,
+          "lyricLineRecall": 0.81,
+          "lyricUnclearSections": [],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        },
+        {
+          "take": 2,
+          "verdict": "warn",
+          "reasons": [
+            "lyric check partial: 57% of lines recognised (unclear: Verse 1)"
+          ],
+          "durationSec": 194.8,
+          "measuredBpm": 136.0,
+          "bpmFactor": 1,
+          "targetBpm": 135,
+          "bpmErrPct": 0.7,
+          "lufs": -13.2,
+          "peakDbfs": -0.32,
+          "clipSamples": 0,
+          "midGaps": [],
+          "endFadeSec": 0.6,
+          "contentEndSec": 193.7,
+          "vocalCoverage": 0.509,
+          "vocalSpanSec": [
+            17.8,
+            184.9
+          ],
+          "vocalF0MedianHz": 761,
+          "vocalF0P25Hz": 398,
+          "lyricLineRecall": 0.571,
+          "lyricUnclearSections": [
+            "Verse 1"
+          ],
+          "requestedVoice": "m",
+          "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+        }
+      ]
+    },
+    "genre": "Aggrotech",
+    "year": 2005
   }
 ]

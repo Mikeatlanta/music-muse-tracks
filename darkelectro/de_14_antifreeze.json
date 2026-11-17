@@ -1,0 +1,124 @@
+{
+  "id": "de_14",
+  "title": "Antifreeze",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 14,
+  "slug": "de_14_antifreeze",
+  "inspiredBy": "Kerosene (Crystal Castles, 2012)",
+  "leadVoice": "Female, high and thin, pitch-shifted, chopped into pieces and soaked in echo so that words blur. Doubled an octave apart in the choruses. Only the final line is dry and clear.",
+  "model": "V6",
+  "style": "Early-2010s dark glitchy electronic pop, high thin female vocal pitch-shifted chopped and soaked in echo so words blur, doubled an octave apart in the choruses, one dry clear line at the end, 126 BPM with half-time verses, G minor, cold glitchy gentle feel, icy detuned synth arpeggio, heavy kick and distorted snare, bit-crushed glitching lead synth, deep sub bass, digital noise bursts, cold choir pad, harsh digital heavy mix, protective, eerie, tender",
+  "negativeTags": "male lead vocals, clean natural singing, acoustic guitar, rap, warm soul, brass, live drums, cheerful mood",
+  "instrumental": false,
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: icy synth arpeggio, bit-crushed noise]\n\n[Verse 1: female voice, pitched and echoing]\nStand behind me\nDon't look out\nIt gets in through the windows\nIt gets in through the mouth\n\n[Chorus: heavy beat, voice chopped and doubled]\nI'll keep the cold off you\nAntifreeze, antifreeze\nPour me in your veins and sleep\nI'll keep the cold off you\n\n[Drop: glitching synth lead, vocal fragments]\n(Anti, anti, freeze)\n\n[Verse 2: voice closer, still broken]\nThey say it's nothing\nThey say it's fine\nI've seen what nothing does\nTo a spine\n\n[Chorus: heavy beat, voice chopped and doubled]\nI'll keep the cold off you\nAntifreeze, antifreeze\nPour me in your veins and sleep\nI'll keep the cold off you\n\n[Drop: glitching synth lead, bigger, vocal fragments]\n(Anti, anti, freeze)\n\n[Outro: arpeggio slows, one clear line]\nUnder my coat. Go on.",
+  "taskId": "e2ae88cb8bbf4c663b1aad86bbfde880",
+  "sunoClipIds": [
+    "41859ee7-a3b3-454c-98b5-360677c5ecd3",
+    "07e324f1-ca39-46f3-97ba-794f3da167df"
+  ],
+  "created": "Nov 17, 2026 7:43 AM ET",
+  "createTimeMs": 1794919396747,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "41859ee7-a3b3-454c-98b5-360677c5ecd3",
+      "durationSec": 194.52,
+      "file": "darkelectro/de_14_antifreeze_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "07e324f1-ca39-46f3-97ba-794f3da167df",
+      "durationSec": 194.52,
+      "file": "darkelectro/de_14_antifreeze_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_14_antifreeze_req.json",
+    "darkelectro/de_14_antifreeze_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_14_antifreeze.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 126 BPM with a half-time feel in the verses, 4/4, G minor. Cold, glitchy and strangely gentle.\n\nVOICE: Female, high and thin, pitch-shifted, chopped into pieces and soaked in echo so that words blur. Doubled an octave apart in the choruses. Only the final line is dry and clear.\n\nINSTRUMENTS: An icy, detuned synth arpeggio, a heavy kick and distorted snare, a bit-crushed lead synth that glitches in the drops, a deep sub bass, digital noise bursts, a cold choir pad.\n\nARRANGEMENT MAP: 0:00 Intro, arpeggio and noise. 0:14 Verse 1. 0:40 Chorus 1. 1:04 Drop 1. 1:22 Verse 2. 1:48 Chorus 2. 2:12 Drop 2. 2:38 Outro, arpeggio slows, the clear line at 2:52.\n\nPRODUCTION & MIX: Early-2010s dark electronic: harsh digital edges, heavy low end, vocal treated as a damaged instrument.\n\nSIGNATURE MOMENT: The one undamaged line, 'Under my coat. Go on.', at 2:52.\n\nMODERN POINT OF VIEW: The original's protection sounds like a teenager's vow. This one is an adult's: she knows what the cold does, and that what she offers is not entirely safe either.\n\nEMOTIONAL ARC: Alarmed, fierce, tender, sheltering.",
+  "workbookAtAGlance": "Antifreeze\n\nBackup titles\nI'll Keep the Cold Off You / Under My Coat\n\nAt a glance\n126 BPM, G minor\nVoice: Chopped, pitched female voice in echo\nLength: about 3 minutes",
+  "qa": {
+    "title": "Antifreeze",
+    "id": "de_14",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending",
+          "lyric check partial: 59% of lines recognised (unclear: Drop, Outro)"
+        ],
+        "durationSec": 194.5,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 2.5,
+        "lufs": -13.6,
+        "peakDbfs": -1.31,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.1,
+        "contentEndSec": 193.9,
+        "vocalCoverage": 0.743,
+        "vocalSpanSec": [
+          1.0,
+          184.8
+        ],
+        "vocalF0MedianHz": 262,
+        "vocalF0P25Hz": 247,
+        "lyricLineRecall": 0.588,
+        "lyricUnclearSections": [
+          "Drop",
+          "Outro"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "abrupt ending"
+        ],
+        "durationSec": 194.5,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 126,
+        "bpmErrPct": 2.5,
+        "lufs": -13.4,
+        "peakDbfs": -0.61,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.3,
+        "contentEndSec": 193.9,
+        "vocalCoverage": 0.778,
+        "vocalSpanSec": [
+          0.6,
+          189.5
+        ],
+        "vocalF0MedianHz": 392,
+        "vocalF0P25Hz": 292,
+        "lyricLineRecall": 0.824,
+        "lyricUnclearSections": [
+          "Outro"
+        ],
+        "requestedVoice": "f",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop",
+  "year": 2012
+}

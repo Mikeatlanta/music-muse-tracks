@@ -1,0 +1,116 @@
+{
+  "id": "de_19",
+  "title": "Brand Awareness",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 19,
+  "slug": "de_19_brand_awareness",
+  "inspiredBy": "Megalomaniac (KMFDM, 1997)",
+  "leadVoice": "Male lead, gruff and accented, delivering slogans deadpan. Two or three women shout the responses in the choruses, and one speaks the bridge in a sweet advert voice. Gang vocals at the end.",
+  "model": "V6",
+  "style": "1997 industrial dance-rock, gruff accented male lead delivering slogans deadpan, two or three women shouting responses in the choruses, a sweet female advert voice in the bridge, gang vocals at the end, 135 BPM, E minor, pounding bouncing beat, sequenced sixteenth-note synth bass, chugging metal rhythm guitar, four-on-the-floor kick with huge snare, brass-like synth stabs, wah-pedal guitar solo, loud tight punchy mix, satirical, energetic, fun",
+  "negativeTags": "soft ballad, acoustic guitar, rap, orchestral strings, jazz, slow tempo, country, clean pop vocals",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: sequenced bass, guitar chug, sampled crowd]\n\n[Verse 1: gruff male voice, deadpan]\nNew and improved, the same as before\nNine out of ten can't take any more\nAward-winning, market-leading\nNow with thirty percent more bleeding edge\n\n[Chorus: full band, female voices shouting]\nBrand awareness! (Know our name)\nBrand awareness! (Say it again)\nYou have been reached, you have been served\nBrand awareness!\n\n[Verse 2: gruff, synth stabs]\nLimited time, unlimited noise\nTrusted by girls and trusted by boys\nScalable, shareable, loud by design\nTerms and conditions in very small type\n\n[Chorus: full band, female voices shouting]\nBrand awareness! (Know our name)\nBrand awareness! (Say it again)\nYou have been reached, you have been served\nBrand awareness!\n\n[Bridge: beat only, female voice, sweet]\nThis message was brought to you\nBy the people who brought you this message\n\n[Guitar Break: wah solo over the sequencer]\n\n[Final Chorus: loudest, gang vocals]\nBrand awareness! (Know our name)\nBrand awareness! (Say it again)\nYou have been reached, you have been served\nBrand awareness!\n\n[Outro: sequencer, a jingle chord, \"Thank you.\"]",
+  "taskId": "324a16b3d17e740fa0e9a519e622fedb",
+  "sunoClipIds": [
+    "e3a9cbfa-dda0-46b4-8408-3b414f4e7a19",
+    "e0c3f0e7-8521-455d-8b50-adcc5461a2dd"
+  ],
+  "created": "Nov 17, 2026 7:44 AM ET",
+  "createTimeMs": 1794919442544,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "e3a9cbfa-dda0-46b4-8408-3b414f4e7a19",
+      "durationSec": 214.8,
+      "file": "darkelectro/de_19_brand_awareness_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "e0c3f0e7-8521-455d-8b50-adcc5461a2dd",
+      "durationSec": 213.6,
+      "file": "darkelectro/de_19_brand_awareness_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_19_brand_awareness_req.json",
+    "darkelectro/de_19_brand_awareness_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_19_brand_awareness.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 135 BPM, 4/4, E minor. A pounding, bouncing industrial dance-rock beat with a grin.\n\nVOICE: Male lead, gruff and accented, delivering slogans deadpan. Two or three women shout the responses in the choruses, and one speaks the bridge in a sweet advert voice. Gang vocals at the end.\n\nINSTRUMENTS: A sequenced sixteenth-note synth bass, chugging metal rhythm guitar, a four-on-the-floor kick with a huge snare, brass-like synth stabs, a wah-pedal guitar solo, sampled crowd noise, a cheerful jingle chord at the end.\n\nARRANGEMENT MAP: 0:00 Intro, sequencer and guitar. 0:14 Verse 1. 0:38 Chorus 1. 1:00 Verse 2. 1:24 Chorus 2. 1:46 Bridge, the advert voice. 2:00 Guitar break. 2:20 Final chorus. 2:50 Outro, jingle and 'Thank you' at 3:14.\n\nPRODUCTION & MIX: 1997 industrial rock: loud, tight and punchy, guitars and sequencer locked, vocals dry.\n\nSIGNATURE MOMENT: The bridge's circular advert line at 1:46.\n\nMODERN POINT OF VIEW: The original band mocks its own legend. Now everybody is asked to be a brand, so the joke has a much larger target.\n\nEMOTIONAL ARC: Confident, louder, absurd, pleased with itself.",
+  "workbookAtAGlance": "Brand Awareness\n\nBackup titles\nLike and Subscribe to Us / Now with More\n\nAt a glance\n135 BPM, E minor\nVoice: Gruff male lead with female shouts\nLength: about 3 minutes 20",
+  "qa": {
+    "title": "Brand Awareness",
+    "id": "de_19",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.8,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 135,
+        "bpmErrPct": 0.7,
+        "lufs": -12.6,
+        "peakDbfs": -0.26,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 0.8,
+        "contentEndSec": 213.7,
+        "vocalCoverage": 0.454,
+        "vocalSpanSec": [
+          2.4,
+          213.7
+        ],
+        "vocalF0MedianHz": 497,
+        "vocalF0P25Hz": 335,
+        "lyricLineRecall": 0.842,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 213.6,
+        "measuredBpm": 136.0,
+        "bpmFactor": 1,
+        "targetBpm": 135,
+        "bpmErrPct": 0.7,
+        "lufs": -12.8,
+        "peakDbfs": -0.85,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.3,
+        "contentEndSec": 213.5,
+        "vocalCoverage": 0.501,
+        "vocalSpanSec": [
+          1.9,
+          212.2
+        ],
+        "vocalF0MedianHz": 405,
+        "vocalF0P25Hz": 321,
+        "lyricLineRecall": 0.632,
+        "lyricUnclearSections": [
+          "Verse 1"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Other",
+  "year": 1997
+}

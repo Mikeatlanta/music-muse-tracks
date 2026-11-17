@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Root Access",
+  "prompt": "[Intro: dry funky drum loop, synth bass, vinyl noise]\n\n[Verse 1: whispered male voice, close]\nYou have the password\nYou have had it all along\nEvery wall I built\nYou can open with a thumb\n\n[Pre-Chorus: synths rising, voice tightening]\nGo further. Go under. Go in.\n\n[Chorus: full, distorted, voice strained]\nI want you to have root access\nRead me like a log\nChange the thing that makes me this\nCome nearer than a god\nRoot access\n\n[Verse 2: whispered, percussion layering]\nNo more guest account\nNo more safe mode, no more mask\nEverything I've hidden\nI am giving you to ask\n\n[Pre-Chorus: synths rising, voice tightening]\nGo further. Go under. Go in.\n\n[Chorus: full, distorted, voice strained]\nI want you to have root access\nRead me like a log\nChange the thing that makes me this\nCome nearer than a god\nRoot access\n\n[Build: layers of noise, sequencers, repeated]\nRewrite me. Rewrite me. Rewrite me.\n\n[Outro: everything drops away, a small piano tune]",
+  "style": "1994 industrial rock with a funk groove, male vocal whispered and breathy in the verses and strained through distortion in the chorus, repeated half-sung command in the build, 90 BPM, C minor, slow slinky tense feel, dry sampled funk drum loop with heavy kick, squelching analogue synth bass, detuned synth stabs, layers of sequenced noise, metallic percussion loop, distorted guitar texture, plain piano tune at the very end, dry dirty dense mix, intense, intimate, dark",
+  "negativeTags": "female lead vocals, bright pop, acoustic guitar, rap, brass, cheerful mood, fast tempo, clean country vocals",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "callBackUrl": "https://example.com/cb"
+}

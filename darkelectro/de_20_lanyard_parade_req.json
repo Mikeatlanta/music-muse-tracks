@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Lanyard Parade",
+  "prompt": "[Intro: bouncing synth riff, marching snare, whistle blast]\n\n[Verse 1: deep male baritone, ironic]\nEight o'clock, the doors divide\nLeft, right, coffee, stride\nNavy fleece and zip to chin\nTap the card and you are in\n\n[Chorus: full beat, group shout on the title]\nLanyard parade\nBadges swinging in the sun\nLanyard parade\nEverybody, everyone\nPresent arms: a reusable cup\nLanyard parade, line up\n\n[Verse 2: baritone, sequencer busier]\nSecond floor is infantry\nFourth is the artillery\nColonel's got a standing desk\nMedal for the fewest steps\n\n[Chorus: full beat, group shout on the title]\nLanyard parade\nBadges swinging in the sun\nLanyard parade\nEverybody, everyone\nPresent arms: a reusable cup\nLanyard parade, line up\n\n[Bridge: snare march only, spoken commands]\nBadge in. (Badge in.)\nSit down. (Sit down.)\nReply all. (Reply all.)\nBadge out. (Badge out.)\n\n[Final Chorus: loudest, key up a step]\nLanyard parade\nBadges swinging in the sun\nLanyard parade\nEverybody, everyone\nPresent arms: a reusable cup\nLanyard parade, dismissed\n\n[Outro: riff, turnstile beep, whistle]",
+  "style": "Mid-2000s synth-pop EBM, deep smooth accented male baritone sung with a straight face, group of men shouting the title and repeating commands in the bridge, 128 BPM, A minor with a key change up for the final chorus, bright bouncing march, staccato analogue synth riff, sequenced sixteenth-note bass, four-on-the-floor kick with military snare pattern, bright synth-brass chords, whistle, handclaps, clean punchy bright mix, ironic, catchy, marching",
+  "negativeTags": "female lead vocals, distorted metal guitars, rap, acoustic instruments, slow ballad, jazz, trap hi-hats, screaming",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

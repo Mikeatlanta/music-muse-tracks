@@ -1,0 +1,119 @@
+{
+  "id": "de_06",
+  "title": "Your Call Is Important",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 6,
+  "slug": "de_06_your_call_is_important",
+  "inspiredBy": "Personal Jesus (Depeche Mode, 1989)",
+  "leadVoice": "Male baritone, low, calm and persuasive, like a recorded announcement with a pulse. Backing voices answer 'to us' in a flat unison. Whispers in the bridge. A spoken line near the end in a friendly operator's voice.",
+  "model": "V6",
+  "style": "1989 electronic blues and dark synth rock, low calm persuasive male baritone like a recorded announcement, backing voices answering in flat unison, whispered bridge, 130 BPM shuffle, F# minor, dry stomping groove, stomp-and-handclap beat with a rhythmic breath sample, twanging slightly distorted blues guitar riff, slide guitar break, pulsing analogue synth bass, sparse synth stabs, dry spacious mix, seductive, ironic, dark",
+  "negativeTags": "female lead vocals, rap, bright pop synths, fast punk drums, orchestral strings, jazz, screaming, trap hi-hats",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 225,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: stomp and clap beat, twanging guitar riff, hold tone]\n\n[Verse 1: low dry male baritone]\nThank you for holding\nSomeone will be with you soon\nWe know what you need\nWe have known since you were new\n\n[Chorus: full stomp, voices answering]\nYour call is important (to us)\nPlease stay on the line\nYour call is important (to us)\nYou are number nine\nSomebody will hear you\nSomebody will care\nYour call is important\nIs anybody there?\n\n[Verse 2: baritone, synth bass pulsing]\nPress one if you're lonely\nPress two if you're scared\nPress three for forgiveness\nPress nine if you've prayed\n\n[Chorus: full stomp, voices answering]\nYour call is important (to us)\nPlease stay on the line\nYour call is important (to us)\nYou are number nine\nSomebody will hear you\nSomebody will care\nYour call is important\nIs anybody there?\n\n[Bridge: beat drops to breath and stomp, whispered]\nHold. Hold. Hold. Hold.\n\n[Guitar Break: slide guitar over the stomp]\n\n[Final Chorus: full stomp, voices answering]\nYour call is important (to us)\nPlease stay on the line\nYour call is important (to us)\nYou are number one\nSomebody will hear you\nSomebody is here\n\"Hello. Thank you for waiting.\"\n\n[Outro: riff, a click, dial tone]",
+  "taskId": "b9551f3b84feeec53115b7732ebd6e0d",
+  "sunoClipIds": [
+    "46031a83-742c-4c6c-97cd-d843891e59bb",
+    "591e93de-bfc0-4fbd-b50a-a26f7a18e03d"
+  ],
+  "created": "Nov 17, 2026 7:42 AM ET",
+  "createTimeMs": 1794919378592,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "46031a83-742c-4c6c-97cd-d843891e59bb",
+      "durationSec": 224.4,
+      "file": "darkelectro/de_06_your_call_is_important_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "591e93de-bfc0-4fbd-b50a-a26f7a18e03d",
+      "durationSec": 224.32,
+      "file": "darkelectro/de_06_your_call_is_important_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_06_your_call_is_important_req.json",
+    "darkelectro/de_06_your_call_is_important_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_06_your_call_is_important.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 130 BPM with a shuffle, 4/4, F# minor. A dry, stomping electro-blues groove.\n\nVOICE: Male baritone, low, calm and persuasive, like a recorded announcement with a pulse. Backing voices answer 'to us' in a flat unison. Whispers in the bridge. A spoken line near the end in a friendly operator's voice.\n\nINSTRUMENTS: A stomp-and-handclap beat with a rhythmic breath sample, a twanging, slightly distorted blues guitar riff, a slide guitar, a pulsing analogue synth bass, a kick drum, sparse synth stabs, a telephone hold tone.\n\nARRANGEMENT MAP: 0:00 Intro, stomp, riff and hold tone. 0:16 Verse 1. 0:40 Chorus 1. 1:12 Verse 2. 1:36 Chorus 2. 2:08 Bridge, whispered. 2:22 Guitar break. 2:38 Final chorus, answered at 3:08. 3:14 Outro, click and dial tone, ends 3:28.\n\nPRODUCTION & MIX: 1989 electronic blues: dry and spacious, the stomp loud, guitar twangy, voice close and unhurried.\n\nSIGNATURE MOMENT: 'You are number one' and the operator's greeting at 3:04.\n\nMODERN POINT OF VIEW: The original offers a saviour by phone. Everyone since has heard the recorded version of that promise, and the song asks what happens if, for once, somebody answers.\n\nEMOTIONAL ARC: Soothed, doubtful, pleading, answered.",
+  "workbookAtAGlance": "Your Call Is Important\n\nBackup titles\nPlease Stay on the Line / Press Nine\n\nAt a glance\n130 BPM, F# minor\nVoice: Low, dry male baritone\nLength: about 3 minutes 30",
+  "qa": {
+    "title": "Your Call Is Important",
+    "id": "de_06",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.4,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 130,
+        "bpmErrPct": 0.6,
+        "lufs": -11.5,
+        "peakDbfs": -0.1,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 223.0,
+        "vocalCoverage": 0.373,
+        "vocalSpanSec": [
+          30.4,
+          205.5
+        ],
+        "vocalF0MedianHz": 246,
+        "vocalF0P25Hz": 123,
+        "lyricLineRecall": 0.844,
+        "lyricUnclearSections": [
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 224.3,
+        "measuredBpm": 129.2,
+        "bpmFactor": 1,
+        "targetBpm": 130,
+        "bpmErrPct": 0.6,
+        "lufs": -11.3,
+        "peakDbfs": -0.11,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 223.0,
+        "vocalCoverage": 0.346,
+        "vocalSpanSec": [
+          28.5,
+          194.5
+        ],
+        "vocalF0MedianHz": 125,
+        "vocalF0P25Hz": 111,
+        "lyricLineRecall": 0.844,
+        "lyricUnclearSections": [
+          "Verse 2",
+          "Bridge"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Darksynth",
+  "year": 1989
+}

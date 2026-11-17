@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Antifreeze",
+  "prompt": "[Intro: icy synth arpeggio, bit-crushed noise]\n\n[Verse 1: female voice, pitched and echoing]\nStand behind me\nDon't look out\nIt gets in through the windows\nIt gets in through the mouth\n\n[Chorus: heavy beat, voice chopped and doubled]\nI'll keep the cold off you\nAntifreeze, antifreeze\nPour me in your veins and sleep\nI'll keep the cold off you\n\n[Drop: glitching synth lead, vocal fragments]\n(Anti, anti, freeze)\n\n[Verse 2: voice closer, still broken]\nThey say it's nothing\nThey say it's fine\nI've seen what nothing does\nTo a spine\n\n[Chorus: heavy beat, voice chopped and doubled]\nI'll keep the cold off you\nAntifreeze, antifreeze\nPour me in your veins and sleep\nI'll keep the cold off you\n\n[Drop: glitching synth lead, bigger, vocal fragments]\n(Anti, anti, freeze)\n\n[Outro: arpeggio slows, one clear line]\nUnder my coat. Go on.",
+  "style": "Early-2010s dark glitchy electronic pop, high thin female vocal pitch-shifted chopped and soaked in echo so words blur, doubled an octave apart in the choruses, one dry clear line at the end, 126 BPM with half-time verses, G minor, cold glitchy gentle feel, icy detuned synth arpeggio, heavy kick and distorted snare, bit-crushed glitching lead synth, deep sub bass, digital noise bursts, cold choir pad, harsh digital heavy mix, protective, eerie, tender",
+  "negativeTags": "male lead vocals, clean natural singing, acoustic guitar, rap, warm soul, brass, live drums, cheerful mood",
+  "vocalGender": "f",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

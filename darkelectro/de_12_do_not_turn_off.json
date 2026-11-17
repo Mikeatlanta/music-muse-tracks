@@ -1,0 +1,118 @@
+{
+  "id": "de_12",
+  "title": "Do Not Turn Off",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 12,
+  "slug": "de_12_do_not_turn_off",
+  "inspiredBy": "The Robots (Kraftwerk, 1978)",
+  "leadVoice": "All voices are through a vocoder: a main robot voice in a monotone, a second one harmonising a fifth above in the choruses, and a deeper one speaking two words of German in the break. No natural voice.",
+  "model": "V6",
+  "style": "1978 German electronic pop, all vocals through a vocoder, a main robot voice in monotone with a second robot harmony a fifth above in the choruses and a deeper robot voice speaking two German words, no natural voice, 116 BPM, D minor, ticking tidy mechanical feel with a bright tune, ticking vintage rhythm box, low sequenced synth pulse, bright simple analogue lead melody, electronic handclaps and zaps, string-synth pad, dry clean precise mix, robotic, witty, cool",
+  "negativeTags": "natural sung vocals, guitars, rap, live drums, distortion, orchestral strings, soul vocals, slow ballad",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: ticking rhythm box, low synth pulse, startup chime]\n\n[Verse 1: vocoder voice, robotic]\nWe are installing\nWe are restarting\nUpdate nine of twelve\nWe are almost new\n\n[Chorus: second vocoder harmony, bright synth tune]\nDo not turn off\nDo not turn off\nWe are the updates\nDo not turn off\n\n[Instrumental: bright melody, electronic handclaps]\n\n[Verse 2: vocoder voice, robotic]\nWe fixed a problem\nYou did not notice\nWe made a new one\nYou will notice soon\n\n[Chorus: second vocoder harmony, bright synth tune]\nDo not turn off\nDo not turn off\nWe are the updates\nDo not turn off\n\n[Break: rhythm box only, deep voice in German]\nBitte warten. Bitte warten.\n\n[Final Chorus: all voices, tune an octave up]\nDo not turn off\nDo not turn off\nWe are the updates\nThank you for your patience\n\n[Outro: progress tone rising, startup chime]",
+  "taskId": "f9e1c76fe40101b6249cb9bfadf8859e",
+  "sunoClipIds": [
+    "861c8ab0-87b0-4486-b711-feaddc84a32f",
+    "ce7c03ea-5d3a-4398-9244-7a984047a35c"
+  ],
+  "created": "Nov 17, 2026 7:43 AM ET",
+  "createTimeMs": 1794919402742,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "861c8ab0-87b0-4486-b711-feaddc84a32f",
+      "durationSec": 214.68,
+      "file": "darkelectro/de_12_do_not_turn_off_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ce7c03ea-5d3a-4398-9244-7a984047a35c",
+      "durationSec": 214.2,
+      "file": "darkelectro/de_12_do_not_turn_off_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_12_do_not_turn_off_req.json",
+    "darkelectro/de_12_do_not_turn_off_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_12_do_not_turn_off.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 116 BPM, 4/4, D minor. Ticking, tidy and mechanical, with a bright tune and dry humour.\n\nVOICE: All voices are through a vocoder: a main robot voice in a monotone, a second one harmonising a fifth above in the choruses, and a deeper one speaking two words of German in the break. No natural voice.\n\nINSTRUMENTS: A ticking vintage rhythm box, a low sequenced synth pulse, a bright, simple analogue lead tune, electronic handclaps and zaps, a vocoder, a string-synth pad, a computer startup chime and a rising progress tone.\n\nARRANGEMENT MAP: 0:00 Intro, ticking and chime. 0:16 Verse 1. 0:40 Chorus 1. 1:00 Instrumental. 1:20 Verse 2. 1:44 Chorus 2. 2:04 Break, German. 2:20 Final chorus. 2:46 Outro, progress tone and chime at 3:14.\n\nPRODUCTION & MIX: 1978 electronic pop: dry, clean and precise, analogue synths with no reverb, every part in its own space.\n\nSIGNATURE MOMENT: 'We made a new one. You will notice soon.' at 1:32.\n\nMODERN POINT OF VIEW: The original robots announce they are ready to serve. The machines people actually live with mostly announce that they are busy improving themselves and must not be disturbed.\n\nEMOTIONAL ARC: Polite, busy, faintly ominous, finished.",
+  "workbookAtAGlance": "Do Not Turn Off\n\nBackup titles\nInstalling Update Nine of Twelve / Please Wait\n\nAt a glance\n116 BPM, D minor\nVoice: Vocoder robot voices\nLength: about 3 minutes 20",
+  "qa": {
+    "title": "Do Not Turn Off",
+    "id": "de_12",
+    "pick": 1,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.7,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 116,
+        "bpmErrPct": 1.3,
+        "lufs": -12.9,
+        "peakDbfs": -0.8,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.5,
+        "contentEndSec": 213.3,
+        "vocalCoverage": 0.206,
+        "vocalSpanSec": [
+          35.9,
+          189.8
+        ],
+        "vocalF0MedianHz": 131,
+        "vocalF0P25Hz": 87,
+        "lyricLineRecall": 0.905,
+        "lyricUnclearSections": [
+          "Break"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 214.2,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 116,
+        "bpmErrPct": 1.3,
+        "lufs": -12.7,
+        "peakDbfs": -0.92,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.6,
+        "contentEndSec": 212.6,
+        "vocalCoverage": 0.186,
+        "vocalSpanSec": [
+          25.2,
+          179.1
+        ],
+        "vocalF0MedianHz": 98,
+        "vocalF0P25Hz": 87,
+        "lyricLineRecall": 0.81,
+        "lyricUnclearSections": [
+          "Break"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Pop",
+  "year": 1978
+}

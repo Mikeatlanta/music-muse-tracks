@@ -1,0 +1,114 @@
+{
+  "id": "de_29",
+  "title": "Overnight Update",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 29,
+  "slug": "de_29_overnight_update",
+  "inspiredBy": "Mindphaser (Front Line Assembly, 1992)",
+  "leadVoice": "Male, low, growled and half-whispered with distortion and a short delay, more texture than performance. Doubled and harsher in the choruses. A flat synthetic voice delivers two system announcements.",
+  "model": "V6",
+  "style": "1992 cyberpunk industrial and dark electro, low growled half-whispered male vocal with distortion and short delay, doubled and harsher in the choruses, a flat synthetic voice delivering system announcements, 120 BPM, F minor, dense driving cinematic feel, several interlocking analogue sequencer lines, pounding kick and sharp electronic snare, layered metallic percussion, low drone, cold film-score strings, gliding lead synth, thick dark wide mix with the voice buried among machines, paranoid, futuristic, relentless",
+  "negativeTags": "female lead vocals, clean pop singing, acoustic guitar, rap, bright major chords, live rock band, soft ballad, funk",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 255,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: layered sequencers, low drone, sampled announcement]\n\n[Sample: flat synthetic voice]\nA new version is available.\n\n[Verse 1: growled male voice, half-whispered]\nI close my eyes at midnight\nI open them rearranged\nSame face, same hands, same kitchen\nSomething small has changed\n\n[Chorus: full sequencers, voice doubled and distorted]\nOvernight update\nThey patch me in my sleep\nOvernight update\nNew things I believe\nNo notes, no version, no undo\nOvernight update\n\n[Verse 2: voice closer, percussion layering]\nI used to hate that color\nI used to know that name\nI had a reason yesterday\nIt isn't quite the same\n\n[Chorus: full sequencers, voice doubled and distorted]\nOvernight update\nThey patch me in my sleep\nOvernight update\nNew things I believe\nNo notes, no version, no undo\nOvernight update\n\n[Instrumental: lead synth over the sequence, film-like strings]\n\n[Bridge: drone and voice only]\nWho am I running?\nWho wrote this part?\n\n[Sample: flat synthetic voice]\nInstallation complete. Restart required.\n\n[Final Chorus: densest, then cut]\nOvernight update\nThey patch me in my sleep\nOvernight update\nNew things I believe\nNo notes, no version, no undo\nOvernight\n\n[Outro: one sequencer line, a breath, eyes opening]",
+  "taskId": "cb93130e7f789775bed09e56531f4922",
+  "sunoClipIds": [
+    "3c949fef-9540-4851-a49f-7cdb9bc363c5",
+    "395149ad-155a-4816-ab6c-02d7466bd641"
+  ],
+  "created": "Nov 17, 2026 7:44 AM ET",
+  "createTimeMs": 1794919489657,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "3c949fef-9540-4851-a49f-7cdb9bc363c5",
+      "durationSec": 257.2,
+      "file": "darkelectro/de_29_overnight_update_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "395149ad-155a-4816-ab6c-02d7466bd641",
+      "durationSec": 254.56,
+      "file": "darkelectro/de_29_overnight_update_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_29_overnight_update_req.json",
+    "darkelectro/de_29_overnight_update_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_29_overnight_update.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 120 BPM, 4/4, F minor. Dense, driving and cinematic, a cyberpunk city in sequencers.\n\nVOICE: Male, low, growled and half-whispered with distortion and a short delay, more texture than performance. Doubled and harsher in the choruses. A flat synthetic voice delivers two system announcements.\n\nINSTRUMENTS: Three or four interlocking analogue sequencer lines, a pounding kick and a sharp electronic snare, layered metallic percussion, a low drone, cold film-score strings, a gliding lead synth, sampled announcements and machine sounds.\n\nARRANGEMENT MAP: 0:00 Intro, sequencers and drone. 0:16 Sample. 0:22 Verse 1. 0:50 Chorus 1. 1:20 Verse 2. 1:48 Chorus 2. 2:18 Instrumental. 2:46 Bridge. 3:00 Sample. 3:06 Final chorus, cut off at 3:34. 3:36 Outro, one line and a breath, ends 3:58.\n\nPRODUCTION & MIX: 1992 industrial: thick layers of sequencing and sampling, dark and wide, voice buried among the machines on purpose.\n\nSIGNATURE MOMENT: 'Installation complete. Restart required.' at 3:00.\n\nMODERN POINT OF VIEW: The original imagines a device that invades the mind. Nobody needs to imagine it now: the devices people carry change overnight, and so, a little, do the people.\n\nEMOTIONAL ARC: Uneasy, suspicious, questioning, restarted.",
+  "workbookAtAGlance": "Overnight Update\n\nBackup titles\nThey Patch Me in My Sleep / Version Unknown\n\nAt a glance\n120 BPM, F minor\nVoice: Growled, whispered male voice\nLength: about 4 minutes",
+  "qa": {
+    "title": "Overnight Update",
+    "id": "de_29",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 257.2,
+        "measuredBpm": 117.5,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 2.1,
+        "lufs": -13.2,
+        "peakDbfs": -0.39,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.1,
+        "contentEndSec": 256.9,
+        "vocalCoverage": 0.398,
+        "vocalSpanSec": [
+          2.9,
+          256.2
+        ],
+        "vocalF0MedianHz": 534,
+        "vocalF0P25Hz": 365,
+        "lyricLineRecall": 0.667,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "pass",
+        "reasons": [],
+        "durationSec": 254.6,
+        "measuredBpm": 123.0,
+        "bpmFactor": 1,
+        "targetBpm": 120,
+        "bpmErrPct": 2.5,
+        "lufs": -12.7,
+        "peakDbfs": -0.31,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.0,
+        "contentEndSec": 254.4,
+        "vocalCoverage": 0.391,
+        "vocalSpanSec": [
+          13.8,
+          235.3
+        ],
+        "vocalF0MedianHz": 480,
+        "vocalF0P25Hz": 171,
+        "lyricLineRecall": 0.857,
+        "lyricUnclearSections": [],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Cyberpunk",
+  "year": 1992
+}

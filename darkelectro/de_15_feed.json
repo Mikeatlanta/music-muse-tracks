@@ -1,0 +1,127 @@
+{
+  "id": "de_15",
+  "title": "Feed",
+  "collection": "darkelectro",
+  "album": "Dark Electro Reimagined",
+  "track": 15,
+  "slug": "de_15_feed",
+  "inspiredBy": "If I Had a Heart (Fever Ray, 2009)",
+  "leadVoice": "One voice pitch-shifted down until it is deep and sexless, chanting slowly on two or three notes. A second, slightly higher shifted voice joins a fifth above. One natural, quiet whisper in the break.",
+  "model": "V6",
+  "style": "Dark ritual electronica and dark ambient, one voice pitch-shifted down until deep and sexless chanting slowly on two or three notes, a second shifted voice a fifth above, one natural whisper in the break, 60 BPM, D minor, very slow heavy ritual feel with almost no harmonic movement, single sustained low synth drone, slow dull heartbeat pulse, detuned organ note, distant scraping metal textures, deep sub-bass swells, frame drum, dry close very low mix, ominous, hypnotic, ancient",
+  "negativeTags": "bright pop vocals, fast tempo, guitars, rap, dance beat, major key, brass, cheerful mood",
+  "instrumental": false,
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "customMode": true,
+  "lyricsSource": "Dark Electro Reimagined workbook (Song Pack, col D)",
+  "lyrics": "[Intro: one low drone, slow heartbeat pulse]\n\n[Chant 1: pitched-down voice, slow]\nIt wants more\nI give it more\nIt wants more\nI give it my mornings\n\n[Chant 2: second voice a fifth above]\nFeed, feed\nIt is never full\nFeed, feed\nIt is never full\n\n[Instrumental: drone thickens, distant metal scraping]\n\n[Chant 3: both voices, pulse heavier]\nIt took my sleep\nIt took my hands\nIt wants my eyes\nI open them\n\n[Chant 4: voices in unison, louder]\nFeed, feed\nIt is never full\nFeed, feed\nIt is never full\n\n[Break: drone alone, one natural whisper]\nWhat if I stop?\n\n[Final Chant: everything, then cut]\nIt wants more\nIt wants more\nIt wants\n\n[Outro: silence, one pulse, silence]",
+  "taskId": "9c172d8173cb40f8369c8fc8e5f9ea63",
+  "sunoClipIds": [
+    "df6024c7-79b0-4139-8811-b90493b106b8",
+    "ec67dac8-cf23-4b7f-b23c-90ada0cc0a0f"
+  ],
+  "created": "Nov 17, 2026 7:43 AM ET",
+  "createTimeMs": 1794919420140,
+  "takes": [
+    {
+      "take": 1,
+      "clipId": "df6024c7-79b0-4139-8811-b90493b106b8",
+      "durationSec": 234.76,
+      "file": "darkelectro/de_15_feed_1.mp3"
+    },
+    {
+      "take": 2,
+      "clipId": "ec67dac8-cf23-4b7f-b23c-90ada0cc0a0f",
+      "durationSec": 234.52,
+      "file": "darkelectro/de_15_feed_2.mp3"
+    }
+  ],
+  "sourceFiles": [
+    "darkelectro/de_15_feed_req.json",
+    "darkelectro/de_15_feed_rec.json"
+  ],
+  "cover": "darkelectro/covers/de_15_feed.jpg",
+  "producerBrief": "TEMPO / KEY / FEEL: 60 BPM, 4/4, D minor. Very slow, heavy and ritual, with almost no harmonic movement.\n\nVOICE: One voice pitch-shifted down until it is deep and sexless, chanting slowly on two or three notes. A second, slightly higher shifted voice joins a fifth above. One natural, quiet whisper in the break.\n\nINSTRUMENTS: A single sustained low synth drone, a slow, dull pulse like a heartbeat or a muffled drum, a detuned organ note, scraping metal textures in the distance, a deep sub-bass swell, a frame drum struck once per bar later on.\n\nARRANGEMENT MAP: 0:00 Intro, drone and pulse. 0:24 Chant 1. 0:56 Chant 2. 1:28 Instrumental. 1:52 Chant 3. 2:24 Chant 4. 2:56 Break, the whisper. 3:08 Final chant, cut off mid-line at 3:28. 3:30 Outro, one pulse, ends 3:38.\n\nPRODUCTION & MIX: Dark ambient electronica: dry, close and very low, the drone filling the room, nothing bright anywhere.\n\nSIGNATURE MOMENT: The whispered 'What if I stop?' at 2:56.\n\nMODERN POINT OF VIEW: The original is a creature that wants more. Here the creature is the feed, and the singer is the one supplying it, which is the more familiar position now.\n\nEMOTIONAL ARC: Hypnotised, giving, emptied, a flicker of doubt.",
+  "workbookAtAGlance": "Feed\n\nBackup titles\nIt Wants More / I Give It My Mornings\n\nAt a glance\n60 BPM, D minor\nVoice: Pitched-down, droning voice\nLength: about 3 minutes 40",
+  "qa": {
+    "title": "Feed",
+    "id": "de_15",
+    "pick": 2,
+    "takes": [
+      {
+        "take": 1,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check weak: only 13% of lines recognised (unclear: Chant 1, Chant 2, Chant 4, Break, Final Chant)"
+        ],
+        "durationSec": 234.8,
+        "measuredBpm": 57.4,
+        "bpmFactor": 1,
+        "targetBpm": 60,
+        "bpmErrPct": 4.3,
+        "lufs": -11.7,
+        "peakDbfs": -0.4,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 1.9,
+        "contentEndSec": 232.9,
+        "vocalCoverage": 0.227,
+        "vocalSpanSec": [
+          18.5,
+          201.4
+        ],
+        "vocalF0MedianHz": 174,
+        "vocalF0P25Hz": 148,
+        "lyricLineRecall": 0.133,
+        "lyricUnclearSections": [
+          "Chant 1",
+          "Chant 2",
+          "Chant 4",
+          "Break",
+          "Final Chant"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      },
+      {
+        "take": 2,
+        "verdict": "warn",
+        "reasons": [
+          "lyric check partial: 40% of lines recognised (unclear: Chant 3, Final Chant)"
+        ],
+        "durationSec": 234.5,
+        "measuredBpm": 61.5,
+        "bpmFactor": 1,
+        "targetBpm": 60,
+        "bpmErrPct": 2.5,
+        "lufs": -12.2,
+        "peakDbfs": -0.56,
+        "clipSamples": 0,
+        "midGaps": [],
+        "endFadeSec": 2.4,
+        "contentEndSec": 233.7,
+        "vocalCoverage": 0.185,
+        "vocalSpanSec": [
+          14.8,
+          209.2
+        ],
+        "vocalF0MedianHz": 467,
+        "vocalF0P25Hz": 154,
+        "lyricLineRecall": 0.4,
+        "lyricUnclearSections": [
+          "Chant 3",
+          "Final Chant"
+        ],
+        "requestedVoice": "m",
+        "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
+      }
+    ]
+  },
+  "genre": "Ambient",
+  "year": 2009
+}

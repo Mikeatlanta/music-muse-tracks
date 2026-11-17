@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Brand Awareness",
+  "prompt": "[Intro: sequenced bass, guitar chug, sampled crowd]\n\n[Verse 1: gruff male voice, deadpan]\nNew and improved, the same as before\nNine out of ten can't take any more\nAward-winning, market-leading\nNow with thirty percent more bleeding edge\n\n[Chorus: full band, female voices shouting]\nBrand awareness! (Know our name)\nBrand awareness! (Say it again)\nYou have been reached, you have been served\nBrand awareness!\n\n[Verse 2: gruff, synth stabs]\nLimited time, unlimited noise\nTrusted by girls and trusted by boys\nScalable, shareable, loud by design\nTerms and conditions in very small type\n\n[Chorus: full band, female voices shouting]\nBrand awareness! (Know our name)\nBrand awareness! (Say it again)\nYou have been reached, you have been served\nBrand awareness!\n\n[Bridge: beat only, female voice, sweet]\nThis message was brought to you\nBy the people who brought you this message\n\n[Guitar Break: wah solo over the sequencer]\n\n[Final Chorus: loudest, gang vocals]\nBrand awareness! (Know our name)\nBrand awareness! (Say it again)\nYou have been reached, you have been served\nBrand awareness!\n\n[Outro: sequencer, a jingle chord, \"Thank you.\"]",
+  "style": "1997 industrial dance-rock, gruff accented male lead delivering slogans deadpan, two or three women shouting responses in the choruses, a sweet female advert voice in the bridge, gang vocals at the end, 135 BPM, E minor, pounding bouncing beat, sequenced sixteenth-note synth bass, chugging metal rhythm guitar, four-on-the-floor kick with huge snare, brass-like synth stabs, wah-pedal guitar solo, loud tight punchy mix, satirical, energetic, fun",
+  "negativeTags": "soft ballad, acoustic guitar, rap, orchestral strings, jazz, slow tempo, country, clean pop vocals",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 215,
+  "callBackUrl": "https://example.com/cb"
+}

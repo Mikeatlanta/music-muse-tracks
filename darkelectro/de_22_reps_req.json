@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Reps",
+  "prompt": "[Intro: pounding kick, struck metal, one bass sequence]\n\n[Chant 1: shouted male voice, single words]\nSweat! Sweat!\nSteel! Steel!\nBreath! Breath!\nAgain! Again!\n\n[Chant 2: second voice answering]\nLift it! (Lift it!)\nHold it! (Hold it!)\nLower! (Lower!)\nAgain! (Again!)\n\n[Break: metal percussion only, counted]\nOne. Two. Three. Four.\nFive. Six. Seven. Eight.\n\n[Chant 3: both voices, bass doubled]\nSweat! Sweat!\nSteel! Steel!\nBreath! Breath!\nAgain! Again!\n\n[Chant 4: crowd joining]\nReps! Reps! Reps! Reps!\nOne more! One more!\nReps! Reps! Reps! Reps!\nOne more!\n\n[Break: kick only, gasped]\nNine. Ten.\n\n[Final Chant: everyone, loudest]\nSweat! Steel! Breath! Again!\nSweat! Steel! Breath! Again!\nDone.\n\n[Outro: a weight set down, hard breathing]",
+  "style": "1987 English EBM, male vocal shouted from the chest in single words, hoarse and urgent, a second man answering, crowd joining later, counted numbers in the breaks, no singing, 128 BPM, D minor, stark pounding muscular feel with almost no harmony, hard four-on-the-floor kick, struck scrap-metal percussion, single syncopated analogue bass sequence, cracking snare, tom pattern, minimal dry brutally loud mix, physical, urgent, disciplined",
+  "negativeTags": "female lead vocals, melodic singing, guitars, pads, rap, orchestral strings, soft ballad, bright pop",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 195,
+  "callBackUrl": "https://example.com/cb"
+}

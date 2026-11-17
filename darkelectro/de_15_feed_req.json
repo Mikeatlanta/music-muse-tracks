@@ -1,0 +1,16 @@
+{
+  "model": "V6",
+  "customMode": true,
+  "instrumental": false,
+  "title": "Feed",
+  "prompt": "[Intro: one low drone, slow heartbeat pulse]\n\n[Chant 1: pitched-down voice, slow]\nIt wants more\nI give it more\nIt wants more\nI give it my mornings\n\n[Chant 2: second voice a fifth above]\nFeed, feed\nIt is never full\nFeed, feed\nIt is never full\n\n[Instrumental: drone thickens, distant metal scraping]\n\n[Chant 3: both voices, pulse heavier]\nIt took my sleep\nIt took my hands\nIt wants my eyes\nI open them\n\n[Chant 4: voices in unison, louder]\nFeed, feed\nIt is never full\nFeed, feed\nIt is never full\n\n[Break: drone alone, one natural whisper]\nWhat if I stop?\n\n[Final Chant: everything, then cut]\nIt wants more\nIt wants more\nIt wants\n\n[Outro: silence, one pulse, silence]",
+  "style": "Dark ritual electronica and dark ambient, one voice pitch-shifted down until deep and sexless chanting slowly on two or three notes, a second shifted voice a fifth above, one natural whisper in the break, 60 BPM, D minor, very slow heavy ritual feel with almost no harmonic movement, single sustained low synth drone, slow dull heartbeat pulse, detuned organ note, distant scraping metal textures, deep sub-bass swells, frame drum, dry close very low mix, ominous, hypnotic, ancient",
+  "negativeTags": "bright pop vocals, fast tempo, guitars, rap, dance beat, major key, brass, cheerful mood",
+  "vocalGender": "m",
+  "styleWeight": 0.65,
+  "weirdnessConstraint": 0.5,
+  "audioWeight": 0.65,
+  "variety": 0,
+  "duration": 235,
+  "callBackUrl": "https://example.com/cb"
+}
