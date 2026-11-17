@@ -192,7 +192,29 @@ function go(id,noHash){const s=BY[id];if(!s)return;const r=why(s);
  if(!noHash)history.replaceState(null,"","#"+id);const c=s.el;
  const far=Math.abs(c.getBoundingClientRect().top)>innerHeight*3;c.scrollIntoView({behavior:far?"auto":"smooth",block:"start"});let tries=0;const fix=()=>{const t=c.getBoundingClientRect().top,want=parseFloat(getComputedStyle(c).scrollMarginTop)||0;if(Math.abs(t-want)>40&&tries++<4)c.scrollIntoView({behavior:tries>2?"auto":"smooth",block:"start"});if(tries<4)setTimeout(fix,450)};setTimeout(fix,600);
  c.classList.add("flash");clearTimeout(c._f);c._f=setTimeout(()=>c.classList.remove("flash"),2200)}
-function openHash(){const id=decodeURIComponent((location.hash||"").slice(1));if(id&&BY[id])go(id,true);else if(id&&SEC[id]){const x=$(id);x&&x.scrollIntoView()}}
+function revealSection(id){let ch=false,tr=false;
+ if(V$.sort!=="def"){V$.sort="def";$("mmsort").value="def";ch=true}
+ if(V$.tv){V$.tv=false;ch=true;tr=true}
+ if(!SONGS.some(s=>s.s===id&&!why(s).length)){
+  if(V$.fo){V$.fo=false;ch=true}
+  const rs=new Set();SONGS.forEach(s=>{if(s.s===id&&!trash.has(s.id))why(s).forEach(x=>rs.add(x))});
+  if(rs.has("d")){V$.dmin=-Infinity;V$.dmax=Infinity;$("mmfrom").value="";$("mmto").value="";D.querySelectorAll("#mmctl .dc").forEach(b=>b.classList.toggle("act",b.dataset.d==="all"));ch=true}
+  if(rs.has("g")||rs.has("y")){V$.genre=V$.year="all";$("mmgenre").value="all";$("mmyear").value="all";ch=true}
+  if(rs.has("p")){V$.pf="all";D.querySelectorAll("#mmplays .pcf").forEach(b=>b.classList.toggle("act",b.dataset.p==="all"));ch=true}
+  if(rs.has("q")){V$.q="";$("q").value="";ch=true}}
+ if(tr)trashApply();else if(ch)apply();
+ const x=$(id);if(!x)return null;
+ while(pending.length&&(x.classList.contains("pend")||pending[0][0].s===id))mountSome(24);
+ return x}
+let jumpT=0;
+function scrollToEl(x){const align=()=>{const want=parseFloat(getComputedStyle(x).scrollMarginTop)||0,top=x.getBoundingClientRect().top,y=Math.max(0,scrollY+top-want);
+  if(Math.abs(top-want)<=2)return;scrollTo({top:y,behavior:Math.abs(top-want)>innerHeight*3?"auto":"smooth"})};
+ align();clearTimeout(jumpT);let tries=0;const fix=()=>{if(!x.isConnected)return;align();if(++tries<6)jumpT=setTimeout(fix,tries<2?80:400)};jumpT=setTimeout(fix,80)}
+function goSec(id,noHash){if(!SEC[id])return;clearTimeout(jumpT);const x=revealSection(id);if(!x)return;
+ if(!noHash&&location.hash!=="#"+id)history.replaceState(null,"","#"+id);
+ /* defer past the sticky-nav's scroll-into-view of the clicked pill */
+ requestAnimationFrame(()=>requestAnimationFrame(()=>scrollToEl(x)))}
+function openHash(){const id=decodeURIComponent((location.hash||"").slice(1));if(id&&BY[id])go(id,true);else if(id&&SEC[id])goSec(id,true)}
 addEventListener("hashchange",openHash);
 
 /* ---------- downloads (media is cross-origin on R2, so save via blob) ---------- */
@@ -201,6 +223,8 @@ D.addEventListener("click",e=>{const a=e.target.closest&&e.target.closest("a.btn
 /* ---------- delegated clicks ---------- */
 D.addEventListener("click",e=>{const t=e.target;
  const a=t.closest&&t.closest("[data-go]");if(a){e.preventDefault();go(a.dataset.go);return}
+ const na=t.closest&&t.closest("nav a[href^='#']");
+ if(na&&!e.ctrlKey&&!e.metaKey&&!e.shiftKey&&!e.altKey){const sid=decodeURIComponent((na.getAttribute("href")||"").slice(1));if(SEC[sid]){e.preventDefault();goSec(sid);return}}
  const card=t.closest&&t.closest(".card");const sid=card&&card.id;
  const b=t.closest&&t.closest("button");
  if(b&&card){const n=b.dataset.n;
@@ -233,8 +257,9 @@ function fillFilters(){const fill=(sel,lab,vals)=>{sel.innerHTML="";const o=D.cr
 
 /* ---------- ticker (latest 15, pinned, continuous, clickable, swipe) ---------- */
 const fmtD=t=>new Date(t).toLocaleDateString(undefined,{month:"short",day:"numeric",year:"numeric"});
+let fitTk=()=>{};
 function ticker(){const v=$("mmtr");const L=SONGS.filter(s=>!trash.has(s.id)).sort(cmpNew).slice(0,15);let h="";
- for(const dup of[false,true])L.forEach((s,i)=>{h+=`<a href="#${esc(s.id)}" data-go="${esc(s.id)}"${dup?' aria-hidden="true" tabindex="-1"':""}><span class="nw">${i===0?"NEW":""}</span><span class="tt">${esc(s.t)}</span><i>${esc((SEC[s.s]||{}).title||"")}</i><small>${s.ts?fmtD(s.ts):""}</small></a>`});v.innerHTML=h}
+ for(const dup of[false,true])L.forEach((s,i)=>{h+=`<a href="#${esc(s.id)}" data-go="${esc(s.id)}"${dup?' aria-hidden="true" tabindex="-1"':""}><span class="nw">${i===0?"NEW":""}</span><span class="tt">${esc(s.t)}</span><i>${esc((SEC[s.s]||{}).title||"")}</i><small>${s.ts?fmtD(s.ts):""}</small></a>`});v.innerHTML=h;fitTk()}
 (()=>{const v=$("mmtv"),tr=$("mmtr");let x=0,hold=false,until=0,last=0,drag=null,moved=false;const rm=matchMedia("(prefers-reduced-motion: reduce)").matches,SP=rm?0.02:0.05;
  let half=0;const measure=()=>{half=tr.scrollWidth/2};new ResizeObserver(measure).observe(tr);
  const wrap=()=>{if(half>0){while(x<=-half)x+=half;while(x>0)x-=half}tr.style.transform="translate3d("+x+"px,0,0)"};
@@ -259,7 +284,7 @@ function ticker(){const v=$("mmtr");const L=SONGS.filter(s=>!trash.has(s.id)).so
 /* ---------- pinned ticker / sticky nav offsets ---------- */
 (()=>{const r=D.documentElement,t=$("mmtick"),n=D.querySelector("nav");let raf=0;
  const fit=()=>{raf=0;const tk=t.offsetHeight,st=getComputedStyle(n).position==="sticky"?n.offsetHeight:0;r.style.setProperty("--tk",tk+"px");r.style.setProperty("--stk",(tk+st)+"px")};
- fit();addEventListener("resize",()=>{if(!raf)raf=requestAnimationFrame(fit)})})();
+ fitTk=fit;fit();addEventListener("resize",()=>{if(!raf)raf=requestAnimationFrame(fit)})})();
 
 /* ---------- boot ---------- */
 D.querySelectorAll("section.col").forEach(x=>{SEC[x.id]={id:x.id,title:(x.querySelector(".h2")||{}).textContent||x.id,main:x.querySelector("main")}});
@@ -269,6 +294,6 @@ fetch("meta/index.json?v="+V,{credentials:"same-origin",mode:"cors"}).then(r=>r.
  $("loading").remove();fillFilters();ticker();
  if(Q.length)A.src=takeOf(Q[0]).src;renderQ();trashApply();
  if(location.hash)openHash();
- window.MM={go,apply,share,link,get Q(){return Q.slice()},get songs(){return SONGS},get mountedCount(){return mounted.size},get pending(){return pending.length},plays:()=>plays,pack,A};
+ window.MM={go,goSec,apply,share,link,get Q(){return Q.slice()},get songs(){return SONGS},get mountedCount(){return mounted.size},get pending(){return pending.length},plays:()=>plays,pack,A};
 }).catch(e=>{$("loading").textContent="Couldn't load the song list. Pull to refresh.";console.error(e)});
 })();
