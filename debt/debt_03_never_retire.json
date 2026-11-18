@@ -42,5 +42,7 @@
   "album": "Minimum Payment",
   "track": 3,
   "genre": "Industrial Techno",
-  "year": 2026
+  "year": 2026,
+  "cover": "debt/covers/debt_03_never_retire.jpg",
+  "cleanCover": "debt/covers/clean/debt_03_never_retire.jpg"
 }

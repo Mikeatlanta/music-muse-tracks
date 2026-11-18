@@ -115,5 +115,6 @@
         "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
       }
     ]
-  }
+  },
+  "cleanCover": "christianpop/covers/clean/cp_29_set_a_table.jpg"
 }

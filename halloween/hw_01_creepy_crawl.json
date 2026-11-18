@@ -42,5 +42,6 @@
   ],
   "cover": "halloween/covers/hw_01_creepy_crawl.jpg",
   "genre": "Halloween Novelty",
-  "year": 2026
+  "year": 2026,
+  "cleanCover": "halloween/covers/clean/hw_01_creepy_crawl.jpg"
 }

@@ -40,5 +40,7 @@
     "salt_and_sunlight_rec.json"
   ],
   "genre": "Chill House",
-  "year": 2026
+  "year": 2026,
+  "cover": "media/covers/salt_and_sunlight.jpg",
+  "cleanCover": "media/covers/clean/salt_and_sunlight.jpg"
 }

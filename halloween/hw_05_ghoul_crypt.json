@@ -46,5 +46,6 @@
   ],
   "cover": "halloween/covers/hw_05_ghoul_crypt.jpg",
   "genre": "Sound Effects",
-  "year": 2026
+  "year": 2026,
+  "cleanCover": "halloween/covers/clean/hw_05_ghoul_crypt.jpg"
 }

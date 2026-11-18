@@ -41,5 +41,7 @@
   ],
   "basedOn": "dark/dark_12_signal_cathedral",
   "genre": "EBM",
-  "year": 1992
+  "year": 1992,
+  "cover": "faith/covers/checkmate_at_calvary.jpg",
+  "cleanCover": "faith/covers/clean/checkmate_at_calvary.jpg"
 }

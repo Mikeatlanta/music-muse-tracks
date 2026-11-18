@@ -41,7 +41,9 @@
       "faith/rec.json"
     ],
     "genre": "Christian Pop",
-    "year": 2026
+    "year": 2026,
+    "cover": "faith/covers/never_off_your_mind.jpg",
+    "cleanCover": "faith/covers/clean/never_off_your_mind.jpg"
   },
   {
     "title": "Still Holding Me",
@@ -85,7 +87,9 @@
       "faith/shm_rec.json"
     ],
     "genre": "Contemporary Gospel",
-    "year": 2026
+    "year": 2026,
+    "cover": "faith/covers/still_holding_me.jpg",
+    "cleanCover": "faith/covers/clean/still_holding_me.jpg"
   },
   {
     "title": "Over in Glory",
@@ -129,7 +133,9 @@
       "faith/oig_rec.json"
     ],
     "genre": "Southern Gospel",
-    "year": 2026
+    "year": 2026,
+    "cover": "faith/covers/over_in_glory.jpg",
+    "cleanCover": "faith/covers/clean/over_in_glory.jpg"
   },
   {
     "title": "Green Hollow Hymn",
@@ -173,7 +179,9 @@
       "sacred/rec_6.json"
     ],
     "genre": "New Age",
-    "year": 2026
+    "year": 2026,
+    "cover": "sacred/covers/sacred_07_green_hollow_hymn.jpg",
+    "cleanCover": "sacred/covers/clean/sacred_07_green_hollow_hymn.jpg"
   },
   {
     "title": "Isla de Luz",
@@ -217,7 +225,9 @@
       "sacred/rec_2.json"
     ],
     "genre": "Trance",
-    "year": 1995
+    "year": 1995,
+    "cover": "sacred/covers/sacred_03_isla_de_luz.jpg",
+    "cleanCover": "sacred/covers/clean/sacred_03_isla_de_luz.jpg"
   },
   {
     "title": "Drums of the Red Earth",
@@ -261,7 +271,9 @@
       "sacred/rec_3.json"
     ],
     "genre": "Trance",
-    "year": 2026
+    "year": 2026,
+    "cover": "sacred/covers/sacred_04_drums_of_the_red_earth.jpg",
+    "cleanCover": "sacred/covers/clean/sacred_04_drums_of_the_red_earth.jpg"
   },
   {
     "title": "Cantus of Stars",
@@ -305,7 +317,9 @@
       "sacred/rec_4.json"
     ],
     "genre": "Trance",
-    "year": 2026
+    "year": 2026,
+    "cover": "sacred/covers/sacred_05_cantus_of_stars.jpg",
+    "cleanCover": "sacred/covers/clean/sacred_05_cantus_of_stars.jpg"
   },
   {
     "title": "Stillwater Mind",
@@ -349,7 +363,9 @@
       "sacred/rec_8.json"
     ],
     "genre": "Ambient House",
-    "year": 2026
+    "year": 2026,
+    "cover": "sacred/covers/sacred_09_stillwater_mind.jpg",
+    "cleanCover": "sacred/covers/clean/sacred_09_stillwater_mind.jpg"
   },
   {
     "title": "Veil of Sanctum",
@@ -393,7 +409,9 @@
       "sacred/rec_0.json"
     ],
     "genre": "New Age",
-    "year": 1992
+    "year": 1992,
+    "cover": "sacred/covers/sacred_01_veil_of_sanctum.jpg",
+    "cleanCover": "sacred/covers/clean/sacred_01_veil_of_sanctum.jpg"
   },
   {
     "title": "Wings of Eternity",
@@ -437,7 +455,9 @@
       "sacred/rec_9.json"
     ],
     "genre": "Trance",
-    "year": 1995
+    "year": 1995,
+    "cover": "sacred/covers/sacred_10_wings_of_eternity.jpg",
+    "cleanCover": "sacred/covers/clean/sacred_10_wings_of_eternity.jpg"
   },
   {
     "title": "Sands of the Ney",
@@ -481,7 +501,9 @@
       "sacred/rec_7.json"
     ],
     "genre": "Trance",
-    "year": 2026
+    "year": 2026,
+    "cover": "sacred/covers/sacred_08_sands_of_the_ney.jpg",
+    "cleanCover": "sacred/covers/clean/sacred_08_sands_of_the_ney.jpg"
   },
   {
     "title": "Temple Smoke",
@@ -525,7 +547,9 @@
       "sacred/rec_5.json"
     ],
     "genre": "Dub",
-    "year": 2026
+    "year": 2026,
+    "cover": "sacred/covers/sacred_06_temple_smoke.jpg",
+    "cleanCover": "sacred/covers/clean/sacred_06_temple_smoke.jpg"
   },
   {
     "title": "Whisper of Aurora",
@@ -569,7 +593,9 @@
       "sacred/rec_1.json"
     ],
     "genre": "New Age",
-    "year": 2026
+    "year": 2026,
+    "cover": "sacred/covers/sacred_02_whisper_of_aurora.jpg",
+    "cleanCover": "sacred/covers/clean/sacred_02_whisper_of_aurora.jpg"
   },
   {
     "title": "Midnight Interceptor",
@@ -613,7 +639,9 @@
       "dark/rec_5.json"
     ],
     "genre": "Synthwave",
-    "year": 1985
+    "year": 1985,
+    "cover": "dark/covers/dark_06_midnight_interceptor.jpg",
+    "cleanCover": "dark/covers/clean/dark_06_midnight_interceptor.jpg"
   },
   {
     "title": "Voltage Choir",
@@ -657,7 +685,9 @@
       "dark/rec_4.json"
     ],
     "genre": "EBM",
-    "year": 1992
+    "year": 1992,
+    "cover": "dark/covers/dark_05_voltage_choir.jpg",
+    "cleanCover": "dark/covers/clean/dark_05_voltage_choir.jpg"
   },
   {
     "title": "Cold Protocol",
@@ -701,7 +731,9 @@
       "dark/rec_3.json"
     ],
     "genre": "EBM",
-    "year": 1988
+    "year": 1988,
+    "cover": "dark/covers/dark_04_cold_protocol.jpg",
+    "cleanCover": "dark/covers/clean/dark_04_cold_protocol.jpg"
   },
   {
     "title": "Red Glass Highway",
@@ -745,7 +777,9 @@
       "dark/rec_6.json"
     ],
     "genre": "Synthwave",
-    "year": 1985
+    "year": 1985,
+    "cover": "dark/covers/dark_07_red_glass_highway.jpg",
+    "cleanCover": "dark/covers/clean/dark_07_red_glass_highway.jpg"
   },
   {
     "title": "Static Cathedral",
@@ -789,7 +823,9 @@
       "dark/rec_2.json"
     ],
     "genre": "Dark Electro",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_03_static_cathedral.jpg",
+    "cleanCover": "dark/covers/clean/dark_03_static_cathedral.jpg"
   },
   {
     "title": "Blackout Boulevard",
@@ -833,7 +869,9 @@
       "dark/rec_0.json"
     ],
     "genre": "Dark Electro",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_01_blackout_boulevard.jpg",
+    "cleanCover": "dark/covers/clean/dark_01_blackout_boulevard.jpg"
   },
   {
     "title": "Robot Romance",
@@ -877,7 +915,9 @@
       "dark/rec_7.json"
     ],
     "genre": "French House",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_08_robot_romance.jpg",
+    "cleanCover": "dark/covers/clean/dark_08_robot_romance.jpg"
   },
   {
     "title": "Chrome Funk Machine",
@@ -921,7 +961,9 @@
       "dark/rec_8.json"
     ],
     "genre": "Funk",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_09_chrome_funk_machine.jpg",
+    "cleanCover": "dark/covers/clean/dark_09_chrome_funk_machine.jpg"
   },
   {
     "title": "Nightshift Paris",
@@ -965,7 +1007,9 @@
       "dark/rec_9.json"
     ],
     "genre": "Dark Electro",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_10_nightshift_paris.jpg",
+    "cleanCover": "dark/covers/clean/dark_10_nightshift_paris.jpg"
   },
   {
     "title": "Iron Curtain Call",
@@ -1009,7 +1053,9 @@
       "dark/rec_1.json"
     ],
     "genre": "Dark Electro",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_02_iron_curtain_call.jpg",
+    "cleanCover": "dark/covers/clean/dark_02_iron_curtain_call.jpg"
   },
   {
     "title": "Velvet Telephone",
@@ -1053,7 +1099,9 @@
       "playlist/rec_3.json"
     ],
     "genre": "Italo Disco",
-    "year": 1985
+    "year": 1985,
+    "cover": "playlist/covers/playlist_04_velvet_telephone.jpg",
+    "cleanCover": "playlist/covers/clean/playlist_04_velvet_telephone.jpg"
   },
   {
     "title": "Amber Caravan",
@@ -1097,7 +1145,9 @@
       "playlist/rec_2.json"
     ],
     "genre": "Afro House",
-    "year": 2026
+    "year": 2026,
+    "cover": "playlist/covers/playlist_03_amber_caravan.jpg",
+    "cleanCover": "playlist/covers/clean/playlist_03_amber_caravan.jpg"
   },
   {
     "title": "Chrome Horizon",
@@ -1141,7 +1191,9 @@
       "playlist/rec_4.json"
     ],
     "genre": "Synthwave",
-    "year": 2026
+    "year": 2026,
+    "cover": "playlist/covers/playlist_05_chrome_horizon.jpg",
+    "cleanCover": "playlist/covers/clean/playlist_05_chrome_horizon.jpg"
   },
   {
     "title": "After the Rain",
@@ -1185,7 +1237,9 @@
       "playlist/rec_6.json"
     ],
     "genre": "Darkwave",
-    "year": 2026
+    "year": 2026,
+    "cover": "playlist/covers/playlist_07_after_the_rain.jpg",
+    "cleanCover": "playlist/covers/clean/playlist_07_after_the_rain.jpg"
   },
   {
     "title": "Seedling Strings",
@@ -1229,7 +1283,9 @@
       "playlist/rec_9.json"
     ],
     "genre": "Melodic House",
-    "year": 2026
+    "year": 2026,
+    "cover": "playlist/covers/playlist_10_seedling_strings.jpg",
+    "cleanCover": "playlist/covers/clean/playlist_10_seedling_strings.jpg"
   },
   {
     "title": "Machine Lumière",
@@ -1273,7 +1329,9 @@
       "playlist/rec_7.json"
     ],
     "genre": "Techno",
-    "year": 2026
+    "year": 2026,
+    "cover": "playlist/covers/playlist_08_machine_lumiere.jpg",
+    "cleanCover": "playlist/covers/clean/playlist_08_machine_lumiere.jpg"
   },
   {
     "title": "Paper Moons",
@@ -1317,7 +1375,9 @@
       "playlist/rec_8.json"
     ],
     "genre": "Melodic House",
-    "year": 2026
+    "year": 2026,
+    "cover": "playlist/covers/playlist_09_paper_moons.jpg",
+    "cleanCover": "playlist/covers/clean/playlist_09_paper_moons.jpg"
   },
   {
     "title": "Smoke and Bandoneon",
@@ -1361,7 +1421,9 @@
       "playlist/rec_1.json"
     ],
     "genre": "Electro-Tango",
-    "year": 2026
+    "year": 2026,
+    "cover": "playlist/covers/playlist_02_smoke_and_bandoneon.jpg",
+    "cleanCover": "playlist/covers/clean/playlist_02_smoke_and_bandoneon.jpg"
   },
   {
     "title": "Static Velvet",
@@ -1405,7 +1467,9 @@
       "playlist/rec_5.json"
     ],
     "genre": "R&B",
-    "year": 2026
+    "year": 2026,
+    "cover": "playlist/covers/playlist_06_static_velvet.jpg",
+    "cleanCover": "playlist/covers/clean/playlist_06_static_velvet.jpg"
   },
   {
     "title": "Brighter Than Gold",
@@ -1449,7 +1513,9 @@
       "playlist/rec_0.json"
     ],
     "genre": "Progressive House",
-    "year": 2026
+    "year": 2026,
+    "cover": "playlist/covers/playlist_01_brighter_than_gold.jpg",
+    "cleanCover": "playlist/covers/clean/playlist_01_brighter_than_gold.jpg"
   },
   {
     "title": "Mad at the Machine",
@@ -1493,7 +1559,9 @@
       "rec.json"
     ],
     "genre": "EDM",
-    "year": 2026
+    "year": 2026,
+    "cover": "media/covers/mad_at_the_machine.jpg",
+    "cleanCover": "media/covers/clean/mad_at_the_machine.jpg"
   },
   {
     "title": "Red and Blue",
@@ -1537,7 +1605,9 @@
       "red_and_blue_rec.json"
     ],
     "genre": "EDM",
-    "year": 2026
+    "year": 2026,
+    "cover": "media/covers/red_and_blue.jpg",
+    "cleanCover": "media/covers/clean/red_and_blue.jpg"
   },
   {
     "title": "Red and Blue (Synthwave)",
@@ -1581,7 +1651,9 @@
       "red_and_blue_synth_rec.json"
     ],
     "genre": "Synthwave",
-    "year": 1985
+    "year": 1985,
+    "cover": "media/covers/red_and_blue_synth.jpg",
+    "cleanCover": "media/covers/clean/red_and_blue_synth.jpg"
   },
   {
     "title": "Iron Directive",
@@ -1625,7 +1697,9 @@
       "iron_directive_rec.json"
     ],
     "genre": "EBM",
-    "year": 1990
+    "year": 1990,
+    "cover": "media/covers/iron_directive.jpg",
+    "cleanCover": "media/covers/clean/iron_directive.jpg"
   },
   {
     "title": "Lumen Silentii",
@@ -1669,7 +1743,9 @@
       "lumen_silentii_rec.json"
     ],
     "genre": "New Age",
-    "year": 1992
+    "year": 1992,
+    "cover": "media/covers/lumen_silentii.jpg",
+    "cleanCover": "media/covers/clean/lumen_silentii.jpg"
   },
   {
     "title": "Dead Signal",
@@ -1713,7 +1789,9 @@
       "dead_signal_rec.json"
     ],
     "genre": "EBM",
-    "year": 1990
+    "year": 1990,
+    "cover": "media/covers/dead_signal.jpg",
+    "cleanCover": "media/covers/clean/dead_signal.jpg"
   },
   {
     "title": "Salt and Sunlight",
@@ -1757,7 +1835,9 @@
       "salt_and_sunlight_rec.json"
     ],
     "genre": "Chill House",
-    "year": 2026
+    "year": 2026,
+    "cover": "media/covers/salt_and_sunlight.jpg",
+    "cleanCover": "media/covers/clean/salt_and_sunlight.jpg"
   },
   {
     "title": "Iron Psalm",
@@ -1801,7 +1881,9 @@
       "dark/dark_11_iron_psalm_rec.json"
     ],
     "genre": "EBM",
-    "year": 1992
+    "year": 1992,
+    "cover": "dark/covers/dark_11_iron_psalm.jpg",
+    "cleanCover": "dark/covers/clean/dark_11_iron_psalm.jpg"
   },
   {
     "title": "Signal Cathedral",
@@ -1845,7 +1927,9 @@
       "dark/dark_12_signal_cathedral_rec.json"
     ],
     "genre": "EBM",
-    "year": 1992
+    "year": 1992,
+    "cover": "dark/covers/dark_12_signal_cathedral.jpg",
+    "cleanCover": "dark/covers/clean/dark_12_signal_cathedral.jpg"
   },
   {
     "title": "Morning Will Come",
@@ -1889,7 +1973,9 @@
       "faith/morning_will_come_rec.json"
     ],
     "genre": "Contemporary Gospel",
-    "year": 2026
+    "year": 2026,
+    "cover": "faith/covers/morning_will_come.jpg",
+    "cleanCover": "faith/covers/clean/morning_will_come.jpg"
   },
   {
     "title": "Grace Found My Name",
@@ -1933,7 +2019,9 @@
       "faith/grace_found_my_name_rec.json"
     ],
     "genre": "Contemporary Gospel",
-    "year": 2026
+    "year": 2026,
+    "cover": "faith/covers/grace_found_my_name.jpg",
+    "cleanCover": "faith/covers/clean/grace_found_my_name.jpg"
   },
   {
     "title": "Checkmate at Calvary",
@@ -1978,7 +2066,9 @@
     ],
     "basedOn": "dark/dark_12_signal_cathedral",
     "genre": "EBM",
-    "year": 1992
+    "year": 1992,
+    "cover": "faith/covers/checkmate_at_calvary.jpg",
+    "cleanCover": "faith/covers/clean/checkmate_at_calvary.jpg"
   },
   {
     "title": "It Is Written",
@@ -2024,7 +2114,9 @@
     ],
     "basedOn": "faith/checkmate_at_calvary",
     "genre": "EBM",
-    "year": 1992
+    "year": 1992,
+    "cover": "faith/covers/it_is_written.jpg",
+    "cleanCover": "faith/covers/clean/it_is_written.jpg"
   },
   {
     "title": "Blessed Be the Name",
@@ -2070,7 +2162,9 @@
     ],
     "basedOn": "faith/checkmate_at_calvary",
     "genre": "EBM",
-    "year": 1992
+    "year": 1992,
+    "cover": "faith/covers/blessed_be_the_name.jpg",
+    "cleanCover": "faith/covers/clean/blessed_be_the_name.jpg"
   },
   {
     "title": "Fourth Man in the Fire",
@@ -2116,7 +2210,9 @@
     ],
     "basedOn": "faith/checkmate_at_calvary",
     "genre": "EBM",
-    "year": 1992
+    "year": 1992,
+    "cover": "faith/covers/fourth_man_in_the_fire.jpg",
+    "cleanCover": "faith/covers/clean/fourth_man_in_the_fire.jpg"
   },
   {
     "title": "Perjury Machine",
@@ -2160,7 +2256,9 @@
       "dark/dark_13_perjury_machine_rec.json"
     ],
     "genre": "EBM",
-    "year": 1992
+    "year": 1992,
+    "cover": "dark/covers/dark_13_perjury_machine.jpg",
+    "cleanCover": "dark/covers/clean/dark_13_perjury_machine.jpg"
   },
   {
     "title": "Perjury Machine (Overlay Edit)",
@@ -2205,7 +2303,9 @@
     ],
     "versionOf": "dark_13_perjury_machine",
     "genre": "EBM",
-    "year": 1992
+    "year": 1992,
+    "cover": "dark/covers/dark_14_perjury_machine_overlay.jpg",
+    "cleanCover": "dark/covers/clean/dark_14_perjury_machine_overlay.jpg"
   },
   {
     "title": "Refuse the Machine",
@@ -2249,7 +2349,9 @@
       "dark/dark_15_refuse_the_machine_rec.json"
     ],
     "genre": "EBM",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_15_refuse_the_machine.jpg",
+    "cleanCover": "dark/covers/clean/dark_15_refuse_the_machine.jpg"
   },
   {
     "title": "Minimum Payment",
@@ -2295,7 +2397,9 @@
     "album": "Minimum Payment",
     "track": 1,
     "genre": "Industrial Techno",
-    "year": 2026
+    "year": 2026,
+    "cover": "debt/covers/debt_01_minimum_payment.jpg",
+    "cleanCover": "debt/covers/clean/debt_01_minimum_payment.jpg"
   },
   {
     "title": "Priced Out",
@@ -2341,7 +2445,9 @@
     "album": "Minimum Payment",
     "track": 2,
     "genre": "Industrial Techno",
-    "year": 2026
+    "year": 2026,
+    "cover": "debt/covers/debt_02_priced_out.jpg",
+    "cleanCover": "debt/covers/clean/debt_02_priced_out.jpg"
   },
   {
     "title": "Never Retire",
@@ -2387,7 +2493,9 @@
     "album": "Minimum Payment",
     "track": 3,
     "genre": "Industrial Techno",
-    "year": 2026
+    "year": 2026,
+    "cover": "debt/covers/debt_03_never_retire.jpg",
+    "cleanCover": "debt/covers/clean/debt_03_never_retire.jpg"
   },
   {
     "title": "Replaced",
@@ -2433,7 +2541,9 @@
     "album": "Minimum Payment",
     "track": 4,
     "genre": "Industrial Techno",
-    "year": 2026
+    "year": 2026,
+    "cover": "debt/covers/debt_04_replaced.jpg",
+    "cleanCover": "debt/covers/clean/debt_04_replaced.jpg"
   },
   {
     "title": "Side Hustle",
@@ -2479,7 +2589,9 @@
     "album": "Minimum Payment",
     "track": 5,
     "genre": "Industrial Techno",
-    "year": 2026
+    "year": 2026,
+    "cover": "debt/covers/debt_05_side_hustle.jpg",
+    "cleanCover": "debt/covers/clean/debt_05_side_hustle.jpg"
   },
   {
     "title": "Burnout",
@@ -2525,7 +2637,9 @@
     "album": "Minimum Payment",
     "track": 6,
     "genre": "Industrial Techno",
-    "year": 2026
+    "year": 2026,
+    "cover": "debt/covers/debt_06_burnout.jpg",
+    "cleanCover": "debt/covers/clean/debt_06_burnout.jpg"
   },
   {
     "title": "Feed Control",
@@ -2571,7 +2685,9 @@
     "album": "Minimum Payment",
     "track": 7,
     "genre": "Industrial Techno",
-    "year": 2026
+    "year": 2026,
+    "cover": "debt/covers/debt_07_feed_control.jpg",
+    "cleanCover": "debt/covers/clean/debt_07_feed_control.jpg"
   },
   {
     "title": "Static Horizon",
@@ -2617,7 +2733,9 @@
     "album": "Minimum Payment",
     "track": 8,
     "genre": "Industrial Techno",
-    "year": 2026
+    "year": 2026,
+    "cover": "debt/covers/debt_08_static_horizon.jpg",
+    "cleanCover": "debt/covers/clean/debt_08_static_horizon.jpg"
   },
   {
     "title": "Quiet Riot",
@@ -2663,7 +2781,9 @@
     "album": "Minimum Payment",
     "track": 9,
     "genre": "Industrial Techno",
-    "year": 2026
+    "year": 2026,
+    "cover": "debt/covers/debt_09_quiet_riot.jpg",
+    "cleanCover": "debt/covers/clean/debt_09_quiet_riot.jpg"
   },
   {
     "title": "Not Yet Written",
@@ -2709,7 +2829,9 @@
     "album": "Minimum Payment",
     "track": 10,
     "genre": "Industrial Techno",
-    "year": 2026
+    "year": 2026,
+    "cover": "debt/covers/debt_10_not_yet_written.jpg",
+    "cleanCover": "debt/covers/clean/debt_10_not_yet_written.jpg"
   },
   {
     "title": "Ledger of Bone",
@@ -2753,7 +2875,9 @@
       "dark/dark_16_ledger_of_bone_rec.json"
     ],
     "genre": "EBM",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_16_ledger_of_bone.jpg",
+    "cleanCover": "dark/covers/clean/dark_16_ledger_of_bone.jpg"
   },
   {
     "title": "Iron Sabbath",
@@ -2797,7 +2921,9 @@
       "dark/dark_17_iron_sabbath_rec.json"
     ],
     "genre": "EBM",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_17_iron_sabbath.jpg",
+    "cleanCover": "dark/covers/clean/dark_17_iron_sabbath.jpg"
   },
   {
     "title": "Flesh Firmware",
@@ -2841,7 +2967,9 @@
       "dark/dark_18_flesh_firmware_rec.json"
     ],
     "genre": "Aggrotech",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_18_flesh_firmware.jpg",
+    "cleanCover": "dark/covers/clean/dark_18_flesh_firmware.jpg"
   },
   {
     "title": "Counterfeit Saviors",
@@ -2885,7 +3013,9 @@
       "dark/dark_19_counterfeit_saviors_rec.json"
     ],
     "genre": "Aggrotech",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_19_counterfeit_saviors.jpg",
+    "cleanCover": "dark/covers/clean/dark_19_counterfeit_saviors.jpg"
   },
   {
     "title": "Winter in the Wires",
@@ -2929,7 +3059,9 @@
       "dark/dark_20_winter_in_the_wires_rec.json"
     ],
     "genre": "Darkwave",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_20_winter_in_the_wires.jpg",
+    "cleanCover": "dark/covers/clean/dark_20_winter_in_the_wires.jpg"
   },
   {
     "title": "Lantern Under Concrete",
@@ -2973,7 +3105,9 @@
       "dark/dark_21_lantern_under_concrete_rec.json"
     ],
     "genre": "Darkwave",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_21_lantern_under_concrete.jpg",
+    "cleanCover": "dark/covers/clean/dark_21_lantern_under_concrete.jpg"
   },
   {
     "title": "Neon Tribunal",
@@ -3017,7 +3151,9 @@
       "dark/dark_22_neon_tribunal_rec.json"
     ],
     "genre": "Cyberpunk",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_22_neon_tribunal.jpg",
+    "cleanCover": "dark/covers/clean/dark_22_neon_tribunal.jpg"
   },
   {
     "title": "Ghost Protocol Zero",
@@ -3061,7 +3197,9 @@
       "dark/dark_23_ghost_protocol_zero_rec.json"
     ],
     "genre": "Cyberpunk",
-    "year": 2026
+    "year": 2026,
+    "cover": "dark/covers/dark_23_ghost_protocol_zero.jpg",
+    "cleanCover": "dark/covers/clean/dark_23_ghost_protocol_zero.jpg"
   },
   {
     "title": "The Creepy Crawl",
@@ -3107,7 +3245,8 @@
     ],
     "cover": "halloween/covers/hw_01_creepy_crawl.jpg",
     "genre": "Halloween Novelty",
-    "year": 2026
+    "year": 2026,
+    "cleanCover": "halloween/covers/clean/hw_01_creepy_crawl.jpg"
   },
   {
     "title": "Music Box Manor",
@@ -3154,7 +3293,8 @@
     ],
     "cover": "halloween/covers/hw_02_music_box_manor.jpg",
     "genre": "Halloween Ambient",
-    "year": 2026
+    "year": 2026,
+    "cleanCover": "halloween/covers/clean/hw_02_music_box_manor.jpg"
   },
   {
     "title": "Cauldron Hollow",
@@ -3201,7 +3341,8 @@
     ],
     "cover": "halloween/covers/hw_03_cauldron_hollow.jpg",
     "genre": "Halloween Ambient",
-    "year": 2026
+    "year": 2026,
+    "cleanCover": "halloween/covers/clean/hw_03_cauldron_hollow.jpg"
   },
   {
     "title": "Graveyard Gate",
@@ -3251,7 +3392,8 @@
     ],
     "cover": "halloween/covers/hw_04_graveyard_gate.jpg",
     "genre": "Sound Effects",
-    "year": 2026
+    "year": 2026,
+    "cleanCover": "halloween/covers/clean/hw_04_graveyard_gate.jpg"
   },
   {
     "title": "Ghoul Crypt",
@@ -3301,7 +3443,8 @@
     ],
     "cover": "halloween/covers/hw_05_ghoul_crypt.jpg",
     "genre": "Sound Effects",
-    "year": 2026
+    "year": 2026,
+    "cleanCover": "halloween/covers/clean/hw_05_ghoul_crypt.jpg"
   },
   {
     "title": "Hollow Playground",
@@ -3351,7 +3494,8 @@
     ],
     "cover": "halloween/covers/hw_06_hollow_playground.jpg",
     "genre": "Sound Effects",
-    "year": 2026
+    "year": 2026,
+    "cleanCover": "halloween/covers/clean/hw_06_hollow_playground.jpg"
   },
   {
     "id": "e80_01",
@@ -3465,7 +3609,8 @@
       ]
     },
     "genre": "New Wave",
-    "year": 1983
+    "year": 1983,
+    "cleanCover": "eighties/covers/clean/e80_01_before_you_even_ask.jpg"
   },
   {
     "id": "e80_02",
@@ -3581,7 +3726,8 @@
       ]
     },
     "genre": "Funk",
-    "year": 1983
+    "year": 1983,
+    "cleanCover": "eighties/covers/clean/e80_02_carolina_knows.jpg"
   },
   {
     "id": "e80_03",
@@ -3699,7 +3845,8 @@
       ]
     },
     "genre": "Synth-Pop",
-    "year": 1985
+    "year": 1985,
+    "cleanCover": "eighties/covers/clean/e80_03_say_me_yes.jpg"
   },
   {
     "id": "e80_04",
@@ -3819,7 +3966,8 @@
       ]
     },
     "genre": "Yacht Rock",
-    "year": 1982
+    "year": 1982,
+    "cleanCover": "eighties/covers/clean/e80_04_meet_me_in_the_monsoon.jpg"
   },
   {
     "id": "e80_05",
@@ -3945,7 +4093,8 @@
       ]
     },
     "genre": "Hard Rock",
-    "year": 1987
+    "year": 1987,
+    "cleanCover": "eighties/covers/clean/e80_05_little_thunder.jpg"
   },
   {
     "id": "e80_06",
@@ -4066,7 +4215,8 @@
       ]
     },
     "genre": "Arena Rock",
-    "year": 1981
+    "year": 1981,
+    "cleanCover": "eighties/covers/clean/e80_06_keep_the_porch_light_on.jpg"
   },
   {
     "id": "e80_07",
@@ -4180,7 +4330,8 @@
       ]
     },
     "genre": "Synth-Pop",
-    "year": 1985
+    "year": 1985,
+    "cleanCover": "eighties/covers/clean/e80_07_nobodys_at_the_wheel.jpg"
   },
   {
     "id": "e80_08",
@@ -4300,7 +4451,8 @@
       ]
     },
     "genre": "Arena Rock",
-    "year": 1982
+    "year": 1982,
+    "cleanCover": "eighties/covers/clean/e80_08_ring_the_bell_again.jpg"
   },
   {
     "id": "e80_09",
@@ -4422,7 +4574,8 @@
       ]
     },
     "genre": "Synth-Pop",
-    "year": 1983
+    "year": 1983,
+    "cleanCover": "eighties/covers/clean/e80_09_everybodys_selling_something.jpg"
   },
   {
     "id": "e80_10",
@@ -4554,7 +4707,8 @@
       ]
     },
     "genre": "Hair Metal",
-    "year": 1986
+    "year": 1986,
+    "cleanCover": "eighties/covers/clean/e80_10_overtime_hearts.jpg"
   },
   {
     "id": "e80_11",
@@ -4673,7 +4827,8 @@
       ]
     },
     "genre": "Art Pop",
-    "year": 1985
+    "year": 1985,
+    "cleanCover": "eighties/covers/clean/e80_11_wear_my_weather.jpg"
   },
   {
     "id": "e80_12",
@@ -4787,7 +4942,8 @@
       ]
     },
     "genre": "Sophisti-Pop",
-    "year": 1984
+    "year": 1984,
+    "cleanCover": "eighties/covers/clean/e80_12_slow_dance_with_a_secret.jpg"
   },
   {
     "id": "e80_13",
@@ -4919,7 +5075,8 @@
       ]
     },
     "genre": "Art Rock",
-    "year": 1981
+    "year": 1981,
+    "cleanCover": "eighties/covers/clean/e80_13_kindness_is_a_riot.jpg"
   },
   {
     "id": "e80_14",
@@ -5044,7 +5201,8 @@
       ]
     },
     "genre": "New Wave",
-    "year": 1985
+    "year": 1985,
+    "cleanCover": "eighties/covers/clean/e80_14_remember_me_loud.jpg"
   },
   {
     "id": "e80_15",
@@ -5166,7 +5324,8 @@
       ]
     },
     "genre": "New Wave",
-    "year": 1983
+    "year": 1983,
+    "cleanCover": "eighties/covers/clean/e80_15_call_it_recess.jpg"
   },
   {
     "id": "e80_16",
@@ -5283,7 +5442,8 @@
       ]
     },
     "genre": "Dance-Pop",
-    "year": 1987
+    "year": 1987,
+    "cleanCover": "eighties/covers/clean/e80_16_surprise_its_me_again.jpg"
   },
   {
     "id": "e80_17",
@@ -5405,7 +5565,8 @@
       ]
     },
     "genre": "Dance-Pop",
-    "year": 1987
+    "year": 1987,
+    "cleanCover": "eighties/covers/clean/e80_17_dont_let_the_song_end.jpg"
   },
   {
     "id": "e80_18",
@@ -5528,7 +5689,8 @@
       ]
     },
     "genre": "Hard Rock",
-    "year": 1980
+    "year": 1980,
+    "cleanCover": "eighties/covers/clean/e80_18_guess_whos_not_dead.jpg"
   },
   {
     "id": "e80_19",
@@ -5652,7 +5814,8 @@
       ]
     },
     "genre": "Arena Rock",
-    "year": 1987
+    "year": 1987,
+    "cleanCover": "eighties/covers/clean/e80_19_halfway_out_the_door.jpg"
   },
   {
     "id": "e80_20",
@@ -5768,7 +5931,8 @@
       ]
     },
     "genre": "Art Pop",
-    "year": 1981
+    "year": 1981,
+    "cleanCover": "eighties/covers/clean/e80_20_wait_for_the_thunder.jpg"
   },
   {
     "id": "e90_01",
@@ -5884,7 +6048,8 @@
       ]
     },
     "genre": "Alternative Rock",
-    "year": 1998
+    "year": 1998,
+    "cleanCover": "nineties/covers/clean/e90_01_if_you_looked_up.jpg"
   },
   {
     "id": "e90_02",
@@ -6000,7 +6165,8 @@
       ]
     },
     "genre": "Britpop",
-    "year": 1995
+    "year": 1995,
+    "cleanCover": "nineties/covers/clean/e90_02_somedaylight.jpg"
   },
   {
     "id": "e90_03",
@@ -6114,7 +6280,8 @@
       ]
     },
     "genre": "Grunge",
-    "year": 1991
+    "year": 1991,
+    "cleanCover": "nineties/covers/clean/e90_03_lukewarm_riot.jpg"
   },
   {
     "id": "e90_04",
@@ -6230,7 +6397,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 1995
+    "year": 1995,
+    "cleanCover": "nineties/covers/clean/e90_04_kingdom_of_the_grind.jpg"
   },
   {
     "id": "e90_05",
@@ -6348,7 +6516,8 @@
       ]
     },
     "genre": "Alternative Rock",
-    "year": 1992
+    "year": 1992,
+    "cleanCover": "nineties/covers/clean/e90_05_wrong_room.jpg"
   },
   {
     "id": "e90_06",
@@ -6464,7 +6633,8 @@
       ]
     },
     "genre": "Dance-Pop",
-    "year": 1999
+    "year": 1999,
+    "cleanCover": "nineties/covers/clean/e90_06_tell_me_what_i_mean.jpg"
   },
   {
     "id": "e90_07",
@@ -6582,7 +6752,8 @@
       ]
     },
     "genre": "Dance-Pop",
-    "year": 1998
+    "year": 1998,
+    "cleanCover": "nineties/covers/clean/e90_07_leave_me_on_red.jpg"
   },
   {
     "id": "e90_08",
@@ -6700,7 +6871,8 @@
       ]
     },
     "genre": "Dance-Pop",
-    "year": 1996
+    "year": 1996,
+    "cleanCover": "nineties/covers/clean/e90_08_run_it_by_the_group_chat.jpg"
   },
   {
     "id": "e90_09",
@@ -6821,7 +6993,8 @@
       ]
     },
     "genre": "R&B",
-    "year": 1999
+    "year": 1999,
+    "cleanCover": "nineties/covers/clean/e90_09_buffering.jpg"
   },
   {
     "id": "e90_10",
@@ -6935,7 +7108,8 @@
       ]
     },
     "genre": "Soul Pop",
-    "year": 1992
+    "year": 1992,
+    "cleanCover": "nineties/covers/clean/e90_10_leaving_you_the_light.jpg"
   },
   {
     "id": "e90_11",
@@ -7055,7 +7229,8 @@
       ]
     },
     "genre": "Hard Rock",
-    "year": 1990
+    "year": 1990,
+    "cleanCover": "nineties/covers/clean/e90_11_still_got_the_voltage.jpg"
   },
   {
     "id": "e90_12",
@@ -7169,7 +7344,8 @@
       ]
     },
     "genre": "Pop Rock",
-    "year": 1999
+    "year": 1999,
+    "cleanCover": "nineties/covers/clean/e90_12_late_bloomer.jpg"
   },
   {
     "id": "e90_13",
@@ -7283,7 +7459,8 @@
       ]
     },
     "genre": "Heavy Metal",
-    "year": 1991
+    "year": 1991,
+    "cleanCover": "nineties/covers/clean/e90_13_count_the_wolves.jpg"
   },
   {
     "id": "e90_14",
@@ -7401,7 +7578,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 1995
+    "year": 1995,
+    "cleanCover": "nineties/covers/clean/e90_14_area_code_love.jpg"
   },
   {
     "id": "e90_15",
@@ -7519,7 +7697,8 @@
       ]
     },
     "genre": "Alternative Rock",
-    "year": 1992
+    "year": 1992,
+    "cleanCover": "nineties/covers/clean/e90_15_night_bus_choir.jpg"
   },
   {
     "id": "e90_16",
@@ -7635,7 +7814,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 1998
+    "year": 1998,
+    "cleanCover": "nineties/covers/clean/e90_16_rather_be_tired.jpg"
   },
   {
     "id": "e90_17",
@@ -7751,7 +7931,8 @@
       ]
     },
     "genre": "Pop",
-    "year": 1997
+    "year": 1997,
+    "cleanCover": "nineties/covers/clean/e90_17_every_ocean_after.jpg"
   },
   {
     "id": "e90_18",
@@ -7867,7 +8048,8 @@
       ]
     },
     "genre": "College Rock",
-    "year": 1991
+    "year": 1991,
+    "cleanCover": "nineties/covers/clean/e90_18_beside_myself.jpg"
   },
   {
     "id": "e90_19",
@@ -7981,7 +8163,8 @@
       ]
     },
     "genre": "Britpop",
-    "year": 1997
+    "year": 1997,
+    "cleanCover": "nineties/covers/clean/e90_19_walk_it_off.jpg"
   },
   {
     "id": "e90_20",
@@ -8097,7 +8280,8 @@
       ]
     },
     "genre": "Eurodance",
-    "year": 1993
+    "year": 1993,
+    "cleanCover": "nineties/covers/clean/e90_20_when_the_lights_come_on.jpg"
   },
   {
     "id": "e70_01",
@@ -8218,7 +8402,8 @@
       ]
     },
     "genre": "Glam Rock",
-    "year": 1975
+    "year": 1975,
+    "cleanCover": "seventies/covers/clean/e70_01_mama_i_said_it_out_loud.jpg"
   },
   {
     "id": "e70_02",
@@ -8332,7 +8517,8 @@
       ]
     },
     "genre": "Soft Rock",
-    "year": 1977
+    "year": 1977,
+    "cleanCover": "seventies/covers/clean/e70_02_youll_hear_it_when_its_quiet.jpg"
   },
   {
     "id": "e70_03",
@@ -8449,7 +8635,8 @@
       ]
     },
     "genre": "Funk",
-    "year": 1978
+    "year": 1978,
+    "cleanCover": "seventies/covers/clean/e70_03_second_friday_in_october.jpg"
   },
   {
     "id": "e70_04",
@@ -8563,7 +8750,8 @@
       ]
     },
     "genre": "Disco",
-    "year": 1976
+    "year": 1976,
+    "cleanCover": "seventies/covers/clean/e70_04_seventeen_at_the_core.jpg"
   },
   {
     "id": "e70_05",
@@ -8681,7 +8869,8 @@
       ]
     },
     "genre": "Soft Rock",
-    "year": 1976
+    "year": 1976,
+    "cleanCover": "seventies/covers/clean/e70_05_last_call_at_the_meridian.jpg"
   },
   {
     "id": "e70_06",
@@ -8795,7 +8984,8 @@
       ]
     },
     "genre": "Roots Rock",
-    "year": 1970
+    "year": 1970,
+    "cleanCover": "seventies/covers/clean/e70_06_cold_on_a_clear_blue_day.jpg"
   },
   {
     "id": "e70_07",
@@ -8909,7 +9099,8 @@
       ]
     },
     "genre": "Disco",
-    "year": 1977
+    "year": 1977,
+    "cleanCover": "seventies/covers/clean/e70_07_walk_like_the_rents_paid.jpg"
   },
   {
     "id": "e70_08",
@@ -9023,7 +9214,8 @@
       ]
     },
     "genre": "Hard Rock",
-    "year": 1979
+    "year": 1979,
+    "cleanCover": "seventies/covers/clean/e70_08_shortcut_to_trouble.jpg"
   },
   {
     "id": "e70_09",
@@ -9139,7 +9331,8 @@
       ]
     },
     "genre": "Southern Rock",
-    "year": 1974
+    "year": 1974,
+    "cleanCover": "seventies/covers/clean/e70_09_sweet_nowhere_special.jpg"
   },
   {
     "id": "e70_10",
@@ -9255,7 +9448,8 @@
       ]
     },
     "genre": "Singer-Songwriter",
-    "year": 1972
+    "year": 1972,
+    "cleanCover": "seventies/covers/clean/e70_10_satellite_dad.jpg"
   },
   {
     "id": "e70_11",
@@ -9369,7 +9563,8 @@
       ]
     },
     "genre": "Folk Rock",
-    "year": 1971
+    "year": 1971,
+    "cleanCover": "seventies/covers/clean/e70_11_the_day_the_dial_went_dark.jpg"
   },
   {
     "id": "e70_12",
@@ -9487,7 +9682,8 @@
       ]
     },
     "genre": "Art Rock",
-    "year": 1979
+    "year": 1979,
+    "cleanCover": "seventies/covers/clean/e70_12_hey_grown_ups.jpg"
   },
   {
     "id": "e70_13",
@@ -9605,7 +9801,8 @@
       ]
     },
     "genre": "Hard Rock",
-    "year": 1973
+    "year": 1973,
+    "cleanCover": "seventies/covers/clean/e70_13_lines_i_earned.jpg"
   },
   {
     "id": "e70_14",
@@ -9721,7 +9918,8 @@
       ]
     },
     "genre": "Gospel",
-    "year": 1970
+    "year": 1970,
+    "cleanCover": "seventies/covers/clean/e70_14_leave_it_till_morning.jpg"
   },
   {
     "id": "e70_15",
@@ -9839,7 +10037,8 @@
       ]
     },
     "genre": "Soul",
-    "year": 1971
+    "year": 1971,
+    "cleanCover": "seventies/covers/clean/e70_15_the_house_dont_hum.jpg"
   },
   {
     "id": "e70_16",
@@ -9963,7 +10162,8 @@
       ]
     },
     "genre": "Pop",
-    "year": 1974
+    "year": 1974,
+    "cleanCover": "seventies/covers/clean/e70_16_stuck_on_a_good_thing.jpg"
   },
   {
     "id": "e70_17",
@@ -10081,7 +10281,8 @@
       ]
     },
     "genre": "Piano Ballad",
-    "year": 1971
+    "year": 1971,
+    "cleanCover": "seventies/covers/clean/e70_17_suppose_we_did.jpg"
   },
   {
     "id": "e70_18",
@@ -10197,7 +10398,8 @@
       ]
     },
     "genre": "Pop Rock",
-    "year": 1978
+    "year": 1978,
+    "cleanCover": "seventies/covers/clean/e70_18_look_at_you_look_at_me.jpg"
   },
   {
     "id": "e70_19",
@@ -10316,7 +10518,8 @@
       ]
     },
     "genre": "Singer-Songwriter",
-    "year": 1973
+    "year": 1973,
+    "cleanCover": "seventies/covers/clean/e70_19_last_song_at_the_bowl_a_rama.jpg"
   },
   {
     "id": "e70_20",
@@ -10432,7 +10635,8 @@
       ]
     },
     "genre": "Soul",
-    "year": 1974
+    "year": 1974,
+    "cleanCover": "seventies/covers/clean/e70_20_nothing_wrong_with_you.jpg"
   },
   {
     "id": "cp_01",
@@ -10553,7 +10757,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_01_changed_the_locks.jpg"
   },
   {
     "id": "cp_02",
@@ -10667,7 +10872,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_02_in_your_handwriting.jpg"
   },
   {
     "id": "cp_03",
@@ -10781,7 +10987,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_03_out_past_the_buoys.jpg"
   },
   {
     "id": "cp_04",
@@ -10897,7 +11104,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_04_arrivals_gate.jpg"
   },
   {
     "id": "cp_05",
@@ -11011,7 +11219,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_05_say_it_again.jpg"
   },
   {
     "id": "cp_06",
@@ -11129,7 +11338,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_06_one_short_of_a_hundred.jpg"
   },
   {
     "id": "cp_07",
@@ -11243,7 +11453,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_07_mm_hmm_amen.jpg"
   },
   {
     "id": "cp_08",
@@ -11357,7 +11568,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_08_ruined_my_plans_thank_you.jpg"
   },
   {
     "id": "cp_09",
@@ -11471,7 +11683,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_09_the_send_off.jpg"
   },
   {
     "id": "cp_10",
@@ -11589,7 +11802,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_10_somebodys_been_here.jpg"
   },
   {
     "id": "cp_11",
@@ -11705,7 +11919,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_11_louder_on_the_low_days.jpg"
   },
   {
     "id": "cp_12",
@@ -11821,7 +12036,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_12_running_out_of_fingers.jpg"
   },
   {
     "id": "cp_13",
@@ -11935,7 +12151,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_13_full_fridge_still_hungry.jpg"
   },
   {
     "id": "cp_14",
@@ -12051,7 +12268,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_14_looking_back_i_see_you.jpg"
   },
   {
     "id": "cp_15",
@@ -12165,7 +12383,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_15_honest_to_god.jpg"
   },
   {
     "id": "cp_16",
@@ -12281,7 +12500,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_16_i_said_your_name_tonight.jpg"
   },
   {
     "id": "cp_17",
@@ -12395,7 +12615,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_17_still_empty.jpg"
   },
   {
     "id": "cp_18",
@@ -12509,7 +12730,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_18_the_first_to_call_me_son.jpg"
   },
   {
     "id": "cp_19",
@@ -12627,7 +12849,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_19_on_the_hour.jpg"
   },
   {
     "id": "cp_20",
@@ -12741,7 +12964,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_20_signed_in_red.jpg"
   },
   {
     "id": "cp_21",
@@ -12855,7 +13079,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_21_who_does_that.jpg"
   },
   {
     "id": "cp_22",
@@ -12971,7 +13196,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_22_nobody_from_nowhere.jpg"
   },
   {
     "id": "cp_23",
@@ -13087,7 +13313,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_23_empty_handed_at_the_door.jpg"
   },
   {
     "id": "cp_24",
@@ -13203,7 +13430,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_24_i_know_a_guy.jpg"
   },
   {
     "id": "cp_25",
@@ -13321,7 +13549,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_25_halfway_down_the_driveway.jpg"
   },
   {
     "id": "cp_26",
@@ -13437,7 +13666,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_26_hole_in_the_roof.jpg"
   },
   {
     "id": "cp_27",
@@ -13555,7 +13785,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_27_save_me_a_chair.jpg"
   },
   {
     "id": "cp_28",
@@ -13671,7 +13902,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_28_meet_me_at_the_well.jpg"
   },
   {
     "id": "cp_29",
@@ -13790,7 +14022,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_29_set_a_table.jpg"
   },
   {
     "id": "cp_30",
@@ -13909,7 +14142,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "christianpop/covers/clean/cp_30_the_me_i_dont_post.jpg"
   },
   {
     "id": "pc_01",
@@ -14025,7 +14259,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_01_zero_turn_cowboy.jpg"
   },
   {
     "id": "pc_02",
@@ -14143,7 +14378,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_02_phone_in_the_tip_jar.jpg"
   },
   {
     "id": "pc_03",
@@ -14259,7 +14495,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_03_split_the_blame.jpg"
   },
   {
     "id": "pc_04",
@@ -14373,7 +14610,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_04_let_the_coffee_talk.jpg"
   },
   {
     "id": "pc_05",
@@ -14489,7 +14727,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_05_now_im_the_one_at_the_door.jpg"
   },
   {
     "id": "pc_06",
@@ -14603,7 +14842,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_06_no_hurry_on_a_sure_thing.jpg"
   },
   {
     "id": "pc_07",
@@ -14721,7 +14961,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_07_sweet_tea_sober.jpg"
   },
   {
     "id": "pc_08",
@@ -14839,7 +15080,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_08_porch_light_yellow.jpg"
   },
   {
     "id": "pc_09",
@@ -14955,7 +15197,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_09_scenic_route.jpg"
   },
   {
     "id": "pc_10",
@@ -15069,7 +15312,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_10_home_by_dark.jpg"
   },
   {
     "id": "pc_11",
@@ -15185,7 +15429,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_11_colorado_got_my_girl.jpg"
   },
   {
     "id": "pc_12",
@@ -15299,7 +15544,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_12_recalculating.jpg"
   },
   {
     "id": "pc_13",
@@ -15413,7 +15659,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_13_changed_every_password.jpg"
   },
   {
     "id": "pc_14",
@@ -15527,7 +15774,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_14_three_dots.jpg"
   },
   {
     "id": "pc_15",
@@ -15646,7 +15894,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_15_whats_your_favorite_now.jpg"
   },
   {
     "id": "pc_16",
@@ -15762,7 +16011,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_16_go_fish.jpg"
   },
   {
     "id": "pc_17",
@@ -15882,7 +16132,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_17_cast_iron_and_a_cold_one.jpg"
   },
   {
     "id": "pc_18",
@@ -15998,7 +16249,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_18_minivan_with_the_windows_down.jpg"
   },
   {
     "id": "pc_19",
@@ -16114,7 +16366,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_19_got_fired_on_a_friday.jpg"
   },
   {
     "id": "pc_20",
@@ -16230,7 +16483,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_20_laugh_lines_and_county_lines.jpg"
   },
   {
     "id": "pc_21",
@@ -16346,7 +16600,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_21_already_there.jpg"
   },
   {
     "id": "pc_22",
@@ -16464,7 +16719,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_22_pencil_in_the_cassette.jpg"
   },
   {
     "id": "pc_23",
@@ -16578,7 +16834,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_23_never_was_a_talker.jpg"
   },
   {
     "id": "pc_24",
@@ -16697,7 +16954,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_24_i_went_home_for_lunch.jpg"
   },
   {
     "id": "pc_25",
@@ -16813,7 +17071,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_25_blacktop_now.jpg"
   },
   {
     "id": "pc_26",
@@ -16931,7 +17190,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_26_hand_me_the_aux.jpg"
   },
   {
     "id": "pc_27",
@@ -17045,7 +17305,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_27_write_it_on_the_back.jpg"
   },
   {
     "id": "pc_28",
@@ -17164,7 +17425,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_28_better_be_a_porch_swing.jpg"
   },
   {
     "id": "pc_29",
@@ -17282,7 +17544,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_29_good_engine_bad_paint.jpg"
   },
   {
     "id": "pc_30",
@@ -17396,7 +17659,8 @@
           "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
         }
       ]
-    }
+    },
+    "cleanCover": "popcountry/covers/clean/pc_30_cross_that_bridge.jpg"
   },
   {
     "id": "pb_01",
@@ -17516,7 +17780,8 @@
       ]
     },
     "genre": "Pop",
-    "year": 2014
+    "year": 2014,
+    "cleanCover": "powerballads/covers/clean/pb_01_sit_with_me_a_while.jpg"
   },
   {
     "id": "pb_02",
@@ -17635,7 +17900,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 2014
+    "year": 2014,
+    "cleanCover": "powerballads/covers/clean/pb_02_running_on_fumes.jpg"
   },
   {
     "id": "pb_03",
@@ -17751,7 +18017,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 2015
+    "year": 2015,
+    "cleanCover": "powerballads/covers/clean/pb_03_still_got_your_number.jpg"
   },
   {
     "id": "pb_04",
@@ -17865,7 +18132,8 @@
       ]
     },
     "genre": "Arena Rock",
-    "year": 2005
+    "year": 2005,
+    "cleanCover": "powerballads/covers/clean/pb_04_leave_the_mess_come_home.jpg"
   },
   {
     "id": "pb_05",
@@ -17983,7 +18251,8 @@
       ]
     },
     "genre": "Soul",
-    "year": 2016
+    "year": 2016,
+    "cleanCover": "powerballads/covers/clean/pb_05_you_still_know_my_hand.jpg"
   },
   {
     "id": "pb_06",
@@ -18102,7 +18371,8 @@
       ]
     },
     "genre": "Pop Rock",
-    "year": 2012
+    "year": 2012,
+    "cleanCover": "powerballads/covers/clean/pb_06_tired_isnt_over.jpg"
   },
   {
     "id": "pb_07",
@@ -18220,7 +18490,8 @@
       ]
     },
     "genre": "R&B",
-    "year": 2008
+    "year": 2008,
+    "cleanCover": "powerballads/covers/clean/pb_07_the_day_you_came_through_the_door.jpg"
   },
   {
     "id": "pb_08",
@@ -18336,7 +18607,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 1984
+    "year": 1984,
+    "cleanCover": "powerballads/covers/clean/pb_08_teach_me_how_to_stay.jpg"
   },
   {
     "id": "pb_09",
@@ -18452,7 +18724,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 1983
+    "year": 1983,
+    "cleanCover": "powerballads/covers/clean/pb_09_the_night_the_power_went_out.jpg"
   },
   {
     "id": "pb_10",
@@ -18574,7 +18847,8 @@
       ]
     },
     "genre": "Country Rock",
-    "year": 2018
+    "year": 2018,
+    "cleanCover": "powerballads/covers/clean/pb_10_keep_this_one.jpg"
   },
   {
     "id": "pb_11",
@@ -18688,7 +18962,8 @@
       ]
     },
     "genre": "Hard Rock",
-    "year": 1991
+    "year": 1991,
+    "cleanCover": "powerballads/covers/clean/pb_11_march_thaw.jpg"
   },
   {
     "id": "pb_12",
@@ -18806,7 +19081,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 1991
+    "year": 1991,
+    "cleanCover": "powerballads/covers/clean/pb_12_the_list_got_short.jpg"
   },
   {
     "id": "pb_13",
@@ -18924,7 +19200,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 2013
+    "year": 2013,
+    "cleanCover": "powerballads/covers/clean/pb_13_i_was_the_weather.jpg"
   },
   {
     "id": "pb_14",
@@ -19041,7 +19318,8 @@
       ]
     },
     "genre": "Pop Rock",
-    "year": 1987
+    "year": 1987,
+    "cleanCover": "powerballads/covers/clean/pb_14_it_was_real_and_its_done.jpg"
   },
   {
     "id": "pb_15",
@@ -19155,7 +19433,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 2003
+    "year": 2003,
+    "cleanCover": "powerballads/covers/clean/pb_15_i_was_new_at_this.jpg"
   },
   {
     "id": "pb_16",
@@ -19269,7 +19548,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 1990
+    "year": 1990,
+    "cleanCover": "powerballads/covers/clean/pb_16_where_the_wall_was.jpg"
   },
   {
     "id": "pb_17",
@@ -19391,7 +19671,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 1984
+    "year": 1984,
+    "cleanCover": "powerballads/covers/clean/pb_17_amber_hour.jpg"
   },
   {
     "id": "pb_18",
@@ -19507,7 +19788,8 @@
       ]
     },
     "genre": "Arena Rock",
-    "year": 1984
+    "year": 1984,
+    "cleanCover": "powerballads/covers/clean/pb_18_right_here_was_always_it.jpg"
   },
   {
     "id": "pb_19",
@@ -19632,7 +19914,8 @@
       ]
     },
     "genre": "Soul",
-    "year": 2007
+    "year": 2007,
+    "cleanCover": "powerballads/covers/clean/pb_19_unguarded.jpg"
   },
   {
     "id": "pb_20",
@@ -19753,7 +20036,8 @@
       ]
     },
     "genre": "Pop Rock",
-    "year": 1997
+    "year": 1997,
+    "cleanCover": "powerballads/covers/clean/pb_20_whoevers_got_the_night_shift.jpg"
   },
   {
     "id": "pb_21",
@@ -19871,7 +20155,8 @@
       ]
     },
     "genre": "Arena Rock",
-    "year": 1987
+    "year": 1987,
+    "cleanCover": "powerballads/covers/clean/pb_21_i_forgot_it_felt_like_this.jpg"
   },
   {
     "id": "pb_22",
@@ -19988,7 +20273,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 1992
+    "year": 1992,
+    "cleanCover": "powerballads/covers/clean/pb_22_stay_and_see_me.jpg"
   },
   {
     "id": "pb_23",
@@ -20105,7 +20391,8 @@
       ]
     },
     "genre": "Pop Rock",
-    "year": 2004
+    "year": 2004,
+    "cleanCover": "powerballads/covers/clean/pb_23_it_stops_with_me.jpg"
   },
   {
     "id": "pb_24",
@@ -20223,7 +20510,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 1993
+    "year": 1993,
+    "cleanCover": "powerballads/covers/clean/pb_24_everything_but_the_fitted_sheet.jpg"
   },
   {
     "id": "pb_25",
@@ -20339,7 +20627,8 @@
       ]
     },
     "genre": "Arena Rock",
-    "year": 1994
+    "year": 1994,
+    "cleanCover": "powerballads/covers/clean/pb_25_past_forever.jpg"
   },
   {
     "id": "pb_26",
@@ -20457,7 +20746,8 @@
       ]
     },
     "genre": "Country",
-    "year": 1988
+    "year": 1988,
+    "cleanCover": "powerballads/covers/clean/pb_26_every_summer_has_a_sunday_night.jpg"
   },
   {
     "id": "pb_27",
@@ -20573,7 +20863,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 2003
+    "year": 2003,
+    "cleanCover": "powerballads/covers/clean/pb_27_your_coats_still_on_the_hook.jpg"
   },
   {
     "id": "pb_28",
@@ -20687,7 +20978,8 @@
       ]
     },
     "genre": "Pop Rock",
-    "year": 1996
+    "year": 1996,
+    "cleanCover": "powerballads/covers/clean/pb_28_rain_on_hot_pavement.jpg"
   },
   {
     "id": "pb_29",
@@ -20812,7 +21104,8 @@
       ]
     },
     "genre": "Rock",
-    "year": 1991
+    "year": 1991,
+    "cleanCover": "powerballads/covers/clean/pb_29_thumbtack_holes.jpg"
   },
   {
     "id": "pb_30",
@@ -20926,7 +21219,8 @@
       ]
     },
     "genre": "Arena Rock",
-    "year": 1983
+    "year": 1983,
+    "cleanCover": "powerballads/covers/clean/pb_30_room_214_yours_as_always.jpg"
   },
   {
     "id": "ps_01",
@@ -21050,7 +21344,8 @@
       ]
     },
     "genre": "Tropical House",
-    "year": 2014
+    "year": 2014,
+    "cleanCover": "poolside/covers/clean/ps_01_spf_love.jpg"
   },
   {
     "id": "ps_02",
@@ -21170,7 +21465,8 @@
       ]
     },
     "genre": "Other",
-    "year": 2013
+    "year": 2013,
+    "cleanCover": "poolside/covers/clean/ps_02_towel_on_the_chair.jpg"
   },
   {
     "id": "ps_03",
@@ -21293,7 +21589,8 @@
       ]
     },
     "genre": "Synth-Pop",
-    "year": 2008
+    "year": 2008,
+    "cleanCover": "poolside/covers/clean/ps_03_called_in_sunny.jpg"
   },
   {
     "id": "ps_04",
@@ -21415,7 +21712,8 @@
       ]
     },
     "genre": "R&B",
-    "year": 2019
+    "year": 2019,
+    "cleanCover": "poolside/covers/clean/ps_04_lazy_river.jpg"
   },
   {
     "id": "ps_05",
@@ -21533,7 +21831,8 @@
       ]
     },
     "genre": "Soul",
-    "year": 2016
+    "year": 2016,
+    "cleanCover": "poolside/covers/clean/ps_05_big_hat_energy.jpg"
   },
   {
     "id": "ps_06",
@@ -21651,7 +21950,8 @@
       ]
     },
     "genre": "House",
-    "year": 2014
+    "year": 2014,
+    "cleanCover": "poolside/covers/clean/ps_06_low_tide_company.jpg"
   },
   {
     "id": "ps_07",
@@ -21769,7 +22069,8 @@
       ]
     },
     "genre": "Country",
-    "year": 2014
+    "year": 2014,
+    "cleanCover": "poolside/covers/clean/ps_07_you_coming_in.jpg"
   },
   {
     "id": "ps_08",
@@ -21883,7 +22184,8 @@
       ]
     },
     "genre": "Tropical House",
-    "year": 2014
+    "year": 2014,
+    "cleanCover": "poolside/covers/clean/ps_08_salt_and_lime.jpg"
   },
   {
     "id": "ps_09",
@@ -22003,7 +22305,8 @@
       ]
     },
     "genre": "Funk",
-    "year": 2017
+    "year": 2017,
+    "cleanCover": "poolside/covers/clean/ps_09_nothing_on_the_calendar.jpg"
   },
   {
     "id": "ps_10",
@@ -22117,7 +22420,8 @@
       ]
     },
     "genre": "Chill House",
-    "year": 2019
+    "year": 2019,
+    "cleanCover": "poolside/covers/clean/ps_10_wyd_after_this.jpg"
   },
   {
     "id": "ps_11",
@@ -22235,7 +22539,8 @@
       ]
     },
     "genre": "Future Bass",
-    "year": 2016
+    "year": 2016,
+    "cleanCover": "poolside/covers/clean/ps_11_five_more_minutes.jpg"
   },
   {
     "id": "ps_12",
@@ -22349,7 +22654,8 @@
       ]
     },
     "genre": "House",
-    "year": 2011
+    "year": 2011,
+    "cleanCover": "poolside/covers/clean/ps_12_chasing_shade.jpg"
   },
   {
     "id": "ps_13",
@@ -22470,7 +22776,8 @@
       ]
     },
     "genre": "Afro House",
-    "year": 2024
+    "year": 2024,
+    "cleanCover": "poolside/covers/clean/ps_13_hold_still_the_lights_just_right.jpg"
   },
   {
     "id": "ps_14",
@@ -22588,7 +22895,8 @@
       ]
     },
     "genre": "Other",
-    "year": 2009
+    "year": 2009,
+    "cleanCover": "poolside/covers/clean/ps_14_before_anyones_up.jpg"
   },
   {
     "id": "ps_15",
@@ -22709,7 +23017,8 @@
       ]
     },
     "genre": "Nu-Disco",
-    "year": 2015
+    "year": 2015,
+    "cleanCover": "poolside/covers/clean/ps_15_collins_after_dark.jpg"
   },
   {
     "id": "ps_16",
@@ -22826,7 +23135,8 @@
       ]
     },
     "genre": "House",
-    "year": 2023
+    "year": 2023,
+    "cleanCover": "poolside/covers/clean/ps_16_cabana_nine.jpg"
   },
   {
     "id": "ps_17",
@@ -22942,7 +23252,8 @@
       ]
     },
     "genre": "Soul",
-    "year": 2023
+    "year": 2023,
+    "cleanCover": "poolside/covers/clean/ps_17_summer_of_the_high_dive.jpg"
   },
   {
     "id": "ps_18",
@@ -23067,7 +23378,8 @@
       ]
     },
     "genre": "Future Bass",
-    "year": 2013
+    "year": 2013,
+    "cleanCover": "poolside/covers/clean/ps_18_deep_end.jpg"
   },
   {
     "id": "ps_19",
@@ -23196,7 +23508,8 @@
       ]
     },
     "genre": "Other",
-    "year": 2015
+    "year": 2015,
+    "cleanCover": "poolside/covers/clean/ps_19_pink_at_seven.jpg"
   },
   {
     "id": "ps_20",
@@ -23314,7 +23627,8 @@
       ]
     },
     "genre": "Other",
-    "year": 2016
+    "year": 2016,
+    "cleanCover": "poolside/covers/clean/ps_20_drink_some_water.jpg"
   },
   {
     "id": "ps_21",
@@ -23428,7 +23742,8 @@
       ]
     },
     "genre": "House",
-    "year": 2021
+    "year": 2021,
+    "cleanCover": "poolside/covers/clean/ps_21_sitting_around_with_everybody.jpg"
   },
   {
     "id": "ps_22",
@@ -23556,7 +23871,8 @@
       ]
     },
     "genre": "House",
-    "year": 2019
+    "year": 2019,
+    "cleanCover": "poolside/covers/clean/ps_22_vem_pra_agua.jpg"
   },
   {
     "id": "ps_23",
@@ -23672,7 +23988,8 @@
       ]
     },
     "genre": "House",
-    "year": 2017
+    "year": 2017,
+    "cleanCover": "poolside/covers/clean/ps_23_sparkling_no_ice.jpg"
   },
   {
     "id": "ps_24",
@@ -23786,7 +24103,8 @@
       ]
     },
     "genre": "Melodic House",
-    "year": 2015
+    "year": 2015,
+    "cleanCover": "poolside/covers/clean/ps_24_swim_out_to_me.jpg"
   },
   {
     "id": "ps_25",
@@ -23904,7 +24222,8 @@
       ]
     },
     "genre": "Disco",
-    "year": 2020
+    "year": 2020,
+    "cleanCover": "poolside/covers/clean/ps_25_disco_at_noon.jpg"
   },
   {
     "id": "ps_26",
@@ -24022,7 +24341,8 @@
       ]
     },
     "genre": "Melodic House",
-    "year": 2013
+    "year": 2013,
+    "cleanCover": "poolside/covers/clean/ps_26_seawall_sax.jpg"
   },
   {
     "id": "ps_27",
@@ -24136,7 +24456,8 @@
       ]
     },
     "genre": "Downtempo",
-    "year": 1997
+    "year": 1997,
+    "cleanCover": "poolside/covers/clean/ps_27_the_waters_warm.jpg"
   },
   {
     "id": "ps_28",
@@ -24254,7 +24575,8 @@
       ]
     },
     "genre": "House",
-    "year": 2014
+    "year": 2014,
+    "cleanCover": "poolside/covers/clean/ps_28_tan_lines_dont_last.jpg"
   },
   {
     "id": "ps_29",
@@ -24368,7 +24690,8 @@
       ]
     },
     "genre": "House",
-    "year": 2010
+    "year": 2010,
+    "cleanCover": "poolside/covers/clean/ps_29_nobodys_looking.jpg"
   },
   {
     "id": "ps_30",
@@ -24489,7 +24812,8 @@
       ]
     },
     "genre": "Other",
-    "year": 2014
+    "year": 2014,
+    "cleanCover": "poolside/covers/clean/ps_30_use_your_words.jpg"
   },
   {
     "id": "ps_31",
@@ -24613,7 +24937,8 @@
       ]
     },
     "genre": "Melodic House",
-    "year": 2018
+    "year": 2018,
+    "cleanCover": "poolside/covers/clean/ps_31_palm_shadow.jpg"
   },
   {
     "id": "ps_32",
@@ -24729,7 +25054,8 @@
       ]
     },
     "genre": "House",
-    "year": 2025
+    "year": 2025,
+    "cleanCover": "poolside/covers/clean/ps_32_window_seat.jpg"
   },
   {
     "id": "ch_01",
@@ -24845,7 +25171,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 2000
+    "year": 2000,
+    "cleanCover": "choirhiphop/covers/clean/ch_01_three_voicemails.jpg"
   },
   {
     "id": "ch_02",
@@ -24965,7 +25292,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 2010
+    "year": 2010,
+    "cleanCover": "choirhiphop/covers/clean/ch_02_day_one_again.jpg"
   },
   {
     "id": "ch_03",
@@ -25083,7 +25411,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 1997
+    "year": 1997,
+    "cleanCover": "choirhiphop/covers/clean/ch_03_save_you_a_plate.jpg"
   },
   {
     "id": "ch_04",
@@ -25197,7 +25526,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 1998
+    "year": 1998,
+    "cleanCover": "choirhiphop/covers/clean/ch_04_some_of_it_moved.jpg"
   },
   {
     "id": "ch_05",
@@ -25315,7 +25645,8 @@
       ]
     },
     "genre": "R&B",
-    "year": 1995
+    "year": 1995,
+    "cleanCover": "choirhiphop/covers/clean/ch_05_dont_dive_there.jpg"
   },
   {
     "id": "ch_06",
@@ -25433,7 +25764,8 @@
       ]
     },
     "genre": "Other",
-    "year": 2003
+    "year": 2003,
+    "cleanCover": "choirhiphop/covers/clean/ch_06_they_brought_me_back.jpg"
   },
   {
     "id": "ch_07",
@@ -25551,7 +25883,8 @@
       ]
     },
     "genre": "Soul",
-    "year": 1993
+    "year": 1993,
+    "cleanCover": "choirhiphop/covers/clean/ch_07_d_u_e.jpg"
   },
   {
     "id": "ch_08",
@@ -25668,7 +26001,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 1996
+    "year": 1996,
+    "cleanCover": "choirhiphop/covers/clean/ch_08_late_but_im_coming.jpg"
   },
   {
     "id": "ch_09",
@@ -25784,7 +26118,8 @@
       ]
     },
     "genre": "Other",
-    "year": 1996
+    "year": 1996,
+    "cleanCover": "choirhiphop/covers/clean/ch_09_roll_call_at_the_gate.jpg"
   },
   {
     "id": "ch_10",
@@ -25900,7 +26235,8 @@
       ]
     },
     "genre": "Soul",
-    "year": 2004
+    "year": 2004,
+    "cleanCover": "choirhiphop/covers/clean/ch_10_monday_psalm.jpg"
   },
   {
     "id": "ch_11",
@@ -26014,7 +26350,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 1998
+    "year": 1998,
+    "cleanCover": "choirhiphop/covers/clean/ch_11_no_snow_days.jpg"
   },
   {
     "id": "ch_12",
@@ -26132,7 +26469,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 2009
+    "year": 2009,
+    "cleanCover": "choirhiphop/covers/clean/ch_12_new_name_on_the_mailbox.jpg"
   },
   {
     "id": "ch_13",
@@ -26253,7 +26591,8 @@
       ]
     },
     "genre": "Singer-Songwriter",
-    "year": 2004
+    "year": 2004,
+    "cleanCover": "choirhiphop/covers/clean/ch_13_sing_it_for_the_corner.jpg"
   },
   {
     "id": "ch_14",
@@ -26369,7 +26708,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 1996
+    "year": 1996,
+    "cleanCover": "choirhiphop/covers/clean/ch_14_keys_to_the_city.jpg"
   },
   {
     "id": "ch_15",
@@ -26483,7 +26823,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 2014
+    "year": 2014,
+    "cleanCover": "choirhiphop/covers/clean/ch_15_lay_the_next_stone.jpg"
   },
   {
     "id": "ch_16",
@@ -26603,7 +26944,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 1991
+    "year": 1991,
+    "cleanCover": "choirhiphop/covers/clean/ch_16_the_ceiling_knows.jpg"
   },
   {
     "id": "ch_17",
@@ -26721,7 +27063,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 1999
+    "year": 1999,
+    "cleanCover": "choirhiphop/covers/clean/ch_17_text_when_you_land.jpg"
   },
   {
     "id": "ch_18",
@@ -26842,7 +27185,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 1997
+    "year": 1997,
+    "cleanCover": "choirhiphop/covers/clean/ch_18_hold_the_door.jpg"
   },
   {
     "id": "ch_19",
@@ -26956,7 +27300,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 1997
+    "year": 1997,
+    "cleanCover": "choirhiphop/covers/clean/ch_19_it_wont_always_be_tonight.jpg"
   },
   {
     "id": "ch_20",
@@ -27070,7 +27415,8 @@
       ]
     },
     "genre": "Hip-Hop",
-    "year": 1999
+    "year": 1999,
+    "cleanCover": "choirhiphop/covers/clean/ch_20_spare_room.jpg"
   },
   {
     "id": "de_01",
@@ -27187,7 +27533,8 @@
       ]
     },
     "genre": "Darkwave",
-    "year": 2014
+    "year": 2014,
+    "cleanCover": "darkelectro/covers/clean/de_01_blue_light_hours.jpg"
   },
   {
     "id": "de_02",
@@ -27315,7 +27662,8 @@
       ]
     },
     "genre": "Techno",
-    "year": 1997
+    "year": 1997,
+    "cleanCover": "darkelectro/covers/clean/de_02_ich_stimme_zu.jpg"
   },
   {
     "id": "de_03",
@@ -27433,7 +27781,8 @@
       ]
     },
     "genre": "Synth-Pop",
-    "year": 1983
+    "year": 1983,
+    "cleanCover": "darkelectro/covers/clean/de_03_seen_at_9_41.jpg"
   },
   {
     "id": "de_04",
@@ -27547,7 +27896,8 @@
       ]
     },
     "genre": "Synthwave",
-    "year": 2010
+    "year": 2010,
+    "cleanCover": "darkelectro/covers/clean/de_04_night_mode.jpg"
   },
   {
     "id": "de_05",
@@ -27666,7 +28016,8 @@
       ]
     },
     "genre": "French House",
-    "year": 1997
+    "year": 1997,
+    "cleanCover": "darkelectro/covers/clean/de_05_night_shift_day_shift.jpg"
   },
   {
     "id": "de_06",
@@ -27785,7 +28136,8 @@
       ]
     },
     "genre": "Darksynth",
-    "year": 1989
+    "year": 1989,
+    "cleanCover": "darkelectro/covers/clean/de_06_your_call_is_important.jpg"
   },
   {
     "id": "de_07",
@@ -27908,7 +28260,8 @@
       ]
     },
     "genre": "Other",
-    "year": 1996
+    "year": 1996,
+    "cleanCover": "darkelectro/covers/clean/de_07_the_verified.jpg"
   },
   {
     "id": "de_08",
@@ -28028,7 +28381,8 @@
       ]
     },
     "genre": "Funk",
-    "year": 1994
+    "year": 1994,
+    "cleanCover": "darkelectro/covers/clean/de_08_root_access.jpg"
   },
   {
     "id": "de_09",
@@ -28144,7 +28498,8 @@
       ]
     },
     "genre": "Other",
-    "year": 1979
+    "year": 1979,
+    "cleanCover": "darkelectro/covers/clean/de_09_noise_cancelling.jpg"
   },
   {
     "id": "de_10",
@@ -28264,7 +28619,8 @@
       ]
     },
     "genre": "Other",
-    "year": 1996
+    "year": 1996,
+    "cleanCover": "darkelectro/covers/clean/de_10_prove_youre_human.jpg"
   },
   {
     "id": "de_11",
@@ -28378,7 +28734,8 @@
       ]
     },
     "genre": "Other",
-    "year": 1976
+    "year": 1976,
+    "cleanCover": "darkelectro/covers/clean/de_11_ozone.jpg"
   },
   {
     "id": "de_12",
@@ -28496,7 +28853,8 @@
       ]
     },
     "genre": "Pop",
-    "year": 1978
+    "year": 1978,
+    "cleanCover": "darkelectro/covers/clean/de_12_do_not_turn_off.jpg"
   },
   {
     "id": "de_13",
@@ -28618,7 +28976,8 @@
       ]
     },
     "genre": "EBM",
-    "year": 1988
+    "year": 1988,
+    "cleanCover": "darkelectro/covers/clean/de_13_procedure.jpg"
   },
   {
     "id": "de_14",
@@ -28742,7 +29101,8 @@
       ]
     },
     "genre": "Pop",
-    "year": 2012
+    "year": 2012,
+    "cleanCover": "darkelectro/covers/clean/de_14_antifreeze.jpg"
   },
   {
     "id": "de_15",
@@ -28869,7 +29229,8 @@
       ]
     },
     "genre": "Ambient",
-    "year": 2009
+    "year": 2009,
+    "cleanCover": "darkelectro/covers/clean/de_15_feed.jpg"
   },
   {
     "id": "de_16",
@@ -28987,7 +29348,8 @@
       ]
     },
     "genre": "Funk",
-    "year": 2007
+    "year": 2007,
+    "cleanCover": "darkelectro/covers/clean/de_16_opening_credits.jpg"
   },
   {
     "id": "de_17",
@@ -29105,7 +29467,8 @@
       ]
     },
     "genre": "Synth-Pop",
-    "year": 2002
+    "year": 2002,
+    "cleanCover": "darkelectro/covers/clean/de_17_twenty_four_hours.jpg"
   },
   {
     "id": "de_18",
@@ -29236,7 +29599,8 @@
       ]
     },
     "genre": "EBM",
-    "year": 1981
+    "year": 1981,
+    "cleanCover": "darkelectro/covers/clean/de_18_tanz_den_montag.jpg"
   },
   {
     "id": "de_19",
@@ -29352,7 +29716,8 @@
       ]
     },
     "genre": "Other",
-    "year": 1997
+    "year": 1997,
+    "cleanCover": "darkelectro/covers/clean/de_19_brand_awareness.jpg"
   },
   {
     "id": "de_20",
@@ -29466,7 +29831,8 @@
       ]
     },
     "genre": "EBM",
-    "year": 2006
+    "year": 2006,
+    "cleanCover": "darkelectro/covers/clean/de_20_lanyard_parade.jpg"
   },
   {
     "id": "de_21",
@@ -29582,7 +29948,8 @@
       ]
     },
     "genre": "Darksynth",
-    "year": 1984
+    "year": 1984,
+    "cleanCover": "darkelectro/covers/clean/de_21_still_in_black.jpg"
   },
   {
     "id": "de_22",
@@ -29707,7 +30074,8 @@
       ]
     },
     "genre": "EBM",
-    "year": 1987
+    "year": 1987,
+    "cleanCover": "darkelectro/covers/clean/de_22_reps.jpg"
   },
   {
     "id": "de_23",
@@ -29829,7 +30197,8 @@
       ]
     },
     "genre": "Darksynth",
-    "year": 2015
+    "year": 2015,
+    "cleanCover": "darkelectro/covers/clean/de_23_last_bus_no_brakes.jpg"
   },
   {
     "id": "de_24",
@@ -29947,7 +30316,8 @@
       ]
     },
     "genre": "Dark Electro",
-    "year": 2014
+    "year": 2014,
+    "cleanCover": "darkelectro/covers/clean/de_24_motion_sensor.jpg"
   },
   {
     "id": "de_25",
@@ -30061,7 +30431,8 @@
       ]
     },
     "genre": "Techno",
-    "year": 2013
+    "year": 2013,
+    "cleanCover": "darkelectro/covers/clean/de_25_convoyeur.jpg"
   },
   {
     "id": "de_26",
@@ -30182,7 +30553,8 @@
       ]
     },
     "genre": "Darksynth",
-    "year": 2014
+    "year": 2014,
+    "cleanCover": "darkelectro/covers/clean/de_26_arcade_after_hours.jpg"
   },
   {
     "id": "de_27",
@@ -30298,7 +30670,8 @@
       ]
     },
     "genre": "Other",
-    "year": 2007
+    "year": 2007,
+    "cleanCover": "darkelectro/covers/clean/de_27_signal_for_the_sleepless.jpg"
   },
   {
     "id": "de_28",
@@ -30419,7 +30792,8 @@
       ]
     },
     "genre": "Other",
-    "year": 1985
+    "year": 1985,
+    "cleanCover": "darkelectro/covers/clean/de_28_autocorrect_me.jpg"
   },
   {
     "id": "de_29",
@@ -30533,7 +30907,8 @@
       ]
     },
     "genre": "Cyberpunk",
-    "year": 1992
+    "year": 1992,
+    "cleanCover": "darkelectro/covers/clean/de_29_overnight_update.jpg"
   },
   {
     "id": "de_30",
@@ -30651,7 +31026,8 @@
       ]
     },
     "genre": "Aggrotech",
-    "year": 2005
+    "year": 2005,
+    "cleanCover": "darkelectro/covers/clean/de_30_void_your_warranty.jpg"
   },
   {
     "id": "pd_01",

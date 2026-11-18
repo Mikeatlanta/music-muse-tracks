@@ -40,5 +40,7 @@
     "iron_directive_rec.json"
   ],
   "genre": "EBM",
-  "year": 1990
+  "year": 1990,
+  "cover": "media/covers/iron_directive.jpg",
+  "cleanCover": "media/covers/clean/iron_directive.jpg"
 }

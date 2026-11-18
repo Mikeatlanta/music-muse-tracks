@@ -40,5 +40,7 @@
     "red_and_blue_synth_rec.json"
   ],
   "genre": "Synthwave",
-  "year": 1985
+  "year": 1985,
+  "cover": "media/covers/red_and_blue_synth.jpg",
+  "cleanCover": "media/covers/clean/red_and_blue_synth.jpg"
 }

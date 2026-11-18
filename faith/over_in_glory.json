@@ -40,5 +40,7 @@
     "faith/oig_rec.json"
   ],
   "genre": "Southern Gospel",
-  "year": 2026
+  "year": 2026,
+  "cover": "faith/covers/over_in_glory.jpg",
+  "cleanCover": "faith/covers/clean/over_in_glory.jpg"
 }

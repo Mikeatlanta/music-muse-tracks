@@ -40,5 +40,7 @@
     "dark/rec_5.json"
   ],
   "genre": "Synthwave",
-  "year": 1985
+  "year": 1985,
+  "cover": "dark/covers/dark_06_midnight_interceptor.jpg",
+  "cleanCover": "dark/covers/clean/dark_06_midnight_interceptor.jpg"
 }

@@ -40,5 +40,7 @@
     "dark/dark_15_refuse_the_machine_rec.json"
   ],
   "genre": "EBM",
-  "year": 2026
+  "year": 2026,
+  "cover": "dark/covers/dark_15_refuse_the_machine.jpg",
+  "cleanCover": "dark/covers/clean/dark_15_refuse_the_machine.jpg"
 }

@@ -40,5 +40,7 @@
     "dark/dark_19_counterfeit_saviors_rec.json"
   ],
   "genre": "Aggrotech",
-  "year": 2026
+  "year": 2026,
+  "cover": "dark/covers/dark_19_counterfeit_saviors.jpg",
+  "cleanCover": "dark/covers/clean/dark_19_counterfeit_saviors.jpg"
 }

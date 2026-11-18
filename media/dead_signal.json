@@ -40,5 +40,7 @@
     "dead_signal_rec.json"
   ],
   "genre": "EBM",
-  "year": 1990
+  "year": 1990,
+  "cover": "media/covers/dead_signal.jpg",
+  "cleanCover": "media/covers/clean/dead_signal.jpg"
 }

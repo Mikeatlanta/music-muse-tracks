@@ -40,5 +40,7 @@
     "dark/dark_21_lantern_under_concrete_rec.json"
   ],
   "genre": "Darkwave",
-  "year": 2026
+  "year": 2026,
+  "cover": "dark/covers/dark_21_lantern_under_concrete.jpg",
+  "cleanCover": "dark/covers/clean/dark_21_lantern_under_concrete.jpg"
 }

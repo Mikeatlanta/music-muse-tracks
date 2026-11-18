@@ -40,5 +40,7 @@
     "faith/shm_rec.json"
   ],
   "genre": "Contemporary Gospel",
-  "year": 2026
+  "year": 2026,
+  "cover": "faith/covers/still_holding_me.jpg",
+  "cleanCover": "faith/covers/clean/still_holding_me.jpg"
 }

@@ -115,5 +115,6 @@
         "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
       }
     ]
-  }
+  },
+  "cleanCover": "popcountry/covers/clean/pc_24_i_went_home_for_lunch.jpg"
 }

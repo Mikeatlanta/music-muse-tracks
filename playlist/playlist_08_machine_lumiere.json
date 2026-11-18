@@ -40,5 +40,7 @@
     "playlist/rec_7.json"
   ],
   "genre": "Techno",
-  "year": 2026
+  "year": 2026,
+  "cover": "playlist/covers/playlist_08_machine_lumiere.jpg",
+  "cleanCover": "playlist/covers/clean/playlist_08_machine_lumiere.jpg"
 }

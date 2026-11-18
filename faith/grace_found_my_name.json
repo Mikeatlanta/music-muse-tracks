@@ -40,5 +40,7 @@
     "faith/grace_found_my_name_rec.json"
   ],
   "genre": "Contemporary Gospel",
-  "year": 2026
+  "year": 2026,
+  "cover": "faith/covers/grace_found_my_name.jpg",
+  "cleanCover": "faith/covers/clean/grace_found_my_name.jpg"
 }

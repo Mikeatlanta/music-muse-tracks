@@ -40,5 +40,7 @@
     "faith/morning_will_come_rec.json"
   ],
   "genre": "Contemporary Gospel",
-  "year": 2026
+  "year": 2026,
+  "cover": "faith/covers/morning_will_come.jpg",
+  "cleanCover": "faith/covers/clean/morning_will_come.jpg"
 }

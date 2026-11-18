@@ -42,5 +42,7 @@
   ],
   "basedOn": "faith/checkmate_at_calvary",
   "genre": "EBM",
-  "year": 1992
+  "year": 1992,
+  "cover": "faith/covers/it_is_written.jpg",
+  "cleanCover": "faith/covers/clean/it_is_written.jpg"
 }

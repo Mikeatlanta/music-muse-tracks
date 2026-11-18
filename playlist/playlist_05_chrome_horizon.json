@@ -40,5 +40,7 @@
     "playlist/rec_4.json"
   ],
   "genre": "Synthwave",
-  "year": 2026
+  "year": 2026,
+  "cover": "playlist/covers/playlist_05_chrome_horizon.jpg",
+  "cleanCover": "playlist/covers/clean/playlist_05_chrome_horizon.jpg"
 }

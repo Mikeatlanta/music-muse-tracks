@@ -40,5 +40,7 @@
     "rec.json"
   ],
   "genre": "EDM",
-  "year": 2026
+  "year": 2026,
+  "cover": "media/covers/mad_at_the_machine.jpg",
+  "cleanCover": "media/covers/clean/mad_at_the_machine.jpg"
 }

@@ -40,5 +40,7 @@
     "dark/rec_9.json"
   ],
   "genre": "Dark Electro",
-  "year": 2026
+  "year": 2026,
+  "cover": "dark/covers/dark_10_nightshift_paris.jpg",
+  "cleanCover": "dark/covers/clean/dark_10_nightshift_paris.jpg"
 }

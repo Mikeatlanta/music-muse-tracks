@@ -40,5 +40,7 @@
     "dark/rec_7.json"
   ],
   "genre": "French House",
-  "year": 2026
+  "year": 2026,
+  "cover": "dark/covers/dark_08_robot_romance.jpg",
+  "cleanCover": "dark/covers/clean/dark_08_robot_romance.jpg"
 }

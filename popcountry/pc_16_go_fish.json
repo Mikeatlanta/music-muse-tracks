@@ -5,7 +5,7 @@
   "album": "Pop-Country Reimagined",
   "track": 16,
   "slug": "pc_16_go_fish",
-  "inspiredBy": "TEXAS HOLD 'EM (Beyonc\u00e9, 2024)",
+  "inspiredBy": "TEXAS HOLD 'EM (Beyoncé, 2024)",
   "leadVoice": "Female, agile and teasing, sliding between singing and rhythmic speech, with stacked harmonies. A mixed group shouts the answers. The bridge is close and nearly whispered.",
   "model": "V6",
   "style": "2024 country-pop dance stomp, agile teasing female vocal sliding between singing and rhythmic speech with stacked harmonies, mixed group shouting call-and-response answers, nearly whispered bridge, 110 BPM, D major, bright bouncing stomp, plucked banjo riff, foot stomps and handclaps in place of a drum kit, whistled melody, upright bass, fiddle drones, acoustic guitar, deep kick in the choruses, dry percussive mix, playful, flirtatious, confident",
@@ -112,5 +112,6 @@
         "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
       }
     ]
-  }
+  },
+  "cleanCover": "popcountry/covers/clean/pc_16_go_fish.jpg"
 }

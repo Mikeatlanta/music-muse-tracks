@@ -40,5 +40,7 @@
     "sacred/rec_9.json"
   ],
   "genre": "Trance",
-  "year": 1995
+  "year": 1995,
+  "cover": "sacred/covers/sacred_10_wings_of_eternity.jpg",
+  "cleanCover": "sacred/covers/clean/sacred_10_wings_of_eternity.jpg"
 }

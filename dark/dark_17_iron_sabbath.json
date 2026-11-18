@@ -40,5 +40,7 @@
     "dark/dark_17_iron_sabbath_rec.json"
   ],
   "genre": "EBM",
-  "year": 2026
+  "year": 2026,
+  "cover": "dark/covers/dark_17_iron_sabbath.jpg",
+  "cleanCover": "dark/covers/clean/dark_17_iron_sabbath.jpg"
 }

@@ -40,5 +40,7 @@
     "dark/dark_23_ghost_protocol_zero_rec.json"
   ],
   "genre": "Cyberpunk",
-  "year": 2026
+  "year": 2026,
+  "cover": "dark/covers/dark_23_ghost_protocol_zero.jpg",
+  "cleanCover": "dark/covers/clean/dark_23_ghost_protocol_zero.jpg"
 }

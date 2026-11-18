@@ -40,5 +40,7 @@
     "playlist/rec_2.json"
   ],
   "genre": "Afro House",
-  "year": 2026
+  "year": 2026,
+  "cover": "playlist/covers/playlist_03_amber_caravan.jpg",
+  "cleanCover": "playlist/covers/clean/playlist_03_amber_caravan.jpg"
 }

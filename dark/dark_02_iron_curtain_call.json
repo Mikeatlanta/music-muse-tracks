@@ -40,5 +40,7 @@
     "dark/rec_1.json"
   ],
   "genre": "Dark Electro",
-  "year": 2026
+  "year": 2026,
+  "cover": "dark/covers/dark_02_iron_curtain_call.jpg",
+  "cleanCover": "dark/covers/clean/dark_02_iron_curtain_call.jpg"
 }

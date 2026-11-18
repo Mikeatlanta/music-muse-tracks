@@ -40,5 +40,7 @@
     "dark/dark_11_iron_psalm_rec.json"
   ],
   "genre": "EBM",
-  "year": 1992
+  "year": 1992,
+  "cover": "dark/covers/dark_11_iron_psalm.jpg",
+  "cleanCover": "dark/covers/clean/dark_11_iron_psalm.jpg"
 }

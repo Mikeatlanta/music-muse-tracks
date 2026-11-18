@@ -40,5 +40,7 @@
     "sacred/rec_3.json"
   ],
   "genre": "Trance",
-  "year": 2026
+  "year": 2026,
+  "cover": "sacred/covers/sacred_04_drums_of_the_red_earth.jpg",
+  "cleanCover": "sacred/covers/clean/sacred_04_drums_of_the_red_earth.jpg"
 }

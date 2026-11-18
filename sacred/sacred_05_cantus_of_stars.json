@@ -40,5 +40,7 @@
     "sacred/rec_4.json"
   ],
   "genre": "Trance",
-  "year": 2026
+  "year": 2026,
+  "cover": "sacred/covers/sacred_05_cantus_of_stars.jpg",
+  "cleanCover": "sacred/covers/clean/sacred_05_cantus_of_stars.jpg"
 }

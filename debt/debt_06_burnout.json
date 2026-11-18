@@ -42,5 +42,7 @@
   "album": "Minimum Payment",
   "track": 6,
   "genre": "Industrial Techno",
-  "year": 2026
+  "year": 2026,
+  "cover": "debt/covers/debt_06_burnout.jpg",
+  "cleanCover": "debt/covers/clean/debt_06_burnout.jpg"
 }

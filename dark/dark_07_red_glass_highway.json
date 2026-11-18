@@ -40,5 +40,7 @@
     "dark/rec_6.json"
   ],
   "genre": "Synthwave",
-  "year": 1985
+  "year": 1985,
+  "cover": "dark/covers/dark_07_red_glass_highway.jpg",
+  "cleanCover": "dark/covers/clean/dark_07_red_glass_highway.jpg"
 }

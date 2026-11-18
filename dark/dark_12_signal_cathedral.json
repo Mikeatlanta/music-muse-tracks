@@ -40,5 +40,7 @@
     "dark/dark_12_signal_cathedral_rec.json"
   ],
   "genre": "EBM",
-  "year": 1992
+  "year": 1992,
+  "cover": "dark/covers/dark_12_signal_cathedral.jpg",
+  "cleanCover": "dark/covers/clean/dark_12_signal_cathedral.jpg"
 }

@@ -40,5 +40,7 @@
     "playlist/rec_8.json"
   ],
   "genre": "Melodic House",
-  "year": 2026
+  "year": 2026,
+  "cover": "playlist/covers/playlist_09_paper_moons.jpg",
+  "cleanCover": "playlist/covers/clean/playlist_09_paper_moons.jpg"
 }

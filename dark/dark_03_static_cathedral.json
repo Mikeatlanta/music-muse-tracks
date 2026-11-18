@@ -40,5 +40,7 @@
     "dark/rec_2.json"
   ],
   "genre": "Dark Electro",
-  "year": 2026
+  "year": 2026,
+  "cover": "dark/covers/dark_03_static_cathedral.jpg",
+  "cleanCover": "dark/covers/clean/dark_03_static_cathedral.jpg"
 }

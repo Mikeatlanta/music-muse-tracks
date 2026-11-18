@@ -115,5 +115,6 @@
         "genderCheck": "not determinable: vocal pitch estimates overlap between the high male tenors and female leads in this pack; requested gender set via vocalGender + style + exclude"
       }
     ]
-  }
+  },
+  "cleanCover": "popcountry/covers/clean/pc_28_better_be_a_porch_swing.jpg"
 }

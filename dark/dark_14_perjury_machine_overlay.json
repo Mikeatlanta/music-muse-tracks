@@ -41,5 +41,7 @@
   ],
   "versionOf": "dark_13_perjury_machine",
   "genre": "EBM",
-  "year": 1992
+  "year": 1992,
+  "cover": "dark/covers/dark_14_perjury_machine_overlay.jpg",
+  "cleanCover": "dark/covers/clean/dark_14_perjury_machine_overlay.jpg"
 }

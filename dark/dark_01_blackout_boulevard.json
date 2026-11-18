@@ -40,5 +40,7 @@
     "dark/rec_0.json"
   ],
   "genre": "Dark Electro",
-  "year": 2026
+  "year": 2026,
+  "cover": "dark/covers/dark_01_blackout_boulevard.jpg",
+  "cleanCover": "dark/covers/clean/dark_01_blackout_boulevard.jpg"
 }

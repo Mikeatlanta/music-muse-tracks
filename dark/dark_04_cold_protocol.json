@@ -40,5 +40,7 @@
     "dark/rec_3.json"
   ],
   "genre": "EBM",
-  "year": 1988
+  "year": 1988,
+  "cover": "dark/covers/dark_04_cold_protocol.jpg",
+  "cleanCover": "dark/covers/clean/dark_04_cold_protocol.jpg"
 }

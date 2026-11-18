@@ -40,5 +40,7 @@
     "lumen_silentii_rec.json"
   ],
   "genre": "New Age",
-  "year": 1992
+  "year": 1992,
+  "cover": "media/covers/lumen_silentii.jpg",
+  "cleanCover": "media/covers/clean/lumen_silentii.jpg"
 }

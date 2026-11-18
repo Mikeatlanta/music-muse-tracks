@@ -40,5 +40,7 @@
     "dark/rec_8.json"
   ],
   "genre": "Funk",
-  "year": 2026
+  "year": 2026,
+  "cover": "dark/covers/dark_09_chrome_funk_machine.jpg",
+  "cleanCover": "dark/covers/clean/dark_09_chrome_funk_machine.jpg"
 }

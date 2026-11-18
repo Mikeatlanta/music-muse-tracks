@@ -40,5 +40,7 @@
     "sacred/rec_0.json"
   ],
   "genre": "New Age",
-  "year": 1992
+  "year": 1992,
+  "cover": "sacred/covers/sacred_01_veil_of_sanctum.jpg",
+  "cleanCover": "sacred/covers/clean/sacred_01_veil_of_sanctum.jpg"
 }

@@ -40,5 +40,7 @@
     "red_and_blue_rec.json"
   ],
   "genre": "EDM",
-  "year": 2026
+  "year": 2026,
+  "cover": "media/covers/red_and_blue.jpg",
+  "cleanCover": "media/covers/clean/red_and_blue.jpg"
 }

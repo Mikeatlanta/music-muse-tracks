@@ -40,5 +40,7 @@
     "playlist/rec_0.json"
   ],
   "genre": "Progressive House",
-  "year": 2026
+  "year": 2026,
+  "cover": "playlist/covers/playlist_01_brighter_than_gold.jpg",
+  "cleanCover": "playlist/covers/clean/playlist_01_brighter_than_gold.jpg"
 }

@@ -40,5 +40,7 @@
     "playlist/rec_3.json"
   ],
   "genre": "Italo Disco",
-  "year": 1985
+  "year": 1985,
+  "cover": "playlist/covers/playlist_04_velvet_telephone.jpg",
+  "cleanCover": "playlist/covers/clean/playlist_04_velvet_telephone.jpg"
 }

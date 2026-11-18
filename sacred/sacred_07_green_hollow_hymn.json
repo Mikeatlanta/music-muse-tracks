@@ -40,5 +40,7 @@
     "sacred/rec_6.json"
   ],
   "genre": "New Age",
-  "year": 2026
+  "year": 2026,
+  "cover": "sacred/covers/sacred_07_green_hollow_hymn.jpg",
+  "cleanCover": "sacred/covers/clean/sacred_07_green_hollow_hymn.jpg"
 }

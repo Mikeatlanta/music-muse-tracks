@@ -42,5 +42,7 @@
   "album": "Minimum Payment",
   "track": 9,
   "genre": "Industrial Techno",
-  "year": 2026
+  "year": 2026,
+  "cover": "debt/covers/debt_09_quiet_riot.jpg",
+  "cleanCover": "debt/covers/clean/debt_09_quiet_riot.jpg"
 }
